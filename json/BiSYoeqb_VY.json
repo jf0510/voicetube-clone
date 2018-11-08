@@ -1,0 +1,530 @@
+[
+    {
+        "index": 1,
+        "start_time": 7294,
+        "end_time": 9983,
+        "text": "Consider the classic white t-shirt."
+    },
+    {
+        "index": 2,
+        "start_time": 9983,
+        "end_time": 14194,
+        "text": "Annually, we sell and buy\ntwo billion t-shirts globally,"
+    },
+    {
+        "index": 3,
+        "start_time": 14194,
+        "end_time": 17483,
+        "text": "making it one of the most common\ngarments in the world."
+    },
+    {
+        "index": 4,
+        "start_time": 17483,
+        "end_time": 20874,
+        "text": "But how and where is the average\nt-shirt made,"
+    },
+    {
+        "index": 5,
+        "start_time": 20874,
+        "end_time": 24516,
+        "text": "and what&#39;s its environmental impact?"
+    },
+    {
+        "index": 6,
+        "start_time": 24516,
+        "end_time": 26405,
+        "text": "Clothing items can vary a lot,"
+    },
+    {
+        "index": 7,
+        "start_time": 26405,
+        "end_time": 31605,
+        "text": "but a typical t-shirt begins its life\non a farm in America, China, or India"
+    },
+    {
+        "index": 8,
+        "start_time": 31605,
+        "end_time": 38901,
+        "text": "where cotton seeds are sown, irrigated and\ngrown for the fluffy bolls they produce."
+    },
+    {
+        "index": 9,
+        "start_time": 38901,
+        "end_time": 42740,
+        "text": "Self-driving machines carefully harvest\nthese puffs,"
+    },
+    {
+        "index": 10,
+        "start_time": 42740,
+        "end_time": 47425,
+        "text": "an industrial cotton gin mechanically\nseparates the fluffy bolls from the seeds,"
+    },
+    {
+        "index": 11,
+        "start_time": 47425,
+        "end_time": 52145,
+        "text": "and the cotton lint is pressed \ninto 225-kilogram bales."
+    },
+    {
+        "index": 12,
+        "start_time": 52145,
+        "end_time": 56857,
+        "text": "The cotton plants require a huge quantity\nof water and pesticides."
+    },
+    {
+        "index": 13,
+        "start_time": 56857,
+        "end_time": 61596,
+        "text": "2,700 liters of water are needed to produce\nthe average t-shirt,"
+    },
+    {
+        "index": 14,
+        "start_time": 61596,
+        "end_time": 65166,
+        "text": "enough to fill more than 30 bathtubs."
+    },
+    {
+        "index": 15,
+        "start_time": 65166,
+        "end_time": 68487,
+        "text": "Meanwhile, cotton uses more insecticides\nand pesticides"
+    },
+    {
+        "index": 16,
+        "start_time": 68487,
+        "end_time": 71407,
+        "text": "than any other crop in the world."
+    },
+    {
+        "index": 17,
+        "start_time": 71407,
+        "end_time": 73646,
+        "text": "These pollutants can be carcinogenic,"
+    },
+    {
+        "index": 18,
+        "start_time": 73646,
+        "end_time": 75890,
+        "text": "harm the health of field workers,"
+    },
+    {
+        "index": 19,
+        "start_time": 75890,
+        "end_time": 79487,
+        "text": "and damage surrounding ecosystems."
+    },
+    {
+        "index": 20,
+        "start_time": 79487,
+        "end_time": 84356,
+        "text": "Some t-shirts are made of organic cotton\ngrown without pesticides and insecticides,"
+    },
+    {
+        "index": 21,
+        "start_time": 84356,
+        "end_time": 87577,
+        "text": "but organic cotton makes up less than 1%"
+    },
+    {
+        "index": 22,
+        "start_time": 87577,
+        "end_time": 93947,
+        "text": "of the 22.7 million metric tons \nof cotton produced worldwide."
+    },
+    {
+        "index": 23,
+        "start_time": 93947,
+        "end_time": 96029,
+        "text": "Once the cotton bales leave the farm,"
+    },
+    {
+        "index": 24,
+        "start_time": 96029,
+        "end_time": 99078,
+        "text": "textile mills ship them\nto a spinning facility,"
+    },
+    {
+        "index": 25,
+        "start_time": 99078,
+        "end_time": 101689,
+        "text": "usually in China or India,"
+    },
+    {
+        "index": 26,
+        "start_time": 101689,
+        "end_time": 104417,
+        "text": "where high-tech machines blend,"
+    },
+    {
+        "index": 27,
+        "start_time": 104417,
+        "end_time": 105739,
+        "text": "card,"
+    },
+    {
+        "index": 28,
+        "start_time": 105739,
+        "end_time": 107088,
+        "text": "comb,"
+    },
+    {
+        "index": 29,
+        "start_time": 107088,
+        "end_time": 108459,
+        "text": "pull,"
+    },
+    {
+        "index": 30,
+        "start_time": 108459,
+        "end_time": 109979,
+        "text": "stretch,"
+    },
+    {
+        "index": 31,
+        "start_time": 109979,
+        "end_time": 115838,
+        "text": "and, finally, twist the cotton into\nsnowy ropes of yarn called slivers."
+    },
+    {
+        "index": 32,
+        "start_time": 115838,
+        "end_time": 117630,
+        "text": "Then, yarns are sent to the mill,"
+    },
+    {
+        "index": 33,
+        "start_time": 117630,
+        "end_time": 119799,
+        "text": "where huge circular knitting machines"
+    },
+    {
+        "index": 34,
+        "start_time": 119799,
+        "end_time": 122979,
+        "text": "weave them into sheets \nof rough grayish fabric"
+    },
+    {
+        "index": 35,
+        "start_time": 122979,
+        "end_time": 128259,
+        "text": "treated with heat and chemicals\nuntil they turn soft and white."
+    },
+    {
+        "index": 36,
+        "start_time": 128259,
+        "end_time": 132569,
+        "text": "Here, the fabric is dipped into\ncommercial bleaches and azo dyes,"
+    },
+    {
+        "index": 37,
+        "start_time": 132569,
+        "end_time": 137060,
+        "text": "which make up the vivid coloring\nin about 70% of textiles."
+    },
+    {
+        "index": 38,
+        "start_time": 137060,
+        "end_time": 140730,
+        "text": "Unfortunately, some of these contain\ncancer-causing cadmium,"
+    },
+    {
+        "index": 39,
+        "start_time": 140730,
+        "end_time": 141479,
+        "text": "lead,"
+    },
+    {
+        "index": 40,
+        "start_time": 141479,
+        "end_time": 142300,
+        "text": "chromium,"
+    },
+    {
+        "index": 41,
+        "start_time": 142300,
+        "end_time": 144211,
+        "text": "and mercury."
+    },
+    {
+        "index": 42,
+        "start_time": 144211,
+        "end_time": 148211,
+        "text": "Other harmful compounds and chemicals\ncan cause widespread contamination"
+    },
+    {
+        "index": 43,
+        "start_time": 148211,
+        "end_time": 153520,
+        "text": "when released as toxic waste water\nin rivers and oceans."
+    },
+    {
+        "index": 44,
+        "start_time": 153520,
+        "end_time": 156062,
+        "text": "Technologies are now so advanced\nin some countries"
+    },
+    {
+        "index": 45,
+        "start_time": 156062,
+        "end_time": 158711,
+        "text": "that the entire process of growing\nand producing fabric"
+    },
+    {
+        "index": 46,
+        "start_time": 158711,
+        "end_time": 161263,
+        "text": "barely touches a human hand."
+    },
+    {
+        "index": 47,
+        "start_time": 161263,
+        "end_time": 163974,
+        "text": "But only up until this point."
+    },
+    {
+        "index": 48,
+        "start_time": 163974,
+        "end_time": 166422,
+        "text": "After the finished cloth \ntravels to factories,"
+    },
+    {
+        "index": 49,
+        "start_time": 166422,
+        "end_time": 170412,
+        "text": "often in Bangladesh, China, India,\nor Turkey,"
+    },
+    {
+        "index": 50,
+        "start_time": 170412,
+        "end_time": 175071,
+        "text": "human labor is still required \nto stitch them up into t-shirts,"
+    },
+    {
+        "index": 51,
+        "start_time": 175071,
+        "end_time": 178192,
+        "text": "intricate work that \nmachines just can&#39;t do."
+    },
+    {
+        "index": 52,
+        "start_time": 178192,
+        "end_time": 180841,
+        "text": "This process has its own problems."
+    },
+    {
+        "index": 53,
+        "start_time": 180841,
+        "end_time": 182402,
+        "text": "Bangladesh, for example,"
+    },
+    {
+        "index": 54,
+        "start_time": 182402,
+        "end_time": 186441,
+        "text": "which has surpassed China as the world&#39;s\nbiggest exporter of cotton t-shirts,"
+    },
+    {
+        "index": 55,
+        "start_time": 186441,
+        "end_time": 191312,
+        "text": "employs 4.5 million people\nin the t-shirt industry,"
+    },
+    {
+        "index": 56,
+        "start_time": 191312,
+        "end_time": 196152,
+        "text": "but they typically face poor conditions\nand low wages."
+    },
+    {
+        "index": 57,
+        "start_time": 196152,
+        "end_time": 200672,
+        "text": "After manufacture, all those t-shirts\ntravel by ship, train, and truck"
+    },
+    {
+        "index": 58,
+        "start_time": 200672,
+        "end_time": 203192,
+        "text": "to be sold in high-income countries,"
+    },
+    {
+        "index": 59,
+        "start_time": 203192,
+        "end_time": 207303,
+        "text": "a process that gives cotton \nan enormous carbon footprint."
+    },
+    {
+        "index": 60,
+        "start_time": 207303,
+        "end_time": 210163,
+        "text": "Some countries produce \ntheir own clothing domestically,"
+    },
+    {
+        "index": 61,
+        "start_time": 210163,
+        "end_time": 212563,
+        "text": "which cuts out this polluting stage,"
+    },
+    {
+        "index": 62,
+        "start_time": 212563,
+        "end_time": 218253,
+        "text": "but generally, apparel production accounts\nfor 10% of global carbon emissions."
+    },
+    {
+        "index": 63,
+        "start_time": 218253,
+        "end_time": 220214,
+        "text": "And it&#39;s escalating."
+    },
+    {
+        "index": 64,
+        "start_time": 220214,
+        "end_time": 223184,
+        "text": "Cheaper garments and the public&#39;s\nwillingness to buy"
+    },
+    {
+        "index": 65,
+        "start_time": 223184,
+        "end_time": 230474,
+        "text": "boosted global production \nfrom 1994 to 2014 by 400%"
+    },
+    {
+        "index": 66,
+        "start_time": 230474,
+        "end_time": 235103,
+        "text": "to around 80 billion garments each year."
+    },
+    {
+        "index": 67,
+        "start_time": 235103,
+        "end_time": 237154,
+        "text": "Finally, in a consumer&#39;s home,"
+    },
+    {
+        "index": 68,
+        "start_time": 237154,
+        "end_time": 242664,
+        "text": "the t-shirt goes through one of the most\nresource-intensive phases of its lifetime."
+    },
+    {
+        "index": 69,
+        "start_time": 242664,
+        "end_time": 244195,
+        "text": "In America, for instance,"
+    },
+    {
+        "index": 70,
+        "start_time": 244195,
+        "end_time": 248675,
+        "text": "the average household does nearly\n400 loads of laundry per year"
+    },
+    {
+        "index": 71,
+        "start_time": 248675,
+        "end_time": 252224,
+        "text": "each using about 40 gallons of water."
+    },
+    {
+        "index": 72,
+        "start_time": 252224,
+        "end_time": 254835,
+        "text": "Washing machines and dryers \nboth use energy,"
+    },
+    {
+        "index": 73,
+        "start_time": 254835,
+        "end_time": 260146,
+        "text": "with dryers requiring five to six times\nmore than washers."
+    },
+    {
+        "index": 74,
+        "start_time": 260146,
+        "end_time": 263735,
+        "text": "This dramatic shift in clothing \nconsumption over the last 20 years,"
+    },
+    {
+        "index": 75,
+        "start_time": 263735,
+        "end_time": 267718,
+        "text": "driven by large corporations\nand the trend of fast fashion"
+    },
+    {
+        "index": 76,
+        "start_time": 267718,
+        "end_time": 269725,
+        "text": "has cost the environment,"
+    },
+    {
+        "index": 77,
+        "start_time": 269725,
+        "end_time": 271096,
+        "text": "the health of farmers,"
+    },
+    {
+        "index": 78,
+        "start_time": 271096,
+        "end_time": 275036,
+        "text": "and driven questionable \nhuman labor practices."
+    },
+    {
+        "index": 79,
+        "start_time": 275036,
+        "end_time": 280476,
+        "text": "It&#39;s also turned fashion into the second\nlargest polluter in the world after oil."
+    },
+    {
+        "index": 80,
+        "start_time": 280476,
+        "end_time": 282830,
+        "text": "But there are things we can do."
+    },
+    {
+        "index": 81,
+        "start_time": 282830,
+        "end_time": 285006,
+        "text": "Consider shopping secondhand."
+    },
+    {
+        "index": 82,
+        "start_time": 285006,
+        "end_time": 289235,
+        "text": "Try to look for textiles made from\nrecycled or organic fabrics."
+    },
+    {
+        "index": 83,
+        "start_time": 289235,
+        "end_time": 293676,
+        "text": "Wash clothes less and line dry\nto save resources."
+    },
+    {
+        "index": 84,
+        "start_time": 293676,
+        "end_time": 295931,
+        "text": "Instead of throwing them away\nat the end of their life,"
+    },
+    {
+        "index": 85,
+        "start_time": 295931,
+        "end_time": 300067,
+        "text": "donate, recycle, or reuse them\nas cleaning rags."
+    },
+    {
+        "index": 86,
+        "start_time": 300067,
+        "end_time": 302178,
+        "text": "And, finally, you might ask yourself,"
+    },
+    {
+        "index": 87,
+        "start_time": 302178,
+        "end_time": 306257,
+        "text": "how many t-shirts and articles of clothing\nwill you consume over your lifetime,"
+    },
+    {
+        "index": 88,
+        "start_time": 306257,
+        "end_time": 309958,
+        "text": "and what will be their combined \nimpact on the world?"
+    }
+]

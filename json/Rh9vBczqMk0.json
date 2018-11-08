@@ -1,0 +1,518 @@
+[
+    {
+        "index": 1,
+        "start_time": 10727,
+        "end_time": 13032,
+        "text": "How does this music make you feel?"
+    },
+    {
+        "index": 2,
+        "start_time": 13032,
+        "end_time": 14701,
+        "text": "Do you find it beautiful?"
+    },
+    {
+        "index": 3,
+        "start_time": 14701,
+        "end_time": 16337,
+        "text": "Is it creative?"
+    },
+    {
+        "index": 4,
+        "start_time": 16337,
+        "end_time": 18042,
+        "text": "Now, would you change your answers"
+    },
+    {
+        "index": 5,
+        "start_time": 18042,
+        "end_time": 21522,
+        "text": "if you learned \nthe composer was this robot?"
+    },
+    {
+        "index": 6,
+        "start_time": 21522,
+        "end_time": 23501,
+        "text": "Believe it or not,"
+    },
+    {
+        "index": 7,
+        "start_time": 23501,
+        "end_time": 26818,
+        "text": "people have been grappling with\nthe question of artificial creativity,"
+    },
+    {
+        "index": 8,
+        "start_time": 26818,
+        "end_time": 29825,
+        "text": "alongside the question \nof artifcial intelligence,"
+    },
+    {
+        "index": 9,
+        "start_time": 29825,
+        "end_time": 32832,
+        "text": "for over 170 years."
+    },
+    {
+        "index": 10,
+        "start_time": 32832,
+        "end_time": 35840,
+        "text": "In 1843, Lady Ada Lovelace,"
+    },
+    {
+        "index": 11,
+        "start_time": 35840,
+        "end_time": 40149,
+        "text": "an English mathematician considered\nthe world&#39;s first computer programmer,"
+    },
+    {
+        "index": 12,
+        "start_time": 40149,
+        "end_time": 43577,
+        "text": "wrote that a machine could not have\nhuman-like intelligence"
+    },
+    {
+        "index": 13,
+        "start_time": 43577,
+        "end_time": 49007,
+        "text": "as long as it only did what humans\nintentionally programmed it to do."
+    },
+    {
+        "index": 14,
+        "start_time": 49007,
+        "end_time": 50709,
+        "text": "According to Lovelace,"
+    },
+    {
+        "index": 15,
+        "start_time": 50709,
+        "end_time": 53694,
+        "text": "a machine must be able \nto create original ideas"
+    },
+    {
+        "index": 16,
+        "start_time": 53694,
+        "end_time": 57392,
+        "text": "if it is to be considered intelligent."
+    },
+    {
+        "index": 17,
+        "start_time": 57392,
+        "end_time": 63814,
+        "text": "The Lovelace Test, formalized in 2001,\nproposes a way of scrutinizing this idea."
+    },
+    {
+        "index": 18,
+        "start_time": 63814,
+        "end_time": 67256,
+        "text": "A machine can pass this test\nif it can produce an outcome"
+    },
+    {
+        "index": 19,
+        "start_time": 67256,
+        "end_time": 72260,
+        "text": "that its designers cannot explain \nbased on their original code."
+    },
+    {
+        "index": 20,
+        "start_time": 72260,
+        "end_time": 75609,
+        "text": "The Lovelace Test is, by design,\nmore of a thought experiment"
+    },
+    {
+        "index": 21,
+        "start_time": 75609,
+        "end_time": 78020,
+        "text": "than an objective scientific test."
+    },
+    {
+        "index": 22,
+        "start_time": 78020,
+        "end_time": 80039,
+        "text": "But it&#39;s a place to start."
+    },
+    {
+        "index": 23,
+        "start_time": 80039,
+        "end_time": 81233,
+        "text": "At first glance,"
+    },
+    {
+        "index": 24,
+        "start_time": 81233,
+        "end_time": 85153,
+        "text": "the idea of a machine creating \nhigh quality, original music in this way"
+    },
+    {
+        "index": 25,
+        "start_time": 85153,
+        "end_time": 87308,
+        "text": "might seem impossible."
+    },
+    {
+        "index": 26,
+        "start_time": 87308,
+        "end_time": 90202,
+        "text": "We could come up with an extremely\ncomplex algorithm"
+    },
+    {
+        "index": 27,
+        "start_time": 90202,
+        "end_time": 94343,
+        "text": "using random number generators,\nchaotic functions, and fuzzy logic"
+    },
+    {
+        "index": 28,
+        "start_time": 94343,
+        "end_time": 96802,
+        "text": "to generate a sequence of musical notes"
+    },
+    {
+        "index": 29,
+        "start_time": 96802,
+        "end_time": 99476,
+        "text": "in a way that would be \nimpossible to track."
+    },
+    {
+        "index": 30,
+        "start_time": 99476,
+        "end_time": 103271,
+        "text": "But although this would yield countless\noriginal melodies never heard before,"
+    },
+    {
+        "index": 31,
+        "start_time": 103271,
+        "end_time": 107214,
+        "text": "only a tiny fraction of them\nwould be worth listening to."
+    },
+    {
+        "index": 32,
+        "start_time": 107214,
+        "end_time": 109551,
+        "text": "With the computer having no way\nto distinguish"
+    },
+    {
+        "index": 33,
+        "start_time": 109551,
+        "end_time": 111974,
+        "text": "between those which\nwe would consider beautiful"
+    },
+    {
+        "index": 34,
+        "start_time": 111974,
+        "end_time": 114611,
+        "text": "and those which we won&#39;t."
+    },
+    {
+        "index": 35,
+        "start_time": 114611,
+        "end_time": 116248,
+        "text": "But what if we took a step back"
+    },
+    {
+        "index": 36,
+        "start_time": 116248,
+        "end_time": 121221,
+        "text": "and tried to model a natural process\nthat allows creativity to form?"
+    },
+    {
+        "index": 37,
+        "start_time": 121221,
+        "end_time": 123473,
+        "text": "We happen to know of at least\none such process"
+    },
+    {
+        "index": 38,
+        "start_time": 123473,
+        "end_time": 127995,
+        "text": "that has lead to original, valuable,\nand even beautiful outcomes:"
+    },
+    {
+        "index": 39,
+        "start_time": 127995,
+        "end_time": 130783,
+        "text": "the process of evolution."
+    },
+    {
+        "index": 40,
+        "start_time": 130783,
+        "end_time": 132981,
+        "text": "And evolutionary algorithms,"
+    },
+    {
+        "index": 41,
+        "start_time": 132981,
+        "end_time": 136240,
+        "text": "or genetic algorithms\nthat mimic biological evolution,"
+    },
+    {
+        "index": 42,
+        "start_time": 136240,
+        "end_time": 138543,
+        "text": "are one promising approach"
+    },
+    {
+        "index": 43,
+        "start_time": 138543,
+        "end_time": 144563,
+        "text": "to making machines generate original\nand valuable artistic outcomes."
+    },
+    {
+        "index": 44,
+        "start_time": 144563,
+        "end_time": 147554,
+        "text": "So how can evolution make \na machine musically creative?"
+    },
+    {
+        "index": 45,
+        "start_time": 147554,
+        "end_time": 149665,
+        "text": "Well, instead of organisms,"
+    },
+    {
+        "index": 46,
+        "start_time": 149665,
+        "end_time": 161378,
+        "text": "we can start with an initial\npopulation of musical phrases,"
+    },
+    {
+        "index": 47,
+        "start_time": 161378,
+        "end_time": 162841,
+        "text": "and a basic algorithm"
+    },
+    {
+        "index": 48,
+        "start_time": 162841,
+        "end_time": 165765,
+        "text": "that mimics reproduction \nand random mutations"
+    },
+    {
+        "index": 49,
+        "start_time": 165765,
+        "end_time": 168177,
+        "text": "by switching some parts,"
+    },
+    {
+        "index": 50,
+        "start_time": 168177,
+        "end_time": 169939,
+        "text": "combining others,"
+    },
+    {
+        "index": 51,
+        "start_time": 169939,
+        "end_time": 172353,
+        "text": "and replacing random notes."
+    },
+    {
+        "index": 52,
+        "start_time": 172353,
+        "end_time": 175051,
+        "text": "Now that we have \na new generation of phrases,"
+    },
+    {
+        "index": 53,
+        "start_time": 175051,
+        "end_time": 180005,
+        "text": "we can apply selection using \nan operation called a fitness function."
+    },
+    {
+        "index": 54,
+        "start_time": 180005,
+        "end_time": 184307,
+        "text": "Just as biological fitness is determined\nby external environmental pressures,"
+    },
+    {
+        "index": 55,
+        "start_time": 184307,
+        "end_time": 188464,
+        "text": "our fitness function can be determined\nby an external melody"
+    },
+    {
+        "index": 56,
+        "start_time": 188464,
+        "end_time": 191310,
+        "text": "chosen by human musicians, or music fans,"
+    },
+    {
+        "index": 57,
+        "start_time": 191310,
+        "end_time": 200115,
+        "text": "to represent the ultimate \nbeautiful melody."
+    },
+    {
+        "index": 58,
+        "start_time": 200115,
+        "end_time": 203301,
+        "text": "The algorithm can then compare\nbetween our musical phrases"
+    },
+    {
+        "index": 59,
+        "start_time": 203301,
+        "end_time": 205098,
+        "text": "and that beautiful melody,"
+    },
+    {
+        "index": 60,
+        "start_time": 205098,
+        "end_time": 208951,
+        "text": "and select only the phrases\nthat are most similar to it."
+    },
+    {
+        "index": 61,
+        "start_time": 208951,
+        "end_time": 211969,
+        "text": "Once the least similar sequences\nare weeded out,"
+    },
+    {
+        "index": 62,
+        "start_time": 211969,
+        "end_time": 216498,
+        "text": "the algorithm can reapply mutation\nand recombination to what&#39;s left,"
+    },
+    {
+        "index": 63,
+        "start_time": 216498,
+        "end_time": 220802,
+        "text": "select the most similar, or fitted ones,\nagain from the new generation,"
+    },
+    {
+        "index": 64,
+        "start_time": 220802,
+        "end_time": 228412,
+        "text": "and repeat for many generations."
+    },
+    {
+        "index": 65,
+        "start_time": 228412,
+        "end_time": 232728,
+        "text": "The process that got us there has so much\nrandomness and complexity built in"
+    },
+    {
+        "index": 66,
+        "start_time": 232728,
+        "end_time": 236298,
+        "text": "that the result might \npass the Lovelace Test."
+    },
+    {
+        "index": 67,
+        "start_time": 236298,
+        "end_time": 240246,
+        "text": "More importantly, thanks to the presence \nof human aesthetic in the process,"
+    },
+    {
+        "index": 68,
+        "start_time": 240246,
+        "end_time": 249327,
+        "text": "we&#39;ll theoretically generate melodies\nwe would consider beautiful."
+    },
+    {
+        "index": 69,
+        "start_time": 249327,
+        "end_time": 253567,
+        "text": "But does this satisfy our intuition\nfor what is truly creative?"
+    },
+    {
+        "index": 70,
+        "start_time": 253567,
+        "end_time": 256111,
+        "text": "Is it enough to make something\noriginal and beautiful,"
+    },
+    {
+        "index": 71,
+        "start_time": 256111,
+        "end_time": 262397,
+        "text": "or does creativity require intention\nand awareness of what is being created?"
+    },
+    {
+        "index": 72,
+        "start_time": 262397,
+        "end_time": 266193,
+        "text": "Perhaps the creativity in this case\nis really coming from the programmers,"
+    },
+    {
+        "index": 73,
+        "start_time": 266193,
+        "end_time": 269018,
+        "text": "even if they don&#39;t understand the process."
+    },
+    {
+        "index": 74,
+        "start_time": 269018,
+        "end_time": 271204,
+        "text": "What is human creativity, anyways?"
+    },
+    {
+        "index": 75,
+        "start_time": 271204,
+        "end_time": 274039,
+        "text": "Is it something more than a system\nof interconnected neurons"
+    },
+    {
+        "index": 76,
+        "start_time": 274039,
+        "end_time": 277182,
+        "text": "developed by biological \nalgorithmic processes"
+    },
+    {
+        "index": 77,
+        "start_time": 277182,
+        "end_time": 280615,
+        "text": "and the random experiences \nthat shape our lives?"
+    },
+    {
+        "index": 78,
+        "start_time": 280615,
+        "end_time": 284152,
+        "text": "Order and chaos,\nmachine and human."
+    },
+    {
+        "index": 79,
+        "start_time": 284152,
+        "end_time": 288268,
+        "text": "These are the dynamos at the heart\nof machine creativity initiatives"
+    },
+    {
+        "index": 80,
+        "start_time": 288268,
+        "end_time": 294270,
+        "text": "that are currently making music, \nsculptures, paintings, poetry and more."
+    },
+    {
+        "index": 81,
+        "start_time": 294270,
+        "end_time": 295747,
+        "text": "The jury may still be out"
+    },
+    {
+        "index": 82,
+        "start_time": 295747,
+        "end_time": 300051,
+        "text": "as to whether it&#39;s fair to call \nthese acts of creation creative."
+    },
+    {
+        "index": 83,
+        "start_time": 300051,
+        "end_time": 302432,
+        "text": "But if a piece of art can make you weep,"
+    },
+    {
+        "index": 84,
+        "start_time": 302432,
+        "end_time": 303973,
+        "text": "or blow your mind,"
+    },
+    {
+        "index": 85,
+        "start_time": 303973,
+        "end_time": 306134,
+        "text": "or send shivers down your spine,"
+    },
+    {
+        "index": 86,
+        "start_time": 306134,
+        "end_time": 309586,
+        "text": "does it really matter \nwho or what created it?"
+    }
+]

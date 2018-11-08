@@ -1,0 +1,398 @@
+[
+    {
+        "index": 1,
+        "start_time": 7989,
+        "end_time": 11291,
+        "text": "These are the first five elements\nof a number sequence."
+    },
+    {
+        "index": 2,
+        "start_time": 11291,
+        "end_time": 13031,
+        "text": "Can you figure out what comes next?"
+    },
+    {
+        "index": 3,
+        "start_time": 13031,
+        "end_time": 14956,
+        "text": "Pause here if you want \nto figure it out for yourself."
+    },
+    {
+        "index": 4,
+        "start_time": 14956,
+        "end_time": 16030,
+        "text": "Answer in: 3"
+    },
+    {
+        "index": 5,
+        "start_time": 16030,
+        "end_time": 16818,
+        "text": "Answer in: 2"
+    },
+    {
+        "index": 6,
+        "start_time": 16818,
+        "end_time": 17731,
+        "text": "Answer in: 1"
+    },
+    {
+        "index": 7,
+        "start_time": 17731,
+        "end_time": 19358,
+        "text": "There is a pattern here,"
+    },
+    {
+        "index": 8,
+        "start_time": 19358,
+        "end_time": 22053,
+        "text": "but it may not be the kind\nof pattern you think it is."
+    },
+    {
+        "index": 9,
+        "start_time": 22053,
+        "end_time": 26171,
+        "text": "Look at the sequence again\nand try reading it aloud."
+    },
+    {
+        "index": 10,
+        "start_time": 26171,
+        "end_time": 29251,
+        "text": "Now, look at the next number\nin the sequence."
+    },
+    {
+        "index": 11,
+        "start_time": 29251,
+        "end_time": 31882,
+        "text": "3, 1, 2, 2, 1, 1."
+    },
+    {
+        "index": 12,
+        "start_time": 31882,
+        "end_time": 37432,
+        "text": "Pause again if you&#39;d like to think\nabout it some more."
+    },
+    {
+        "index": 13,
+        "start_time": 37432,
+        "end_time": 38393,
+        "text": "Answer in: 3"
+    },
+    {
+        "index": 14,
+        "start_time": 38393,
+        "end_time": 39292,
+        "text": "Answer in: 2"
+    },
+    {
+        "index": 15,
+        "start_time": 39292,
+        "end_time": 40451,
+        "text": "Answer in: 1"
+    },
+    {
+        "index": 16,
+        "start_time": 40451,
+        "end_time": 43882,
+        "text": "This is what&#39;s known as\na look and say sequence."
+    },
+    {
+        "index": 17,
+        "start_time": 43882,
+        "end_time": 45572,
+        "text": "Unlike many number sequences,"
+    },
+    {
+        "index": 18,
+        "start_time": 45572,
+        "end_time": 49450,
+        "text": "this relies not on some mathematical\nproperty of the numbers themselves,"
+    },
+    {
+        "index": 19,
+        "start_time": 49450,
+        "end_time": 51471,
+        "text": "but on their notation."
+    },
+    {
+        "index": 20,
+        "start_time": 51471,
+        "end_time": 54312,
+        "text": "Start with the left-most digit\nof the initial number."
+    },
+    {
+        "index": 21,
+        "start_time": 54312,
+        "end_time": 58693,
+        "text": "Now, read out how many times \nit repeats in succession"
+    },
+    {
+        "index": 22,
+        "start_time": 58693,
+        "end_time": 61603,
+        "text": "followed by the name of the digit itself."
+    },
+    {
+        "index": 23,
+        "start_time": 61603,
+        "end_time": 66894,
+        "text": "Then move on to the next distinct digit\nand repeat until you reach the end."
+    },
+    {
+        "index": 24,
+        "start_time": 66894,
+        "end_time": 70103,
+        "text": "So the number 1 is read as &quot;one one&quot;"
+    },
+    {
+        "index": 25,
+        "start_time": 70103,
+        "end_time": 73588,
+        "text": "written down the same way \nwe write eleven."
+    },
+    {
+        "index": 26,
+        "start_time": 73588,
+        "end_time": 77604,
+        "text": "Of course, as part of this sequence,\nit&#39;s not actually the number eleven,"
+    },
+    {
+        "index": 27,
+        "start_time": 77604,
+        "end_time": 79153,
+        "text": "but 2 ones,"
+    },
+    {
+        "index": 28,
+        "start_time": 79153,
+        "end_time": 81804,
+        "text": "which we then write as 2 1."
+    },
+    {
+        "index": 29,
+        "start_time": 81804,
+        "end_time": 85414,
+        "text": "That number is then read out\nas 1 2 1 1,"
+    },
+    {
+        "index": 30,
+        "start_time": 85414,
+        "end_time": 91984,
+        "text": "which written out we&#39;d read as\none one, one two, two ones, and so on."
+    },
+    {
+        "index": 31,
+        "start_time": 91984,
+        "end_time": 97765,
+        "text": "These kinds of sequences were first\nanalyzed by mathematician John Conway,"
+    },
+    {
+        "index": 32,
+        "start_time": 97765,
+        "end_time": 100744,
+        "text": "who noted they have \nsome interesting properties."
+    },
+    {
+        "index": 33,
+        "start_time": 100744,
+        "end_time": 106125,
+        "text": "For instance, starting with the number 22,\nyields an infinite loop of two twos."
+    },
+    {
+        "index": 34,
+        "start_time": 106125,
+        "end_time": 108393,
+        "text": "But when seeded with any other number,"
+    },
+    {
+        "index": 35,
+        "start_time": 108393,
+        "end_time": 111655,
+        "text": "the sequence grows in some\nvery specific ways."
+    },
+    {
+        "index": 36,
+        "start_time": 111655,
+        "end_time": 114895,
+        "text": "Notice that although the number\nof digits keeps increasing,"
+    },
+    {
+        "index": 37,
+        "start_time": 114895,
+        "end_time": 118885,
+        "text": "the increase doesn&#39;t seem\nto be either linear or random."
+    },
+    {
+        "index": 38,
+        "start_time": 118885,
+        "end_time": 124166,
+        "text": "In fact, if you extend the sequence\ninfinitely, a pattern emerges."
+    },
+    {
+        "index": 39,
+        "start_time": 124166,
+        "end_time": 127568,
+        "text": "The ratio between the amount of digits\nin two consecutive terms"
+    },
+    {
+        "index": 40,
+        "start_time": 127568,
+        "end_time": 133105,
+        "text": "gradually converges to a single number\nknown as Conway&#39;s Constant."
+    },
+    {
+        "index": 41,
+        "start_time": 133105,
+        "end_time": 136017,
+        "text": "This is equal to a little over 1.3,"
+    },
+    {
+        "index": 42,
+        "start_time": 136017,
+        "end_time": 139941,
+        "text": "meaning that the amount of digits\nincreases by about 30%"
+    },
+    {
+        "index": 43,
+        "start_time": 139941,
+        "end_time": 142938,
+        "text": "with every step in the sequence."
+    },
+    {
+        "index": 44,
+        "start_time": 142938,
+        "end_time": 145717,
+        "text": "What about the numbers themselves?"
+    },
+    {
+        "index": 45,
+        "start_time": 145717,
+        "end_time": 147997,
+        "text": "That gets even more interesting."
+    },
+    {
+        "index": 46,
+        "start_time": 147997,
+        "end_time": 150296,
+        "text": "Except for the repeating sequence of 22,"
+    },
+    {
+        "index": 47,
+        "start_time": 150296,
+        "end_time": 156106,
+        "text": "every possible sequence eventually breaks\ndown into distinct strings of digits."
+    },
+    {
+        "index": 48,
+        "start_time": 156106,
+        "end_time": 158387,
+        "text": "No matter what order these strings\nshow up in,"
+    },
+    {
+        "index": 49,
+        "start_time": 158387,
+        "end_time": 163657,
+        "text": "each appears unbroken in its entirety\nevery time it occurs."
+    },
+    {
+        "index": 50,
+        "start_time": 163657,
+        "end_time": 166568,
+        "text": "Conway identified 92 of these elements,"
+    },
+    {
+        "index": 51,
+        "start_time": 166568,
+        "end_time": 170286,
+        "text": "all composed only of digits 1, 2, and 3,"
+    },
+    {
+        "index": 52,
+        "start_time": 170286,
+        "end_time": 172238,
+        "text": "as well as two additional elements"
+    },
+    {
+        "index": 53,
+        "start_time": 172238,
+        "end_time": 176969,
+        "text": "whose variations\ncan end with any digit of 4 or greater."
+    },
+    {
+        "index": 54,
+        "start_time": 176969,
+        "end_time": 179447,
+        "text": "No matter what number the sequence\nis seeded with,"
+    },
+    {
+        "index": 55,
+        "start_time": 179447,
+        "end_time": 182841,
+        "text": "eventually, it&#39;ll just consist\nof these combinations,"
+    },
+    {
+        "index": 56,
+        "start_time": 182841,
+        "end_time": 188539,
+        "text": "with digits 4 or higher only appearing\nat the end of the two extra elements,"
+    },
+    {
+        "index": 57,
+        "start_time": 188539,
+        "end_time": 190969,
+        "text": "if at all."
+    },
+    {
+        "index": 58,
+        "start_time": 190969,
+        "end_time": 192839,
+        "text": "Beyond being a neat puzzle,"
+    },
+    {
+        "index": 59,
+        "start_time": 192839,
+        "end_time": 196659,
+        "text": "the look and say sequence\nhas some practical applications."
+    },
+    {
+        "index": 60,
+        "start_time": 196659,
+        "end_time": 198759,
+        "text": "For example, run-length encoding,"
+    },
+    {
+        "index": 61,
+        "start_time": 198759,
+        "end_time": 203109,
+        "text": "a data compression that was once used for\ntelevision signals and digital graphics,"
+    },
+    {
+        "index": 62,
+        "start_time": 203109,
+        "end_time": 205647,
+        "text": "is based on a similar concept."
+    },
+    {
+        "index": 63,
+        "start_time": 205647,
+        "end_time": 208590,
+        "text": "The amount of times a data value repeats\nwithin the code"
+    },
+    {
+        "index": 64,
+        "start_time": 208590,
+        "end_time": 211592,
+        "text": "is recorded as a data value itself."
+    },
+    {
+        "index": 65,
+        "start_time": 211592,
+        "end_time": 216029,
+        "text": "Sequences like this are a good example\nof how numbers and other symbols"
+    },
+    {
+        "index": 66,
+        "start_time": 216029,
+        "end_time": 218700,
+        "text": "can convey meaning on multiple levels."
+    }
+]

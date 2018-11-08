@@ -1,0 +1,314 @@
+[
+  {
+    "end_time": 2654,
+    "index": 1,
+    "start_time": 134,
+    "text": "- [Voiceover] Let&#39;s learn fractions."
+  },
+  {
+    "end_time": 7167,
+    "index": 2,
+    "start_time": 3146,
+    "text": "Understanding fractions can be easy as one, two, three."
+  },
+  {
+    "end_time": 8700,
+    "index": 3,
+    "start_time": 7578,
+    "text": "Just watch this video,"
+  },
+  {
+    "end_time": 11453,
+    "index": 4,
+    "start_time": 8700,
+    "text": "and you&#39;ll be using fractions with ease."
+  },
+  {
+    "end_time": 14013,
+    "index": 5,
+    "start_time": 11831,
+    "text": "It&#39;s easy to count whole things,"
+  },
+  {
+    "end_time": 17672,
+    "index": 6,
+    "start_time": 14013,
+    "text": "like a pizza, a pie, or a donut."
+  },
+  {
+    "end_time": 20716,
+    "index": 7,
+    "start_time": 18177,
+    "text": "But what if we only had part of one?"
+  },
+  {
+    "end_time": 22809,
+    "index": 8,
+    "start_time": 20716,
+    "text": "How would we count it then?"
+  },
+  {
+    "end_time": 26849,
+    "index": 9,
+    "start_time": 24601,
+    "text": "We&#39;d use fractions."
+  },
+  {
+    "end_time": 30038,
+    "index": 10,
+    "start_time": 27563,
+    "text": "A fraction looks like this."
+  },
+  {
+    "end_time": 33990,
+    "index": 11,
+    "start_time": 30913,
+    "text": "The bottom number is called the denominator."
+  },
+  {
+    "end_time": 35790,
+    "index": 12,
+    "start_time": 33990,
+    "text": "It shows how many equal pieces"
+  },
+  {
+    "end_time": 38176,
+    "index": 13,
+    "start_time": 35790,
+    "text": "an object has been divided into."
+  },
+  {
+    "end_time": 41022,
+    "index": 14,
+    "start_time": 38179,
+    "text": "The top number is called the numerator."
+  },
+  {
+    "end_time": 43285,
+    "index": 15,
+    "start_time": 41022,
+    "text": "It shows how many parts of the denominator"
+  },
+  {
+    "end_time": 45068,
+    "index": 16,
+    "start_time": 43285,
+    "text": "you are looking at."
+  },
+  {
+    "end_time": 52145,
+    "index": 17,
+    "start_time": 46523,
+    "text": "For example, a pizza is usually divided into eight slices."
+  },
+  {
+    "end_time": 54176,
+    "index": 18,
+    "start_time": 52476,
+    "text": "That means that, in a fraction,"
+  },
+  {
+    "end_time": 56354,
+    "index": 19,
+    "start_time": 54176,
+    "text": "the denominator would be eight."
+  },
+  {
+    "end_time": 60956,
+    "index": 20,
+    "start_time": 58136,
+    "text": "If you normally eat one slice of pizza,"
+  },
+  {
+    "end_time": 63403,
+    "index": 21,
+    "start_time": 60956,
+    "text": "then one would be the numerator."
+  },
+  {
+    "end_time": 67332,
+    "index": 22,
+    "start_time": 63403,
+    "text": "That means that you eat one eighth of a pizza."
+  },
+  {
+    "end_time": 71262,
+    "index": 23,
+    "start_time": 68523,
+    "text": "If you normally eat two slices of pizza,"
+  },
+  {
+    "end_time": 73527,
+    "index": 24,
+    "start_time": 71263,
+    "text": "then two would be the numerator."
+  },
+  {
+    "end_time": 75334,
+    "index": 25,
+    "start_time": 73527,
+    "text": "The denominator would still be eight,"
+  },
+  {
+    "end_time": 78350,
+    "index": 26,
+    "start_time": 75334,
+    "text": "since there are always eight slices of pizza."
+  },
+  {
+    "end_time": 82663,
+    "index": 27,
+    "start_time": 78350,
+    "text": "That would mean that you eat two eighths of a pizza."
+  },
+  {
+    "end_time": 86197,
+    "index": 28,
+    "start_time": 83876,
+    "text": "Let&#39;s try another example."
+  },
+  {
+    "end_time": 89076,
+    "index": 29,
+    "start_time": 86197,
+    "text": "This pie is divided into six pieces,"
+  },
+  {
+    "end_time": 91607,
+    "index": 30,
+    "start_time": 89076,
+    "text": "and you eat four pieces of it."
+  },
+  {
+    "end_time": 94695,
+    "index": 31,
+    "start_time": 91608,
+    "text": "If there were six pieces of pie, and you eat four,"
+  },
+  {
+    "end_time": 97875,
+    "index": 32,
+    "start_time": 94695,
+    "text": "what is the denominator of your fraction?"
+  },
+  {
+    "end_time": 100380,
+    "index": 33,
+    "start_time": 97875,
+    "text": "(upbeat music)"
+  },
+  {
+    "end_time": 102812,
+    "index": 34,
+    "start_time": 100380,
+    "text": "That&#39;s right, six."
+  },
+  {
+    "end_time": 104311,
+    "index": 35,
+    "start_time": 102812,
+    "text": "What is the numerator?"
+  },
+  {
+    "end_time": 107875,
+    "index": 36,
+    "start_time": 104311,
+    "text": "(upbeat music)"
+  },
+  {
+    "end_time": 110300,
+    "index": 37,
+    "start_time": 107875,
+    "text": "Yep, it&#39;s four."
+  },
+  {
+    "end_time": 113670,
+    "index": 38,
+    "start_time": 110300,
+    "text": "That means that you ate four sixths of the pie."
+  },
+  {
+    "end_time": 117703,
+    "index": 39,
+    "start_time": 114640,
+    "text": "Let&#39;s try one more example."
+  },
+  {
+    "end_time": 120943,
+    "index": 40,
+    "start_time": 117703,
+    "text": "If you and your friend have one donut to share,"
+  },
+  {
+    "end_time": 123821,
+    "index": 41,
+    "start_time": 120943,
+    "text": "then you will cut it into two pieces."
+  },
+  {
+    "end_time": 127120,
+    "index": 42,
+    "start_time": 123821,
+    "text": "If there are two pieces of donut and you eat one,"
+  },
+  {
+    "end_time": 129477,
+    "index": 43,
+    "start_time": 127120,
+    "text": "what is the numerator of your fraction?"
+  },
+  {
+    "end_time": 133656,
+    "index": 44,
+    "start_time": 129477,
+    "text": "(upbeat music)"
+  },
+  {
+    "end_time": 137278,
+    "index": 45,
+    "start_time": 133656,
+    "text": "That&#39;s right, the numerator is one."
+  },
+  {
+    "end_time": 139879,
+    "index": 46,
+    "start_time": 137278,
+    "text": "What is the denominator?"
+  },
+  {
+    "end_time": 143940,
+    "index": 47,
+    "start_time": 139879,
+    "text": "(upbeat music)"
+  },
+  {
+    "end_time": 147495,
+    "index": 48,
+    "start_time": 143940,
+    "text": "Right again! It&#39;s two."
+  },
+  {
+    "end_time": 149757,
+    "index": 49,
+    "start_time": 147495,
+    "text": "When the fraction is one over two,"
+  },
+  {
+    "end_time": 152249,
+    "index": 50,
+    "start_time": 149757,
+    "text": "we call that one half."
+  },
+  {
+    "end_time": 155876,
+    "index": 51,
+    "start_time": 153951,
+    "text": "Thanks for watching."
+  },
+  {
+    "end_time": 158866,
+    "index": 52,
+    "start_time": 155876,
+    "text": "(upbeat music)"
+  }
+]

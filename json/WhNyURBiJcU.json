@@ -1,0 +1,512 @@
+[
+    {
+        "index": 1,
+        "start_time": 6681,
+        "end_time": 9871,
+        "text": "Modern computers \nare revolutionizing our lives,"
+    },
+    {
+        "index": 2,
+        "start_time": 9871,
+        "end_time": 13726,
+        "text": "performing tasks unimaginable\nonly decades ago."
+    },
+    {
+        "index": 3,
+        "start_time": 13726,
+        "end_time": 17209,
+        "text": "This was made possible by a long series\nof innovations,"
+    },
+    {
+        "index": 4,
+        "start_time": 17209,
+        "end_time": 22680,
+        "text": "but there&#39;s one foundational invention\nthat almost everything else relies upon:"
+    },
+    {
+        "index": 5,
+        "start_time": 22680,
+        "end_time": 24198,
+        "text": "the transistor."
+    },
+    {
+        "index": 6,
+        "start_time": 24198,
+        "end_time": 25292,
+        "text": "So what is that,"
+    },
+    {
+        "index": 7,
+        "start_time": 25292,
+        "end_time": 30403,
+        "text": "and how does such a device enable\nall the amazing things computers can do?"
+    },
+    {
+        "index": 8,
+        "start_time": 30403,
+        "end_time": 34239,
+        "text": "Well, at their core, all computers\nare just what the name implies,"
+    },
+    {
+        "index": 9,
+        "start_time": 34239,
+        "end_time": 37362,
+        "text": "machines that perform \nmathematical operations."
+    },
+    {
+        "index": 10,
+        "start_time": 37362,
+        "end_time": 40617,
+        "text": "The earliest computers were manual\ncounting devices,"
+    },
+    {
+        "index": 11,
+        "start_time": 40617,
+        "end_time": 41929,
+        "text": "like the abacus,"
+    },
+    {
+        "index": 12,
+        "start_time": 41929,
+        "end_time": 44341,
+        "text": "while later ones used mechanical parts."
+    },
+    {
+        "index": 13,
+        "start_time": 44341,
+        "end_time": 48752,
+        "text": "What made them computers was having\na way to represent numbers"
+    },
+    {
+        "index": 14,
+        "start_time": 48752,
+        "end_time": 51171,
+        "text": "and a system for manipulating them."
+    },
+    {
+        "index": 15,
+        "start_time": 51171,
+        "end_time": 53423,
+        "text": "Electronic computers work the same way,"
+    },
+    {
+        "index": 16,
+        "start_time": 53423,
+        "end_time": 55060,
+        "text": "but instead of physical arrangements,"
+    },
+    {
+        "index": 17,
+        "start_time": 55060,
+        "end_time": 58870,
+        "text": "the numbers are represented\nby electric voltages."
+    },
+    {
+        "index": 18,
+        "start_time": 58870,
+        "end_time": 62625,
+        "text": "Most such computers use a type of math\ncalled Boolean logic"
+    },
+    {
+        "index": 19,
+        "start_time": 62625,
+        "end_time": 64949,
+        "text": "that has only two possible values,"
+    },
+    {
+        "index": 20,
+        "start_time": 64949,
+        "end_time": 67584,
+        "text": "the logical conditions true and false,"
+    },
+    {
+        "index": 21,
+        "start_time": 67584,
+        "end_time": 71319,
+        "text": "denoted by binary digits one and zero."
+    },
+    {
+        "index": 22,
+        "start_time": 71319,
+        "end_time": 74246,
+        "text": "They are represented by high\nand low voltages."
+    },
+    {
+        "index": 23,
+        "start_time": 74246,
+        "end_time": 77899,
+        "text": "Equations are implemented\nvia logic gate circuits"
+    },
+    {
+        "index": 24,
+        "start_time": 77899,
+        "end_time": 81014,
+        "text": "that produce an output of one or zero"
+    },
+    {
+        "index": 25,
+        "start_time": 81014,
+        "end_time": 85123,
+        "text": "based on whether the inputs satisfy\na certain logical statement."
+    },
+    {
+        "index": 26,
+        "start_time": 85123,
+        "end_time": 88834,
+        "text": "These circuits perform three fundamental\nlogical operations,"
+    },
+    {
+        "index": 27,
+        "start_time": 88834,
+        "end_time": 92114,
+        "text": "conjunction, disjunction, and negation."
+    },
+    {
+        "index": 28,
+        "start_time": 92114,
+        "end_time": 96751,
+        "text": "The way conjunction works is an &quot;and gate&quot;\nprovides a high-voltage output"
+    },
+    {
+        "index": 29,
+        "start_time": 96751,
+        "end_time": 100517,
+        "text": "only if it receives \ntwo high-voltage inputs,"
+    },
+    {
+        "index": 30,
+        "start_time": 100517,
+        "end_time": 103158,
+        "text": "and the other gates work \nby similar principles."
+    },
+    {
+        "index": 31,
+        "start_time": 103158,
+        "end_time": 106594,
+        "text": "Circuits can be combined to perform\ncomplex operations,"
+    },
+    {
+        "index": 32,
+        "start_time": 106594,
+        "end_time": 108755,
+        "text": "like addition and subtraction."
+    },
+    {
+        "index": 33,
+        "start_time": 108755,
+        "end_time": 111393,
+        "text": "And computer programs \nconsist of instructions"
+    },
+    {
+        "index": 34,
+        "start_time": 111393,
+        "end_time": 114838,
+        "text": "for electronically performing \nthese operations."
+    },
+    {
+        "index": 35,
+        "start_time": 114838,
+        "end_time": 118024,
+        "text": "This kind of system needs a reliable\nand accurate method"
+    },
+    {
+        "index": 36,
+        "start_time": 118024,
+        "end_time": 120243,
+        "text": "for controlling electric current."
+    },
+    {
+        "index": 37,
+        "start_time": 120243,
+        "end_time": 122785,
+        "text": "Early electronic computers,\nlike the ENIAC,"
+    },
+    {
+        "index": 38,
+        "start_time": 122785,
+        "end_time": 125556,
+        "text": "used a device called the vacuum tube."
+    },
+    {
+        "index": 39,
+        "start_time": 125556,
+        "end_time": 127712,
+        "text": "Its early form, the diode,"
+    },
+    {
+        "index": 40,
+        "start_time": 127712,
+        "end_time": 132316,
+        "text": "consisted of two electrodes \nin an evacuated glass container."
+    },
+    {
+        "index": 41,
+        "start_time": 132316,
+        "end_time": 137115,
+        "text": "Applying a voltage to the cathode\nmakes it heat up and release electrons."
+    },
+    {
+        "index": 42,
+        "start_time": 137115,
+        "end_time": 140492,
+        "text": "If the anode is at a slightly\nhigher positive potential,"
+    },
+    {
+        "index": 43,
+        "start_time": 140492,
+        "end_time": 142839,
+        "text": "the electrons are attracted to it,"
+    },
+    {
+        "index": 44,
+        "start_time": 142839,
+        "end_time": 144384,
+        "text": "completing the circuit."
+    },
+    {
+        "index": 45,
+        "start_time": 144384,
+        "end_time": 147346,
+        "text": "This unidirectional \ncurrent flow could be controlled"
+    },
+    {
+        "index": 46,
+        "start_time": 147346,
+        "end_time": 149766,
+        "text": "by varying the voltage to the cathode,"
+    },
+    {
+        "index": 47,
+        "start_time": 149766,
+        "end_time": 153209,
+        "text": "which makes it release more \nor less electrons."
+    },
+    {
+        "index": 48,
+        "start_time": 153209,
+        "end_time": 154910,
+        "text": "The next stage was the triode,"
+    },
+    {
+        "index": 49,
+        "start_time": 154910,
+        "end_time": 157875,
+        "text": "which uses a third electrode\ncalled the grid."
+    },
+    {
+        "index": 50,
+        "start_time": 157875,
+        "end_time": 161484,
+        "text": "This is a wire screen \nbetween the cathode and anode"
+    },
+    {
+        "index": 51,
+        "start_time": 161484,
+        "end_time": 163767,
+        "text": "through which electrons could pass."
+    },
+    {
+        "index": 52,
+        "start_time": 163767,
+        "end_time": 166243,
+        "text": "Varying its voltage makes it either repel"
+    },
+    {
+        "index": 53,
+        "start_time": 166243,
+        "end_time": 169749,
+        "text": "or attract the electrons \nemitted by the cathode,"
+    },
+    {
+        "index": 54,
+        "start_time": 169749,
+        "end_time": 172356,
+        "text": "thus, enabling fast current-switching."
+    },
+    {
+        "index": 55,
+        "start_time": 172356,
+        "end_time": 177577,
+        "text": "The ability to amplify signals \nalso made the triode crucial for radio"
+    },
+    {
+        "index": 56,
+        "start_time": 177577,
+        "end_time": 180085,
+        "text": "and long distance communication."
+    },
+    {
+        "index": 57,
+        "start_time": 180085,
+        "end_time": 184593,
+        "text": "But despite these advancements,\nvacuum tubes were unreliable and bulky."
+    },
+    {
+        "index": 58,
+        "start_time": 184593,
+        "end_time": 189156,
+        "text": "With 18,000 triodes, ENIAC was nearly\nthe size of a tennis court"
+    },
+    {
+        "index": 59,
+        "start_time": 189156,
+        "end_time": 191219,
+        "text": "and weighed 30 tons."
+    },
+    {
+        "index": 60,
+        "start_time": 191219,
+        "end_time": 193088,
+        "text": "Tubes failed every other day,"
+    },
+    {
+        "index": 61,
+        "start_time": 193088,
+        "end_time": 199494,
+        "text": "and in one hour, it consumed the amount\nof electricity used by 15 homes in a day."
+    },
+    {
+        "index": 62,
+        "start_time": 199494,
+        "end_time": 201460,
+        "text": "The solution was the transistor."
+    },
+    {
+        "index": 63,
+        "start_time": 201460,
+        "end_time": 204455,
+        "text": "Instead of electrodes, \nit uses a semiconductor,"
+    },
+    {
+        "index": 64,
+        "start_time": 204455,
+        "end_time": 206992,
+        "text": "like silicon treated \nwith different elements"
+    },
+    {
+        "index": 65,
+        "start_time": 206992,
+        "end_time": 209926,
+        "text": "to create an electron-emitting N-type,"
+    },
+    {
+        "index": 66,
+        "start_time": 209926,
+        "end_time": 212655,
+        "text": "and an electron absorbing P-type."
+    },
+    {
+        "index": 67,
+        "start_time": 212655,
+        "end_time": 215418,
+        "text": "These are arranged in three \nalternating layers"
+    },
+    {
+        "index": 68,
+        "start_time": 215418,
+        "end_time": 217202,
+        "text": "with a terminal at each."
+    },
+    {
+        "index": 69,
+        "start_time": 217202,
+        "end_time": 219933,
+        "text": "The emitter, the base, and the collector."
+    },
+    {
+        "index": 70,
+        "start_time": 219933,
+        "end_time": 222155,
+        "text": "In this typical NPN transistor,"
+    },
+    {
+        "index": 71,
+        "start_time": 222155,
+        "end_time": 225373,
+        "text": "due to certain phenomena \nat the P-N interface,"
+    },
+    {
+        "index": 72,
+        "start_time": 225373,
+        "end_time": 230398,
+        "text": "a special region called a P-N junction\nforms between the emitter and base."
+    },
+    {
+        "index": 73,
+        "start_time": 230398,
+        "end_time": 232491,
+        "text": "It only conducts electricity"
+    },
+    {
+        "index": 74,
+        "start_time": 232491,
+        "end_time": 236604,
+        "text": "when a voltage exceeding \na certain threshold is applied."
+    },
+    {
+        "index": 75,
+        "start_time": 236604,
+        "end_time": 238990,
+        "text": "Otherwise, it remains switched off."
+    },
+    {
+        "index": 76,
+        "start_time": 238990,
+        "end_time": 242339,
+        "text": "In this way, small variations \nin the input voltage"
+    },
+    {
+        "index": 77,
+        "start_time": 242339,
+        "end_time": 247130,
+        "text": "can be used to quickly switch between\nhigh and low-output currents."
+    },
+    {
+        "index": 78,
+        "start_time": 247130,
+        "end_time": 252186,
+        "text": "The advantage of the transistor lies\nin its efficiency and compactness."
+    },
+    {
+        "index": 79,
+        "start_time": 252186,
+        "end_time": 256564,
+        "text": "Because they don&#39;t require heating,\nthey&#39;re more durable and use less power."
+    },
+    {
+        "index": 80,
+        "start_time": 256564,
+        "end_time": 262332,
+        "text": "ENIAC&#39;s functionality can now be surpassed\nby a single fingernail-sized microchip"
+    },
+    {
+        "index": 81,
+        "start_time": 262332,
+        "end_time": 264612,
+        "text": "containing billions of transistors."
+    },
+    {
+        "index": 82,
+        "start_time": 264612,
+        "end_time": 267057,
+        "text": "At trillions of calculations per second,"
+    },
+    {
+        "index": 83,
+        "start_time": 267057,
+        "end_time": 270541,
+        "text": "today&#39;s computers may seem like\nthey&#39;re performing miracles,"
+    },
+    {
+        "index": 84,
+        "start_time": 270541,
+        "end_time": 271795,
+        "text": "but underneath it all,"
+    },
+    {
+        "index": 85,
+        "start_time": 271795,
+        "end_time": 276555,
+        "text": "each individual operation is still\nas simple as the flick of a switch."
+    }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "end_time": 5060,
+    "index": 1,
+    "start_time": 89,
+    "text": "You\u2019re sweaty, get chills, and generally\nfeel terrible. You, my friend, have a fever."
+  },
+  {
+    "end_time": 11079,
+    "index": 2,
+    "start_time": 5060,
+    "text": "But, before you reach for the medicine cabinet,\nyou may want to reconsider breaking it."
+  },
+  {
+    "end_time": 18300,
+    "index": 3,
+    "start_time": 11080,
+    "text": "Hey there, Kaylee here with DNews. Throughout\nthe day, your body temperature can vary depending"
+  },
+  {
+    "end_time": 23410,
+    "index": 4,
+    "start_time": 18300,
+    "text": "on the time, your level of activity, and age,\nalthough it averages to about 98.6 degrees"
+  },
+  {
+    "end_time": 28250,
+    "index": 5,
+    "start_time": 23410,
+    "text": "Fahrenheit, or 37 degrees Celsius. Fun fact:\nat night, your core body temperature drops"
+  },
+  {
+    "end_time": 33019,
+    "index": 6,
+    "start_time": 28250,
+    "text": "slightly, allowing you to fall asleep.6 But\na temperature over 100.4 degrees Fahrenheit,"
+  },
+  {
+    "end_time": 38210,
+    "index": 7,
+    "start_time": 33020,
+    "text": "or 38 degrees Celsius, usually means that\nyou have a fever caused by infections or an"
+  },
+  {
+    "end_time": 38660,
+    "index": 8,
+    "start_time": 38210,
+    "text": "illness.5"
+  },
+  {
+    "end_time": 42919,
+    "index": 9,
+    "start_time": 38660,
+    "text": "Fever, also known as pyrexia, is an important\npart of the immune system\u2019s response to"
+  },
+  {
+    "end_time": 47440,
+    "index": 10,
+    "start_time": 42920,
+    "text": "an invading bacterium or virus. The immune\nsystem produces pyrogens, which travel through"
+  },
+  {
+    "end_time": 51620,
+    "index": 11,
+    "start_time": 47440,
+    "text": "the blood to the brain, finally reaching the\nhypothalamus, the body\u2019s thermostat.2 This"
+  },
+  {
+    "end_time": 54989,
+    "index": 12,
+    "start_time": 51620,
+    "text": "then raises the body\u2019s temperature above\nthe normal range, and, lo and behold, you"
+  },
+  {
+    "end_time": 59449,
+    "index": 13,
+    "start_time": 54989,
+    "text": "are lying in bed, covered in blankets, fondly\nremembering the times when you felt normal."
+  },
+  {
+    "end_time": 64030,
+    "index": 14,
+    "start_time": 59449,
+    "text": "If you\u2019re really uncomfortable, you might\ndecide to take an antipyretic, or fever-reducing"
+  },
+  {
+    "end_time": 69719,
+    "index": 15,
+    "start_time": 64030,
+    "text": "medication. This will inhibit the enzyme cyclooxygenase\nand reduce the level of prostaglandin E2 in"
+  },
+  {
+    "end_time": 74499,
+    "index": 16,
+    "start_time": 69719,
+    "text": "the hypothalamus.9 In plain English, the medicine\noverrides the signals that tell your hypothalamus"
+  },
+  {
+    "end_time": 77529,
+    "index": 17,
+    "start_time": 74499,
+    "text": "to elevate your body temperature and will\nreduce it instead."
+  },
+  {
+    "end_time": 81649,
+    "index": 18,
+    "start_time": 77529,
+    "text": "But having a fever is actually a good sign!\nIt means that our bodies are beginning to"
+  },
+  {
+    "end_time": 85959,
+    "index": 19,
+    "start_time": 81649,
+    "text": "fight off the infection. Previously, scientists\nbelieved that the elevated temperature might"
+  },
+  {
+    "end_time": 90679,
+    "index": 20,
+    "start_time": 85959,
+    "text": "inhibit the growth of some viruses or bacteria\nand potentially even kill them. However, a"
+  },
+  {
+    "end_time": 95299,
+    "index": 21,
+    "start_time": 90679,
+    "text": "study published in the Journal of Leukocyte\nBiology found that a fever also helps certain"
+  },
+  {
+    "end_time": 97560,
+    "index": 22,
+    "start_time": 95299,
+    "text": "types of immune cells to do their job better."
+  },
+  {
+    "end_time": 101630,
+    "index": 23,
+    "start_time": 97560,
+    "text": "In the study, researchers injected mice with\nan antigen and then monitored the activation"
+  },
+  {
+    "end_time": 107560,
+    "index": 24,
+    "start_time": 101630,
+    "text": "of a type of lymphocyte called CD8+ cytotoxic\nT cells, which are capable of killing cells"
+  },
+  {
+    "end_time": 111959,
+    "index": 25,
+    "start_time": 107560,
+    "text": "infected with viruses and even cancer cells.\nHalf of the mice\u2019s body temperatures were"
+  },
+  {
+    "end_time": 116479,
+    "index": 26,
+    "start_time": 111959,
+    "text": "raised 2 degrees Celsius while the other half\nwas left alone. The results showed that the"
+  },
+  {
+    "end_time": 121169,
+    "index": 27,
+    "start_time": 116479,
+    "text": "mice whose temperature was raised had more\nof the CD8+ T cells than the control mice.1"
+  },
+  {
+    "end_time": 121389,
+    "index": 28,
+    "start_time": 121169,
+    "text": "3"
+  },
+  {
+    "end_time": 125979,
+    "index": 29,
+    "start_time": 121389,
+    "text": "This suggests that elevated body temperature\nmay enhance the function of the immune system,"
+  },
+  {
+    "end_time": 130228,
+    "index": 30,
+    "start_time": 125979,
+    "text": "meaning that we can get better faster. If\nleft untreated, a fever will normally only"
+  },
+  {
+    "end_time": 135599,
+    "index": 31,
+    "start_time": 130229,
+    "text": "last two or three days, but the duration can\nvary.7 8 So, as uncomfortable as it is, you"
+  },
+  {
+    "end_time": 139230,
+    "index": 32,
+    "start_time": 135599,
+    "text": "may be better off not taking any medicine\nto reduce it."
+  },
+  {
+    "end_time": 144040,
+    "index": 33,
+    "start_time": 139230,
+    "text": "HOWEVER, it is important to note that this\nis only recommended for mild fevers. If your"
+  },
+  {
+    "end_time": 149629,
+    "index": 34,
+    "start_time": 144040,
+    "text": "body temperature is over 108 degrees Fahrenheit,\nyou may be in trouble. If it becomes too high,"
+  },
+  {
+    "end_time": 153469,
+    "index": 35,
+    "start_time": 149629,
+    "text": "you\u2019ll definitely want to go see a doctor.\nFevers from infections rarely get this high,"
+  },
+  {
+    "end_time": 155959,
+    "index": 36,
+    "start_time": 153469,
+    "text": "and are instead usually caused by heat strokes."
+  },
+  {
+    "end_time": 160099,
+    "index": 37,
+    "start_time": 155959,
+    "text": "See, when your body temperature gets high,\nyou sweat to cool down. As a consequence,"
+  },
+  {
+    "end_time": 164018,
+    "index": 38,
+    "start_time": 160099,
+    "text": "your body loses water and salt, which are\nessential for normal functioning. And if you\u2019ve"
+  },
+  {
+    "end_time": 168420,
+    "index": 39,
+    "start_time": 164019,
+    "text": "already lost a lot of water and become dehydrated,\nyou may not be able to sweat fast enough to"
+  },
+  {
+    "end_time": 173170,
+    "index": 40,
+    "start_time": 168420,
+    "text": "dissipate the heat, causing your body temperature\nto rise even further. You know how your parents"
+  },
+  {
+    "end_time": 176969,
+    "index": 41,
+    "start_time": 173170,
+    "text": "always tell you to stay hydrated when you\nare sick? Yeah, that\u2019s why."
+  },
+  {
+    "end_time": 180640,
+    "index": 42,
+    "start_time": 176969,
+    "text": "At such a high temperature, proteins and cell\nmembranes, especially in the brain, can be"
+  },
+  {
+    "end_time": 185279,
+    "index": 43,
+    "start_time": 180640,
+    "text": "destroyed or malfunction. Heart muscle cells\nand blood vessels can break down, damage can"
+  },
+  {
+    "end_time": 189079,
+    "index": 44,
+    "start_time": 185280,
+    "text": "occur to internal organs, and, in the worst\ncase, a fever can cause death.4"
+  },
+  {
+    "end_time": 193359,
+    "index": 45,
+    "start_time": 189079,
+    "text": "While a fever may help you get over your infection\nfaster, the brain and body can only handle"
+  },
+  {
+    "end_time": 194040,
+    "index": 46,
+    "start_time": 193359,
+    "text": "so much."
+  },
+  {
+    "end_time": 198249,
+    "index": 47,
+    "start_time": 194040,
+    "text": "What\u2019s the worst fever that you\u2019ve ever\nhad? And what do you normally do to get over"
+  },
+  {
+    "end_time": 198680,
+    "index": 48,
+    "start_time": 198249,
+    "text": "it?"
+  },
+  {
+    "end_time": 201280,
+    "index": 49,
+    "start_time": 198680,
+    "text": "Let us know in the comments and if you want\nto know more about temperature\u2019s effect"
+  },
+  {
+    "end_time": 205659,
+    "index": 50,
+    "start_time": 201280,
+    "text": "on sleep, head over to my personal channel,\nExplorium, to find out if sleeping naked is"
+  },
+  {
+    "end_time": 216999,
+    "index": 51,
+    "start_time": 205659,
+    "text": "better "
+  },
+  {
+    "end_time": 222769,
+    "index": 52,
+    "start_time": 216999,
+    "text": "for you."
+  },
+  {
+    "end_time": 225920,
+    "index": 53,
+    "start_time": 222769,
+    "text": "If you\u2019re on mobile, it will be the first\nlink in the description. Thanks for watching"
+  },
+  {
+    "end_time": 227399,
+    "index": 54,
+    "start_time": 225920,
+    "text": "DNews and subscribe for more!"
+  }
+]

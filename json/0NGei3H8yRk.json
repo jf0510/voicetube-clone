@@ -1,0 +1,452 @@
+[
+    {
+        "index": 1,
+        "start_time": 7013,
+        "end_time": 9584,
+        "text": "You&#39;re standing at \nthe ready inside the goal"
+    },
+    {
+        "index": 2,
+        "start_time": 9584,
+        "end_time": 14234,
+        "text": "when suddenly, you feel an intense itch\non the back of your head."
+    },
+    {
+        "index": 3,
+        "start_time": 14234,
+        "end_time": 17942,
+        "text": "We&#39;ve all experienced the annoyance \nof an inconvenient itch,"
+    },
+    {
+        "index": 4,
+        "start_time": 17942,
+        "end_time": 22802,
+        "text": "but have you ever pondered why\nwe itch in the first place?"
+    },
+    {
+        "index": 5,
+        "start_time": 22802,
+        "end_time": 27634,
+        "text": "The average person experiences\ndozens of individual itches each day."
+    },
+    {
+        "index": 6,
+        "start_time": 27634,
+        "end_time": 29815,
+        "text": "They can be triggered by all sorts\nof things,"
+    },
+    {
+        "index": 7,
+        "start_time": 29815,
+        "end_time": 31515,
+        "text": "including allergic reactions,"
+    },
+    {
+        "index": 8,
+        "start_time": 31515,
+        "end_time": 32515,
+        "text": "dryness,"
+    },
+    {
+        "index": 9,
+        "start_time": 32515,
+        "end_time": 34705,
+        "text": "and even some diseases."
+    },
+    {
+        "index": 10,
+        "start_time": 34705,
+        "end_time": 39333,
+        "text": "And then there are the mysterious ones\nthat pop up for no reason at all,"
+    },
+    {
+        "index": 11,
+        "start_time": 39333,
+        "end_time": 41966,
+        "text": "or just from talking about itching."
+    },
+    {
+        "index": 12,
+        "start_time": 41966,
+        "end_time": 45513,
+        "text": "You&#39;re scratching your head right now,\naren&#39;t you?"
+    },
+    {
+        "index": 13,
+        "start_time": 45513,
+        "end_time": 50057,
+        "text": "Anyhow, let&#39;s take one of the most\ncommon sources: bug bites."
+    },
+    {
+        "index": 14,
+        "start_time": 50057,
+        "end_time": 51434,
+        "text": "When a mosquito bites you,"
+    },
+    {
+        "index": 15,
+        "start_time": 51434,
+        "end_time": 55795,
+        "text": "it releases a compound into your body\ncalled an anticoagulant"
+    },
+    {
+        "index": 16,
+        "start_time": 55795,
+        "end_time": 58527,
+        "text": "that prevents your blood from clotting."
+    },
+    {
+        "index": 17,
+        "start_time": 58527,
+        "end_time": 61256,
+        "text": "That compound, \nwhich we&#39;re mildly allergic to,"
+    },
+    {
+        "index": 18,
+        "start_time": 61256,
+        "end_time": 63876,
+        "text": "triggers the release of histamine,"
+    },
+    {
+        "index": 19,
+        "start_time": 63876,
+        "end_time": 66985,
+        "text": "a chemical that makes \nour capillaries swell."
+    },
+    {
+        "index": 20,
+        "start_time": 66985,
+        "end_time": 68935,
+        "text": "This enables increased blood flow,"
+    },
+    {
+        "index": 21,
+        "start_time": 68935,
+        "end_time": 71956,
+        "text": "which helpfully accelerates \nthe body&#39;s immune response"
+    },
+    {
+        "index": 22,
+        "start_time": 71956,
+        "end_time": 74197,
+        "text": "to this perceived threat."
+    },
+    {
+        "index": 23,
+        "start_time": 74197,
+        "end_time": 75847,
+        "text": "That explains the swelling,"
+    },
+    {
+        "index": 24,
+        "start_time": 75847,
+        "end_time": 79777,
+        "text": "and it&#39;s the same reason pollen\ncan make your eyes puff up."
+    },
+    {
+        "index": 25,
+        "start_time": 79777,
+        "end_time": 83544,
+        "text": "Histamine also activates the nerves\ninvolved in itching,"
+    },
+    {
+        "index": 26,
+        "start_time": 83544,
+        "end_time": 87847,
+        "text": "which is why bug bites make you scratch."
+    },
+    {
+        "index": 27,
+        "start_time": 87847,
+        "end_time": 91696,
+        "text": "But the itchy sensation itself\nisn&#39;t yet fully understood."
+    },
+    {
+        "index": 28,
+        "start_time": 91696,
+        "end_time": 93429,
+        "text": "In fact, much of what we do know"
+    },
+    {
+        "index": 29,
+        "start_time": 93429,
+        "end_time": 98157,
+        "text": "comes from studying \nthe mechanics of itching in mice."
+    },
+    {
+        "index": 30,
+        "start_time": 98157,
+        "end_time": 101057,
+        "text": "Researchers have discovered that\nitch signals in their skin"
+    },
+    {
+        "index": 31,
+        "start_time": 101057,
+        "end_time": 107035,
+        "text": "are transmitted via a subclass of\nthe nerves that are associated with pain."
+    },
+    {
+        "index": 32,
+        "start_time": 107035,
+        "end_time": 112678,
+        "text": "These dedicated nerves produce a molecule\ncalled natriuretic polypetide B,"
+    },
+    {
+        "index": 33,
+        "start_time": 112678,
+        "end_time": 116897,
+        "text": "which triggers a signal that&#39;s carried\nup the spinal cord to the brain,"
+    },
+    {
+        "index": 34,
+        "start_time": 116897,
+        "end_time": 120761,
+        "text": "where it creates the feeling of an itch."
+    },
+    {
+        "index": 35,
+        "start_time": 120761,
+        "end_time": 124387,
+        "text": "When we scratch, the action of our\nfingernails on the skin"
+    },
+    {
+        "index": 36,
+        "start_time": 124387,
+        "end_time": 130138,
+        "text": "causes a low level pain signal\nthat overrides the itching sensation."
+    },
+    {
+        "index": 37,
+        "start_time": 130138,
+        "end_time": 135431,
+        "text": "It&#39;s almost like a distraction,\nwhich creates the sensation of relief."
+    },
+    {
+        "index": 38,
+        "start_time": 135431,
+        "end_time": 139698,
+        "text": "But is there actually an evolutionary\npurpose to the itch,"
+    },
+    {
+        "index": 39,
+        "start_time": 139698,
+        "end_time": 143177,
+        "text": "or is it simply there to annoy us?"
+    },
+    {
+        "index": 40,
+        "start_time": 143177,
+        "end_time": 148248,
+        "text": "The leading theory is that our skin\nhas evolved to be acutely aware of touch"
+    },
+    {
+        "index": 41,
+        "start_time": 148248,
+        "end_time": 152429,
+        "text": "so that we&#39;re equipped to deal with risks\nfrom the outside world."
+    },
+    {
+        "index": 42,
+        "start_time": 152429,
+        "end_time": 153348,
+        "text": "Think about it."
+    },
+    {
+        "index": 43,
+        "start_time": 153348,
+        "end_time": 157180,
+        "text": "Our automatic scratching response\nwould dislodge anything harmful"
+    },
+    {
+        "index": 44,
+        "start_time": 157180,
+        "end_time": 160091,
+        "text": "that&#39;s potentially lurking on our skin,"
+    },
+    {
+        "index": 45,
+        "start_time": 160091,
+        "end_time": 161459,
+        "text": "like a harmful sting,"
+    },
+    {
+        "index": 46,
+        "start_time": 161459,
+        "end_time": 162782,
+        "text": "a biting insect,"
+    },
+    {
+        "index": 47,
+        "start_time": 162782,
+        "end_time": 165831,
+        "text": "or the tendrils of a poisonous plant."
+    },
+    {
+        "index": 48,
+        "start_time": 165831,
+        "end_time": 169431,
+        "text": "This might explain why we don&#39;t\nfeel itching inside our bodies,"
+    },
+    {
+        "index": 49,
+        "start_time": 169431,
+        "end_time": 170912,
+        "text": "like in our intestines,"
+    },
+    {
+        "index": 50,
+        "start_time": 170912,
+        "end_time": 173451,
+        "text": "which is safe from these external threats,"
+    },
+    {
+        "index": 51,
+        "start_time": 173451,
+        "end_time": 177386,
+        "text": "though imagine how \nmaddening that would be."
+    },
+    {
+        "index": 52,
+        "start_time": 177386,
+        "end_time": 181119,
+        "text": "In some people, glitches in the pathways\nresponsible for all of this"
+    },
+    {
+        "index": 53,
+        "start_time": 181119,
+        "end_time": 186069,
+        "text": "can cause excessive itching\nthat can actually harm their health."
+    },
+    {
+        "index": 54,
+        "start_time": 186069,
+        "end_time": 191460,
+        "text": "One extreme example is a psychological\ncondition called delusory parasitosis"
+    },
+    {
+        "index": 55,
+        "start_time": 191460,
+        "end_time": 195506,
+        "text": "where people believe their bodies\nare infested with mites or fleas"
+    },
+    {
+        "index": 56,
+        "start_time": 195506,
+        "end_time": 198470,
+        "text": "scurrying over and under their skin,"
+    },
+    {
+        "index": 57,
+        "start_time": 198470,
+        "end_time": 202310,
+        "text": "making them itch incessantly."
+    },
+    {
+        "index": 58,
+        "start_time": 202310,
+        "end_time": 204419,
+        "text": "Another phenomenon \ncalled phantom itching"
+    },
+    {
+        "index": 59,
+        "start_time": 204419,
+        "end_time": 207579,
+        "text": "can occur in patients \nwho&#39;ve had amputations."
+    },
+    {
+        "index": 60,
+        "start_time": 207579,
+        "end_time": 211871,
+        "text": "Because this injury has \nso severely damaged the nervous system,"
+    },
+    {
+        "index": 61,
+        "start_time": 211871,
+        "end_time": 215001,
+        "text": "it confuses the body&#39;s normal \nnerve signaling"
+    },
+    {
+        "index": 62,
+        "start_time": 215001,
+        "end_time": 220432,
+        "text": "and creates sensations in limbs\nthat are no longer there."
+    },
+    {
+        "index": 63,
+        "start_time": 220432,
+        "end_time": 225062,
+        "text": "Doctors are now finding ways\nto treat these itching anomalies."
+    },
+    {
+        "index": 64,
+        "start_time": 225062,
+        "end_time": 229230,
+        "text": "In amputees, mirrors are used to reflect\nthe remaining limb,"
+    },
+    {
+        "index": 65,
+        "start_time": 229230,
+        "end_time": 231601,
+        "text": "which the patient scratches."
+    },
+    {
+        "index": 66,
+        "start_time": 231601,
+        "end_time": 233961,
+        "text": "That creates an illusion \nthat tricks the brain"
+    },
+    {
+        "index": 67,
+        "start_time": 233961,
+        "end_time": 238608,
+        "text": "into thinking the imaginary \nitch has been satisfied."
+    },
+    {
+        "index": 68,
+        "start_time": 238608,
+        "end_time": 242183,
+        "text": "Oddly enough, that actually works."
+    },
+    {
+        "index": 69,
+        "start_time": 242183,
+        "end_time": 245831,
+        "text": "Researchers are also searching\nfor the genes involved in itching"
+    },
+    {
+        "index": 70,
+        "start_time": 245831,
+        "end_time": 249323,
+        "text": "and developing treatments to try\nand block the pathway of an itch"
+    },
+    {
+        "index": 71,
+        "start_time": 249323,
+        "end_time": 252002,
+        "text": "in extreme cases."
+    },
+    {
+        "index": 72,
+        "start_time": 252002,
+        "end_time": 256502,
+        "text": "If having an unscratchable itch\nfeels like your own personal hell,"
+    },
+    {
+        "index": 73,
+        "start_time": 256502,
+        "end_time": 259002,
+        "text": "Dante agreed."
+    },
+    {
+        "index": 74,
+        "start_time": 259002,
+        "end_time": 261442,
+        "text": "The Italian poet wrote about\na section of hell"
+    },
+    {
+        "index": 75,
+        "start_time": 261442,
+        "end_time": 268662,
+        "text": "where people were punished by being\nleft in pits to itch for all eternity."
+    }
+]

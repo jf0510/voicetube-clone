@@ -1,0 +1,302 @@
+[
+  {
+    "end_time": 7990,
+    "index": 1,
+    "start_time": 0,
+    "text": "[MUSIC PLAYING]"
+  },
+  {
+    "end_time": 8970,
+    "index": 2,
+    "start_time": 7990,
+    "text": "Hi internet."
+  },
+  {
+    "end_time": 10820,
+    "index": 3,
+    "start_time": 8970,
+    "text": "This is Andres Rodriques."
+  },
+  {
+    "end_time": 14180,
+    "index": 4,
+    "start_time": 10820,
+    "text": "I am a machine and dib\nlearning solutions architect."
+  },
+  {
+    "end_time": 16100,
+    "index": 5,
+    "start_time": 14180,
+    "text": "If you&#39;re new to\ndib learning, please"
+  },
+  {
+    "end_time": 19130,
+    "index": 6,
+    "start_time": 16100,
+    "text": "watch my introductory\nvideo by clicking the link"
+  },
+  {
+    "end_time": 20919,
+    "index": 7,
+    "start_time": 19130,
+    "text": "in the description below."
+  },
+  {
+    "end_time": 23190,
+    "index": 8,
+    "start_time": 20920,
+    "text": "Caffe is a\ndeep-learning framework"
+  },
+  {
+    "end_time": 26730,
+    "index": 9,
+    "start_time": 23190,
+    "text": "developed by the Berkeley\nVision and Learning Center,"
+  },
+  {
+    "end_time": 29850,
+    "index": 10,
+    "start_time": 26730,
+    "text": "or the BVLC, at UC Berkeley."
+  },
+  {
+    "end_time": 33510,
+    "index": 11,
+    "start_time": 29850,
+    "text": "It is written in C++ and\n[INAUDIBLE] C plus plus with"
+  },
+  {
+    "end_time": 35739,
+    "index": 12,
+    "start_time": 33510,
+    "text": "Python and MATLAB wrappers."
+  },
+  {
+    "end_time": 39260,
+    "index": 13,
+    "start_time": 35740,
+    "text": "Out of the box, it is especially\nuseful for convolutional"
+  },
+  {
+    "end_time": 41210,
+    "index": 14,
+    "start_time": 39260,
+    "text": "and fully connected networks."
+  },
+  {
+    "end_time": 44600,
+    "index": 15,
+    "start_time": 41210,
+    "text": "And, recently, recording to\nneural networks were added."
+  },
+  {
+    "end_time": 46500,
+    "index": 16,
+    "start_time": 44600,
+    "text": "Convolutional\nneural networks are"
+  },
+  {
+    "end_time": 50730,
+    "index": 17,
+    "start_time": 46500,
+    "text": "useful for visual tasks\nsuch as object recognition."
+  },
+  {
+    "end_time": 54519,
+    "index": 18,
+    "start_time": 50730,
+    "text": "Recurrent neural networks\nare useful for tasks"
+  },
+  {
+    "end_time": 58400,
+    "index": 19,
+    "start_time": 54520,
+    "text": "where the input data can\nbe of arbitrary length,"
+  },
+  {
+    "end_time": 61580,
+    "index": 20,
+    "start_time": 58400,
+    "text": "such as speech and natural\nlanguage processing."
+  },
+  {
+    "end_time": 64280,
+    "index": 21,
+    "start_time": 61580,
+    "text": "There are various forks\nof main Caffe branch"
+  },
+  {
+    "end_time": 66330,
+    "index": 22,
+    "start_time": 64280,
+    "text": "for a variety of tasks."
+  },
+  {
+    "end_time": 68116,
+    "index": 23,
+    "start_time": 66330,
+    "text": "For example,\n[? Ross Gershek&#39;s ?] Caffe"
+  },
+  {
+    "end_time": 70950,
+    "index": 24,
+    "start_time": 68116,
+    "text": "branch is useful for\nobject detections"
+  },
+  {
+    "end_time": 72930,
+    "index": 25,
+    "start_time": 70950,
+    "text": "where various\nobjects in an image"
+  },
+  {
+    "end_time": 75090,
+    "index": 26,
+    "start_time": 72930,
+    "text": "can be detected and classified."
+  },
+  {
+    "end_time": 77060,
+    "index": 27,
+    "start_time": 75090,
+    "text": "[? Evan Shellhammer&#39;s ?]\nCaffe branch"
+  },
+  {
+    "end_time": 80100,
+    "index": 28,
+    "start_time": 77060,
+    "text": "is useful for pixel\nwise prediction."
+  },
+  {
+    "end_time": 83460,
+    "index": 29,
+    "start_time": 80100,
+    "text": "In particular, for\nsemantic segmentation."
+  },
+  {
+    "end_time": 86600,
+    "index": 30,
+    "start_time": 83460,
+    "text": "Lisanne Hendricks Caffe\nbranch is useful for image"
+  },
+  {
+    "end_time": 89600,
+    "index": 31,
+    "start_time": 86600,
+    "text": "captioning where the\ninput data is an image"
+  },
+  {
+    "end_time": 93750,
+    "index": 32,
+    "start_time": 89600,
+    "text": "and the output is a short-text\ndescription of the input."
+  },
+  {
+    "end_time": 98090,
+    "index": 33,
+    "start_time": 93750,
+    "text": "[? Kevin List&#39;s ?] Caffe branch\nis useful for image retrieval."
+  },
+  {
+    "end_time": 102160,
+    "index": 34,
+    "start_time": 98090,
+    "text": "Out of the box, main Caffe\nis not optimized on CPUs"
+  },
+  {
+    "end_time": 104850,
+    "index": 35,
+    "start_time": 102160,
+    "text": "and suffers from\ninefficient CPU core."
+  },
+  {
+    "end_time": 109309,
+    "index": 36,
+    "start_time": 104850,
+    "text": "Intel&#39;s optimize Caffe fixes\nthese for significant gains"
+  },
+  {
+    "end_time": 110730,
+    "index": 37,
+    "start_time": 109310,
+    "text": "in performance."
+  },
+  {
+    "end_time": 113210,
+    "index": 38,
+    "start_time": 110730,
+    "text": "Intel&#39;s optimized\nCaffe is frequently"
+  },
+  {
+    "end_time": 116830,
+    "index": 39,
+    "start_time": 113210,
+    "text": "synchronized with the main\nCaffe from UC Berkeley."
+  },
+  {
+    "end_time": 120179,
+    "index": 40,
+    "start_time": 116830,
+    "text": "That is, Intel&#39;s Caffe branch\noffers all the goodness"
+  },
+  {
+    "end_time": 123180,
+    "index": 41,
+    "start_time": 120180,
+    "text": "of main Caffe with the\nadditional benefits"
+  },
+  {
+    "end_time": 127940,
+    "index": 42,
+    "start_time": 123180,
+    "text": "of CPU-optimized functionality\nand multi-node distributor"
+  },
+  {
+    "end_time": 128850,
+    "index": 43,
+    "start_time": 127940,
+    "text": "training."
+  },
+  {
+    "end_time": 131470,
+    "index": 44,
+    "start_time": 128850,
+    "text": "Keep an eye out for new\ncontent and videos that"
+  },
+  {
+    "end_time": 134010,
+    "index": 45,
+    "start_time": 131470,
+    "text": "will provide you with\ndetailed guide to getting"
+  },
+  {
+    "end_time": 136299,
+    "index": 46,
+    "start_time": 134010,
+    "text": "started with Intel&#39;s\noptimized Caffe."
+  },
+  {
+    "end_time": 139310,
+    "index": 47,
+    "start_time": 136300,
+    "text": "To learn more about\nthis topic and others"
+  },
+  {
+    "end_time": 141160,
+    "index": 48,
+    "start_time": 139310,
+    "text": "related to machine\nlearning, please"
+  },
+  {
+    "end_time": 143609,
+    "index": 49,
+    "start_time": 141160,
+    "text": "follow the link in\nthe description below."
+  },
+  {
+    "end_time": 145430,
+    "index": 50,
+    "start_time": 143610,
+    "text": "Thanks for watching."
+  }
+]

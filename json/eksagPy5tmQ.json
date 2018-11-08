@@ -1,0 +1,476 @@
+[
+    {
+        "index": 1,
+        "start_time": 6809,
+        "end_time": 9164,
+        "text": "Where does bread get its fluffiness?"
+    },
+    {
+        "index": 2,
+        "start_time": 9164,
+        "end_time": 11063,
+        "text": "Swiss cheese its holes?"
+    },
+    {
+        "index": 3,
+        "start_time": 11063,
+        "end_time": 13670,
+        "text": "And what makes vinegar so sour?"
+    },
+    {
+        "index": 4,
+        "start_time": 13670,
+        "end_time": 16116,
+        "text": "These foods may taste \ncompletely different,"
+    },
+    {
+        "index": 5,
+        "start_time": 16116,
+        "end_time": 21299,
+        "text": "but all of these phenomena come from\ntiny organisms chowing down on sugar"
+    },
+    {
+        "index": 6,
+        "start_time": 21299,
+        "end_time": 24453,
+        "text": "and belching up some culinary byproducts."
+    },
+    {
+        "index": 7,
+        "start_time": 24453,
+        "end_time": 26960,
+        "text": "Let&#39;s start with yeast."
+    },
+    {
+        "index": 8,
+        "start_time": 26960,
+        "end_time": 32241,
+        "text": "Yeast are single-celled fungi \nused to make bread, beer, and wine,"
+    },
+    {
+        "index": 9,
+        "start_time": 32241,
+        "end_time": 33875,
+        "text": "among other products."
+    },
+    {
+        "index": 10,
+        "start_time": 33875,
+        "end_time": 36425,
+        "text": "Yeast break down carbohydrates,\nlike sugar,"
+    },
+    {
+        "index": 11,
+        "start_time": 36425,
+        "end_time": 39741,
+        "text": "to get energy \nand the molecules they need to function."
+    },
+    {
+        "index": 12,
+        "start_time": 39741,
+        "end_time": 41673,
+        "text": "They have two different ways to do this:"
+    },
+    {
+        "index": 13,
+        "start_time": 41673,
+        "end_time": 44799,
+        "text": "the oxygen-dependent, or aerobic, pathway,"
+    },
+    {
+        "index": 14,
+        "start_time": 44799,
+        "end_time": 48238,
+        "text": "and the oxygen-independent, \nanaerobic pathway,"
+    },
+    {
+        "index": 15,
+        "start_time": 48238,
+        "end_time": 50843,
+        "text": "which is also called fermentation."
+    },
+    {
+        "index": 16,
+        "start_time": 50843,
+        "end_time": 53805,
+        "text": "When you bake bread,\nyeast can use both pathways,"
+    },
+    {
+        "index": 17,
+        "start_time": 53805,
+        "end_time": 58873,
+        "text": "but they normally prefer to start with\nthe anaerobic process of fermentation."
+    },
+    {
+        "index": 18,
+        "start_time": 58873,
+        "end_time": 63303,
+        "text": "In this process, ethanol is produced\nin addition to CO2."
+    },
+    {
+        "index": 19,
+        "start_time": 63303,
+        "end_time": 65268,
+        "text": "No, bread isn&#39;t alcoholic."
+    },
+    {
+        "index": 20,
+        "start_time": 65268,
+        "end_time": 69775,
+        "text": "Small amounts of alcohol that are secreted\nevaporate during baking."
+    },
+    {
+        "index": 21,
+        "start_time": 69775,
+        "end_time": 72768,
+        "text": "In the aerobic, \nor oxygen-dependent pathway,"
+    },
+    {
+        "index": 22,
+        "start_time": 72768,
+        "end_time": 74638,
+        "text": "the yeast consume some of the sugar"
+    },
+    {
+        "index": 23,
+        "start_time": 74638,
+        "end_time": 79658,
+        "text": "and produce carbon dioxide gas,\nor CO2, and water."
+    },
+    {
+        "index": 24,
+        "start_time": 79658,
+        "end_time": 84750,
+        "text": "In both processes, the CO2 accumulates\nand creates tiny bubbles."
+    },
+    {
+        "index": 25,
+        "start_time": 84750,
+        "end_time": 89085,
+        "text": "These bubbles get trapped by gluten\nand create a sponge-like structure"
+    },
+    {
+        "index": 26,
+        "start_time": 89085,
+        "end_time": 92302,
+        "text": "that gives the bread its soft texture."
+    },
+    {
+        "index": 27,
+        "start_time": 92302,
+        "end_time": 94426,
+        "text": "Wine also relies on yeast."
+    },
+    {
+        "index": 28,
+        "start_time": 94426,
+        "end_time": 97712,
+        "text": "But a wine-making set-up \nkeeps the oxygen levels low"
+    },
+    {
+        "index": 29,
+        "start_time": 97712,
+        "end_time": 100672,
+        "text": "so that yeast consume sugar \nusing fermentation,"
+    },
+    {
+        "index": 30,
+        "start_time": 100672,
+        "end_time": 102867,
+        "text": "the anaerobic pathway."
+    },
+    {
+        "index": 31,
+        "start_time": 102867,
+        "end_time": 108204,
+        "text": "The process often starts with wild yeasts\nalready hanging out on the grapes."
+    },
+    {
+        "index": 32,
+        "start_time": 108204,
+        "end_time": 109937,
+        "text": "But to get consistent results,"
+    },
+    {
+        "index": 33,
+        "start_time": 109937,
+        "end_time": 114092,
+        "text": "most winemakers also add \ncarefully selected strains of yeast"
+    },
+    {
+        "index": 34,
+        "start_time": 114092,
+        "end_time": 117084,
+        "text": "that can tolerate high levels of alcohol."
+    },
+    {
+        "index": 35,
+        "start_time": 117084,
+        "end_time": 119630,
+        "text": "The yeast consume the sugar\nin the grape juice,"
+    },
+    {
+        "index": 36,
+        "start_time": 119630,
+        "end_time": 121048,
+        "text": "and as the sugar level drops,"
+    },
+    {
+        "index": 37,
+        "start_time": 121048,
+        "end_time": 123557,
+        "text": "the alcohol level rises."
+    },
+    {
+        "index": 38,
+        "start_time": 123557,
+        "end_time": 127032,
+        "text": "This doesn&#39;t necessarily mean \nthat sweeter wines have less alcohol."
+    },
+    {
+        "index": 39,
+        "start_time": 127032,
+        "end_time": 130183,
+        "text": "Different types of grapes start with\ndifferent amounts of sugar,"
+    },
+    {
+        "index": 40,
+        "start_time": 130183,
+        "end_time": 132120,
+        "text": "and sugar can also be added."
+    },
+    {
+        "index": 41,
+        "start_time": 132120,
+        "end_time": 134210,
+        "text": "What happens to the carbon dioxide?"
+    },
+    {
+        "index": 42,
+        "start_time": 134210,
+        "end_time": 136370,
+        "text": "It just bubbles away through a vent."
+    },
+    {
+        "index": 43,
+        "start_time": 136370,
+        "end_time": 139751,
+        "text": "In carbonated alcoholic beverages,\nlike champagne and beer,"
+    },
+    {
+        "index": 44,
+        "start_time": 139751,
+        "end_time": 143929,
+        "text": "sealed containers are used in primary\nor secondary fermentation"
+    },
+    {
+        "index": 45,
+        "start_time": 143929,
+        "end_time": 147183,
+        "text": "to keep the carbon dioxide in the bottle."
+    },
+    {
+        "index": 46,
+        "start_time": 147183,
+        "end_time": 152146,
+        "text": "Wine also introduces us to our second\ntype of food-producing microorganism:"
+    },
+    {
+        "index": 47,
+        "start_time": 152146,
+        "end_time": 153386,
+        "text": "bacteria."
+    },
+    {
+        "index": 48,
+        "start_time": 153386,
+        "end_time": 154841,
+        "text": "A special strain of bacteria"
+    },
+    {
+        "index": 49,
+        "start_time": 154841,
+        "end_time": 159675,
+        "text": "turns a tart compound in grape juice\ninto softer tasting ones"
+    },
+    {
+        "index": 50,
+        "start_time": 159675,
+        "end_time": 164567,
+        "text": "that are responsible for some of\nthe flavors in red wines and chardonnays."
+    },
+    {
+        "index": 51,
+        "start_time": 164567,
+        "end_time": 167682,
+        "text": "Another type of bacteria,\ncalled acetic acid bacteria,"
+    },
+    {
+        "index": 52,
+        "start_time": 167682,
+        "end_time": 169809,
+        "text": "isn&#39;t so desirable in wine,"
+    },
+    {
+        "index": 53,
+        "start_time": 169809,
+        "end_time": 171771,
+        "text": "but they have their function, too."
+    },
+    {
+        "index": 54,
+        "start_time": 171771,
+        "end_time": 173349,
+        "text": "If there&#39;s oxygen around,"
+    },
+    {
+        "index": 55,
+        "start_time": 173349,
+        "end_time": 178548,
+        "text": "these bacteria convert the ethanol in wine\ninto, well, acetic acid."
+    },
+    {
+        "index": 56,
+        "start_time": 178548,
+        "end_time": 182780,
+        "text": "Let this process continue\nand you&#39;ll eventually get vinegar."
+    },
+    {
+        "index": 57,
+        "start_time": 182780,
+        "end_time": 186190,
+        "text": "Bacteria are the key for cheese, too."
+    },
+    {
+        "index": 58,
+        "start_time": 186190,
+        "end_time": 189641,
+        "text": "To make cheese, \nmilk is inoculated with bacteria."
+    },
+    {
+        "index": 59,
+        "start_time": 189641,
+        "end_time": 193084,
+        "text": "The bacteria gobble up the lactose,\na kind of sugar,"
+    },
+    {
+        "index": 60,
+        "start_time": 193084,
+        "end_time": 196981,
+        "text": "and produce lactic acid,\nalong with many other chemicals."
+    },
+    {
+        "index": 61,
+        "start_time": 196981,
+        "end_time": 199998,
+        "text": "As the milk gets more and more acidic,"
+    },
+    {
+        "index": 62,
+        "start_time": 199998,
+        "end_time": 202875,
+        "text": "its proteins start to aggregate \nand curdle."
+    },
+    {
+        "index": 63,
+        "start_time": 202875,
+        "end_time": 206604,
+        "text": "That&#39;s why spoiled milk is clumpy."
+    },
+    {
+        "index": 64,
+        "start_time": 206604,
+        "end_time": 209240,
+        "text": "Cheesemakers usually add an enzyme\ncalled rennet,"
+    },
+    {
+        "index": 65,
+        "start_time": 209240,
+        "end_time": 213423,
+        "text": "naturally found inside of cows, goats,\nand some other mammals"
+    },
+    {
+        "index": 66,
+        "start_time": 213423,
+        "end_time": 215519,
+        "text": "to help this process along."
+    },
+    {
+        "index": 67,
+        "start_time": 215519,
+        "end_time": 218865,
+        "text": "Eventually, those little curdles turn into\nbigger curds,"
+    },
+    {
+        "index": 68,
+        "start_time": 218865,
+        "end_time": 221565,
+        "text": "which are pressed \nto squeeze out the water,"
+    },
+    {
+        "index": 69,
+        "start_time": 221565,
+        "end_time": 223911,
+        "text": "and create a firm cheese."
+    },
+    {
+        "index": 70,
+        "start_time": 223911,
+        "end_time": 227108,
+        "text": "Different strains of bacteria\nmake different kinds of cheese."
+    },
+    {
+        "index": 71,
+        "start_time": 227108,
+        "end_time": 231163,
+        "text": "For example, a species of bacteria\nthat emits carbon dioxide"
+    },
+    {
+        "index": 72,
+        "start_time": 231163,
+        "end_time": 235122,
+        "text": "is what gives swiss cheese\nits characteristic holes."
+    },
+    {
+        "index": 73,
+        "start_time": 235122,
+        "end_time": 240204,
+        "text": "Some cheeses, brie and camembert,\nuse another kind of microorganism, too:"
+    },
+    {
+        "index": 74,
+        "start_time": 240204,
+        "end_time": 241745,
+        "text": "mold."
+    },
+    {
+        "index": 75,
+        "start_time": 241745,
+        "end_time": 245961,
+        "text": "So your kitchen functions as a sort of\nbiotechnology lab"
+    },
+    {
+        "index": 76,
+        "start_time": 245961,
+        "end_time": 250219,
+        "text": "manned by microorganisms \nthat culture your cuisine."
+    },
+    {
+        "index": 77,
+        "start_time": 250219,
+        "end_time": 253883,
+        "text": "Yogurt, soy sauce, sour cream, sauerkraut,"
+    },
+    {
+        "index": 78,
+        "start_time": 253883,
+        "end_time": 259907,
+        "text": "kefir, kimchi, kombucha, \ncheddar, challah, pita, and naan."
+    },
+    {
+        "index": 79,
+        "start_time": 259907,
+        "end_time": 262472,
+        "text": "But maybe not all at the same dinner."
+    }
+]

@@ -1,0 +1,824 @@
+[
+  {
+    "end_time": 9410,
+    "index": 1,
+    "start_time": 6786,
+    "text": "Most of us think of the Sun as our friend."
+  },
+  {
+    "end_time": 10854,
+    "index": 2,
+    "start_time": 9410,
+    "text": "It helps plants grow,"
+  },
+  {
+    "end_time": 11861,
+    "index": 3,
+    "start_time": 10854,
+    "text": "keeps us warm,"
+  },
+  {
+    "end_time": 15035,
+    "index": 4,
+    "start_time": 11862,
+    "text": "and who doesn&#39;t love to lie on the beach on a sunny day?"
+  },
+  {
+    "end_time": 16688,
+    "index": 5,
+    "start_time": 15035,
+    "text": "But for all of it&#39;s good qualities,"
+  },
+  {
+    "end_time": 19663,
+    "index": 6,
+    "start_time": 16688,
+    "text": "the Sun can also be harmful in large amounts."
+  },
+  {
+    "end_time": 22417,
+    "index": 7,
+    "start_time": 19664,
+    "text": "That&#39;s why we invented sunscreen."
+  },
+  {
+    "end_time": 24501,
+    "index": 8,
+    "start_time": 22417,
+    "text": "The purpose of sunscreen is to shield the body"
+  },
+  {
+    "end_time": 26680,
+    "index": 9,
+    "start_time": 24501,
+    "text": "from the Sun&#39;s ultraviolet rays,"
+  },
+  {
+    "end_time": 28220,
+    "index": 10,
+    "start_time": 26680,
+    "text": "which have several harmful effects,"
+  },
+  {
+    "end_time": 29191,
+    "index": 11,
+    "start_time": 28220,
+    "text": "including sunburn,"
+  },
+  {
+    "end_time": 29839,
+    "index": 12,
+    "start_time": 29191,
+    "text": "aging,"
+  },
+  {
+    "end_time": 32137,
+    "index": 13,
+    "start_time": 29839,
+    "text": "and skin cancer promotion."
+  },
+  {
+    "end_time": 33472,
+    "index": 14,
+    "start_time": 32137,
+    "text": "These rays are separated"
+  },
+  {
+    "end_time": 35112,
+    "index": 15,
+    "start_time": 33472,
+    "text": "by their different wave lengths,"
+  },
+  {
+    "end_time": 36725,
+    "index": 16,
+    "start_time": 35112,
+    "text": "into types such as UVA"
+  },
+  {
+    "end_time": 38311,
+    "index": 17,
+    "start_time": 36725,
+    "text": "and UVB,"
+  },
+  {
+    "end_time": 40524,
+    "index": 18,
+    "start_time": 38311,
+    "text": "which exert a variety of effects in the skin"
+  },
+  {
+    "end_time": 43305,
+    "index": 19,
+    "start_time": 40524,
+    "text": "due to the absorption patterns of chromophores,"
+  },
+  {
+    "end_time": 44319,
+    "index": 20,
+    "start_time": 43305,
+    "text": "the parts of the molecules"
+  },
+  {
+    "end_time": 46065,
+    "index": 21,
+    "start_time": 44319,
+    "text": "responsible for their color."
+  },
+  {
+    "end_time": 48568,
+    "index": 22,
+    "start_time": 46065,
+    "text": "The primary two chromophores are hemoglobin,"
+  },
+  {
+    "end_time": 50213,
+    "index": 23,
+    "start_time": 48568,
+    "text": "found in our red blood cells,"
+  },
+  {
+    "end_time": 53210,
+    "index": 24,
+    "start_time": 50213,
+    "text": "and melanin, which gives our skin its pigment."
+  },
+  {
+    "end_time": 56193,
+    "index": 25,
+    "start_time": 53210,
+    "text": "We know that UVB rays cause the skin to burn."
+  },
+  {
+    "end_time": 58873,
+    "index": 26,
+    "start_time": 56193,
+    "text": "The role of UVA rays is less well understood"
+  },
+  {
+    "end_time": 60413,
+    "index": 27,
+    "start_time": 58873,
+    "text": "and appears to have an effect"
+  },
+  {
+    "end_time": 62037,
+    "index": 28,
+    "start_time": 60414,
+    "text": "on our tanning response,"
+  },
+  {
+    "end_time": 63128,
+    "index": 29,
+    "start_time": 62037,
+    "text": "carcinogenesis,"
+  },
+  {
+    "end_time": 64459,
+    "index": 30,
+    "start_time": 63128,
+    "text": "and aging."
+  },
+  {
+    "end_time": 67122,
+    "index": 31,
+    "start_time": 64459,
+    "text": "So, how does the sunscreen protect us from these rays?"
+  },
+  {
+    "end_time": 69088,
+    "index": 32,
+    "start_time": 67122,
+    "text": "There are two basic types of sunscreen,"
+  },
+  {
+    "end_time": 71789,
+    "index": 33,
+    "start_time": 69088,
+    "text": "physical and chemical blockers."
+  },
+  {
+    "end_time": 73342,
+    "index": 34,
+    "start_time": 71790,
+    "text": "Physical blockers, like zinc oxide"
+  },
+  {
+    "end_time": 75410,
+    "index": 35,
+    "start_time": 73342,
+    "text": "or titanium dioxide,"
+  },
+  {
+    "end_time": 78399,
+    "index": 36,
+    "start_time": 75410,
+    "text": "reflect the Sun&#39;s rays by acting as a physical barrier."
+  },
+  {
+    "end_time": 80601,
+    "index": 37,
+    "start_time": 78399,
+    "text": "If you&#39;ve seen lifeguards with noses covered in white,"
+  },
+  {
+    "end_time": 82229,
+    "index": 38,
+    "start_time": 80601,
+    "text": "then you know what this looks like."
+  },
+  {
+    "end_time": 84355,
+    "index": 39,
+    "start_time": 82229,
+    "text": "The same ingredients are primary components"
+  },
+  {
+    "end_time": 85536,
+    "index": 40,
+    "start_time": 84355,
+    "text": "of diaper creams,"
+  },
+  {
+    "end_time": 88230,
+    "index": 41,
+    "start_time": 85536,
+    "text": "where the goal is also to create a physical barrier."
+  },
+  {
+    "end_time": 90534,
+    "index": 42,
+    "start_time": 88230,
+    "text": "Historically, they haven&#39;t always been easy to apply"
+  },
+  {
+    "end_time": 93160,
+    "index": 43,
+    "start_time": 90534,
+    "text": "and were conspicuously visible on the skin,"
+  },
+  {
+    "end_time": 96161,
+    "index": 44,
+    "start_time": 93160,
+    "text": "but new formulations have made this less of an issue."
+  },
+  {
+    "end_time": 97934,
+    "index": 45,
+    "start_time": 96161,
+    "text": "Chemical blockers, on the other hand,"
+  },
+  {
+    "end_time": 99813,
+    "index": 46,
+    "start_time": 97934,
+    "text": "absorb the Sun&#39;s rays."
+  },
+  {
+    "end_time": 102371,
+    "index": 47,
+    "start_time": 99813,
+    "text": "They deteriorate more quickly than physical sunscreens"
+  },
+  {
+    "end_time": 106098,
+    "index": 48,
+    "start_time": 102371,
+    "text": "because their ability to absorb the Sun diminishes."
+  },
+  {
+    "end_time": 108024,
+    "index": 49,
+    "start_time": 106099,
+    "text": "Generally, these are more transparent"
+  },
+  {
+    "end_time": 109494,
+    "index": 50,
+    "start_time": 108024,
+    "text": "when rubbed on the skin,"
+  },
+  {
+    "end_time": 111632,
+    "index": 51,
+    "start_time": 109494,
+    "text": "but some people develop allergric reactions"
+  },
+  {
+    "end_time": 113522,
+    "index": 52,
+    "start_time": 111632,
+    "text": "to some of the chemicals."
+  },
+  {
+    "end_time": 115345,
+    "index": 53,
+    "start_time": 113522,
+    "text": "Regardless of the type of sunscreen,"
+  },
+  {
+    "end_time": 116911,
+    "index": 54,
+    "start_time": 115345,
+    "text": "all are subjected to testing"
+  },
+  {
+    "end_time": 119263,
+    "index": 55,
+    "start_time": 116911,
+    "text": "to determine their sunburn protection factor,"
+  },
+  {
+    "end_time": 120663,
+    "index": 56,
+    "start_time": 119263,
+    "text": "or SPF."
+  },
+  {
+    "end_time": 122431,
+    "index": 57,
+    "start_time": 120663,
+    "text": "This is essentially a measure of the protection"
+  },
+  {
+    "end_time": 125301,
+    "index": 58,
+    "start_time": 122431,
+    "text": "that the sunscreen will provide from UVB rays"
+  },
+  {
+    "end_time": 127009,
+    "index": 59,
+    "start_time": 125301,
+    "text": "before one begins to burn."
+  },
+  {
+    "end_time": 128303,
+    "index": 60,
+    "start_time": 127009,
+    "text": "But even if you don&#39;t burn,"
+  },
+  {
+    "end_time": 129895,
+    "index": 61,
+    "start_time": 128303,
+    "text": "you still need to use sunscreen"
+  },
+  {
+    "end_time": 131684,
+    "index": 62,
+    "start_time": 129895,
+    "text": "because unless you live in a cave,"
+  },
+  {
+    "end_time": 134496,
+    "index": 63,
+    "start_time": 131684,
+    "text": "you&#39;re not immune to the effects of the Sun."
+  },
+  {
+    "end_time": 136492,
+    "index": 64,
+    "start_time": 134496,
+    "text": "It is true that darker skinned people"
+  },
+  {
+    "end_time": 137603,
+    "index": 65,
+    "start_time": 136492,
+    "text": "and those who tan easily"
+  },
+  {
+    "end_time": 140323,
+    "index": 66,
+    "start_time": 137604,
+    "text": "have more built-in protection from sunburns,"
+  },
+  {
+    "end_time": 141992,
+    "index": 67,
+    "start_time": 140323,
+    "text": "but they are still vulnerable"
+  },
+  {
+    "end_time": 143822,
+    "index": 68,
+    "start_time": 141992,
+    "text": "to the effects of UVA."
+  },
+  {
+    "end_time": 145808,
+    "index": 69,
+    "start_time": 143822,
+    "text": "Children under the age of six months,"
+  },
+  {
+    "end_time": 146660,
+    "index": 70,
+    "start_time": 145808,
+    "text": "on the other hand,"
+  },
+  {
+    "end_time": 148532,
+    "index": 71,
+    "start_time": 146660,
+    "text": "should have almost no sun exposure"
+  },
+  {
+    "end_time": 149951,
+    "index": 72,
+    "start_time": 148532,
+    "text": "as their protective mechanisms"
+  },
+  {
+    "end_time": 151489,
+    "index": 73,
+    "start_time": 149951,
+    "text": "are not fully functioning,"
+  },
+  {
+    "end_time": 153075,
+    "index": 74,
+    "start_time": 151489,
+    "text": "and their skin is more likely to absorb"
+  },
+  {
+    "end_time": 155453,
+    "index": 75,
+    "start_time": 153075,
+    "text": "any sunscreen that is applied."
+  },
+  {
+    "end_time": 157012,
+    "index": 76,
+    "start_time": 155454,
+    "text": "Wearing sunscreen helps protect"
+  },
+  {
+    "end_time": 160300,
+    "index": 77,
+    "start_time": 157012,
+    "text": "against the development of all three types of skin cancer:"
+  },
+  {
+    "end_time": 162341,
+    "index": 78,
+    "start_time": 160300,
+    "text": "basal cell carcinoma,"
+  },
+  {
+    "end_time": 164216,
+    "index": 79,
+    "start_time": 162341,
+    "text": "squamous cell carcinoma,"
+  },
+  {
+    "end_time": 165843,
+    "index": 80,
+    "start_time": 164216,
+    "text": "and melanoma."
+  },
+  {
+    "end_time": 167969,
+    "index": 81,
+    "start_time": 165843,
+    "text": "On a daily basis, the DNA in your cells"
+  },
+  {
+    "end_time": 169924,
+    "index": 82,
+    "start_time": 167969,
+    "text": "is developing mutations and errors"
+  },
+  {
+    "end_time": 171596,
+    "index": 83,
+    "start_time": 169925,
+    "text": "that are generally handled"
+  },
+  {
+    "end_time": 173681,
+    "index": 84,
+    "start_time": 171596,
+    "text": "by machinery within your cells,"
+  },
+  {
+    "end_time": 177163,
+    "index": 85,
+    "start_time": 173681,
+    "text": "but ultraviolet rays from the Sun lead to mutations"
+  },
+  {
+    "end_time": 179223,
+    "index": 86,
+    "start_time": 177163,
+    "text": "that the cell may not be able to overcome,"
+  },
+  {
+    "end_time": 180859,
+    "index": 87,
+    "start_time": 179223,
+    "text": "leading to uncontrolled growth"
+  },
+  {
+    "end_time": 182690,
+    "index": 88,
+    "start_time": 180859,
+    "text": "and eventual skin cancer."
+  },
+  {
+    "end_time": 184191,
+    "index": 89,
+    "start_time": 182690,
+    "text": "The scariest thing about this"
+  },
+  {
+    "end_time": 186456,
+    "index": 90,
+    "start_time": 184191,
+    "text": "is that usually you can&#39;t even see it happening"
+  },
+  {
+    "end_time": 188161,
+    "index": 91,
+    "start_time": 186456,
+    "text": "until its too late."
+  },
+  {
+    "end_time": 190584,
+    "index": 92,
+    "start_time": 188162,
+    "text": "But if these concrete risks to your health"
+  },
+  {
+    "end_time": 193613,
+    "index": 93,
+    "start_time": 190584,
+    "text": "are not enough to convince you to use sunscreen,"
+  },
+  {
+    "end_time": 196119,
+    "index": 94,
+    "start_time": 193613,
+    "text": "there are aesthetic reasons as well."
+  },
+  {
+    "end_time": 197603,
+    "index": 95,
+    "start_time": 196119,
+    "text": "Along with cigarette smoking,"
+  },
+  {
+    "end_time": 200747,
+    "index": 96,
+    "start_time": 197603,
+    "text": "sun damage is the leading cause of premature aging."
+  },
+  {
+    "end_time": 202748,
+    "index": 97,
+    "start_time": 200747,
+    "text": "Photoaging from chronic sun exposure"
+  },
+  {
+    "end_time": 205511,
+    "index": 98,
+    "start_time": 202748,
+    "text": "leads to a loss of elasticity in the skin,"
+  },
+  {
+    "end_time": 208329,
+    "index": 99,
+    "start_time": 205511,
+    "text": "in other words, making it look saggy."
+  },
+  {
+    "end_time": 209434,
+    "index": 100,
+    "start_time": 208330,
+    "text": "Take a look at this truck driver"
+  },
+  {
+    "end_time": 212171,
+    "index": 101,
+    "start_time": 209434,
+    "text": "who&#39;s left side was chronically exposed to the sun"
+  },
+  {
+    "end_time": 213911,
+    "index": 102,
+    "start_time": 212171,
+    "text": "and notice the difference."
+  },
+  {
+    "end_time": 215848,
+    "index": 103,
+    "start_time": 213911,
+    "text": "This is an important point."
+  },
+  {
+    "end_time": 218745,
+    "index": 104,
+    "start_time": 215848,
+    "text": "Car windows block UVB, the burn rays,"
+  },
+  {
+    "end_time": 221691,
+    "index": 105,
+    "start_time": 218745,
+    "text": "but not UVA, the aging rays."
+  },
+  {
+    "end_time": 224276,
+    "index": 106,
+    "start_time": 221691,
+    "text": "It is recommended to use sunscreen daily,"
+  },
+  {
+    "end_time": 225747,
+    "index": 107,
+    "start_time": 224276,
+    "text": "but you should pay special attention"
+  },
+  {
+    "end_time": 227694,
+    "index": 108,
+    "start_time": 225747,
+    "text": "before prolonged sun exposure"
+  },
+  {
+    "end_time": 228904,
+    "index": 109,
+    "start_time": 227694,
+    "text": "or when at the beach"
+  },
+  {
+    "end_time": 230119,
+    "index": 110,
+    "start_time": 228904,
+    "text": "or among snow"
+  },
+  {
+    "end_time": 232415,
+    "index": 111,
+    "start_time": 230119,
+    "text": "since the reflectivity of water and ice"
+  },
+  {
+    "end_time": 234757,
+    "index": 112,
+    "start_time": 232415,
+    "text": "amplifies the Sun&#39;s rays."
+  },
+  {
+    "end_time": 236834,
+    "index": 113,
+    "start_time": 234758,
+    "text": "For these cases, apply about an ounce"
+  },
+  {
+    "end_time": 238956,
+    "index": 114,
+    "start_time": 236834,
+    "text": "fifteen to thirty minutes before you go out"
+  },
+  {
+    "end_time": 241161,
+    "index": 115,
+    "start_time": 238956,
+    "text": "and once again soon after you get outside."
+  },
+  {
+    "end_time": 244325,
+    "index": 116,
+    "start_time": 241161,
+    "text": "After that, you should reapply it every two to three hours,"
+  },
+  {
+    "end_time": 246909,
+    "index": 117,
+    "start_time": 244325,
+    "text": "especially after swimming or sweating."
+  },
+  {
+    "end_time": 248507,
+    "index": 118,
+    "start_time": 246909,
+    "text": "Otherwise you should wear protective clothing"
+  },
+  {
+    "end_time": 252166,
+    "index": 119,
+    "start_time": 248508,
+    "text": "with ultraviolet protection factor, or UPF."
+  },
+  {
+    "end_time": 253250,
+    "index": 120,
+    "start_time": 252166,
+    "text": "Stay in shaded areas,"
+  },
+  {
+    "end_time": 255052,
+    "index": 121,
+    "start_time": 253250,
+    "text": "such as under trees or an umbrella,"
+  },
+  {
+    "end_time": 256637,
+    "index": 122,
+    "start_time": 255052,
+    "text": "and avoid the sun at the peak hours"
+  },
+  {
+    "end_time": 258603,
+    "index": 123,
+    "start_time": 256637,
+    "text": "of 10 a.m. to 4 p.m."
+  },
+  {
+    "end_time": 260985,
+    "index": 124,
+    "start_time": 258603,
+    "text": "And what&#39;s the best kind of sunscreen?"
+  },
+  {
+    "end_time": 262544,
+    "index": 125,
+    "start_time": 260985,
+    "text": "Everyone will have their preference,"
+  },
+  {
+    "end_time": 264674,
+    "index": 126,
+    "start_time": 262544,
+    "text": "but look for the following things:"
+  },
+  {
+    "end_time": 265751,
+    "index": 127,
+    "start_time": 264674,
+    "text": "broad spectra,"
+  },
+  {
+    "end_time": 267859,
+    "index": 128,
+    "start_time": 265752,
+    "text": "SPF of at least 30,"
+  },
+  {
+    "end_time": 269361,
+    "index": 129,
+    "start_time": 267859,
+    "text": "and water-resistant."
+  },
+  {
+    "end_time": 271365,
+    "index": 130,
+    "start_time": 269361,
+    "text": "A light moisturizer with SPF 30"
+  },
+  {
+    "end_time": 273521,
+    "index": 131,
+    "start_time": 271365,
+    "text": "should be good for daily use."
+  },
+  {
+    "end_time": 275495,
+    "index": 132,
+    "start_time": 273521,
+    "text": "Take note if you decide to use a spray."
+  },
+  {
+    "end_time": 278416,
+    "index": 133,
+    "start_time": 275495,
+    "text": "They take several coats to effectively cover your skin,"
+  },
+  {
+    "end_time": 280327,
+    "index": 134,
+    "start_time": 278416,
+    "text": "like painting a wall with a spray can"
+  },
+  {
+    "end_time": 281967,
+    "index": 135,
+    "start_time": 280327,
+    "text": "versus a paint brush."
+  },
+  {
+    "end_time": 283830,
+    "index": 136,
+    "start_time": 281967,
+    "text": "So, enjoy the sun,"
+  },
+  {
+    "end_time": 286223,
+    "index": 137,
+    "start_time": 283831,
+    "text": "but enjoy it with sunscreen."
+  }
+]

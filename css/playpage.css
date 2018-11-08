@@ -1,0 +1,24 @@
+.subtitle:hover {
+    background-color: #dddddd;
+}
+
+.subtitle {
+    vertical-align: middle;
+    display: inline-block;
+    border: 2px solid #dddddd;
+    word-wrap: break-word;
+    font-size:1.2em;
+    padding: 0 10px 0px 10px;
+    border-radius: 5px;
+}
+
+#subtitle_block {
+    margin-top: 5px;
+    background-color: #e6e6e6;
+    border: 1px solid #e6e6e6;
+    border-radius: 5px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    height: 380px;
+    padding: 0 5px 0 5px;
+}

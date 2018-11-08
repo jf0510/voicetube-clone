@@ -1,0 +1,470 @@
+[
+    {
+        "index": 1,
+        "start_time": 7184,
+        "end_time": 10724,
+        "text": "Testing, testing, one, two, three."
+    },
+    {
+        "index": 2,
+        "start_time": 10724,
+        "end_time": 15129,
+        "text": "When your band is trying to perform,\nfeedback is an annoying obstacle,"
+    },
+    {
+        "index": 3,
+        "start_time": 15129,
+        "end_time": 19509,
+        "text": "but in the grand orchestra of nature,\nfeedback is not only beneficial,"
+    },
+    {
+        "index": 4,
+        "start_time": 19509,
+        "end_time": 21672,
+        "text": "it&#39;s what makes everything work."
+    },
+    {
+        "index": 5,
+        "start_time": 21672,
+        "end_time": 23543,
+        "text": "What exactly is feedback?"
+    },
+    {
+        "index": 6,
+        "start_time": 23543,
+        "end_time": 27831,
+        "text": "The key element, whether in sound,\nthe environment or social science,"
+    },
+    {
+        "index": 7,
+        "start_time": 27831,
+        "end_time": 31392,
+        "text": "is a phenomenon called\nmutual causal interaction,"
+    },
+    {
+        "index": 8,
+        "start_time": 31392,
+        "end_time": 36106,
+        "text": "where x affects y, y affects x, and so on,"
+    },
+    {
+        "index": 9,
+        "start_time": 36106,
+        "end_time": 39822,
+        "text": "creating an ongoing process called \na feedback loop."
+    },
+    {
+        "index": 10,
+        "start_time": 39822,
+        "end_time": 42664,
+        "text": "And the natural world is full \nof these mechanisms"
+    },
+    {
+        "index": 11,
+        "start_time": 42664,
+        "end_time": 46171,
+        "text": "formed by the links between living \nand nonliving things"
+    },
+    {
+        "index": 12,
+        "start_time": 46171,
+        "end_time": 49347,
+        "text": "that build resilience by governing \nthe way populations"
+    },
+    {
+        "index": 13,
+        "start_time": 49347,
+        "end_time": 52432,
+        "text": "and food webs respond to events."
+    },
+    {
+        "index": 14,
+        "start_time": 52432,
+        "end_time": 57767,
+        "text": "When plants die, the dead material\nenriches the soil with humus,"
+    },
+    {
+        "index": 15,
+        "start_time": 57767,
+        "end_time": 61836,
+        "text": "a stable mass of organic matter,\nproviding moisture and nutrients"
+    },
+    {
+        "index": 16,
+        "start_time": 61836,
+        "end_time": 64019,
+        "text": "for other plants to grow."
+    },
+    {
+        "index": 17,
+        "start_time": 64019,
+        "end_time": 67545,
+        "text": "The more plants grow and die,\nthe more humus is produced,"
+    },
+    {
+        "index": 18,
+        "start_time": 67545,
+        "end_time": 70722,
+        "text": "allowing even more plants to grow,\nand so on."
+    },
+    {
+        "index": 19,
+        "start_time": 70722,
+        "end_time": 73421,
+        "text": "This is an example of positive feedback,"
+    },
+    {
+        "index": 20,
+        "start_time": 73421,
+        "end_time": 76694,
+        "text": "an essential force\nin the buildup of ecosystems."
+    },
+    {
+        "index": 21,
+        "start_time": 76694,
+        "end_time": 80009,
+        "text": "But it&#39;s not called positive feedback\nbecause it&#39;s beneficial."
+    },
+    {
+        "index": 22,
+        "start_time": 80009,
+        "end_time": 84146,
+        "text": "Rather, it is positive because it amplifies\na particular effect or change"
+    },
+    {
+        "index": 23,
+        "start_time": 84146,
+        "end_time": 86185,
+        "text": "from previous conditions."
+    },
+    {
+        "index": 24,
+        "start_time": 86185,
+        "end_time": 90149,
+        "text": "These positive, or amplifying, loops\ncan also be harmful,"
+    },
+    {
+        "index": 25,
+        "start_time": 90149,
+        "end_time": 93609,
+        "text": "like when removing a forest \nmakes it vulnerable to erosion,"
+    },
+    {
+        "index": 26,
+        "start_time": 93609,
+        "end_time": 96522,
+        "text": "which removes organic matter\nand nutrients from the earth,"
+    },
+    {
+        "index": 27,
+        "start_time": 96522,
+        "end_time": 101502,
+        "text": "leaving less plants to anchor the soil,\nand leading to more erosion."
+    },
+    {
+        "index": 28,
+        "start_time": 101502,
+        "end_time": 106622,
+        "text": "In contrast, negative feedback diminishes\nor counteracts changes in an ecosystem"
+    },
+    {
+        "index": 29,
+        "start_time": 106622,
+        "end_time": 109698,
+        "text": "to maintain a more stable balance."
+    },
+    {
+        "index": 30,
+        "start_time": 109698,
+        "end_time": 111969,
+        "text": "Consider predators and their prey."
+    },
+    {
+        "index": 31,
+        "start_time": 111969,
+        "end_time": 115930,
+        "text": "When lynx eat snowshoe hares,\nthey reduce their population,"
+    },
+    {
+        "index": 32,
+        "start_time": 115930,
+        "end_time": 120845,
+        "text": "but this drop in the lynx&#39;s food source will\nsoon cause their own population to decline,"
+    },
+    {
+        "index": 33,
+        "start_time": 120845,
+        "end_time": 125785,
+        "text": "reducing the predation rate and allowing \nthe hare population to increase again."
+    },
+    {
+        "index": 34,
+        "start_time": 125785,
+        "end_time": 129278,
+        "text": "The ongoing cycle creates an up and down\nwavelike pattern,"
+    },
+    {
+        "index": 35,
+        "start_time": 129278,
+        "end_time": 134865,
+        "text": "maintaining a long-term equilibrium and\nallowing a food chain to persist over time."
+    },
+    {
+        "index": 36,
+        "start_time": 134865,
+        "end_time": 138344,
+        "text": "Feedback processes might seem\ncounterintuitive because many of us"
+    },
+    {
+        "index": 37,
+        "start_time": 138344,
+        "end_time": 142434,
+        "text": "are used to more predictable linear\nscenarios of cause and effect."
+    },
+    {
+        "index": 38,
+        "start_time": 142434,
+        "end_time": 144437,
+        "text": "For instance, it seems simple enough that"
+    },
+    {
+        "index": 39,
+        "start_time": 144437,
+        "end_time": 149209,
+        "text": "spraying pesticides would help plants grow\nby killing pest insects,"
+    },
+    {
+        "index": 40,
+        "start_time": 149209,
+        "end_time": 152882,
+        "text": "but it may trigger a host of other\nunexpected reactions."
+    },
+    {
+        "index": 41,
+        "start_time": 152882,
+        "end_time": 156764,
+        "text": "For example, if spraying pushes down\nthe insect population,"
+    },
+    {
+        "index": 42,
+        "start_time": 156764,
+        "end_time": 158835,
+        "text": "its predators will have less food."
+    },
+    {
+        "index": 43,
+        "start_time": 158835,
+        "end_time": 160421,
+        "text": "As their population dips,"
+    },
+    {
+        "index": 44,
+        "start_time": 160421,
+        "end_time": 164487,
+        "text": "the reduced predation would allow the\ninsect population to rise,"
+    },
+    {
+        "index": 45,
+        "start_time": 164487,
+        "end_time": 167289,
+        "text": "counteracting the effects of \nour pesticides."
+    },
+    {
+        "index": 46,
+        "start_time": 167289,
+        "end_time": 171743,
+        "text": "Note that each feedback is\nthe product of the links in the loop."
+    },
+    {
+        "index": 47,
+        "start_time": 171743,
+        "end_time": 176581,
+        "text": "Add one negative link and it will\nreverse the feedback force entirely,"
+    },
+    {
+        "index": 48,
+        "start_time": 176581,
+        "end_time": 181777,
+        "text": "and one weak link will reduce the\neffect of the entire feedback considerably."
+    },
+    {
+        "index": 49,
+        "start_time": 181777,
+        "end_time": 185011,
+        "text": "Lose a link, and the whole loop is broken."
+    },
+    {
+        "index": 50,
+        "start_time": 185011,
+        "end_time": 186850,
+        "text": "But this is only a simple example,"
+    },
+    {
+        "index": 51,
+        "start_time": 186850,
+        "end_time": 190283,
+        "text": "since natural communities consist not \nof separate food chains,"
+    },
+    {
+        "index": 52,
+        "start_time": 190283,
+        "end_time": 192619,
+        "text": "but networks of interactions."
+    },
+    {
+        "index": 53,
+        "start_time": 192619,
+        "end_time": 197073,
+        "text": "Feedback loops will often be indirect,\noccurring through longer chains."
+    },
+    {
+        "index": 54,
+        "start_time": 197073,
+        "end_time": 201516,
+        "text": "A food web containing twenty populations\ncan generate thousands of loops"
+    },
+    {
+        "index": 55,
+        "start_time": 201516,
+        "end_time": 203680,
+        "text": "of up to twenty links in length."
+    },
+    {
+        "index": 56,
+        "start_time": 203680,
+        "end_time": 206448,
+        "text": "But instead of forming a disordered \ncacophany,"
+    },
+    {
+        "index": 57,
+        "start_time": 206448,
+        "end_time": 210059,
+        "text": "feedback loops in ecological systems\nplay together,"
+    },
+    {
+        "index": 58,
+        "start_time": 210059,
+        "end_time": 213059,
+        "text": "creating regular patterns\njust like multiple instruments,"
+    },
+    {
+        "index": 59,
+        "start_time": 213059,
+        "end_time": 217237,
+        "text": "coming together to create a complex\nbut harmonious piece of music."
+    },
+    {
+        "index": 60,
+        "start_time": 217237,
+        "end_time": 221183,
+        "text": "Wide-ranging negative feedbacks\nkeep the positive feedbacks in check,"
+    },
+    {
+        "index": 61,
+        "start_time": 221183,
+        "end_time": 223878,
+        "text": "like drums maintaining a rhythm."
+    },
+    {
+        "index": 62,
+        "start_time": 223878,
+        "end_time": 227678,
+        "text": "You can look at the way a particular\necosystem functions within its unique habitat"
+    },
+    {
+        "index": 63,
+        "start_time": 227678,
+        "end_time": 231157,
+        "text": "as representing its trademark sound."
+    },
+    {
+        "index": 64,
+        "start_time": 231157,
+        "end_time": 234872,
+        "text": "Ocean environments dominated \nby predator-prey interactions,"
+    },
+    {
+        "index": 65,
+        "start_time": 234872,
+        "end_time": 239347,
+        "text": "and strong negative and positive loops\nstabilized by self-damping feedback,"
+    },
+    {
+        "index": 66,
+        "start_time": 239347,
+        "end_time": 243744,
+        "text": "are powerful and loud,\nwith many oscillations."
+    },
+    {
+        "index": 67,
+        "start_time": 243744,
+        "end_time": 247416,
+        "text": "Desert ecosystems, where the \nturn over of biomass is slow,"
+    },
+    {
+        "index": 68,
+        "start_time": 247416,
+        "end_time": 252869,
+        "text": "and the weak feedbacks loops through dead\nmatter are more like a constant drone."
+    },
+    {
+        "index": 69,
+        "start_time": 252869,
+        "end_time": 256146,
+        "text": "And the tropical rainforest,\nwith its great diversity of species,"
+    },
+    {
+        "index": 70,
+        "start_time": 256146,
+        "end_time": 261412,
+        "text": "high nutrient turnover, and strong feedbacks\namong both living and dead matter,"
+    },
+    {
+        "index": 71,
+        "start_time": 261412,
+        "end_time": 264320,
+        "text": "is like a lush panoply of sounds."
+    },
+    {
+        "index": 72,
+        "start_time": 264320,
+        "end_time": 266074,
+        "text": "Despite their stabilizing effects,"
+    },
+    {
+        "index": 73,
+        "start_time": 266074,
+        "end_time": 271247,
+        "text": "many of these habitats and their \necosystems develop and change over time,"
+    },
+    {
+        "index": 74,
+        "start_time": 271247,
+        "end_time": 273614,
+        "text": "as do the harmonies they create."
+    },
+    {
+        "index": 75,
+        "start_time": 273614,
+        "end_time": 277437,
+        "text": "Deforestation may turn lush tropics\ninto a barren patch,"
+    },
+    {
+        "index": 76,
+        "start_time": 277437,
+        "end_time": 281982,
+        "text": "like a successful ensemble breaking up\nafter losing its star performers."
+    },
+    {
+        "index": 77,
+        "start_time": 281982,
+        "end_time": 286234,
+        "text": "But an abandoned patch of farmland\nmay also become a forest over time,"
+    },
+    {
+        "index": 78,
+        "start_time": 286234,
+        "end_time": 291184,
+        "text": "like a garage band growing into\na magnificent orchestra."
+    }
+]

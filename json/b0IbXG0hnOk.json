@@ -1,0 +1,536 @@
+[
+    {
+        "index": 1,
+        "start_time": 6842,
+        "end_time": 11668,
+        "text": "Many of the inanimate objects around you\nprobably seem perfectly still."
+    },
+    {
+        "index": 2,
+        "start_time": 11668,
+        "end_time": 15663,
+        "text": "But look deep into the atomic structure\nof any of them,"
+    },
+    {
+        "index": 3,
+        "start_time": 15663,
+        "end_time": 18333,
+        "text": "and you&#39;ll see a world in constant flux."
+    },
+    {
+        "index": 4,
+        "start_time": 18333,
+        "end_time": 19138,
+        "text": "Stretching,"
+    },
+    {
+        "index": 5,
+        "start_time": 19138,
+        "end_time": 20067,
+        "text": "contracting,"
+    },
+    {
+        "index": 6,
+        "start_time": 20067,
+        "end_time": 21002,
+        "text": "springing,"
+    },
+    {
+        "index": 7,
+        "start_time": 21002,
+        "end_time": 21977,
+        "text": "jittering,"
+    },
+    {
+        "index": 8,
+        "start_time": 21977,
+        "end_time": 25158,
+        "text": "drifting atoms everywhere."
+    },
+    {
+        "index": 9,
+        "start_time": 25158,
+        "end_time": 28355,
+        "text": "And though that movement may seem chaotic,\nit&#39;s not random."
+    },
+    {
+        "index": 10,
+        "start_time": 28355,
+        "end_time": 29890,
+        "text": "Atoms that are bonded together,"
+    },
+    {
+        "index": 11,
+        "start_time": 29890,
+        "end_time": 32269,
+        "text": "and that describes almost all substances,"
+    },
+    {
+        "index": 12,
+        "start_time": 32269,
+        "end_time": 34881,
+        "text": "move according to a set of principles."
+    },
+    {
+        "index": 13,
+        "start_time": 34881,
+        "end_time": 39776,
+        "text": "For example, take molecules,\natoms held together by covalent bonds."
+    },
+    {
+        "index": 14,
+        "start_time": 39776,
+        "end_time": 42322,
+        "text": "There are three basic ways \nmolecules can move:"
+    },
+    {
+        "index": 15,
+        "start_time": 42322,
+        "end_time": 43214,
+        "text": "rotation,"
+    },
+    {
+        "index": 16,
+        "start_time": 43214,
+        "end_time": 44337,
+        "text": "translation,"
+    },
+    {
+        "index": 17,
+        "start_time": 44337,
+        "end_time": 45886,
+        "text": "and vibration."
+    },
+    {
+        "index": 18,
+        "start_time": 45886,
+        "end_time": 49038,
+        "text": "Rotation and translation \nmove a molecule in space"
+    },
+    {
+        "index": 19,
+        "start_time": 49038,
+        "end_time": 52166,
+        "text": "while its atoms stay \nthe same distance apart."
+    },
+    {
+        "index": 20,
+        "start_time": 52166,
+        "end_time": 55608,
+        "text": "Vibration, on the other hand, \nchanges those distances,"
+    },
+    {
+        "index": 21,
+        "start_time": 55608,
+        "end_time": 58250,
+        "text": "actually altering the molecule&#39;s shape."
+    },
+    {
+        "index": 22,
+        "start_time": 58250,
+        "end_time": 62688,
+        "text": "For any molecule, you can count up\nthe number of different ways it can move."
+    },
+    {
+        "index": 23,
+        "start_time": 62688,
+        "end_time": 65304,
+        "text": "That corresponds to \nits degrees of freedom,"
+    },
+    {
+        "index": 24,
+        "start_time": 65304,
+        "end_time": 66941,
+        "text": "which in the context of mechanics"
+    },
+    {
+        "index": 25,
+        "start_time": 66941,
+        "end_time": 70450,
+        "text": "basically means the number of variables\nwe need to take into account"
+    },
+    {
+        "index": 26,
+        "start_time": 70450,
+        "end_time": 73345,
+        "text": "to understand the full system."
+    },
+    {
+        "index": 27,
+        "start_time": 73345,
+        "end_time": 78019,
+        "text": "Three-dimensional space is defined by\nx, y, and z axes."
+    },
+    {
+        "index": 28,
+        "start_time": 78019,
+        "end_time": 83034,
+        "text": "Translation allows the molecule to move\nin the direction of any of them."
+    },
+    {
+        "index": 29,
+        "start_time": 83034,
+        "end_time": 85098,
+        "text": "That&#39;s three degrees of freedom."
+    },
+    {
+        "index": 30,
+        "start_time": 85098,
+        "end_time": 88758,
+        "text": "It can also rotate around \nany of these three axes."
+    },
+    {
+        "index": 31,
+        "start_time": 88758,
+        "end_time": 89990,
+        "text": "That&#39;s three more,"
+    },
+    {
+        "index": 32,
+        "start_time": 89990,
+        "end_time": 93042,
+        "text": "unless it&#39;s a linear molecule, \nlike carbon dioxide."
+    },
+    {
+        "index": 33,
+        "start_time": 93042,
+        "end_time": 97457,
+        "text": "There, one of the rotations just spins\nthe molecule around its own axis,"
+    },
+    {
+        "index": 34,
+        "start_time": 97457,
+        "end_time": 101607,
+        "text": "which doesn&#39;t count because it doesn&#39;t\nchange the position of the atoms."
+    },
+    {
+        "index": 35,
+        "start_time": 101607,
+        "end_time": 104596,
+        "text": "Vibration is where it gets a bit tricky."
+    },
+    {
+        "index": 36,
+        "start_time": 104596,
+        "end_time": 106979,
+        "text": "Let&#39;s take a simple molecule,\nlike hydrogen."
+    },
+    {
+        "index": 37,
+        "start_time": 106979,
+        "end_time": 111682,
+        "text": "The length of the bond that holds the two\natoms together is constantly changing"
+    },
+    {
+        "index": 38,
+        "start_time": 111682,
+        "end_time": 114479,
+        "text": "as if the atoms were connected \nby a spring."
+    },
+    {
+        "index": 39,
+        "start_time": 114479,
+        "end_time": 118985,
+        "text": "That change in distance is tiny,\nless than a billionth of a meter."
+    },
+    {
+        "index": 40,
+        "start_time": 118985,
+        "end_time": 123791,
+        "text": "The more atoms and bonds a molecule has,\nthe more vibrational modes."
+    },
+    {
+        "index": 41,
+        "start_time": 123791,
+        "end_time": 126816,
+        "text": "For example, a water molecule \nhas three atoms:"
+    },
+    {
+        "index": 42,
+        "start_time": 126816,
+        "end_time": 130164,
+        "text": "one oxygen and two hydrogens,\nand two bonds."
+    },
+    {
+        "index": 43,
+        "start_time": 130164,
+        "end_time": 132476,
+        "text": "That gives it three modes of vibration:"
+    },
+    {
+        "index": 44,
+        "start_time": 132476,
+        "end_time": 133824,
+        "text": "symmetric stretching,"
+    },
+    {
+        "index": 45,
+        "start_time": 133824,
+        "end_time": 135408,
+        "text": "asymmetric stretching,"
+    },
+    {
+        "index": 46,
+        "start_time": 135408,
+        "end_time": 136896,
+        "text": "and bending."
+    },
+    {
+        "index": 47,
+        "start_time": 136896,
+        "end_time": 141142,
+        "text": "More complicated molecules have even\nfancier vibrational modes,"
+    },
+    {
+        "index": 48,
+        "start_time": 141142,
+        "end_time": 142426,
+        "text": "like rocking,"
+    },
+    {
+        "index": 49,
+        "start_time": 142426,
+        "end_time": 143607,
+        "text": "wagging,"
+    },
+    {
+        "index": 50,
+        "start_time": 143607,
+        "end_time": 145195,
+        "text": "and twisting."
+    },
+    {
+        "index": 51,
+        "start_time": 145195,
+        "end_time": 149854,
+        "text": "If you know how many atoms a molecule has,\nyou can count its vibrational modes."
+    },
+    {
+        "index": 52,
+        "start_time": 149854,
+        "end_time": 152011,
+        "text": "Start with the total degrees of freedom,"
+    },
+    {
+        "index": 53,
+        "start_time": 152011,
+        "end_time": 155427,
+        "text": "which is three times the number\nof atoms in the molecule."
+    },
+    {
+        "index": 54,
+        "start_time": 155427,
+        "end_time": 158837,
+        "text": "That&#39;s because each atom can move\nin three different directions."
+    },
+    {
+        "index": 55,
+        "start_time": 158837,
+        "end_time": 161393,
+        "text": "Three of the total correspond \nto translation"
+    },
+    {
+        "index": 56,
+        "start_time": 161393,
+        "end_time": 164633,
+        "text": "when all the atoms \nare going in the same direction."
+    },
+    {
+        "index": 57,
+        "start_time": 164633,
+        "end_time": 169430,
+        "text": "And three, or two for linear molecules,\ncorrespond to rotations."
+    },
+    {
+        "index": 58,
+        "start_time": 169430,
+        "end_time": 173999,
+        "text": "All the rest, 3N-6\nor 3N-5 for linear molecules,"
+    },
+    {
+        "index": 59,
+        "start_time": 173999,
+        "end_time": 176127,
+        "text": "are vibrations."
+    },
+    {
+        "index": 60,
+        "start_time": 176127,
+        "end_time": 177961,
+        "text": "So what&#39;s causing all this motion?"
+    },
+    {
+        "index": 61,
+        "start_time": 177961,
+        "end_time": 182053,
+        "text": "Molecules move because they absorb\nenergy from their surroundings,"
+    },
+    {
+        "index": 62,
+        "start_time": 182053,
+        "end_time": 185748,
+        "text": "mainly in the form of heat\nor electromagnetic radiation."
+    },
+    {
+        "index": 63,
+        "start_time": 185748,
+        "end_time": 188355,
+        "text": "When this energy gets transferred\nto the molecules,"
+    },
+    {
+        "index": 64,
+        "start_time": 188355,
+        "end_time": 189415,
+        "text": "they vibrate,"
+    },
+    {
+        "index": 65,
+        "start_time": 189415,
+        "end_time": 190221,
+        "text": "rotate,"
+    },
+    {
+        "index": 66,
+        "start_time": 190221,
+        "end_time": 192507,
+        "text": "or translate faster."
+    },
+    {
+        "index": 67,
+        "start_time": 192507,
+        "end_time": 196534,
+        "text": "Faster motion increases the kinetic energy\nof the molecules and atoms."
+    },
+    {
+        "index": 68,
+        "start_time": 196534,
+        "end_time": 200792,
+        "text": "We define this as an increase \nin temperature and thermal energy."
+    },
+    {
+        "index": 69,
+        "start_time": 200792,
+        "end_time": 205445,
+        "text": "This is the phenomenon your microwave oven\nuses to heat your food."
+    },
+    {
+        "index": 70,
+        "start_time": 205445,
+        "end_time": 209247,
+        "text": "The oven emits microwave radiation,\nwhich is absorbed by the molecules,"
+    },
+    {
+        "index": 71,
+        "start_time": 209247,
+        "end_time": 211723,
+        "text": "especially those of water."
+    },
+    {
+        "index": 72,
+        "start_time": 211723,
+        "end_time": 213659,
+        "text": "They move around faster and faster,"
+    },
+    {
+        "index": 73,
+        "start_time": 213659,
+        "end_time": 218101,
+        "text": "bumping into each other and increasing\nthe food&#39;s temperature and thermal energy."
+    },
+    {
+        "index": 74,
+        "start_time": 218101,
+        "end_time": 220513,
+        "text": "The greenhouse effect is another example."
+    },
+    {
+        "index": 75,
+        "start_time": 220513,
+        "end_time": 223250,
+        "text": "Some of the solar radiation \nthat hits the Earth&#39;s surface"
+    },
+    {
+        "index": 76,
+        "start_time": 223250,
+        "end_time": 225605,
+        "text": "is reflected back to the atmosphere."
+    },
+    {
+        "index": 77,
+        "start_time": 225605,
+        "end_time": 231006,
+        "text": "Greenhouse gases, like water vapor\nand carbon dioxide absorb this radiation"
+    },
+    {
+        "index": 78,
+        "start_time": 231006,
+        "end_time": 232491,
+        "text": "and speed up."
+    },
+    {
+        "index": 79,
+        "start_time": 232491,
+        "end_time": 237573,
+        "text": "These hotter, faster-moving molecules\nemit infrared radiation in all directions,"
+    },
+    {
+        "index": 80,
+        "start_time": 237573,
+        "end_time": 240346,
+        "text": "including back to Earth, warming it."
+    },
+    {
+        "index": 81,
+        "start_time": 240346,
+        "end_time": 243338,
+        "text": "Does all this molecular motion ever stop?"
+    },
+    {
+        "index": 82,
+        "start_time": 243338,
+        "end_time": 245940,
+        "text": "You might think that would happen\nat absolute zero,"
+    },
+    {
+        "index": 83,
+        "start_time": 245940,
+        "end_time": 247815,
+        "text": "the coldest possible temperature."
+    },
+    {
+        "index": 84,
+        "start_time": 247815,
+        "end_time": 250677,
+        "text": "No one&#39;s ever managed to cool\nanything down that much,"
+    },
+    {
+        "index": 85,
+        "start_time": 250677,
+        "end_time": 251998,
+        "text": "but even if we could,"
+    },
+    {
+        "index": 86,
+        "start_time": 251998,
+        "end_time": 256213,
+        "text": "molecules would still move due to\na quantum mechanical principle"
+    },
+    {
+        "index": 87,
+        "start_time": 256213,
+        "end_time": 258561,
+        "text": "called zero-point energy."
+    },
+    {
+        "index": 88,
+        "start_time": 258561,
+        "end_time": 262747,
+        "text": "In other words, everything has been moving\nsince the universe&#39;s very first moments,"
+    },
+    {
+        "index": 89,
+        "start_time": 262747,
+        "end_time": 266220,
+        "text": "and will keep going long, \nlong after we&#39;re gone."
+    }
+]

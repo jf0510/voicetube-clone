@@ -1,0 +1,476 @@
+[
+    {
+        "index": 1,
+        "start_time": 8411,
+        "end_time": 13261,
+        "text": "The city has just opened its\none-of-a-kind Faberg\u00e9 Egg Museum"
+    },
+    {
+        "index": 2,
+        "start_time": 13261,
+        "end_time": 18832,
+        "text": "with a single egg displayed on each floor\nof a 100-story building."
+    },
+    {
+        "index": 3,
+        "start_time": 18832,
+        "end_time": 24571,
+        "text": "And the world&#39;s most notorious jewel thief\nalready has her eyes on the prize."
+    },
+    {
+        "index": 4,
+        "start_time": 24571,
+        "end_time": 27962,
+        "text": "Because security is tight\nand the eggs are so large,"
+    },
+    {
+        "index": 5,
+        "start_time": 27962,
+        "end_time": 30762,
+        "text": "she&#39;ll only get the chance to steal one"
+    },
+    {
+        "index": 6,
+        "start_time": 30762,
+        "end_time": 33812,
+        "text": "by dropping it out the window\ninto her waiting truck"
+    },
+    {
+        "index": 7,
+        "start_time": 33812,
+        "end_time": 37854,
+        "text": "and repelling down \nbefore the police can arrive."
+    },
+    {
+        "index": 8,
+        "start_time": 37854,
+        "end_time": 41253,
+        "text": "All eggs are identical in weight\nand construction,"
+    },
+    {
+        "index": 9,
+        "start_time": 41253,
+        "end_time": 47153,
+        "text": "but each floor&#39;s egg is more rare \nand valuable than the one below it."
+    },
+    {
+        "index": 10,
+        "start_time": 47153,
+        "end_time": 50931,
+        "text": "While the thief would naturally like\nto take the priceless egg at the top,"
+    },
+    {
+        "index": 11,
+        "start_time": 50931,
+        "end_time": 54992,
+        "text": "she suspects it won&#39;t survive\na 100-story drop."
+    },
+    {
+        "index": 12,
+        "start_time": 54992,
+        "end_time": 60472,
+        "text": "Being pragmatic, she decides to settle\nfor the most expensive egg she can get."
+    },
+    {
+        "index": 13,
+        "start_time": 60472,
+        "end_time": 64394,
+        "text": "In the museum&#39;s gift shop, \nshe finds two souvenir eggs,"
+    },
+    {
+        "index": 14,
+        "start_time": 64394,
+        "end_time": 67973,
+        "text": "perfect replicas \nthat are perfectly worthless."
+    },
+    {
+        "index": 15,
+        "start_time": 67973,
+        "end_time": 70031,
+        "text": "The plan is to test drop them"
+    },
+    {
+        "index": 16,
+        "start_time": 70031,
+        "end_time": 74566,
+        "text": "to find the highest floor \nat which an egg will survive the fall"
+    },
+    {
+        "index": 17,
+        "start_time": 74566,
+        "end_time": 75914,
+        "text": "without breaking."
+    },
+    {
+        "index": 18,
+        "start_time": 75914,
+        "end_time": 78443,
+        "text": "Of course, the experiment \ncan only be repeated"
+    },
+    {
+        "index": 19,
+        "start_time": 78443,
+        "end_time": 81913,
+        "text": "until both replica eggs are smashed."
+    },
+    {
+        "index": 20,
+        "start_time": 81913,
+        "end_time": 84703,
+        "text": "And throwing souvenirs out the window\ntoo many times"
+    },
+    {
+        "index": 21,
+        "start_time": 84703,
+        "end_time": 88224,
+        "text": "is probably going to draw \nthe guards&#39; attention."
+    },
+    {
+        "index": 22,
+        "start_time": 88224,
+        "end_time": 90684,
+        "text": "What&#39;s the least number of tries\nit would take"
+    },
+    {
+        "index": 23,
+        "start_time": 90684,
+        "end_time": 94234,
+        "text": "to guarantee that \nshe find the right floor?"
+    },
+    {
+        "index": 24,
+        "start_time": 94234,
+        "end_time": 97519,
+        "text": "Pause here if you want \nto figure it out for yourself!"
+    },
+    {
+        "index": 25,
+        "start_time": 97519,
+        "end_time": 98954,
+        "text": "Answer in: 3"
+    },
+    {
+        "index": 26,
+        "start_time": 98954,
+        "end_time": 100388,
+        "text": "Answer in: 2"
+    },
+    {
+        "index": 27,
+        "start_time": 100388,
+        "end_time": 101827,
+        "text": "Answer in: 1"
+    },
+    {
+        "index": 28,
+        "start_time": 101827,
+        "end_time": 104558,
+        "text": "If you&#39;re having trouble getting started\non the solution,"
+    },
+    {
+        "index": 29,
+        "start_time": 104558,
+        "end_time": 107394,
+        "text": "it might help to start \nwith a simpler scenario."
+    },
+    {
+        "index": 30,
+        "start_time": 107394,
+        "end_time": 110663,
+        "text": "Imagine our thief only \nhad one replica egg."
+    },
+    {
+        "index": 31,
+        "start_time": 110663,
+        "end_time": 112659,
+        "text": "She&#39;d have a single option:"
+    },
+    {
+        "index": 32,
+        "start_time": 112659,
+        "end_time": 115175,
+        "text": "To start by dropping it \nfrom the first floor"
+    },
+    {
+        "index": 33,
+        "start_time": 115175,
+        "end_time": 118517,
+        "text": "and go up one by one until it breaks."
+    },
+    {
+        "index": 34,
+        "start_time": 118517,
+        "end_time": 120956,
+        "text": "Then she&#39;d know that the floor below that"
+    },
+    {
+        "index": 35,
+        "start_time": 120956,
+        "end_time": 124185,
+        "text": "is the one she needs \nto target for the real heist."
+    },
+    {
+        "index": 36,
+        "start_time": 124185,
+        "end_time": 127166,
+        "text": "But this could require \nas many as 100 tries."
+    },
+    {
+        "index": 37,
+        "start_time": 127166,
+        "end_time": 132065,
+        "text": "Having an additional replica egg\ngives the thief a better option."
+    },
+    {
+        "index": 38,
+        "start_time": 132065,
+        "end_time": 136217,
+        "text": "She can drop the first egg from different\nfloors at larger intervals"
+    },
+    {
+        "index": 39,
+        "start_time": 136217,
+        "end_time": 141125,
+        "text": "in order to narrow down the range\nwhere the critical floor can be found."
+    },
+    {
+        "index": 40,
+        "start_time": 141125,
+        "end_time": 142787,
+        "text": "And once the first breaks,"
+    },
+    {
+        "index": 41,
+        "start_time": 142787,
+        "end_time": 148047,
+        "text": "she can use the second egg to explore\nthat interval floor by floor."
+    },
+    {
+        "index": 42,
+        "start_time": 148047,
+        "end_time": 151509,
+        "text": "Large floor intervals don&#39;t work great."
+    },
+    {
+        "index": 43,
+        "start_time": 151509,
+        "end_time": 156336,
+        "text": "In the worst case scenario, they require\nmany tests with the second egg."
+    },
+    {
+        "index": 44,
+        "start_time": 156336,
+        "end_time": 159077,
+        "text": "Smaller intervals work much better."
+    },
+    {
+        "index": 45,
+        "start_time": 159077,
+        "end_time": 163577,
+        "text": "For example, if she starts by dropping\nthe first egg from every 10th floor,"
+    },
+    {
+        "index": 46,
+        "start_time": 163577,
+        "end_time": 168258,
+        "text": "once it breaks, she&#39;ll only have to test\nthe nine floors below."
+    },
+    {
+        "index": 47,
+        "start_time": 168258,
+        "end_time": 174538,
+        "text": "That means it&#39;ll take at most\n19 tries to find the right floor."
+    },
+    {
+        "index": 48,
+        "start_time": 174538,
+        "end_time": 176824,
+        "text": "But can she do even better?"
+    },
+    {
+        "index": 49,
+        "start_time": 176824,
+        "end_time": 181591,
+        "text": "After all, there&#39;s no reason \nevery interval has to be the same size."
+    },
+    {
+        "index": 50,
+        "start_time": 181591,
+        "end_time": 183960,
+        "text": "Let&#39;s say there were only ten floors."
+    },
+    {
+        "index": 51,
+        "start_time": 183960,
+        "end_time": 188175,
+        "text": "The thief could test this whole building\nwith just four total throws"
+    },
+    {
+        "index": 52,
+        "start_time": 188175,
+        "end_time": 190670,
+        "text": "by dropping the first egg\nat floors four,"
+    },
+    {
+        "index": 53,
+        "start_time": 190670,
+        "end_time": 191819,
+        "text": "seven,"
+    },
+    {
+        "index": 54,
+        "start_time": 191819,
+        "end_time": 193270,
+        "text": "and nine."
+    },
+    {
+        "index": 55,
+        "start_time": 193270,
+        "end_time": 197915,
+        "text": "If it broke at floor four, it would take\nup to three throws of the second egg"
+    },
+    {
+        "index": 56,
+        "start_time": 197915,
+        "end_time": 199774,
+        "text": "to find the exact floor."
+    },
+    {
+        "index": 57,
+        "start_time": 199774,
+        "end_time": 201010,
+        "text": "If it broke at seven,"
+    },
+    {
+        "index": 58,
+        "start_time": 201010,
+        "end_time": 203962,
+        "text": "it would take up to two throws\nwith the second egg."
+    },
+    {
+        "index": 59,
+        "start_time": 203962,
+        "end_time": 206140,
+        "text": "And if it broke at floor nine,"
+    },
+    {
+        "index": 60,
+        "start_time": 206140,
+        "end_time": 209980,
+        "text": "it would take just one more\nthrow of the second egg."
+    },
+    {
+        "index": 61,
+        "start_time": 209980,
+        "end_time": 214720,
+        "text": "Intuitively, what we&#39;re trying to do here\nis divide the building into sections"
+    },
+    {
+        "index": 62,
+        "start_time": 214720,
+        "end_time": 217172,
+        "text": "where no matter which floor is correct,"
+    },
+    {
+        "index": 63,
+        "start_time": 217172,
+        "end_time": 221312,
+        "text": "it takes up to the same number\nof throws to find it."
+    },
+    {
+        "index": 64,
+        "start_time": 221312,
+        "end_time": 226411,
+        "text": "We want each interval to be one floor\nsmaller than the last."
+    },
+    {
+        "index": 65,
+        "start_time": 226411,
+        "end_time": 230552,
+        "text": "This equation can help us solve\nfor the first floor we need to start with"
+    },
+    {
+        "index": 66,
+        "start_time": 230552,
+        "end_time": 233607,
+        "text": "in the 100 floor building."
+    },
+    {
+        "index": 67,
+        "start_time": 233607,
+        "end_time": 236733,
+        "text": "There are several ways \nto solve this equation,"
+    },
+    {
+        "index": 68,
+        "start_time": 236733,
+        "end_time": 238426,
+        "text": "including trial and error."
+    },
+    {
+        "index": 69,
+        "start_time": 238426,
+        "end_time": 242677,
+        "text": "If we plug in two for n,\nthat equation would look like this."
+    },
+    {
+        "index": 70,
+        "start_time": 242677,
+        "end_time": 245233,
+        "text": "If we plug in three, we get this."
+    },
+    {
+        "index": 71,
+        "start_time": 245233,
+        "end_time": 248963,
+        "text": "So we can find the first n to pass 100"
+    },
+    {
+        "index": 72,
+        "start_time": 248963,
+        "end_time": 252462,
+        "text": "by adding more terms \nuntil we get to our answer,"
+    },
+    {
+        "index": 73,
+        "start_time": 252462,
+        "end_time": 254723,
+        "text": "which is 14."
+    },
+    {
+        "index": 74,
+        "start_time": 254723,
+        "end_time": 257694,
+        "text": "And so our thief starts on the 14th floor,"
+    },
+    {
+        "index": 75,
+        "start_time": 257694,
+        "end_time": 259295,
+        "text": "moving up to the 27th,"
+    },
+    {
+        "index": 76,
+        "start_time": 259295,
+        "end_time": 260424,
+        "text": "the 39th,"
+    },
+    {
+        "index": 77,
+        "start_time": 260424,
+        "end_time": 261533,
+        "text": "and so on,"
+    },
+    {
+        "index": 78,
+        "start_time": 261533,
+        "end_time": 264572,
+        "text": "for a maximum of 14 drops."
+    },
+    {
+        "index": 79,
+        "start_time": 264572,
+        "end_time": 269094,
+        "text": "Like the old saying goes, you can&#39;t \npull a heist without breaking a few eggs."
+    }
+]

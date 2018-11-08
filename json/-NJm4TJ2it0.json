@@ -1,0 +1,476 @@
+[
+    {
+        "index": 1,
+        "start_time": 6956,
+        "end_time": 12525,
+        "text": "Every two seconds, someone somewhere \nin the world experiences a stroke."
+    },
+    {
+        "index": 2,
+        "start_time": 12525,
+        "end_time": 17878,
+        "text": "And one out of every six people will have \none at some point in their lives."
+    },
+    {
+        "index": 3,
+        "start_time": 17878,
+        "end_time": 20868,
+        "text": "Strokes deprive brain cells of oxygen"
+    },
+    {
+        "index": 4,
+        "start_time": 20868,
+        "end_time": 23589,
+        "text": "and are one of the most \ncommon causes of death"
+    },
+    {
+        "index": 5,
+        "start_time": 23589,
+        "end_time": 26785,
+        "text": "and a leading cause \nof preventable disability."
+    },
+    {
+        "index": 6,
+        "start_time": 26785,
+        "end_time": 31449,
+        "text": "When someone experiences a stroke,\nquick medical care is critical,"
+    },
+    {
+        "index": 7,
+        "start_time": 31449,
+        "end_time": 34729,
+        "text": "and can often help avoid \npermanent brain damage."
+    },
+    {
+        "index": 8,
+        "start_time": 34729,
+        "end_time": 37588,
+        "text": "But what causes strokes \nin the first place?"
+    },
+    {
+        "index": 9,
+        "start_time": 37588,
+        "end_time": 40849,
+        "text": "And what can doctors do to treat them?"
+    },
+    {
+        "index": 10,
+        "start_time": 40849,
+        "end_time": 44520,
+        "text": "The brain makes up just 2% \nof your body\u2019s mass"
+    },
+    {
+        "index": 11,
+        "start_time": 44520,
+        "end_time": 48958,
+        "text": "but consumes more than 20%\nof the oxygen in your blood."
+    },
+    {
+        "index": 12,
+        "start_time": 48958,
+        "end_time": 52751,
+        "text": "That oxygen is carried to the brain\nthrough a system of arteries."
+    },
+    {
+        "index": 13,
+        "start_time": 52751,
+        "end_time": 55638,
+        "text": "Carotid arteries supply \nthe front of the brain,"
+    },
+    {
+        "index": 14,
+        "start_time": 55638,
+        "end_time": 58688,
+        "text": "and vertebral arteries supply the back."
+    },
+    {
+        "index": 15,
+        "start_time": 58688,
+        "end_time": 60719,
+        "text": "These are connected to each other,"
+    },
+    {
+        "index": 16,
+        "start_time": 60719,
+        "end_time": 63369,
+        "text": "and divide into smaller \nand smaller vessels"
+    },
+    {
+        "index": 17,
+        "start_time": 63369,
+        "end_time": 67380,
+        "text": "that get billions of neurons \nthe oxygen they need."
+    },
+    {
+        "index": 18,
+        "start_time": 67380,
+        "end_time": 73349,
+        "text": "If the blood flow is interrupted, \noxygen delivery stops and brain cells die."
+    },
+    {
+        "index": 19,
+        "start_time": 73349,
+        "end_time": 75490,
+        "text": "There are two ways this can happen."
+    },
+    {
+        "index": 20,
+        "start_time": 75490,
+        "end_time": 80641,
+        "text": "Hemorrhagic strokes are when a perforated\nvessel allows blood to leak out."
+    },
+    {
+        "index": 21,
+        "start_time": 80641,
+        "end_time": 83530,
+        "text": "But the more common type \nis the ischemic stroke,"
+    },
+    {
+        "index": 22,
+        "start_time": 83530,
+        "end_time": 88518,
+        "text": "when a clot blocks a vessel \nand brings blood flow to a halt."
+    },
+    {
+        "index": 23,
+        "start_time": 88518,
+        "end_time": 90690,
+        "text": "Where do these clots come from?"
+    },
+    {
+        "index": 24,
+        "start_time": 90690,
+        "end_time": 93591,
+        "text": "On rare occasions,\na sudden change in heart rhythm"
+    },
+    {
+        "index": 25,
+        "start_time": 93591,
+        "end_time": 97900,
+        "text": "prevents the upper chambers of the heart\nfrom contracting normally."
+    },
+    {
+        "index": 26,
+        "start_time": 97900,
+        "end_time": 99809,
+        "text": "This slows down blood flow,"
+    },
+    {
+        "index": 27,
+        "start_time": 99809,
+        "end_time": 105382,
+        "text": "allowing platelets, clotting factors, \nand fibrin to stick together."
+    },
+    {
+        "index": 28,
+        "start_time": 105382,
+        "end_time": 106731,
+        "text": "The clot can be carried up"
+    },
+    {
+        "index": 29,
+        "start_time": 106731,
+        "end_time": 110611,
+        "text": "towards the arteries\nand blood vessels supplying the brain"
+    },
+    {
+        "index": 30,
+        "start_time": 110611,
+        "end_time": 114092,
+        "text": "until it gets to one \nit can\u2019t squeeze through."
+    },
+    {
+        "index": 31,
+        "start_time": 114092,
+        "end_time": 116297,
+        "text": "This is called an embolism"
+    },
+    {
+        "index": 32,
+        "start_time": 116297,
+        "end_time": 120665,
+        "text": "and it cuts off the oxygen supply \nto all the cells downstream."
+    },
+    {
+        "index": 33,
+        "start_time": 120665,
+        "end_time": 125862,
+        "text": "The brain doesn&#39;t have pain receptors,\nso you can&#39;t feel the blockage itself."
+    },
+    {
+        "index": 34,
+        "start_time": 125862,
+        "end_time": 128672,
+        "text": "But oxygen deprivation \nslows brain function"
+    },
+    {
+        "index": 35,
+        "start_time": 128672,
+        "end_time": 131802,
+        "text": "and can have sudden, noticeable effects."
+    },
+    {
+        "index": 36,
+        "start_time": 131802,
+        "end_time": 135593,
+        "text": "For example, if the affected area \nis responsible for speech,"
+    },
+    {
+        "index": 37,
+        "start_time": 135593,
+        "end_time": 138514,
+        "text": "an individual\u2019s words may be slurred."
+    },
+    {
+        "index": 38,
+        "start_time": 138514,
+        "end_time": 141972,
+        "text": "If the stroke affects a part of the brain \nthat controls muscle movement,"
+    },
+    {
+        "index": 39,
+        "start_time": 141972,
+        "end_time": 146553,
+        "text": "it can cause weakness, \noften just on one side of the body."
+    },
+    {
+        "index": 40,
+        "start_time": 146553,
+        "end_time": 150435,
+        "text": "When this happens, the body \nwill immediately try to compensate"
+    },
+    {
+        "index": 41,
+        "start_time": 150435,
+        "end_time": 153405,
+        "text": "by diverting blood flow \nto the affected area,"
+    },
+    {
+        "index": 42,
+        "start_time": 153405,
+        "end_time": 155885,
+        "text": "but this isn\u2019t a perfect solution."
+    },
+    {
+        "index": 43,
+        "start_time": 155885,
+        "end_time": 159824,
+        "text": "Eventually, the oxygen-deprived cells \nwill start to die,"
+    },
+    {
+        "index": 44,
+        "start_time": 159824,
+        "end_time": 163748,
+        "text": "leading to brain damage \nthat may be severe or permanent."
+    },
+    {
+        "index": 45,
+        "start_time": 163748,
+        "end_time": 168390,
+        "text": "That\u2019s why it\u2019s important to get\nmedical care as fast as possible."
+    },
+    {
+        "index": 46,
+        "start_time": 168390,
+        "end_time": 171370,
+        "text": "The first line of treatment\nis an intravenous medication"
+    },
+    {
+        "index": 47,
+        "start_time": 171370,
+        "end_time": 174205,
+        "text": "called Tissue Plasminogen Activator,"
+    },
+    {
+        "index": 48,
+        "start_time": 174205,
+        "end_time": 175884,
+        "text": "which can break up the blood clot"
+    },
+    {
+        "index": 49,
+        "start_time": 175884,
+        "end_time": 179855,
+        "text": "and allow blood to flow again\nin the compromised artery."
+    },
+    {
+        "index": 50,
+        "start_time": 179855,
+        "end_time": 182015,
+        "text": "If it\u2019s delivered within a few hours,"
+    },
+    {
+        "index": 51,
+        "start_time": 182015,
+        "end_time": 185415,
+        "text": "this medication greatly increases\nthe chance of surviving the stroke"
+    },
+    {
+        "index": 52,
+        "start_time": 185415,
+        "end_time": 188496,
+        "text": "and avoiding permanent consequences."
+    },
+    {
+        "index": 53,
+        "start_time": 188496,
+        "end_time": 191646,
+        "text": "If Tissue Plasminogen Activator\ncannot be given"
+    },
+    {
+        "index": 54,
+        "start_time": 191646,
+        "end_time": 193976,
+        "text": "because the patient \nis on certain medications,"
+    },
+    {
+        "index": 55,
+        "start_time": 193976,
+        "end_time": 195595,
+        "text": "has history of major bleeding,"
+    },
+    {
+        "index": 56,
+        "start_time": 195595,
+        "end_time": 198336,
+        "text": "or the clot is particularly large,"
+    },
+    {
+        "index": 57,
+        "start_time": 198336,
+        "end_time": 203605,
+        "text": "doctors can perform a procedure\ncalled an endovascular thrombectomy."
+    },
+    {
+        "index": 58,
+        "start_time": 203605,
+        "end_time": 208694,
+        "text": "Using a fluorescent dye that illuminates \nthe blood vessels under a strong x-ray,"
+    },
+    {
+        "index": 59,
+        "start_time": 208694,
+        "end_time": 213146,
+        "text": "the physician inserts a long, \nthin, flexible tube called a catheter"
+    },
+    {
+        "index": 60,
+        "start_time": 213146,
+        "end_time": 215375,
+        "text": "into an artery in the leg"
+    },
+    {
+        "index": 61,
+        "start_time": 215375,
+        "end_time": 218508,
+        "text": "and maneuvers\nit all the way to the blockage."
+    },
+    {
+        "index": 62,
+        "start_time": 218508,
+        "end_time": 221377,
+        "text": "A retriever is passed\nthrough this catheter."
+    },
+    {
+        "index": 63,
+        "start_time": 221377,
+        "end_time": 225867,
+        "text": "It expands and anchors into the clot \nwhen it\u2019s just past it."
+    },
+    {
+        "index": 64,
+        "start_time": 225867,
+        "end_time": 230737,
+        "text": "The catheter then pulls the clot out \nwhen it\u2019s removed."
+    },
+    {
+        "index": 65,
+        "start_time": 230737,
+        "end_time": 233679,
+        "text": "These treatments need to be delivered\nas soon as possible"
+    },
+    {
+        "index": 66,
+        "start_time": 233679,
+        "end_time": 235338,
+        "text": "to preserve brain function,"
+    },
+    {
+        "index": 67,
+        "start_time": 235338,
+        "end_time": 239588,
+        "text": "which means figuring out fast \nif someone is having a stroke."
+    },
+    {
+        "index": 68,
+        "start_time": 239588,
+        "end_time": 241017,
+        "text": "So how can you tell?"
+    },
+    {
+        "index": 69,
+        "start_time": 241017,
+        "end_time": 243869,
+        "text": "Here are three quick things to try:"
+    },
+    {
+        "index": 70,
+        "start_time": 243869,
+        "end_time": 246558,
+        "text": "1. Ask the person to smile."
+    },
+    {
+        "index": 71,
+        "start_time": 246558,
+        "end_time": 251118,
+        "text": "A crooked mouth or facial drooping \ncan indicate muscle weakness."
+    },
+    {
+        "index": 72,
+        "start_time": 251118,
+        "end_time": 253879,
+        "text": "2. Ask them to raise their arms."
+    },
+    {
+        "index": 73,
+        "start_time": 253879,
+        "end_time": 259829,
+        "text": "If one drifts downward, that arm weakness\nis also a sign of a stroke."
+    },
+    {
+        "index": 74,
+        "start_time": 259829,
+        "end_time": 263919,
+        "text": "3. Ask them to repeat a\nsimple word or phrase."
+    },
+    {
+        "index": 75,
+        "start_time": 263919,
+        "end_time": 266788,
+        "text": "If their speech sounds\nslurred or strange,"
+    },
+    {
+        "index": 76,
+        "start_time": 266788,
+        "end_time": 271489,
+        "text": "it could mean that the language area \nof their brain is oxygen-deprived."
+    },
+    {
+        "index": 77,
+        "start_time": 271489,
+        "end_time": 277281,
+        "text": "This is sometimes called the FAST test,\nand the T stands for time."
+    },
+    {
+        "index": 78,
+        "start_time": 277281,
+        "end_time": 282290,
+        "text": "If you see any of those signs, \ncall emergency services right away."
+    },
+    {
+        "index": 79,
+        "start_time": 282290,
+        "end_time": 284331,
+        "text": "Lives may depend on it."
+    }
+]

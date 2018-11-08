@@ -1,0 +1,614 @@
+[
+    {
+        "index": 1,
+        "start_time": 7532,
+        "end_time": 9393,
+        "text": "&quot;War and Peace,&quot;"
+    },
+    {
+        "index": 2,
+        "start_time": 9393,
+        "end_time": 10393,
+        "text": "a tome,"
+    },
+    {
+        "index": 3,
+        "start_time": 10393,
+        "end_time": 11593,
+        "text": "a slog,"
+    },
+    {
+        "index": 4,
+        "start_time": 11593,
+        "end_time": 14923,
+        "text": "the sort of book you shouldn&#39;t read in bed\nbecause if you fall asleep,"
+    },
+    {
+        "index": 5,
+        "start_time": 14923,
+        "end_time": 17953,
+        "text": "it could give you a concussion, right?"
+    },
+    {
+        "index": 6,
+        "start_time": 17953,
+        "end_time": 19492,
+        "text": "Only partly."
+    },
+    {
+        "index": 7,
+        "start_time": 19492,
+        "end_time": 21703,
+        "text": "&quot;War and Peace&quot; is a long book, sure,"
+    },
+    {
+        "index": 8,
+        "start_time": 21703,
+        "end_time": 24734,
+        "text": "but it&#39;s also a thrilling examination\nof history,"
+    },
+    {
+        "index": 9,
+        "start_time": 24734,
+        "end_time": 30082,
+        "text": "populated with some of the deepest, most\nrealistic characters you&#39;ll find anywhere."
+    },
+    {
+        "index": 10,
+        "start_time": 30082,
+        "end_time": 35023,
+        "text": "And if its length intimidates you,\njust image how poor Tolstoy felt."
+    },
+    {
+        "index": 11,
+        "start_time": 35023,
+        "end_time": 39412,
+        "text": "In 1863, he set out to write a short novel\nabout a political dissident"
+    },
+    {
+        "index": 12,
+        "start_time": 39412,
+        "end_time": 42213,
+        "text": "returning from exile in Siberia."
+    },
+    {
+        "index": 13,
+        "start_time": 42213,
+        "end_time": 45807,
+        "text": "Five years later, he had produced\na 1,200 page epic"
+    },
+    {
+        "index": 14,
+        "start_time": 45807,
+        "end_time": 47064,
+        "text": "featuring love stories,"
+    },
+    {
+        "index": 15,
+        "start_time": 47064,
+        "end_time": 47995,
+        "text": "battlefields,"
+    },
+    {
+        "index": 16,
+        "start_time": 47995,
+        "end_time": 48944,
+        "text": "bankruptcies,"
+    },
+    {
+        "index": 17,
+        "start_time": 48944,
+        "end_time": 49933,
+        "text": "firing squads,"
+    },
+    {
+        "index": 18,
+        "start_time": 49933,
+        "end_time": 51006,
+        "text": "religious visions,"
+    },
+    {
+        "index": 19,
+        "start_time": 51006,
+        "end_time": 52332,
+        "text": "the burning of Moscow,"
+    },
+    {
+        "index": 20,
+        "start_time": 52332,
+        "end_time": 54895,
+        "text": "and a semi-domesticated bear,"
+    },
+    {
+        "index": 21,
+        "start_time": 54895,
+        "end_time": 57425,
+        "text": "but no exile and no political dissidents."
+    },
+    {
+        "index": 22,
+        "start_time": 57425,
+        "end_time": 58995,
+        "text": "Here&#39;s how it happened."
+    },
+    {
+        "index": 23,
+        "start_time": 58995,
+        "end_time": 60806,
+        "text": "Tolstoy, a volcanic soul,"
+    },
+    {
+        "index": 24,
+        "start_time": 60806,
+        "end_time": 65624,
+        "text": "was born to a famously eccentric \naristocratic family in 1828."
+    },
+    {
+        "index": 25,
+        "start_time": 65624,
+        "end_time": 69203,
+        "text": "By the time he was 30, he had already\ndropped out of Kazan University,"
+    },
+    {
+        "index": 26,
+        "start_time": 69203,
+        "end_time": 71184,
+        "text": "gambled away the family fortune,"
+    },
+    {
+        "index": 27,
+        "start_time": 71184,
+        "end_time": 72254,
+        "text": "joined the army,"
+    },
+    {
+        "index": 28,
+        "start_time": 72254,
+        "end_time": 73195,
+        "text": "written memoirs,"
+    },
+    {
+        "index": 29,
+        "start_time": 73195,
+        "end_time": 77144,
+        "text": "and rejected the literary establishment\nto travel Europe."
+    },
+    {
+        "index": 30,
+        "start_time": 77144,
+        "end_time": 80825,
+        "text": "He then settled into Yasnaya Polyana,\nhis ancestral mansion,"
+    },
+    {
+        "index": 31,
+        "start_time": 80825,
+        "end_time": 83734,
+        "text": "to write about the return \nof the Decembrists,"
+    },
+    {
+        "index": 32,
+        "start_time": 83734,
+        "end_time": 90554,
+        "text": "a band of well-born revolutionaries\npardoned in 1856 after 30 years in exile."
+    },
+    {
+        "index": 33,
+        "start_time": 90554,
+        "end_time": 91715,
+        "text": "But, Tolstoy thought,"
+    },
+    {
+        "index": 34,
+        "start_time": 91715,
+        "end_time": 94896,
+        "text": "how could he tell the story \nof the Decembrists return from exile"
+    },
+    {
+        "index": 35,
+        "start_time": 94896,
+        "end_time": 97485,
+        "text": "without telling the story of 1825,"
+    },
+    {
+        "index": 36,
+        "start_time": 97485,
+        "end_time": 101966,
+        "text": "when they revolted against \nthe conservative Tsar Nicholas I?"
+    },
+    {
+        "index": 37,
+        "start_time": 101966,
+        "end_time": 104876,
+        "text": "And how could he do that without telling\nthe story of 1812,"
+    },
+    {
+        "index": 38,
+        "start_time": 104876,
+        "end_time": 107367,
+        "text": "when Napoleon&#39;s disastrous \ninvasion of Russia"
+    },
+    {
+        "index": 39,
+        "start_time": 107367,
+        "end_time": 112245,
+        "text": "helped trigger the authoritarianism\nthe Decembrists were rebelling against?"
+    },
+    {
+        "index": 40,
+        "start_time": 112245,
+        "end_time": 116239,
+        "text": "And how could he tell the story of 1812\nwithout talking about 1805,"
+    },
+    {
+        "index": 41,
+        "start_time": 116239,
+        "end_time": 119086,
+        "text": "when the Russians first learned of\nthe threat Napoleon posed"
+    },
+    {
+        "index": 42,
+        "start_time": 119086,
+        "end_time": 123006,
+        "text": "after their defeat at \nthe Battle of Austerlitz?"
+    },
+    {
+        "index": 43,
+        "start_time": 123006,
+        "end_time": 124647,
+        "text": "So Tolstoy began writing,"
+    },
+    {
+        "index": 44,
+        "start_time": 124647,
+        "end_time": 126416,
+        "text": "both about the big events of history"
+    },
+    {
+        "index": 45,
+        "start_time": 126416,
+        "end_time": 128917,
+        "text": "and the small lives \nthat inhabit those events."
+    },
+    {
+        "index": 46,
+        "start_time": 128917,
+        "end_time": 131867,
+        "text": "He focused on aristocrats,\nthe class he knew best."
+    },
+    {
+        "index": 47,
+        "start_time": 131867,
+        "end_time": 133506,
+        "text": "The book only occasionally touches"
+    },
+    {
+        "index": 48,
+        "start_time": 133506,
+        "end_time": 137167,
+        "text": "on the lives of the vast majority \nof the Russian population,"
+    },
+    {
+        "index": 49,
+        "start_time": 137167,
+        "end_time": 138797,
+        "text": "who were peasants,\nor even serfs,"
+    },
+    {
+        "index": 50,
+        "start_time": 138797,
+        "end_time": 143287,
+        "text": "farmers bound to serve the owners\nof the land on which they lived."
+    },
+    {
+        "index": 51,
+        "start_time": 143287,
+        "end_time": 147057,
+        "text": "&quot;War and Peace&quot; opens on the eve\nof war between France and Russia."
+    },
+    {
+        "index": 52,
+        "start_time": 147057,
+        "end_time": 151001,
+        "text": "Aristocrats at a cocktail party fret\nabout the looming violence,"
+    },
+    {
+        "index": 53,
+        "start_time": 151001,
+        "end_time": 154980,
+        "text": "but then change the topic to those things\naristocrats always seem to care about:"
+    },
+    {
+        "index": 54,
+        "start_time": 154980,
+        "end_time": 155761,
+        "text": "money,"
+    },
+    {
+        "index": 55,
+        "start_time": 155761,
+        "end_time": 156512,
+        "text": "sex,"
+    },
+    {
+        "index": 56,
+        "start_time": 156512,
+        "end_time": 157752,
+        "text": "and death."
+    },
+    {
+        "index": 57,
+        "start_time": 157752,
+        "end_time": 159242,
+        "text": "This first scene is indicative"
+    },
+    {
+        "index": 58,
+        "start_time": 159242,
+        "end_time": 162567,
+        "text": "of the way the book bounces \nbetween the political and personal"
+    },
+    {
+        "index": 59,
+        "start_time": 162567,
+        "end_time": 164809,
+        "text": "over an ever-widening canvas."
+    },
+    {
+        "index": 60,
+        "start_time": 164809,
+        "end_time": 167360,
+        "text": "There are no main characters\nin &quot;War and Peace.&quot;"
+    },
+    {
+        "index": 61,
+        "start_time": 167360,
+        "end_time": 170438,
+        "text": "Instead, readers enter\na vast interlocking web"
+    },
+    {
+        "index": 62,
+        "start_time": 170438,
+        "end_time": 172908,
+        "text": "of relationships and questions."
+    },
+    {
+        "index": 63,
+        "start_time": 172908,
+        "end_time": 175199,
+        "text": "Will the hapless \nand illegitimate son of a count"
+    },
+    {
+        "index": 64,
+        "start_time": 175199,
+        "end_time": 178268,
+        "text": "marry a beautiful but conniving princess?"
+    },
+    {
+        "index": 65,
+        "start_time": 178268,
+        "end_time": 181409,
+        "text": "Will his only friend survive\nthe battlefields of Austria?"
+    },
+    {
+        "index": 66,
+        "start_time": 181409,
+        "end_time": 186618,
+        "text": "And what about that nice young girl\nfalling in love with both men at once?"
+    },
+    {
+        "index": 67,
+        "start_time": 186618,
+        "end_time": 190519,
+        "text": "Real historical figures mix and mingle\nwith all these fictional folk,"
+    },
+    {
+        "index": 68,
+        "start_time": 190519,
+        "end_time": 192616,
+        "text": "Napoleon appears several times,"
+    },
+    {
+        "index": 69,
+        "start_time": 192616,
+        "end_time": 197449,
+        "text": "and even one of Tolstoy&#39;s ancestors\nplays a background part."
+    },
+    {
+        "index": 70,
+        "start_time": 197449,
+        "end_time": 200498,
+        "text": "But while the characters \nand their psychologies are gripping,"
+    },
+    {
+        "index": 71,
+        "start_time": 200498,
+        "end_time": 202990,
+        "text": "Tolstoy is not afraid to interrupt \nthe narrative"
+    },
+    {
+        "index": 72,
+        "start_time": 202990,
+        "end_time": 205990,
+        "text": "to pose insightful \nquestions about history."
+    },
+    {
+        "index": 73,
+        "start_time": 205990,
+        "end_time": 207438,
+        "text": "Why do wars start?"
+    },
+    {
+        "index": 74,
+        "start_time": 207438,
+        "end_time": 209520,
+        "text": "What are good battlefield tactics?"
+    },
+    {
+        "index": 75,
+        "start_time": 209520,
+        "end_time": 215189,
+        "text": "Do nations rise and fall on the actions\nof so-called great men like Napoleon,"
+    },
+    {
+        "index": 76,
+        "start_time": 215189,
+        "end_time": 218829,
+        "text": "or are there larger cultural and economic\nforces at play?"
+    },
+    {
+        "index": 77,
+        "start_time": 218829,
+        "end_time": 221940,
+        "text": "These extended digressions are part \nof what make &quot;War and Peace&quot;"
+    },
+    {
+        "index": 78,
+        "start_time": 221940,
+        "end_time": 223999,
+        "text": "so panoramic in scope."
+    },
+    {
+        "index": 79,
+        "start_time": 223999,
+        "end_time": 225861,
+        "text": "But for some 19th century critics,"
+    },
+    {
+        "index": 80,
+        "start_time": 225861,
+        "end_time": 230071,
+        "text": "this meant &quot;War and Peace&quot; barely felt\nlike a novel at all."
+    },
+    {
+        "index": 81,
+        "start_time": 230071,
+        "end_time": 234799,
+        "text": "It was a &quot;large, loose, baggy monster,&quot;\nin the words of Henry James."
+    },
+    {
+        "index": 82,
+        "start_time": 234799,
+        "end_time": 236891,
+        "text": "Tolstoy, in fact, agreed."
+    },
+    {
+        "index": 83,
+        "start_time": 236891,
+        "end_time": 239862,
+        "text": "To him, novels were \na western European form."
+    },
+    {
+        "index": 84,
+        "start_time": 239862,
+        "end_time": 245030,
+        "text": "Russian writers had to write differently\nbecause Russian people lived differently."
+    },
+    {
+        "index": 85,
+        "start_time": 245030,
+        "end_time": 247101,
+        "text": "&quot;What is &#39;War and Peace&#39;?&quot; he asked."
+    },
+    {
+        "index": 86,
+        "start_time": 247101,
+        "end_time": 248281,
+        "text": "&quot;It is not a novel."
+    },
+    {
+        "index": 87,
+        "start_time": 248281,
+        "end_time": 250152,
+        "text": "Still less an epic poem."
+    },
+    {
+        "index": 88,
+        "start_time": 250152,
+        "end_time": 252492,
+        "text": "Still less a historical chronicle."
+    },
+    {
+        "index": 89,
+        "start_time": 252492,
+        "end_time": 256651,
+        "text": "&#39;War and Peace&#39; is what the author wanted\nand was able to express"
+    },
+    {
+        "index": 90,
+        "start_time": 256651,
+        "end_time": 259700,
+        "text": "in the form in which it was expressed.&quot;"
+    },
+    {
+        "index": 91,
+        "start_time": 259700,
+        "end_time": 264121,
+        "text": "It is, in other words, the sum total\nof Tolstoy&#39;s imaginative powers,"
+    },
+    {
+        "index": 92,
+        "start_time": 264121,
+        "end_time": 266231,
+        "text": "and nothing less."
+    },
+    {
+        "index": 93,
+        "start_time": 266231,
+        "end_time": 268257,
+        "text": "By the time &quot;War and Peace&quot; ends,"
+    },
+    {
+        "index": 94,
+        "start_time": 268257,
+        "end_time": 272080,
+        "text": "Tolstoy has brought his characters\nto the year 1820,"
+    },
+    {
+        "index": 95,
+        "start_time": 272080,
+        "end_time": 277362,
+        "text": "36 years before the events he originally\nhoped to write about."
+    },
+    {
+        "index": 96,
+        "start_time": 277362,
+        "end_time": 279532,
+        "text": "In trying to understand his own times,"
+    },
+    {
+        "index": 97,
+        "start_time": 279532,
+        "end_time": 283982,
+        "text": "he had become immersed in the years\npiled up behind him."
+    },
+    {
+        "index": 98,
+        "start_time": 283982,
+        "end_time": 287742,
+        "text": "The result is a grand interrogation\ninto history,"
+    },
+    {
+        "index": 99,
+        "start_time": 287742,
+        "end_time": 288571,
+        "text": "culture,"
+    },
+    {
+        "index": 100,
+        "start_time": 288571,
+        "end_time": 289671,
+        "text": "philosophy,"
+    },
+    {
+        "index": 101,
+        "start_time": 289671,
+        "end_time": 290862,
+        "text": "psychology,"
+    },
+    {
+        "index": 102,
+        "start_time": 290862,
+        "end_time": 293212,
+        "text": "and the human response to war."
+    }
+]

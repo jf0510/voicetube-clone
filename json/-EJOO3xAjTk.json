@@ -1,0 +1,746 @@
+[
+    {
+        "index": 1,
+        "start_time": 6687,
+        "end_time": 7668,
+        "text": "You&#39;ve probably heard that"
+    },
+    {
+        "index": 2,
+        "start_time": 7668,
+        "end_time": 10452,
+        "text": "carbon dioxide is warming the Earth,"
+    },
+    {
+        "index": 3,
+        "start_time": 10452,
+        "end_time": 11823,
+        "text": "but how does it work?"
+    },
+    {
+        "index": 4,
+        "start_time": 11823,
+        "end_time": 13832,
+        "text": "Is it like the glass of a greenhouse"
+    },
+    {
+        "index": 5,
+        "start_time": 13832,
+        "end_time": 15733,
+        "text": "or like an insulating blanket?"
+    },
+    {
+        "index": 6,
+        "start_time": 15733,
+        "end_time": 17852,
+        "text": "Well, not entirely."
+    },
+    {
+        "index": 7,
+        "start_time": 17852,
+        "end_time": 19272,
+        "text": "The answer involves a bit"
+    },
+    {
+        "index": 8,
+        "start_time": 19272,
+        "end_time": 22010,
+        "text": "of quantum mechanics, but don&#39;t worry,"
+    },
+    {
+        "index": 9,
+        "start_time": 22010,
+        "end_time": 23959,
+        "text": "we&#39;ll start with a rainbow."
+    },
+    {
+        "index": 10,
+        "start_time": 23959,
+        "end_time": 25818,
+        "text": "If you look closely at sunlight separated"
+    },
+    {
+        "index": 11,
+        "start_time": 25818,
+        "end_time": 27134,
+        "text": "through a prism,"
+    },
+    {
+        "index": 12,
+        "start_time": 27134,
+        "end_time": 30365,
+        "text": "you&#39;ll see dark gaps where bands of color went missing."
+    },
+    {
+        "index": 13,
+        "start_time": 30365,
+        "end_time": 31753,
+        "text": "Where did they go?"
+    },
+    {
+        "index": 14,
+        "start_time": 31753,
+        "end_time": 33168,
+        "text": "Before reaching our eyes,"
+    },
+    {
+        "index": 15,
+        "start_time": 33168,
+        "end_time": 35080,
+        "text": "different gases absorbed those"
+    },
+    {
+        "index": 16,
+        "start_time": 35080,
+        "end_time": 37688,
+        "text": "specific parts of the spectrum."
+    },
+    {
+        "index": 17,
+        "start_time": 37688,
+        "end_time": 39847,
+        "text": "For example, oxygen gas snatched up"
+    },
+    {
+        "index": 18,
+        "start_time": 39847,
+        "end_time": 41695,
+        "text": "some of the dark red light,"
+    },
+    {
+        "index": 19,
+        "start_time": 41695,
+        "end_time": 44914,
+        "text": "and sodium grabbed two bands of yellow."
+    },
+    {
+        "index": 20,
+        "start_time": 44914,
+        "end_time": 46308,
+        "text": "But why do these gases absorb"
+    },
+    {
+        "index": 21,
+        "start_time": 46308,
+        "end_time": 48362,
+        "text": "specific colors of light?"
+    },
+    {
+        "index": 22,
+        "start_time": 48362,
+        "end_time": 51279,
+        "text": "This is where we enter the quantum realm."
+    },
+    {
+        "index": 23,
+        "start_time": 51279,
+        "end_time": 53637,
+        "text": "Every atom and molecule has a set number"
+    },
+    {
+        "index": 24,
+        "start_time": 53637,
+        "end_time": 56968,
+        "text": "of possible energy levels for its electrons."
+    },
+    {
+        "index": 25,
+        "start_time": 56968,
+        "end_time": 58979,
+        "text": "To shift its electrons from the ground state"
+    },
+    {
+        "index": 26,
+        "start_time": 58979,
+        "end_time": 60297,
+        "text": "to a higher level,"
+    },
+    {
+        "index": 27,
+        "start_time": 60297,
+        "end_time": 63701,
+        "text": "a molecule needs to gain a certain amount of energy."
+    },
+    {
+        "index": 28,
+        "start_time": 63701,
+        "end_time": 66119,
+        "text": "No more, no less."
+    },
+    {
+        "index": 29,
+        "start_time": 66119,
+        "end_time": 68123,
+        "text": "It gets that energy from light,"
+    },
+    {
+        "index": 30,
+        "start_time": 68123,
+        "end_time": 71292,
+        "text": "which comes in more energy levels than you could count."
+    },
+    {
+        "index": 31,
+        "start_time": 71292,
+        "end_time": 74657,
+        "text": "Light consists of tiny particles called photons"
+    },
+    {
+        "index": 32,
+        "start_time": 74657,
+        "end_time": 76761,
+        "text": "and the amount of energy in each photon"
+    },
+    {
+        "index": 33,
+        "start_time": 76761,
+        "end_time": 79126,
+        "text": "corresponds to its color."
+    },
+    {
+        "index": 34,
+        "start_time": 79126,
+        "end_time": 82149,
+        "text": "Red light has lower energy and longer wavelengths."
+    },
+    {
+        "index": 35,
+        "start_time": 82149,
+        "end_time": 85823,
+        "text": "Purple light has higher energy and shorter wavelengths."
+    },
+    {
+        "index": 36,
+        "start_time": 85823,
+        "end_time": 88642,
+        "text": "Sunlight offers all the photons of the rainbow,"
+    },
+    {
+        "index": 37,
+        "start_time": 88642,
+        "end_time": 90663,
+        "text": "so a gas molecule can choose"
+    },
+    {
+        "index": 38,
+        "start_time": 90663,
+        "end_time": 93270,
+        "text": "the photons that carry the exact amount of energy"
+    },
+    {
+        "index": 39,
+        "start_time": 93270,
+        "end_time": 95024,
+        "text": "needed to shift the molecule to"
+    },
+    {
+        "index": 40,
+        "start_time": 95024,
+        "end_time": 97381,
+        "text": "its next energy level."
+    },
+    {
+        "index": 41,
+        "start_time": 97381,
+        "end_time": 98715,
+        "text": "When this match is made,"
+    },
+    {
+        "index": 42,
+        "start_time": 98715,
+        "end_time": 100644,
+        "text": "the photon disappers as the molecule"
+    },
+    {
+        "index": 43,
+        "start_time": 100644,
+        "end_time": 101965,
+        "text": "gains its energy,"
+    },
+    {
+        "index": 44,
+        "start_time": 101965,
+        "end_time": 104765,
+        "text": "and we get a small gap in our rainbow."
+    },
+    {
+        "index": 45,
+        "start_time": 104765,
+        "end_time": 107887,
+        "text": "If a photon carries too much or too little energy,"
+    },
+    {
+        "index": 46,
+        "start_time": 107887,
+        "end_time": 109366,
+        "text": "the molecule has no choice but"
+    },
+    {
+        "index": 47,
+        "start_time": 109366,
+        "end_time": 111219,
+        "text": "to let it fly past."
+    },
+    {
+        "index": 48,
+        "start_time": 111219,
+        "end_time": 113639,
+        "text": "This is why glass is transparent."
+    },
+    {
+        "index": 49,
+        "start_time": 113639,
+        "end_time": 115711,
+        "text": "The atoms in glass do not pair well"
+    },
+    {
+        "index": 50,
+        "start_time": 115711,
+        "end_time": 118384,
+        "text": "with any of the energy levels in visible light,"
+    },
+    {
+        "index": 51,
+        "start_time": 118384,
+        "end_time": 120647,
+        "text": "so the photons pass through."
+    },
+    {
+        "index": 52,
+        "start_time": 120647,
+        "end_time": 123760,
+        "text": "So, which photons does carbon dioxide prefer?"
+    },
+    {
+        "index": 53,
+        "start_time": 123760,
+        "end_time": 125585,
+        "text": "Where is the black line in our rainbow"
+    },
+    {
+        "index": 54,
+        "start_time": 125585,
+        "end_time": 127960,
+        "text": "that explains global warming?"
+    },
+    {
+        "index": 55,
+        "start_time": 127960,
+        "end_time": 129789,
+        "text": "Well, it&#39;s not there."
+    },
+    {
+        "index": 56,
+        "start_time": 129789,
+        "end_time": 131952,
+        "text": "Carbon dioxide doesn&#39;t absorb light directly"
+    },
+    {
+        "index": 57,
+        "start_time": 131952,
+        "end_time": 133286,
+        "text": "from the Sun."
+    },
+    {
+        "index": 58,
+        "start_time": 133286,
+        "end_time": 134507,
+        "text": "It absorbs light from a totally"
+    },
+    {
+        "index": 59,
+        "start_time": 134507,
+        "end_time": 136232,
+        "text": "different celestial body."
+    },
+    {
+        "index": 60,
+        "start_time": 136232,
+        "end_time": 139016,
+        "text": "One that doesn&#39;t appear to be emitting light at all:"
+    },
+    {
+        "index": 61,
+        "start_time": 139016,
+        "end_time": 140739,
+        "text": "Earth."
+    },
+    {
+        "index": 62,
+        "start_time": 140739,
+        "end_time": 142175,
+        "text": "If you&#39;re wondering why our planet"
+    },
+    {
+        "index": 63,
+        "start_time": 142175,
+        "end_time": 143876,
+        "text": "doesn&#39;t seem to be glowing,"
+    },
+    {
+        "index": 64,
+        "start_time": 143876,
+        "end_time": 147138,
+        "text": "it&#39;s because the Earth doesn&#39;t emit visible light."
+    },
+    {
+        "index": 65,
+        "start_time": 147138,
+        "end_time": 149306,
+        "text": "It emits infared light."
+    },
+    {
+        "index": 66,
+        "start_time": 149306,
+        "end_time": 150920,
+        "text": "The light that our eyes can see,"
+    },
+    {
+        "index": 67,
+        "start_time": 150920,
+        "end_time": 152992,
+        "text": "including all of the colors of the rainbow,"
+    },
+    {
+        "index": 68,
+        "start_time": 152992,
+        "end_time": 155422,
+        "text": "is just a small part of the larger spectrum"
+    },
+    {
+        "index": 69,
+        "start_time": 155422,
+        "end_time": 157825,
+        "text": "of electromagnetic radiation,"
+    },
+    {
+        "index": 70,
+        "start_time": 157825,
+        "end_time": 160198,
+        "text": "which includes radio waves, microwaves,"
+    },
+    {
+        "index": 71,
+        "start_time": 160198,
+        "end_time": 163286,
+        "text": "infrared, ultraviolet, x-rays,"
+    },
+    {
+        "index": 72,
+        "start_time": 163286,
+        "end_time": 165103,
+        "text": "and gamma rays."
+    },
+    {
+        "index": 73,
+        "start_time": 165103,
+        "end_time": 167744,
+        "text": "It may seem strange to think of these things as light,"
+    },
+    {
+        "index": 74,
+        "start_time": 167744,
+        "end_time": 169291,
+        "text": "but there is no fundamental difference"
+    },
+    {
+        "index": 75,
+        "start_time": 169291,
+        "end_time": 173027,
+        "text": "between visible light and other electromagnetic radiation."
+    },
+    {
+        "index": 76,
+        "start_time": 173027,
+        "end_time": 174127,
+        "text": "It&#39;s the same energy,"
+    },
+    {
+        "index": 77,
+        "start_time": 174127,
+        "end_time": 176394,
+        "text": "but at a higher or lower level."
+    },
+    {
+        "index": 78,
+        "start_time": 176394,
+        "end_time": 178374,
+        "text": "In fact, it&#39;s a bit presumptuous to define"
+    },
+    {
+        "index": 79,
+        "start_time": 178374,
+        "end_time": 181969,
+        "text": "the term visible light by our own limitations."
+    },
+    {
+        "index": 80,
+        "start_time": 181969,
+        "end_time": 184865,
+        "text": "After all, infrared light is visible to snakes,"
+    },
+    {
+        "index": 81,
+        "start_time": 184865,
+        "end_time": 187827,
+        "text": "and ultraviolet light is visible to birds."
+    },
+    {
+        "index": 82,
+        "start_time": 187827,
+        "end_time": 189907,
+        "text": "If our eyes were adapted to see light of"
+    },
+    {
+        "index": 83,
+        "start_time": 189907,
+        "end_time": 192283,
+        "text": "1900 megahertz, then a mobile phone"
+    },
+    {
+        "index": 84,
+        "start_time": 192283,
+        "end_time": 193423,
+        "text": "would be a flashlight,"
+    },
+    {
+        "index": 85,
+        "start_time": 193423,
+        "end_time": 194425,
+        "text": "and a cell phone tower"
+    },
+    {
+        "index": 86,
+        "start_time": 194425,
+        "end_time": 197157,
+        "text": "would look like a huge lantern."
+    },
+    {
+        "index": 87,
+        "start_time": 197157,
+        "end_time": 199315,
+        "text": "Earth emits infrared radiation"
+    },
+    {
+        "index": 88,
+        "start_time": 199315,
+        "end_time": 201240,
+        "text": "because every object with a temperature"
+    },
+    {
+        "index": 89,
+        "start_time": 201240,
+        "end_time": 204468,
+        "text": "above absolute zero will emit light."
+    },
+    {
+        "index": 90,
+        "start_time": 204468,
+        "end_time": 206726,
+        "text": "This is called thermal radiation."
+    },
+    {
+        "index": 91,
+        "start_time": 206726,
+        "end_time": 208158,
+        "text": "The hotter an object gets,"
+    },
+    {
+        "index": 92,
+        "start_time": 208158,
+        "end_time": 210857,
+        "text": "the higher frequency the light it emits."
+    },
+    {
+        "index": 93,
+        "start_time": 210857,
+        "end_time": 212561,
+        "text": "When you heat a piece of iron,"
+    },
+    {
+        "index": 94,
+        "start_time": 212561,
+        "end_time": 215956,
+        "text": "it will emit more and more frequencies of infrared light,"
+    },
+    {
+        "index": 95,
+        "start_time": 215956,
+        "end_time": 220322,
+        "text": "and then, at a temperature of around 450 degrees Celsius,"
+    },
+    {
+        "index": 96,
+        "start_time": 220322,
+        "end_time": 223082,
+        "text": "its light will reach the visible spectrum."
+    },
+    {
+        "index": 97,
+        "start_time": 223082,
+        "end_time": 225310,
+        "text": "At first, it will look red hot."
+    },
+    {
+        "index": 98,
+        "start_time": 225310,
+        "end_time": 226606,
+        "text": "And with even more heat,"
+    },
+    {
+        "index": 99,
+        "start_time": 226606,
+        "end_time": 228112,
+        "text": "it will glow white"
+    },
+    {
+        "index": 100,
+        "start_time": 228112,
+        "end_time": 231166,
+        "text": "with all of the frequencies of visible light."
+    },
+    {
+        "index": 101,
+        "start_time": 231166,
+        "end_time": 232857,
+        "text": "This is how traditional light bulbs"
+    },
+    {
+        "index": 102,
+        "start_time": 232857,
+        "end_time": 234309,
+        "text": "were designed to work"
+    },
+    {
+        "index": 103,
+        "start_time": 234309,
+        "end_time": 236187,
+        "text": "and why they&#39;re so wasteful."
+    },
+    {
+        "index": 104,
+        "start_time": 236187,
+        "end_time": 240265,
+        "text": "95% of the light they emit is invisible to our eyes."
+    },
+    {
+        "index": 105,
+        "start_time": 240265,
+        "end_time": 242174,
+        "text": "It&#39;s wasted as heat."
+    },
+    {
+        "index": 106,
+        "start_time": 242174,
+        "end_time": 244827,
+        "text": "Earth&#39;s infrared radiation would escape to space"
+    },
+    {
+        "index": 107,
+        "start_time": 244827,
+        "end_time": 247358,
+        "text": "if there weren&#39;t greenhouse gas molecules"
+    },
+    {
+        "index": 108,
+        "start_time": 247358,
+        "end_time": 249080,
+        "text": "in our atmophere."
+    },
+    {
+        "index": 109,
+        "start_time": 249080,
+        "end_time": 251834,
+        "text": "Just as oxygen gas prefers the dark red photons,"
+    },
+    {
+        "index": 110,
+        "start_time": 251834,
+        "end_time": 254512,
+        "text": "carbon dioxide and other greenhouse gases"
+    },
+    {
+        "index": 111,
+        "start_time": 254512,
+        "end_time": 257153,
+        "text": "match with infrared photons."
+    },
+    {
+        "index": 112,
+        "start_time": 257153,
+        "end_time": 258914,
+        "text": "They provide the right amount of energy"
+    },
+    {
+        "index": 113,
+        "start_time": 258914,
+        "end_time": 262085,
+        "text": "to shift the gas molecules into their higher energy level."
+    },
+    {
+        "index": 114,
+        "start_time": 262085,
+        "end_time": 264410,
+        "text": "Shortly after a carbon dioxide molecule"
+    },
+    {
+        "index": 115,
+        "start_time": 264410,
+        "end_time": 266727,
+        "text": "absorbs an infrared photon,"
+    },
+    {
+        "index": 116,
+        "start_time": 266727,
+        "end_time": 269182,
+        "text": "it will fall back to its previous energy level,"
+    },
+    {
+        "index": 117,
+        "start_time": 269182,
+        "end_time": 272714,
+        "text": "and spit a photon back out in a random direction."
+    },
+    {
+        "index": 118,
+        "start_time": 272714,
+        "end_time": 274619,
+        "text": "Some of that energy then returns"
+    },
+    {
+        "index": 119,
+        "start_time": 274619,
+        "end_time": 276098,
+        "text": "to Earth&#39;s surface,"
+    },
+    {
+        "index": 120,
+        "start_time": 276098,
+        "end_time": 277639,
+        "text": "causing warming."
+    },
+    {
+        "index": 121,
+        "start_time": 277639,
+        "end_time": 279447,
+        "text": "The more carbon dioxide in the atmosphere,"
+    },
+    {
+        "index": 122,
+        "start_time": 279447,
+        "end_time": 281380,
+        "text": "the more likely that infrared photons"
+    },
+    {
+        "index": 123,
+        "start_time": 281380,
+        "end_time": 283558,
+        "text": "will land back on Earth"
+    },
+    {
+        "index": 124,
+        "start_time": 283558,
+        "end_time": 285124,
+        "text": "and change our climate."
+    }
+]

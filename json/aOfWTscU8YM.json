@@ -1,0 +1,416 @@
+[
+    {
+        "index": 1,
+        "start_time": 6574,
+        "end_time": 12738,
+        "text": "The earliest known pregnancy test\ndates back to 1350 BC in Ancient Egypt."
+    },
+    {
+        "index": 2,
+        "start_time": 12738,
+        "end_time": 14829,
+        "text": "According to the Egyptians,"
+    },
+    {
+        "index": 3,
+        "start_time": 14829,
+        "end_time": 20066,
+        "text": "all you have to do is urinate on wheat \nand barley seeds, and wait."
+    },
+    {
+        "index": 4,
+        "start_time": 20066,
+        "end_time": 23668,
+        "text": "If either sprouts, \ncongratulations, you&#39;re pregnant!"
+    },
+    {
+        "index": 5,
+        "start_time": 23668,
+        "end_time": 28962,
+        "text": "And if wheat sprouts faster, it&#39;s a girl,\nbut if barley, it&#39;s a boy."
+    },
+    {
+        "index": 6,
+        "start_time": 28962,
+        "end_time": 32404,
+        "text": "In 1963, a small study \nreproduced this test"
+    },
+    {
+        "index": 7,
+        "start_time": 32404,
+        "end_time": 37097,
+        "text": "and found that it predicted pregnancy\nwith a respectable 70% accuracy,"
+    },
+    {
+        "index": 8,
+        "start_time": 37097,
+        "end_time": 40752,
+        "text": "though it couldn&#39;t reliably \ntell the sex of the baby."
+    },
+    {
+        "index": 9,
+        "start_time": 40752,
+        "end_time": 43396,
+        "text": "Scientists hypothesized \nthat the test worked"
+    },
+    {
+        "index": 10,
+        "start_time": 43396,
+        "end_time": 46561,
+        "text": "because pregnant women&#39;s urine\ncontains more estrogen,"
+    },
+    {
+        "index": 11,
+        "start_time": 46561,
+        "end_time": 48750,
+        "text": "which can promote seed growth."
+    },
+    {
+        "index": 12,
+        "start_time": 48750,
+        "end_time": 52091,
+        "text": "Now it&#39;s easy to take \nthis ancient method for granted"
+    },
+    {
+        "index": 13,
+        "start_time": 52091,
+        "end_time": 57138,
+        "text": "because modern pregnancy tests give\nhighly accurate results within minutes."
+    },
+    {
+        "index": 14,
+        "start_time": 57138,
+        "end_time": 59050,
+        "text": "So how do they work?"
+    },
+    {
+        "index": 15,
+        "start_time": 59050,
+        "end_time": 63228,
+        "text": "Over-the-counter pregnancy tests\nare all designed to detect one thing:"
+    },
+    {
+        "index": 16,
+        "start_time": 63228,
+        "end_time": 65888,
+        "text": "a hormone called HCG."
+    },
+    {
+        "index": 17,
+        "start_time": 65888,
+        "end_time": 69300,
+        "text": "HCG is produced in \nthe earliest stages of pregnancy"
+    },
+    {
+        "index": 18,
+        "start_time": 69300,
+        "end_time": 70870,
+        "text": "and starts a game of telephone"
+    },
+    {
+        "index": 19,
+        "start_time": 70870,
+        "end_time": 75015,
+        "text": "that tells the body not to shed \nthe inner lining of the uterus that month."
+    },
+    {
+        "index": 20,
+        "start_time": 75015,
+        "end_time": 76649,
+        "text": "As the pregnancy progresses,"
+    },
+    {
+        "index": 21,
+        "start_time": 76649,
+        "end_time": 79799,
+        "text": "HCG supports the formation\nof the placenta,"
+    },
+    {
+        "index": 22,
+        "start_time": 79799,
+        "end_time": 83653,
+        "text": "which transfers nutrients \nfrom mother to fetus."
+    },
+    {
+        "index": 23,
+        "start_time": 83653,
+        "end_time": 88090,
+        "text": "The test starts when urine is applied\nto the exposed end of the strip."
+    },
+    {
+        "index": 24,
+        "start_time": 88090,
+        "end_time": 90850,
+        "text": "As the fluid travels up \nthe absorbent fibers,"
+    },
+    {
+        "index": 25,
+        "start_time": 90850,
+        "end_time": 95366,
+        "text": "it will cross three separate zones,\neach with an important task."
+    },
+    {
+        "index": 26,
+        "start_time": 95366,
+        "end_time": 98995,
+        "text": "When the wave hits the first zone,\nthe reaction zone,"
+    },
+    {
+        "index": 27,
+        "start_time": 98995,
+        "end_time": 104993,
+        "text": "Y-shaped proteins called antibodies\nwill grab onto any HCG."
+    },
+    {
+        "index": 28,
+        "start_time": 104993,
+        "end_time": 107810,
+        "text": "Attached to these antibodies\nis a handy enzyme"
+    },
+    {
+        "index": 29,
+        "start_time": 107810,
+        "end_time": 113623,
+        "text": "with the ability to turn on dye molecules,\nwhich will be crucial later down the road."
+    },
+    {
+        "index": 30,
+        "start_time": 113623,
+        "end_time": 116586,
+        "text": "Then the urine picks up \nall the AB1 enzymes"
+    },
+    {
+        "index": 31,
+        "start_time": 116586,
+        "end_time": 120849,
+        "text": "and carries them to the test zone,\nwhich is where the results show up."
+    },
+    {
+        "index": 32,
+        "start_time": 120849,
+        "end_time": 123879,
+        "text": "Secured to this zone are more\nY-shaped antibodies"
+    },
+    {
+        "index": 33,
+        "start_time": 123879,
+        "end_time": 128883,
+        "text": "that will also stick to HCG\non one of its five binding sites."
+    },
+    {
+        "index": 34,
+        "start_time": 128883,
+        "end_time": 132223,
+        "text": "Scientists call this type of test\na sandwich assay."
+    },
+    {
+        "index": 35,
+        "start_time": 132223,
+        "end_time": 139068,
+        "text": "If HCG is present, it gets sandwiched\nbetween the AB1 enzyme and AB2,"
+    },
+    {
+        "index": 36,
+        "start_time": 139068,
+        "end_time": 140930,
+        "text": "and sticks to the test zone,"
+    },
+    {
+        "index": 37,
+        "start_time": 140930,
+        "end_time": 144240,
+        "text": "allowing the attached dye-activating\nenzyme to do its job"
+    },
+    {
+        "index": 38,
+        "start_time": 144240,
+        "end_time": 146615,
+        "text": "and create a visible pattern."
+    },
+    {
+        "index": 39,
+        "start_time": 146615,
+        "end_time": 151621,
+        "text": "If there&#39;s no HCG, the wave of urine\nand enzymes just passes on by."
+    },
+    {
+        "index": 40,
+        "start_time": 151621,
+        "end_time": 156446,
+        "text": "Finally, there&#39;s one last stop to make,\nthe control zone."
+    },
+    {
+        "index": 41,
+        "start_time": 156446,
+        "end_time": 158398,
+        "text": "As in any good experiment,"
+    },
+    {
+        "index": 42,
+        "start_time": 158398,
+        "end_time": 161621,
+        "text": "this step confirms that \nthe test is working properly."
+    },
+    {
+        "index": 43,
+        "start_time": 161621,
+        "end_time": 164926,
+        "text": "Whether the AB1 enzymes never saw HCG,"
+    },
+    {
+        "index": 44,
+        "start_time": 164926,
+        "end_time": 168744,
+        "text": "or they&#39;re extras because Zone 1\nis overstocked with them,"
+    },
+    {
+        "index": 45,
+        "start_time": 168744,
+        "end_time": 173626,
+        "text": "all the unbound AB1 enzymes picked up\nin Zone 1 should end up here"
+    },
+    {
+        "index": 46,
+        "start_time": 173626,
+        "end_time": 175743,
+        "text": "and activate more dye."
+    },
+    {
+        "index": 47,
+        "start_time": 175743,
+        "end_time": 180082,
+        "text": "So if no pattern appears,\nthat indicates that the test was faulty."
+    },
+    {
+        "index": 48,
+        "start_time": 180082,
+        "end_time": 183453,
+        "text": "These tests are pretty reliable,\nbut they&#39;re not failproof."
+    },
+    {
+        "index": 49,
+        "start_time": 183453,
+        "end_time": 185336,
+        "text": "For instance, false negatives can occur"
+    },
+    {
+        "index": 50,
+        "start_time": 185336,
+        "end_time": 189639,
+        "text": "if concentrations of HCG \naren&#39;t high enough for detection."
+    },
+    {
+        "index": 51,
+        "start_time": 189639,
+        "end_time": 193501,
+        "text": "After implantation, HCG levels double\nevery two to three days,"
+    },
+    {
+        "index": 52,
+        "start_time": 193501,
+        "end_time": 196453,
+        "text": "so it may just be too early to tell."
+    },
+    {
+        "index": 53,
+        "start_time": 196453,
+        "end_time": 198519,
+        "text": "And beverages can dilute the urine sample,"
+    },
+    {
+        "index": 54,
+        "start_time": 198519,
+        "end_time": 202878,
+        "text": "which is why doctors recommend taking\nthe test first thing in the morning."
+    },
+    {
+        "index": 55,
+        "start_time": 202878,
+        "end_time": 207374,
+        "text": "On the other hand, false positives\ncan come from other sources of HCG,"
+    },
+    {
+        "index": 56,
+        "start_time": 207374,
+        "end_time": 210456,
+        "text": "like IVF injections, ectopic pregnancies,"
+    },
+    {
+        "index": 57,
+        "start_time": 210456,
+        "end_time": 214440,
+        "text": "or certain cancers such as uterine cancer\nor testicular cancer,"
+    },
+    {
+        "index": 58,
+        "start_time": 214440,
+        "end_time": 219482,
+        "text": "making it possible for one of these tests\nto tell a man he&#39;s pregnant."
+    },
+    {
+        "index": 59,
+        "start_time": 219482,
+        "end_time": 223848,
+        "text": "The best way for a woman to find out \nfor sure is at the doctor&#39;s office."
+    },
+    {
+        "index": 60,
+        "start_time": 223848,
+        "end_time": 226373,
+        "text": "The doctors are also looking for HCG,"
+    },
+    {
+        "index": 61,
+        "start_time": 226373,
+        "end_time": 229802,
+        "text": "but with tests that are more sensitive\nand quantitative,"
+    },
+    {
+        "index": 62,
+        "start_time": 229802,
+        "end_time": 234530,
+        "text": "which means they can determine\nthe exact level of HCG in your blood."
+    },
+    {
+        "index": 63,
+        "start_time": 234530,
+        "end_time": 236936,
+        "text": "A few minutes can feel like forever"
+    },
+    {
+        "index": 64,
+        "start_time": 236936,
+        "end_time": 240209,
+        "text": "when you&#39;re waiting on the results \nof a pregnancy test."
+    },
+    {
+        "index": 65,
+        "start_time": 240209,
+        "end_time": 244548,
+        "text": "But in that brief time, you&#39;re witnessing\nthe power of the scientific method."
+    },
+    {
+        "index": 66,
+        "start_time": 244548,
+        "end_time": 247211,
+        "text": "That one little stick \nlets you ask a question,"
+    },
+    {
+        "index": 67,
+        "start_time": 247211,
+        "end_time": 249277,
+        "text": "perform a controlled experiment,"
+    },
+    {
+        "index": 68,
+        "start_time": 249277,
+        "end_time": 253058,
+        "text": "and then analyze the results\nto check your original hypothesis."
+    },
+    {
+        "index": 69,
+        "start_time": 253058,
+        "end_time": 257455,
+        "text": "And the best part is you won&#39;t even\nhave to wait until the next harvest."
+    }
+]

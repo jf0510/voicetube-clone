@@ -1,0 +1,188 @@
+[
+  {
+    "end_time": 5859,
+    "index": 1,
+    "start_time": 1319,
+    "text": "There\u2019s lots of physics going on in raindrops:\ncohesion, adhesion, air resistance \u2013\u00a0I"
+  },
+  {
+    "end_time": 10269,
+    "index": 2,
+    "start_time": 5859,
+    "text": "mean, falling raindrops often look more like\njellyfish than teardrops \u2013 but perhaps most"
+  },
+  {
+    "end_time": 13730,
+    "index": 3,
+    "start_time": 10269,
+    "text": "fascinating is the physics that makes raindrops\nimpossible."
+  },
+  {
+    "end_time": 17410,
+    "index": 4,
+    "start_time": 13730,
+    "text": "You might think making a raindrop is easy\n\u2013\u00a0just cool water vapor in the air past"
+  },
+  {
+    "end_time": 21448,
+    "index": 5,
+    "start_time": 17410,
+    "text": "its condensation point, and it condenses into\nliquid droplets, right? But there\u2019s a big"
+  },
+  {
+    "end_time": 26910,
+    "index": 6,
+    "start_time": 21449,
+    "text": "problem standing, almost literally, in the\nway: the surface of the droplets themselves."
+  },
+  {
+    "end_time": 31400,
+    "index": 7,
+    "start_time": 26910,
+    "text": "Liquids hate surfaces \u2013 they&#39;re bound by\nthe laws of intermolecular attraction to pull"
+  },
+  {
+    "end_time": 35690,
+    "index": 8,
+    "start_time": 31400,
+    "text": "together in an attempt to minimize the size\nof their surfaces. That\u2019s why small water"
+  },
+  {
+    "end_time": 39750,
+    "index": 9,
+    "start_time": 35690,
+    "text": "droplets are spherical, why you can put a\nhuge amount of water on a penny, and why bubbles"
+  },
+  {
+    "end_time": 41920,
+    "index": 10,
+    "start_time": 39750,
+    "text": "form the crazy shapes they do."
+  },
+  {
+    "end_time": 47180,
+    "index": 11,
+    "start_time": 41920,
+    "text": "The technical way of saying this is that surfaces\nrequire more free energy to make than volumes."
+  },
+  {
+    "end_time": 51320,
+    "index": 12,
+    "start_time": 47180,
+    "text": "For example, when you\u2019re condensing water\nin saturated air from a gas to a liquid, every"
+  },
+  {
+    "end_time": 55899,
+    "index": 13,
+    "start_time": 51320,
+    "text": "cubic centimeter VOLUME of water you make\nreleases energy just from its change of volume"
+  },
+  {
+    "end_time": 57340,
+    "index": 14,
+    "start_time": 55899,
+    "text": "and pressure \u2013 roughly enough to lift an\napple a meter into the air. But to make each"
+  },
+  {
+    "end_time": 62199,
+    "index": 15,
+    "start_time": 57340,
+    "text": "square centimeter of the SURFACE of that water\nrequires an INPUT of energy \u2013 not much,"
+  },
+  {
+    "end_time": 65610,
+    "index": 16,
+    "start_time": 62199,
+    "text": "but it&#39;s equivalent to lifting a fortune cookie\nfortune 1 centimeter."
+  },
+  {
+    "end_time": 68970,
+    "index": 17,
+    "start_time": 65610,
+    "text": "For large amounts of water, the energy you\nget from the volume, which is proportional"
+  },
+  {
+    "end_time": 72850,
+    "index": 18,
+    "start_time": 68970,
+    "text": "to the radius cubed, is more than enough to\nmake up for the energy cost due to the surface"
+  },
+  {
+    "end_time": 77140,
+    "index": 19,
+    "start_time": 72850,
+    "text": "area, which is proportional to the radius\nsquared. Cubing tends to make things bigger"
+  },
+  {
+    "end_time": 81979,
+    "index": 20,
+    "start_time": 77140,
+    "text": "than squaring. BUT for really small radii,\nthe opposite is true \u2013\u00a0cubing a small number"
+  },
+  {
+    "end_time": 87140,
+    "index": 21,
+    "start_time": 81979,
+    "text": "makes it smaller than squaring it. This unavoidable\nmathematical truth means that if a water droplet"
+  },
+  {
+    "end_time": 91890,
+    "index": 22,
+    "start_time": 87140,
+    "text": "is below a certain size, then making it bigger\nrequires more surface area energy than is"
+  },
+  {
+    "end_time": 97060,
+    "index": 23,
+    "start_time": 91890,
+    "text": "released from volume energy, meaning it TAKES\nenergy for the droplet to grow, so it doesn\u2019t"
+  },
+  {
+    "end_time": 101340,
+    "index": 24,
+    "start_time": 97060,
+    "text": "\u2013\u00a0it shrinks. For pure cubic and quadratic\nfunctions, this equivalence point happens"
+  },
+  {
+    "end_time": 106750,
+    "index": 25,
+    "start_time": 101340,
+    "text": "at 2/3 \u2013 that\u2019s when x^3 starts growing\nfaster than x^2, but for water droplets it\u2019s"
+  },
+  {
+    "end_time": 111049,
+    "index": 26,
+    "start_time": 106750,
+    "text": "somewhere around a few million molecules;\nway too many to randomly clump together in"
+  },
+  {
+    "end_time": 115840,
+    "index": 27,
+    "start_time": 111049,
+    "text": "less than the age of the universe! And thus,\nraindrops are impossible for the precise mathematical"
+  },
+  {
+    "end_time": 120009,
+    "index": 28,
+    "start_time": 115840,
+    "text": "fact that x squared grows faster than x cubed\n\u2013 for small numbers."
+  },
+  {
+    "end_time": 124689,
+    "index": 29,
+    "start_time": 120009,
+    "text": "Ok, so obviously raindrops exist, but if you\nwant to know HOW they sidestep this battle"
+  },
+  {
+    "end_time": 128090,
+    "index": 30,
+    "start_time": 124689,
+    "text": "between quadratics and cubics, you\u2019ll have\nto go watch MinuteEarth\u2019s video about how"
+  },
+  {
+    "end_time": 172510,
+    "index": 31,
+    "start_time": 128090,
+    "text": "raindrops form."
+  }
+]

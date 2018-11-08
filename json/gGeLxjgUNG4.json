@@ -1,0 +1,404 @@
+[
+    {
+        "index": 1,
+        "start_time": 6452,
+        "end_time": 7903,
+        "text": "Imagine that day by day,"
+    },
+    {
+        "index": 2,
+        "start_time": 7903,
+        "end_time": 10700,
+        "text": "your field of vision \nbecomes slightly smaller,"
+    },
+    {
+        "index": 3,
+        "start_time": 10700,
+        "end_time": 12528,
+        "text": "narrowing or dimming"
+    },
+    {
+        "index": 4,
+        "start_time": 12528,
+        "end_time": 16382,
+        "text": "until eventually you go completely blind."
+    },
+    {
+        "index": 5,
+        "start_time": 16382,
+        "end_time": 19179,
+        "text": "We tend to think of blindness\nas something you&#39;re born with,"
+    },
+    {
+        "index": 6,
+        "start_time": 19179,
+        "end_time": 23003,
+        "text": "but in fact, with many diseases\nlike Retinitis pigmentosa"
+    },
+    {
+        "index": 7,
+        "start_time": 23003,
+        "end_time": 24607,
+        "text": "and Usher syndrome,"
+    },
+    {
+        "index": 8,
+        "start_time": 24607,
+        "end_time": 27275,
+        "text": "blindness can start developing\nwhen you&#39;re a kid,"
+    },
+    {
+        "index": 9,
+        "start_time": 27275,
+        "end_time": 29615,
+        "text": "or even when you&#39;re an adult."
+    },
+    {
+        "index": 10,
+        "start_time": 29615,
+        "end_time": 33247,
+        "text": "Both of these rare genetic diseases\naffect the retina,"
+    },
+    {
+        "index": 11,
+        "start_time": 33247,
+        "end_time": 38390,
+        "text": "the screen at the back of the eye\nthat detects light and helps us see."
+    },
+    {
+        "index": 12,
+        "start_time": 38390,
+        "end_time": 41705,
+        "text": "Now imagine if the eye \ncould regenerate itself"
+    },
+    {
+        "index": 13,
+        "start_time": 41705,
+        "end_time": 44630,
+        "text": "so that a blind person could see again."
+    },
+    {
+        "index": 14,
+        "start_time": 44630,
+        "end_time": 48827,
+        "text": "To understand if that&#39;s possible,\nwe need to grasp how the retina works"
+    },
+    {
+        "index": 15,
+        "start_time": 48827,
+        "end_time": 52526,
+        "text": "and what it has to do \nwith a multitalented creature"
+    },
+    {
+        "index": 16,
+        "start_time": 52526,
+        "end_time": 55168,
+        "text": "named the zebrafish."
+    },
+    {
+        "index": 17,
+        "start_time": 55168,
+        "end_time": 57893,
+        "text": "The human retina is made\nof different layers of cells,"
+    },
+    {
+        "index": 18,
+        "start_time": 57893,
+        "end_time": 61302,
+        "text": "with special neurons \nthat live in the back of the eye"
+    },
+    {
+        "index": 19,
+        "start_time": 61302,
+        "end_time": 65031,
+        "text": "called rod and cone photoreceptors."
+    },
+    {
+        "index": 20,
+        "start_time": 65031,
+        "end_time": 68020,
+        "text": "Photoreceptors convert \nthe light coming into your eye"
+    },
+    {
+        "index": 21,
+        "start_time": 68020,
+        "end_time": 72042,
+        "text": "into signals that the brain uses \nto generate vision."
+    },
+    {
+        "index": 22,
+        "start_time": 72042,
+        "end_time": 75381,
+        "text": "People who have Usher syndrome\nand retinitis pigmentosa"
+    },
+    {
+        "index": 23,
+        "start_time": 75381,
+        "end_time": 78987,
+        "text": "experience a steady loss \nof these photoreceptors"
+    },
+    {
+        "index": 24,
+        "start_time": 78987,
+        "end_time": 83351,
+        "text": "until finally that screen in the eye\ncan no longer detect light"
+    },
+    {
+        "index": 25,
+        "start_time": 83351,
+        "end_time": 86245,
+        "text": "nor broadcast signals to the brain."
+    },
+    {
+        "index": 26,
+        "start_time": 86245,
+        "end_time": 90705,
+        "text": "Unlike most of your body&#39;s cells,\nphotoreceptors don&#39;t divide and multiply."
+    },
+    {
+        "index": 27,
+        "start_time": 90705,
+        "end_time": 94820,
+        "text": "We&#39;re born with all \nthe photoreceptors we&#39;ll ever have,"
+    },
+    {
+        "index": 28,
+        "start_time": 94820,
+        "end_time": 97909,
+        "text": "which is why babies \nhave such big eyes for their faces"
+    },
+    {
+        "index": 29,
+        "start_time": 97909,
+        "end_time": 100217,
+        "text": "and part of why they&#39;re so cute."
+    },
+    {
+        "index": 30,
+        "start_time": 100217,
+        "end_time": 102629,
+        "text": "But that isn&#39;t the case for all animals."
+    },
+    {
+        "index": 31,
+        "start_time": 102629,
+        "end_time": 106606,
+        "text": "Take the zebrafish,\na master regenerator."
+    },
+    {
+        "index": 32,
+        "start_time": 106606,
+        "end_time": 112524,
+        "text": "It can grow back its skin, bones, heart\nand retina after they&#39;ve been damaged."
+    },
+    {
+        "index": 33,
+        "start_time": 112524,
+        "end_time": 117438,
+        "text": "If photoreceptors in the zebrafish retina\nare removed or killed by toxins,"
+    },
+    {
+        "index": 34,
+        "start_time": 117438,
+        "end_time": 123032,
+        "text": "they just regenerate and rewire \nthemselves to the brain to restore sight."
+    },
+    {
+        "index": 35,
+        "start_time": 123032,
+        "end_time": 125670,
+        "text": "Scientists have been investigating\nthis superpower"
+    },
+    {
+        "index": 36,
+        "start_time": 125670,
+        "end_time": 130643,
+        "text": "because zebrafish retina are also \nstructured very much like human retina."
+    },
+    {
+        "index": 37,
+        "start_time": 130643,
+        "end_time": 134796,
+        "text": "Scientists can even mimic the effects\nof disorders like Usher syndrome"
+    },
+    {
+        "index": 38,
+        "start_time": 134796,
+        "end_time": 138612,
+        "text": "or retinitis pigmentosa\non the zebrafish eye."
+    },
+    {
+        "index": 39,
+        "start_time": 138612,
+        "end_time": 142758,
+        "text": "This allows them to see how zebrafish\ngo about repairing their retinas"
+    },
+    {
+        "index": 40,
+        "start_time": 142758,
+        "end_time": 146997,
+        "text": "so they might use similar tactics\nto fix human eyes one day, too."
+    },
+    {
+        "index": 41,
+        "start_time": 146997,
+        "end_time": 150016,
+        "text": "So what&#39;s behind \nthe zebrafish&#39;s superpower?"
+    },
+    {
+        "index": 42,
+        "start_time": 150016,
+        "end_time": 154872,
+        "text": "The main players are sets of long cells\nthat stretch across the retina"
+    },
+    {
+        "index": 43,
+        "start_time": 154872,
+        "end_time": 156764,
+        "text": "called M\u00fcller glia."
+    },
+    {
+        "index": 44,
+        "start_time": 156764,
+        "end_time": 160367,
+        "text": "When the photoreceptors are damaged,\nthese cells transform,"
+    },
+    {
+        "index": 45,
+        "start_time": 160367,
+        "end_time": 162324,
+        "text": "taking on a new character."
+    },
+    {
+        "index": 46,
+        "start_time": 162324,
+        "end_time": 166019,
+        "text": "They become less like M\u00fcller cells\nand more like stem cells,"
+    },
+    {
+        "index": 47,
+        "start_time": 166019,
+        "end_time": 168750,
+        "text": "which can turn into any kind of cell."
+    },
+    {
+        "index": 48,
+        "start_time": 168750,
+        "end_time": 170324,
+        "text": "Then these long cells divide,"
+    },
+    {
+        "index": 49,
+        "start_time": 170324,
+        "end_time": 173702,
+        "text": "producing extras that will eventually\ngrow into new photoreceptors,"
+    },
+    {
+        "index": 50,
+        "start_time": 173702,
+        "end_time": 178581,
+        "text": "travel to the back of the eye\nand rewire themselves into the brain."
+    },
+    {
+        "index": 51,
+        "start_time": 178581,
+        "end_time": 182663,
+        "text": "And now some researchers even think\nthey&#39;ve found the key to how this works"
+    },
+    {
+        "index": 52,
+        "start_time": 182663,
+        "end_time": 186327,
+        "text": "with the help of one of two chemicals\nthat create activity in the brain"
+    },
+    {
+        "index": 53,
+        "start_time": 186327,
+        "end_time": 189442,
+        "text": "called glutamate\nand aminoadipate."
+    },
+    {
+        "index": 54,
+        "start_time": 189442,
+        "end_time": 190513,
+        "text": "In mouse eyes,"
+    },
+    {
+        "index": 55,
+        "start_time": 190513,
+        "end_time": 194743,
+        "text": "these make the M\u00fcller glia divide\nand transform into photoreceptors,"
+    },
+    {
+        "index": 56,
+        "start_time": 194743,
+        "end_time": 197086,
+        "text": "which then travel \nto the back of the retina,"
+    },
+    {
+        "index": 57,
+        "start_time": 197086,
+        "end_time": 200561,
+        "text": "like they&#39;re replenishing a failing army\nwith new soldiers."
+    },
+    {
+        "index": 58,
+        "start_time": 200561,
+        "end_time": 204376,
+        "text": "But remember, none of this has happened\nin our retinas yet,"
+    },
+    {
+        "index": 59,
+        "start_time": 204376,
+        "end_time": 208318,
+        "text": "so the question is how do we trigger \nthis transformation of the M\u00fcller glia"
+    },
+    {
+        "index": 60,
+        "start_time": 208318,
+        "end_time": 210250,
+        "text": "in the human eye?"
+    },
+    {
+        "index": 61,
+        "start_time": 210250,
+        "end_time": 212823,
+        "text": "How can we fully control this process?"
+    },
+    {
+        "index": 62,
+        "start_time": 212823,
+        "end_time": 216354,
+        "text": "How do photoreceptors \nrewire themselves into the retina?"
+    },
+    {
+        "index": 63,
+        "start_time": 216354,
+        "end_time": 219308,
+        "text": "And is it even possible \nto trigger this in humans?"
+    },
+    {
+        "index": 64,
+        "start_time": 219308,
+        "end_time": 222940,
+        "text": "Or has this mechanism been lost\nover time in evolution?"
+    },
+    {
+        "index": 65,
+        "start_time": 222940,
+        "end_time": 225449,
+        "text": "Until we tease apart \nthe origins of this ability,"
+    },
+    {
+        "index": 66,
+        "start_time": 225449,
+        "end_time": 229082,
+        "text": "retinal regeneration will remain \na mysterious superpower"
+    },
+    {
+        "index": 67,
+        "start_time": 229082,
+        "end_time": 231198,
+        "text": "of the common zebrafish."
+    }
+]

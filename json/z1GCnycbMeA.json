@@ -1,0 +1,536 @@
+[
+    {
+        "index": 1,
+        "start_time": 7630,
+        "end_time": 10628,
+        "text": "Consider throwing a ball\nstraight into the air."
+    },
+    {
+        "index": 2,
+        "start_time": 10628,
+        "end_time": 13852,
+        "text": "Can you predict the motion\nof the ball after it leaves your hand?"
+    },
+    {
+        "index": 3,
+        "start_time": 13852,
+        "end_time": 15176,
+        "text": "Sure, that&#39;s easy."
+    },
+    {
+        "index": 4,
+        "start_time": 15176,
+        "end_time": 18730,
+        "text": "The ball will move upward\nuntil it gets to some highest point,"
+    },
+    {
+        "index": 5,
+        "start_time": 18730,
+        "end_time": 21668,
+        "text": "then it will come back down\nand land in your hand again."
+    },
+    {
+        "index": 6,
+        "start_time": 21668,
+        "end_time": 23386,
+        "text": "Of course, that&#39;s what happens,"
+    },
+    {
+        "index": 7,
+        "start_time": 23386,
+        "end_time": 26765,
+        "text": "and you know this because you have\nwitnessed events like this countless times."
+    },
+    {
+        "index": 8,
+        "start_time": 26765,
+        "end_time": 31417,
+        "text": "You&#39;ve been observing the physics\nof everyday phenomena your entire life."
+    },
+    {
+        "index": 9,
+        "start_time": 31417,
+        "end_time": 35884,
+        "text": "But suppose we explore a question\nabout the physics of atoms,"
+    },
+    {
+        "index": 10,
+        "start_time": 35884,
+        "end_time": 37950,
+        "text": "like what does the motion of an electron"
+    },
+    {
+        "index": 11,
+        "start_time": 37950,
+        "end_time": 40906,
+        "text": "around the nucleus of a \nhydrogen atom look like?"
+    },
+    {
+        "index": 12,
+        "start_time": 40906,
+        "end_time": 45045,
+        "text": "Could we answer that question based on\nour experience with everyday physics?"
+    },
+    {
+        "index": 13,
+        "start_time": 45045,
+        "end_time": 46872,
+        "text": "Definietly not. Why?"
+    },
+    {
+        "index": 14,
+        "start_time": 46872,
+        "end_time": 51474,
+        "text": "Because the physics that governs the\nbehavior of systems at such small scales"
+    },
+    {
+        "index": 15,
+        "start_time": 51474,
+        "end_time": 55224,
+        "text": "is much different than the physics\nof the macroscopic objects"
+    },
+    {
+        "index": 16,
+        "start_time": 55224,
+        "end_time": 57690,
+        "text": "you see around you all the time."
+    },
+    {
+        "index": 17,
+        "start_time": 57690,
+        "end_time": 59703,
+        "text": "The everyday world you know and love"
+    },
+    {
+        "index": 18,
+        "start_time": 59703,
+        "end_time": 63702,
+        "text": "behaves according to the laws \nof classical mechanics."
+    },
+    {
+        "index": 19,
+        "start_time": 63702,
+        "end_time": 65880,
+        "text": "But systems on the scale of atoms"
+    },
+    {
+        "index": 20,
+        "start_time": 65880,
+        "end_time": 69870,
+        "text": "behave according to the laws \nof quantum mechanics."
+    },
+    {
+        "index": 21,
+        "start_time": 69870,
+        "end_time": 73432,
+        "text": "This quantum world turns out to be\na very strange place."
+    },
+    {
+        "index": 22,
+        "start_time": 73432,
+        "end_time": 77932,
+        "text": "An illustration of quantum strangeness\nis given by a famous thought experiment:"
+    },
+    {
+        "index": 23,
+        "start_time": 77932,
+        "end_time": 80090,
+        "text": "Schr\u00f6dinger&#39;s cat."
+    },
+    {
+        "index": 24,
+        "start_time": 80090,
+        "end_time": 84449,
+        "text": "A physicist, who doesn&#39;t particularly \nlike cats, puts a cat in a box,"
+    },
+    {
+        "index": 25,
+        "start_time": 84449,
+        "end_time": 90148,
+        "text": "along with a bomb that has a 50% chance\nof blowing up after the lid is closed."
+    },
+    {
+        "index": 26,
+        "start_time": 90148,
+        "end_time": 92756,
+        "text": "Until we reopen the lid,\nthere is no way of knowing"
+    },
+    {
+        "index": 27,
+        "start_time": 92756,
+        "end_time": 95281,
+        "text": "whether the bomb exploded or not,"
+    },
+    {
+        "index": 28,
+        "start_time": 95281,
+        "end_time": 100531,
+        "text": "and thus, no way of knowing\nif the cat is alive or dead."
+    },
+    {
+        "index": 29,
+        "start_time": 100531,
+        "end_time": 103834,
+        "text": "In quantum physics,\nwe could say that before our observation"
+    },
+    {
+        "index": 30,
+        "start_time": 103834,
+        "end_time": 106606,
+        "text": "the cat was in a superposition state."
+    },
+    {
+        "index": 31,
+        "start_time": 106606,
+        "end_time": 111656,
+        "text": "It was neither alive nor dead but\nrather in a mixture of both possibilities,"
+    },
+    {
+        "index": 32,
+        "start_time": 111656,
+        "end_time": 114678,
+        "text": "with a 50% chance for each."
+    },
+    {
+        "index": 33,
+        "start_time": 114678,
+        "end_time": 118842,
+        "text": "The same sort of thing happens\nto physical systems at quantum scales,"
+    },
+    {
+        "index": 34,
+        "start_time": 118842,
+        "end_time": 121611,
+        "text": "like an electron orbiting\nin a hydrogen atom."
+    },
+    {
+        "index": 35,
+        "start_time": 121611,
+        "end_time": 124186,
+        "text": "The electron isn&#39;t really orbiting at all."
+    },
+    {
+        "index": 36,
+        "start_time": 124186,
+        "end_time": 127144,
+        "text": "It&#39;s sort of everywhere in space,\nall at once,"
+    },
+    {
+        "index": 37,
+        "start_time": 127144,
+        "end_time": 130920,
+        "text": "with more of a probability of being\nat some places than others,"
+    },
+    {
+        "index": 38,
+        "start_time": 130920,
+        "end_time": 133000,
+        "text": "and it&#39;s only after \nwe measure its position"
+    },
+    {
+        "index": 39,
+        "start_time": 133000,
+        "end_time": 135876,
+        "text": "that we can pinpoint where it is\nat that moment."
+    },
+    {
+        "index": 40,
+        "start_time": 135876,
+        "end_time": 138971,
+        "text": "A lot like how we didn&#39;t know\nwhether the cat was alive or dead"
+    },
+    {
+        "index": 41,
+        "start_time": 138971,
+        "end_time": 140831,
+        "text": "until we opened the box."
+    },
+    {
+        "index": 42,
+        "start_time": 140831,
+        "end_time": 143576,
+        "text": "This brings us to the strange\nand beautiful phenomenon"
+    },
+    {
+        "index": 43,
+        "start_time": 143576,
+        "end_time": 145871,
+        "text": "of quantum entanglement."
+    },
+    {
+        "index": 44,
+        "start_time": 145871,
+        "end_time": 151157,
+        "text": "Suppose that instead of one cat in a box,\nwe have two cats in two different boxes."
+    },
+    {
+        "index": 45,
+        "start_time": 151157,
+        "end_time": 154820,
+        "text": "If we repeat the Schr\u00f6dinger&#39;s cat experiment\nwith this pair of cats,"
+    },
+    {
+        "index": 46,
+        "start_time": 154820,
+        "end_time": 158780,
+        "text": "the outcome of the experiment\ncan be one of four possibilities."
+    },
+    {
+        "index": 47,
+        "start_time": 158780,
+        "end_time": 161869,
+        "text": "Either both cats will be alive,\nor both will be dead,"
+    },
+    {
+        "index": 48,
+        "start_time": 161869,
+        "end_time": 165700,
+        "text": "or one will be alive \nand the other dead, or vice versa."
+    },
+    {
+        "index": 49,
+        "start_time": 165700,
+        "end_time": 169117,
+        "text": "The system of both cats\nis again in a superposition state,"
+    },
+    {
+        "index": 50,
+        "start_time": 169117,
+        "end_time": 173644,
+        "text": "with each outcome having a 25% chance\nrather than 50%."
+    },
+    {
+        "index": 51,
+        "start_time": 173644,
+        "end_time": 175897,
+        "text": "But here&#39;s the cool thing:"
+    },
+    {
+        "index": 52,
+        "start_time": 175897,
+        "end_time": 178508,
+        "text": "quantum mechanics tells us\nit&#39;s possible to erase"
+    },
+    {
+        "index": 53,
+        "start_time": 178508,
+        "end_time": 183984,
+        "text": "the both cats alive and both cats dead\noutcomes from the superposition state."
+    },
+    {
+        "index": 54,
+        "start_time": 183984,
+        "end_time": 186819,
+        "text": "In other words,\nthere can be a two cat system,"
+    },
+    {
+        "index": 55,
+        "start_time": 186819,
+        "end_time": 192502,
+        "text": "such that the outcome will always be\none cat alive and the other cat dead."
+    },
+    {
+        "index": 56,
+        "start_time": 192502,
+        "end_time": 197395,
+        "text": "The technical term for this is that the\nstates of the cats are entangled."
+    },
+    {
+        "index": 57,
+        "start_time": 197395,
+        "end_time": 201022,
+        "text": "But there&#39;s something truly mindblowing\nabout quantum entanglement."
+    },
+    {
+        "index": 58,
+        "start_time": 201022,
+        "end_time": 205011,
+        "text": "If you prepare the system of two cats\nin boxes in this entangled state,"
+    },
+    {
+        "index": 59,
+        "start_time": 205011,
+        "end_time": 208957,
+        "text": "then move the boxes to opposite \nends of the universe,"
+    },
+    {
+        "index": 60,
+        "start_time": 208957,
+        "end_time": 212752,
+        "text": "the outcome of the experiment\nwill still always be the same."
+    },
+    {
+        "index": 61,
+        "start_time": 212752,
+        "end_time": 217617,
+        "text": "One cat will always come out alive,\nand the other cat will always end up dead,"
+    },
+    {
+        "index": 62,
+        "start_time": 217617,
+        "end_time": 222221,
+        "text": "even though which particular cat\nlives or dies is completely undetermined"
+    },
+    {
+        "index": 63,
+        "start_time": 222221,
+        "end_time": 224609,
+        "text": "before we measure the outcome."
+    },
+    {
+        "index": 64,
+        "start_time": 224609,
+        "end_time": 226196,
+        "text": "How is this possible?"
+    },
+    {
+        "index": 65,
+        "start_time": 226196,
+        "end_time": 229647,
+        "text": "How is it that the states of cats\non opposite sides of the universe"
+    },
+    {
+        "index": 66,
+        "start_time": 229647,
+        "end_time": 231822,
+        "text": "can be entangled in this way?"
+    },
+    {
+        "index": 67,
+        "start_time": 231822,
+        "end_time": 234325,
+        "text": "They&#39;re too far away to communicate\nwith each other in time,"
+    },
+    {
+        "index": 68,
+        "start_time": 234325,
+        "end_time": 237526,
+        "text": "so how do the two bombs always \nconspire such that"
+    },
+    {
+        "index": 69,
+        "start_time": 237526,
+        "end_time": 240350,
+        "text": "one blows up and the other doesn&#39;t?"
+    },
+    {
+        "index": 70,
+        "start_time": 240350,
+        "end_time": 241496,
+        "text": "You might be thinking,"
+    },
+    {
+        "index": 71,
+        "start_time": 241496,
+        "end_time": 243806,
+        "text": "&quot;This is just some theoretical\nmumbo jumbo."
+    },
+    {
+        "index": 72,
+        "start_time": 243806,
+        "end_time": 246388,
+        "text": "This sort of thing can&#39;t happen\nin the real world.&quot;"
+    },
+    {
+        "index": 73,
+        "start_time": 246388,
+        "end_time": 248923,
+        "text": "But it turns out that quantum entanglement"
+    },
+    {
+        "index": 74,
+        "start_time": 248923,
+        "end_time": 252157,
+        "text": "has been confirmed in \nreal world lab experiments."
+    },
+    {
+        "index": 75,
+        "start_time": 252157,
+        "end_time": 255794,
+        "text": "Two subatomic particles entangled\nin a superposition state,"
+    },
+    {
+        "index": 76,
+        "start_time": 255794,
+        "end_time": 259663,
+        "text": "where if one spins one way\nthen the other must spin the other way,"
+    },
+    {
+        "index": 77,
+        "start_time": 259663,
+        "end_time": 262450,
+        "text": "will do just that,\neven when there&#39;s no way"
+    },
+    {
+        "index": 78,
+        "start_time": 262450,
+        "end_time": 265986,
+        "text": "for information to pass\nfrom one particle to the other"
+    },
+    {
+        "index": 79,
+        "start_time": 265986,
+        "end_time": 270007,
+        "text": "indicating which way to spin\nto obey the rules of entanglement."
+    },
+    {
+        "index": 80,
+        "start_time": 270007,
+        "end_time": 272960,
+        "text": "It&#39;s not surprising then that\nentanglement is at the core"
+    },
+    {
+        "index": 81,
+        "start_time": 272960,
+        "end_time": 275301,
+        "text": "of quantum information science,"
+    },
+    {
+        "index": 82,
+        "start_time": 275301,
+        "end_time": 279486,
+        "text": "a growing field studying how to use\nthe laws of the strange quantum world"
+    },
+    {
+        "index": 83,
+        "start_time": 279486,
+        "end_time": 281549,
+        "text": "in our macroscopic world,"
+    },
+    {
+        "index": 84,
+        "start_time": 281549,
+        "end_time": 286372,
+        "text": "like in quantum cryptography, so spies\ncan send secure messages to each other,"
+    },
+    {
+        "index": 85,
+        "start_time": 286372,
+        "end_time": 289479,
+        "text": "or quantum computing,\nfor cracking secret codes."
+    },
+    {
+        "index": 86,
+        "start_time": 289479,
+        "end_time": 293743,
+        "text": "Everyday physics may start to look\na bit more like the strange quantum world."
+    },
+    {
+        "index": 87,
+        "start_time": 293743,
+        "end_time": 296992,
+        "text": "Quantum teleportation \nmay even progress so far,"
+    },
+    {
+        "index": 88,
+        "start_time": 296992,
+        "end_time": 300323,
+        "text": "that one day your cat will \nescape to a safer galaxy,"
+    },
+    {
+        "index": 89,
+        "start_time": 300323,
+        "end_time": 303169,
+        "text": "where there are no physicists\nand no boxes."
+    }
+]

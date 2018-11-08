@@ -1,0 +1,3164 @@
+[
+  {
+    "end_time": 15790,
+    "index": 1,
+    "start_time": 12904,
+    "text": "Chris Anderson: Help us understand\nwhat machine learning is,"
+  },
+  {
+    "end_time": 17868,
+    "index": 2,
+    "start_time": 15814,
+    "text": "because that seems to be the key driver"
+  },
+  {
+    "end_time": 20628,
+    "index": 3,
+    "start_time": 17892,
+    "text": "of so much of the excitement\nand also of the concern"
+  },
+  {
+    "end_time": 22147,
+    "index": 4,
+    "start_time": 20653,
+    "text": "around artificial intelligence."
+  },
+  {
+    "end_time": 23814,
+    "index": 5,
+    "start_time": 22171,
+    "text": "How does machine learning work?"
+  },
+  {
+    "end_time": 27734,
+    "index": 6,
+    "start_time": 23838,
+    "text": "Sebastian Thrun: So, artificial\nintelligence and machine learning"
+  },
+  {
+    "end_time": 29759,
+    "index": 7,
+    "start_time": 27758,
+    "text": "is about 60 years old"
+  },
+  {
+    "end_time": 34053,
+    "index": 8,
+    "start_time": 29784,
+    "text": "and has not had a great day\nin its past until recently."
+  },
+  {
+    "end_time": 37001,
+    "index": 9,
+    "start_time": 34077,
+    "text": "And the reason is that today,"
+  },
+  {
+    "end_time": 40998,
+    "index": 10,
+    "start_time": 37025,
+    "text": "we have reached a scale\nof computing and datasets"
+  },
+  {
+    "end_time": 43659,
+    "index": 11,
+    "start_time": 41022,
+    "text": "that was necessary to make machines smart."
+  },
+  {
+    "end_time": 45434,
+    "index": 12,
+    "start_time": 43683,
+    "text": "So here&#39;s how it works."
+  },
+  {
+    "end_time": 48955,
+    "index": 13,
+    "start_time": 45458,
+    "text": "If you program a computer today,\nsay, your phone,"
+  },
+  {
+    "end_time": 51314,
+    "index": 14,
+    "start_time": 48979,
+    "text": "then you hire software engineers"
+  },
+  {
+    "end_time": 55192,
+    "index": 15,
+    "start_time": 51338,
+    "text": "that write a very,\nvery long kitchen recipe,"
+  },
+  {
+    "end_time": 58348,
+    "index": 16,
+    "start_time": 55216,
+    "text": "like, &quot;If the water is too hot,\nturn down the temperature."
+  },
+  {
+    "end_time": 60650,
+    "index": 17,
+    "start_time": 58372,
+    "text": "If it&#39;s too cold, turn up\nthe temperature.&quot;"
+  },
+  {
+    "end_time": 63524,
+    "index": 18,
+    "start_time": 60675,
+    "text": "The recipes are not just 10 lines long."
+  },
+  {
+    "end_time": 66151,
+    "index": 19,
+    "start_time": 63548,
+    "text": "They are millions of lines long."
+  },
+  {
+    "end_time": 70259,
+    "index": 20,
+    "start_time": 66175,
+    "text": "A modern cell phone\nhas 12 million lines of code."
+  },
+  {
+    "end_time": 72929,
+    "index": 21,
+    "start_time": 70283,
+    "text": "A browser has five million lines of code."
+  },
+  {
+    "end_time": 77922,
+    "index": 22,
+    "start_time": 72953,
+    "text": "And each bug in this recipe\ncan cause your computer to crash."
+  },
+  {
+    "end_time": 81021,
+    "index": 23,
+    "start_time": 77946,
+    "text": "That&#39;s why a software engineer\nmakes so much money."
+  },
+  {
+    "end_time": 85613,
+    "index": 24,
+    "start_time": 81953,
+    "text": "The new thing now is that computers\ncan find their own rules."
+  },
+  {
+    "end_time": 89243,
+    "index": 25,
+    "start_time": 85637,
+    "text": "So instead of an expert\ndeciphering, step by step,"
+  },
+  {
+    "end_time": 91414,
+    "index": 26,
+    "start_time": 89267,
+    "text": "a rule for every contingency,"
+  },
+  {
+    "end_time": 94512,
+    "index": 27,
+    "start_time": 91439,
+    "text": "what you do now is you give\nthe computer examples"
+  },
+  {
+    "end_time": 96118,
+    "index": 28,
+    "start_time": 94537,
+    "text": "and have it infer its own rules."
+  },
+  {
+    "end_time": 100448,
+    "index": 29,
+    "start_time": 96142,
+    "text": "A really good example is AlphaGo,\nwhich recently was won by Google."
+  },
+  {
+    "end_time": 104158,
+    "index": 30,
+    "start_time": 100472,
+    "text": "Normally, in game playing,\nyou would really write down all the rules,"
+  },
+  {
+    "end_time": 105968,
+    "index": 31,
+    "start_time": 104183,
+    "text": "but in AlphaGo&#39;s case,"
+  },
+  {
+    "end_time": 108058,
+    "index": 32,
+    "start_time": 105992,
+    "text": "the system looked over a million games"
+  },
+  {
+    "end_time": 110274,
+    "index": 33,
+    "start_time": 108082,
+    "text": "and was able to infer its own rules"
+  },
+  {
+    "end_time": 113036,
+    "index": 34,
+    "start_time": 110298,
+    "text": "and then beat the world&#39;s\nresiding Go champion."
+  },
+  {
+    "end_time": 117362,
+    "index": 35,
+    "start_time": 113853,
+    "text": "That is exciting, because it relieves\nthe software engineer"
+  },
+  {
+    "end_time": 119205,
+    "index": 36,
+    "start_time": 117386,
+    "text": "of the need of being super smart,"
+  },
+  {
+    "end_time": 121554,
+    "index": 37,
+    "start_time": 119229,
+    "text": "and pushes the burden towards the data."
+  },
+  {
+    "end_time": 126112,
+    "index": 38,
+    "start_time": 121578,
+    "text": "As I said, the inflection point\nwhere this has become really possible --"
+  },
+  {
+    "end_time": 128882,
+    "index": 39,
+    "start_time": 126136,
+    "text": "very embarrassing, my thesis\nwas about machine learning."
+  },
+  {
+    "end_time": 131111,
+    "index": 40,
+    "start_time": 128906,
+    "text": "It was completely\ninsignificant, don&#39;t read it,"
+  },
+  {
+    "end_time": 132484,
+    "index": 41,
+    "start_time": 131135,
+    "text": "because it was 20 years ago"
+  },
+  {
+    "end_time": 135416,
+    "index": 42,
+    "start_time": 132509,
+    "text": "and back then, the computers\nwere as big as a cockroach brain."
+  },
+  {
+    "end_time": 137771,
+    "index": 43,
+    "start_time": 135440,
+    "text": "Now they are powerful enough\nto really emulate"
+  },
+  {
+    "end_time": 139870,
+    "index": 44,
+    "start_time": 137795,
+    "text": "kind of specialized human thinking."
+  },
+  {
+    "end_time": 142208,
+    "index": 45,
+    "start_time": 139895,
+    "text": "And then the computers\ntake advantage of the fact"
+  },
+  {
+    "end_time": 144732,
+    "index": 46,
+    "start_time": 142232,
+    "text": "that they can look at\nmuch more data than people can."
+  },
+  {
+    "end_time": 147836,
+    "index": 47,
+    "start_time": 144756,
+    "text": "So I&#39;d say AlphaGo looked at\nmore than a million games."
+  },
+  {
+    "end_time": 150699,
+    "index": 48,
+    "start_time": 147860,
+    "text": "No human expert can ever\nstudy a million games."
+  },
+  {
+    "end_time": 153905,
+    "index": 49,
+    "start_time": 150723,
+    "text": "Google has looked at over\na hundred billion web pages."
+  },
+  {
+    "end_time": 156579,
+    "index": 50,
+    "start_time": 153929,
+    "text": "No person can ever study\na hundred billion web pages."
+  },
+  {
+    "end_time": 159317,
+    "index": 51,
+    "start_time": 156603,
+    "text": "So as a result,\nthe computer can find rules"
+  },
+  {
+    "end_time": 161096,
+    "index": 52,
+    "start_time": 159341,
+    "text": "that even people can&#39;t find."
+  },
+  {
+    "end_time": 165432,
+    "index": 53,
+    "start_time": 161120,
+    "text": "CA: So instead of looking ahead\nto, &quot;If he does that, I will do that,&quot;"
+  },
+  {
+    "end_time": 168528,
+    "index": 54,
+    "start_time": 165456,
+    "text": "it&#39;s more saying, &quot;Here is what\nlooks like a winning pattern,"
+  },
+  {
+    "end_time": 170631,
+    "index": 55,
+    "start_time": 168552,
+    "text": "here is what looks like\na winning pattern.&quot;"
+  },
+  {
+    "end_time": 173172,
+    "index": 56,
+    "start_time": 170655,
+    "text": "ST: Yeah. I mean, think about\nhow you raise children."
+  },
+  {
+    "end_time": 176840,
+    "index": 57,
+    "start_time": 173196,
+    "text": "You don&#39;t spend the first 18 years\ngiving kids a rule for every contingency"
+  },
+  {
+    "end_time": 179211,
+    "index": 58,
+    "start_time": 176864,
+    "text": "and set them free\nand they have this big program."
+  },
+  {
+    "end_time": 181954,
+    "index": 59,
+    "start_time": 179235,
+    "text": "They stumble, fall, get up,\nthey get slapped or spanked,"
+  },
+  {
+    "end_time": 184862,
+    "index": 60,
+    "start_time": 181978,
+    "text": "and they have a positive experience,\na good grade in school,"
+  },
+  {
+    "end_time": 186720,
+    "index": 61,
+    "start_time": 184886,
+    "text": "and they figure it out on their own."
+  },
+  {
+    "end_time": 188481,
+    "index": 62,
+    "start_time": 186744,
+    "text": "That&#39;s happening with computers now,"
+  },
+  {
+    "end_time": 191534,
+    "index": 63,
+    "start_time": 188505,
+    "text": "which makes computer programming\nso much easier all of a sudden."
+  },
+  {
+    "end_time": 194733,
+    "index": 64,
+    "start_time": 191558,
+    "text": "Now we don&#39;t have to think anymore.\nWe just give them lots of data."
+  },
+  {
+    "end_time": 198179,
+    "index": 65,
+    "start_time": 194757,
+    "text": "CA: And so, this has been key\nto the spectacular improvement"
+  },
+  {
+    "end_time": 201267,
+    "index": 66,
+    "start_time": 198203,
+    "text": "in power of self-driving cars."
+  },
+  {
+    "end_time": 203030,
+    "index": 67,
+    "start_time": 201291,
+    "text": "I think you gave me an example."
+  },
+  {
+    "end_time": 205739,
+    "index": 68,
+    "start_time": 203054,
+    "text": "Can you explain what&#39;s happening here?"
+  },
+  {
+    "end_time": 209327,
+    "index": 69,
+    "start_time": 205763,
+    "text": "ST: This is a drive of a self-driving car"
+  },
+  {
+    "end_time": 211308,
+    "index": 70,
+    "start_time": 209351,
+    "text": "that we happened to have at Udacity"
+  },
+  {
+    "end_time": 213730,
+    "index": 71,
+    "start_time": 211332,
+    "text": "and recently made\ninto a spin-off called Voyage."
+  },
+  {
+    "end_time": 216328,
+    "index": 72,
+    "start_time": 213754,
+    "text": "We have used this thing\ncalled deep learning"
+  },
+  {
+    "end_time": 217975,
+    "index": 73,
+    "start_time": 216352,
+    "text": "to train a car to drive itself,"
+  },
+  {
+    "end_time": 220386,
+    "index": 74,
+    "start_time": 217999,
+    "text": "and this is driving\nfrom Mountain View, California,"
+  },
+  {
+    "end_time": 221578,
+    "index": 75,
+    "start_time": 220410,
+    "text": "to San Francisco"
+  },
+  {
+    "end_time": 223861,
+    "index": 76,
+    "start_time": 221602,
+    "text": "on El Camino Real on a rainy day,"
+  },
+  {
+    "end_time": 227409,
+    "index": 77,
+    "start_time": 223885,
+    "text": "with bicyclists and pedestrians\nand 133 traffic lights."
+  },
+  {
+    "end_time": 230069,
+    "index": 78,
+    "start_time": 227433,
+    "text": "And the novel thing here is,"
+  },
+  {
+    "end_time": 233213,
+    "index": 79,
+    "start_time": 230093,
+    "text": "many, many moons ago, I started\nthe Google self-driving car team."
+  },
+  {
+    "end_time": 236418,
+    "index": 80,
+    "start_time": 233237,
+    "text": "And back in the day, I hired\nthe world&#39;s best software engineers"
+  },
+  {
+    "end_time": 238049,
+    "index": 81,
+    "start_time": 236442,
+    "text": "to find the world&#39;s best rules."
+  },
+  {
+    "end_time": 239827,
+    "index": 82,
+    "start_time": 238073,
+    "text": "This is just trained."
+  },
+  {
+    "end_time": 243187,
+    "index": 83,
+    "start_time": 239851,
+    "text": "We drive this road 20 times,"
+  },
+  {
+    "end_time": 245658,
+    "index": 84,
+    "start_time": 243211,
+    "text": "we put all this data\ninto the computer brain,"
+  },
+  {
+    "end_time": 247763,
+    "index": 85,
+    "start_time": 245682,
+    "text": "and after a few hours of processing,"
+  },
+  {
+    "end_time": 251714,
+    "index": 86,
+    "start_time": 247788,
+    "text": "it comes up with behavior\nthat often surpasses human agility."
+  },
+  {
+    "end_time": 253755,
+    "index": 87,
+    "start_time": 251738,
+    "text": "So it&#39;s become really easy to program it."
+  },
+  {
+    "end_time": 257582,
+    "index": 88,
+    "start_time": 253779,
+    "text": "This is 100 percent autonomous,\nabout 33 miles, an hour and a half."
+  },
+  {
+    "end_time": 261236,
+    "index": 89,
+    "start_time": 257606,
+    "text": "CA: So, explain it -- on the big part\nof this program on the left,"
+  },
+  {
+    "end_time": 264517,
+    "index": 90,
+    "start_time": 261260,
+    "text": "you&#39;re seeing basically what\nthe computer sees as trucks and cars"
+  },
+  {
+    "end_time": 267427,
+    "index": 91,
+    "start_time": 264541,
+    "text": "and those dots overtaking it and so forth."
+  },
+  {
+    "end_time": 271213,
+    "index": 92,
+    "start_time": 267451,
+    "text": "ST: On the right side, you see the camera\nimage, which is the main input here,"
+  },
+  {
+    "end_time": 273913,
+    "index": 93,
+    "start_time": 271237,
+    "text": "and it&#39;s used to find lanes,\nother cars, traffic lights."
+  },
+  {
+    "end_time": 276426,
+    "index": 94,
+    "start_time": 273937,
+    "text": "The vehicle has a radar\nto do distance estimation."
+  },
+  {
+    "end_time": 279070,
+    "index": 95,
+    "start_time": 276450,
+    "text": "This is very commonly used\nin these kind of systems."
+  },
+  {
+    "end_time": 281087,
+    "index": 96,
+    "start_time": 279095,
+    "text": "On the left side you see a laser diagram,"
+  },
+  {
+    "end_time": 284311,
+    "index": 97,
+    "start_time": 281111,
+    "text": "where you see obstacles like trees\nand so on depicted by the laser."
+  },
+  {
+    "end_time": 287770,
+    "index": 98,
+    "start_time": 284335,
+    "text": "But almost all the interesting work\nis centering on the camera image now."
+  },
+  {
+    "end_time": 291271,
+    "index": 99,
+    "start_time": 287795,
+    "text": "We&#39;re really shifting over from precision\nsensors like radars and lasers"
+  },
+  {
+    "end_time": 293137,
+    "index": 100,
+    "start_time": 291295,
+    "text": "into very cheap, commoditized sensors."
+  },
+  {
+    "end_time": 295148,
+    "index": 101,
+    "start_time": 293161,
+    "text": "A camera costs less than eight dollars."
+  },
+  {
+    "end_time": 297965,
+    "index": 102,
+    "start_time": 295172,
+    "text": "CA: And that green dot\non the left thing, what is that?"
+  },
+  {
+    "end_time": 299359,
+    "index": 103,
+    "start_time": 297989,
+    "text": "Is that anything meaningful?"
+  },
+  {
+    "end_time": 303052,
+    "index": 104,
+    "start_time": 299384,
+    "text": "ST: This is a look-ahead point\nfor your adaptive cruise control,"
+  },
+  {
+    "end_time": 305553,
+    "index": 105,
+    "start_time": 303076,
+    "text": "so it helps us understand\nhow to regulate velocity"
+  },
+  {
+    "end_time": 308211,
+    "index": 106,
+    "start_time": 305577,
+    "text": "based on how far\nthe cars in front of you are."
+  },
+  {
+    "end_time": 310951,
+    "index": 107,
+    "start_time": 308235,
+    "text": "CA: And so, you&#39;ve also\ngot an example, I think,"
+  },
+  {
+    "end_time": 313356,
+    "index": 108,
+    "start_time": 310975,
+    "text": "of how the actual\nlearning part takes place."
+  },
+  {
+    "end_time": 315838,
+    "index": 109,
+    "start_time": 313380,
+    "text": "Maybe we can see that. Talk about this."
+  },
+  {
+    "end_time": 319505,
+    "index": 110,
+    "start_time": 315862,
+    "text": "ST: This is an example where we posed\na challenge to Udacity students"
+  },
+  {
+    "end_time": 322659,
+    "index": 111,
+    "start_time": 319529,
+    "text": "to take what we call\na self-driving car Nanodegree."
+  },
+  {
+    "end_time": 324179,
+    "index": 112,
+    "start_time": 322684,
+    "text": "We gave them this dataset"
+  },
+  {
+    "end_time": 327256,
+    "index": 113,
+    "start_time": 324203,
+    "text": "and said &quot;Hey, can you guys figure out\nhow to steer this car?&quot;"
+  },
+  {
+    "end_time": 328905,
+    "index": 114,
+    "start_time": 327281,
+    "text": "And if you look at the images,"
+  },
+  {
+    "end_time": 333001,
+    "index": 115,
+    "start_time": 328929,
+    "text": "it&#39;s, even for humans, quite impossible\nto get the steering right."
+  },
+  {
+    "end_time": 336617,
+    "index": 116,
+    "start_time": 333026,
+    "text": "And we ran a competition and said,\n&quot;It&#39;s a deep learning competition,"
+  },
+  {
+    "end_time": 337814,
+    "index": 117,
+    "start_time": 336641,
+    "text": "AI competition,&quot;"
+  },
+  {
+    "end_time": 339725,
+    "index": 118,
+    "start_time": 337838,
+    "text": "and we gave the students 48 hours."
+  },
+  {
+    "end_time": 343921,
+    "index": 119,
+    "start_time": 339749,
+    "text": "So if you are a software house\nlike Google or Facebook,"
+  },
+  {
+    "end_time": 346662,
+    "index": 120,
+    "start_time": 343945,
+    "text": "something like this costs you\nat least six months of work."
+  },
+  {
+    "end_time": 348888,
+    "index": 121,
+    "start_time": 346686,
+    "text": "So we figured 48 hours is great."
+  },
+  {
+    "end_time": 352378,
+    "index": 122,
+    "start_time": 348912,
+    "text": "And within 48 hours, we got about\n100 submissions from students,"
+  },
+  {
+    "end_time": 355773,
+    "index": 123,
+    "start_time": 352403,
+    "text": "and the top four got it perfectly right."
+  },
+  {
+    "end_time": 358437,
+    "index": 124,
+    "start_time": 355797,
+    "text": "It drives better than I could\ndrive on this imagery,"
+  },
+  {
+    "end_time": 359650,
+    "index": 125,
+    "start_time": 358461,
+    "text": "using deep learning."
+  },
+  {
+    "end_time": 361472,
+    "index": 126,
+    "start_time": 359674,
+    "text": "And again, it&#39;s the same methodology."
+  },
+  {
+    "end_time": 362661,
+    "index": 127,
+    "start_time": 361497,
+    "text": "It&#39;s this magical thing."
+  },
+  {
+    "end_time": 364770,
+    "index": 128,
+    "start_time": 362685,
+    "text": "When you give enough data\nto a computer now,"
+  },
+  {
+    "end_time": 366933,
+    "index": 129,
+    "start_time": 364794,
+    "text": "and give enough time\nto comprehend the data,"
+  },
+  {
+    "end_time": 368403,
+    "index": 130,
+    "start_time": 366958,
+    "text": "it finds its own rules."
+  },
+  {
+    "end_time": 374184,
+    "index": 131,
+    "start_time": 369339,
+    "text": "CA: And so that has led to the development\nof powerful applications"
+  },
+  {
+    "end_time": 375733,
+    "index": 132,
+    "start_time": 374208,
+    "text": "in all sorts of areas."
+  },
+  {
+    "end_time": 378425,
+    "index": 133,
+    "start_time": 375757,
+    "text": "You were talking to me\nthe other day about cancer."
+  },
+  {
+    "end_time": 379638,
+    "index": 134,
+    "start_time": 378449,
+    "text": "Can I show this video?"
+  },
+  {
+    "end_time": 382015,
+    "index": 135,
+    "start_time": 379662,
+    "text": "ST: Yeah, absolutely, please.\nCA: This is cool."
+  },
+  {
+    "end_time": 385574,
+    "index": 136,
+    "start_time": 382040,
+    "text": "ST: This is kind of an insight\ninto what&#39;s happening"
+  },
+  {
+    "end_time": 388027,
+    "index": 137,
+    "start_time": 385598,
+    "text": "in a completely different domain."
+  },
+  {
+    "end_time": 391803,
+    "index": 138,
+    "start_time": 388051,
+    "text": "This is augmenting, or competing --"
+  },
+  {
+    "end_time": 393576,
+    "index": 139,
+    "start_time": 391827,
+    "text": "it&#39;s in the eye of the beholder --"
+  },
+  {
+    "end_time": 397054,
+    "index": 140,
+    "start_time": 393600,
+    "text": "with people who are being paid\n400,000 dollars a year,"
+  },
+  {
+    "end_time": 398315,
+    "index": 141,
+    "start_time": 397078,
+    "text": "dermatologists,"
+  },
+  {
+    "end_time": 400322,
+    "index": 142,
+    "start_time": 398339,
+    "text": "highly trained specialists."
+  },
+  {
+    "end_time": 403907,
+    "index": 143,
+    "start_time": 400346,
+    "text": "It takes more than a decade of training\nto be a good dermatologist."
+  },
+  {
+    "end_time": 407127,
+    "index": 144,
+    "start_time": 403931,
+    "text": "What you see here is\nthe machine learning version of it."
+  },
+  {
+    "end_time": 408992,
+    "index": 145,
+    "start_time": 407151,
+    "text": "It&#39;s called a neural network."
+  },
+  {
+    "end_time": 412758,
+    "index": 146,
+    "start_time": 409016,
+    "text": "&quot;Neural networks&quot; is the technical term\nfor these machine learning algorithms."
+  },
+  {
+    "end_time": 414570,
+    "index": 147,
+    "start_time": 412782,
+    "text": "They&#39;ve been around since the 1980s."
+  },
+  {
+    "end_time": 419235,
+    "index": 148,
+    "start_time": 414595,
+    "text": "This one was invented in 1988\nby a Facebook Fellow called Yann LeCun,"
+  },
+  {
+    "end_time": 422817,
+    "index": 149,
+    "start_time": 419259,
+    "text": "and it propagates data stages"
+  },
+  {
+    "end_time": 425419,
+    "index": 150,
+    "start_time": 422841,
+    "text": "through what you could think of\nas the human brain."
+  },
+  {
+    "end_time": 428409,
+    "index": 151,
+    "start_time": 425443,
+    "text": "It&#39;s not quite the same thing,\nbut it emulates the same thing."
+  },
+  {
+    "end_time": 429735,
+    "index": 152,
+    "start_time": 428433,
+    "text": "It goes stage after stage."
+  },
+  {
+    "end_time": 433396,
+    "index": 153,
+    "start_time": 429759,
+    "text": "In the very first stage, it takes\nthe visual input and extracts edges"
+  },
+  {
+    "end_time": 436032,
+    "index": 154,
+    "start_time": 433420,
+    "text": "and rods and dots."
+  },
+  {
+    "end_time": 439092,
+    "index": 155,
+    "start_time": 436056,
+    "text": "And the next one becomes\nmore complicated edges"
+  },
+  {
+    "end_time": 442308,
+    "index": 156,
+    "start_time": 439117,
+    "text": "and shapes like little half-moons."
+  },
+  {
+    "end_time": 446775,
+    "index": 157,
+    "start_time": 442332,
+    "text": "And eventually, it&#39;s able to build\nreally complicated concepts."
+  },
+  {
+    "end_time": 448847,
+    "index": 158,
+    "start_time": 446799,
+    "text": "Andrew Ng has been able to show"
+  },
+  {
+    "end_time": 452351,
+    "index": 159,
+    "start_time": 448871,
+    "text": "that it&#39;s able to find\ncat faces and dog faces"
+  },
+  {
+    "end_time": 454036,
+    "index": 160,
+    "start_time": 452375,
+    "text": "in vast amounts of images."
+  },
+  {
+    "end_time": 456784,
+    "index": 161,
+    "start_time": 454060,
+    "text": "What my student team\nat Stanford has shown is that"
+  },
+  {
+    "end_time": 462881,
+    "index": 162,
+    "start_time": 456808,
+    "text": "if you train it on 129,000 images\nof skin conditions,"
+  },
+  {
+    "end_time": 465469,
+    "index": 163,
+    "start_time": 462905,
+    "text": "including melanoma and carcinomas,"
+  },
+  {
+    "end_time": 468795,
+    "index": 164,
+    "start_time": 465494,
+    "text": "you can do as good a job"
+  },
+  {
+    "end_time": 471016,
+    "index": 165,
+    "start_time": 468819,
+    "text": "as the best human dermatologists."
+  },
+  {
+    "end_time": 473589,
+    "index": 166,
+    "start_time": 471040,
+    "text": "And to convince ourselves\nthat this is the case,"
+  },
+  {
+    "end_time": 477603,
+    "index": 167,
+    "start_time": 473613,
+    "text": "we captured an independent dataset\nthat we presented to our network"
+  },
+  {
+    "end_time": 481969,
+    "index": 168,
+    "start_time": 477627,
+    "text": "and to 25 board-certified\nStanford-level dermatologists,"
+  },
+  {
+    "end_time": 483665,
+    "index": 169,
+    "start_time": 481993,
+    "text": "and compared those."
+  },
+  {
+    "end_time": 485193,
+    "index": 170,
+    "start_time": 483689,
+    "text": "And in most cases,"
+  },
+  {
+    "end_time": 489092,
+    "index": 171,
+    "start_time": 485217,
+    "text": "they were either on par or above\nthe performance classification accuracy"
+  },
+  {
+    "end_time": 490582,
+    "index": 172,
+    "start_time": 489116,
+    "text": "of human dermatologists."
+  },
+  {
+    "end_time": 492353,
+    "index": 173,
+    "start_time": 490607,
+    "text": "CA: You were telling me an anecdote."
+  },
+  {
+    "end_time": 494334,
+    "index": 174,
+    "start_time": 492377,
+    "text": "I think about this image right here."
+  },
+  {
+    "end_time": 495842,
+    "index": 175,
+    "start_time": 494358,
+    "text": "What happened here?"
+  },
+  {
+    "end_time": 499873,
+    "index": 176,
+    "start_time": 495866,
+    "text": "ST: This was last Thursday.\nThat&#39;s a moving piece."
+  },
+  {
+    "end_time": 503498,
+    "index": 177,
+    "start_time": 499898,
+    "text": "What we&#39;ve shown before and we published\nin &quot;Nature&quot; earlier this year"
+  },
+  {
+    "end_time": 506006,
+    "index": 178,
+    "start_time": 503522,
+    "text": "was this idea that we show\ndermatologists images"
+  },
+  {
+    "end_time": 507568,
+    "index": 179,
+    "start_time": 506030,
+    "text": "and our computer program images,"
+  },
+  {
+    "end_time": 509220,
+    "index": 180,
+    "start_time": 507593,
+    "text": "and count how often they&#39;re right."
+  },
+  {
+    "end_time": 511022,
+    "index": 181,
+    "start_time": 509244,
+    "text": "But all these images are past images."
+  },
+  {
+    "end_time": 514506,
+    "index": 182,
+    "start_time": 511046,
+    "text": "They&#39;ve all been biopsied to make sure\nwe had the correct classification."
+  },
+  {
+    "end_time": 515702,
+    "index": 183,
+    "start_time": 514530,
+    "text": "This one wasn&#39;t."
+  },
+  {
+    "end_time": 518905,
+    "index": 184,
+    "start_time": 515726,
+    "text": "This one was actually done at Stanford\nby one of our collaborators."
+  },
+  {
+    "end_time": 521242,
+    "index": 185,
+    "start_time": 518929,
+    "text": "The story goes that our collaborator,"
+  },
+  {
+    "end_time": 524658,
+    "index": 186,
+    "start_time": 521267,
+    "text": "who is a world-famous dermatologist,\none of the three best, apparently,"
+  },
+  {
+    "end_time": 527617,
+    "index": 187,
+    "start_time": 524682,
+    "text": "looked at this mole and said,\n&quot;This is not skin cancer.&quot;"
+  },
+  {
+    "end_time": 530117,
+    "index": 188,
+    "start_time": 527641,
+    "text": "And then he had\na second moment, where he said,"
+  },
+  {
+    "end_time": 532007,
+    "index": 189,
+    "start_time": 530141,
+    "text": "&quot;Well, let me just check with the app.&quot;"
+  },
+  {
+    "end_time": 534729,
+    "index": 190,
+    "start_time": 532031,
+    "text": "So he took out his iPhone\nand ran our piece of software,"
+  },
+  {
+    "end_time": 536875,
+    "index": 191,
+    "start_time": 534754,
+    "text": "our &quot;pocket dermatologist,&quot; so to speak,"
+  },
+  {
+    "end_time": 539893,
+    "index": 192,
+    "start_time": 536899,
+    "text": "and the iPhone said: cancer."
+  },
+  {
+    "end_time": 541223,
+    "index": 193,
+    "start_time": 539917,
+    "text": "It said melanoma."
+  },
+  {
+    "end_time": 543082,
+    "index": 194,
+    "start_time": 541849,
+    "text": "And then he was confused."
+  },
+  {
+    "end_time": 547657,
+    "index": 195,
+    "start_time": 543106,
+    "text": "And he decided, &quot;OK, maybe I trust\nthe iPhone a little bit more than myself,&quot;"
+  },
+  {
+    "end_time": 550416,
+    "index": 196,
+    "start_time": 547681,
+    "text": "and he sent it out to the lab\nto get it biopsied."
+  },
+  {
+    "end_time": 552909,
+    "index": 197,
+    "start_time": 550440,
+    "text": "And it came up as an aggressive melanoma."
+  },
+  {
+    "end_time": 556612,
+    "index": 198,
+    "start_time": 553545,
+    "text": "So I think this might be the first time\nthat we actually found,"
+  },
+  {
+    "end_time": 559122,
+    "index": 199,
+    "start_time": 556636,
+    "text": "in the practice of using deep learning,"
+  },
+  {
+    "end_time": 562519,
+    "index": 200,
+    "start_time": 559147,
+    "text": "an actual person whose melanoma\nwould have gone unclassified,"
+  },
+  {
+    "end_time": 564658,
+    "index": 201,
+    "start_time": 562543,
+    "text": "had it not been for deep learning."
+  },
+  {
+    "end_time": 566242,
+    "index": 202,
+    "start_time": 564682,
+    "text": "CA: I mean, that&#39;s incredible."
+  },
+  {
+    "end_time": 568035,
+    "index": 203,
+    "start_time": 566266,
+    "text": "(Applause)"
+  },
+  {
+    "end_time": 571659,
+    "index": 204,
+    "start_time": 568059,
+    "text": "It feels like there&#39;d be an instant demand\nfor an app like this right now,"
+  },
+  {
+    "end_time": 573649,
+    "index": 205,
+    "start_time": 571683,
+    "text": "that you might freak out a lot of people."
+  },
+  {
+    "end_time": 577200,
+    "index": 206,
+    "start_time": 573673,
+    "text": "Are you thinking of doing this,\nmaking an app that allows self-checking?"
+  },
+  {
+    "end_time": 582197,
+    "index": 207,
+    "start_time": 577224,
+    "text": "ST: So my in-box is flooded\nabout cancer apps,"
+  },
+  {
+    "end_time": 584524,
+    "index": 208,
+    "start_time": 582221,
+    "text": "with heartbreaking stories of people."
+  },
+  {
+    "end_time": 587752,
+    "index": 209,
+    "start_time": 584548,
+    "text": "I mean, some people have had\n10, 15, 20 melanomas removed,"
+  },
+  {
+    "end_time": 591728,
+    "index": 210,
+    "start_time": 587776,
+    "text": "and are scared that one\nmight be overlooked, like this one,"
+  },
+  {
+    "end_time": 593492,
+    "index": 211,
+    "start_time": 591752,
+    "text": "and also, about, I don&#39;t know,"
+  },
+  {
+    "end_time": 596249,
+    "index": 212,
+    "start_time": 593517,
+    "text": "flying cars and speaker inquiries \nthese days, I guess."
+  },
+  {
+    "end_time": 599011,
+    "index": 213,
+    "start_time": 596273,
+    "text": "My take is, we need more testing."
+  },
+  {
+    "end_time": 601227,
+    "index": 214,
+    "start_time": 599449,
+    "text": "I want to be very careful."
+  },
+  {
+    "end_time": 604917,
+    "index": 215,
+    "start_time": 601251,
+    "text": "It&#39;s very easy to give a flashy result\nand impress a TED audience."
+  },
+  {
+    "end_time": 607568,
+    "index": 216,
+    "start_time": 604941,
+    "text": "It&#39;s much harder to put\nsomething out that&#39;s ethical."
+  },
+  {
+    "end_time": 609986,
+    "index": 217,
+    "start_time": 607592,
+    "text": "And if people were to use the app"
+  },
+  {
+    "end_time": 612807,
+    "index": 218,
+    "start_time": 610010,
+    "text": "and choose not to consult\nthe assistance of a doctor"
+  },
+  {
+    "end_time": 614414,
+    "index": 219,
+    "start_time": 612831,
+    "text": "because we get it wrong,"
+  },
+  {
+    "end_time": 616091,
+    "index": 220,
+    "start_time": 614438,
+    "text": "I would feel really bad about it."
+  },
+  {
+    "end_time": 618040,
+    "index": 221,
+    "start_time": 616115,
+    "text": "So we&#39;re currently doing clinical tests,"
+  },
+  {
+    "end_time": 620862,
+    "index": 222,
+    "start_time": 618064,
+    "text": "and if these clinical tests commence\nand our data holds up,"
+  },
+  {
+    "end_time": 623876,
+    "index": 223,
+    "start_time": 620886,
+    "text": "we might be able at some point\nto take this kind of technology"
+  },
+  {
+    "end_time": 625792,
+    "index": 224,
+    "start_time": 623900,
+    "text": "and take it out of the Stanford clinic"
+  },
+  {
+    "end_time": 627474,
+    "index": 225,
+    "start_time": 625816,
+    "text": "and bring it to the entire world,"
+  },
+  {
+    "end_time": 629954,
+    "index": 226,
+    "start_time": 627498,
+    "text": "places where Stanford\ndoctors never, ever set foot."
+  },
+  {
+    "end_time": 633197,
+    "index": 227,
+    "start_time": 630617,
+    "text": "CA: And do I hear this right,"
+  },
+  {
+    "end_time": 635187,
+    "index": 228,
+    "start_time": 633221,
+    "text": "that it seemed like what you were saying,"
+  },
+  {
+    "end_time": 639465,
+    "index": 229,
+    "start_time": 635211,
+    "text": "because you are working\nwith this army of Udacity students,"
+  },
+  {
+    "end_time": 642710,
+    "index": 230,
+    "start_time": 639489,
+    "text": "that in a way, you&#39;re applying\na different form of machine learning"
+  },
+  {
+    "end_time": 644469,
+    "index": 231,
+    "start_time": 642734,
+    "text": "than might take place in a company,"
+  },
+  {
+    "end_time": 647977,
+    "index": 232,
+    "start_time": 644493,
+    "text": "which is you&#39;re combining machine learning\nwith a form of crowd wisdom."
+  },
+  {
+    "end_time": 651385,
+    "index": 233,
+    "start_time": 648001,
+    "text": "Are you saying that sometimes you think\nthat could actually outperform"
+  },
+  {
+    "end_time": 653459,
+    "index": 234,
+    "start_time": 651409,
+    "text": "what a company can do,\neven a vast company?"
+  },
+  {
+    "end_time": 656423,
+    "index": 235,
+    "start_time": 653483,
+    "text": "ST: I believe there&#39;s now\ninstances that blow my mind,"
+  },
+  {
+    "end_time": 658205,
+    "index": 236,
+    "start_time": 656447,
+    "text": "and I&#39;m still trying to understand."
+  },
+  {
+    "end_time": 662166,
+    "index": 237,
+    "start_time": 658229,
+    "text": "What Chris is referring to\nis these competitions that we run."
+  },
+  {
+    "end_time": 664458,
+    "index": 238,
+    "start_time": 662190,
+    "text": "We turn them around in 48 hours,"
+  },
+  {
+    "end_time": 666733,
+    "index": 239,
+    "start_time": 664482,
+    "text": "and we&#39;ve been able to build\na self-driving car"
+  },
+  {
+    "end_time": 670145,
+    "index": 240,
+    "start_time": 666758,
+    "text": "that can drive from Mountain View\nto San Francisco on surface streets."
+  },
+  {
+    "end_time": 673752,
+    "index": 241,
+    "start_time": 670169,
+    "text": "It&#39;s not quite on par with Google\nafter seven years of Google work,"
+  },
+  {
+    "end_time": 676305,
+    "index": 242,
+    "start_time": 673777,
+    "text": "but it&#39;s getting there."
+  },
+  {
+    "end_time": 679412,
+    "index": 243,
+    "start_time": 676329,
+    "text": "And it took us only two engineers\nand three months to do this."
+  },
+  {
+    "end_time": 682293,
+    "index": 244,
+    "start_time": 679437,
+    "text": "And the reason is, we have\nan army of students"
+  },
+  {
+    "end_time": 684167,
+    "index": 245,
+    "start_time": 682317,
+    "text": "who participate in competitions."
+  },
+  {
+    "end_time": 686411,
+    "index": 246,
+    "start_time": 684191,
+    "text": "We&#39;re not the only ones\nwho use crowdsourcing."
+  },
+  {
+    "end_time": 688657,
+    "index": 247,
+    "start_time": 686435,
+    "text": "Uber and Didi use crowdsource for driving."
+  },
+  {
+    "end_time": 691441,
+    "index": 248,
+    "start_time": 688682,
+    "text": "Airbnb uses crowdsourcing for hotels."
+  },
+  {
+    "end_time": 695472,
+    "index": 249,
+    "start_time": 691465,
+    "text": "There&#39;s now many examples\nwhere people do bug-finding crowdsourcing"
+  },
+  {
+    "end_time": 698300,
+    "index": 250,
+    "start_time": 695496,
+    "text": "or protein folding, of all things,\nin crowdsourcing."
+  },
+  {
+    "end_time": 701238,
+    "index": 251,
+    "start_time": 698324,
+    "text": "But we&#39;ve been able to build\nthis car in three months,"
+  },
+  {
+    "end_time": 704918,
+    "index": 252,
+    "start_time": 701263,
+    "text": "so I am actually rethinking"
+  },
+  {
+    "end_time": 707180,
+    "index": 253,
+    "start_time": 704942,
+    "text": "how we organize corporations."
+  },
+  {
+    "end_time": 711900,
+    "index": 254,
+    "start_time": 707204,
+    "text": "We have a staff of 9,000 people\nwho are never hired,"
+  },
+  {
+    "end_time": 713232,
+    "index": 255,
+    "start_time": 711924,
+    "text": "that I never fire."
+  },
+  {
+    "end_time": 715617,
+    "index": 256,
+    "start_time": 713256,
+    "text": "They show up to work\nand I don&#39;t even know."
+  },
+  {
+    "end_time": 718700,
+    "index": 257,
+    "start_time": 715642,
+    "text": "Then they submit to me\nmaybe 9,000 answers."
+  },
+  {
+    "end_time": 720900,
+    "index": 258,
+    "start_time": 718724,
+    "text": "I&#39;m not obliged to use any of those."
+  },
+  {
+    "end_time": 722915,
+    "index": 259,
+    "start_time": 720924,
+    "text": "I end up -- I pay only the winners,"
+  },
+  {
+    "end_time": 726656,
+    "index": 260,
+    "start_time": 722939,
+    "text": "so I&#39;m actually very cheapskate here,\nwhich is maybe not the best thing to do."
+  },
+  {
+    "end_time": 729866,
+    "index": 261,
+    "start_time": 726681,
+    "text": "But they consider it part\nof their education, too, which is nice."
+  },
+  {
+    "end_time": 734091,
+    "index": 262,
+    "start_time": 729890,
+    "text": "But these students have been able\nto produce amazing deep learning results."
+  },
+  {
+    "end_time": 737976,
+    "index": 263,
+    "start_time": 734115,
+    "text": "So yeah, the synthesis of great people\nand great machine learning is amazing."
+  },
+  {
+    "end_time": 740814,
+    "index": 264,
+    "start_time": 738000,
+    "text": "CA: I mean, Gary Kasparov said on\nthe first day [of TED2017]"
+  },
+  {
+    "end_time": 746260,
+    "index": 265,
+    "start_time": 740848,
+    "text": "that the winners of chess, surprisingly,\nturned out to be two amateur chess players"
+  },
+  {
+    "end_time": 751655,
+    "index": 266,
+    "start_time": 746284,
+    "text": "with three mediocre-ish,\nmediocre-to-good, computer programs,"
+  },
+  {
+    "end_time": 754842,
+    "index": 267,
+    "start_time": 751679,
+    "text": "that could outperform one grand master\nwith one great chess player,"
+  },
+  {
+    "end_time": 756609,
+    "index": 268,
+    "start_time": 754866,
+    "text": "like it was all part of the process."
+  },
+  {
+    "end_time": 759968,
+    "index": 269,
+    "start_time": 756633,
+    "text": "And it almost seems like\nyou&#39;re talking about a much richer version"
+  },
+  {
+    "end_time": 761192,
+    "index": 270,
+    "start_time": 759992,
+    "text": "of that same idea."
+  },
+  {
+    "end_time": 765073,
+    "index": 271,
+    "start_time": 761216,
+    "text": "ST: Yeah, I mean, as you followed\nthe fantastic panels yesterday morning,"
+  },
+  {
+    "end_time": 767091,
+    "index": 272,
+    "start_time": 765097,
+    "text": "two sessions about AI,"
+  },
+  {
+    "end_time": 769282,
+    "index": 273,
+    "start_time": 767115,
+    "text": "robotic overlords and the human response,"
+  },
+  {
+    "end_time": 771288,
+    "index": 274,
+    "start_time": 769306,
+    "text": "many, many great things were said."
+  },
+  {
+    "end_time": 773999,
+    "index": 275,
+    "start_time": 771312,
+    "text": "But one of the concerns is\nthat we sometimes confuse"
+  },
+  {
+    "end_time": 778085,
+    "index": 276,
+    "start_time": 774023,
+    "text": "what&#39;s actually been done with AI\nwith this kind of overlord threat,"
+  },
+  {
+    "end_time": 781533,
+    "index": 277,
+    "start_time": 778109,
+    "text": "where your AI develops\nconsciousness, right?"
+  },
+  {
+    "end_time": 784528,
+    "index": 278,
+    "start_time": 781557,
+    "text": "The last thing I want\nis for my AI to have consciousness."
+  },
+  {
+    "end_time": 786268,
+    "index": 279,
+    "start_time": 784552,
+    "text": "I don&#39;t want to come into my kitchen"
+  },
+  {
+    "end_time": 790485,
+    "index": 280,
+    "start_time": 786292,
+    "text": "and have the refrigerator fall in love\nwith the dishwasher"
+  },
+  {
+    "end_time": 792633,
+    "index": 281,
+    "start_time": 790509,
+    "text": "and tell me, because I wasn&#39;t nice enough,"
+  },
+  {
+    "end_time": 794494,
+    "index": 282,
+    "start_time": 792657,
+    "text": "my food is now warm."
+  },
+  {
+    "end_time": 797409,
+    "index": 283,
+    "start_time": 794518,
+    "text": "I wouldn&#39;t buy these products,\nand I don&#39;t want them."
+  },
+  {
+    "end_time": 799627,
+    "index": 284,
+    "start_time": 797825,
+    "text": "But the truth is, for me,"
+  },
+  {
+    "end_time": 802371,
+    "index": 285,
+    "start_time": 799651,
+    "text": "AI has always been\nan augmentation of people."
+  },
+  {
+    "end_time": 804569,
+    "index": 286,
+    "start_time": 802893,
+    "text": "It&#39;s been an augmentation of us,"
+  },
+  {
+    "end_time": 806050,
+    "index": 287,
+    "start_time": 804593,
+    "text": "to make us stronger."
+  },
+  {
+    "end_time": 808905,
+    "index": 288,
+    "start_time": 806074,
+    "text": "And I think Kasparov was exactly correct."
+  },
+  {
+    "end_time": 812778,
+    "index": 289,
+    "start_time": 808929,
+    "text": "It&#39;s been the combination\nof human smarts and machine smarts"
+  },
+  {
+    "end_time": 814266,
+    "index": 290,
+    "start_time": 812802,
+    "text": "that make us stronger."
+  },
+  {
+    "end_time": 818877,
+    "index": 291,
+    "start_time": 814290,
+    "text": "The theme of machines making us stronger\nis as old as machines are."
+  },
+  {
+    "end_time": 823325,
+    "index": 292,
+    "start_time": 819567,
+    "text": "The agricultural revolution took\nplace because it made steam engines"
+  },
+  {
+    "end_time": 826015,
+    "index": 293,
+    "start_time": 823349,
+    "text": "and farming equipment\nthat couldn&#39;t farm by itself,"
+  },
+  {
+    "end_time": 828161,
+    "index": 294,
+    "start_time": 826039,
+    "text": "that never replaced us;\nit made us stronger."
+  },
+  {
+    "end_time": 831923,
+    "index": 295,
+    "start_time": 828185,
+    "text": "And I believe this new wave of AI\nwill make us much, much stronger"
+  },
+  {
+    "end_time": 833130,
+    "index": 296,
+    "start_time": 831947,
+    "text": "as a human race."
+  },
+  {
+    "end_time": 835578,
+    "index": 297,
+    "start_time": 833765,
+    "text": "CA: We&#39;ll come on to that a bit more,"
+  },
+  {
+    "end_time": 839273,
+    "index": 298,
+    "start_time": 835602,
+    "text": "but just to continue with the scary part\nof this for some people,"
+  },
+  {
+    "end_time": 842855,
+    "index": 299,
+    "start_time": 839297,
+    "text": "like, what feels like it gets\nscary for people is when you have"
+  },
+  {
+    "end_time": 847497,
+    "index": 300,
+    "start_time": 842879,
+    "text": "a computer that can, one,\nrewrite its own code,"
+  },
+  {
+    "end_time": 851104,
+    "index": 301,
+    "start_time": 847521,
+    "text": "so, it can create\nmultiple copies of itself,"
+  },
+  {
+    "end_time": 853026,
+    "index": 302,
+    "start_time": 851129,
+    "text": "try a bunch of different code versions,"
+  },
+  {
+    "end_time": 854824,
+    "index": 303,
+    "start_time": 853050,
+    "text": "possibly even at random,"
+  },
+  {
+    "end_time": 858481,
+    "index": 304,
+    "start_time": 854849,
+    "text": "and then check them out and see\nif a goal is achieved and improved."
+  },
+  {
+    "end_time": 862146,
+    "index": 305,
+    "start_time": 858505,
+    "text": "So, say the goal is to do better\non an intelligence test."
+  },
+  {
+    "end_time": 866064,
+    "index": 306,
+    "start_time": 862170,
+    "text": "You know, a computer\nthat&#39;s moderately good at that,"
+  },
+  {
+    "end_time": 868597,
+    "index": 307,
+    "start_time": 866088,
+    "text": "you could try a million versions of that."
+  },
+  {
+    "end_time": 870711,
+    "index": 308,
+    "start_time": 868621,
+    "text": "You might find one that was better,"
+  },
+  {
+    "end_time": 872739,
+    "index": 309,
+    "start_time": 870735,
+    "text": "and then, you know, repeat."
+  },
+  {
+    "end_time": 875803,
+    "index": 310,
+    "start_time": 872763,
+    "text": "And so the concern is that you get\nsome sort of runaway effect"
+  },
+  {
+    "end_time": 878835,
+    "index": 311,
+    "start_time": 875827,
+    "text": "where everything is fine\non Thursday evening,"
+  },
+  {
+    "end_time": 881195,
+    "index": 312,
+    "start_time": 878859,
+    "text": "and you come back into the lab\non Friday morning,"
+  },
+  {
+    "end_time": 883668,
+    "index": 313,
+    "start_time": 881219,
+    "text": "and because of the speed\nof computers and so forth,"
+  },
+  {
+    "end_time": 885595,
+    "index": 314,
+    "start_time": 883692,
+    "text": "things have gone crazy, and suddenly --"
+  },
+  {
+    "end_time": 887639,
+    "index": 315,
+    "start_time": 885619,
+    "text": "ST: I would say this is a possibility,"
+  },
+  {
+    "end_time": 889579,
+    "index": 316,
+    "start_time": 887663,
+    "text": "but it&#39;s a very remote possibility."
+  },
+  {
+    "end_time": 892939,
+    "index": 317,
+    "start_time": 889603,
+    "text": "So let me just translate\nwhat I heard you say."
+  },
+  {
+    "end_time": 895668,
+    "index": 318,
+    "start_time": 892964,
+    "text": "In the AlphaGo case,\nwe had exactly this thing:"
+  },
+  {
+    "end_time": 898007,
+    "index": 319,
+    "start_time": 895692,
+    "text": "the computer would play\nthe game against itself"
+  },
+  {
+    "end_time": 899281,
+    "index": 320,
+    "start_time": 898031,
+    "text": "and then learn new rules."
+  },
+  {
+    "end_time": 902540,
+    "index": 321,
+    "start_time": 899305,
+    "text": "And what machine learning is\nis a rewriting of the rules."
+  },
+  {
+    "end_time": 904333,
+    "index": 322,
+    "start_time": 902564,
+    "text": "It&#39;s the rewriting of code."
+  },
+  {
+    "end_time": 907202,
+    "index": 323,
+    "start_time": 904357,
+    "text": "But I think there was\nabsolutely no concern"
+  },
+  {
+    "end_time": 909652,
+    "index": 324,
+    "start_time": 907226,
+    "text": "that AlphaGo would take over the world."
+  },
+  {
+    "end_time": 911140,
+    "index": 325,
+    "start_time": 909676,
+    "text": "It can&#39;t even play chess."
+  },
+  {
+    "end_time": 916311,
+    "index": 326,
+    "start_time": 911164,
+    "text": "CA: No, no, no, but now,\nthese are all very single-domain things."
+  },
+  {
+    "end_time": 919214,
+    "index": 327,
+    "start_time": 916335,
+    "text": "But it&#39;s possible to imagine."
+  },
+  {
+    "end_time": 922327,
+    "index": 328,
+    "start_time": 919238,
+    "text": "I mean, we just saw a computer\nthat seemed nearly capable"
+  },
+  {
+    "end_time": 925006,
+    "index": 329,
+    "start_time": 922351,
+    "text": "of passing a university entrance test,"
+  },
+  {
+    "end_time": 928718,
+    "index": 330,
+    "start_time": 925030,
+    "text": "that can kind of -- it can&#39;t read\nand understand in the sense that we can,"
+  },
+  {
+    "end_time": 930728,
+    "index": 331,
+    "start_time": 928742,
+    "text": "but it can certainly absorb all the text"
+  },
+  {
+    "end_time": 933652,
+    "index": 332,
+    "start_time": 930753,
+    "text": "and maybe see increased\npatterns of meaning."
+  },
+  {
+    "end_time": 937370,
+    "index": 333,
+    "start_time": 933676,
+    "text": "Isn&#39;t there a chance that,\nas this broadens out,"
+  },
+  {
+    "end_time": 939860,
+    "index": 334,
+    "start_time": 937394,
+    "text": "there could be a different\nkind of runaway effect?"
+  },
+  {
+    "end_time": 941962,
+    "index": 335,
+    "start_time": 939884,
+    "text": "ST: That&#39;s where\nI draw the line, honestly."
+  },
+  {
+    "end_time": 944629,
+    "index": 336,
+    "start_time": 941986,
+    "text": "And the chance exists --\nI don&#39;t want to downplay it --"
+  },
+  {
+    "end_time": 948325,
+    "index": 337,
+    "start_time": 944653,
+    "text": "but I think it&#39;s remote, and it&#39;s not\nthe thing that&#39;s on my mind these days,"
+  },
+  {
+    "end_time": 950861,
+    "index": 338,
+    "start_time": 948349,
+    "text": "because I think the big revolution\nis something else."
+  },
+  {
+    "end_time": 953807,
+    "index": 339,
+    "start_time": 950885,
+    "text": "Everything successful in AI\nto the present date"
+  },
+  {
+    "end_time": 956045,
+    "index": 340,
+    "start_time": 953831,
+    "text": "has been extremely specialized,"
+  },
+  {
+    "end_time": 958558,
+    "index": 341,
+    "start_time": 956069,
+    "text": "and it&#39;s been thriving on a single idea,"
+  },
+  {
+    "end_time": 961321,
+    "index": 342,
+    "start_time": 958582,
+    "text": "which is massive amounts of data."
+  },
+  {
+    "end_time": 965492,
+    "index": 343,
+    "start_time": 961345,
+    "text": "The reason AlphaGo works so well\nis because of massive numbers of Go plays,"
+  },
+  {
+    "end_time": 968771,
+    "index": 344,
+    "start_time": 965516,
+    "text": "and AlphaGo can&#39;t drive a car\nor fly a plane."
+  },
+  {
+    "end_time": 971825,
+    "index": 345,
+    "start_time": 968795,
+    "text": "The Google self-driving car\nor the Udacity self-driving car"
+  },
+  {
+    "end_time": 975090,
+    "index": 346,
+    "start_time": 971850,
+    "text": "thrives on massive amounts of data,\nand it can&#39;t do anything else."
+  },
+  {
+    "end_time": 976841,
+    "index": 347,
+    "start_time": 975114,
+    "text": "It can&#39;t even control a motorcycle."
+  },
+  {
+    "end_time": 979627,
+    "index": 348,
+    "start_time": 976865,
+    "text": "It&#39;s a very specific,\ndomain-specific function,"
+  },
+  {
+    "end_time": 981558,
+    "index": 349,
+    "start_time": 979651,
+    "text": "and the same is true for our cancer app."
+  },
+  {
+    "end_time": 984818,
+    "index": 350,
+    "start_time": 981582,
+    "text": "There has been almost no progress\non this thing called &quot;general AI,&quot;"
+  },
+  {
+    "end_time": 988842,
+    "index": 351,
+    "start_time": 984842,
+    "text": "where you go to an AI and say,\n&quot;Hey, invent for me special relativity"
+  },
+  {
+    "end_time": 990532,
+    "index": 352,
+    "start_time": 988866,
+    "text": "or string theory.&quot;"
+  },
+  {
+    "end_time": 992487,
+    "index": 353,
+    "start_time": 990556,
+    "text": "It&#39;s totally in the infancy."
+  },
+  {
+    "end_time": 994637,
+    "index": 354,
+    "start_time": 992511,
+    "text": "The reason I want to emphasize this,"
+  },
+  {
+    "end_time": 998500,
+    "index": 355,
+    "start_time": 994662,
+    "text": "I see the concerns,\nand I want to acknowledge them."
+  },
+  {
+    "end_time": 1001410,
+    "index": 356,
+    "start_time": 998524,
+    "text": "But if I were to think about one thing,"
+  },
+  {
+    "end_time": 1006997,
+    "index": 357,
+    "start_time": 1001434,
+    "text": "I would ask myself the question,\n&quot;What if we can take anything repetitive"
+  },
+  {
+    "end_time": 1010493,
+    "index": 358,
+    "start_time": 1007021,
+    "text": "and make ourselves\n100 times as efficient?&quot;"
+  },
+  {
+    "end_time": 1015419,
+    "index": 359,
+    "start_time": 1011170,
+    "text": "It so turns out, 300 years ago,\nwe all worked in agriculture"
+  },
+  {
+    "end_time": 1017494,
+    "index": 360,
+    "start_time": 1015443,
+    "text": "and did farming and did repetitive things."
+  },
+  {
+    "end_time": 1020074,
+    "index": 361,
+    "start_time": 1017518,
+    "text": "Today, 75 percent of us work in offices"
+  },
+  {
+    "end_time": 1022222,
+    "index": 362,
+    "start_time": 1020098,
+    "text": "and do repetitive things."
+  },
+  {
+    "end_time": 1024429,
+    "index": 363,
+    "start_time": 1022246,
+    "text": "We&#39;ve become spreadsheet monkeys."
+  },
+  {
+    "end_time": 1026507,
+    "index": 364,
+    "start_time": 1024453,
+    "text": "And not just low-end labor."
+  },
+  {
+    "end_time": 1029284,
+    "index": 365,
+    "start_time": 1026531,
+    "text": "We&#39;ve become dermatologists\ndoing repetitive things,"
+  },
+  {
+    "end_time": 1031058,
+    "index": 366,
+    "start_time": 1029309,
+    "text": "lawyers doing repetitive things."
+  },
+  {
+    "end_time": 1034905,
+    "index": 367,
+    "start_time": 1031082,
+    "text": "I think we are at the brink\nof being able to take an AI,"
+  },
+  {
+    "end_time": 1036647,
+    "index": 368,
+    "start_time": 1034929,
+    "text": "look over our shoulders,"
+  },
+  {
+    "end_time": 1040729,
+    "index": 369,
+    "start_time": 1036671,
+    "text": "and they make us maybe 10 or 50 times\nas effective in these repetitive things."
+  },
+  {
+    "end_time": 1042028,
+    "index": 370,
+    "start_time": 1040752,
+    "text": "That&#39;s what is on my mind."
+  },
+  {
+    "end_time": 1044502,
+    "index": 371,
+    "start_time": 1042051,
+    "text": "CA: That sounds super exciting."
+  },
+  {
+    "end_time": 1048056,
+    "index": 372,
+    "start_time": 1044526,
+    "text": "The process of getting there seems\na little terrifying to some people,"
+  },
+  {
+    "end_time": 1051260,
+    "index": 373,
+    "start_time": 1048079,
+    "text": "because once a computer\ncan do this repetitive thing"
+  },
+  {
+    "end_time": 1054718,
+    "index": 374,
+    "start_time": 1051284,
+    "text": "much better than the dermatologist"
+  },
+  {
+    "end_time": 1057972,
+    "index": 375,
+    "start_time": 1054742,
+    "text": "or than the driver, especially,\nis the thing that&#39;s talked about"
+  },
+  {
+    "end_time": 1059286,
+    "index": 376,
+    "start_time": 1057996,
+    "text": "so much now,"
+  },
+  {
+    "end_time": 1061268,
+    "index": 377,
+    "start_time": 1059310,
+    "text": "suddenly millions of jobs go,"
+  },
+  {
+    "end_time": 1063986,
+    "index": 378,
+    "start_time": 1061292,
+    "text": "and, you know, the country&#39;s in revolution"
+  },
+  {
+    "end_time": 1068340,
+    "index": 379,
+    "start_time": 1064011,
+    "text": "before we ever get to the more\nglorious aspects of what&#39;s possible."
+  },
+  {
+    "end_time": 1070881,
+    "index": 380,
+    "start_time": 1068364,
+    "text": "ST: Yeah, and that&#39;s an issue,\nand it&#39;s a big issue,"
+  },
+  {
+    "end_time": 1075101,
+    "index": 381,
+    "start_time": 1070905,
+    "text": "and it was pointed out yesterday morning\nby several guest speakers."
+  },
+  {
+    "end_time": 1077879,
+    "index": 382,
+    "start_time": 1075125,
+    "text": "Now, prior to me showing up onstage,"
+  },
+  {
+    "end_time": 1081642,
+    "index": 383,
+    "start_time": 1077903,
+    "text": "I confessed I&#39;m a positive,\noptimistic person,"
+  },
+  {
+    "end_time": 1084054,
+    "index": 384,
+    "start_time": 1081666,
+    "text": "so let me give you an optimistic pitch,"
+  },
+  {
+    "end_time": 1088874,
+    "index": 385,
+    "start_time": 1084079,
+    "text": "which is, think of yourself\nback 300 years ago."
+  },
+  {
+    "end_time": 1092894,
+    "index": 386,
+    "start_time": 1088898,
+    "text": "Europe just survived 140 years\nof continuous war,"
+  },
+  {
+    "end_time": 1094629,
+    "index": 387,
+    "start_time": 1092918,
+    "text": "none of you could read or write,"
+  },
+  {
+    "end_time": 1097598,
+    "index": 388,
+    "start_time": 1094653,
+    "text": "there were no jobs that you hold today,"
+  },
+  {
+    "end_time": 1101718,
+    "index": 389,
+    "start_time": 1097622,
+    "text": "like investment banker\nor software engineer or TV anchor."
+  },
+  {
+    "end_time": 1104156,
+    "index": 390,
+    "start_time": 1101742,
+    "text": "We would all be in the fields and farming."
+  },
+  {
+    "end_time": 1107753,
+    "index": 391,
+    "start_time": 1104180,
+    "text": "Now here comes little Sebastian\nwith a little steam engine in his pocket,"
+  },
+  {
+    "end_time": 1109325,
+    "index": 392,
+    "start_time": 1107777,
+    "text": "saying, &quot;Hey guys, look at this."
+  },
+  {
+    "end_time": 1112944,
+    "index": 393,
+    "start_time": 1109349,
+    "text": "It&#39;s going to make you 100 times\nas strong, so you can do something else.&quot;"
+  },
+  {
+    "end_time": 1115438,
+    "index": 394,
+    "start_time": 1112968,
+    "text": "And then back in the day,\nthere was no real stage,"
+  },
+  {
+    "end_time": 1117988,
+    "index": 395,
+    "start_time": 1115462,
+    "text": "but Chris and I hang out\nwith the cows in the stable,"
+  },
+  {
+    "end_time": 1120111,
+    "index": 396,
+    "start_time": 1118012,
+    "text": "and he says, &quot;I&#39;m really\nconcerned about it,"
+  },
+  {
+    "end_time": 1123788,
+    "index": 397,
+    "start_time": 1120136,
+    "text": "because I milk my cow every day,\nand what if the machine does this for me?&quot;"
+  },
+  {
+    "end_time": 1125514,
+    "index": 398,
+    "start_time": 1123812,
+    "text": "The reason why I mention this is,"
+  },
+  {
+    "end_time": 1129963,
+    "index": 399,
+    "start_time": 1126360,
+    "text": "we&#39;re always good in acknowledging\npast progress and the benefit of it,"
+  },
+  {
+    "end_time": 1133341,
+    "index": 400,
+    "start_time": 1129987,
+    "text": "like our iPhones or our planes\nor electricity or medical supply."
+  },
+  {
+    "end_time": 1137610,
+    "index": 401,
+    "start_time": 1133365,
+    "text": "We all love to live to 80,\nwhich was impossible 300 years ago."
+  },
+  {
+    "end_time": 1141790,
+    "index": 402,
+    "start_time": 1137634,
+    "text": "But we kind of don&#39;t apply\nthe same rules to the future."
+  },
+  {
+    "end_time": 1145828,
+    "index": 403,
+    "start_time": 1142621,
+    "text": "So if I look at my own job as a CEO,"
+  },
+  {
+    "end_time": 1148992,
+    "index": 404,
+    "start_time": 1145852,
+    "text": "I would say 90 percent\nof my work is repetitive,"
+  },
+  {
+    "end_time": 1150367,
+    "index": 405,
+    "start_time": 1149016,
+    "text": "I don&#39;t enjoy it,"
+  },
+  {
+    "end_time": 1154369,
+    "index": 406,
+    "start_time": 1150391,
+    "text": "I spend about four hours per day\non stupid, repetitive email."
+  },
+  {
+    "end_time": 1158034,
+    "index": 407,
+    "start_time": 1154393,
+    "text": "And I&#39;m burning to have something\nthat helps me get rid of this."
+  },
+  {
+    "end_time": 1159216,
+    "index": 408,
+    "start_time": 1158058,
+    "text": "Why?"
+  },
+  {
+    "end_time": 1162243,
+    "index": 409,
+    "start_time": 1159240,
+    "text": "Because I believe all of us\nare insanely creative;"
+  },
+  {
+    "end_time": 1165925,
+    "index": 410,
+    "start_time": 1162731,
+    "text": "I think the TED community\nmore than anybody else."
+  },
+  {
+    "end_time": 1169508,
+    "index": 411,
+    "start_time": 1165949,
+    "text": "But even blue-collar workers;\nI think you can go to your hotel maid"
+  },
+  {
+    "end_time": 1171934,
+    "index": 412,
+    "start_time": 1169532,
+    "text": "and have a drink with him or her,"
+  },
+  {
+    "end_time": 1174675,
+    "index": 413,
+    "start_time": 1171958,
+    "text": "and an hour later,\nyou find a creative idea."
+  },
+  {
+    "end_time": 1178839,
+    "index": 414,
+    "start_time": 1174699,
+    "text": "What this will empower\nis to turn this creativity into action."
+  },
+  {
+    "end_time": 1182707,
+    "index": 415,
+    "start_time": 1179265,
+    "text": "Like, what if you could\nbuild Google in a day?"
+  },
+  {
+    "end_time": 1186537,
+    "index": 416,
+    "start_time": 1183221,
+    "text": "What if you could sit over beer\nand invent the next Snapchat,"
+  },
+  {
+    "end_time": 1187726,
+    "index": 417,
+    "start_time": 1186561,
+    "text": "whatever it is,"
+  },
+  {
+    "end_time": 1189937,
+    "index": 418,
+    "start_time": 1187750,
+    "text": "and tomorrow morning it&#39;s up and running?"
+  },
+  {
+    "end_time": 1191734,
+    "index": 419,
+    "start_time": 1189961,
+    "text": "And that is not science fiction."
+  },
+  {
+    "end_time": 1193012,
+    "index": 420,
+    "start_time": 1191758,
+    "text": "What&#39;s going to happen is,"
+  },
+  {
+    "end_time": 1194903,
+    "index": 421,
+    "start_time": 1193036,
+    "text": "we are already in history."
+  },
+  {
+    "end_time": 1198155,
+    "index": 422,
+    "start_time": 1194927,
+    "text": "We&#39;ve unleashed this amazing creativity"
+  },
+  {
+    "end_time": 1199790,
+    "index": 423,
+    "start_time": 1198179,
+    "text": "by de-slaving us from farming"
+  },
+  {
+    "end_time": 1203177,
+    "index": 424,
+    "start_time": 1199814,
+    "text": "and later, of course, from factory work"
+  },
+  {
+    "end_time": 1206363,
+    "index": 425,
+    "start_time": 1203201,
+    "text": "and have invented so many things."
+  },
+  {
+    "end_time": 1208565,
+    "index": 426,
+    "start_time": 1206387,
+    "text": "It&#39;s going to be even better,\nin my opinion."
+  },
+  {
+    "end_time": 1210660,
+    "index": 427,
+    "start_time": 1208589,
+    "text": "And there&#39;s going to be\ngreat side effects."
+  },
+  {
+    "end_time": 1212174,
+    "index": 428,
+    "start_time": 1210685,
+    "text": "One of the side effects will be"
+  },
+  {
+    "end_time": 1216993,
+    "index": 429,
+    "start_time": 1212198,
+    "text": "that things like food and medical supply\nand education and shelter"
+  },
+  {
+    "end_time": 1218194,
+    "index": 430,
+    "start_time": 1217017,
+    "text": "and transportation"
+  },
+  {
+    "end_time": 1220659,
+    "index": 431,
+    "start_time": 1218218,
+    "text": "will all become much more\naffordable to all of us,"
+  },
+  {
+    "end_time": 1222004,
+    "index": 432,
+    "start_time": 1220683,
+    "text": "not just the rich people."
+  },
+  {
+    "end_time": 1223211,
+    "index": 433,
+    "start_time": 1222029,
+    "text": "CA: Hmm."
+  },
+  {
+    "end_time": 1227575,
+    "index": 434,
+    "start_time": 1223235,
+    "text": "So when Martin Ford argued, you know,\nthat this time it&#39;s different"
+  },
+  {
+    "end_time": 1231053,
+    "index": 435,
+    "start_time": 1227600,
+    "text": "because the intelligence\nthat we&#39;ve used in the past"
+  },
+  {
+    "end_time": 1233560,
+    "index": 436,
+    "start_time": 1231077,
+    "text": "to find new ways to be"
+  },
+  {
+    "end_time": 1235863,
+    "index": 437,
+    "start_time": 1233584,
+    "text": "will be matched at the same pace"
+  },
+  {
+    "end_time": 1238178,
+    "index": 438,
+    "start_time": 1235887,
+    "text": "by computers taking over those things,"
+  },
+  {
+    "end_time": 1241280,
+    "index": 439,
+    "start_time": 1238202,
+    "text": "what I hear you saying\nis that, not completely,"
+  },
+  {
+    "end_time": 1244255,
+    "index": 440,
+    "start_time": 1241304,
+    "text": "because of human creativity."
+  },
+  {
+    "end_time": 1248064,
+    "index": 441,
+    "start_time": 1244279,
+    "text": "Do you think that that&#39;s fundamentally\ndifferent from the kind of creativity"
+  },
+  {
+    "end_time": 1250783,
+    "index": 442,
+    "start_time": 1248088,
+    "text": "that computers can do?"
+  },
+  {
+    "end_time": 1255242,
+    "index": 443,
+    "start_time": 1250808,
+    "text": "ST: So, that&#39;s my firm\nbelief as an AI person --"
+  },
+  {
+    "end_time": 1259069,
+    "index": 444,
+    "start_time": 1255266,
+    "text": "that I haven&#39;t seen\nany real progress on creativity"
+  },
+  {
+    "end_time": 1261356,
+    "index": 445,
+    "start_time": 1259949,
+    "text": "and out-of-the-box thinking."
+  },
+  {
+    "end_time": 1265003,
+    "index": 446,
+    "start_time": 1261380,
+    "text": "What I see right now -- and this is\nreally important for people to realize,"
+  },
+  {
+    "end_time": 1267930,
+    "index": 447,
+    "start_time": 1265027,
+    "text": "because the word &quot;artificial\nintelligence&quot; is so threatening,"
+  },
+  {
+    "end_time": 1270476,
+    "index": 448,
+    "start_time": 1267954,
+    "text": "and then we have Steve Spielberg\ntossing a movie in,"
+  },
+  {
+    "end_time": 1272914,
+    "index": 449,
+    "start_time": 1270501,
+    "text": "where all of a sudden\nthe computer is our overlord,"
+  },
+  {
+    "end_time": 1274390,
+    "index": 450,
+    "start_time": 1272938,
+    "text": "but it&#39;s really a technology."
+  },
+  {
+    "end_time": 1277396,
+    "index": 451,
+    "start_time": 1274414,
+    "text": "It&#39;s a technology that helps us\ndo repetitive things."
+  },
+  {
+    "end_time": 1280333,
+    "index": 452,
+    "start_time": 1277420,
+    "text": "And the progress has been\nentirely on the repetitive end."
+  },
+  {
+    "end_time": 1282585,
+    "index": 453,
+    "start_time": 1280357,
+    "text": "It&#39;s been in legal document discovery."
+  },
+  {
+    "end_time": 1284289,
+    "index": 454,
+    "start_time": 1282609,
+    "text": "It&#39;s been contract drafting."
+  },
+  {
+    "end_time": 1288536,
+    "index": 455,
+    "start_time": 1284313,
+    "text": "It&#39;s been screening X-rays of your chest."
+  },
+  {
+    "end_time": 1290332,
+    "index": 456,
+    "start_time": 1288560,
+    "text": "And these things are so specialized,"
+  },
+  {
+    "end_time": 1292748,
+    "index": 457,
+    "start_time": 1290357,
+    "text": "I don&#39;t see the big threat of humanity."
+  },
+  {
+    "end_time": 1294566,
+    "index": 458,
+    "start_time": 1292772,
+    "text": "In fact, we as people --"
+  },
+  {
+    "end_time": 1296975,
+    "index": 459,
+    "start_time": 1294590,
+    "text": "I mean, let&#39;s face it:\nwe&#39;ve become superhuman."
+  },
+  {
+    "end_time": 1298763,
+    "index": 460,
+    "start_time": 1296999,
+    "text": "We&#39;ve made us superhuman."
+  },
+  {
+    "end_time": 1301419,
+    "index": 461,
+    "start_time": 1298787,
+    "text": "We can swim across\nthe Atlantic in 11 hours."
+  },
+  {
+    "end_time": 1303517,
+    "index": 462,
+    "start_time": 1301443,
+    "text": "We can take a device out of our pocket"
+  },
+  {
+    "end_time": 1305687,
+    "index": 463,
+    "start_time": 1303541,
+    "text": "and shout all the way to Australia,"
+  },
+  {
+    "end_time": 1308312,
+    "index": 464,
+    "start_time": 1305712,
+    "text": "and in real time, have that person\nshouting back to us."
+  },
+  {
+    "end_time": 1311960,
+    "index": 465,
+    "start_time": 1308336,
+    "text": "That&#39;s physically not possible.\nWe&#39;re breaking the rules of physics."
+  },
+  {
+    "end_time": 1314927,
+    "index": 466,
+    "start_time": 1311984,
+    "text": "When this is said and done,\nwe&#39;re going to remember everything"
+  },
+  {
+    "end_time": 1316164,
+    "index": 467,
+    "start_time": 1314951,
+    "text": "we&#39;ve ever said and seen,"
+  },
+  {
+    "end_time": 1317684,
+    "index": 468,
+    "start_time": 1316188,
+    "text": "you&#39;ll remember every person,"
+  },
+  {
+    "end_time": 1320334,
+    "index": 469,
+    "start_time": 1317708,
+    "text": "which is good for me\nin my early stages of Alzheimer&#39;s."
+  },
+  {
+    "end_time": 1322034,
+    "index": 470,
+    "start_time": 1320358,
+    "text": "Sorry, what was I saying? I forgot."
+  },
+  {
+    "end_time": 1323637,
+    "index": 471,
+    "start_time": 1322059,
+    "text": "CA: (Laughs)"
+  },
+  {
+    "end_time": 1326738,
+    "index": 472,
+    "start_time": 1323661,
+    "text": "ST: We will probably have\nan IQ of 1,000 or more."
+  },
+  {
+    "end_time": 1330187,
+    "index": 473,
+    "start_time": 1326762,
+    "text": "There will be no more\nspelling classes for our kids,"
+  },
+  {
+    "end_time": 1332297,
+    "index": 474,
+    "start_time": 1330211,
+    "text": "because there&#39;s no spelling issue anymore."
+  },
+  {
+    "end_time": 1334153,
+    "index": 475,
+    "start_time": 1332321,
+    "text": "There&#39;s no math issue anymore."
+  },
+  {
+    "end_time": 1337687,
+    "index": 476,
+    "start_time": 1334177,
+    "text": "And I think what really will happen\nis that we can be super creative."
+  },
+  {
+    "end_time": 1339568,
+    "index": 477,
+    "start_time": 1337711,
+    "text": "And we are. We are creative."
+  },
+  {
+    "end_time": 1341144,
+    "index": 478,
+    "start_time": 1339592,
+    "text": "That&#39;s our secret weapon."
+  },
+  {
+    "end_time": 1343321,
+    "index": 479,
+    "start_time": 1341168,
+    "text": "CA: So the jobs that are getting lost,"
+  },
+  {
+    "end_time": 1345839,
+    "index": 480,
+    "start_time": 1343345,
+    "text": "in a way, even though\nit&#39;s going to be painful,"
+  },
+  {
+    "end_time": 1347910,
+    "index": 481,
+    "start_time": 1345863,
+    "text": "humans are capable\nof more than those jobs."
+  },
+  {
+    "end_time": 1349152,
+    "index": 482,
+    "start_time": 1347934,
+    "text": "This is the dream."
+  },
+  {
+    "end_time": 1353423,
+    "index": 483,
+    "start_time": 1349176,
+    "text": "The dream is that humans can rise\nto just a new level of empowerment"
+  },
+  {
+    "end_time": 1355103,
+    "index": 484,
+    "start_time": 1353447,
+    "text": "and discovery."
+  },
+  {
+    "end_time": 1356580,
+    "index": 485,
+    "start_time": 1355128,
+    "text": "That&#39;s the dream."
+  },
+  {
+    "end_time": 1358247,
+    "index": 486,
+    "start_time": 1356604,
+    "text": "ST: And think about this:"
+  },
+  {
+    "end_time": 1360292,
+    "index": 487,
+    "start_time": 1358271,
+    "text": "if you look at the history of humanity,"
+  },
+  {
+    "end_time": 1363644,
+    "index": 488,
+    "start_time": 1360316,
+    "text": "that might be whatever --\n60-100,000 years old, give or take --"
+  },
+  {
+    "end_time": 1367394,
+    "index": 489,
+    "start_time": 1363668,
+    "text": "almost everything that you cherish\nin terms of invention,"
+  },
+  {
+    "end_time": 1369569,
+    "index": 490,
+    "start_time": 1367418,
+    "text": "of technology, of things we&#39;ve built,"
+  },
+  {
+    "end_time": 1372692,
+    "index": 491,
+    "start_time": 1369593,
+    "text": "has been invented in the last 150 years."
+  },
+  {
+    "end_time": 1376804,
+    "index": 492,
+    "start_time": 1373756,
+    "text": "If you toss in the book and the wheel,\nit&#39;s a little bit older."
+  },
+  {
+    "end_time": 1377997,
+    "index": 493,
+    "start_time": 1376828,
+    "text": "Or the axe."
+  },
+  {
+    "end_time": 1380811,
+    "index": 494,
+    "start_time": 1378021,
+    "text": "But your phone, your sneakers,"
+  },
+  {
+    "end_time": 1384386,
+    "index": 495,
+    "start_time": 1380835,
+    "text": "these chairs, modern\nmanufacturing, penicillin --"
+  },
+  {
+    "end_time": 1386124,
+    "index": 496,
+    "start_time": 1384410,
+    "text": "the things we cherish."
+  },
+  {
+    "end_time": 1389805,
+    "index": 497,
+    "start_time": 1386148,
+    "text": "Now, that to me means"
+  },
+  {
+    "end_time": 1392870,
+    "index": 498,
+    "start_time": 1389830,
+    "text": "the next 150 years will find more things."
+  },
+  {
+    "end_time": 1397049,
+    "index": 499,
+    "start_time": 1392895,
+    "text": "In fact, the pace of invention\nhas gone up, not gone down, in my opinion."
+  },
+  {
+    "end_time": 1401978,
+    "index": 500,
+    "start_time": 1397073,
+    "text": "I believe only one percent of interesting\nthings have been invented yet. Right?"
+  },
+  {
+    "end_time": 1403990,
+    "index": 501,
+    "start_time": 1402002,
+    "text": "We haven&#39;t cured cancer."
+  },
+  {
+    "end_time": 1407732,
+    "index": 502,
+    "start_time": 1404014,
+    "text": "We don&#39;t have flying cars -- yet.\nHopefully, I&#39;ll change this."
+  },
+  {
+    "end_time": 1411013,
+    "index": 503,
+    "start_time": 1407756,
+    "text": "That used to be an example\npeople laughed about. (Laughs)"
+  },
+  {
+    "end_time": 1414029,
+    "index": 504,
+    "start_time": 1411037,
+    "text": "It&#39;s funny, isn&#39;t it?\nWorking secretly on flying cars."
+  },
+  {
+    "end_time": 1416736,
+    "index": 505,
+    "start_time": 1414053,
+    "text": "We don&#39;t live twice as long yet. OK?"
+  },
+  {
+    "end_time": 1419545,
+    "index": 506,
+    "start_time": 1416760,
+    "text": "We don&#39;t have this magic\nimplant in our brain"
+  },
+  {
+    "end_time": 1421401,
+    "index": 507,
+    "start_time": 1419569,
+    "text": "that gives us the information we want."
+  },
+  {
+    "end_time": 1422951,
+    "index": 508,
+    "start_time": 1421425,
+    "text": "And you might be appalled by it,"
+  },
+  {
+    "end_time": 1425418,
+    "index": 509,
+    "start_time": 1422975,
+    "text": "but I promise you,\nonce you have it, you&#39;ll love it."
+  },
+  {
+    "end_time": 1426609,
+    "index": 510,
+    "start_time": 1425443,
+    "text": "I hope you will."
+  },
+  {
+    "end_time": 1428542,
+    "index": 511,
+    "start_time": 1426633,
+    "text": "It&#39;s a bit scary, I know."
+  },
+  {
+    "end_time": 1430820,
+    "index": 512,
+    "start_time": 1428566,
+    "text": "There are so many things\nwe haven&#39;t invented yet"
+  },
+  {
+    "end_time": 1432112,
+    "index": 513,
+    "start_time": 1430844,
+    "text": "that I think we&#39;ll invent."
+  },
+  {
+    "end_time": 1433442,
+    "index": 514,
+    "start_time": 1432136,
+    "text": "We have no gravity shields."
+  },
+  {
+    "end_time": 1436019,
+    "index": 515,
+    "start_time": 1433466,
+    "text": "We can&#39;t beam ourselves\nfrom one location to another."
+  },
+  {
+    "end_time": 1437194,
+    "index": 516,
+    "start_time": 1436043,
+    "text": "That sounds ridiculous,"
+  },
+  {
+    "end_time": 1438506,
+    "index": 517,
+    "start_time": 1437218,
+    "text": "but about 200 years ago,"
+  },
+  {
+    "end_time": 1441197,
+    "index": 518,
+    "start_time": 1438530,
+    "text": "experts were of the opinion\nthat flight wouldn&#39;t exist,"
+  },
+  {
+    "end_time": 1442545,
+    "index": 519,
+    "start_time": 1441221,
+    "text": "even 120 years ago,"
+  },
+  {
+    "end_time": 1445151,
+    "index": 520,
+    "start_time": 1442569,
+    "text": "and if you moved faster\nthan you could run,"
+  },
+  {
+    "end_time": 1446695,
+    "index": 521,
+    "start_time": 1445175,
+    "text": "you would instantly die."
+  },
+  {
+    "end_time": 1450288,
+    "index": 522,
+    "start_time": 1446719,
+    "text": "So who says we are correct today\nthat you can&#39;t beam a person"
+  },
+  {
+    "end_time": 1452561,
+    "index": 523,
+    "start_time": 1450312,
+    "text": "from here to Mars?"
+  },
+  {
+    "end_time": 1454154,
+    "index": 524,
+    "start_time": 1452585,
+    "text": "CA: Sebastian, thank you so much"
+  },
+  {
+    "end_time": 1456860,
+    "index": 525,
+    "start_time": 1454178,
+    "text": "for your incredibly inspiring vision\nand your brilliance."
+  },
+  {
+    "end_time": 1458207,
+    "index": 526,
+    "start_time": 1456884,
+    "text": "Thank you, Sebastian Thrun."
+  },
+  {
+    "end_time": 1460126,
+    "index": 527,
+    "start_time": 1458231,
+    "text": "That was fantastic. (Applause)"
+  }
+]

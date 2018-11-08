@@ -1,0 +1,464 @@
+[
+    {
+        "index": 1,
+        "start_time": 6646,
+        "end_time": 10597,
+        "text": "How high can you count on your fingers?"
+    },
+    {
+        "index": 2,
+        "start_time": 10597,
+        "end_time": 13176,
+        "text": "It seems like a question \nwith an obvious answer."
+    },
+    {
+        "index": 3,
+        "start_time": 13176,
+        "end_time": 15786,
+        "text": "After all, most of us have ten fingers,"
+    },
+    {
+        "index": 4,
+        "start_time": 15786,
+        "end_time": 17057,
+        "text": "or to be more precise,"
+    },
+    {
+        "index": 5,
+        "start_time": 17057,
+        "end_time": 19397,
+        "text": "eight fingers and two thumbs."
+    },
+    {
+        "index": 6,
+        "start_time": 19397,
+        "end_time": 22796,
+        "text": "This gives us a total of ten digits\non our two hands,"
+    },
+    {
+        "index": 7,
+        "start_time": 22796,
+        "end_time": 24676,
+        "text": "which we use to count to ten."
+    },
+    {
+        "index": 8,
+        "start_time": 24676,
+        "end_time": 28766,
+        "text": "It&#39;s no coincidence that the ten symbols\nwe use in our modern numbering system"
+    },
+    {
+        "index": 9,
+        "start_time": 28766,
+        "end_time": 30957,
+        "text": "are called digits as well."
+    },
+    {
+        "index": 10,
+        "start_time": 30957,
+        "end_time": 33128,
+        "text": "But that&#39;s not the only way to count."
+    },
+    {
+        "index": 11,
+        "start_time": 33128,
+        "end_time": 38316,
+        "text": "In some places, it&#39;s customary to\ngo up to twelve on just one hand."
+    },
+    {
+        "index": 12,
+        "start_time": 38316,
+        "end_time": 39324,
+        "text": "How?"
+    },
+    {
+        "index": 13,
+        "start_time": 39324,
+        "end_time": 42345,
+        "text": "Well, each finger is divided \ninto three sections,"
+    },
+    {
+        "index": 14,
+        "start_time": 42345,
+        "end_time": 46787,
+        "text": "and we have a natural pointer\nto indicate each one, the thumb."
+    },
+    {
+        "index": 15,
+        "start_time": 46787,
+        "end_time": 50808,
+        "text": "That gives us an easy to way to count\nto twelve on one hand."
+    },
+    {
+        "index": 16,
+        "start_time": 50808,
+        "end_time": 52337,
+        "text": "And if we want to count higher,"
+    },
+    {
+        "index": 17,
+        "start_time": 52337,
+        "end_time": 57937,
+        "text": "we can use the digits on our other hand to\nkeep track of each time we get to twelve,"
+    },
+    {
+        "index": 18,
+        "start_time": 57937,
+        "end_time": 62597,
+        "text": "up to five groups of twelve, or 60."
+    },
+    {
+        "index": 19,
+        "start_time": 62597,
+        "end_time": 65248,
+        "text": "Better yet, let&#39;s use the sections\non the second hand"
+    },
+    {
+        "index": 20,
+        "start_time": 65248,
+        "end_time": 70968,
+        "text": "to count twelve groups of twelve,\nup to 144."
+    },
+    {
+        "index": 21,
+        "start_time": 70968,
+        "end_time": 72788,
+        "text": "That&#39;s a pretty big improvement,"
+    },
+    {
+        "index": 22,
+        "start_time": 72788,
+        "end_time": 77239,
+        "text": "but we can go higher by finding more\ncountable parts on each hand."
+    },
+    {
+        "index": 23,
+        "start_time": 77239,
+        "end_time": 81249,
+        "text": "For example, each finger \nhas three sections and three creases"
+    },
+    {
+        "index": 24,
+        "start_time": 81249,
+        "end_time": 83656,
+        "text": "for a total of six things to count."
+    },
+    {
+        "index": 25,
+        "start_time": 83656,
+        "end_time": 85988,
+        "text": "Now we&#39;re up to 24 on each hand,"
+    },
+    {
+        "index": 26,
+        "start_time": 85988,
+        "end_time": 88518,
+        "text": "and using our other hand to mark\ngroups of 24"
+    },
+    {
+        "index": 27,
+        "start_time": 88518,
+        "end_time": 91668,
+        "text": "gets us all the way to 576."
+    },
+    {
+        "index": 28,
+        "start_time": 91668,
+        "end_time": 93008,
+        "text": "Can we go any higher?"
+    },
+    {
+        "index": 29,
+        "start_time": 93008,
+        "end_time": 96417,
+        "text": "It looks like we&#39;ve reached the limit\nof how many different finger parts"
+    },
+    {
+        "index": 30,
+        "start_time": 96417,
+        "end_time": 98763,
+        "text": "we can count with any precision."
+    },
+    {
+        "index": 31,
+        "start_time": 98763,
+        "end_time": 100620,
+        "text": "So let&#39;s think of something different."
+    },
+    {
+        "index": 32,
+        "start_time": 100620,
+        "end_time": 103318,
+        "text": "One of our greatest \nmathematical inventions"
+    },
+    {
+        "index": 33,
+        "start_time": 103318,
+        "end_time": 106689,
+        "text": "is the system of positional notation,"
+    },
+    {
+        "index": 34,
+        "start_time": 106689,
+        "end_time": 110849,
+        "text": "where the placement of symbols allows\nfor different magnitudes of value,"
+    },
+    {
+        "index": 35,
+        "start_time": 110849,
+        "end_time": 113218,
+        "text": "as in the number 999."
+    },
+    {
+        "index": 36,
+        "start_time": 113218,
+        "end_time": 115729,
+        "text": "Even though the same symbol is used\nthree times,"
+    },
+    {
+        "index": 37,
+        "start_time": 115729,
+        "end_time": 119850,
+        "text": "each position indicates a different\norder of magnitude."
+    },
+    {
+        "index": 38,
+        "start_time": 119850,
+        "end_time": 125539,
+        "text": "So we can use positional value on\nour fingers to beat our previous record."
+    },
+    {
+        "index": 39,
+        "start_time": 125539,
+        "end_time": 127849,
+        "text": "Let&#39;s forget about finger sections\nfor a moment"
+    },
+    {
+        "index": 40,
+        "start_time": 127849,
+        "end_time": 132163,
+        "text": "and look at the simplest case of having\njust two options per finger,"
+    },
+    {
+        "index": 41,
+        "start_time": 132163,
+        "end_time": 133939,
+        "text": "up and down."
+    },
+    {
+        "index": 42,
+        "start_time": 133939,
+        "end_time": 136329,
+        "text": "This won&#39;t allow us to represent \npowers of ten,"
+    },
+    {
+        "index": 43,
+        "start_time": 136329,
+        "end_time": 140380,
+        "text": "but it&#39;s perfect for the counting system\nthat uses powers of two,"
+    },
+    {
+        "index": 44,
+        "start_time": 140380,
+        "end_time": 142489,
+        "text": "otherwise known as binary."
+    },
+    {
+        "index": 45,
+        "start_time": 142489,
+        "end_time": 146279,
+        "text": "In binary, each position has double\nthe value of the previous one,"
+    },
+    {
+        "index": 46,
+        "start_time": 146279,
+        "end_time": 149320,
+        "text": "so we can assign \nour fingers values of one,"
+    },
+    {
+        "index": 47,
+        "start_time": 149320,
+        "end_time": 150190,
+        "text": "two,"
+    },
+    {
+        "index": 48,
+        "start_time": 150190,
+        "end_time": 150940,
+        "text": "four,"
+    },
+    {
+        "index": 49,
+        "start_time": 150940,
+        "end_time": 151738,
+        "text": "eight,"
+    },
+    {
+        "index": 50,
+        "start_time": 151738,
+        "end_time": 154293,
+        "text": "all the way up to 512."
+    },
+    {
+        "index": 51,
+        "start_time": 154293,
+        "end_time": 156941,
+        "text": "And any positive integer,\nup to a certain limit,"
+    },
+    {
+        "index": 52,
+        "start_time": 156941,
+        "end_time": 159980,
+        "text": "can be expressed \nas a sum of these numbers."
+    },
+    {
+        "index": 53,
+        "start_time": 159980,
+        "end_time": 163771,
+        "text": "For example, the number seven\nis 4+2+1."
+    },
+    {
+        "index": 54,
+        "start_time": 163771,
+        "end_time": 167640,
+        "text": "so we can represent it by having\njust these three fingers raised."
+    },
+    {
+        "index": 55,
+        "start_time": 167640,
+        "end_time": 176290,
+        "text": "Meanwhile, 250 is 128+64+32+16+8+2."
+    },
+    {
+        "index": 56,
+        "start_time": 176290,
+        "end_time": 178260,
+        "text": "How high an we go now?"
+    },
+    {
+        "index": 57,
+        "start_time": 178260,
+        "end_time": 183491,
+        "text": "That would be the number with all ten\nfingers raised, or 1,023."
+    },
+    {
+        "index": 58,
+        "start_time": 183491,
+        "end_time": 185631,
+        "text": "Is it possible to go even higher?"
+    },
+    {
+        "index": 59,
+        "start_time": 185631,
+        "end_time": 187730,
+        "text": "It depends on how dexterous you feel."
+    },
+    {
+        "index": 60,
+        "start_time": 187730,
+        "end_time": 192381,
+        "text": "If you can bend each finger just halfway,\nthat gives us three different states -"
+    },
+    {
+        "index": 61,
+        "start_time": 192381,
+        "end_time": 193321,
+        "text": "down,"
+    },
+    {
+        "index": 62,
+        "start_time": 193321,
+        "end_time": 194391,
+        "text": "half bent,"
+    },
+    {
+        "index": 63,
+        "start_time": 194391,
+        "end_time": 195761,
+        "text": "and raised."
+    },
+    {
+        "index": 64,
+        "start_time": 195761,
+        "end_time": 199612,
+        "text": "Now, we can count using \na base-three positional system,"
+    },
+    {
+        "index": 65,
+        "start_time": 199612,
+        "end_time": 204980,
+        "text": "up to 59,048."
+    },
+    {
+        "index": 66,
+        "start_time": 204980,
+        "end_time": 208741,
+        "text": "And if you can bend your fingers\ninto four different states or more,"
+    },
+    {
+        "index": 67,
+        "start_time": 208741,
+        "end_time": 210641,
+        "text": "you can get even higher."
+    },
+    {
+        "index": 68,
+        "start_time": 210641,
+        "end_time": 216202,
+        "text": "That limit is up to you,\nand your own flexibility and ingenuity."
+    },
+    {
+        "index": 69,
+        "start_time": 216202,
+        "end_time": 218802,
+        "text": "Even with our fingers in just two\npossible states,"
+    },
+    {
+        "index": 70,
+        "start_time": 218802,
+        "end_time": 221301,
+        "text": "we&#39;re already working pretty efficiently."
+    },
+    {
+        "index": 71,
+        "start_time": 221301,
+        "end_time": 225332,
+        "text": "In fact, our computers are based\non the same principle."
+    },
+    {
+        "index": 72,
+        "start_time": 225332,
+        "end_time": 228492,
+        "text": "Each microchip consists of tiny\nelectrical switches"
+    },
+    {
+        "index": 73,
+        "start_time": 228492,
+        "end_time": 231182,
+        "text": "that can be either on or off,"
+    },
+    {
+        "index": 74,
+        "start_time": 231182,
+        "end_time": 235752,
+        "text": "meaning that base-two is the default way\nthey represent numbers."
+    },
+    {
+        "index": 75,
+        "start_time": 235752,
+        "end_time": 240192,
+        "text": "And just as we can use this system to\ncount past 1,000 using only our fingers,"
+    },
+    {
+        "index": 76,
+        "start_time": 240192,
+        "end_time": 243199,
+        "text": "computers can perform billions \nof operations"
+    },
+    {
+        "index": 77,
+        "start_time": 243199,
+        "end_time": 247373,
+        "text": "just by counting off 1&#39;s and 0&#39;s."
+    }
+]

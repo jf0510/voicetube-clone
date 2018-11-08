@@ -1,0 +1,404 @@
+[
+    {
+        "index": 1,
+        "start_time": 6698,
+        "end_time": 8698,
+        "text": "When the Wright brothers\nhad to decide"
+    },
+    {
+        "index": 2,
+        "start_time": 8698,
+        "end_time": 11840,
+        "text": "who would be the first to \nfly their new airplane"
+    },
+    {
+        "index": 3,
+        "start_time": 11840,
+        "end_time": 14640,
+        "text": "off a sand dune, \nthey flipped a coin."
+    },
+    {
+        "index": 4,
+        "start_time": 14640,
+        "end_time": 15459,
+        "text": "That was fair:"
+    },
+    {
+        "index": 5,
+        "start_time": 15459,
+        "end_time": 19188,
+        "text": "we all know there\u2019s an equal chance \nof getting heads and tails."
+    },
+    {
+        "index": 6,
+        "start_time": 19188,
+        "end_time": 22080,
+        "text": "But what if they had \na more complicated contest?"
+    },
+    {
+        "index": 7,
+        "start_time": 22080,
+        "end_time": 24500,
+        "text": "What if they flipped\u00a0coins\u00a0repeatedly,"
+    },
+    {
+        "index": 8,
+        "start_time": 24500,
+        "end_time": 29381,
+        "text": "so that Orville would win as soon as \ntwo heads showed up in a row\u00a0on his coin,"
+    },
+    {
+        "index": 9,
+        "start_time": 29381,
+        "end_time": 35260,
+        "text": "and Wilbur would win as soon as heads \nwas immediately followed by tails\u00a0on his?"
+    },
+    {
+        "index": 10,
+        "start_time": 35260,
+        "end_time": 40685,
+        "text": "Would each brother still have had an equal\nchance to be the first in flight?"
+    },
+    {
+        "index": 11,
+        "start_time": 40685,
+        "end_time": 44580,
+        "text": "At first, it may seem they\u2019d still have \nthe same chance of winning."
+    },
+    {
+        "index": 12,
+        "start_time": 44580,
+        "end_time": 48142,
+        "text": "There are four combinations\nfor two consecutive flips."
+    },
+    {
+        "index": 13,
+        "start_time": 48142,
+        "end_time": 50281,
+        "text": "And if you do flip a coin just twice,"
+    },
+    {
+        "index": 14,
+        "start_time": 50281,
+        "end_time": 54351,
+        "text": "there\u2019s an equal chance \nof each one -- 25%."
+    },
+    {
+        "index": 15,
+        "start_time": 54351,
+        "end_time": 58461,
+        "text": "So your intuition might tell you \nthat in any string of coin flips,"
+    },
+    {
+        "index": 16,
+        "start_time": 58461,
+        "end_time": 62374,
+        "text": "each combination would have \nthe same shot at appearing first."
+    },
+    {
+        "index": 17,
+        "start_time": 62374,
+        "end_time": 64963,
+        "text": "Unfortunately, you\u2019d be wrong."
+    },
+    {
+        "index": 18,
+        "start_time": 64963,
+        "end_time": 68993,
+        "text": "Wilbur actually has\na big advantage in this contest."
+    },
+    {
+        "index": 19,
+        "start_time": 68993,
+        "end_time": 72432,
+        "text": "Imagine our sequence of coin flips \nas a sort of board game,"
+    },
+    {
+        "index": 20,
+        "start_time": 72432,
+        "end_time": 75684,
+        "text": "where every flip determines which\npath we take."
+    },
+    {
+        "index": 21,
+        "start_time": 75684,
+        "end_time": 78664,
+        "text": "The goal is to get from start to finish."
+    },
+    {
+        "index": 22,
+        "start_time": 78664,
+        "end_time": 81705,
+        "text": "The heads\/tails board looks like this."
+    },
+    {
+        "index": 23,
+        "start_time": 81705,
+        "end_time": 84405,
+        "text": "And this is the head\/head board."
+    },
+    {
+        "index": 24,
+        "start_time": 84405,
+        "end_time": 86393,
+        "text": "There\u2019s one critical difference."
+    },
+    {
+        "index": 25,
+        "start_time": 86393,
+        "end_time": 90706,
+        "text": "Heads\/heads has a move that sends you \nall the way back to the start"
+    },
+    {
+        "index": 26,
+        "start_time": 90706,
+        "end_time": 93503,
+        "text": "that heads\/tails doesn\u2019t have."
+    },
+    {
+        "index": 27,
+        "start_time": 93503,
+        "end_time": 96904,
+        "text": "That\u2019s why heads\/heads\ntakes longer on average."
+    },
+    {
+        "index": 28,
+        "start_time": 96904,
+        "end_time": 101485,
+        "text": "So we can demonstrate that this is true\nusing probability and algebra"
+    },
+    {
+        "index": 29,
+        "start_time": 101485,
+        "end_time": 106835,
+        "text": "to calculate the average number of flips\nit would take to get each combination."
+    },
+    {
+        "index": 30,
+        "start_time": 106835,
+        "end_time": 109074,
+        "text": "Let\u2019s start with the heads\/tails board,"
+    },
+    {
+        "index": 31,
+        "start_time": 109074,
+        "end_time": 113404,
+        "text": "and define x to be the average \nnumber of flips to advance one step."
+    },
+    {
+        "index": 32,
+        "start_time": 113404,
+        "end_time": 116144,
+        "text": "Focus only on the arrows."
+    },
+    {
+        "index": 33,
+        "start_time": 116144,
+        "end_time": 118316,
+        "text": "It has two identical steps,"
+    },
+    {
+        "index": 34,
+        "start_time": 118316,
+        "end_time": 122693,
+        "text": "each with a 50\/50 chance of staying \nin place or moving forward."
+    },
+    {
+        "index": 35,
+        "start_time": 122693,
+        "end_time": 129114,
+        "text": "Option 1: If we stay in place by getting \ntails, we waste one flip."
+    },
+    {
+        "index": 36,
+        "start_time": 129114,
+        "end_time": 130846,
+        "text": "Since we\u2019re back in the same place,"
+    },
+    {
+        "index": 37,
+        "start_time": 130846,
+        "end_time": 135374,
+        "text": "on average we must flip x more times \nto advance one step."
+    },
+    {
+        "index": 38,
+        "start_time": 135374,
+        "end_time": 137286,
+        "text": "Together with that first flip,"
+    },
+    {
+        "index": 39,
+        "start_time": 137286,
+        "end_time": 142306,
+        "text": "this gives an average of x + 1 \ntotal flips to advance."
+    },
+    {
+        "index": 40,
+        "start_time": 142306,
+        "end_time": 146254,
+        "text": "Option 2: If we get heads \nand move forward,"
+    },
+    {
+        "index": 41,
+        "start_time": 146254,
+        "end_time": 150726,
+        "text": "then we have taken exactly one total flip \nto advance one step."
+    },
+    {
+        "index": 42,
+        "start_time": 150726,
+        "end_time": 155125,
+        "text": "We can now combine option 1 \nand option 2 with their probabilities"
+    },
+    {
+        "index": 43,
+        "start_time": 155125,
+        "end_time": 157165,
+        "text": "to get this expression."
+    },
+    {
+        "index": 44,
+        "start_time": 157165,
+        "end_time": 162368,
+        "text": "Solving that for x gives us an average \nof two moves to advance one step."
+    },
+    {
+        "index": 45,
+        "start_time": 162368,
+        "end_time": 164667,
+        "text": "Since each step is identical,"
+    },
+    {
+        "index": 46,
+        "start_time": 164667,
+        "end_time": 170348,
+        "text": "we can multiply by two and arrive\nat four flips to advance two steps."
+    },
+    {
+        "index": 47,
+        "start_time": 170348,
+        "end_time": 173666,
+        "text": "For heads\/heads, \nthe picture isn\u2019t as simple."
+    },
+    {
+        "index": 48,
+        "start_time": 173666,
+        "end_time": 179196,
+        "text": "This time, let y be the average number \nof flips to move from start to finish."
+    },
+    {
+        "index": 49,
+        "start_time": 179196,
+        "end_time": 183318,
+        "text": "There are two options for the first move, \neach with 50\/50 odds."
+    },
+    {
+        "index": 50,
+        "start_time": 183318,
+        "end_time": 185719,
+        "text": "Option 1 is the same as before,"
+    },
+    {
+        "index": 51,
+        "start_time": 185719,
+        "end_time": 188067,
+        "text": "getting tails sends us back to the start,"
+    },
+    {
+        "index": 52,
+        "start_time": 188067,
+        "end_time": 192499,
+        "text": "giving an average \nof y+1 total flips to finish."
+    },
+    {
+        "index": 53,
+        "start_time": 192499,
+        "end_time": 197258,
+        "text": "In Option 2, there are two equally \nlikely cases for the next flip."
+    },
+    {
+        "index": 54,
+        "start_time": 197258,
+        "end_time": 200550,
+        "text": "With heads we\u2019d be done after two flips."
+    },
+    {
+        "index": 55,
+        "start_time": 200550,
+        "end_time": 203609,
+        "text": "But tails would return us to the start."
+    },
+    {
+        "index": 56,
+        "start_time": 203609,
+        "end_time": 205990,
+        "text": "Since we\u2019d return after two flips,"
+    },
+    {
+        "index": 57,
+        "start_time": 205990,
+        "end_time": 211200,
+        "text": "we\u2019d then need an average\nof y+2 flips in total to finish."
+    },
+    {
+        "index": 58,
+        "start_time": 211200,
+        "end_time": 215011,
+        "text": "So our full expression will be this."
+    },
+    {
+        "index": 59,
+        "start_time": 215011,
+        "end_time": 218021,
+        "text": "And solving this equation \ngives us six flips."
+    },
+    {
+        "index": 60,
+        "start_time": 218021,
+        "end_time": 223361,
+        "text": "So the math calculates that it takes an\naverage of six flips to get heads\/heads,"
+    },
+    {
+        "index": 61,
+        "start_time": 223361,
+        "end_time": 226960,
+        "text": "and an average of four \nto get heads\/tails."
+    },
+    {
+        "index": 62,
+        "start_time": 226960,
+        "end_time": 232561,
+        "text": "And, in fact, that\u2019s what you\u2019d see if you\ntested it for yourself enough times."
+    },
+    {
+        "index": 63,
+        "start_time": 232561,
+        "end_time": 235771,
+        "text": "Of course, the Wright brothers didn\u2019t \nneed to work all this out;"
+    },
+    {
+        "index": 64,
+        "start_time": 235771,
+        "end_time": 239462,
+        "text": "they only flipped the coin once,\nand Wilbur won."
+    },
+    {
+        "index": 65,
+        "start_time": 239462,
+        "end_time": 242832,
+        "text": "But it didn\u2019t matter: \nWilbur\u2019s flight failed,"
+    },
+    {
+        "index": 66,
+        "start_time": 242832,
+        "end_time": 245961,
+        "text": "and Orville made \naviation history, instead."
+    },
+    {
+        "index": 67,
+        "start_time": 245961,
+        "end_time": 247432,
+        "text": "Tough luck, Wilbur."
+    }
+]

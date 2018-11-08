@@ -1,0 +1,458 @@
+[
+    {
+        "index": 1,
+        "start_time": 10048,
+        "end_time": 11933,
+        "text": "Imagine a group of people."
+    },
+    {
+        "index": 2,
+        "start_time": 11933,
+        "end_time": 14304,
+        "text": "How big do you think the group\nwould have to be"
+    },
+    {
+        "index": 3,
+        "start_time": 14304,
+        "end_time": 18778,
+        "text": "before there&#39;s more than a 50% chance\nthat two people in the group"
+    },
+    {
+        "index": 4,
+        "start_time": 18778,
+        "end_time": 21218,
+        "text": "have the same birthday?"
+    },
+    {
+        "index": 5,
+        "start_time": 21218,
+        "end_time": 24187,
+        "text": "Assume for the sake of argument\nthat there are no twins,"
+    },
+    {
+        "index": 6,
+        "start_time": 24187,
+        "end_time": 26748,
+        "text": "that every birthday is equally likely,"
+    },
+    {
+        "index": 7,
+        "start_time": 26748,
+        "end_time": 29977,
+        "text": "and ignore leap years."
+    },
+    {
+        "index": 8,
+        "start_time": 29977,
+        "end_time": 33049,
+        "text": "Take a moment to think about it."
+    },
+    {
+        "index": 9,
+        "start_time": 33049,
+        "end_time": 35908,
+        "text": "The answer may seem surprisingly low."
+    },
+    {
+        "index": 10,
+        "start_time": 35908,
+        "end_time": 37708,
+        "text": "In a group of 23 people,"
+    },
+    {
+        "index": 11,
+        "start_time": 37708,
+        "end_time": 44669,
+        "text": "there&#39;s a 50.73% chance that \ntwo people will share the same birthday."
+    },
+    {
+        "index": 12,
+        "start_time": 44669,
+        "end_time": 47239,
+        "text": "But with 365 days in a year,"
+    },
+    {
+        "index": 13,
+        "start_time": 47239,
+        "end_time": 50489,
+        "text": "how&#39;s it possible that you need such\na small group"
+    },
+    {
+        "index": 14,
+        "start_time": 50489,
+        "end_time": 53700,
+        "text": "to get even odds of a shared birthday?"
+    },
+    {
+        "index": 15,
+        "start_time": 53700,
+        "end_time": 58156,
+        "text": "Why is our intuition so wrong?"
+    },
+    {
+        "index": 16,
+        "start_time": 58156,
+        "end_time": 59498,
+        "text": "To figure out the answer,"
+    },
+    {
+        "index": 17,
+        "start_time": 59498,
+        "end_time": 61389,
+        "text": "let&#39;s look at one way a mathematician"
+    },
+    {
+        "index": 18,
+        "start_time": 61389,
+        "end_time": 65218,
+        "text": "might calculate \nthe odds of a birthday match."
+    },
+    {
+        "index": 19,
+        "start_time": 65218,
+        "end_time": 69110,
+        "text": "We can use a field of mathematics\nknown as combinatorics,"
+    },
+    {
+        "index": 20,
+        "start_time": 69110,
+        "end_time": 74419,
+        "text": "which deals with the likelihoods\nof different combinations."
+    },
+    {
+        "index": 21,
+        "start_time": 74419,
+        "end_time": 76950,
+        "text": "The first step is to flip the problem."
+    },
+    {
+        "index": 22,
+        "start_time": 76950,
+        "end_time": 81330,
+        "text": "Trying to calculate the odds \nof a match directly is challenging"
+    },
+    {
+        "index": 23,
+        "start_time": 81330,
+        "end_time": 85229,
+        "text": "because there are many ways you\ncould get a birthday match in a group."
+    },
+    {
+        "index": 24,
+        "start_time": 85229,
+        "end_time": 91389,
+        "text": "Instead, it&#39;s easier to calculate the odds\nthat everyone&#39;s birthday is different."
+    },
+    {
+        "index": 25,
+        "start_time": 91389,
+        "end_time": 92820,
+        "text": "How does that help?"
+    },
+    {
+        "index": 26,
+        "start_time": 92820,
+        "end_time": 95741,
+        "text": "Either there&#39;s a birthday match\nin the group, or there isn&#39;t,"
+    },
+    {
+        "index": 27,
+        "start_time": 95741,
+        "end_time": 98461,
+        "text": "so the odds of a match\nand the odds of no match"
+    },
+    {
+        "index": 28,
+        "start_time": 98461,
+        "end_time": 101860,
+        "text": "must add up to 100%."
+    },
+    {
+        "index": 29,
+        "start_time": 101860,
+        "end_time": 104271,
+        "text": "That means we can find \nthe probability of a match"
+    },
+    {
+        "index": 30,
+        "start_time": 104271,
+        "end_time": 110381,
+        "text": "by subtracting the probability\nof no match from 100."
+    },
+    {
+        "index": 31,
+        "start_time": 110381,
+        "end_time": 113806,
+        "text": "To calculate the odds of no match,\nstart small."
+    },
+    {
+        "index": 32,
+        "start_time": 113806,
+        "end_time": 118281,
+        "text": "Calculate the odds that just one pair\nof people have different birthdays."
+    },
+    {
+        "index": 33,
+        "start_time": 118281,
+        "end_time": 120632,
+        "text": "One day of the year will be\nPerson A&#39;s birthday,"
+    },
+    {
+        "index": 34,
+        "start_time": 120632,
+        "end_time": 126022,
+        "text": "which leaves only 364 possible birthdays\nfor Person B."
+    },
+    {
+        "index": 35,
+        "start_time": 126022,
+        "end_time": 130592,
+        "text": "The probability of different birthdays\nfor A and B, or any pair of people,"
+    },
+    {
+        "index": 36,
+        "start_time": 130592,
+        "end_time": 134412,
+        "text": "is 364 out of 365,"
+    },
+    {
+        "index": 37,
+        "start_time": 134412,
+        "end_time": 140514,
+        "text": "about 0.997, or 99.7%, pretty high."
+    },
+    {
+        "index": 38,
+        "start_time": 140514,
+        "end_time": 142562,
+        "text": "Bring in Person C."
+    },
+    {
+        "index": 39,
+        "start_time": 142562,
+        "end_time": 145793,
+        "text": "The probability that she has \na unique birthday in this small group"
+    },
+    {
+        "index": 40,
+        "start_time": 145793,
+        "end_time": 149532,
+        "text": "is 363 out of 365"
+    },
+    {
+        "index": 41,
+        "start_time": 149532,
+        "end_time": 153964,
+        "text": "because there are two birthdates\nalready accounted for by A and B."
+    },
+    {
+        "index": 42,
+        "start_time": 153964,
+        "end_time": 158582,
+        "text": "D&#39;s odds will be 362 out of 365,\nand so on,"
+    },
+    {
+        "index": 43,
+        "start_time": 158582,
+        "end_time": 164474,
+        "text": "all the way down to W&#39;s odds\nof 343 out of 365."
+    },
+    {
+        "index": 44,
+        "start_time": 164474,
+        "end_time": 166385,
+        "text": "Multiply all of those terms together,"
+    },
+    {
+        "index": 45,
+        "start_time": 166385,
+        "end_time": 170942,
+        "text": "and you&#39;ll get the probability\nthat no one shares a birthday."
+    },
+    {
+        "index": 46,
+        "start_time": 170942,
+        "end_time": 174064,
+        "text": "This works out to 0.4927,"
+    },
+    {
+        "index": 47,
+        "start_time": 174064,
+        "end_time": 181362,
+        "text": "so there&#39;s a 49.27% chance that no one in\nthe group of 23 people shares a birthday."
+    },
+    {
+        "index": 48,
+        "start_time": 181362,
+        "end_time": 185955,
+        "text": "When we subtract that from 100,\nwe get a 50.73% chance"
+    },
+    {
+        "index": 49,
+        "start_time": 185955,
+        "end_time": 188701,
+        "text": "of at least one birthday match,"
+    },
+    {
+        "index": 50,
+        "start_time": 188701,
+        "end_time": 191955,
+        "text": "better than even odds."
+    },
+    {
+        "index": 51,
+        "start_time": 191955,
+        "end_time": 196144,
+        "text": "The key to such a high probability \nof a match in a relatively small group"
+    },
+    {
+        "index": 52,
+        "start_time": 196144,
+        "end_time": 200325,
+        "text": "is the surprisingly large number\nof possible pairs."
+    },
+    {
+        "index": 53,
+        "start_time": 200325,
+        "end_time": 206017,
+        "text": "As a group grows, the number of possible \ncombinations gets bigger much faster."
+    },
+    {
+        "index": 54,
+        "start_time": 206017,
+        "end_time": 209196,
+        "text": "A group of five people \nhas ten possible pairs."
+    },
+    {
+        "index": 55,
+        "start_time": 209196,
+        "end_time": 212905,
+        "text": "Each of the five people can be paired\nwith any of the other four."
+    },
+    {
+        "index": 56,
+        "start_time": 212905,
+        "end_time": 214835,
+        "text": "Half of those combinations are redundant"
+    },
+    {
+        "index": 57,
+        "start_time": 214835,
+        "end_time": 219615,
+        "text": "because pairing Person A with Person B\nis the same as pairing B with A,"
+    },
+    {
+        "index": 58,
+        "start_time": 219615,
+        "end_time": 221685,
+        "text": "so we divide by two."
+    },
+    {
+        "index": 59,
+        "start_time": 221685,
+        "end_time": 223045,
+        "text": "By the same reasoning,"
+    },
+    {
+        "index": 60,
+        "start_time": 223045,
+        "end_time": 225836,
+        "text": "a group of ten people has 45 pairs,"
+    },
+    {
+        "index": 61,
+        "start_time": 225836,
+        "end_time": 229835,
+        "text": "and a group of 23 has 253."
+    },
+    {
+        "index": 62,
+        "start_time": 229835,
+        "end_time": 232905,
+        "text": "The number of pairs grows quadratically,"
+    },
+    {
+        "index": 63,
+        "start_time": 232905,
+        "end_time": 237665,
+        "text": "meaning it&#39;s proportional to the square\nof the number of people in the group."
+    },
+    {
+        "index": 64,
+        "start_time": 237665,
+        "end_time": 240966,
+        "text": "Unfortunately, our brains \nare notoriously bad"
+    },
+    {
+        "index": 65,
+        "start_time": 240966,
+        "end_time": 244447,
+        "text": "at intuitively grasping \nnon-linear functions."
+    },
+    {
+        "index": 66,
+        "start_time": 244447,
+        "end_time": 251235,
+        "text": "So it seems improbable at first that 23\npeople could produce 253 possible pairs."
+    },
+    {
+        "index": 67,
+        "start_time": 251235,
+        "end_time": 255267,
+        "text": "Once our brains accept that,\nthe birthday problem makes more sense."
+    },
+    {
+        "index": 68,
+        "start_time": 255267,
+        "end_time": 260135,
+        "text": "Every one of those 253 pairs is a chance\nfor a birthday match."
+    },
+    {
+        "index": 69,
+        "start_time": 260135,
+        "end_time": 262897,
+        "text": "For the same reason,\nin a group of 70 people,"
+    },
+    {
+        "index": 70,
+        "start_time": 262897,
+        "end_time": 266616,
+        "text": "there are 2,415 possible pairs,"
+    },
+    {
+        "index": 71,
+        "start_time": 266616,
+        "end_time": 273337,
+        "text": "and the probability that two people\nhave the same birthday is more than 99.9%."
+    },
+    {
+        "index": 72,
+        "start_time": 273337,
+        "end_time": 276707,
+        "text": "The birthday problem is just one example\nwhere math can show"
+    },
+    {
+        "index": 73,
+        "start_time": 276707,
+        "end_time": 278917,
+        "text": "that things that seem impossible,"
+    },
+    {
+        "index": 74,
+        "start_time": 278917,
+        "end_time": 281410,
+        "text": "like the same person winning\nthe lottery twice,"
+    },
+    {
+        "index": 75,
+        "start_time": 281410,
+        "end_time": 284551,
+        "text": "actually aren&#39;t unlikely at all."
+    },
+    {
+        "index": 76,
+        "start_time": 284551,
+        "end_time": 288868,
+        "text": "Sometimes coincidences aren&#39;t\nas coincidental as they seem."
+    }
+]

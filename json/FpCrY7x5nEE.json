@@ -1,0 +1,494 @@
+[
+    {
+        "index": 1,
+        "start_time": 6664,
+        "end_time": 11023,
+        "text": "In 2011, a team of physicists reported\na startling discovery:"
+    },
+    {
+        "index": 2,
+        "start_time": 11023,
+        "end_time": 13544,
+        "text": "neutrinos traveled faster \nthan the speed of light"
+    },
+    {
+        "index": 3,
+        "start_time": 13544,
+        "end_time": 15885,
+        "text": "by 60 billionths of a second"
+    },
+    {
+        "index": 4,
+        "start_time": 15885,
+        "end_time": 20574,
+        "text": "in their 730 kilometer trip from Geneva\nto a detector in Italy."
+    },
+    {
+        "index": 5,
+        "start_time": 20574,
+        "end_time": 25316,
+        "text": "Despite six months of double checking,\nthe bizarre discovery refused to yield."
+    },
+    {
+        "index": 6,
+        "start_time": 25316,
+        "end_time": 27804,
+        "text": "But rather than celebrating \na physics revolution,"
+    },
+    {
+        "index": 7,
+        "start_time": 27804,
+        "end_time": 30075,
+        "text": "the researchers published a cautious paper"
+    },
+    {
+        "index": 8,
+        "start_time": 30075,
+        "end_time": 35103,
+        "text": "arguing for continued research in an\neffort to explain the observed anomaly."
+    },
+    {
+        "index": 9,
+        "start_time": 35103,
+        "end_time": 41274,
+        "text": "In time, the error was tracked to a single\nincorrectly connected fiber optic cable."
+    },
+    {
+        "index": 10,
+        "start_time": 41274,
+        "end_time": 45745,
+        "text": "This example reminds us that real\nscience is more than static textbooks."
+    },
+    {
+        "index": 11,
+        "start_time": 45745,
+        "end_time": 49646,
+        "text": "Instead, researchers around the world\nare continuously publishing"
+    },
+    {
+        "index": 12,
+        "start_time": 49646,
+        "end_time": 51265,
+        "text": "their latest discoveries"
+    },
+    {
+        "index": 13,
+        "start_time": 51265,
+        "end_time": 54965,
+        "text": "with each paper adding \nto the scientific conversation."
+    },
+    {
+        "index": 14,
+        "start_time": 54965,
+        "end_time": 57425,
+        "text": "Published studies \ncan motivate future research,"
+    },
+    {
+        "index": 15,
+        "start_time": 57425,
+        "end_time": 59223,
+        "text": "inspire new products,"
+    },
+    {
+        "index": 16,
+        "start_time": 59223,
+        "end_time": 61335,
+        "text": "and inform government policy."
+    },
+    {
+        "index": 17,
+        "start_time": 61335,
+        "end_time": 65144,
+        "text": "So it&#39;s important that we have confidence\nin the published results."
+    },
+    {
+        "index": 18,
+        "start_time": 65144,
+        "end_time": 66726,
+        "text": "If their conclusions are wrong,"
+    },
+    {
+        "index": 19,
+        "start_time": 66726,
+        "end_time": 67955,
+        "text": "we risk time,"
+    },
+    {
+        "index": 20,
+        "start_time": 67955,
+        "end_time": 69115,
+        "text": "resources,"
+    },
+    {
+        "index": 21,
+        "start_time": 69115,
+        "end_time": 72285,
+        "text": "and even our health in the pursuit\nof false leads."
+    },
+    {
+        "index": 22,
+        "start_time": 72285,
+        "end_time": 73914,
+        "text": "When findings are significant,"
+    },
+    {
+        "index": 23,
+        "start_time": 73914,
+        "end_time": 77005,
+        "text": "they are frequently double-checked\nby other researchers,"
+    },
+    {
+        "index": 24,
+        "start_time": 77005,
+        "end_time": 78996,
+        "text": "either by reanalyzing the data"
+    },
+    {
+        "index": 25,
+        "start_time": 78996,
+        "end_time": 81886,
+        "text": "or by redoing the entire experiment."
+    },
+    {
+        "index": 26,
+        "start_time": 81886,
+        "end_time": 85496,
+        "text": "For example, it took repeated \ninvestigation of the CERN data"
+    },
+    {
+        "index": 27,
+        "start_time": 85496,
+        "end_time": 88766,
+        "text": "before the timing error was tracked down."
+    },
+    {
+        "index": 28,
+        "start_time": 88766,
+        "end_time": 93206,
+        "text": "Unfortunately, there are currently neither\nthe resources nor professional incentives"
+    },
+    {
+        "index": 29,
+        "start_time": 93206,
+        "end_time": 98617,
+        "text": "to double check the more than 1 million\nscientific papers published annually."
+    },
+    {
+        "index": 30,
+        "start_time": 98617,
+        "end_time": 102725,
+        "text": "Even when papers are challenged,\nthe results are not reassuring."
+    },
+    {
+        "index": 31,
+        "start_time": 102725,
+        "end_time": 106297,
+        "text": "Recent studies that examined dozens\nof published pharmaceutical papers"
+    },
+    {
+        "index": 32,
+        "start_time": 106297,
+        "end_time": 110807,
+        "text": "managed to replicate the results of\nless than 25% of them."
+    },
+    {
+        "index": 33,
+        "start_time": 110807,
+        "end_time": 114587,
+        "text": "And similar results have been found\nin other scientific disciplines."
+    },
+    {
+        "index": 34,
+        "start_time": 114587,
+        "end_time": 118316,
+        "text": "There are a variety of sources \nfor irreproducible results."
+    },
+    {
+        "index": 35,
+        "start_time": 118316,
+        "end_time": 123597,
+        "text": "Errors could hide in their original\ndesign, execution, or analysis of the data."
+    },
+    {
+        "index": 36,
+        "start_time": 123597,
+        "end_time": 124807,
+        "text": "Unknown factors,"
+    },
+    {
+        "index": 37,
+        "start_time": 124807,
+        "end_time": 128237,
+        "text": "such as patients&#39; undisclosed condition\nin a medical study,"
+    },
+    {
+        "index": 38,
+        "start_time": 128237,
+        "end_time": 131909,
+        "text": "can produce results that are \nnot repeatable in new test subjects."
+    },
+    {
+        "index": 39,
+        "start_time": 131909,
+        "end_time": 135887,
+        "text": "And sometimes, the second research group\ncan&#39;t reproduce the original results"
+    },
+    {
+        "index": 40,
+        "start_time": 135887,
+        "end_time": 140368,
+        "text": "simply because they don&#39;t know\nexactly what the original group did."
+    },
+    {
+        "index": 41,
+        "start_time": 140368,
+        "end_time": 143730,
+        "text": "However, some problems might stem\nfrom systematic decisions"
+    },
+    {
+        "index": 42,
+        "start_time": 143730,
+        "end_time": 146018,
+        "text": "in how we do science."
+    },
+    {
+        "index": 43,
+        "start_time": 146018,
+        "end_time": 146918,
+        "text": "Researchers,"
+    },
+    {
+        "index": 44,
+        "start_time": 146918,
+        "end_time": 148548,
+        "text": "the institutions that employ them,"
+    },
+    {
+        "index": 45,
+        "start_time": 148548,
+        "end_time": 151258,
+        "text": "and the scientific journals \nthat publish findings"
+    },
+    {
+        "index": 46,
+        "start_time": 151258,
+        "end_time": 154688,
+        "text": "are expected to produce \nbig results frequently."
+    },
+    {
+        "index": 47,
+        "start_time": 154688,
+        "end_time": 157038,
+        "text": "Important papers can advance careers,"
+    },
+    {
+        "index": 48,
+        "start_time": 157038,
+        "end_time": 158964,
+        "text": "generate media interest,"
+    },
+    {
+        "index": 49,
+        "start_time": 158964,
+        "end_time": 161098,
+        "text": "and secure essential funding,"
+    },
+    {
+        "index": 50,
+        "start_time": 161098,
+        "end_time": 165478,
+        "text": "so there&#39;s slim motivation for researchers\nto challenge their own exciting results."
+    },
+    {
+        "index": 51,
+        "start_time": 165478,
+        "end_time": 167644,
+        "text": "In addition, little incentive exists"
+    },
+    {
+        "index": 52,
+        "start_time": 167644,
+        "end_time": 171608,
+        "text": "to publish results unsupportive\nof the expected hypothesis."
+    },
+    {
+        "index": 53,
+        "start_time": 171608,
+        "end_time": 175008,
+        "text": "That results in a deluge of agreement\nbetween what was expected"
+    },
+    {
+        "index": 54,
+        "start_time": 175008,
+        "end_time": 176615,
+        "text": "and what was found."
+    },
+    {
+        "index": 55,
+        "start_time": 176615,
+        "end_time": 180069,
+        "text": "In rare occasions, this can even lead\nto deliberate fabrication,"
+    },
+    {
+        "index": 56,
+        "start_time": 180069,
+        "end_time": 184779,
+        "text": "such as in 2013, when a researcher\nspiked rabbit blood with human blood"
+    },
+    {
+        "index": 57,
+        "start_time": 184779,
+        "end_time": 188888,
+        "text": "to give false evidence that \nhis HIV vaccine was working."
+    },
+    {
+        "index": 58,
+        "start_time": 188888,
+        "end_time": 190889,
+        "text": "The publish or perish mindset"
+    },
+    {
+        "index": 59,
+        "start_time": 190889,
+        "end_time": 195410,
+        "text": "can also compromise academic journals&#39;\ntraditional peer-review processes"
+    },
+    {
+        "index": 60,
+        "start_time": 195410,
+        "end_time": 196722,
+        "text": "which are safety checks"
+    },
+    {
+        "index": 61,
+        "start_time": 196722,
+        "end_time": 200459,
+        "text": "where experts examine submitted papers\nfor potential shortcomings."
+    },
+    {
+        "index": 62,
+        "start_time": 200459,
+        "end_time": 201540,
+        "text": "The current system,"
+    },
+    {
+        "index": 63,
+        "start_time": 201540,
+        "end_time": 204199,
+        "text": "which might involve only one\nor two reviewers,"
+    },
+    {
+        "index": 64,
+        "start_time": 204199,
+        "end_time": 206149,
+        "text": "can be woefully ineffective."
+    },
+    {
+        "index": 65,
+        "start_time": 206149,
+        "end_time": 208579,
+        "text": "That was demonstrated in a 1998 study"
+    },
+    {
+        "index": 66,
+        "start_time": 208579,
+        "end_time": 212649,
+        "text": "where eight weaknesses were deliberately\ninserted into papers,"
+    },
+    {
+        "index": 67,
+        "start_time": 212649,
+        "end_time": 216289,
+        "text": "but only around 25% \nwere caught upon review."
+    },
+    {
+        "index": 68,
+        "start_time": 216289,
+        "end_time": 220841,
+        "text": "Many scientists are working toward\nimproving reproducibility in their fields."
+    },
+    {
+        "index": 69,
+        "start_time": 220841,
+        "end_time": 222940,
+        "text": "There&#39;s a push to make researchers\nraw data,"
+    },
+    {
+        "index": 70,
+        "start_time": 222940,
+        "end_time": 224560,
+        "text": "experimental procedures,"
+    },
+    {
+        "index": 71,
+        "start_time": 224560,
+        "end_time": 227728,
+        "text": "and analytical techniques \nmore openly available"
+    },
+    {
+        "index": 72,
+        "start_time": 227728,
+        "end_time": 230560,
+        "text": "in order to ease replication efforts."
+    },
+    {
+        "index": 73,
+        "start_time": 230560,
+        "end_time": 233029,
+        "text": "The peer review process can also\nbe strengthened"
+    },
+    {
+        "index": 74,
+        "start_time": 233029,
+        "end_time": 237101,
+        "text": "to more efficiently weed out weak papers\nprior to publication."
+    },
+    {
+        "index": 75,
+        "start_time": 237101,
+        "end_time": 240020,
+        "text": "And we could temper the pressure\nto find big results"
+    },
+    {
+        "index": 76,
+        "start_time": 240020,
+        "end_time": 244191,
+        "text": "by publishing more papers that fail\nto confirm the original hypothesis,"
+    },
+    {
+        "index": 77,
+        "start_time": 244191,
+        "end_time": 248670,
+        "text": "an event that happens far more than\ncurrent scientific literature suggests."
+    },
+    {
+        "index": 78,
+        "start_time": 248670,
+        "end_time": 252311,
+        "text": "Science always has, and always will,\nencounter some false starts"
+    },
+    {
+        "index": 79,
+        "start_time": 252311,
+        "end_time": 255391,
+        "text": "as part of the collective acquisition\nof new knowledge."
+    },
+    {
+        "index": 80,
+        "start_time": 255391,
+        "end_time": 258310,
+        "text": "Finding ways to improve \nthe reproducibility of our results"
+    },
+    {
+        "index": 81,
+        "start_time": 258310,
+        "end_time": 261601,
+        "text": "can help us weed out those false starts\nmore effectively,"
+    },
+    {
+        "index": 82,
+        "start_time": 261601,
+        "end_time": 264672,
+        "text": "keeping us moving steadily toward\nexciting new discoveries."
+    }
+]

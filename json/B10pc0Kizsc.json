@@ -1,0 +1,494 @@
+[
+    {
+        "index": 1,
+        "start_time": 11950,
+        "end_time": 13518,
+        "text": "As far as we know,"
+    },
+    {
+        "index": 2,
+        "start_time": 13518,
+        "end_time": 19437,
+        "text": "there\u2019s only one thing in our solar system\nsophisticated enough to study itself:"
+    },
+    {
+        "index": 3,
+        "start_time": 19437,
+        "end_time": 21306,
+        "text": "the human brain."
+    },
+    {
+        "index": 4,
+        "start_time": 21306,
+        "end_time": 24354,
+        "text": "But this self-investigation \nis incredibly challenging;"
+    },
+    {
+        "index": 5,
+        "start_time": 24354,
+        "end_time": 27433,
+        "text": "a living brain is shielded \nby a thick skull,"
+    },
+    {
+        "index": 6,
+        "start_time": 27433,
+        "end_time": 30255,
+        "text": "swaddled in layers of protective tissue,"
+    },
+    {
+        "index": 7,
+        "start_time": 30255,
+        "end_time": 33356,
+        "text": "and made up of billions of tiny,\nconnected cells."
+    },
+    {
+        "index": 8,
+        "start_time": 33356,
+        "end_time": 38145,
+        "text": "That\u2019s why it\u2019s so difficult to isolate, \nobserve, and understand diseases"
+    },
+    {
+        "index": 9,
+        "start_time": 38145,
+        "end_time": 39814,
+        "text": "like Alzheimer\u2019s."
+    },
+    {
+        "index": 10,
+        "start_time": 39814,
+        "end_time": 44132,
+        "text": "So how do we study living brains \nwithout harming their owners?"
+    },
+    {
+        "index": 11,
+        "start_time": 44132,
+        "end_time": 47035,
+        "text": "We can use a trio of techniques \ncalled EEG,"
+    },
+    {
+        "index": 12,
+        "start_time": 47035,
+        "end_time": 48324,
+        "text": "fMRI,"
+    },
+    {
+        "index": 13,
+        "start_time": 48324,
+        "end_time": 49783,
+        "text": "and PET."
+    },
+    {
+        "index": 14,
+        "start_time": 49783,
+        "end_time": 53605,
+        "text": "Each measures something different \nand has its own strengths and weaknesses,"
+    },
+    {
+        "index": 15,
+        "start_time": 53605,
+        "end_time": 55895,
+        "text": "and we\u2019ll look at each in turn."
+    },
+    {
+        "index": 16,
+        "start_time": 55895,
+        "end_time": 59793,
+        "text": "First is EEG, or electroencephalography,"
+    },
+    {
+        "index": 17,
+        "start_time": 59793,
+        "end_time": 63122,
+        "text": "which measures electrical \nactivity in your brain."
+    },
+    {
+        "index": 18,
+        "start_time": 63122,
+        "end_time": 67562,
+        "text": "As brain cells communicate, \nthey produce waves of electricity."
+    },
+    {
+        "index": 19,
+        "start_time": 67562,
+        "end_time": 70955,
+        "text": "Electrodes placed on the skull pick\nup these waves,"
+    },
+    {
+        "index": 20,
+        "start_time": 70955,
+        "end_time": 74635,
+        "text": "and differences in the signals detected \nbetween electrodes"
+    },
+    {
+        "index": 21,
+        "start_time": 74635,
+        "end_time": 77706,
+        "text": "provide information \nabout what\u2019s happening."
+    },
+    {
+        "index": 22,
+        "start_time": 77706,
+        "end_time": 80554,
+        "text": "This technique was invented \nalmost 100 years ago,"
+    },
+    {
+        "index": 23,
+        "start_time": 80554,
+        "end_time": 85425,
+        "text": "and it\u2019s still used to diagnose conditions\nlike epilepsy and sleep disorders."
+    },
+    {
+        "index": 24,
+        "start_time": 85425,
+        "end_time": 88646,
+        "text": "It\u2019s also used to investigate what areas \nof the brain are active"
+    },
+    {
+        "index": 25,
+        "start_time": 88646,
+        "end_time": 91104,
+        "text": "during learning or paying attention."
+    },
+    {
+        "index": 26,
+        "start_time": 91104,
+        "end_time": 92755,
+        "text": "EEG is non-invasive,"
+    },
+    {
+        "index": 27,
+        "start_time": 92755,
+        "end_time": 94446,
+        "text": "relatively inexpensive,"
+    },
+    {
+        "index": 28,
+        "start_time": 94446,
+        "end_time": 96064,
+        "text": "and fast:"
+    },
+    {
+        "index": 29,
+        "start_time": 96064,
+        "end_time": 99426,
+        "text": "it can measure changes that occur \nin just milliseconds."
+    },
+    {
+        "index": 30,
+        "start_time": 99426,
+        "end_time": 101822,
+        "text": "Unfortunately, it\u2019s hard to determine"
+    },
+    {
+        "index": 31,
+        "start_time": 101822,
+        "end_time": 105184,
+        "text": "exactly where any particular \npattern originates."
+    },
+    {
+        "index": 32,
+        "start_time": 105184,
+        "end_time": 108775,
+        "text": "Electrical signals are generated \nconstantly all over the brain"
+    },
+    {
+        "index": 33,
+        "start_time": 108775,
+        "end_time": 112766,
+        "text": "and they interact with each other to\nproduce complex patterns."
+    },
+    {
+        "index": 34,
+        "start_time": 112766,
+        "end_time": 117066,
+        "text": "Using more electrodes or sophisticated \ndata-processing algorithms can help."
+    },
+    {
+        "index": 35,
+        "start_time": 117066,
+        "end_time": 123366,
+        "text": "But in the end, while EEG can tell you \nprecisely when certain activity occurs,"
+    },
+    {
+        "index": 36,
+        "start_time": 123366,
+        "end_time": 126394,
+        "text": "it can\u2019t tell you precisely where."
+    },
+    {
+        "index": 37,
+        "start_time": 126394,
+        "end_time": 128604,
+        "text": "To do that, you\u2019d need another technique,"
+    },
+    {
+        "index": 38,
+        "start_time": 128604,
+        "end_time": 133125,
+        "text": "such as functional magnetic \nresonance imaging, or fMRI."
+    },
+    {
+        "index": 39,
+        "start_time": 133125,
+        "end_time": 137734,
+        "text": "fMRI measures how quickly oxygen \nis consumed by brain cells."
+    },
+    {
+        "index": 40,
+        "start_time": 137734,
+        "end_time": 141161,
+        "text": "Active areas of the brain use\noxygen more quickly."
+    },
+    {
+        "index": 41,
+        "start_time": 141161,
+        "end_time": 146353,
+        "text": "So watching an fMRI scan while a person\ncompletes cognitive or behavioral tasks"
+    },
+    {
+        "index": 42,
+        "start_time": 146353,
+        "end_time": 150775,
+        "text": "can provide information about which \nregions of the brain might be involved."
+    },
+    {
+        "index": 43,
+        "start_time": 150775,
+        "end_time": 153644,
+        "text": "That allows us to study everything\nfrom how we see faces"
+    },
+    {
+        "index": 44,
+        "start_time": 153644,
+        "end_time": 156228,
+        "text": "to how we understand what we\u2019re feeling."
+    },
+    {
+        "index": 45,
+        "start_time": 156228,
+        "end_time": 161603,
+        "text": "fMRI can pinpoint differences in brain\nactivity to within a few millimeters,"
+    },
+    {
+        "index": 46,
+        "start_time": 161603,
+        "end_time": 164775,
+        "text": "but it\u2019s thousands \nof times slower than EEG."
+    },
+    {
+        "index": 47,
+        "start_time": 164775,
+        "end_time": 166504,
+        "text": "Using the two techniques together"
+    },
+    {
+        "index": 48,
+        "start_time": 166504,
+        "end_time": 170632,
+        "text": "can help show when,\nand where, neural activity is occurring."
+    },
+    {
+        "index": 49,
+        "start_time": 170632,
+        "end_time": 176145,
+        "text": "The third, even more precise, technique\nis called positron emission tomography"
+    },
+    {
+        "index": 50,
+        "start_time": 176145,
+        "end_time": 180335,
+        "text": "and it measures radioactive elements \nintroduced into the brain."
+    },
+    {
+        "index": 51,
+        "start_time": 180335,
+        "end_time": 183474,
+        "text": "That sounds much scarier \nthan it actually is;"
+    },
+    {
+        "index": 52,
+        "start_time": 183474,
+        "end_time": 188010,
+        "text": "PET scans, like fMRI and EEG, \nare completely safe."
+    },
+    {
+        "index": 53,
+        "start_time": 188010,
+        "end_time": 193026,
+        "text": "During a PET scan, a small amount\nof radioactive material called a tracer"
+    },
+    {
+        "index": 54,
+        "start_time": 193026,
+        "end_time": 195256,
+        "text": "is injected into the bloodstream,"
+    },
+    {
+        "index": 55,
+        "start_time": 195256,
+        "end_time": 199015,
+        "text": "and doctors monitor its\ncirculation through the brain."
+    },
+    {
+        "index": 56,
+        "start_time": 199015,
+        "end_time": 202433,
+        "text": "By modifying the tracer\nto bind to specific molecules,"
+    },
+    {
+        "index": 57,
+        "start_time": 202433,
+        "end_time": 207083,
+        "text": "researchers can use PET to study \nthe complex chemistry in our brains."
+    },
+    {
+        "index": 58,
+        "start_time": 207083,
+        "end_time": 209906,
+        "text": "It\u2019s useful for studying \nhow drugs affect the brain"
+    },
+    {
+        "index": 59,
+        "start_time": 209906,
+        "end_time": 212863,
+        "text": "and detecting diseases like Alzheimer\u2019s."
+    },
+    {
+        "index": 60,
+        "start_time": 212863,
+        "end_time": 216025,
+        "text": "But this technique has \nthe lowest time resolution of all"
+    },
+    {
+        "index": 61,
+        "start_time": 216025,
+        "end_time": 220773,
+        "text": "because it takes minutes for the tracer \nto circulate and changes to show up."
+    },
+    {
+        "index": 62,
+        "start_time": 220773,
+        "end_time": 224565,
+        "text": "These techniques collectively \nhelp doctors and scientists"
+    },
+    {
+        "index": 63,
+        "start_time": 224565,
+        "end_time": 227909,
+        "text": "connect what happens in the\nbrain with our behavior."
+    },
+    {
+        "index": 64,
+        "start_time": 227909,
+        "end_time": 231165,
+        "text": "But they\u2019re also limited \nby how much we still don&#39;t know."
+    },
+    {
+        "index": 65,
+        "start_time": 231165,
+        "end_time": 235513,
+        "text": "For example, let&#39;s say researchers are\ninterested in studying how memory works."
+    },
+    {
+        "index": 66,
+        "start_time": 235513,
+        "end_time": 240464,
+        "text": "After asking 50 participants to memorize \na series of images while in MRI scanners,"
+    },
+    {
+        "index": 67,
+        "start_time": 240464,
+        "end_time": 243035,
+        "text": "the researchers might analyze the results"
+    },
+    {
+        "index": 68,
+        "start_time": 243035,
+        "end_time": 245774,
+        "text": "and discover a number \nof active brain regions."
+    },
+    {
+        "index": 69,
+        "start_time": 245774,
+        "end_time": 249125,
+        "text": "Making a link between memory \nand specific parts of the brain"
+    },
+    {
+        "index": 70,
+        "start_time": 249125,
+        "end_time": 251041,
+        "text": "is an important step forward."
+    },
+    {
+        "index": 71,
+        "start_time": 251041,
+        "end_time": 252766,
+        "text": "But future research would be necessary"
+    },
+    {
+        "index": 72,
+        "start_time": 252766,
+        "end_time": 255595,
+        "text": "to better understand \nwhat\u2019s happening in each region,"
+    },
+    {
+        "index": 73,
+        "start_time": 255595,
+        "end_time": 257024,
+        "text": "how they work together,"
+    },
+    {
+        "index": 74,
+        "start_time": 257024,
+        "end_time": 260226,
+        "text": "and whether the activity is because \nof their involvement in memory"
+    },
+    {
+        "index": 75,
+        "start_time": 260226,
+        "end_time": 263804,
+        "text": "or another process \noccurring simultaneously."
+    },
+    {
+        "index": 76,
+        "start_time": 263804,
+        "end_time": 266645,
+        "text": "More advanced imaging \nand analysis technology"
+    },
+    {
+        "index": 77,
+        "start_time": 266645,
+        "end_time": 269647,
+        "text": "might one day provide \nmore accurate results"
+    },
+    {
+        "index": 78,
+        "start_time": 269647,
+        "end_time": 270724,
+        "text": "and even distinguish"
+    },
+    {
+        "index": 79,
+        "start_time": 270724,
+        "end_time": 273214,
+        "text": "the activity of individual neurons."
+    },
+    {
+        "index": 80,
+        "start_time": 273214,
+        "end_time": 277485,
+        "text": "Until then, our brains will\nkeep measuring, analyzing, and innovating"
+    },
+    {
+        "index": 81,
+        "start_time": 277485,
+        "end_time": 279475,
+        "text": "in pursuit of that quest to understand"
+    },
+    {
+        "index": 82,
+        "start_time": 279475,
+        "end_time": 282675,
+        "text": "one of the most remarkable things \nwe\u2019ve ever encountered."
+    }
+]

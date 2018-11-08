@@ -1,0 +1,470 @@
+[
+  {
+    "end_time": 1870,
+    "index": 1,
+    "start_time": 0,
+    "text": "- Has this ever happened to you?"
+  },
+  {
+    "end_time": 4100,
+    "index": 2,
+    "start_time": 2720,
+    "text": "You&#39;re not alone."
+  },
+  {
+    "end_time": 5989,
+    "index": 3,
+    "start_time": 4100,
+    "text": "Apple, Google and other companies"
+  },
+  {
+    "end_time": 9380,
+    "index": 4,
+    "start_time": 5990,
+    "text": "have gotten rid of the headphone\njack from their phones."
+  },
+  {
+    "end_time": 12610,
+    "index": 5,
+    "start_time": 9380,
+    "text": "This is pushing people\ntowards wireless headphones,"
+  },
+  {
+    "end_time": 14170,
+    "index": 6,
+    "start_time": 12610,
+    "text": "which means they&#39;ll have to rely"
+  },
+  {
+    "end_time": 15930,
+    "index": 7,
+    "start_time": 14170,
+    "text": "on that Bluetooth connection."
+  },
+  {
+    "end_time": 18240,
+    "index": 8,
+    "start_time": 15930,
+    "text": "The Bluetooth is still so unreliable."
+  },
+  {
+    "end_time": 21549,
+    "index": 9,
+    "start_time": 18240,
+    "text": "Its got a short range,\ndevices disconnect randomly"
+  },
+  {
+    "end_time": 23540,
+    "index": 10,
+    "start_time": 21550,
+    "text": "and it uses up battery life."
+  },
+  {
+    "end_time": 26310,
+    "index": 11,
+    "start_time": 23540,
+    "text": "Even thought it&#39;s been\naround for 20 years,"
+  },
+  {
+    "end_time": 32770,
+    "index": 12,
+    "start_time": 28730,
+    "text": "Bluetooth is a wireless standard\nused all around the world."
+  },
+  {
+    "end_time": 35550,
+    "index": 13,
+    "start_time": 32770,
+    "text": "Wireless printers,\nkeyboards, game controllers,"
+  },
+  {
+    "end_time": 38669,
+    "index": 14,
+    "start_time": 35550,
+    "text": "speakers and headphones all use it."
+  },
+  {
+    "end_time": 41330,
+    "index": 15,
+    "start_time": 38670,
+    "text": "It was created by a group of\nengineers in the mid &#39;90&#39;s"
+  },
+  {
+    "end_time": 44870,
+    "index": 16,
+    "start_time": 41330,
+    "text": "as a secure way to exchange\ndata between devices,"
+  },
+  {
+    "end_time": 46900,
+    "index": 17,
+    "start_time": 44870,
+    "text": "the Bluetooth name and logo come from"
+  },
+  {
+    "end_time": 50230,
+    "index": 18,
+    "start_time": 46900,
+    "text": "10th century viking king\nHarald Gormsson who,"
+  },
+  {
+    "end_time": 51900,
+    "index": 19,
+    "start_time": 50230,
+    "text": "similar to Bluetooth&#39;s purpose,"
+  },
+  {
+    "end_time": 56901,
+    "index": 20,
+    "start_time": 51901,
+    "text": "unified two separate\nentities, Denmark and Norway."
+  },
+  {
+    "end_time": 59410,
+    "index": 21,
+    "start_time": 57030,
+    "text": "King Harald&#39;s nickname was Blatand,"
+  },
+  {
+    "end_time": 62419,
+    "index": 22,
+    "start_time": 59410,
+    "text": "which translates from Danish to Bluetooth."
+  },
+  {
+    "end_time": 66260,
+    "index": 23,
+    "start_time": 62420,
+    "text": "The logo comes from the\ninitials of King Harald Blatand."
+  },
+  {
+    "end_time": 69740,
+    "index": 24,
+    "start_time": 66270,
+    "text": "It is a combination of\nthe runic letters H and B."
+  },
+  {
+    "end_time": 73620,
+    "index": 25,
+    "start_time": 69747,
+    "text": "Bluetooth uses the 2.4 gigahertz frequency"
+  },
+  {
+    "end_time": 75690,
+    "index": 26,
+    "start_time": 73620,
+    "text": "to communicate with other devices."
+  },
+  {
+    "end_time": 78380,
+    "index": 27,
+    "start_time": 75690,
+    "text": "This frequency and a few\nothers are referred to"
+  },
+  {
+    "end_time": 81509,
+    "index": 28,
+    "start_time": 78380,
+    "text": "as the ISM band, for Industrial,"
+  },
+  {
+    "end_time": 83960,
+    "index": 29,
+    "start_time": 81510,
+    "text": "Scientific and Medical devices."
+  },
+  {
+    "end_time": 86089,
+    "index": 30,
+    "start_time": 83960,
+    "text": "This is the spectrum that baby monitors"
+  },
+  {
+    "end_time": 88340,
+    "index": 31,
+    "start_time": 86090,
+    "text": "and cordless phones all use."
+  },
+  {
+    "end_time": 89680,
+    "index": 32,
+    "start_time": 88340,
+    "text": "It&#39;s also the same frequency,"
+  },
+  {
+    "end_time": 92420,
+    "index": 33,
+    "start_time": 89680,
+    "text": "fluorescent lights and microwaves omit."
+  },
+  {
+    "end_time": 94670,
+    "index": 34,
+    "start_time": 92420,
+    "text": "These frequencies don&#39;t require devices"
+  },
+  {
+    "end_time": 97460,
+    "index": 35,
+    "start_time": 94670,
+    "text": "to have an FCC license to operate on them."
+  },
+  {
+    "end_time": 100229,
+    "index": 36,
+    "start_time": 97460,
+    "text": "This makes the band\nattractive to manufacturers"
+  },
+  {
+    "end_time": 102410,
+    "index": 37,
+    "start_time": 100230,
+    "text": "because they don&#39;t have\nto deal with the FCC."
+  },
+  {
+    "end_time": 105348,
+    "index": 38,
+    "start_time": 102410,
+    "text": "Because of this, the ISM\nis brimming with devices."
+  },
+  {
+    "end_time": 108550,
+    "index": 39,
+    "start_time": 105349,
+    "text": "And they all interfere with\nyour Bluetooth devices."
+  },
+  {
+    "end_time": 110429,
+    "index": 40,
+    "start_time": 108550,
+    "text": "Any device running on Bluetooth,"
+  },
+  {
+    "end_time": 112970,
+    "index": 41,
+    "start_time": 110430,
+    "text": "falls into one of three classes."
+  },
+  {
+    "end_time": 116640,
+    "index": 42,
+    "start_time": 112970,
+    "text": "Class one, for long range,\nthese need a power supply,"
+  },
+  {
+    "end_time": 119069,
+    "index": 43,
+    "start_time": 116640,
+    "text": "and are mainly used for\nindustrial purposes."
+  },
+  {
+    "end_time": 122370,
+    "index": 44,
+    "start_time": 119069,
+    "text": "They have a range of nearly 330 feet."
+  },
+  {
+    "end_time": 125680,
+    "index": 45,
+    "start_time": 122370,
+    "text": "Class two, they have a\nrange of about 30 feet."
+  },
+  {
+    "end_time": 128550,
+    "index": 46,
+    "start_time": 125680,
+    "text": "This is what most\ncellphones and speakers use."
+  },
+  {
+    "end_time": 131890,
+    "index": 47,
+    "start_time": 128550,
+    "text": "Class three devices have a\nrange of less than 30 feet."
+  },
+  {
+    "end_time": 133489,
+    "index": 48,
+    "start_time": 131890,
+    "text": "Class two and three devices"
+  },
+  {
+    "end_time": 135689,
+    "index": 49,
+    "start_time": 133490,
+    "text": "generally use low power Bluetooth."
+  },
+  {
+    "end_time": 137650,
+    "index": 50,
+    "start_time": 135689,
+    "text": "But even low power can use"
+  },
+  {
+    "end_time": 140120,
+    "index": 51,
+    "start_time": 137650,
+    "text": "a precious battery life on your phone."
+  },
+  {
+    "end_time": 141800,
+    "index": 52,
+    "start_time": 140120,
+    "text": "And if you have a class two speaker,"
+  },
+  {
+    "end_time": 143800,
+    "index": 53,
+    "start_time": 141800,
+    "text": "20 feet away from your phone,"
+  },
+  {
+    "end_time": 145710,
+    "index": 54,
+    "start_time": 143800,
+    "text": "it still may not work great."
+  },
+  {
+    "end_time": 147540,
+    "index": 55,
+    "start_time": 145710,
+    "text": "Especially if there&#39;s any interference"
+  },
+  {
+    "end_time": 149160,
+    "index": 56,
+    "start_time": 147540,
+    "text": "coming from other devices."
+  },
+  {
+    "end_time": 153116,
+    "index": 57,
+    "start_time": 149160,
+    "text": "Bluetooth also transfers data\nmuch slower than WiFi does."
+  },
+  {
+    "end_time": 156980,
+    "index": 58,
+    "start_time": 153116,
+    "text": "While devices connected via\nthe new WiFi Direct standard"
+  },
+  {
+    "end_time": 160540,
+    "index": 59,
+    "start_time": 156980,
+    "text": "will be able to transfer data\nat 250 megabits per second,"
+  },
+  {
+    "end_time": 162530,
+    "index": 60,
+    "start_time": 160540,
+    "text": "Bluetooth 4.0 can only get up"
+  },
+  {
+    "end_time": 165470,
+    "index": 61,
+    "start_time": 162530,
+    "text": "to 25 megabits per second max."
+  },
+  {
+    "end_time": 168740,
+    "index": 62,
+    "start_time": 165470,
+    "text": "There&#39;s no superfix for these\nissues coming anytime soon."
+  },
+  {
+    "end_time": 170450,
+    "index": 63,
+    "start_time": 168740,
+    "text": "But if you want to improve the connection"
+  },
+  {
+    "end_time": 173750,
+    "index": 64,
+    "start_time": 170450,
+    "text": "between two devices, there\nare a few things you can do."
+  },
+  {
+    "end_time": 176800,
+    "index": 65,
+    "start_time": 173750,
+    "text": "Keep the devices as close\ntogether as possible."
+  },
+  {
+    "end_time": 178460,
+    "index": 66,
+    "start_time": 176800,
+    "text": "Keep your devices updated."
+  },
+  {
+    "end_time": 181270,
+    "index": 67,
+    "start_time": 179430,
+    "text": "Reset your connections daily."
+  },
+  {
+    "end_time": 186790,
+    "index": 68,
+    "start_time": 183330,
+    "text": "Or even use a device that can\namplify a Bluetooth signal."
+  },
+  {
+    "end_time": 188403,
+    "index": 69,
+    "start_time": 186790,
+    "text": "While there&#39;s no sure fix yet,"
+  },
+  {
+    "end_time": 191530,
+    "index": 70,
+    "start_time": 188403,
+    "text": "some companies are taking\nmatters into their own hands,"
+  },
+  {
+    "end_time": 194660,
+    "index": 71,
+    "start_time": 191530,
+    "text": "developing technology that\nworks a lot like Bluetooth."
+  },
+  {
+    "end_time": 197570,
+    "index": 72,
+    "start_time": 194660,
+    "text": "Apple&#39;s W1 chip enables its AirPods"
+  },
+  {
+    "end_time": 199680,
+    "index": 73,
+    "start_time": 197570,
+    "text": "to switch to whatever device you&#39;re using,"
+  },
+  {
+    "end_time": 202510,
+    "index": 74,
+    "start_time": 199681,
+    "text": "rather than having to unpair and re-pair"
+  },
+  {
+    "end_time": 204399,
+    "index": 75,
+    "start_time": 202510,
+    "text": "the devices each time."
+  },
+  {
+    "end_time": 206120,
+    "index": 76,
+    "start_time": 204400,
+    "text": "Will we start seeing other companies"
+  },
+  {
+    "end_time": 208600,
+    "index": 77,
+    "start_time": 206130,
+    "text": "take wireless communication\ninto their hands?"
+  },
+  {
+    "end_time": 210683,
+    "index": 78,
+    "start_time": 208611,
+    "text": "We&#39;ll just have to wait and see."
+  }
+]

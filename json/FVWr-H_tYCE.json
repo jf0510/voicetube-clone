@@ -1,0 +1,266 @@
+[
+  {
+    "end_time": 6793,
+    "index": 1,
+    "start_time": 2503,
+    "text": "Can you give me a non-techie Objective-C vs\nSwift comparison?"
+  },
+  {
+    "end_time": 13023,
+    "index": 2,
+    "start_time": 6793,
+    "text": "Objective-C is what Apple has had its OS written\nin for years. Swift is what Apple now says"
+  },
+  {
+    "end_time": 16332,
+    "index": 3,
+    "start_time": 13023,
+    "text": "they want their OS written in for next year\nand beyond."
+  },
+  {
+    "end_time": 19333,
+    "index": 4,
+    "start_time": 16332,
+    "text": "Objective C has a reputation for being hard."
+  },
+  {
+    "end_time": 25673,
+    "index": 5,
+    "start_time": 19333,
+    "text": "It is. It is the C language, with its complicated\nsyntax and grammar, with a lot of classes"
+  },
+  {
+    "end_time": 29942,
+    "index": 6,
+    "start_time": 25673,
+    "text": "and manipulations to make a functional language\nan object oriented one."
+  },
+  {
+    "end_time": 31343,
+    "index": 7,
+    "start_time": 29942,
+    "text": "How is Swift different?"
+  },
+  {
+    "end_time": 36372,
+    "index": 8,
+    "start_time": 31343,
+    "text": "Swift is a new language designed from the\nbeginning to be object oriented. It is expected"
+  },
+  {
+    "end_time": 41843,
+    "index": 9,
+    "start_time": 36372,
+    "text": "to be a lot easier to create commands, classes,\nreferences and so forth with objects."
+  },
+  {
+    "end_time": 46793,
+    "index": 10,
+    "start_time": 41843,
+    "text": "I would not object to that. So why is not\nSwift getting picked up faster?"
+  },
+  {
+    "end_time": 52292,
+    "index": 11,
+    "start_time": 46793,
+    "text": "Google came out with Go and Dart. Go gets\nused by Google for applications on its concurrent"
+  },
+  {
+    "end_time": 55952,
+    "index": 12,
+    "start_time": 52292,
+    "text": "servers, but Dart missed the mark and is almost\nnever used."
+  },
+  {
+    "end_time": 58192,
+    "index": 13,
+    "start_time": 55952,
+    "text": "Swift is mandated by Apple."
+  },
+  {
+    "end_time": 63382,
+    "index": 14,
+    "start_time": 58192,
+    "text": "But a lot of their stuff is already done in\nObjective C. And a lot of new projects will"
+  },
+  {
+    "end_time": 67172,
+    "index": 15,
+    "start_time": 63382,
+    "text": "still be done in Objective C, because that\u2019s\nwhat the programmers know."
+  },
+  {
+    "end_time": 73042,
+    "index": 16,
+    "start_time": 67172,
+    "text": "It is also the language of the code modules\nthey can pull from to build new stuff quickly."
+  },
+  {
+    "end_time": 78742,
+    "index": 17,
+    "start_time": 73043,
+    "text": "Unless Swift is like Scala, where you can\nplug in Java code and it still works in Scala"
+  },
+  {
+    "end_time": 79293,
+    "index": 18,
+    "start_time": 78742,
+    "text": "programs."
+  },
+  {
+    "end_time": 83302,
+    "index": 19,
+    "start_time": 79293,
+    "text": "The methods and properties and so forth are\npretty much the same."
+  },
+  {
+    "end_time": 89713,
+    "index": 20,
+    "start_time": 83302,
+    "text": "In theory, there\u2019s no difference between\nreality and theory. In reality, there is."
+  },
+  {
+    "end_time": 95433,
+    "index": 21,
+    "start_time": 89713,
+    "text": "Objective C has the benefit of being established,\nand almost all code and all third party libraries"
+  },
+  {
+    "end_time": 96802,
+    "index": 22,
+    "start_time": 95433,
+    "text": "are in Objective C."
+  },
+  {
+    "end_time": 100692,
+    "index": 23,
+    "start_time": 96802,
+    "text": "So learning Swift won\u2019t make me first out\nof the gate to get a programming job."
+  },
+  {
+    "end_time": 105973,
+    "index": 24,
+    "start_time": 100692,
+    "text": "Even with the 2014 roll-out of Swift, the\nuser community is small, so there are not"
+  },
+  {
+    "end_time": 111713,
+    "index": 25,
+    "start_time": 105973,
+    "text": "as many online resources or question and answers\non Stackoverflow to help you get good with"
+  },
+  {
+    "end_time": 111963,
+    "index": 26,
+    "start_time": 111713,
+    "text": "it."
+  },
+  {
+    "end_time": 116161,
+    "index": 27,
+    "start_time": 111952,
+    "text": "But rewriting all the existing code in Swift\nwould provide employment."
+  },
+  {
+    "end_time": 122122,
+    "index": 28,
+    "start_time": 116162,
+    "text": "In the future, sure. But right now, only Apple\nhires people with Swift knowledge to develop"
+  },
+  {
+    "end_time": 125552,
+    "index": 29,
+    "start_time": 122122,
+    "text": "the iOS8 and Yosemite OSX."
+  },
+  {
+    "end_time": 127543,
+    "index": 30,
+    "start_time": 125552,
+    "text": "Not too different from Objective C."
+  },
+  {
+    "end_time": 132113,
+    "index": 31,
+    "start_time": 127543,
+    "text": "If you want to work today, learn Objective\nC first and then learn Swift."
+  },
+  {
+    "end_time": 137632,
+    "index": 32,
+    "start_time": 132113,
+    "text": "Because I have to know both to convert them\nanyway. What are the major differences between"
+  },
+  {
+    "end_time": 138123,
+    "index": 33,
+    "start_time": 137632,
+    "text": "them?"
+  },
+  {
+    "end_time": 143932,
+    "index": 34,
+    "start_time": 138123,
+    "text": "Swift is a beta language, so it may change.\nFor example, Swift\u2019s developers said they"
+  },
+  {
+    "end_time": 146843,
+    "index": 35,
+    "start_time": 143932,
+    "text": "probably have to change its syntax and behavior."
+  },
+  {
+    "end_time": 150363,
+    "index": 36,
+    "start_time": 146843,
+    "text": "I cannot learn something that\u2019s always changing\nlike that."
+  },
+  {
+    "end_time": 154902,
+    "index": 37,
+    "start_time": 150363,
+    "text": "There have already been a lot of changes to\nSwift, and it is going to change more. It"
+  },
+  {
+    "end_time": 158472,
+    "index": 38,
+    "start_time": 154902,
+    "text": "is having problems in testing with auto-complete\nand syntax."
+  },
+  {
+    "end_time": 163663,
+    "index": 39,
+    "start_time": 158473,
+    "text": "So wait to learn Swift until there\u2019s a final\nversion, just so I do not get obsolete in"
+  },
+  {
+    "end_time": 164873,
+    "index": 40,
+    "start_time": 163663,
+    "text": "an old version."
+  },
+  {
+    "end_time": 169373,
+    "index": 41,
+    "start_time": 164873,
+    "text": "The worst part is that the Swift code you\nwrite today could be obsolete with the final"
+  },
+  {
+    "end_time": 172533,
+    "index": 42,
+    "start_time": 169373,
+    "text": "version of Swift, when they officially have\nSwift 1.0."
+  },
+  {
+    "end_time": 178162,
+    "index": 43,
+    "start_time": 172533,
+    "text": "So learn Objective C today to get to work,\nand wait until Swift actually works before"
+  },
+  {
+    "end_time": 179523,
+    "index": 44,
+    "start_time": 178163,
+    "text": "trying to learn how to work in it."
+  }
+]

@@ -1,0 +1,488 @@
+[
+    {
+        "index": 1,
+        "start_time": 7026,
+        "end_time": 10044,
+        "text": "Suppose you placed a camera\nat a fixed position,"
+    },
+    {
+        "index": 2,
+        "start_time": 10044,
+        "end_time": 11587,
+        "text": "took a picture of the sky"
+    },
+    {
+        "index": 3,
+        "start_time": 11587,
+        "end_time": 15040,
+        "text": "at the same time everyday \nfor an entire year"
+    },
+    {
+        "index": 4,
+        "start_time": 15040,
+        "end_time": 18612,
+        "text": "and overlayed all of the photos \non top of each other."
+    },
+    {
+        "index": 5,
+        "start_time": 18612,
+        "end_time": 21630,
+        "text": "What would the sun look like\nin that combined image?"
+    },
+    {
+        "index": 6,
+        "start_time": 21630,
+        "end_time": 23033,
+        "text": "A stationary dot?"
+    },
+    {
+        "index": 7,
+        "start_time": 23033,
+        "end_time": 24711,
+        "text": "A circular path?"
+    },
+    {
+        "index": 8,
+        "start_time": 24711,
+        "end_time": 25702,
+        "text": "Neither."
+    },
+    {
+        "index": 9,
+        "start_time": 25702,
+        "end_time": 28531,
+        "text": "Oddly enough, it makes this \nfigure eight pattern,"
+    },
+    {
+        "index": 10,
+        "start_time": 28531,
+        "end_time": 30559,
+        "text": "known as the Sun&#39;s analemma,"
+    },
+    {
+        "index": 11,
+        "start_time": 30559,
+        "end_time": 32380,
+        "text": "but why?"
+    },
+    {
+        "index": 12,
+        "start_time": 32380,
+        "end_time": 35012,
+        "text": "The Earth&#39;s movement \ncreates a few cycles."
+    },
+    {
+        "index": 13,
+        "start_time": 35012,
+        "end_time": 39318,
+        "text": "First of all, it rotates on its axis\nabout once every 24 hours,"
+    },
+    {
+        "index": 14,
+        "start_time": 39318,
+        "end_time": 41982,
+        "text": "producing sunrises and sunsets."
+    },
+    {
+        "index": 15,
+        "start_time": 41982,
+        "end_time": 44737,
+        "text": "At the same time,\nit&#39;s making a much slower cycle,"
+    },
+    {
+        "index": 16,
+        "start_time": 44737,
+        "end_time": 49817,
+        "text": "orbiting around the sun\napproximately every 365 days."
+    },
+    {
+        "index": 17,
+        "start_time": 49817,
+        "end_time": 51071,
+        "text": "But there&#39;s a twist."
+    },
+    {
+        "index": 18,
+        "start_time": 51071,
+        "end_time": 53161,
+        "text": "Relative to the plane of its orbit,"
+    },
+    {
+        "index": 19,
+        "start_time": 53161,
+        "end_time": 57396,
+        "text": "the Earth doesn&#39;t spin \nwith the North Pole pointing straight up."
+    },
+    {
+        "index": 20,
+        "start_time": 57396,
+        "end_time": 62857,
+        "text": "Instead, its axis has a constant tilt\nof 23.4 degrees."
+    },
+    {
+        "index": 21,
+        "start_time": 62857,
+        "end_time": 66842,
+        "text": "This is known as the Earth&#39;s axial tilt,\nor obliquity."
+    },
+    {
+        "index": 22,
+        "start_time": 66842,
+        "end_time": 69860,
+        "text": "A 23-degree tilt may not seem important,"
+    },
+    {
+        "index": 23,
+        "start_time": 69860,
+        "end_time": 73820,
+        "text": "but it&#39;s the main reason that\nwe experience different seasons."
+    },
+    {
+        "index": 24,
+        "start_time": 73820,
+        "end_time": 76695,
+        "text": "Because the axis remains tilted\nin the same direction"
+    },
+    {
+        "index": 25,
+        "start_time": 76695,
+        "end_time": 79064,
+        "text": "while the Earth makes its annual orbit,"
+    },
+    {
+        "index": 26,
+        "start_time": 79064,
+        "end_time": 80781,
+        "text": "there are long periods each year"
+    },
+    {
+        "index": 27,
+        "start_time": 80781,
+        "end_time": 84601,
+        "text": "when the northern half of the planet\nremains tilted toward the Sun"
+    },
+    {
+        "index": 28,
+        "start_time": 84601,
+        "end_time": 87200,
+        "text": "while the southern half is tilted away"
+    },
+    {
+        "index": 29,
+        "start_time": 87200,
+        "end_time": 88346,
+        "text": "and vice versa,"
+    },
+    {
+        "index": 30,
+        "start_time": 88346,
+        "end_time": 91949,
+        "text": "what we experience as summer and winter."
+    },
+    {
+        "index": 31,
+        "start_time": 91949,
+        "end_time": 93999,
+        "text": "During summer in a given hemisphere,"
+    },
+    {
+        "index": 32,
+        "start_time": 93999,
+        "end_time": 98707,
+        "text": "the Sun appears higher in the sky,\nmaking the days longer and warmer."
+    },
+    {
+        "index": 33,
+        "start_time": 98707,
+        "end_time": 100908,
+        "text": "Once a year, the Sun&#39;s declination,"
+    },
+    {
+        "index": 34,
+        "start_time": 100908,
+        "end_time": 102682,
+        "text": "the angle between the equator"
+    },
+    {
+        "index": 35,
+        "start_time": 102682,
+        "end_time": 106691,
+        "text": "and the position on the Earth\nwhere the Sun appears directly overhead"
+    },
+    {
+        "index": 36,
+        "start_time": 106691,
+        "end_time": 108464,
+        "text": "reaches its maximum."
+    },
+    {
+        "index": 37,
+        "start_time": 108464,
+        "end_time": 113382,
+        "text": "This day is known as the summer solstice,\nthe longest day of the year,"
+    },
+    {
+        "index": 38,
+        "start_time": 113382,
+        "end_time": 117134,
+        "text": "and the one day where the Sun \nappears highest in the sky."
+    },
+    {
+        "index": 39,
+        "start_time": 117134,
+        "end_time": 118863,
+        "text": "So the Earth&#39;s axial tilt"
+    },
+    {
+        "index": 40,
+        "start_time": 118863,
+        "end_time": 122790,
+        "text": "partially explains why the Sun \nchanges positions in the sky"
+    },
+    {
+        "index": 41,
+        "start_time": 122790,
+        "end_time": 124217,
+        "text": "and the analemma&#39;s length"
+    },
+    {
+        "index": 42,
+        "start_time": 124217,
+        "end_time": 129249,
+        "text": "represents the full 46.8 degrees\nof the sun&#39;s declination"
+    },
+    {
+        "index": 43,
+        "start_time": 129249,
+        "end_time": 130655,
+        "text": "throughout the year."
+    },
+    {
+        "index": 44,
+        "start_time": 130655,
+        "end_time": 133903,
+        "text": "But why is it a figure eight\nand not just a straight line?"
+    },
+    {
+        "index": 45,
+        "start_time": 133903,
+        "end_time": 137116,
+        "text": "This is due to another feature\nof the Earth&#39;s revolution,"
+    },
+    {
+        "index": 46,
+        "start_time": 137116,
+        "end_time": 139463,
+        "text": "its orbital eccentricity."
+    },
+    {
+        "index": 47,
+        "start_time": 139463,
+        "end_time": 142190,
+        "text": "The Earth&#39;s orbit around the Sun\nis an ellipse,"
+    },
+    {
+        "index": 48,
+        "start_time": 142190,
+        "end_time": 146042,
+        "text": "with its distance to the Sun\nchanging at various points."
+    },
+    {
+        "index": 49,
+        "start_time": 146042,
+        "end_time": 148777,
+        "text": "The corresponding change\nin gravitational force"
+    },
+    {
+        "index": 50,
+        "start_time": 148777,
+        "end_time": 152306,
+        "text": "causes the Earth to move \nfastest in January"
+    },
+    {
+        "index": 51,
+        "start_time": 152306,
+        "end_time": 154809,
+        "text": "when it reaches \nits closest point to the Sun,"
+    },
+    {
+        "index": 52,
+        "start_time": 154809,
+        "end_time": 156346,
+        "text": "the perihelion,"
+    },
+    {
+        "index": 53,
+        "start_time": 156346,
+        "end_time": 160234,
+        "text": "and the slowest in July\nwhen it reaches its farthest point,"
+    },
+    {
+        "index": 54,
+        "start_time": 160234,
+        "end_time": 162616,
+        "text": "the aphelion."
+    },
+    {
+        "index": 55,
+        "start_time": 162616,
+        "end_time": 165151,
+        "text": "The Earth&#39;s eccentricity \nmeans that solar noon,"
+    },
+    {
+        "index": 56,
+        "start_time": 165151,
+        "end_time": 167788,
+        "text": "the time when the Sun \nis highest in the sky,"
+    },
+    {
+        "index": 57,
+        "start_time": 167788,
+        "end_time": 170968,
+        "text": "doesn&#39;t always occur \nat the same point in the day."
+    },
+    {
+        "index": 58,
+        "start_time": 170968,
+        "end_time": 174410,
+        "text": "So a sundial may be as much\nas sixteen minutes ahead"
+    },
+    {
+        "index": 59,
+        "start_time": 174410,
+        "end_time": 178187,
+        "text": "or fourteen minutes behind\na regular clock."
+    },
+    {
+        "index": 60,
+        "start_time": 178187,
+        "end_time": 184202,
+        "text": "In fact, clock time and Sun time\nonly match four times a year."
+    },
+    {
+        "index": 61,
+        "start_time": 184202,
+        "end_time": 188620,
+        "text": "The analemma&#39;s width represents\nthe extent of this deviation."
+    },
+    {
+        "index": 62,
+        "start_time": 188620,
+        "end_time": 191736,
+        "text": "So how did people know \nthe correct time years ago?"
+    },
+    {
+        "index": 63,
+        "start_time": 191736,
+        "end_time": 193635,
+        "text": "For most of human history,"
+    },
+    {
+        "index": 64,
+        "start_time": 193635,
+        "end_time": 196334,
+        "text": "going by the Sun&#39;s position\nwas close enough."
+    },
+    {
+        "index": 65,
+        "start_time": 196334,
+        "end_time": 197844,
+        "text": "But during the modern era,"
+    },
+    {
+        "index": 66,
+        "start_time": 197844,
+        "end_time": 202085,
+        "text": "the difference between sundials\nand mechanical clocks became important."
+    },
+    {
+        "index": 67,
+        "start_time": 202085,
+        "end_time": 205423,
+        "text": "The equation of time, \nintroduced by Ptolemy"
+    },
+    {
+        "index": 68,
+        "start_time": 205423,
+        "end_time": 208439,
+        "text": "and later refined based \non the work of Johannes Kepler,"
+    },
+    {
+        "index": 69,
+        "start_time": 208439,
+        "end_time": 214417,
+        "text": "converts between apparent solar time and\nthe mean time we&#39;ve all come to rely on."
+    },
+    {
+        "index": 70,
+        "start_time": 214417,
+        "end_time": 217847,
+        "text": "Globes even used to have \nthe analemma printed on them"
+    },
+    {
+        "index": 71,
+        "start_time": 217847,
+        "end_time": 220004,
+        "text": "to allow people to determine \nthe difference"
+    },
+    {
+        "index": 72,
+        "start_time": 220004,
+        "end_time": 224563,
+        "text": "between clock time and solar time\nbased on the day of the year."
+    },
+    {
+        "index": 73,
+        "start_time": 224563,
+        "end_time": 228679,
+        "text": "Just how the analemma appears\ndepends upon where you are."
+    },
+    {
+        "index": 74,
+        "start_time": 228679,
+        "end_time": 231759,
+        "text": "It will be tilted at an angle\ndepending on your latitude"
+    },
+    {
+        "index": 75,
+        "start_time": 231759,
+        "end_time": 234227,
+        "text": "or inverted if you&#39;re in \nthe southern hemisphere."
+    },
+    {
+        "index": 76,
+        "start_time": 234227,
+        "end_time": 235778,
+        "text": "And if you&#39;re on another planet,"
+    },
+    {
+        "index": 77,
+        "start_time": 235778,
+        "end_time": 238378,
+        "text": "you might find something \ncompletely different."
+    },
+    {
+        "index": 78,
+        "start_time": 238378,
+        "end_time": 241844,
+        "text": "Depending on that planet&#39;s \norbital eccentricity and axial tilt,"
+    },
+    {
+        "index": 79,
+        "start_time": 241844,
+        "end_time": 244351,
+        "text": "the analemma might appear as a tear drop,"
+    },
+    {
+        "index": 80,
+        "start_time": 244351,
+        "end_time": 245255,
+        "text": "oval,"
+    },
+    {
+        "index": 81,
+        "start_time": 245255,
+        "end_time": 247137,
+        "text": "or even a straight line."
+    }
+]

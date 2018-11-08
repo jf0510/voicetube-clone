@@ -1,0 +1,26 @@
+[
+  {
+    "end_time": 15969,
+    "index": 1,
+    "start_time": 14010,
+    "text": "This\ufeff here is my sector."
+  },
+  {
+    "end_time": 18000,
+    "index": 2,
+    "start_time": 15970,
+    "text": "This here is the most important device of the coast guard."
+  },
+  {
+    "end_time": 20009,
+    "index": 3,
+    "start_time": 18000,
+    "text": "This device, this device..."
+  },
+  {
+    "end_time": 22080,
+    "index": 4,
+    "start_time": 20010,
+    "text": "... survival radar."
+  }
+]

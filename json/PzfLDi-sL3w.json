@@ -1,0 +1,542 @@
+[
+    {
+        "index": 1,
+        "start_time": 7595,
+        "end_time": 10575,
+        "text": "It starts with a cough,"
+    },
+    {
+        "index": 2,
+        "start_time": 10575,
+        "end_time": 12051,
+        "text": "or a wheeze."
+    },
+    {
+        "index": 3,
+        "start_time": 12051,
+        "end_time": 14374,
+        "text": "Soon, your chest feels tight."
+    },
+    {
+        "index": 4,
+        "start_time": 14374,
+        "end_time": 17216,
+        "text": "Your breathing speeds up\nand gets shallower,"
+    },
+    {
+        "index": 5,
+        "start_time": 17216,
+        "end_time": 19594,
+        "text": "making you feel short of breath."
+    },
+    {
+        "index": 6,
+        "start_time": 19594,
+        "end_time": 23385,
+        "text": "These are common symptoms\nof an asthma attack."
+    },
+    {
+        "index": 7,
+        "start_time": 23385,
+        "end_time": 27746,
+        "text": "Around the world, more than 300 million\npeople suffer from asthma,"
+    },
+    {
+        "index": 8,
+        "start_time": 27746,
+        "end_time": 32423,
+        "text": "and around 250,000 people \ndie from it each year."
+    },
+    {
+        "index": 9,
+        "start_time": 32423,
+        "end_time": 37627,
+        "text": "But why do people get asthma\nand how can this disease be deadly?"
+    },
+    {
+        "index": 10,
+        "start_time": 37627,
+        "end_time": 39904,
+        "text": "Asthma affects the respiratory system,"
+    },
+    {
+        "index": 11,
+        "start_time": 39904,
+        "end_time": 42378,
+        "text": "particularly the smaller airways,"
+    },
+    {
+        "index": 12,
+        "start_time": 42378,
+        "end_time": 45415,
+        "text": "such as the bronchi and bronchioles."
+    },
+    {
+        "index": 13,
+        "start_time": 45415,
+        "end_time": 48816,
+        "text": "These airways have an inner lining\ncalled the mucosa"
+    },
+    {
+        "index": 14,
+        "start_time": 48816,
+        "end_time": 52436,
+        "text": "that&#39;s surrounded \nby a layer of smooth muscle."
+    },
+    {
+        "index": 15,
+        "start_time": 52436,
+        "end_time": 56366,
+        "text": "In people with asthma, the airways\nare chronically inflamed,"
+    },
+    {
+        "index": 16,
+        "start_time": 56366,
+        "end_time": 60097,
+        "text": "which can make them hyper-responsive\nto certain triggers."
+    },
+    {
+        "index": 17,
+        "start_time": 60097,
+        "end_time": 63297,
+        "text": "Some of the many asthma triggers\ninclude tobacco smoke,"
+    },
+    {
+        "index": 18,
+        "start_time": 63297,
+        "end_time": 64425,
+        "text": "pollen,"
+    },
+    {
+        "index": 19,
+        "start_time": 64425,
+        "end_time": 65212,
+        "text": "dust,"
+    },
+    {
+        "index": 20,
+        "start_time": 65212,
+        "end_time": 66137,
+        "text": "fragrances,"
+    },
+    {
+        "index": 21,
+        "start_time": 66137,
+        "end_time": 67066,
+        "text": "exercise,"
+    },
+    {
+        "index": 22,
+        "start_time": 67066,
+        "end_time": 68096,
+        "text": "cold weather,"
+    },
+    {
+        "index": 23,
+        "start_time": 68096,
+        "end_time": 69698,
+        "text": "stress,"
+    },
+    {
+        "index": 24,
+        "start_time": 69698,
+        "end_time": 71476,
+        "text": "and even the common cold."
+    },
+    {
+        "index": 25,
+        "start_time": 71476,
+        "end_time": 74917,
+        "text": "When people with asthma are exposed\nto these triggers,"
+    },
+    {
+        "index": 26,
+        "start_time": 74917,
+        "end_time": 79537,
+        "text": "an asthma attack, or exacerbation,\ncan occur."
+    },
+    {
+        "index": 27,
+        "start_time": 79537,
+        "end_time": 84608,
+        "text": "But how exactly do such everyday factors\nlead to an asthma attack?"
+    },
+    {
+        "index": 28,
+        "start_time": 84608,
+        "end_time": 86997,
+        "text": "If an asthmatic is exposed to a trigger,"
+    },
+    {
+        "index": 29,
+        "start_time": 86997,
+        "end_time": 90967,
+        "text": "the smooth rings of muscle that circle\nthe small airways in their lungs"
+    },
+    {
+        "index": 30,
+        "start_time": 90967,
+        "end_time": 93748,
+        "text": "contract and become narrow."
+    },
+    {
+        "index": 31,
+        "start_time": 93748,
+        "end_time": 96928,
+        "text": "Simultaneously, the trigger\nworsens inflammation,"
+    },
+    {
+        "index": 32,
+        "start_time": 96928,
+        "end_time": 100047,
+        "text": "causing the mucosal lining\nto become more swollen"
+    },
+    {
+        "index": 33,
+        "start_time": 100047,
+        "end_time": 102697,
+        "text": "and secrete more mucus."
+    },
+    {
+        "index": 34,
+        "start_time": 102697,
+        "end_time": 104188,
+        "text": "Under normal conditions,"
+    },
+    {
+        "index": 35,
+        "start_time": 104188,
+        "end_time": 109498,
+        "text": "the body uses this mucus to trap\nand clear particles, like pollen or dust,"
+    },
+    {
+        "index": 36,
+        "start_time": 109498,
+        "end_time": 111233,
+        "text": "but during an asthma attack,"
+    },
+    {
+        "index": 37,
+        "start_time": 111233,
+        "end_time": 117528,
+        "text": "it blocks the narrowed airways,\nmaking it even harder to breathe."
+    },
+    {
+        "index": 38,
+        "start_time": 117528,
+        "end_time": 120639,
+        "text": "These effects lead \nto this symptoms of asthma."
+    },
+    {
+        "index": 39,
+        "start_time": 120639,
+        "end_time": 124969,
+        "text": "Smooth muscle constriction results\nin the feeling of chest tightness."
+    },
+    {
+        "index": 40,
+        "start_time": 124969,
+        "end_time": 128639,
+        "text": "Excess mucus and increased inflammation\ncan cause coughing."
+    },
+    {
+        "index": 41,
+        "start_time": 128639,
+        "end_time": 130050,
+        "text": "And the wheezing noise?"
+    },
+    {
+        "index": 42,
+        "start_time": 130050,
+        "end_time": 132579,
+        "text": "That happens because \nas the airways constrict,"
+    },
+    {
+        "index": 43,
+        "start_time": 132579,
+        "end_time": 138469,
+        "text": "air whistles as it passes through\nthe narrowed space."
+    },
+    {
+        "index": 44,
+        "start_time": 138469,
+        "end_time": 142189,
+        "text": "These symptoms may make a person\nfeel like they&#39;re running out of air."
+    },
+    {
+        "index": 45,
+        "start_time": 142189,
+        "end_time": 145277,
+        "text": "Yet counterintuitively, \nduring an asthma attack,"
+    },
+    {
+        "index": 46,
+        "start_time": 145277,
+        "end_time": 149459,
+        "text": "the inflammation can make it harder\nto exhale than inhale."
+    },
+    {
+        "index": 47,
+        "start_time": 149459,
+        "end_time": 153589,
+        "text": "Over time, this leads to an excess\nof air in the lungs,"
+    },
+    {
+        "index": 48,
+        "start_time": 153589,
+        "end_time": 156339,
+        "text": "a phenomenon known as hyperinflation."
+    },
+    {
+        "index": 49,
+        "start_time": 156339,
+        "end_time": 160531,
+        "text": "The trapping of air inside the lungs\nforces the body to work harder"
+    },
+    {
+        "index": 50,
+        "start_time": 160531,
+        "end_time": 163283,
+        "text": "to move air in and out of them."
+    },
+    {
+        "index": 51,
+        "start_time": 163283,
+        "end_time": 169353,
+        "text": "Over time, this can lead to reduced oxygen\ndelivery to the body&#39;s organs and tissues."
+    },
+    {
+        "index": 52,
+        "start_time": 169353,
+        "end_time": 172670,
+        "text": "Sometimes, in untreated \nsevere asthma attacks,"
+    },
+    {
+        "index": 53,
+        "start_time": 172670,
+        "end_time": 174529,
+        "text": "the body can&#39;t keep up,"
+    },
+    {
+        "index": 54,
+        "start_time": 174529,
+        "end_time": 178099,
+        "text": "which can lead to death from\nlack of oxygen."
+    },
+    {
+        "index": 55,
+        "start_time": 178099,
+        "end_time": 181880,
+        "text": "So how do we prevent these uncomfortable\nand potentially fatal attacks"
+    },
+    {
+        "index": 56,
+        "start_time": 181880,
+        "end_time": 184029,
+        "text": "in people who have asthma?"
+    },
+    {
+        "index": 57,
+        "start_time": 184029,
+        "end_time": 187388,
+        "text": "One way is to reduce the presence\nof triggers."
+    },
+    {
+        "index": 58,
+        "start_time": 187388,
+        "end_time": 190353,
+        "text": "Unfortunately, the world \nis an unpredictable place"
+    },
+    {
+        "index": 59,
+        "start_time": 190353,
+        "end_time": 193893,
+        "text": "and exposure to triggers can&#39;t\nalways be controlled."
+    },
+    {
+        "index": 60,
+        "start_time": 193893,
+        "end_time": 198717,
+        "text": "This is where inhalers, the primary\ntreatment for asthma, come in."
+    },
+    {
+        "index": 61,
+        "start_time": 198717,
+        "end_time": 203690,
+        "text": "These medications help asthmatics both\ncontrol and prevent their asthma symptoms."
+    },
+    {
+        "index": 62,
+        "start_time": 203690,
+        "end_time": 207419,
+        "text": "Inhalers transport medication along\nthe affected airways"
+    },
+    {
+        "index": 63,
+        "start_time": 207419,
+        "end_time": 213071,
+        "text": "using a liquid mist or fine powder\nto treat the problem at its source."
+    },
+    {
+        "index": 64,
+        "start_time": 213071,
+        "end_time": 215018,
+        "text": "They come in two forms."
+    },
+    {
+        "index": 65,
+        "start_time": 215018,
+        "end_time": 216754,
+        "text": "There are reliever medications,"
+    },
+    {
+        "index": 66,
+        "start_time": 216754,
+        "end_time": 220802,
+        "text": "which treat symptoms immediately\nand contain beta-agonists."
+    },
+    {
+        "index": 67,
+        "start_time": 220802,
+        "end_time": 223911,
+        "text": "Beta-agonists relax constricted muslces,"
+    },
+    {
+        "index": 68,
+        "start_time": 223911,
+        "end_time": 230132,
+        "text": "allowing the airways to widen so more air\ncan travel into and out of the lungs."
+    },
+    {
+        "index": 69,
+        "start_time": 230132,
+        "end_time": 233609,
+        "text": "The other form of inhalers serve\nas preventive medications,"
+    },
+    {
+        "index": 70,
+        "start_time": 233609,
+        "end_time": 236363,
+        "text": "which treat asthma symptoms\nover the long term,"
+    },
+    {
+        "index": 71,
+        "start_time": 236363,
+        "end_time": 238572,
+        "text": "and contain corticosteroids."
+    },
+    {
+        "index": 72,
+        "start_time": 238572,
+        "end_time": 242943,
+        "text": "Corticosteroids reduce airway sensitivity\nand inflammation,"
+    },
+    {
+        "index": 73,
+        "start_time": 242943,
+        "end_time": 245763,
+        "text": "so asthma can be kept under control."
+    },
+    {
+        "index": 74,
+        "start_time": 245763,
+        "end_time": 248544,
+        "text": "They&#39;re also crucial in preventing\nlong-term damage"
+    },
+    {
+        "index": 75,
+        "start_time": 248544,
+        "end_time": 250090,
+        "text": "from chronic inflammation,"
+    },
+    {
+        "index": 76,
+        "start_time": 250090,
+        "end_time": 252272,
+        "text": "which can cause scarring of the airways."
+    },
+    {
+        "index": 77,
+        "start_time": 252272,
+        "end_time": 255044,
+        "text": "Inhalers are known to be very effective,"
+    },
+    {
+        "index": 78,
+        "start_time": 255044,
+        "end_time": 257873,
+        "text": "and have helped many people\nlive better lives."
+    },
+    {
+        "index": 79,
+        "start_time": 257873,
+        "end_time": 260581,
+        "text": "Although we&#39;ve come a long way\nin improving how we treat"
+    },
+    {
+        "index": 80,
+        "start_time": 260581,
+        "end_time": 262563,
+        "text": "and diagnose asthma,"
+    },
+    {
+        "index": 81,
+        "start_time": 262563,
+        "end_time": 264770,
+        "text": "we still don&#39;t know its exact causes."
+    },
+    {
+        "index": 82,
+        "start_time": 264770,
+        "end_time": 269402,
+        "text": "We currently believe that a combination\nof genetic and environmental factors"
+    },
+    {
+        "index": 83,
+        "start_time": 269402,
+        "end_time": 270681,
+        "text": "play a role,"
+    },
+    {
+        "index": 84,
+        "start_time": 270681,
+        "end_time": 273715,
+        "text": "potentially acting during early childhood."
+    },
+    {
+        "index": 85,
+        "start_time": 273715,
+        "end_time": 277734,
+        "text": "Recent research has even linked\npoverty to asthma incidents."
+    },
+    {
+        "index": 86,
+        "start_time": 277734,
+        "end_time": 279465,
+        "text": "This may be due to reasons ranging"
+    },
+    {
+        "index": 87,
+        "start_time": 279465,
+        "end_time": 283139,
+        "text": "from exposure to additional pollutants\nand environmental irritants"
+    },
+    {
+        "index": 88,
+        "start_time": 283139,
+        "end_time": 286975,
+        "text": "to difficulties in obtaining medical care\nor treatment."
+    },
+    {
+        "index": 89,
+        "start_time": 286975,
+        "end_time": 289135,
+        "text": "As our understanding of asthma improves,"
+    },
+    {
+        "index": 90,
+        "start_time": 289135,
+        "end_time": 293973,
+        "text": "we can continue to find better ways to\nkeep people&#39;s airways happy and healthy."
+    }
+]

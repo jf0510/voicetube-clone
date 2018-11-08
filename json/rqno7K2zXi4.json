@@ -1,0 +1,488 @@
+[
+    {
+        "index": 1,
+        "start_time": 6857,
+        "end_time": 10397,
+        "text": "Is there a disease \nthat makes us love cats,"
+    },
+    {
+        "index": 2,
+        "start_time": 10397,
+        "end_time": 12450,
+        "text": "and do you have it?"
+    },
+    {
+        "index": 3,
+        "start_time": 12450,
+        "end_time": 13570,
+        "text": "Maybe,"
+    },
+    {
+        "index": 4,
+        "start_time": 13570,
+        "end_time": 16011,
+        "text": "and it&#39;s more likely than you&#39;d think."
+    },
+    {
+        "index": 5,
+        "start_time": 16011,
+        "end_time": 18486,
+        "text": "We&#39;re talking about toxoplasmosis,"
+    },
+    {
+        "index": 6,
+        "start_time": 18486,
+        "end_time": 22608,
+        "text": "a disease caused by toxoplasma gondii."
+    },
+    {
+        "index": 7,
+        "start_time": 22608,
+        "end_time": 27450,
+        "text": "Like all parasites, toxoplasma lives\nat the expense of its host,"
+    },
+    {
+        "index": 8,
+        "start_time": 27450,
+        "end_time": 30451,
+        "text": "and needs its host to produce offspring."
+    },
+    {
+        "index": 9,
+        "start_time": 30451,
+        "end_time": 35042,
+        "text": "To do that, toxo orchestrates a brain\nmanipulation scheme"
+    },
+    {
+        "index": 10,
+        "start_time": 35042,
+        "end_time": 36354,
+        "text": "involving cats,"
+    },
+    {
+        "index": 11,
+        "start_time": 36354,
+        "end_time": 37666,
+        "text": "their rodent prey,"
+    },
+    {
+        "index": 12,
+        "start_time": 37666,
+        "end_time": 40978,
+        "text": "and virtually all other birds and mammals,"
+    },
+    {
+        "index": 13,
+        "start_time": 40978,
+        "end_time": 43083,
+        "text": "including humans."
+    },
+    {
+        "index": 14,
+        "start_time": 43083,
+        "end_time": 47856,
+        "text": "Documented human infections go as far back\nas ancient Egypt."
+    },
+    {
+        "index": 15,
+        "start_time": 47856,
+        "end_time": 50605,
+        "text": "We found samples in mummies."
+    },
+    {
+        "index": 16,
+        "start_time": 50605,
+        "end_time": 54478,
+        "text": "Today, about a third of the world&#39;s\npopulation is infected,"
+    },
+    {
+        "index": 17,
+        "start_time": 54478,
+        "end_time": 57260,
+        "text": "and most of them never even know it."
+    },
+    {
+        "index": 18,
+        "start_time": 57260,
+        "end_time": 60760,
+        "text": "In healthy people, symptoms often\ndon&#39;t show up at all."
+    },
+    {
+        "index": 19,
+        "start_time": 60760,
+        "end_time": 64197,
+        "text": "When they do, they&#39;re mild and flu-like."
+    },
+    {
+        "index": 20,
+        "start_time": 64197,
+        "end_time": 66833,
+        "text": "But those are just the physical symptoms."
+    },
+    {
+        "index": 21,
+        "start_time": 66833,
+        "end_time": 70477,
+        "text": "Toxoplasma also nestles into our brains"
+    },
+    {
+        "index": 22,
+        "start_time": 70477,
+        "end_time": 74149,
+        "text": "and meddles with our behavior\nbehind the scenes."
+    },
+    {
+        "index": 23,
+        "start_time": 74149,
+        "end_time": 78928,
+        "text": "To understand why, let&#39;s take a look\nat the parasite&#39;s life cycle."
+    },
+    {
+        "index": 24,
+        "start_time": 78928,
+        "end_time": 82677,
+        "text": "While the parasite can multiply\nin practically any host,"
+    },
+    {
+        "index": 25,
+        "start_time": 82677,
+        "end_time": 87298,
+        "text": "it can only reproduce sexually\nin the intestines of cats."
+    },
+    {
+        "index": 26,
+        "start_time": 87298,
+        "end_time": 91678,
+        "text": "The offspring, called oocysts,\nare shed in the cat&#39;s feces."
+    },
+    {
+        "index": 27,
+        "start_time": 91678,
+        "end_time": 96270,
+        "text": "A single cat can shed up to \na hundred million oocysts."
+    },
+    {
+        "index": 28,
+        "start_time": 96270,
+        "end_time": 100728,
+        "text": "If another animal, like a mouse,\naccidentally ingests them,"
+    },
+    {
+        "index": 29,
+        "start_time": 100728,
+        "end_time": 105486,
+        "text": "they&#39;ll invade the mouse&#39;s tissues\nand mature to form tissue cysts."
+    },
+    {
+        "index": 30,
+        "start_time": 105486,
+        "end_time": 107792,
+        "text": "If the mouse gets eaten by a cat,"
+    },
+    {
+        "index": 31,
+        "start_time": 107792,
+        "end_time": 111198,
+        "text": "the tissue cysts become active\nand release offspring"
+    },
+    {
+        "index": 32,
+        "start_time": 111198,
+        "end_time": 114076,
+        "text": "that mate to form new oocysts,"
+    },
+    {
+        "index": 33,
+        "start_time": 114076,
+        "end_time": 115698,
+        "text": "completing the cycle."
+    },
+    {
+        "index": 34,
+        "start_time": 115698,
+        "end_time": 116865,
+        "text": "But there&#39;s a problem."
+    },
+    {
+        "index": 35,
+        "start_time": 116865,
+        "end_time": 121476,
+        "text": "A mouse&#39;s natural desire to avoid\na cat makes it tough to close this loop."
+    },
+    {
+        "index": 36,
+        "start_time": 121476,
+        "end_time": 124762,
+        "text": "Toxoplasma has a solution for that."
+    },
+    {
+        "index": 37,
+        "start_time": 124762,
+        "end_time": 130230,
+        "text": "The parasites invade white blood cells\nto hitch a ride to the brain"
+    },
+    {
+        "index": 38,
+        "start_time": 130230,
+        "end_time": 134260,
+        "text": "where they seem to override the innate\nfear of predators."
+    },
+    {
+        "index": 39,
+        "start_time": 134260,
+        "end_time": 139178,
+        "text": "Infected rodents are more reckless\nand have slower reaction times."
+    },
+    {
+        "index": 40,
+        "start_time": 139178,
+        "end_time": 144479,
+        "text": "Strangest of all, they&#39;re actually\nattracted to feline urine,"
+    },
+    {
+        "index": 41,
+        "start_time": 144479,
+        "end_time": 148263,
+        "text": "which probably makes them more likely\nto cross paths with a cat"
+    },
+    {
+        "index": 42,
+        "start_time": 148263,
+        "end_time": 151363,
+        "text": "and help the parasite \ncomplete its life cycle."
+    },
+    {
+        "index": 43,
+        "start_time": 151363,
+        "end_time": 153791,
+        "text": "How does the parasite pull this off?"
+    },
+    {
+        "index": 44,
+        "start_time": 153791,
+        "end_time": 158837,
+        "text": "Although the exact mechanism isn&#39;t known,\ntoxo appears to increase dopamine,"
+    },
+    {
+        "index": 45,
+        "start_time": 158837,
+        "end_time": 164013,
+        "text": "a brain neurotransmitter that is involved\nin novelty-seeking behavior."
+    },
+    {
+        "index": 46,
+        "start_time": 164013,
+        "end_time": 168859,
+        "text": "Thus, one idea is that toxo tinkers\nwith neurotransmitters,"
+    },
+    {
+        "index": 47,
+        "start_time": 168859,
+        "end_time": 172226,
+        "text": "the chemical signals \nthat modulate emotions."
+    },
+    {
+        "index": 48,
+        "start_time": 172226,
+        "end_time": 173332,
+        "text": "The result?"
+    },
+    {
+        "index": 49,
+        "start_time": 173332,
+        "end_time": 175041,
+        "text": "Fatal attraction."
+    },
+    {
+        "index": 50,
+        "start_time": 175041,
+        "end_time": 178704,
+        "text": "But mice aren&#39;t the only animals\nthat end up with these parasites,"
+    },
+    {
+        "index": 51,
+        "start_time": 178704,
+        "end_time": 183791,
+        "text": "and that&#39;s where humans,\nand all of toxo&#39;s other hosts, come in."
+    },
+    {
+        "index": 52,
+        "start_time": 183791,
+        "end_time": 188984,
+        "text": "We can accidentally ingest oocysts\nin contaminated water,"
+    },
+    {
+        "index": 53,
+        "start_time": 188984,
+        "end_time": 190855,
+        "text": "or unwashed produce,"
+    },
+    {
+        "index": 54,
+        "start_time": 190855,
+        "end_time": 192892,
+        "text": "or from playing in sandboxes,"
+    },
+    {
+        "index": 55,
+        "start_time": 192892,
+        "end_time": 195362,
+        "text": "or cleaning out litter boxes."
+    },
+    {
+        "index": 56,
+        "start_time": 195362,
+        "end_time": 200825,
+        "text": "This is behind the common recommendation\nthat pregnant women not change cat litter."
+    },
+    {
+        "index": 57,
+        "start_time": 200825,
+        "end_time": 203709,
+        "text": "Toxo can cause serious birth defects."
+    },
+    {
+        "index": 58,
+        "start_time": 203709,
+        "end_time": 206679,
+        "text": "We can also get toxo \nfrom eating undercooked meat"
+    },
+    {
+        "index": 59,
+        "start_time": 206679,
+        "end_time": 210512,
+        "text": "from other animals that picked up\nsome oocysts."
+    },
+    {
+        "index": 60,
+        "start_time": 210512,
+        "end_time": 214060,
+        "text": "And it turns out that toxo can mess with\nour brains, too."
+    },
+    {
+        "index": 61,
+        "start_time": 214060,
+        "end_time": 218292,
+        "text": "Studies have found connections between\ntoxo and schizophrenia,"
+    },
+    {
+        "index": 62,
+        "start_time": 218292,
+        "end_time": 219768,
+        "text": "biopolar disorder,"
+    },
+    {
+        "index": 63,
+        "start_time": 219768,
+        "end_time": 221643,
+        "text": "obsessive compulsive disorder,"
+    },
+    {
+        "index": 64,
+        "start_time": 221643,
+        "end_time": 223638,
+        "text": "and aggression."
+    },
+    {
+        "index": 65,
+        "start_time": 223638,
+        "end_time": 227326,
+        "text": "It also slows reactions \nand decreases concentration,"
+    },
+    {
+        "index": 66,
+        "start_time": 227326,
+        "end_time": 231727,
+        "text": "which may be why one study found\nthat people involved in traffic accidents"
+    },
+    {
+        "index": 67,
+        "start_time": 231727,
+        "end_time": 236846,
+        "text": "were almost three times more likely\nto have toxoplasma."
+    },
+    {
+        "index": 68,
+        "start_time": 236846,
+        "end_time": 241919,
+        "text": "So is toxo manipulating our brains\nas an evolutionary strategy"
+    },
+    {
+        "index": 69,
+        "start_time": 241919,
+        "end_time": 245792,
+        "text": "to get predatory cats to eat us?"
+    },
+    {
+        "index": 70,
+        "start_time": 245792,
+        "end_time": 249367,
+        "text": "Or are our brains just similar enough\nto a rodent&#39;s"
+    },
+    {
+        "index": 71,
+        "start_time": 249367,
+        "end_time": 255140,
+        "text": "that the same neurological tricks that\nlure them in catch us in the net, too?"
+    },
+    {
+        "index": 72,
+        "start_time": 255140,
+        "end_time": 261196,
+        "text": "And is toxo the reason so many people\nlove cats and keep them as pets?"
+    },
+    {
+        "index": 73,
+        "start_time": 261196,
+        "end_time": 263888,
+        "text": "Well, the jury&#39;s still out on that one."
+    },
+    {
+        "index": 74,
+        "start_time": 263888,
+        "end_time": 266697,
+        "text": "Some recent studies \neven contradict the idea."
+    },
+    {
+        "index": 75,
+        "start_time": 266697,
+        "end_time": 271358,
+        "text": "Regardless, toxoplasma has definitely\nbenefited from humans"
+    },
+    {
+        "index": 76,
+        "start_time": 271358,
+        "end_time": 274422,
+        "text": "to become one of the world&#39;s \nmost successful parasites."
+    },
+    {
+        "index": 77,
+        "start_time": 274422,
+        "end_time": 278355,
+        "text": "It&#39;s not just our willingness to let\ncats on our dining room tables"
+    },
+    {
+        "index": 78,
+        "start_time": 278355,
+        "end_time": 279793,
+        "text": "or in our beds."
+    },
+    {
+        "index": 79,
+        "start_time": 279793,
+        "end_time": 282865,
+        "text": "Raising livestock \nand building cities which attract rodents"
+    },
+    {
+        "index": 80,
+        "start_time": 282865,
+        "end_time": 285452,
+        "text": "has provided billions of new hosts,"
+    },
+    {
+        "index": 81,
+        "start_time": 285452,
+        "end_time": 289636,
+        "text": "and you and your cat may be two of them."
+    }
+]

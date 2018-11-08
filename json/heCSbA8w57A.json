@@ -1,0 +1,380 @@
+[
+    {
+        "index": 1,
+        "start_time": 6713,
+        "end_time": 10030,
+        "text": "Imagine a police lineup\nwhere ten witnesses"
+    },
+    {
+        "index": 2,
+        "start_time": 10030,
+        "end_time": 15631,
+        "text": "are asked to identify a bank robber\nthey glimpsed fleeing the crime scene."
+    },
+    {
+        "index": 3,
+        "start_time": 15631,
+        "end_time": 18274,
+        "text": "If six of them pick out the same person,"
+    },
+    {
+        "index": 4,
+        "start_time": 18274,
+        "end_time": 21204,
+        "text": "there&#39;s a good chance \nthat&#39;s the real culprit,"
+    },
+    {
+        "index": 5,
+        "start_time": 21204,
+        "end_time": 23015,
+        "text": "and if all ten make the same choice,"
+    },
+    {
+        "index": 6,
+        "start_time": 23015,
+        "end_time": 25209,
+        "text": "you might think the case is rock solid,"
+    },
+    {
+        "index": 7,
+        "start_time": 25209,
+        "end_time": 27255,
+        "text": "but you&#39;d be wrong."
+    },
+    {
+        "index": 8,
+        "start_time": 27255,
+        "end_time": 29728,
+        "text": "For most of us, \nthis sounds pretty strange."
+    },
+    {
+        "index": 9,
+        "start_time": 29728,
+        "end_time": 34693,
+        "text": "After all, much of our society\nrelies on majority vote and consensus,"
+    },
+    {
+        "index": 10,
+        "start_time": 34693,
+        "end_time": 35693,
+        "text": "whether it&#39;s politics,"
+    },
+    {
+        "index": 11,
+        "start_time": 35693,
+        "end_time": 36693,
+        "text": "business,"
+    },
+    {
+        "index": 12,
+        "start_time": 36693,
+        "end_time": 37751,
+        "text": "or entertainment."
+    },
+    {
+        "index": 13,
+        "start_time": 37751,
+        "end_time": 42030,
+        "text": "So it&#39;s natural to think\nthat more consensus is a good thing."
+    },
+    {
+        "index": 14,
+        "start_time": 42030,
+        "end_time": 44863,
+        "text": "And up until a certain point, \nit usually is."
+    },
+    {
+        "index": 15,
+        "start_time": 44863,
+        "end_time": 48986,
+        "text": "But sometimes, the closer you start to get\nto total agreement,"
+    },
+    {
+        "index": 16,
+        "start_time": 48986,
+        "end_time": 52590,
+        "text": "the less reliable the result becomes."
+    },
+    {
+        "index": 17,
+        "start_time": 52590,
+        "end_time": 56032,
+        "text": "This is called the paradox of unanimity."
+    },
+    {
+        "index": 18,
+        "start_time": 56032,
+        "end_time": 58347,
+        "text": "The key to understanding \nthis apparent paradox"
+    },
+    {
+        "index": 19,
+        "start_time": 58347,
+        "end_time": 61894,
+        "text": "is in considering the overall level \nof uncertainty"
+    },
+    {
+        "index": 20,
+        "start_time": 61894,
+        "end_time": 65783,
+        "text": "involved in the type of situation \nyou&#39;re dealing with."
+    },
+    {
+        "index": 21,
+        "start_time": 65783,
+        "end_time": 69936,
+        "text": "If we asked witnesses to identify\nthe apple in this lineup, for example,"
+    },
+    {
+        "index": 22,
+        "start_time": 69936,
+        "end_time": 73389,
+        "text": "we shouldn&#39;t be surprised \nby a unanimous verdict."
+    },
+    {
+        "index": 23,
+        "start_time": 73389,
+        "end_time": 77500,
+        "text": "But in cases where we have \nreason to expect some natural variance,"
+    },
+    {
+        "index": 24,
+        "start_time": 77500,
+        "end_time": 81334,
+        "text": "we should also expect varied distribution."
+    },
+    {
+        "index": 25,
+        "start_time": 81334,
+        "end_time": 83460,
+        "text": "If you toss a coin one hundred times,"
+    },
+    {
+        "index": 26,
+        "start_time": 83460,
+        "end_time": 88156,
+        "text": "you would expect to get heads\nsomewhere around 50% of the time."
+    },
+    {
+        "index": 27,
+        "start_time": 88156,
+        "end_time": 91541,
+        "text": "But if your results started \nto approach 100% heads,"
+    },
+    {
+        "index": 28,
+        "start_time": 91541,
+        "end_time": 94177,
+        "text": "you&#39;d suspect that something was wrong,"
+    },
+    {
+        "index": 29,
+        "start_time": 94177,
+        "end_time": 95972,
+        "text": "not with your individual flips,"
+    },
+    {
+        "index": 30,
+        "start_time": 95972,
+        "end_time": 99001,
+        "text": "but with the coin itself."
+    },
+    {
+        "index": 31,
+        "start_time": 99001,
+        "end_time": 103806,
+        "text": "Of course, suspect identifications aren&#39;t\nas random as coin tosses,"
+    },
+    {
+        "index": 32,
+        "start_time": 103806,
+        "end_time": 108339,
+        "text": "but they&#39;re not as clear cut \nas telling apples from bananas, either."
+    },
+    {
+        "index": 33,
+        "start_time": 108339,
+        "end_time": 114203,
+        "text": "In fact, a 1994 study found \nthat up to 48% of witnesses"
+    },
+    {
+        "index": 34,
+        "start_time": 114203,
+        "end_time": 116967,
+        "text": "tend to pick the wrong \nperson out of a lineup,"
+    },
+    {
+        "index": 35,
+        "start_time": 116967,
+        "end_time": 120312,
+        "text": "even when many \nare confident in their choice."
+    },
+    {
+        "index": 36,
+        "start_time": 120312,
+        "end_time": 123788,
+        "text": "Memory based on short glimpses\ncan be unreliable,"
+    },
+    {
+        "index": 37,
+        "start_time": 123788,
+        "end_time": 127204,
+        "text": "and we often overestimate \nour own accuracy."
+    },
+    {
+        "index": 38,
+        "start_time": 127204,
+        "end_time": 128164,
+        "text": "Knowing all this,"
+    },
+    {
+        "index": 39,
+        "start_time": 128164,
+        "end_time": 132093,
+        "text": "a unanimous identification starts to seem\nless like certain guilt,"
+    },
+    {
+        "index": 40,
+        "start_time": 132093,
+        "end_time": 134705,
+        "text": "and more like a systemic error,"
+    },
+    {
+        "index": 41,
+        "start_time": 134705,
+        "end_time": 137024,
+        "text": "or bias in the lineup."
+    },
+    {
+        "index": 42,
+        "start_time": 137024,
+        "end_time": 141013,
+        "text": "And systemic errors don&#39;t just appear\nin matters of human judgement."
+    },
+    {
+        "index": 43,
+        "start_time": 141013,
+        "end_time": 143364,
+        "text": "From 1993-2008,"
+    },
+    {
+        "index": 44,
+        "start_time": 143364,
+        "end_time": 148835,
+        "text": "the same female DNA was found \nin multiple crime scenes around Europe,"
+    },
+    {
+        "index": 45,
+        "start_time": 148835,
+        "end_time": 154433,
+        "text": "incriminating an elusive killer\ndubbed the Phantom of Heilbronn."
+    },
+    {
+        "index": 46,
+        "start_time": 154433,
+        "end_time": 160233,
+        "text": "But the DNA evidence was so consistent\nprecisely because it was wrong."
+    },
+    {
+        "index": 47,
+        "start_time": 160233,
+        "end_time": 163963,
+        "text": "It turned out that the cotton swabs\nused to collect the DNA samples"
+    },
+    {
+        "index": 48,
+        "start_time": 163963,
+        "end_time": 170045,
+        "text": "had all been accidentally contaminated\nby a woman working in the swab factory."
+    },
+    {
+        "index": 49,
+        "start_time": 170045,
+        "end_time": 174194,
+        "text": "In other cases, systematic errors arise\nthrough deliberate fraud,"
+    },
+    {
+        "index": 50,
+        "start_time": 174194,
+        "end_time": 179218,
+        "text": "like the presidential referendum held\nby Saddam Hussein in 2002,"
+    },
+    {
+        "index": 51,
+        "start_time": 179218,
+        "end_time": 186368,
+        "text": "which claimed a turnout of 100% of voters\nwith all 100% supposedly voting in favor"
+    },
+    {
+        "index": 52,
+        "start_time": 186368,
+        "end_time": 189456,
+        "text": "of another seven-year term."
+    },
+    {
+        "index": 53,
+        "start_time": 189456,
+        "end_time": 190839,
+        "text": "When you look at it this way,"
+    },
+    {
+        "index": 54,
+        "start_time": 190839,
+        "end_time": 195121,
+        "text": "the paradox of unanimity isn&#39;t actually\nall that paradoxical."
+    },
+    {
+        "index": 55,
+        "start_time": 195121,
+        "end_time": 198244,
+        "text": "Unanimous agreement \nis still theoretically ideal,"
+    },
+    {
+        "index": 56,
+        "start_time": 198244,
+        "end_time": 203588,
+        "text": "especially in cases when you&#39;d expect very\nlow odds of variability and uncertainty,"
+    },
+    {
+        "index": 57,
+        "start_time": 203588,
+        "end_time": 204557,
+        "text": "but in practice,"
+    },
+    {
+        "index": 58,
+        "start_time": 204557,
+        "end_time": 209058,
+        "text": "achieving it in situations where \nperfect agreement is highly unlikely"
+    },
+    {
+        "index": 59,
+        "start_time": 209058,
+        "end_time": 214180,
+        "text": "should tell us that there&#39;s probably\nsome hidden factor affecting the system."
+    },
+    {
+        "index": 60,
+        "start_time": 214180,
+        "end_time": 217018,
+        "text": "Although we may strive for harmony\nand consensus,"
+    },
+    {
+        "index": 61,
+        "start_time": 217018,
+        "end_time": 222159,
+        "text": "in many situations, error and disagreement\nshould be naturally expected."
+    },
+    {
+        "index": 62,
+        "start_time": 222159,
+        "end_time": 224696,
+        "text": "And if a perfect result seems too good\nto be true,"
+    },
+    {
+        "index": 63,
+        "start_time": 224696,
+        "end_time": 226343,
+        "text": "it probably is."
+    }
+]

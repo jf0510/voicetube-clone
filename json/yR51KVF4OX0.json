@@ -1,0 +1,638 @@
+[
+  {
+    "end_time": 10340,
+    "index": 1,
+    "start_time": 1839,
+    "text": "It\u2019s estimated that about two billion people\nworldwide are infected with mycobacterium"
+  },
+  {
+    "end_time": 17439,
+    "index": 2,
+    "start_time": 10340,
+    "text": "tuberculosis, often just shortened to tuberculosis\nor simply \u2018TB\u2019. Two billion is a ton of"
+  },
+  {
+    "end_time": 21270,
+    "index": 3,
+    "start_time": 17439,
+    "text": "people, but even though they\u2019re infected,\nthat doesn\u2019t mean all those people have"
+  },
+  {
+    "end_time": 27840,
+    "index": 4,
+    "start_time": 21270,
+    "text": "symptoms, the vast majority, about 90-95%,\naren\u2019t even aware they\u2019re infected. And"
+  },
+  {
+    "end_time": 32418,
+    "index": 5,
+    "start_time": 27840,
+    "text": "this is because usually the immune system\ncan contain it such that it isn\u2019t able to"
+  },
+  {
+    "end_time": 37989,
+    "index": 6,
+    "start_time": 32418,
+    "text": "multiply, and often remains latent, or dormant,\nas opposed to active, which usually causes"
+  },
+  {
+    "end_time": 43309,
+    "index": 7,
+    "start_time": 37989,
+    "text": "symptoms and can be spread to others. If the\nhost\u2019s immune system becomes debilitated"
+  },
+  {
+    "end_time": 48040,
+    "index": 8,
+    "start_time": 43309,
+    "text": "at some point down the road, like with AIDS\nor some other illness, or as a person grows"
+  },
+  {
+    "end_time": 54559,
+    "index": 9,
+    "start_time": 48040,
+    "text": "older, it can be allowed to reactivate, or\nbasically wake up and become very serious,"
+  },
+  {
+    "end_time": 58449,
+    "index": 10,
+    "start_time": 54559,
+    "text": "especially if it spreads through the body."
+  },
+  {
+    "end_time": 64449,
+    "index": 11,
+    "start_time": 58450,
+    "text": "Mycobacteria are an interesting bunch, they\u2019re\nslender, rod-shaped, and need oxygen to survive,"
+  },
+  {
+    "end_time": 69700,
+    "index": 12,
+    "start_time": 64449,
+    "text": "in other words, they\u2019re \u201cstrict aerobes\u201d.\nThey\u2019ve got an unusually waxy cell wall,"
+  },
+  {
+    "end_time": 75039,
+    "index": 13,
+    "start_time": 69700,
+    "text": "which is mainly a result of the production\nof mycolic acid. Because of this waxy cell"
+  },
+  {
+    "end_time": 79810,
+    "index": 14,
+    "start_time": 75039,
+    "text": "wall, they\u2019re \u201cacid-fast\u201d, meaning that\nit can hold on to a dye in spite of being"
+  },
+  {
+    "end_time": 85749,
+    "index": 15,
+    "start_time": 79810,
+    "text": "exposed to alcohol, leaving it bright red\ncolored when a Ziehl\u2013Neelsen stain is used."
+  },
+  {
+    "end_time": 90369,
+    "index": 16,
+    "start_time": 85749,
+    "text": "The wall also makes them incredibly hardy,\nand allows them to resist weak disinfectants"
+  },
+  {
+    "end_time": 94209,
+    "index": 17,
+    "start_time": 90369,
+    "text": "and survive in on dry surfaces for months\nat a time."
+  },
+  {
+    "end_time": 98789,
+    "index": 18,
+    "start_time": 94209,
+    "text": "Now Mycobacterium tuberculosis is usually\ntransmitted via inhalation, which is how they"
+  },
+  {
+    "end_time": 104090,
+    "index": 19,
+    "start_time": 98789,
+    "text": "gain entry into the lungs. Now, we breathe\nin all sorts of virus and bacteria all the"
+  },
+  {
+    "end_time": 108969,
+    "index": 20,
+    "start_time": 104090,
+    "text": "time, but we\u2019ve got defenses that take care\nof most of them. For one, air that we breathe"
+  },
+  {
+    "end_time": 113389,
+    "index": 21,
+    "start_time": 108969,
+    "text": "in is turbulent in the upper airways, and\ndrives most bacteria against mucus which is"
+  },
+  {
+    "end_time": 118729,
+    "index": 22,
+    "start_time": 113389,
+    "text": "then cleared pretty quickly. Ultimately, though,\nTB can avoid the mucus traps and make its"
+  },
+  {
+    "end_time": 124289,
+    "index": 23,
+    "start_time": 118729,
+    "text": "way to the deep airways and alveoli where\nwe have macrophages which eat up foreign cells,"
+  },
+  {
+    "end_time": 130469,
+    "index": 24,
+    "start_time": 124289,
+    "text": "digest, and destroy them. With TB, they recognize\nforeign proteins on their cell surface, and"
+  },
+  {
+    "end_time": 135930,
+    "index": 25,
+    "start_time": 130469,
+    "text": "phagocytize them, or essentially package them\ninto a space called a phagosome. With most"
+  },
+  {
+    "end_time": 141150,
+    "index": 26,
+    "start_time": 135930,
+    "text": "cases, the macrophage then fuses the phagosome\nwith a lysosome, which has hydrolytic enzymes"
+  },
+  {
+    "end_time": 146689,
+    "index": 27,
+    "start_time": 141150,
+    "text": "that can pretty much break down any biochemical\nmolecule. TB\u2019s tricky, though, and once"
+  },
+  {
+    "end_time": 151629,
+    "index": 28,
+    "start_time": 146689,
+    "text": "inside the macrophage, they produce a protein\nthat inhibits this fusion, which allows the"
+  },
+  {
+    "end_time": 157239,
+    "index": 29,
+    "start_time": 151629,
+    "text": "mycobacterium to survive. It doesn\u2019t just\nsurvive, though, it proliferates, and creates"
+  },
+  {
+    "end_time": 159640,
+    "index": 30,
+    "start_time": 157239,
+    "text": "a localized infection."
+  },
+  {
+    "end_time": 164048,
+    "index": 31,
+    "start_time": 159640,
+    "text": "At this point somebody has developed primary\ntuberculosis, which means that they have signs"
+  },
+  {
+    "end_time": 169540,
+    "index": 32,
+    "start_time": 164049,
+    "text": "of infection soon after being exposed to TB.\nEven though it sounds bad, most people at"
+  },
+  {
+    "end_time": 175379,
+    "index": 33,
+    "start_time": 169540,
+    "text": "this stage are actually asymptomatic or maybe\nhave a mild flu-like illness. About 3 weeks"
+  },
+  {
+    "end_time": 180170,
+    "index": 34,
+    "start_time": 175379,
+    "text": "after initial infection, cell-mediated immunity\nkicks in, and immune cells surround the site"
+  },
+  {
+    "end_time": 186018,
+    "index": 35,
+    "start_time": 180170,
+    "text": "of TB infection, creating a granuloma, essentially\nan attempt to wall off the bacteria and prevent"
+  },
+  {
+    "end_time": 191790,
+    "index": 36,
+    "start_time": 186019,
+    "text": "it from spreading. The tissue inside the middle\ndies as a result, a process referred to as"
+  },
+  {
+    "end_time": 198219,
+    "index": 37,
+    "start_time": 191790,
+    "text": "caseous necrosis, which means \u201ccheese-like\u201d\nnecrosis, since the dead tissue is soft, white,"
+  },
+  {
+    "end_time": 204849,
+    "index": 38,
+    "start_time": 198219,
+    "text": "and looks a bit like cheese. This area is\nknown as a \u201cGhon focus\u201d. TB also gets"
+  },
+  {
+    "end_time": 209439,
+    "index": 39,
+    "start_time": 204849,
+    "text": "to nearby hilar lymph nodes, either carried\nover by immune cells through the lymph or"
+  },
+  {
+    "end_time": 215828,
+    "index": 40,
+    "start_time": 209439,
+    "text": "by direct extension of the Ghon focus infection\nand causes caseation there as well, and together,"
+  },
+  {
+    "end_time": 221349,
+    "index": 41,
+    "start_time": 215829,
+    "text": "this caseating tissue and associated lymph\nnode make up the characteristic \u201cGhon complex\u201d."
+  },
+  {
+    "end_time": 226920,
+    "index": 42,
+    "start_time": 221349,
+    "text": "Ghon complexes are usually subpleural and\noccur in the lower lobes of the lungs. The"
+  },
+  {
+    "end_time": 232679,
+    "index": 43,
+    "start_time": 226920,
+    "text": "tissue that\u2019s encapsulated by the granuloma\nundergoes fibrosis, and often calcification,"
+  },
+  {
+    "end_time": 237129,
+    "index": 44,
+    "start_time": 232680,
+    "text": "producing scar tissue that can be seen on\nx-ray, this calcified ghon complex is called"
+  },
+  {
+    "end_time": 243730,
+    "index": 45,
+    "start_time": 237129,
+    "text": "a \u201cRanke complex\u201d. In some cases, although\na scar is leftover, the mycobacteria is killed"
+  },
+  {
+    "end_time": 247529,
+    "index": 46,
+    "start_time": 243730,
+    "text": "off by the immune system, and that\u2019s the\nend of that."
+  },
+  {
+    "end_time": 251749,
+    "index": 47,
+    "start_time": 247529,
+    "text": "In other cases, even though they were walled\noff, they remain viable, and are therefore"
+  },
+  {
+    "end_time": 257440,
+    "index": 48,
+    "start_time": 251749,
+    "text": "still alive, but they\u2019re just dormant. If\nand when a person\u2019s immune system becomes"
+  },
+  {
+    "end_time": 262210,
+    "index": 49,
+    "start_time": 257440,
+    "text": "compromised, like with AIDS or with aging,\nthe Ghon focus can become reactivated, and"
+  },
+  {
+    "end_time": 266460,
+    "index": 50,
+    "start_time": 262210,
+    "text": "the infection can spread to either one or\nboth upper lobes of the lungs, it\u2019s thought"
+  },
+  {
+    "end_time": 272229,
+    "index": 51,
+    "start_time": 266460,
+    "text": "that this is because oxygenation is greatest\nin these areas, and TB being an aerobe, prefers"
+  },
+  {
+    "end_time": 278199,
+    "index": 52,
+    "start_time": 272229,
+    "text": "areas of greater oxygenation. Since they were\npreviously exposed, the immune system\u2019s"
+  },
+  {
+    "end_time": 283449,
+    "index": 53,
+    "start_time": 278199,
+    "text": "memory T cells quickly release cytokines to\ntry and control the new outbreak, which forms"
+  },
+  {
+    "end_time": 290069,
+    "index": 54,
+    "start_time": 283449,
+    "text": "more areas of caseous necrosis, this time,\nthough, it tends to cavitate, or form cavities,"
+  },
+  {
+    "end_time": 294870,
+    "index": 55,
+    "start_time": 290069,
+    "text": "which can allow the bacteria to disseminate,\nor spread through airways and lymphatic channels"
+  },
+  {
+    "end_time": 299419,
+    "index": 56,
+    "start_time": 294870,
+    "text": "to other parts of the lungs, which can cause\nbronchopneumonia; but it can also spread via"
+  },
+  {
+    "end_time": 304500,
+    "index": 57,
+    "start_time": 299419,
+    "text": "the vascular system and infect almost every\nother tissues in the body, called systemic"
+  },
+  {
+    "end_time": 305770,
+    "index": 58,
+    "start_time": 304500,
+    "text": "miliary TB."
+  },
+  {
+    "end_time": 312210,
+    "index": 59,
+    "start_time": 305770,
+    "text": "When TB spreads to other tissues, it causes\ncomplications related to the organ affected."
+  },
+  {
+    "end_time": 316960,
+    "index": 60,
+    "start_time": 312210,
+    "text": "Kidneys are commonly affected, resulting in\nsterile pyuria, or high levels of white blood"
+  },
+  {
+    "end_time": 322609,
+    "index": 61,
+    "start_time": 316960,
+    "text": "cells in the urine. It might also spread to\nthe meninges of the brain, causing meningitis,"
+  },
+  {
+    "end_time": 327970,
+    "index": 62,
+    "start_time": 322610,
+    "text": "the lumbar vertebrae, causing Pott disease,\nthe adrenal glands causing addison\u2019s disease,"
+  },
+  {
+    "end_time": 332870,
+    "index": 63,
+    "start_time": 327970,
+    "text": "the liver causing hepatitis, and the cervical\nlymph nodes causing lymphadenitis in the neck,"
+  },
+  {
+    "end_time": 335770,
+    "index": 64,
+    "start_time": 332870,
+    "text": "also known as scrofula."
+  },
+  {
+    "end_time": 341758,
+    "index": 65,
+    "start_time": 335770,
+    "text": "Testing for TB often starts with a purified\nprotein derivative or PPD intradermal skin"
+  },
+  {
+    "end_time": 348639,
+    "index": 66,
+    "start_time": 341759,
+    "text": "test, sometimes known as a tuberculin skin\ntest, Mantoux test, or simply TB test. With"
+  },
+  {
+    "end_time": 353379,
+    "index": 67,
+    "start_time": 348639,
+    "text": "this test, tuberculin is injected between\nlayers of the dermis, tuberculin is a component"
+  },
+  {
+    "end_time": 358270,
+    "index": 68,
+    "start_time": 353379,
+    "text": "of the bacteria, and if a person has previously\nbeen exposed to TB, the immune system reacts"
+  },
+  {
+    "end_time": 365139,
+    "index": 69,
+    "start_time": 358270,
+    "text": "to the tuberculin and produces a small, localized\nreaction within 48 to 72 hours; if the reaction"
+  },
+  {
+    "end_time": 370020,
+    "index": 70,
+    "start_time": 365139,
+    "text": "creates a large enough area of induration\n(rather than just redness), it\u2019s considered"
+  },
+  {
+    "end_time": 375229,
+    "index": 71,
+    "start_time": 370020,
+    "text": "to be a positive test. Positive tuberculin\ntests simply mean the patient\u2019s been exposed"
+  },
+  {
+    "end_time": 382120,
+    "index": 72,
+    "start_time": 375229,
+    "text": "at some point to TB\u2014it doesn\u2019t differentiate\nbetween active and latent disease. As an alternative"
+  },
+  {
+    "end_time": 388330,
+    "index": 73,
+    "start_time": 382120,
+    "text": "to tuberculin skin tests, there are also interferon\ngamma release assays (or IGRAs) which look"
+  },
+  {
+    "end_time": 393830,
+    "index": 74,
+    "start_time": 388330,
+    "text": "for evidence in the blood of previous exposure\nto TB proteins. Since this one\u2019s a blood"
+  },
+  {
+    "end_time": 397940,
+    "index": 75,
+    "start_time": 393830,
+    "text": "test, you don\u2019t need to show up again to\nhave the test read like you do with the PPD."
+  },
+  {
+    "end_time": 403370,
+    "index": 76,
+    "start_time": 397940,
+    "text": "Also, the IGRA is more specific to TB rather\nthan other types of mycobacterial infections"
+  },
+  {
+    "end_time": 408610,
+    "index": 77,
+    "start_time": 403370,
+    "text": "and is unlikely to be positive as a result\nof having BCG vaccine in the past, a vaccine"
+  },
+  {
+    "end_time": 414889,
+    "index": 78,
+    "start_time": 408610,
+    "text": "that protects against TB. And this is a pretty\nuseful feature of IGRAs, since BCG vaccine"
+  },
+  {
+    "end_time": 420240,
+    "index": 79,
+    "start_time": 414889,
+    "text": "is given to many children around the world\nto prevent disseminated TB. After doing a"
+  },
+  {
+    "end_time": 426099,
+    "index": 80,
+    "start_time": 420240,
+    "text": "screening test with PPD or IGRA, anyone with\na positive result typically gets a chest Xray"
+  },
+  {
+    "end_time": 432199,
+    "index": 81,
+    "start_time": 426099,
+    "text": "to look for signs of active TB disease. In\npatients with symptoms like as fevers, night"
+  },
+  {
+    "end_time": 436550,
+    "index": 82,
+    "start_time": 432199,
+    "text": "sweats, weight loss, and coughing up blood,\nor hemoptysis. it\u2019s important to collect"
+  },
+  {
+    "end_time": 442919,
+    "index": 83,
+    "start_time": 436550,
+    "text": "samples from either the sputum, or via a bronchoalveolar\nlavage, which is where a bronchoscope is inserted"
+  },
+  {
+    "end_time": 448359,
+    "index": 84,
+    "start_time": 442919,
+    "text": "through the mouth or nose into the lungs,\nfluid is squirted, and then the fluid is collected."
+  },
+  {
+    "end_time": 453689,
+    "index": 85,
+    "start_time": 448360,
+    "text": "These samples can get sent to the lab for\nstaining, culture, and PCR to look evidence"
+  },
+  {
+    "end_time": 457750,
+    "index": 86,
+    "start_time": 453689,
+    "text": "of mycobacterium tuberculosis."
+  },
+  {
+    "end_time": 461990,
+    "index": 87,
+    "start_time": 457750,
+    "text": "Treatment of latent TB infection typically\ninvolves using a single drug for a prolonged"
+  },
+  {
+    "end_time": 468530,
+    "index": 88,
+    "start_time": 461990,
+    "text": "period of time\u2014the most common approach\nis Isoniazid for 9 months. Treatment of active"
+  },
+  {
+    "end_time": 473650,
+    "index": 89,
+    "start_time": 468530,
+    "text": "TB disease is typically a combination of antibiotics,\nwhich results in patients being non-infectious"
+  },
+  {
+    "end_time": 479060,
+    "index": 90,
+    "start_time": 473650,
+    "text": "to others usually within a few weeks. Until\nthat point, though, patients can spread TB"
+  },
+  {
+    "end_time": 484770,
+    "index": 91,
+    "start_time": 479060,
+    "text": "to others and it\u2019s typically adults with\nreactivated TB that are the most infectious."
+  },
+  {
+    "end_time": 489030,
+    "index": 92,
+    "start_time": 484770,
+    "text": "As a result, patients are typically kept in\nnegative pressure rooms and visitors are asked"
+  },
+  {
+    "end_time": 495489,
+    "index": 93,
+    "start_time": 489030,
+    "text": "to wear protective N-95 masks that can\u2019t\nfilter out oil aerosols (N for \u201cnot resistant"
+  },
+  {
+    "end_time": 503550,
+    "index": 94,
+    "start_time": 495490,
+    "text": "to oil\u201d) but can filter out at least 95%\nof other aerosols (in this case TB). Even"
+  },
+  {
+    "end_time": 508259,
+    "index": 95,
+    "start_time": 503550,
+    "text": "after patients are no longer contagious, they\u2019re\ntypically kept on multiple medications for"
+  },
+  {
+    "end_time": 513719,
+    "index": 96,
+    "start_time": 508259,
+    "text": "many months to be sure the bacteria are destroyed\nusually with directly observed therapy or"
+  },
+  {
+    "end_time": 517780,
+    "index": 97,
+    "start_time": 513719,
+    "text": "DOT where somebody watches and confirms that\nyou\u2019re taking the medication."
+  },
+  {
+    "end_time": 523679,
+    "index": 98,
+    "start_time": 517780,
+    "text": "Additionally, there\u2019s an enormous worry\nabout new drug-resistant strains of TB that"
+  },
+  {
+    "end_time": 529349,
+    "index": 99,
+    "start_time": 523679,
+    "text": "are causing infections in various parts of\nthe world. You may hear of MDR-TB or Multi-drug"
+  },
+  {
+    "end_time": 536200,
+    "index": 100,
+    "start_time": 529350,
+    "text": "resistant TB or even XDR-TB which is Extremely\ndrug resistant TB which is incredibly hard"
+  },
+  {
+    "end_time": 541270,
+    "index": 101,
+    "start_time": 536200,
+    "text": "to treat because they don\u2019t die in the presence\nof our usual antibiotics. The bottom line"
+  },
+  {
+    "end_time": 545150,
+    "index": 102,
+    "start_time": 541270,
+    "text": "is that to get an effective treatment, it\u2019s\nsuper important to make sure that the drugs"
+  },
+  {
+    "end_time": 549699,
+    "index": 103,
+    "start_time": 545150,
+    "text": "being used will work against the specific\nstrain of TB, that multiple medications are"
+  },
+  {
+    "end_time": 553950,
+    "index": 104,
+    "start_time": 549700,
+    "text": "used together to prevent drug resistance from\ndeveloping, and that medications are used"
+  },
+  {
+    "end_time": 557950,
+    "index": 105,
+    "start_time": 553950,
+    "text": "for the entire course of therapy so that all\nof the mycobacterium tuberculosis is killed"
+  },
+  {
+    "end_time": 571350,
+    "index": 106,
+    "start_time": 557950,
+    "text": "off."
+  }
+]

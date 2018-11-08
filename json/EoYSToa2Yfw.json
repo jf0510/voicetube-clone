@@ -1,0 +1,404 @@
+[
+    {
+        "index": 1,
+        "start_time": 7076,
+        "end_time": 11433,
+        "text": "For most of us, two degrees Celsius\nis a tiny difference in temperature,"
+    },
+    {
+        "index": 2,
+        "start_time": 11433,
+        "end_time": 14360,
+        "text": "not even enough to make \nyou crack a window."
+    },
+    {
+        "index": 3,
+        "start_time": 14360,
+        "end_time": 18657,
+        "text": "But scientists have warned that as\nCO2 levels in the atmosphere rise,"
+    },
+    {
+        "index": 4,
+        "start_time": 18657,
+        "end_time": 22473,
+        "text": "an increase in the Earth&#39;s temperature\nby even this amount"
+    },
+    {
+        "index": 5,
+        "start_time": 22473,
+        "end_time": 26190,
+        "text": "can lead to catastrophic effects\nall over the world."
+    },
+    {
+        "index": 6,
+        "start_time": 26190,
+        "end_time": 29926,
+        "text": "How can such a small measurable \nchange in one factor"
+    },
+    {
+        "index": 7,
+        "start_time": 29926,
+        "end_time": 34572,
+        "text": "lead to massive and unpredictable \nchanges in other factors?"
+    },
+    {
+        "index": 8,
+        "start_time": 34572,
+        "end_time": 38413,
+        "text": "The answer lies in the concept of a \nmathematical tipping point,"
+    },
+    {
+        "index": 9,
+        "start_time": 38413,
+        "end_time": 42346,
+        "text": "which we can understand through the\nfamiliar game of billiards."
+    },
+    {
+        "index": 10,
+        "start_time": 42346,
+        "end_time": 44430,
+        "text": "The basic rule of billiard motion is"
+    },
+    {
+        "index": 11,
+        "start_time": 44430,
+        "end_time": 47312,
+        "text": "that a ball will go straight \nuntil it hits a wall,"
+    },
+    {
+        "index": 12,
+        "start_time": 47312,
+        "end_time": 51130,
+        "text": "then bounce off at an angle equal\nto its incoming angle."
+    },
+    {
+        "index": 13,
+        "start_time": 51130,
+        "end_time": 54040,
+        "text": "For simplicity&#39;s sake, we&#39;ll assume that\nthere is no friction,"
+    },
+    {
+        "index": 14,
+        "start_time": 54040,
+        "end_time": 56953,
+        "text": "so balls can keep moving indefinitely."
+    },
+    {
+        "index": 15,
+        "start_time": 56953,
+        "end_time": 58994,
+        "text": "And to simplify the situation further,"
+    },
+    {
+        "index": 16,
+        "start_time": 58994,
+        "end_time": 64062,
+        "text": "let&#39;s look at what happens with only \none ball on a perfectly circular table."
+    },
+    {
+        "index": 17,
+        "start_time": 64062,
+        "end_time": 67357,
+        "text": "As the ball is struck and begins to move\naccording to the rules,"
+    },
+    {
+        "index": 18,
+        "start_time": 67357,
+        "end_time": 70502,
+        "text": "it follows a neat star-shaped pattern."
+    },
+    {
+        "index": 19,
+        "start_time": 70502,
+        "end_time": 72667,
+        "text": "If we start the ball at\ndifferent locations,"
+    },
+    {
+        "index": 20,
+        "start_time": 72667,
+        "end_time": 76418,
+        "text": "or strike it at different angles, \nsome details of the pattern change,"
+    },
+    {
+        "index": 21,
+        "start_time": 76418,
+        "end_time": 79685,
+        "text": "but its overall form remains the same."
+    },
+    {
+        "index": 22,
+        "start_time": 79685,
+        "end_time": 82747,
+        "text": "With a few test runs, and some basic\nmathematical modeling,"
+    },
+    {
+        "index": 23,
+        "start_time": 82747,
+        "end_time": 86321,
+        "text": "we can even predict a ball&#39;s path\nbefore it starts moving,"
+    },
+    {
+        "index": 24,
+        "start_time": 86321,
+        "end_time": 88976,
+        "text": "simply based on its starting conditions."
+    },
+    {
+        "index": 25,
+        "start_time": 88976,
+        "end_time": 91374,
+        "text": "But what would happen \nif we made a minor change"
+    },
+    {
+        "index": 26,
+        "start_time": 91374,
+        "end_time": 94625,
+        "text": "in the table&#39;s shape \nby pulling it apart a bit,"
+    },
+    {
+        "index": 27,
+        "start_time": 94625,
+        "end_time": 99411,
+        "text": "and inserting two small straight edges \nalong the top and bottom?"
+    },
+    {
+        "index": 28,
+        "start_time": 99411,
+        "end_time": 102057,
+        "text": "We can see that as the ball bounces \noff the flat sides,"
+    },
+    {
+        "index": 29,
+        "start_time": 102057,
+        "end_time": 104580,
+        "text": "it begins to move all over the table."
+    },
+    {
+        "index": 30,
+        "start_time": 104580,
+        "end_time": 108025,
+        "text": "The ball is still obeying the same rules\nof billiard motion,"
+    },
+    {
+        "index": 31,
+        "start_time": 108025,
+        "end_time": 112943,
+        "text": "but the resulting movement no longer\nfollows any recognizable pattern."
+    },
+    {
+        "index": 32,
+        "start_time": 112943,
+        "end_time": 115300,
+        "text": "With only a small change\nto the constraints"
+    },
+    {
+        "index": 33,
+        "start_time": 115300,
+        "end_time": 117075,
+        "text": "under which the system operates,"
+    },
+    {
+        "index": 34,
+        "start_time": 117075,
+        "end_time": 118622,
+        "text": "we have shifted the billiard motion"
+    },
+    {
+        "index": 35,
+        "start_time": 118622,
+        "end_time": 121750,
+        "text": "from behaving in a stable\nand predictable fashion,"
+    },
+    {
+        "index": 36,
+        "start_time": 121750,
+        "end_time": 123983,
+        "text": "to fluctuating wildly,"
+    },
+    {
+        "index": 37,
+        "start_time": 123983,
+        "end_time": 128144,
+        "text": "thus creating what mathematicians\ncall chaotic motion."
+    },
+    {
+        "index": 38,
+        "start_time": 128144,
+        "end_time": 131765,
+        "text": "Inserting the straight edges into\nthe table acts as a tipping point,"
+    },
+    {
+        "index": 39,
+        "start_time": 131765,
+        "end_time": 136098,
+        "text": "switching the systems behavior\nfrom one type of behavior (regular),"
+    },
+    {
+        "index": 40,
+        "start_time": 136098,
+        "end_time": 140200,
+        "text": "to another type of behavior (chaotic)."
+    },
+    {
+        "index": 41,
+        "start_time": 140200,
+        "end_time": 144249,
+        "text": "So what implications does this simple\nexample have for the much more complicated"
+    },
+    {
+        "index": 42,
+        "start_time": 144249,
+        "end_time": 146919,
+        "text": "reality of the Earth&#39;s climate?"
+    },
+    {
+        "index": 43,
+        "start_time": 146919,
+        "end_time": 150530,
+        "text": "We can think of the shape of the table as \nbeing analogous to the CO2 level"
+    },
+    {
+        "index": 44,
+        "start_time": 150530,
+        "end_time": 152821,
+        "text": "and Earth&#39;s average temperature:"
+    },
+    {
+        "index": 45,
+        "start_time": 152821,
+        "end_time": 155117,
+        "text": "Constraints that impact the \nsystem&#39;s performance"
+    },
+    {
+        "index": 46,
+        "start_time": 155117,
+        "end_time": 158893,
+        "text": "in the form of the ball&#39;s motion \nor the climate&#39;s behavior."
+    },
+    {
+        "index": 47,
+        "start_time": 158893,
+        "end_time": 161053,
+        "text": "During the past 10,000 years,"
+    },
+    {
+        "index": 48,
+        "start_time": 161053,
+        "end_time": 164533,
+        "text": "the fairly constant CO2 atmospheric \nconcentration of"
+    },
+    {
+        "index": 49,
+        "start_time": 164533,
+        "end_time": 170594,
+        "text": "270 parts per million kept the climate\nwithin a self-stabilizing pattern,"
+    },
+    {
+        "index": 50,
+        "start_time": 170594,
+        "end_time": 173505,
+        "text": "fairly regular and hospitable \nto human life."
+    },
+    {
+        "index": 51,
+        "start_time": 173505,
+        "end_time": 177071,
+        "text": "But with CO2 levels now at 400\nparts per million,"
+    },
+    {
+        "index": 52,
+        "start_time": 177071,
+        "end_time": 181031,
+        "text": "and predicted to rise to between\n500 and 800 parts per million"
+    },
+    {
+        "index": 53,
+        "start_time": 181031,
+        "end_time": 184140,
+        "text": "over the coming century,\nwe may reach a tipping point where"
+    },
+    {
+        "index": 54,
+        "start_time": 184140,
+        "end_time": 187736,
+        "text": "even a small additional change \nin the global average temperature"
+    },
+    {
+        "index": 55,
+        "start_time": 187736,
+        "end_time": 191448,
+        "text": "would have the same effect as\nchanging the shape of the table,"
+    },
+    {
+        "index": 56,
+        "start_time": 191448,
+        "end_time": 194275,
+        "text": "leading to a dangerous shift in the\nclimate&#39;s behavior,"
+    },
+    {
+        "index": 57,
+        "start_time": 194275,
+        "end_time": 196414,
+        "text": "with more extreme and intense \nweather events,"
+    },
+    {
+        "index": 58,
+        "start_time": 196414,
+        "end_time": 201672,
+        "text": "less predictability, and most importantly,\nless hospitably to human life."
+    },
+    {
+        "index": 59,
+        "start_time": 201672,
+        "end_time": 205433,
+        "text": "The hypothetical models that \nmathematicians study in detail"
+    },
+    {
+        "index": 60,
+        "start_time": 205433,
+        "end_time": 208165,
+        "text": "may not always look like \nactual situations,"
+    },
+    {
+        "index": 61,
+        "start_time": 208165,
+        "end_time": 211064,
+        "text": "but they can provide a framework\nand a way of thinking"
+    },
+    {
+        "index": 62,
+        "start_time": 211064,
+        "end_time": 216159,
+        "text": "that can be applied to help understand the\nmore complex problems of the real world."
+    },
+    {
+        "index": 63,
+        "start_time": 216159,
+        "end_time": 218993,
+        "text": "In this case, understanding \nhow slight changes"
+    },
+    {
+        "index": 64,
+        "start_time": 218993,
+        "end_time": 222415,
+        "text": "in the constraints impacting a system\ncan have massive impacts"
+    },
+    {
+        "index": 65,
+        "start_time": 222415,
+        "end_time": 226294,
+        "text": "gives us a greater appreciation for\npredicting the dangers"
+    },
+    {
+        "index": 66,
+        "start_time": 226294,
+        "end_time": 229739,
+        "text": "that we cannot immediately percieve \nwith our own senses."
+    },
+    {
+        "index": 67,
+        "start_time": 229739,
+        "end_time": 234599,
+        "text": "Because once the results do become visible,\nit may already be too late."
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "index": 1,
+        "start_time": 7039,
+        "end_time": 11069,
+        "text": "Muhammad Ali spent years training\nto become the greatest boxer"
+    },
+    {
+        "index": 2,
+        "start_time": 11069,
+        "end_time": 13520,
+        "text": "the world had ever seen,"
+    },
+    {
+        "index": 3,
+        "start_time": 13520,
+        "end_time": 17149,
+        "text": "but only moments to create\nthe shortest poem."
+    },
+    {
+        "index": 4,
+        "start_time": 17149,
+        "end_time": 21250,
+        "text": "Ali captivated Harvard&#39;s \ngraduating class in 1975"
+    },
+    {
+        "index": 5,
+        "start_time": 21250,
+        "end_time": 24680,
+        "text": "with his message of unity and friendship."
+    },
+    {
+        "index": 6,
+        "start_time": 24680,
+        "end_time": 27371,
+        "text": "When he finished, \nthe audience wanted more."
+    },
+    {
+        "index": 7,
+        "start_time": 27371,
+        "end_time": 29060,
+        "text": "They wanted a poem."
+    },
+    {
+        "index": 8,
+        "start_time": 29060,
+        "end_time": 32962,
+        "text": "Ali delivered what is considered\nthe shortest poem ever."
+    },
+    {
+        "index": 9,
+        "start_time": 32962,
+        "end_time": 35661,
+        "text": "&quot;Me, we.&quot;"
+    },
+    {
+        "index": 10,
+        "start_time": 35661,
+        "end_time": 38271,
+        "text": "Or is it &quot;me, weeee&quot;?"
+    },
+    {
+        "index": 11,
+        "start_time": 38271,
+        "end_time": 39481,
+        "text": "No one&#39;s really sure."
+    },
+    {
+        "index": 12,
+        "start_time": 39481,
+        "end_time": 45471,
+        "text": "Regardless, if these two words are a poem,\nthen what exactly makes a poem a poem?"
+    },
+    {
+        "index": 13,
+        "start_time": 45471,
+        "end_time": 48101,
+        "text": "Poets themselves have struggled\nwith this question,"
+    },
+    {
+        "index": 14,
+        "start_time": 48101,
+        "end_time": 51605,
+        "text": "often using metaphors to approximate\na definition."
+    },
+    {
+        "index": 15,
+        "start_time": 51605,
+        "end_time": 53680,
+        "text": "Is a poem a little machine?"
+    },
+    {
+        "index": 16,
+        "start_time": 53680,
+        "end_time": 54765,
+        "text": "A firework?"
+    },
+    {
+        "index": 17,
+        "start_time": 54765,
+        "end_time": 55821,
+        "text": "An echo?"
+    },
+    {
+        "index": 18,
+        "start_time": 55821,
+        "end_time": 57010,
+        "text": "A dream?"
+    },
+    {
+        "index": 19,
+        "start_time": 57010,
+        "end_time": 61352,
+        "text": "Poetry generally has certain\nrecognizable characteristics."
+    },
+    {
+        "index": 20,
+        "start_time": 61352,
+        "end_time": 65551,
+        "text": "One - poems emphasize language&#39;s\nmusical qualities."
+    },
+    {
+        "index": 21,
+        "start_time": 65551,
+        "end_time": 68481,
+        "text": "This can be achieved through\nrhyme, rhythm, and meter,"
+    },
+    {
+        "index": 22,
+        "start_time": 68481,
+        "end_time": 69979,
+        "text": "from the sonnets of Shakepeare,"
+    },
+    {
+        "index": 23,
+        "start_time": 69979,
+        "end_time": 71542,
+        "text": "to the odes of Confucius,"
+    },
+    {
+        "index": 24,
+        "start_time": 71542,
+        "end_time": 73852,
+        "text": "to the Sanskrit Vedas."
+    },
+    {
+        "index": 25,
+        "start_time": 73852,
+        "end_time": 76556,
+        "text": "Two - poems use condensed language,"
+    },
+    {
+        "index": 26,
+        "start_time": 76556,
+        "end_time": 80492,
+        "text": "like literature with all the water\nwrung out of it."
+    },
+    {
+        "index": 27,
+        "start_time": 80492,
+        "end_time": 83872,
+        "text": "Three - poems often feature\nintense feelings,"
+    },
+    {
+        "index": 28,
+        "start_time": 83872,
+        "end_time": 85875,
+        "text": "from Rumi&#39;s spiritual poetry"
+    },
+    {
+        "index": 29,
+        "start_time": 85875,
+        "end_time": 89312,
+        "text": "to Pablo Neruda&#39;s &quot;Ode to an Onion.&quot;"
+    },
+    {
+        "index": 30,
+        "start_time": 89312,
+        "end_time": 93883,
+        "text": "Poetry, like art itself, has a way\nof challenging simple definitions."
+    },
+    {
+        "index": 31,
+        "start_time": 93883,
+        "end_time": 96303,
+        "text": "While the rhythmic patterns \nof the earliest poems"
+    },
+    {
+        "index": 32,
+        "start_time": 96303,
+        "end_time": 100163,
+        "text": "were a way to remember stories\neven before the advent of writing,"
+    },
+    {
+        "index": 33,
+        "start_time": 100163,
+        "end_time": 102703,
+        "text": "a poem doesn&#39;t need to be lyrical."
+    },
+    {
+        "index": 34,
+        "start_time": 102703,
+        "end_time": 104251,
+        "text": "Reinhard D\u00f6hl&#39;s \u201cApfel\u201d"
+    },
+    {
+        "index": 35,
+        "start_time": 104251,
+        "end_time": 106649,
+        "text": "and Eugen Gomringer&#39;s &quot;silencio&quot;"
+    },
+    {
+        "index": 36,
+        "start_time": 106649,
+        "end_time": 110160,
+        "text": "toe the line between visual art\nand poetry."
+    },
+    {
+        "index": 37,
+        "start_time": 110160,
+        "end_time": 113556,
+        "text": "Meanwhile, E.E. Cummings wrote poems\nwhose shapes were as important"
+    },
+    {
+        "index": 38,
+        "start_time": 113556,
+        "end_time": 115420,
+        "text": "as the words themselves,"
+    },
+    {
+        "index": 39,
+        "start_time": 115420,
+        "end_time": 121909,
+        "text": "in this case amplifying the sad loneliness\nof a single leaf falling through space."
+    },
+    {
+        "index": 40,
+        "start_time": 121909,
+        "end_time": 125569,
+        "text": "If the visual nature of poetry\nfaded into the background,"
+    },
+    {
+        "index": 41,
+        "start_time": 125569,
+        "end_time": 127989,
+        "text": "perhaps we&#39;d be left with music,"
+    },
+    {
+        "index": 42,
+        "start_time": 127989,
+        "end_time": 130600,
+        "text": "and that&#39;s an area that people\nlove to debate."
+    },
+    {
+        "index": 43,
+        "start_time": 130600,
+        "end_time": 132669,
+        "text": "Are songs poems?"
+    },
+    {
+        "index": 44,
+        "start_time": 132669,
+        "end_time": 136189,
+        "text": "Many don&#39;t regard songwriters as poets\nin a literary sense,"
+    },
+    {
+        "index": 45,
+        "start_time": 136189,
+        "end_time": 138689,
+        "text": "but lyrics from artists like Paul Simon,"
+    },
+    {
+        "index": 46,
+        "start_time": 138689,
+        "end_time": 139788,
+        "text": "Bob Dylan,"
+    },
+    {
+        "index": 47,
+        "start_time": 139788,
+        "end_time": 141159,
+        "text": "and Tupac Shakur"
+    },
+    {
+        "index": 48,
+        "start_time": 141159,
+        "end_time": 143829,
+        "text": "often hold up even without the music."
+    },
+    {
+        "index": 49,
+        "start_time": 143829,
+        "end_time": 147049,
+        "text": "In rap, poet elements like rhyme,\nrhythm, and imagery"
+    },
+    {
+        "index": 50,
+        "start_time": 147049,
+        "end_time": 149529,
+        "text": "are inseparable from the form."
+    },
+    {
+        "index": 51,
+        "start_time": 149529,
+        "end_time": 152359,
+        "text": "Take this lyric from the Notorious B.I.G."
+    },
+    {
+        "index": 52,
+        "start_time": 152359,
+        "end_time": 154727,
+        "text": "&quot;I can hear sweat trickling \ndown your cheek"
+    },
+    {
+        "index": 53,
+        "start_time": 154727,
+        "end_time": 157019,
+        "text": "Your heartbeat sound \nlike Sasquatch feet"
+    },
+    {
+        "index": 54,
+        "start_time": 157019,
+        "end_time": 159801,
+        "text": "Thundering, shaking the concrete.&quot;"
+    },
+    {
+        "index": 55,
+        "start_time": 159801,
+        "end_time": 163298,
+        "text": "So far, all the examples we&#39;ve seen\nhave had line breaks."
+    },
+    {
+        "index": 56,
+        "start_time": 163298,
+        "end_time": 168045,
+        "text": "We can even imagine the two words\nof Ali&#39;s poem organizing in the air -"
+    },
+    {
+        "index": 57,
+        "start_time": 168045,
+        "end_time": 170258,
+        "text": "Me, We."
+    },
+    {
+        "index": 58,
+        "start_time": 170258,
+        "end_time": 173304,
+        "text": "Poetry has a shape \nthat we can usually recognize."
+    },
+    {
+        "index": 59,
+        "start_time": 173304,
+        "end_time": 177209,
+        "text": "Its line breaks help readers navigate\nthe rhythms of a poem."
+    },
+    {
+        "index": 60,
+        "start_time": 177209,
+        "end_time": 179628,
+        "text": "But what if those line breaks disappeared?"
+    },
+    {
+        "index": 61,
+        "start_time": 179628,
+        "end_time": 182118,
+        "text": "Would it lose its essence as a poem?"
+    },
+    {
+        "index": 62,
+        "start_time": 182118,
+        "end_time": 183433,
+        "text": "Maybe not."
+    },
+    {
+        "index": 63,
+        "start_time": 183433,
+        "end_time": 185237,
+        "text": "Enter the prose poem."
+    },
+    {
+        "index": 64,
+        "start_time": 185237,
+        "end_time": 187989,
+        "text": "Prose poems use vivid images\nand wordplay"
+    },
+    {
+        "index": 65,
+        "start_time": 187989,
+        "end_time": 191271,
+        "text": "but are formatted like paragraphs."
+    },
+    {
+        "index": 66,
+        "start_time": 191271,
+        "end_time": 195343,
+        "text": "When we look at poetry less as a form\nand more as a concept,"
+    },
+    {
+        "index": 67,
+        "start_time": 195343,
+        "end_time": 198149,
+        "text": "we can see the poetic all around us:"
+    },
+    {
+        "index": 68,
+        "start_time": 198149,
+        "end_time": 199378,
+        "text": "spiritual hymns,"
+    },
+    {
+        "index": 69,
+        "start_time": 199378,
+        "end_time": 202249,
+        "text": "the speeches of orators like\nMartin Luther King, Jr.,"
+    },
+    {
+        "index": 70,
+        "start_time": 202249,
+        "end_time": 203179,
+        "text": "JFK,"
+    },
+    {
+        "index": 71,
+        "start_time": 203179,
+        "end_time": 204590,
+        "text": "and Winston Churchill,"
+    },
+    {
+        "index": 72,
+        "start_time": 204590,
+        "end_time": 207429,
+        "text": "and surprising places like social media."
+    },
+    {
+        "index": 73,
+        "start_time": 207429,
+        "end_time": 213140,
+        "text": "In 2010, journalist Joanna Smith tweeted\nupdates from the earthquake in Haiti."
+    },
+    {
+        "index": 74,
+        "start_time": 213140,
+        "end_time": 216091,
+        "text": "&quot;Was in b-room getting dressed\nwhen heard my name."
+    },
+    {
+        "index": 75,
+        "start_time": 216091,
+        "end_time": 218811,
+        "text": "Tremor. Ran outside through sliding door."
+    },
+    {
+        "index": 76,
+        "start_time": 218811,
+        "end_time": 222531,
+        "text": "All still now. Safe. Roosters crowing.&quot;"
+    },
+    {
+        "index": 77,
+        "start_time": 222531,
+        "end_time": 226061,
+        "text": "Smith uses language in a way\nthat is powerful, direct,"
+    },
+    {
+        "index": 78,
+        "start_time": 226061,
+        "end_time": 228261,
+        "text": "and filled with vivid images."
+    },
+    {
+        "index": 79,
+        "start_time": 228273,
+        "end_time": 230723,
+        "text": "Compare her language to a haiku,"
+    },
+    {
+        "index": 80,
+        "start_time": 230723,
+        "end_time": 235823,
+        "text": "the ancient Japanese poetic form \nthat emphasizes bursts of brief intensity"
+    },
+    {
+        "index": 81,
+        "start_time": 235823,
+        "end_time": 240684,
+        "text": "with just three lines of five, \nseven, and five syllables."
+    },
+    {
+        "index": 82,
+        "start_time": 240684,
+        "end_time": 243632,
+        "text": "The waters of poetry run wide and deep."
+    },
+    {
+        "index": 83,
+        "start_time": 243632,
+        "end_time": 245504,
+        "text": "Poetry has evolved over time,"
+    },
+    {
+        "index": 84,
+        "start_time": 245504,
+        "end_time": 247193,
+        "text": "and perhaps now more than ever,"
+    },
+    {
+        "index": 85,
+        "start_time": 247193,
+        "end_time": 252854,
+        "text": "the line between poetry, \nprose, song, and visual art has blurred."
+    },
+    {
+        "index": 86,
+        "start_time": 252854,
+        "end_time": 255234,
+        "text": "However, one thing has not changed."
+    },
+    {
+        "index": 87,
+        "start_time": 255234,
+        "end_time": 258664,
+        "text": "The word poetry actually began\nin verb form,"
+    },
+    {
+        "index": 88,
+        "start_time": 258664,
+        "end_time": 263604,
+        "text": "coming from the ancient Greek poiesis,\nwhich means to create."
+    },
+    {
+        "index": 89,
+        "start_time": 263604,
+        "end_time": 268144,
+        "text": "Poets, like craftsman, still work with\nthe raw materials of the world"
+    },
+    {
+        "index": 90,
+        "start_time": 268144,
+        "end_time": 269992,
+        "text": "to forge new understandings"
+    },
+    {
+        "index": 91,
+        "start_time": 269992,
+        "end_time": 276075,
+        "text": "and comment on what it is to be human\nin a way only humans can."
+    },
+    {
+        "index": 92,
+        "start_time": 276075,
+        "end_time": 281525,
+        "text": "Dartmouth researchers tested this idea\nby asking robots to pen poetry."
+    },
+    {
+        "index": 93,
+        "start_time": 281525,
+        "end_time": 285024,
+        "text": "A panel of judges sorted \nthrough stacks of sonnets"
+    },
+    {
+        "index": 94,
+        "start_time": 285024,
+        "end_time": 289054,
+        "text": "to see if they could distinguish those\nmade by man and machine."
+    },
+    {
+        "index": 95,
+        "start_time": 289054,
+        "end_time": 293012,
+        "text": "You may be happy to know that while\nscientists have successfully"
+    },
+    {
+        "index": 96,
+        "start_time": 293012,
+        "end_time": 296035,
+        "text": "used artificial intelligence \nin manufacturing,"
+    },
+    {
+        "index": 97,
+        "start_time": 296035,
+        "end_time": 297035,
+        "text": "medicine,"
+    },
+    {
+        "index": 98,
+        "start_time": 297035,
+        "end_time": 298575,
+        "text": "and even journalism,"
+    },
+    {
+        "index": 99,
+        "start_time": 298575,
+        "end_time": 301255,
+        "text": "poetry is a different story."
+    },
+    {
+        "index": 100,
+        "start_time": 301255,
+        "end_time": 304805,
+        "text": "The robots were caught red-handed\n100% of the time."
+    }
+]

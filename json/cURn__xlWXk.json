@@ -1,0 +1,530 @@
+[
+    {
+        "index": 1,
+        "start_time": 8598,
+        "end_time": 11429,
+        "text": "One foggy morning in 1884,"
+    },
+    {
+        "index": 2,
+        "start_time": 11429,
+        "end_time": 16697,
+        "text": "the British steamer &quot;Rumney&quot; crashed\ninto the French ship &quot;Frigorifique.&quot;"
+    },
+    {
+        "index": 3,
+        "start_time": 16697,
+        "end_time": 18479,
+        "text": "Seeing their ship filling with water,"
+    },
+    {
+        "index": 4,
+        "start_time": 18479,
+        "end_time": 21789,
+        "text": "the French crew climbed \naboard the &quot;Rumney.&quot;"
+    },
+    {
+        "index": 5,
+        "start_time": 21789,
+        "end_time": 23999,
+        "text": "But as they sailed towards \nthe nearest port,"
+    },
+    {
+        "index": 6,
+        "start_time": 23999,
+        "end_time": 27887,
+        "text": "a silent form suddenly emerged\nfrom the fog:"
+    },
+    {
+        "index": 7,
+        "start_time": 27887,
+        "end_time": 30628,
+        "text": "the abandoned &quot;Frigorifique.&quot;"
+    },
+    {
+        "index": 8,
+        "start_time": 30628,
+        "end_time": 32089,
+        "text": "It was too late to turn,"
+    },
+    {
+        "index": 9,
+        "start_time": 32089,
+        "end_time": 35328,
+        "text": "and the impact was enough \nto sink the &quot;Rumney.&quot;"
+    },
+    {
+        "index": 10,
+        "start_time": 35328,
+        "end_time": 37629,
+        "text": "As the sailors scrambled \ninto the lifeboats,"
+    },
+    {
+        "index": 11,
+        "start_time": 37629,
+        "end_time": 40869,
+        "text": "the empty &quot;Frigorifique&quot;\nsailed back into the fog,"
+    },
+    {
+        "index": 12,
+        "start_time": 40869,
+        "end_time": 43658,
+        "text": "having seemingly taken its revenge."
+    },
+    {
+        "index": 13,
+        "start_time": 43658,
+        "end_time": 47369,
+        "text": "In reality, the French sailors had left\nthe engines running,"
+    },
+    {
+        "index": 14,
+        "start_time": 47369,
+        "end_time": 50930,
+        "text": "and the &quot;Frigorifique&quot; sailed in a circle\nbefore striking the &quot;Rumney&quot;"
+    },
+    {
+        "index": 15,
+        "start_time": 50930,
+        "end_time": 53740,
+        "text": "and finally sinking."
+    },
+    {
+        "index": 16,
+        "start_time": 53740,
+        "end_time": 56919,
+        "text": "But its story became one of the many tales\nof ghost ships,"
+    },
+    {
+        "index": 17,
+        "start_time": 56919,
+        "end_time": 61430,
+        "text": "unmanned vessels that apparently\nsail themselves."
+    },
+    {
+        "index": 18,
+        "start_time": 61430,
+        "end_time": 63851,
+        "text": "And although they&#39;ve influenced\nworks like &quot;Dracula&quot;"
+    },
+    {
+        "index": 19,
+        "start_time": 63851,
+        "end_time": 65579,
+        "text": "and &quot;Pirates of the Caribbean,&quot;"
+    },
+    {
+        "index": 20,
+        "start_time": 65579,
+        "end_time": 69440,
+        "text": "crewless ships aren&#39;t the product\nof ghostly spirits,"
+    },
+    {
+        "index": 21,
+        "start_time": 69440,
+        "end_time": 71551,
+        "text": "just physics at work."
+    },
+    {
+        "index": 22,
+        "start_time": 71551,
+        "end_time": 75120,
+        "text": "One of the most famous ghost ships\nwas the &quot;Mary Celeste&quot;"
+    },
+    {
+        "index": 23,
+        "start_time": 75120,
+        "end_time": 80191,
+        "text": "found sailing the Atlantic in 1872\nwith no one aboard,"
+    },
+    {
+        "index": 24,
+        "start_time": 80191,
+        "end_time": 81631,
+        "text": "water in its hold,"
+    },
+    {
+        "index": 25,
+        "start_time": 81631,
+        "end_time": 84451,
+        "text": "and lifeboats missing."
+    },
+    {
+        "index": 26,
+        "start_time": 84451,
+        "end_time": 89550,
+        "text": "The discovery of its intact cargo\nand a captain&#39;s log that ended abruptly"
+    },
+    {
+        "index": 27,
+        "start_time": 89550,
+        "end_time": 92532,
+        "text": "led to wild rumors and speculation."
+    },
+    {
+        "index": 28,
+        "start_time": 92532,
+        "end_time": 96231,
+        "text": "But the real culprits \nwere two scientific phenomena:"
+    },
+    {
+        "index": 29,
+        "start_time": 96231,
+        "end_time": 97131,
+        "text": "buoyancy"
+    },
+    {
+        "index": 30,
+        "start_time": 97131,
+        "end_time": 99062,
+        "text": "and fluid dynamics."
+    },
+    {
+        "index": 31,
+        "start_time": 99062,
+        "end_time": 101481,
+        "text": "Here&#39;s how buoyancy works."
+    },
+    {
+        "index": 32,
+        "start_time": 101481,
+        "end_time": 106390,
+        "text": "An object placed in a liquid displaces\na certain volume of fluid."
+    },
+    {
+        "index": 33,
+        "start_time": 106390,
+        "end_time": 110251,
+        "text": "The liquid in turn exerts\nan upward buoyant force"
+    },
+    {
+        "index": 34,
+        "start_time": 110251,
+        "end_time": 113781,
+        "text": "equal to the weight of the fluid\nthat&#39;s been displaced."
+    },
+    {
+        "index": 35,
+        "start_time": 113781,
+        "end_time": 116404,
+        "text": "This phenomenon is called\nArchimedes&#39;s Principle."
+    },
+    {
+        "index": 36,
+        "start_time": 116404,
+        "end_time": 118488,
+        "text": "Objects that are less dense than water,"
+    },
+    {
+        "index": 37,
+        "start_time": 118488,
+        "end_time": 119709,
+        "text": "such as balsa wood,"
+    },
+    {
+        "index": 38,
+        "start_time": 119709,
+        "end_time": 120755,
+        "text": "icebergs,"
+    },
+    {
+        "index": 39,
+        "start_time": 120755,
+        "end_time": 122361,
+        "text": "and inflatable rafts"
+    },
+    {
+        "index": 40,
+        "start_time": 122361,
+        "end_time": 123715,
+        "text": "always float."
+    },
+    {
+        "index": 41,
+        "start_time": 123715,
+        "end_time": 125642,
+        "text": "That&#39;s because the upward buoyant force"
+    },
+    {
+        "index": 42,
+        "start_time": 125642,
+        "end_time": 129994,
+        "text": "is always stronger than \nthe downward force of gravity."
+    },
+    {
+        "index": 43,
+        "start_time": 129994,
+        "end_time": 133899,
+        "text": "But for objects or ships to float when \nthey&#39;re made of materials, like steel,"
+    },
+    {
+        "index": 44,
+        "start_time": 133899,
+        "end_time": 135482,
+        "text": "that are denser than water,"
+    },
+    {
+        "index": 45,
+        "start_time": 135482,
+        "end_time": 139722,
+        "text": "they must displace a volume of water\nlarger than their weight."
+    },
+    {
+        "index": 46,
+        "start_time": 139722,
+        "end_time": 143873,
+        "text": "Normally, the water filling a ship&#39;s hull\nwould increase its weight"
+    },
+    {
+        "index": 47,
+        "start_time": 143873,
+        "end_time": 145382,
+        "text": "and cause it to sink -"
+    },
+    {
+        "index": 48,
+        "start_time": 145382,
+        "end_time": 149502,
+        "text": "just what the &quot;Mary Celeste&#39;s&quot; crew feared\nwhen they abandoned ship."
+    },
+    {
+        "index": 49,
+        "start_time": 149502,
+        "end_time": 152795,
+        "text": "But the sailors didn&#39;t account \nfor fluid dynamics."
+    },
+    {
+        "index": 50,
+        "start_time": 152795,
+        "end_time": 156095,
+        "text": "The water stopped flowing at the point\nof equilibrium,"
+    },
+    {
+        "index": 51,
+        "start_time": 156095,
+        "end_time": 158992,
+        "text": "when it reached \nthe same level as the hull."
+    },
+    {
+        "index": 52,
+        "start_time": 158992,
+        "end_time": 163462,
+        "text": "As it turned out, the weight of the water\nwasn&#39;t enough to sink the ship"
+    },
+    {
+        "index": 53,
+        "start_time": 163462,
+        "end_time": 166204,
+        "text": "and the &quot;Mary Celeste&quot;\nwas found a few days later"
+    },
+    {
+        "index": 54,
+        "start_time": 166204,
+        "end_time": 170843,
+        "text": "while the unfortunate crew \nnever made it to shore."
+    },
+    {
+        "index": 55,
+        "start_time": 170843,
+        "end_time": 174363,
+        "text": "Far stranger is the tale \nof &quot;A. Ernest Mills,&quot;"
+    },
+    {
+        "index": 56,
+        "start_time": 174363,
+        "end_time": 176443,
+        "text": "a schooner transporting salt,"
+    },
+    {
+        "index": 57,
+        "start_time": 176443,
+        "end_time": 180643,
+        "text": "whose crew watched it sink to \nthe sea floor following a collision."
+    },
+    {
+        "index": 58,
+        "start_time": 180643,
+        "end_time": 185133,
+        "text": "Yet four days later,\nit was spotted floating on the surface."
+    },
+    {
+        "index": 59,
+        "start_time": 185133,
+        "end_time": 190013,
+        "text": "The key to the mystery lay in the ship&#39;s\nheavy cargo of salt."
+    },
+    {
+        "index": 60,
+        "start_time": 190013,
+        "end_time": 193733,
+        "text": "The added weight of the water in the hull\nmade the vessel sink,"
+    },
+    {
+        "index": 61,
+        "start_time": 193733,
+        "end_time": 196033,
+        "text": "but as the salt dissolved in the water,"
+    },
+    {
+        "index": 62,
+        "start_time": 196033,
+        "end_time": 198123,
+        "text": "the weight decreased enough"
+    },
+    {
+        "index": 63,
+        "start_time": 198123,
+        "end_time": 202023,
+        "text": "that the force of gravity \nbecame less than the buoyant force"
+    },
+    {
+        "index": 64,
+        "start_time": 202023,
+        "end_time": 205524,
+        "text": "and the ship floated back to the surface."
+    },
+    {
+        "index": 65,
+        "start_time": 205524,
+        "end_time": 210025,
+        "text": "But how do we explain the most\nenduring aspect of ghost ship legends:"
+    },
+    {
+        "index": 66,
+        "start_time": 210025,
+        "end_time": 216885,
+        "text": "multiple sightings of the same ships \nhundreds of miles and several years apart?"
+    },
+    {
+        "index": 67,
+        "start_time": 216885,
+        "end_time": 219451,
+        "text": "The answer lies in ocean currents,"
+    },
+    {
+        "index": 68,
+        "start_time": 219451,
+        "end_time": 223052,
+        "text": "which are like invisible rivers flowing\nthrough the ocean."
+    },
+    {
+        "index": 69,
+        "start_time": 223052,
+        "end_time": 224291,
+        "text": "Factors, like temperature,"
+    },
+    {
+        "index": 70,
+        "start_time": 224291,
+        "end_time": 225301,
+        "text": "salinity,"
+    },
+    {
+        "index": 71,
+        "start_time": 225301,
+        "end_time": 226151,
+        "text": "wind,"
+    },
+    {
+        "index": 72,
+        "start_time": 226151,
+        "end_time": 226962,
+        "text": "gravity,"
+    },
+    {
+        "index": 73,
+        "start_time": 226962,
+        "end_time": 229901,
+        "text": "and the Coriolis effect from\nthe Earth&#39;s rotation"
+    },
+    {
+        "index": 74,
+        "start_time": 229901,
+        "end_time": 234111,
+        "text": "create a complex system of water movement."
+    },
+    {
+        "index": 75,
+        "start_time": 234111,
+        "end_time": 238700,
+        "text": "That applies both at the ocean&#39;s surface\nand deep below."
+    },
+    {
+        "index": 76,
+        "start_time": 238700,
+        "end_time": 241244,
+        "text": "Sailors have always known about currents,"
+    },
+    {
+        "index": 77,
+        "start_time": 241244,
+        "end_time": 245794,
+        "text": "but their patterns weren&#39;t well known\nuntil recently."
+    },
+    {
+        "index": 78,
+        "start_time": 245794,
+        "end_time": 250277,
+        "text": "In fact, tracking abandoned ships was how\nscientists determined the shape"
+    },
+    {
+        "index": 79,
+        "start_time": 250277,
+        "end_time": 252918,
+        "text": "and speed of the Atlantic Gyre,"
+    },
+    {
+        "index": 80,
+        "start_time": 252918,
+        "end_time": 254147,
+        "text": "the Gulf Stream,"
+    },
+    {
+        "index": 81,
+        "start_time": 254147,
+        "end_time": 257088,
+        "text": "and related currents in the first place."
+    },
+    {
+        "index": 82,
+        "start_time": 257088,
+        "end_time": 260738,
+        "text": "Beginning in 1883, \nthe U.S. Hydrographic Office"
+    },
+    {
+        "index": 83,
+        "start_time": 260738,
+        "end_time": 264436,
+        "text": "began collecting monthly data\nthat included navigation hazards,"
+    },
+    {
+        "index": 84,
+        "start_time": 264436,
+        "end_time": 269668,
+        "text": "like derelict ships, whose locations\nwere reported by passing vessels."
+    },
+    {
+        "index": 85,
+        "start_time": 269668,
+        "end_time": 274996,
+        "text": "So abandoned ships may not be moved\nby ghost crews or supernatural curses,"
+    },
+    {
+        "index": 86,
+        "start_time": 274996,
+        "end_time": 278207,
+        "text": "but they are a real \nand fascinating phenomenon"
+    },
+    {
+        "index": 87,
+        "start_time": 278207,
+        "end_time": 279768,
+        "text": "born through the ocean"
+    },
+    {
+        "index": 88,
+        "start_time": 279768,
+        "end_time": 284718,
+        "text": "and kept afloat by powerful, invisible,\nscientifically studied forces."
+    }
+]

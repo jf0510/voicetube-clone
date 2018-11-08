@@ -1,0 +1,560 @@
+[
+    {
+        "index": 1,
+        "start_time": 6495,
+        "end_time": 8485,
+        "text": "For most of history,"
+    },
+    {
+        "index": 2,
+        "start_time": 8485,
+        "end_time": 12497,
+        "text": "humans had no idea what purpose the heart served."
+    },
+    {
+        "index": 3,
+        "start_time": 12497,
+        "end_time": 16380,
+        "text": "In fact, the organ so confused Leonardo da Vinci,"
+    },
+    {
+        "index": 4,
+        "start_time": 16380,
+        "end_time": 18721,
+        "text": "that he gave up studying it."
+    },
+    {
+        "index": 5,
+        "start_time": 18721,
+        "end_time": 21402,
+        "text": "Although everyone could feel their own heart beating,"
+    },
+    {
+        "index": 6,
+        "start_time": 21402,
+        "end_time": 25741,
+        "text": "it wasn&#39;t always clear what each thump was achieving."
+    },
+    {
+        "index": 7,
+        "start_time": 25741,
+        "end_time": 28558,
+        "text": "Now we know that the heart pumps blood."
+    },
+    {
+        "index": 8,
+        "start_time": 28558,
+        "end_time": 30916,
+        "text": "But that fact wasn&#39;t always obvious,"
+    },
+    {
+        "index": 9,
+        "start_time": 30916,
+        "end_time": 33287,
+        "text": "because if a heart was exposed or taken out,"
+    },
+    {
+        "index": 10,
+        "start_time": 33287,
+        "end_time": 35138,
+        "text": "the body would perish quickly."
+    },
+    {
+        "index": 11,
+        "start_time": 35138,
+        "end_time": 38249,
+        "text": "It&#39;s also impossible to see through the blood vessels,"
+    },
+    {
+        "index": 12,
+        "start_time": 38249,
+        "end_time": 39952,
+        "text": "and even if that were possible,"
+    },
+    {
+        "index": 13,
+        "start_time": 39952,
+        "end_time": 41749,
+        "text": "the blood itself is opaque,"
+    },
+    {
+        "index": 14,
+        "start_time": 41749,
+        "end_time": 44900,
+        "text": "making it difficult to see the heart valves working."
+    },
+    {
+        "index": 15,
+        "start_time": 44900,
+        "end_time": 46930,
+        "text": "Even in the 21st century,"
+    },
+    {
+        "index": 16,
+        "start_time": 46930,
+        "end_time": 49227,
+        "text": "only a few people in surgery teams"
+    },
+    {
+        "index": 17,
+        "start_time": 49227,
+        "end_time": 52034,
+        "text": "have actually seen a working heart."
+    },
+    {
+        "index": 18,
+        "start_time": 52034,
+        "end_time": 54012,
+        "text": "Internet searches for heart function,"
+    },
+    {
+        "index": 19,
+        "start_time": 54012,
+        "end_time": 56122,
+        "text": "point to crude models, diagrams"
+    },
+    {
+        "index": 20,
+        "start_time": 56122,
+        "end_time": 59674,
+        "text": "or animations that don&#39;t really show how it works."
+    },
+    {
+        "index": 21,
+        "start_time": 59699,
+        "end_time": 62227,
+        "text": "It&#39;s as if there has been a centuries old conspiracy"
+    },
+    {
+        "index": 22,
+        "start_time": 62227,
+        "end_time": 64015,
+        "text": "amongst teachers and students"
+    },
+    {
+        "index": 23,
+        "start_time": 64015,
+        "end_time": 67376,
+        "text": "to accept that heart function cannot be demonstrated."
+    },
+    {
+        "index": 24,
+        "start_time": 67376,
+        "end_time": 69039,
+        "text": "Meaning that the next best thing"
+    },
+    {
+        "index": 25,
+        "start_time": 69039,
+        "end_time": 72268,
+        "text": "is simply to cut it open and label the parts."
+    },
+    {
+        "index": 26,
+        "start_time": 72268,
+        "end_time": 75343,
+        "text": "That way students might not fully grasp the way it works,"
+    },
+    {
+        "index": 27,
+        "start_time": 75343,
+        "end_time": 78075,
+        "text": "but can superficially understand it,"
+    },
+    {
+        "index": 28,
+        "start_time": 78075,
+        "end_time": 79863,
+        "text": "learning such concepts as"
+    },
+    {
+        "index": 29,
+        "start_time": 79863,
+        "end_time": 82132,
+        "text": "the heart is a four-chambered organ,"
+    },
+    {
+        "index": 30,
+        "start_time": 82132,
+        "end_time": 84350,
+        "text": "or potentially misleading statements like,"
+    },
+    {
+        "index": 31,
+        "start_time": 84350,
+        "end_time": 86623,
+        "text": "mammals have a dual-circulation:"
+    },
+    {
+        "index": 32,
+        "start_time": 86623,
+        "end_time": 89012,
+        "text": "one with blood going to the lungs and back,"
+    },
+    {
+        "index": 33,
+        "start_time": 89012,
+        "end_time": 91110,
+        "text": "and another to the body and back."
+    },
+    {
+        "index": 34,
+        "start_time": 91110,
+        "end_time": 94555,
+        "text": "In reality, mammals have a figure-eight circulation."
+    },
+    {
+        "index": 35,
+        "start_time": 94555,
+        "end_time": 97213,
+        "text": "Blood goes from one heart pump to the lungs,"
+    },
+    {
+        "index": 36,
+        "start_time": 97213,
+        "end_time": 100496,
+        "text": "back to the second heart pump, which sends it to the body,"
+    },
+    {
+        "index": 37,
+        "start_time": 100496,
+        "end_time": 102463,
+        "text": "and then back to the first pump."
+    },
+    {
+        "index": 38,
+        "start_time": 102463,
+        "end_time": 103967,
+        "text": "That&#39;s an important difference"
+    },
+    {
+        "index": 39,
+        "start_time": 103967,
+        "end_time": 107640,
+        "text": "because it marks two completely different morphologies."
+    },
+    {
+        "index": 40,
+        "start_time": 107640,
+        "end_time": 109520,
+        "text": "This confusion makes many students"
+    },
+    {
+        "index": 41,
+        "start_time": 109520,
+        "end_time": 112258,
+        "text": "wary of the heart in biology lessons,"
+    },
+    {
+        "index": 42,
+        "start_time": 112258,
+        "end_time": 114873,
+        "text": "thinking it signals an intimidating subject"
+    },
+    {
+        "index": 43,
+        "start_time": 114873,
+        "end_time": 117773,
+        "text": "full of complicated names and diagrams."
+    },
+    {
+        "index": 44,
+        "start_time": 117773,
+        "end_time": 120066,
+        "text": "Only those who end up studying medicine"
+    },
+    {
+        "index": 45,
+        "start_time": 120066,
+        "end_time": 123335,
+        "text": "compeltely understand how it all actually works."
+    },
+    {
+        "index": 46,
+        "start_time": 123335,
+        "end_time": 125403,
+        "text": "That&#39;s when its functions become apparent"
+    },
+    {
+        "index": 47,
+        "start_time": 125403,
+        "end_time": 128980,
+        "text": "as medics get to observe the motion of the heart&#39;s valves."
+    },
+    {
+        "index": 48,
+        "start_time": 128980,
+        "end_time": 131843,
+        "text": "So, let&#39;s imagine you&#39;re a medic for a day."
+    },
+    {
+        "index": 49,
+        "start_time": 131843,
+        "end_time": 135039,
+        "text": "What you&#39;ll need to get started is a whole fresh heart,"
+    },
+    {
+        "index": 50,
+        "start_time": 135039,
+        "end_time": 137468,
+        "text": "like one from a sheep or pig."
+    },
+    {
+        "index": 51,
+        "start_time": 137468,
+        "end_time": 139166,
+        "text": "Immerse this heart in water"
+    },
+    {
+        "index": 52,
+        "start_time": 139166,
+        "end_time": 142462,
+        "text": "and you&#39;ll see that it doesn&#39;t pump when squeezed by hand."
+    },
+    {
+        "index": 53,
+        "start_time": 142462,
+        "end_time": 145426,
+        "text": "That&#39;s because water doesn&#39;t enter the heart cleanly enough"
+    },
+    {
+        "index": 54,
+        "start_time": 145426,
+        "end_time": 147693,
+        "text": "for the pumping mechanism to work."
+    },
+    {
+        "index": 55,
+        "start_time": 147693,
+        "end_time": 151537,
+        "text": "We can solve this problem in an extraordinarly simple way."
+    },
+    {
+        "index": 56,
+        "start_time": 151537,
+        "end_time": 155119,
+        "text": "Simply identify the two atria and cut them off,"
+    },
+    {
+        "index": 57,
+        "start_time": 155119,
+        "end_time": 158099,
+        "text": "trimming them down to the tops of the ventricles."
+    },
+    {
+        "index": 58,
+        "start_time": 158099,
+        "end_time": 160362,
+        "text": "This makes the heart look less complicated"
+    },
+    {
+        "index": 59,
+        "start_time": 160362,
+        "end_time": 163989,
+        "text": "because the atria have several incoming veins attached."
+    },
+    {
+        "index": 60,
+        "start_time": 163989,
+        "end_time": 166824,
+        "text": "So without them there, the only vessels remaining"
+    },
+    {
+        "index": 61,
+        "start_time": 166824,
+        "end_time": 168943,
+        "text": "are the two major heart arteries:"
+    },
+    {
+        "index": 62,
+        "start_time": 168943,
+        "end_time": 171326,
+        "text": "the aorta and pulmonary artery,"
+    },
+    {
+        "index": 63,
+        "start_time": 171326,
+        "end_time": 174834,
+        "text": "which rise like white columns from between the ventricles."
+    },
+    {
+        "index": 64,
+        "start_time": 174834,
+        "end_time": 177753,
+        "text": "It looks -- and really is -- very simple."
+    },
+    {
+        "index": 65,
+        "start_time": 177753,
+        "end_time": 181217,
+        "text": "If you run water into the right ventricle from a tap"
+    },
+    {
+        "index": 66,
+        "start_time": 181217,
+        "end_time": 184099,
+        "text": "(the left also works, but less spectacularly),"
+    },
+    {
+        "index": 67,
+        "start_time": 184099,
+        "end_time": 185992,
+        "text": "you&#39;ll see that the ventricular valve"
+    },
+    {
+        "index": 68,
+        "start_time": 185992,
+        "end_time": 189061,
+        "text": "tries to close against the incoming stream."
+    },
+    {
+        "index": 69,
+        "start_time": 189061,
+        "end_time": 191480,
+        "text": "And then ventricle inflates with water."
+    },
+    {
+        "index": 70,
+        "start_time": 191480,
+        "end_time": 193891,
+        "text": "Squeeze the ventricle and a stream of water"
+    },
+    {
+        "index": 71,
+        "start_time": 193891,
+        "end_time": 196245,
+        "text": "squirts out of the pulmonary artery."
+    },
+    {
+        "index": 72,
+        "start_time": 196245,
+        "end_time": 199744,
+        "text": "The ventricular valves, called the tricuspid in the right ventricle"
+    },
+    {
+        "index": 73,
+        "start_time": 199744,
+        "end_time": 201677,
+        "text": "and the mitral in the left,"
+    },
+    {
+        "index": 74,
+        "start_time": 201677,
+        "end_time": 203369,
+        "text": "can be seen through the clear water"
+    },
+    {
+        "index": 75,
+        "start_time": 203369,
+        "end_time": 205798,
+        "text": "opening and closing like parachutes"
+    },
+    {
+        "index": 76,
+        "start_time": 205798,
+        "end_time": 208542,
+        "text": "as the ventricle is rhythmically squeezed."
+    },
+    {
+        "index": 77,
+        "start_time": 208542,
+        "end_time": 212262,
+        "text": "This flow of water mimics the flow of blood in life."
+    },
+    {
+        "index": 78,
+        "start_time": 212262,
+        "end_time": 214290,
+        "text": "The valves are completely efficient."
+    },
+    {
+        "index": 79,
+        "start_time": 214290,
+        "end_time": 218081,
+        "text": "You&#39;ll notice they don&#39;t leak at all when the ventricles are squeezed."
+    },
+    {
+        "index": 80,
+        "start_time": 218081,
+        "end_time": 220868,
+        "text": "Over time, they also close against each other"
+    },
+    {
+        "index": 81,
+        "start_time": 220868,
+        "end_time": 222769,
+        "text": "with very little wear and tear,"
+    },
+    {
+        "index": 82,
+        "start_time": 222769,
+        "end_time": 226009,
+        "text": "which explains how this mechanism continues to work seamlessly"
+    },
+    {
+        "index": 83,
+        "start_time": 226009,
+        "end_time": 230321,
+        "text": "for more than 2 billion beats a heart gives in its lifetime."
+    },
+    {
+        "index": 84,
+        "start_time": 230321,
+        "end_time": 234000,
+        "text": "Now, anyone studying the heart can hold one in their hands,"
+    },
+    {
+        "index": 85,
+        "start_time": 234000,
+        "end_time": 235519,
+        "text": "make it pump for real"
+    },
+    {
+        "index": 86,
+        "start_time": 235519,
+        "end_time": 237446,
+        "text": "and watch the action unfold."
+    },
+    {
+        "index": 87,
+        "start_time": 237446,
+        "end_time": 239617,
+        "text": "So place your hand above your own"
+    },
+    {
+        "index": 88,
+        "start_time": 239617,
+        "end_time": 241909,
+        "text": "and feel its rhymic beat."
+    },
+    {
+        "index": 89,
+        "start_time": 241909,
+        "end_time": 244533,
+        "text": "Understanding how this dependable inner pump works"
+    },
+    {
+        "index": 90,
+        "start_time": 244533,
+        "end_time": 246871,
+        "text": "gives new resonance to the feeling you get"
+    },
+    {
+        "index": 91,
+        "start_time": 246871,
+        "end_time": 248061,
+        "text": "when you run a race,"
+    },
+    {
+        "index": 92,
+        "start_time": 248061,
+        "end_time": 249454,
+        "text": "drink too much caffeine"
+    },
+    {
+        "index": 93,
+        "start_time": 249454,
+        "end_time": 251831,
+        "text": "or catch the eye of the one you love."
+    }
+]

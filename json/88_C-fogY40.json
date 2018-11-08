@@ -1,0 +1,476 @@
+[
+    {
+        "index": 1,
+        "start_time": 6573,
+        "end_time": 9529,
+        "text": "If you line up \nthe entire text of &quot;Moby Dick,&quot;"
+    },
+    {
+        "index": 2,
+        "start_time": 9529,
+        "end_time": 11978,
+        "text": "which was published in 1851,"
+    },
+    {
+        "index": 3,
+        "start_time": 11978,
+        "end_time": 13771,
+        "text": "into a giant rectangle,"
+    },
+    {
+        "index": 4,
+        "start_time": 13771,
+        "end_time": 16776,
+        "text": "you may notice some peculiar patterns,"
+    },
+    {
+        "index": 5,
+        "start_time": 16776,
+        "end_time": 18126,
+        "text": "like these words,"
+    },
+    {
+        "index": 6,
+        "start_time": 18126,
+        "end_time": 21828,
+        "text": "which seem to predict the assassination\nof Martin Luther King,"
+    },
+    {
+        "index": 7,
+        "start_time": 21828,
+        "end_time": 27548,
+        "text": "or these references to the 1997 death\nof Princess Di."
+    },
+    {
+        "index": 8,
+        "start_time": 27548,
+        "end_time": 31764,
+        "text": "So, was Herman Melville a secret prophet?"
+    },
+    {
+        "index": 9,
+        "start_time": 31764,
+        "end_time": 33317,
+        "text": "The answer is no,"
+    },
+    {
+        "index": 10,
+        "start_time": 33317,
+        "end_time": 37697,
+        "text": "and we know that thanks to a mathematical\nprinciple called Ramsey theory."
+    },
+    {
+        "index": 11,
+        "start_time": 37697,
+        "end_time": 41330,
+        "text": "It&#39;s the reason we can find geometric\nshapes in the night sky,"
+    },
+    {
+        "index": 12,
+        "start_time": 41330,
+        "end_time": 43391,
+        "text": "it&#39;s why we can know without checking"
+    },
+    {
+        "index": 13,
+        "start_time": 43391,
+        "end_time": 45389,
+        "text": "that at least two people in London"
+    },
+    {
+        "index": 14,
+        "start_time": 45389,
+        "end_time": 49672,
+        "text": "have exactly the same number \nof hairs on their head,"
+    },
+    {
+        "index": 15,
+        "start_time": 49672,
+        "end_time": 54397,
+        "text": "and it explains why patterns can be found\nin just about any text,"
+    },
+    {
+        "index": 16,
+        "start_time": 54397,
+        "end_time": 56646,
+        "text": "even Vanilla Ice lyrics."
+    },
+    {
+        "index": 17,
+        "start_time": 56646,
+        "end_time": 58939,
+        "text": "So what is Ramsey theory?"
+    },
+    {
+        "index": 18,
+        "start_time": 58939,
+        "end_time": 63417,
+        "text": "Simply put, it states that given enough\nelements in a set or structure,"
+    },
+    {
+        "index": 19,
+        "start_time": 63417,
+        "end_time": 69688,
+        "text": "some particular interesting pattern\namong them is guaranteed to emerge."
+    },
+    {
+        "index": 20,
+        "start_time": 69688,
+        "end_time": 73201,
+        "text": "As a simple example, let&#39;s look at\nwhat&#39;s called the party problem,"
+    },
+    {
+        "index": 21,
+        "start_time": 73201,
+        "end_time": 75933,
+        "text": "a classic illustration of Ramsey theory."
+    },
+    {
+        "index": 22,
+        "start_time": 75933,
+        "end_time": 79021,
+        "text": "Suppose there are at least six people\nat a party."
+    },
+    {
+        "index": 23,
+        "start_time": 79021,
+        "end_time": 81404,
+        "text": "Amazingly enough, we can say for sure"
+    },
+    {
+        "index": 24,
+        "start_time": 81404,
+        "end_time": 85202,
+        "text": "that some group of three of them\neither all know each other,"
+    },
+    {
+        "index": 25,
+        "start_time": 85202,
+        "end_time": 87455,
+        "text": "or have never met before,"
+    },
+    {
+        "index": 26,
+        "start_time": 87455,
+        "end_time": 90035,
+        "text": "without knowing a single thing about them."
+    },
+    {
+        "index": 27,
+        "start_time": 90035,
+        "end_time": 94029,
+        "text": "We can demonstrate that by graphing\nout all the possibilities."
+    },
+    {
+        "index": 28,
+        "start_time": 94029,
+        "end_time": 95921,
+        "text": "Each point represents a person,"
+    },
+    {
+        "index": 29,
+        "start_time": 95921,
+        "end_time": 98919,
+        "text": "and a line indicates \nthat the pair know each other."
+    },
+    {
+        "index": 30,
+        "start_time": 98919,
+        "end_time": 104007,
+        "text": "Every pair only has two possibilities:\nthey either know each other or they don&#39;t."
+    },
+    {
+        "index": 31,
+        "start_time": 104007,
+        "end_time": 106099,
+        "text": "There are a lot of possibilities,"
+    },
+    {
+        "index": 32,
+        "start_time": 106099,
+        "end_time": 109640,
+        "text": "but every single one has the property \nthat we&#39;re looking for."
+    },
+    {
+        "index": 33,
+        "start_time": 109640,
+        "end_time": 114411,
+        "text": "Six is the lowest number of guests\nwhere that&#39;s guaranteed to be the case,"
+    },
+    {
+        "index": 34,
+        "start_time": 114411,
+        "end_time": 117166,
+        "text": "which we can express like this."
+    },
+    {
+        "index": 35,
+        "start_time": 117166,
+        "end_time": 119167,
+        "text": "Ramsey theory gives us a guarantee"
+    },
+    {
+        "index": 36,
+        "start_time": 119167,
+        "end_time": 123225,
+        "text": "that such a minimum number exists\nfor certain patterns,"
+    },
+    {
+        "index": 37,
+        "start_time": 123225,
+        "end_time": 125380,
+        "text": "but no easy way to find it."
+    },
+    {
+        "index": 38,
+        "start_time": 125380,
+        "end_time": 128571,
+        "text": "In this case, as the total number\nof guests grows higher,"
+    },
+    {
+        "index": 39,
+        "start_time": 128571,
+        "end_time": 130848,
+        "text": "the combinations get out of control."
+    },
+    {
+        "index": 40,
+        "start_time": 130848,
+        "end_time": 135037,
+        "text": "For instance, say you&#39;re trying\nto find out the minimum size of a party"
+    },
+    {
+        "index": 41,
+        "start_time": 135037,
+        "end_time": 139799,
+        "text": "where there&#39;s a group of five people\nwho all know each other or all don&#39;t."
+    },
+    {
+        "index": 42,
+        "start_time": 139799,
+        "end_time": 141856,
+        "text": "Despite five being a small number,"
+    },
+    {
+        "index": 43,
+        "start_time": 141856,
+        "end_time": 144662,
+        "text": "the answer is virtually \nimpossible to discover"
+    },
+    {
+        "index": 44,
+        "start_time": 144662,
+        "end_time": 147391,
+        "text": "through an exhaustive search like this."
+    },
+    {
+        "index": 45,
+        "start_time": 147391,
+        "end_time": 150774,
+        "text": "That&#39;s because of the sheer \nvolume of possibilities."
+    },
+    {
+        "index": 46,
+        "start_time": 150774,
+        "end_time": 158757,
+        "text": "A party with 48 guests \nhas 2^(1128) possible configurations,"
+    },
+    {
+        "index": 47,
+        "start_time": 158757,
+        "end_time": 161658,
+        "text": "more than the number of atoms \nin the Universe."
+    },
+    {
+        "index": 48,
+        "start_time": 161658,
+        "end_time": 163232,
+        "text": "Even with the help of computers,"
+    },
+    {
+        "index": 49,
+        "start_time": 163232,
+        "end_time": 166099,
+        "text": "the best we know is that the answer\nto this question"
+    },
+    {
+        "index": 50,
+        "start_time": 166099,
+        "end_time": 170604,
+        "text": "is somewhere between 43 and 49 guests."
+    },
+    {
+        "index": 51,
+        "start_time": 170604,
+        "end_time": 173064,
+        "text": "What this shows us \nis that specific patterns"
+    },
+    {
+        "index": 52,
+        "start_time": 173064,
+        "end_time": 175531,
+        "text": "with seemingly astronomical odds"
+    },
+    {
+        "index": 53,
+        "start_time": 175531,
+        "end_time": 178709,
+        "text": "can emerge from a relatively small set."
+    },
+    {
+        "index": 54,
+        "start_time": 178709,
+        "end_time": 183223,
+        "text": "And with a very large set,\nthe possibilities are almost endless."
+    },
+    {
+        "index": 55,
+        "start_time": 183223,
+        "end_time": 186410,
+        "text": "Any four stars where no three lie\nin a straight line"
+    },
+    {
+        "index": 56,
+        "start_time": 186410,
+        "end_time": 189469,
+        "text": "will form some quadrilateral shape."
+    },
+    {
+        "index": 57,
+        "start_time": 189469,
+        "end_time": 192458,
+        "text": "Expand that to the thousands \nof stars we can see in the sky,"
+    },
+    {
+        "index": 58,
+        "start_time": 192458,
+        "end_time": 196290,
+        "text": "and it&#39;s no surprise that we can\nfind all sorts of familiar shapes,"
+    },
+    {
+        "index": 59,
+        "start_time": 196290,
+        "end_time": 199155,
+        "text": "and even creatures if we look for them."
+    },
+    {
+        "index": 60,
+        "start_time": 199155,
+        "end_time": 202983,
+        "text": "So what are the chances of a text\nconcealing a prophecy?"
+    },
+    {
+        "index": 61,
+        "start_time": 202983,
+        "end_time": 205498,
+        "text": "Well, when you factor in \nthe number of letters,"
+    },
+    {
+        "index": 62,
+        "start_time": 205498,
+        "end_time": 208263,
+        "text": "the variety of possible related words,"
+    },
+    {
+        "index": 63,
+        "start_time": 208263,
+        "end_time": 211779,
+        "text": "and all their abbreviations \nand alternate spellings,"
+    },
+    {
+        "index": 64,
+        "start_time": 211779,
+        "end_time": 213704,
+        "text": "they&#39;re pretty high."
+    },
+    {
+        "index": 65,
+        "start_time": 213704,
+        "end_time": 215091,
+        "text": "You can try it yourself."
+    },
+    {
+        "index": 66,
+        "start_time": 215091,
+        "end_time": 216503,
+        "text": "Just pick a favorite text,"
+    },
+    {
+        "index": 67,
+        "start_time": 216503,
+        "end_time": 218115,
+        "text": "arrange the letters in a grid,"
+    },
+    {
+        "index": 68,
+        "start_time": 218115,
+        "end_time": 220459,
+        "text": "and see what you can find."
+    },
+    {
+        "index": 69,
+        "start_time": 220459,
+        "end_time": 223439,
+        "text": "The mathematician T.S. Motzkin \nonce remarked that,"
+    },
+    {
+        "index": 70,
+        "start_time": 223439,
+        "end_time": 226421,
+        "text": "&quot;while disorder \nis more probable in general,"
+    },
+    {
+        "index": 71,
+        "start_time": 226421,
+        "end_time": 229443,
+        "text": "complete disorder is impossible.&quot;"
+    },
+    {
+        "index": 72,
+        "start_time": 229443,
+        "end_time": 233790,
+        "text": "The sheer size of the Universe guarantees\nthat some of its random elements"
+    },
+    {
+        "index": 73,
+        "start_time": 233790,
+        "end_time": 236977,
+        "text": "will fall into specific arrangements,"
+    },
+    {
+        "index": 74,
+        "start_time": 236977,
+        "end_time": 241966,
+        "text": "and because we evolved to notice patterns\nand pick out signals among the noise,"
+    },
+    {
+        "index": 75,
+        "start_time": 241966,
+        "end_time": 247210,
+        "text": "we are often tempted to find intentional\nmeaning where there may not be any."
+    },
+    {
+        "index": 76,
+        "start_time": 247210,
+        "end_time": 251395,
+        "text": "So while we may be awed by hidden messages\nin everything from books,"
+    },
+    {
+        "index": 77,
+        "start_time": 251395,
+        "end_time": 252817,
+        "text": "to pieces of toast,"
+    },
+    {
+        "index": 78,
+        "start_time": 252817,
+        "end_time": 254332,
+        "text": "to the night sky,"
+    },
+    {
+        "index": 79,
+        "start_time": 254332,
+        "end_time": 259380,
+        "text": "their real origin \nis usually our own minds."
+    }
+]

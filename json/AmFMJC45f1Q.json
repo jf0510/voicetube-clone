@@ -1,0 +1,380 @@
+[
+    {
+        "index": 1,
+        "start_time": 14335,
+        "end_time": 17078,
+        "text": "How many times can you\nfold a piece of paper?"
+    },
+    {
+        "index": 2,
+        "start_time": 17102,
+        "end_time": 20599,
+        "text": "Assume that one had a piece\nof paper that was very fine,"
+    },
+    {
+        "index": 3,
+        "start_time": 20623,
+        "end_time": 23484,
+        "text": "like the kind they typically\nuse to print the Bible."
+    },
+    {
+        "index": 4,
+        "start_time": 24999,
+        "end_time": 28332,
+        "text": "In reality, it seems like a piece of silk."
+    },
+    {
+        "index": 5,
+        "start_time": 28356,
+        "end_time": 29976,
+        "text": "To qualify these ideas,"
+    },
+    {
+        "index": 6,
+        "start_time": 30000,
+        "end_time": 31444,
+        "text": "let&#39;s say you have a paper"
+    },
+    {
+        "index": 7,
+        "start_time": 31468,
+        "end_time": 34551,
+        "text": "that&#39;s one-thousandth\nof a centimeter in thickness."
+    },
+    {
+        "index": 8,
+        "start_time": 35462,
+        "end_time": 38889,
+        "text": "That is 10 to the power\nof minus three centimeters,"
+    },
+    {
+        "index": 9,
+        "start_time": 38913,
+        "end_time": 42220,
+        "text": "which equals .001 centimeters."
+    },
+    {
+        "index": 10,
+        "start_time": 43453,
+        "end_time": 46362,
+        "text": "Let&#39;s also assume that you have\na big piece of paper,"
+    },
+    {
+        "index": 11,
+        "start_time": 46386,
+        "end_time": 47976,
+        "text": "like a page out of the newspaper."
+    },
+    {
+        "index": 12,
+        "start_time": 48935,
+        "end_time": 51679,
+        "text": "Now we begin to fold it in half."
+    },
+    {
+        "index": 13,
+        "start_time": 52514,
+        "end_time": 55181,
+        "text": "How many times do you think\nit could be folded like that?"
+    },
+    {
+        "index": 14,
+        "start_time": 55981,
+        "end_time": 57084,
+        "text": "And another question:"
+    },
+    {
+        "index": 15,
+        "start_time": 57887,
+        "end_time": 61795,
+        "text": "If you could fold the paper over and over,\nas many times as you wish,"
+    },
+    {
+        "index": 16,
+        "start_time": 61835,
+        "end_time": 63116,
+        "text": "say 30 times,"
+    },
+    {
+        "index": 17,
+        "start_time": 63141,
+        "end_time": 66155,
+        "text": "what would you imagine\nthe thickness of the paper would be then?"
+    },
+    {
+        "index": 18,
+        "start_time": 67155,
+        "end_time": 68730,
+        "text": "Before you move on,"
+    },
+    {
+        "index": 19,
+        "start_time": 68754,
+        "end_time": 72976,
+        "text": "I encourage you to actually think\nabout a possible answer to this question."
+    },
+    {
+        "index": 20,
+        "start_time": 74033,
+        "end_time": 75065,
+        "text": "OK."
+    },
+    {
+        "index": 21,
+        "start_time": 75089,
+        "end_time": 77150,
+        "text": "After we have folded the paper once,"
+    },
+    {
+        "index": 22,
+        "start_time": 77174,
+        "end_time": 80501,
+        "text": "it is now two thousandths\nof a centimeter in thickness."
+    },
+    {
+        "index": 23,
+        "start_time": 81425,
+        "end_time": 83837,
+        "text": "If we fold it in half once again,"
+    },
+    {
+        "index": 24,
+        "start_time": 83861,
+        "end_time": 86976,
+        "text": "the paper will become\nfour thousandths of a centimeter."
+    },
+    {
+        "index": 25,
+        "start_time": 87817,
+        "end_time": 91167,
+        "text": "With every fold we make,\nthe paper doubles in thickness."
+    },
+    {
+        "index": 26,
+        "start_time": 92356,
+        "end_time": 95063,
+        "text": "And if we continue to fold\nit again and again,"
+    },
+    {
+        "index": 27,
+        "start_time": 95087,
+        "end_time": 98839,
+        "text": "always in half, we would confront\nthe following situation"
+    },
+    {
+        "index": 28,
+        "start_time": 98863,
+        "end_time": 99976,
+        "text": "after 10 folds."
+    },
+    {
+        "index": 29,
+        "start_time": 100839,
+        "end_time": 102827,
+        "text": "Two to the power of 10,"
+    },
+    {
+        "index": 30,
+        "start_time": 102851,
+        "end_time": 106415,
+        "text": "meaning that you multiply\ntwo by itself 10 times,"
+    },
+    {
+        "index": 31,
+        "start_time": 106439,
+        "end_time": 110968,
+        "text": "is one thousand and\n24 thousandths of a centimeter,"
+    },
+    {
+        "index": 32,
+        "start_time": 110992,
+        "end_time": 114067,
+        "text": "which is a little bit over one centimeter."
+    },
+    {
+        "index": 33,
+        "start_time": 114091,
+        "end_time": 116254,
+        "text": "Assume we continue folding\nthe paper in half."
+    },
+    {
+        "index": 34,
+        "start_time": 117251,
+        "end_time": 118976,
+        "text": "What will happen then?"
+    },
+    {
+        "index": 35,
+        "start_time": 119000,
+        "end_time": 120976,
+        "text": "If we fold it 17 times,"
+    },
+    {
+        "index": 36,
+        "start_time": 121000,
+        "end_time": 123976,
+        "text": "we&#39;ll get a thickness\nof two to the power of 17,"
+    },
+    {
+        "index": 37,
+        "start_time": 124000,
+        "end_time": 127719,
+        "text": "which is 131 centimeters,"
+    },
+    {
+        "index": 38,
+        "start_time": 127743,
+        "end_time": 129672,
+        "text": "and that equals just over four feet."
+    },
+    {
+        "index": 39,
+        "start_time": 130751,
+        "end_time": 132976,
+        "text": "If we were able to fold it 25 times,"
+    },
+    {
+        "index": 40,
+        "start_time": 133000,
+        "end_time": 135976,
+        "text": "then we would get two to the power of 25,"
+    },
+    {
+        "index": 41,
+        "start_time": 136000,
+        "end_time": 141263,
+        "text": "which is 33,554 centimeters,"
+    },
+    {
+        "index": 42,
+        "start_time": 141287,
+        "end_time": 143115,
+        "text": "just over 1,100 feet."
+    },
+    {
+        "index": 43,
+        "start_time": 144275,
+        "end_time": 147976,
+        "text": "That would make it almost\nas tall as the Empire State Building."
+    },
+    {
+        "index": 44,
+        "start_time": 149360,
+        "end_time": 151976,
+        "text": "It&#39;s worthwhile to stop here\nand reflect for a moment."
+    },
+    {
+        "index": 45,
+        "start_time": 152965,
+        "end_time": 157546,
+        "text": "Folding a paper in half, even a paper\nas fine as that of the Bible,"
+    },
+    {
+        "index": 46,
+        "start_time": 157570,
+        "end_time": 161976,
+        "text": "25 times would give us a paper\nalmost a quarter of a mile."
+    },
+    {
+        "index": 47,
+        "start_time": 162000,
+        "end_time": 163015,
+        "text": "What do we learn?"
+    },
+    {
+        "index": 48,
+        "start_time": 163870,
+        "end_time": 167631,
+        "text": "This type of growth\nis called exponential growth,"
+    },
+    {
+        "index": 49,
+        "start_time": 167655,
+        "end_time": 169976,
+        "text": "and as you see, just by folding a paper"
+    },
+    {
+        "index": 50,
+        "start_time": 170000,
+        "end_time": 173158,
+        "text": "we can go very far, but very fast too."
+    },
+    {
+        "index": 51,
+        "start_time": 174347,
+        "end_time": 178709,
+        "text": "Summarizing, if we fold a paper 25 times,"
+    },
+    {
+        "index": 52,
+        "start_time": 178733,
+        "end_time": 180976,
+        "text": "the thickness is almost\na quarter of a mile."
+    },
+    {
+        "index": 53,
+        "start_time": 182148,
+        "end_time": 186186,
+        "text": "30 times, the thickness reaches 6.5 miles,"
+    },
+    {
+        "index": 54,
+        "start_time": 186210,
+        "end_time": 188916,
+        "text": "which is about the average\nheight that planes fly."
+    },
+    {
+        "index": 55,
+        "start_time": 188940,
+        "end_time": 192976,
+        "text": "40 times, the thickness\nis nearly 7,000 miles,"
+    },
+    {
+        "index": 56,
+        "start_time": 193000,
+        "end_time": 195851,
+        "text": "or the average GPS satellite&#39;s orbit."
+    },
+    {
+        "index": 57,
+        "start_time": 195875,
+        "end_time": 199427,
+        "text": "48 times, the thickness\nis way over one million miles."
+    },
+    {
+        "index": 58,
+        "start_time": 200527,
+        "end_time": 204228,
+        "text": "Now, if you think that the distance\nbetween the Earth and the Moon"
+    },
+    {
+        "index": 59,
+        "start_time": 204252,
+        "end_time": 207041,
+        "text": "is less than 250,000 miles,"
+    },
+    {
+        "index": 60,
+        "start_time": 207065,
+        "end_time": 209473,
+        "text": "then starting with a piece of Bible paper"
+    },
+    {
+        "index": 61,
+        "start_time": 209497,
+        "end_time": 212976,
+        "text": "and folding it 45 times,\nwe get to the Moon."
+    },
+    {
+        "index": 62,
+        "start_time": 214108,
+        "end_time": 216699,
+        "text": "And if we double it one more time,"
+    },
+    {
+        "index": 63,
+        "start_time": 216723,
+        "end_time": 218000,
+        "text": "we get back to Earth."
+    }
+]

@@ -1,0 +1,440 @@
+[
+    {
+        "index": 1,
+        "start_time": 7283,
+        "end_time": 11685,
+        "text": "In 1895, a physicist named \nWilhelm Roentgen"
+    },
+    {
+        "index": 2,
+        "start_time": 11685,
+        "end_time": 14850,
+        "text": "was doing experiments\nwith a cathode tube,"
+    },
+    {
+        "index": 3,
+        "start_time": 14850,
+        "end_time": 20124,
+        "text": "a glass container in which a beam of\nelectrons lights up a fluorescent window."
+    },
+    {
+        "index": 4,
+        "start_time": 20124,
+        "end_time": 22472,
+        "text": "He had wrapped cardboard around the tube"
+    },
+    {
+        "index": 5,
+        "start_time": 22472,
+        "end_time": 24914,
+        "text": "to keep the fluorescent \nlight from escaping,"
+    },
+    {
+        "index": 6,
+        "start_time": 24914,
+        "end_time": 27541,
+        "text": "when something peculiar happened."
+    },
+    {
+        "index": 7,
+        "start_time": 27541,
+        "end_time": 32426,
+        "text": "Another screen outside the tube\nwas glowing."
+    },
+    {
+        "index": 8,
+        "start_time": 32426,
+        "end_time": 36634,
+        "text": "In other words, invisible rays\nhad passed through the cardboard."
+    },
+    {
+        "index": 9,
+        "start_time": 36634,
+        "end_time": 41962,
+        "text": "Wilhelm had no idea what those rays were,\nso he called them X-rays,"
+    },
+    {
+        "index": 10,
+        "start_time": 41962,
+        "end_time": 46711,
+        "text": "and his discovery eventually won him\na Nobel Prize."
+    },
+    {
+        "index": 11,
+        "start_time": 46711,
+        "end_time": 49130,
+        "text": "Here&#39;s what we now know was happening."
+    },
+    {
+        "index": 12,
+        "start_time": 49130,
+        "end_time": 51982,
+        "text": "When high energy electrons\nin the cathode tube"
+    },
+    {
+        "index": 13,
+        "start_time": 51982,
+        "end_time": 54132,
+        "text": "hit a metal component,"
+    },
+    {
+        "index": 14,
+        "start_time": 54132,
+        "end_time": 57737,
+        "text": "they either got slowed down\nand released extra energy,"
+    },
+    {
+        "index": 15,
+        "start_time": 57737,
+        "end_time": 61780,
+        "text": "or kicked off electrons\nfrom the atoms they hit,"
+    },
+    {
+        "index": 16,
+        "start_time": 61780,
+        "end_time": 66436,
+        "text": "which triggered a reshuffling\nthat again released energy."
+    },
+    {
+        "index": 17,
+        "start_time": 66436,
+        "end_time": 71377,
+        "text": "In both cases, the energy was emitted\nin the form of X-rays,"
+    },
+    {
+        "index": 18,
+        "start_time": 71377,
+        "end_time": 73854,
+        "text": "which is a type \nof electromagnetic radiation"
+    },
+    {
+        "index": 19,
+        "start_time": 73854,
+        "end_time": 79348,
+        "text": "with higher energy than visible light,\nand lower energy than Gamma rays."
+    },
+    {
+        "index": 20,
+        "start_time": 79348,
+        "end_time": 83300,
+        "text": "X-rays are powerful enough\nto fly through many kinds of matter"
+    },
+    {
+        "index": 21,
+        "start_time": 83300,
+        "end_time": 85351,
+        "text": "as if they are semi-transparent,"
+    },
+    {
+        "index": 22,
+        "start_time": 85351,
+        "end_time": 88915,
+        "text": "and they&#39;re particularly useful \nfor medical applications"
+    },
+    {
+        "index": 23,
+        "start_time": 88915,
+        "end_time": 93507,
+        "text": "because they can make images of organs,\nlike bones, without harming them,"
+    },
+    {
+        "index": 24,
+        "start_time": 93507,
+        "end_time": 95363,
+        "text": "although they do have a small chance"
+    },
+    {
+        "index": 25,
+        "start_time": 95363,
+        "end_time": 97813,
+        "text": "of causing mutations \nin reproductive organs,"
+    },
+    {
+        "index": 26,
+        "start_time": 97813,
+        "end_time": 99900,
+        "text": "and tissues like the thyroid,"
+    },
+    {
+        "index": 27,
+        "start_time": 99900,
+        "end_time": 103404,
+        "text": "which is why lead aprons are often\nused to block them."
+    },
+    {
+        "index": 28,
+        "start_time": 103404,
+        "end_time": 107800,
+        "text": "When X-rays interact with matter,\nthey collide with electrons."
+    },
+    {
+        "index": 29,
+        "start_time": 107800,
+        "end_time": 112492,
+        "text": "Sometimes, the X-ray transfers all of its\nenergy to the matter and gets absorbed."
+    },
+    {
+        "index": 30,
+        "start_time": 112492,
+        "end_time": 115775,
+        "text": "Other times, it only transfers \nsome of its energy,"
+    },
+    {
+        "index": 31,
+        "start_time": 115775,
+        "end_time": 117718,
+        "text": "and the rest is scattered."
+    },
+    {
+        "index": 32,
+        "start_time": 117718,
+        "end_time": 119598,
+        "text": "The frequency of these outcomes"
+    },
+    {
+        "index": 33,
+        "start_time": 119598,
+        "end_time": 123832,
+        "text": "depends on how many electrons\nthe X-rays are likely to hit."
+    },
+    {
+        "index": 34,
+        "start_time": 123832,
+        "end_time": 127010,
+        "text": "Collisions are more likely \nif a material is dense,"
+    },
+    {
+        "index": 35,
+        "start_time": 127010,
+        "end_time": 130163,
+        "text": "or if it&#39;s made of elements\nwith higher atomic numbers,"
+    },
+    {
+        "index": 36,
+        "start_time": 130163,
+        "end_time": 132244,
+        "text": "which means more electrons."
+    },
+    {
+        "index": 37,
+        "start_time": 132244,
+        "end_time": 137454,
+        "text": "Bones are dense and full of calcium,\nwhich has a relatively high atomic number,"
+    },
+    {
+        "index": 38,
+        "start_time": 137454,
+        "end_time": 139952,
+        "text": "so they absorb X-rays pretty well."
+    },
+    {
+        "index": 39,
+        "start_time": 139952,
+        "end_time": 143488,
+        "text": "Soft tissue, on the other hand,\nisn&#39;t as dense,"
+    },
+    {
+        "index": 40,
+        "start_time": 143488,
+        "end_time": 146700,
+        "text": "and contains mostly lower \natomic number elements,"
+    },
+    {
+        "index": 41,
+        "start_time": 146700,
+        "end_time": 150423,
+        "text": "like carbon, hydrogen, and oxygen."
+    },
+    {
+        "index": 42,
+        "start_time": 150423,
+        "end_time": 155074,
+        "text": "So more of the X-rays penetrate tissues\nlike lungs and muscles,"
+    },
+    {
+        "index": 43,
+        "start_time": 155074,
+        "end_time": 157226,
+        "text": "darkening the film."
+    },
+    {
+        "index": 44,
+        "start_time": 157226,
+        "end_time": 160892,
+        "text": "These 2-D pictures are only useful\nup to a point, though."
+    },
+    {
+        "index": 45,
+        "start_time": 160892,
+        "end_time": 163006,
+        "text": "When X-rays travel through the body,"
+    },
+    {
+        "index": 46,
+        "start_time": 163006,
+        "end_time": 166196,
+        "text": "they can interact with many atoms \nalong the path."
+    },
+    {
+        "index": 47,
+        "start_time": 166196,
+        "end_time": 170843,
+        "text": "What is recorded on the film reflects\nthe sum of all those interactions."
+    },
+    {
+        "index": 48,
+        "start_time": 170843,
+        "end_time": 176756,
+        "text": "It&#39;s like trying to print 100 pages\nof a novel on a single sheet of paper."
+    },
+    {
+        "index": 49,
+        "start_time": 176756,
+        "end_time": 178684,
+        "text": "To see what&#39;s really going on,"
+    },
+    {
+        "index": 50,
+        "start_time": 178684,
+        "end_time": 182865,
+        "text": "you would have to take X-ray views\nfrom many angles around the body"
+    },
+    {
+        "index": 51,
+        "start_time": 182865,
+        "end_time": 186165,
+        "text": "and use them to construct\nan internal image."
+    },
+    {
+        "index": 52,
+        "start_time": 186165,
+        "end_time": 188442,
+        "text": "And that&#39;s something \ndoctors do all the time"
+    },
+    {
+        "index": 53,
+        "start_time": 188442,
+        "end_time": 193579,
+        "text": "in a procedure called a CT,\nComputed Tomography scan,"
+    },
+    {
+        "index": 54,
+        "start_time": 193579,
+        "end_time": 196288,
+        "text": "another Nobel Prize winning invention."
+    },
+    {
+        "index": 55,
+        "start_time": 196288,
+        "end_time": 198438,
+        "text": "Think of CT like this."
+    },
+    {
+        "index": 56,
+        "start_time": 198438,
+        "end_time": 200073,
+        "text": "With just one X-ray,"
+    },
+    {
+        "index": 57,
+        "start_time": 200073,
+        "end_time": 205187,
+        "text": "you might be able to see the density\nchange due to a solid tumor in a patient,"
+    },
+    {
+        "index": 58,
+        "start_time": 205187,
+        "end_time": 208560,
+        "text": "but you wouldn&#39;t know how deep\nit is beneath the surface."
+    },
+    {
+        "index": 59,
+        "start_time": 208560,
+        "end_time": 211766,
+        "text": "However, if you take X-rays\nfrom multiple angles,"
+    },
+    {
+        "index": 60,
+        "start_time": 211766,
+        "end_time": 215687,
+        "text": "you should be able to find\nthe tumor&#39;s position and shape."
+    },
+    {
+        "index": 61,
+        "start_time": 215687,
+        "end_time": 221245,
+        "text": "A CT scanner works by sending\na fan or cone of X-rays through a patient"
+    },
+    {
+        "index": 62,
+        "start_time": 221245,
+        "end_time": 223775,
+        "text": "to an array of detectors."
+    },
+    {
+        "index": 63,
+        "start_time": 223775,
+        "end_time": 226960,
+        "text": "The X-ray beam is rotated \naround the patient,"
+    },
+    {
+        "index": 64,
+        "start_time": 226960,
+        "end_time": 229854,
+        "text": "and often also moved down \nthe patient&#39;s body,"
+    },
+    {
+        "index": 65,
+        "start_time": 229854,
+        "end_time": 233607,
+        "text": "with the X-ray source tracing\na spiral trajectory."
+    },
+    {
+        "index": 66,
+        "start_time": 233607,
+        "end_time": 238065,
+        "text": "Spiral CT scans produce data\nthat can be processed into cross sections"
+    },
+    {
+        "index": 67,
+        "start_time": 238065,
+        "end_time": 241921,
+        "text": "detailed enough to spot \nanatomical features, tumors,"
+    },
+    {
+        "index": 68,
+        "start_time": 241921,
+        "end_time": 245066,
+        "text": "blood clots, and infections."
+    },
+    {
+        "index": 69,
+        "start_time": 245066,
+        "end_time": 248600,
+        "text": "CT scans can even detect \nheart disease and cavities"
+    },
+    {
+        "index": 70,
+        "start_time": 248600,
+        "end_time": 252640,
+        "text": "in mummies buried thousands of years ago."
+    },
+    {
+        "index": 71,
+        "start_time": 252640,
+        "end_time": 257141,
+        "text": "So what began as Roentgen&#39;s happy accident\nhas become a medical marvel."
+    },
+    {
+        "index": 72,
+        "start_time": 257141,
+        "end_time": 263900,
+        "text": "Hospitals and clinics now conduct over\n100 millions scans each year worldwide"
+    },
+    {
+        "index": 73,
+        "start_time": 263900,
+        "end_time": 266711,
+        "text": "to treat diseases and save lives."
+    }
+]

@@ -1,0 +1,560 @@
+[
+    {
+        "index": 1,
+        "start_time": 7283,
+        "end_time": 9591,
+        "text": "Energy is all around us,"
+    },
+    {
+        "index": 2,
+        "start_time": 9615,
+        "end_time": 14009,
+        "text": "a physical quantity that follows\nprecise natural laws."
+    },
+    {
+        "index": 3,
+        "start_time": 14033,
+        "end_time": 16479,
+        "text": "Our universe has a finite amount of it;"
+    },
+    {
+        "index": 4,
+        "start_time": 16503,
+        "end_time": 18675,
+        "text": "it&#39;s neither created nor destroyed"
+    },
+    {
+        "index": 5,
+        "start_time": 18699,
+        "end_time": 20175,
+        "text": "but can take different forms,"
+    },
+    {
+        "index": 6,
+        "start_time": 20199,
+        "end_time": 22527,
+        "text": "such as kinetic or potential energy,"
+    },
+    {
+        "index": 7,
+        "start_time": 22551,
+        "end_time": 25698,
+        "text": "with different properties\nand formulas to remember."
+    },
+    {
+        "index": 8,
+        "start_time": 25722,
+        "end_time": 27091,
+        "text": "For instance,"
+    },
+    {
+        "index": 9,
+        "start_time": 27115,
+        "end_time": 29601,
+        "text": "an LED desk lamp&#39;s 6 Watt bulb"
+    },
+    {
+        "index": 10,
+        "start_time": 29625,
+        "end_time": 32686,
+        "text": "transfers 6 Joules\nof light energy per second."
+    },
+    {
+        "index": 11,
+        "start_time": 33568,
+        "end_time": 35540,
+        "text": "But let&#39;s jump back up into space"
+    },
+    {
+        "index": 12,
+        "start_time": 35564,
+        "end_time": 39130,
+        "text": "to look at our planet,\nits systems, and their energy flow."
+    },
+    {
+        "index": 13,
+        "start_time": 39917,
+        "end_time": 41714,
+        "text": "Earth&#39;s physical systems include"
+    },
+    {
+        "index": 14,
+        "start_time": 41738,
+        "end_time": 44216,
+        "text": "the atmosphere, hydrosphere,"
+    },
+    {
+        "index": 15,
+        "start_time": 44240,
+        "end_time": 46759,
+        "text": "lithosphere, and biosphere."
+    },
+    {
+        "index": 16,
+        "start_time": 46783,
+        "end_time": 49554,
+        "text": "Energy moves in and out of these systems,"
+    },
+    {
+        "index": 17,
+        "start_time": 49578,
+        "end_time": 52342,
+        "text": "and during any energy\ntransfer between them,"
+    },
+    {
+        "index": 18,
+        "start_time": 52366,
+        "end_time": 54759,
+        "text": "some is lost to the surroundings,"
+    },
+    {
+        "index": 19,
+        "start_time": 54783,
+        "end_time": 57208,
+        "text": "as heat, light, sound,"
+    },
+    {
+        "index": 20,
+        "start_time": 57232,
+        "end_time": 59185,
+        "text": "vibration, or movement."
+    },
+    {
+        "index": 21,
+        "start_time": 59783,
+        "end_time": 63402,
+        "text": "Our planet&#39;s energy comes from\ninternal and external sources."
+    },
+    {
+        "index": 22,
+        "start_time": 63426,
+        "end_time": 66654,
+        "text": "Geothermal energy\nfrom radioactive isotopes"
+    },
+    {
+        "index": 23,
+        "start_time": 66678,
+        "end_time": 69759,
+        "text": "and rotational energy\nfrom the spinning of the Earth"
+    },
+    {
+        "index": 24,
+        "start_time": 69783,
+        "end_time": 71826,
+        "text": "are internal sources of energy,"
+    },
+    {
+        "index": 25,
+        "start_time": 71850,
+        "end_time": 74872,
+        "text": "while the Sun\nis the major external source,"
+    },
+    {
+        "index": 26,
+        "start_time": 74896,
+        "end_time": 78208,
+        "text": "driving certain systems,\nlike our weather and climate."
+    },
+    {
+        "index": 27,
+        "start_time": 78232,
+        "end_time": 81963,
+        "text": "Sunlight warms the surface and atmosphere\nin varying amounts,"
+    },
+    {
+        "index": 28,
+        "start_time": 81987,
+        "end_time": 83675,
+        "text": "and this causes convection,"
+    },
+    {
+        "index": 29,
+        "start_time": 83699,
+        "end_time": 86370,
+        "text": "producing winds\nand influencing ocean currents."
+    },
+    {
+        "index": 30,
+        "start_time": 87307,
+        "end_time": 91842,
+        "text": "Infrared radiation, radiating out\nfrom the warmed surface of the Earth,"
+    },
+    {
+        "index": 31,
+        "start_time": 91866,
+        "end_time": 96012,
+        "text": "gets trapped by greenhouse gases\nand further affects the energy flow."
+    },
+    {
+        "index": 32,
+        "start_time": 96933,
+        "end_time": 100481,
+        "text": "The Sun is also the major source\nof energy for organisms."
+    },
+    {
+        "index": 33,
+        "start_time": 100505,
+        "end_time": 102899,
+        "text": "Plants, algae, and cyanobacteria"
+    },
+    {
+        "index": 34,
+        "start_time": 102923,
+        "end_time": 105510,
+        "text": "use sunlight to produce organic matter"
+    },
+    {
+        "index": 35,
+        "start_time": 105534,
+        "end_time": 108112,
+        "text": "from carbon dioxide and water,"
+    },
+    {
+        "index": 36,
+        "start_time": 108136,
+        "end_time": 110738,
+        "text": "powering the biosphere&#39;s food chains."
+    },
+    {
+        "index": 37,
+        "start_time": 110762,
+        "end_time": 114451,
+        "text": "We release this food energy\nusing chemical reactions,"
+    },
+    {
+        "index": 38,
+        "start_time": 114475,
+        "end_time": 116926,
+        "text": "like combustion and respiration."
+    },
+    {
+        "index": 39,
+        "start_time": 116950,
+        "end_time": 120342,
+        "text": "At each level in a food chain,\nsome energy is stored"
+    },
+    {
+        "index": 40,
+        "start_time": 120366,
+        "end_time": 122424,
+        "text": "in newly made chemical structures,"
+    },
+    {
+        "index": 41,
+        "start_time": 122448,
+        "end_time": 124797,
+        "text": "but most is lost to the surroundings,"
+    },
+    {
+        "index": 42,
+        "start_time": 124821,
+        "end_time": 126840,
+        "text": "as heat, like your body heat,"
+    },
+    {
+        "index": 43,
+        "start_time": 126864,
+        "end_time": 129175,
+        "text": "released by your digestion of food."
+    },
+    {
+        "index": 44,
+        "start_time": 129199,
+        "end_time": 132424,
+        "text": "Now, as plants are eaten\nby primary consumers,"
+    },
+    {
+        "index": 45,
+        "start_time": 132448,
+        "end_time": 136791,
+        "text": "only about 10% of their total energy\nis passed on to the next level."
+    },
+    {
+        "index": 46,
+        "start_time": 137440,
+        "end_time": 141342,
+        "text": "Since energy can only flow\nin one direction in a food chain,"
+    },
+    {
+        "index": 47,
+        "start_time": 141366,
+        "end_time": 144341,
+        "text": "from producers on to consumers\nand decomposers,"
+    },
+    {
+        "index": 48,
+        "start_time": 144365,
+        "end_time": 146651,
+        "text": "an organism that eats lower\non the food chain,"
+    },
+    {
+        "index": 49,
+        "start_time": 146675,
+        "end_time": 149014,
+        "text": "is more efficient than one higher up."
+    },
+    {
+        "index": 50,
+        "start_time": 149765,
+        "end_time": 152281,
+        "text": "So eating producers\nis the most efficient level"
+    },
+    {
+        "index": 51,
+        "start_time": 152305,
+        "end_time": 154759,
+        "text": "at which an animal can get its energy,"
+    },
+    {
+        "index": 52,
+        "start_time": 154783,
+        "end_time": 158677,
+        "text": "but without continual input of energy\nto those producers,"
+    },
+    {
+        "index": 53,
+        "start_time": 158701,
+        "end_time": 160112,
+        "text": "mostly from sunlight,"
+    },
+    {
+        "index": 54,
+        "start_time": 160136,
+        "end_time": 163424,
+        "text": "life on Earth as we know it\nwould cease to exist."
+    },
+    {
+        "index": 55,
+        "start_time": 163448,
+        "end_time": 167424,
+        "text": "We humans, of course, spend our energy\ndoing a lot of things besides eating."
+    },
+    {
+        "index": 56,
+        "start_time": 167448,
+        "end_time": 171858,
+        "text": "We travel, we build, we power\nall sorts of technology."
+    },
+    {
+        "index": 57,
+        "start_time": 171882,
+        "end_time": 173106,
+        "text": "To do all this,"
+    },
+    {
+        "index": 58,
+        "start_time": 173130,
+        "end_time": 174933,
+        "text": "we use sources like fossil fuels:"
+    },
+    {
+        "index": 59,
+        "start_time": 174957,
+        "end_time": 177808,
+        "text": "coal, oil, and natural gas,"
+    },
+    {
+        "index": 60,
+        "start_time": 177832,
+        "end_time": 179560,
+        "text": "which contain energy"
+    },
+    {
+        "index": 61,
+        "start_time": 179584,
+        "end_time": 182466,
+        "text": "that plants captured\nfrom sunlight long ago"
+    },
+    {
+        "index": 62,
+        "start_time": 182490,
+        "end_time": 184849,
+        "text": "and stored in the form of carbon."
+    },
+    {
+        "index": 63,
+        "start_time": 184873,
+        "end_time": 187400,
+        "text": "When we burn fossil fuels in power plants,"
+    },
+    {
+        "index": 64,
+        "start_time": 187424,
+        "end_time": 189267,
+        "text": "we release this stored energy"
+    },
+    {
+        "index": 65,
+        "start_time": 189291,
+        "end_time": 190986,
+        "text": "to generate electricity."
+    },
+    {
+        "index": 66,
+        "start_time": 191708,
+        "end_time": 193267,
+        "text": "To generate electricity,"
+    },
+    {
+        "index": 67,
+        "start_time": 193291,
+        "end_time": 196933,
+        "text": "heat from burning fossil fuels\nis used to power turbines"
+    },
+    {
+        "index": 68,
+        "start_time": 196957,
+        "end_time": 198786,
+        "text": "that rotate magnets,"
+    },
+    {
+        "index": 69,
+        "start_time": 198810,
+        "end_time": 201417,
+        "text": "which, in turn, create\nmagnetic field changes"
+    },
+    {
+        "index": 70,
+        "start_time": 201441,
+        "end_time": 203666,
+        "text": "relative to a coil of wire,"
+    },
+    {
+        "index": 71,
+        "start_time": 203690,
+        "end_time": 207934,
+        "text": "causing electrons to be\ninduced to flow in the wire."
+    },
+    {
+        "index": 72,
+        "start_time": 207958,
+        "end_time": 210674,
+        "text": "Modern civilization depends on our ability"
+    },
+    {
+        "index": 73,
+        "start_time": 210698,
+        "end_time": 213886,
+        "text": "to keep powering that flow of electrons."
+    },
+    {
+        "index": 74,
+        "start_time": 213910,
+        "end_time": 217516,
+        "text": "Fortunately, we aren&#39;t limited\nto burning non-renewable fossil fuels"
+    },
+    {
+        "index": 75,
+        "start_time": 217540,
+        "end_time": 219515,
+        "text": "to generate electricity."
+    },
+    {
+        "index": 76,
+        "start_time": 219539,
+        "end_time": 221644,
+        "text": "Electrons can also be induced to flow"
+    },
+    {
+        "index": 77,
+        "start_time": 221668,
+        "end_time": 224850,
+        "text": "by direct interaction\nwith light particles,"
+    },
+    {
+        "index": 78,
+        "start_time": 224874,
+        "end_time": 226849,
+        "text": "which is how a solar cell operates."
+    },
+    {
+        "index": 79,
+        "start_time": 227642,
+        "end_time": 229372,
+        "text": "Other renewable energy sources,"
+    },
+    {
+        "index": 80,
+        "start_time": 229396,
+        "end_time": 231437,
+        "text": "such as wind, water,"
+    },
+    {
+        "index": 81,
+        "start_time": 231461,
+        "end_time": 233906,
+        "text": "geothermal, and biofuels"
+    },
+    {
+        "index": 82,
+        "start_time": 233930,
+        "end_time": 236388,
+        "text": "can also be used to generate electricity."
+    },
+    {
+        "index": 83,
+        "start_time": 237332,
+        "end_time": 239870,
+        "text": "Global demand for energy is increasing,"
+    },
+    {
+        "index": 84,
+        "start_time": 239894,
+        "end_time": 242039,
+        "text": "but the planet\nhas limited energy resources"
+    },
+    {
+        "index": 85,
+        "start_time": 242063,
+        "end_time": 245375,
+        "text": "to access through a complex\nenergy infrastructure."
+    },
+    {
+        "index": 86,
+        "start_time": 245399,
+        "end_time": 247126,
+        "text": "As populations rise,"
+    },
+    {
+        "index": 87,
+        "start_time": 247150,
+        "end_time": 250047,
+        "text": "alongside rates of industrialization\nand development,"
+    },
+    {
+        "index": 88,
+        "start_time": 250071,
+        "end_time": 253363,
+        "text": "our energy decisions grow\nmore and more important."
+    },
+    {
+        "index": 89,
+        "start_time": 253387,
+        "end_time": 256559,
+        "text": "Access to energy\nimpacts health, education,"
+    },
+    {
+        "index": 90,
+        "start_time": 256583,
+        "end_time": 259942,
+        "text": "political power, and socioeconomic status."
+    },
+    {
+        "index": 91,
+        "start_time": 259966,
+        "end_time": 262348,
+        "text": "If we improve our energy efficiency,"
+    },
+    {
+        "index": 92,
+        "start_time": 262372,
+        "end_time": 265393,
+        "text": "we can use our natural resources\nmore responsibly"
+    },
+    {
+        "index": 93,
+        "start_time": 265417,
+        "end_time": 267778,
+        "text": "and improve quality of life for everyone."
+    }
+]

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--debug -->
+    <meta http-equiv="refres" content="3" />
+    <!--debug -->
+    <script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/videopage.css">
+    <link rel="stylesheet" href="../css/responsive.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/playpage.js" type="text/javascript" charset="utf-8"></script>
+</head>
+
+<body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-inner">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                    <a class="navbar-brand" href="../"><img src="https://cdn.voicetube.com/assets/img/vt_logo-with_icon-170111-white.png"></a>
+                </div>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Channels <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="https://www.voicetube.com/channel/speech">Speeches and Presentations</a></li>
+                                <li><a href="https://www.voicetube.com/channel/educational_videos">Educational Videos</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="#">BBC Learning English</a></li>
+                                <li><a href="#">CNN Learning English</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="#">TOEIC</a></li>
+                                <li><a href="#">TOEFL</a></li>
+                                <li><a href="#">IELTS <span class="label label-danger">New</span></a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="#">Business <span class="label label-danger">New</span></a></li>
+                                <li><a href="#">Editor's Choice <span class="label label-danger">New</span></a></li>
+                                <li><a href="#">English Learning Tips</a></li>
+                                <li><a href="#">Movie &amp; TV Series</a></li>
+                                <li><a href="#">Music</a></li>
+                                <li><a href="#">Cartoon &amp; Animation</a></li>
+                                <li><a href="#">Kids</a></li>
+                                <li><a href="#">Entertainment</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Levals <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">Basic: TOEIC 250-545</a></li>
+                                <li><a href="#">Intermediate: TOEIC 550-780</a></li>
+                                <li><a href="#">Advanced: TOEIC 785-990</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Listening &amp; Speaking <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">Today's Pronunciation Challenge</a></li>
+                                <li><a href="#">Listening Quiz</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-globe" aria-hidden="true"></span> English <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">English</a></li>
+                                <li><a href="#">日本語</a></li>
+                                <li><a href="#">中文(繁體)</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#"><img src='https://cdn.voicetube.com/assets/img/login.png' /> Sing in</a>
+                        </li>
+                    </ul>
+                    <form class="navbar-form navbar-right hidden-md">
+                        <div class="form-group">
+                                <input type="text" class="form-control" placeholder="Search"> 
+                        </div>
+                        <button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
+                    </form>
+                </div>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+    <!-- Intro Header --><span class='glyphicon glyphicon glyphicon-play-circle' aria-hidden="true"></span>
+    <header></header>
+    <section id="video-area">
+        <div class>
+            <div class="container">
+                <h2 id ="video_title"></h2>
+                <div class="row">
+                    <div class="col-md-7 text-center">
+                        <div class="embed-responsive embed-responsive-16by9">
+                        <div id="player"></div>
+                        </div>
+                    </div>
+                    <div id="subtitle_area" class="col-md-5">
+                        <div class="panel panel-default">
+                            <div class="panel-body">
+                                <table class="table">
+                                    <tbody>
+                                        <div id="subtitle_block"> </div>
+                                    </tbody>
+                                </table>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+<script src="../js/home.js"></script>
+
+</html>

@@ -1,0 +1,374 @@
+[
+    {
+        "index": 1,
+        "start_time": 8412,
+        "end_time": 12453,
+        "text": "Have you ever seen static electricity\ncause a spark of light?"
+    },
+    {
+        "index": 2,
+        "start_time": 12453,
+        "end_time": 14538,
+        "text": "What is that spark?"
+    },
+    {
+        "index": 3,
+        "start_time": 14538,
+        "end_time": 15920,
+        "text": "What about lightning,"
+    },
+    {
+        "index": 4,
+        "start_time": 15920,
+        "end_time": 17135,
+        "text": "the Northern Lights,"
+    },
+    {
+        "index": 5,
+        "start_time": 17135,
+        "end_time": 19352,
+        "text": "or the tail of a comet?"
+    },
+    {
+        "index": 6,
+        "start_time": 19352,
+        "end_time": 21255,
+        "text": "All of those things, and many others,"
+    },
+    {
+        "index": 7,
+        "start_time": 21255,
+        "end_time": 27191,
+        "text": "in fact 99.9% of the universe,\nare made of plasma."
+    },
+    {
+        "index": 8,
+        "start_time": 27191,
+        "end_time": 29318,
+        "text": "Plasma is a state of matter"
+    },
+    {
+        "index": 9,
+        "start_time": 29318,
+        "end_time": 32650,
+        "text": "drastically different \nfrom the more familiar forms."
+    },
+    {
+        "index": 10,
+        "start_time": 32650,
+        "end_time": 34258,
+        "text": "Take ice, for example."
+    },
+    {
+        "index": 11,
+        "start_time": 34258,
+        "end_time": 38383,
+        "text": "Ice, a solid, \nmelts to become water, a liquid,"
+    },
+    {
+        "index": 12,
+        "start_time": 38383,
+        "end_time": 42841,
+        "text": "which, when heated, \nvaporizes into steam, a gas."
+    },
+    {
+        "index": 13,
+        "start_time": 42841,
+        "end_time": 46298,
+        "text": "Continued heating of the steam\nat a high enough temperature"
+    },
+    {
+        "index": 14,
+        "start_time": 46298,
+        "end_time": 49550,
+        "text": "causes the water molecules \nin it to separate"
+    },
+    {
+        "index": 15,
+        "start_time": 49550,
+        "end_time": 53879,
+        "text": "into freely roaming hydrogen \nand oxygen atoms."
+    },
+    {
+        "index": 16,
+        "start_time": 53879,
+        "end_time": 57352,
+        "text": "With a little more heat,\nthe ionization process occurs"
+    },
+    {
+        "index": 17,
+        "start_time": 57352,
+        "end_time": 60849,
+        "text": "and the negatively charged electrons\nescape the atoms,"
+    },
+    {
+        "index": 18,
+        "start_time": 60849,
+        "end_time": 64423,
+        "text": "leaving behind positively charged ions."
+    },
+    {
+        "index": 19,
+        "start_time": 64423,
+        "end_time": 69783,
+        "text": "This mixture of freely roaming negative\nand positive charges is plasma,"
+    },
+    {
+        "index": 20,
+        "start_time": 69783,
+        "end_time": 74752,
+        "text": "and at a high enough temperature,\nany gas can be made into one."
+    },
+    {
+        "index": 21,
+        "start_time": 74752,
+        "end_time": 78772,
+        "text": "These freely moving charged particles\nbehave very differently"
+    },
+    {
+        "index": 22,
+        "start_time": 78772,
+        "end_time": 81565,
+        "text": "from the particles \nin other types of matter."
+    },
+    {
+        "index": 23,
+        "start_time": 81565,
+        "end_time": 85263,
+        "text": "When a doorknob, a solid,\nhas static electricity on it,"
+    },
+    {
+        "index": 24,
+        "start_time": 85263,
+        "end_time": 88125,
+        "text": "it doesn&#39;t look or behave any differently."
+    },
+    {
+        "index": 25,
+        "start_time": 88125,
+        "end_time": 91940,
+        "text": "And with the exception of a compass\nor other magnetic object,"
+    },
+    {
+        "index": 26,
+        "start_time": 91940,
+        "end_time": 96503,
+        "text": "we rarely see matter \nrespond to a magnetic field."
+    },
+    {
+        "index": 27,
+        "start_time": 96503,
+        "end_time": 100033,
+        "text": "But put a plasma in an electric field\nor magnetic field,"
+    },
+    {
+        "index": 28,
+        "start_time": 100033,
+        "end_time": 102416,
+        "text": "and you&#39;ll get a very different reaction."
+    },
+    {
+        "index": 29,
+        "start_time": 102416,
+        "end_time": 104368,
+        "text": "Because plasmas are charged,"
+    },
+    {
+        "index": 30,
+        "start_time": 104368,
+        "end_time": 106324,
+        "text": "electric fields accelerate them,"
+    },
+    {
+        "index": 31,
+        "start_time": 106324,
+        "end_time": 110628,
+        "text": "and magnetic fields steer them\nin circular orbits."
+    },
+    {
+        "index": 32,
+        "start_time": 110628,
+        "end_time": 112918,
+        "text": "And when the particles \nwithin plasma collide,"
+    },
+    {
+        "index": 33,
+        "start_time": 112918,
+        "end_time": 116381,
+        "text": "or accelerated \nby electricity or magnetism,"
+    },
+    {
+        "index": 34,
+        "start_time": 116381,
+        "end_time": 118119,
+        "text": "light is generated,"
+    },
+    {
+        "index": 35,
+        "start_time": 118119,
+        "end_time": 120396,
+        "text": "which is what we see \nwhen we look at plasmas"
+    },
+    {
+        "index": 36,
+        "start_time": 120396,
+        "end_time": 123166,
+        "text": "like the Aurora Borealis."
+    },
+    {
+        "index": 37,
+        "start_time": 123166,
+        "end_time": 126699,
+        "text": "Plasmas aren&#39;t just beautiful,\ncelestial phenomena, though."
+    },
+    {
+        "index": 38,
+        "start_time": 126699,
+        "end_time": 132735,
+        "text": "Imagine a tiny cube made of normal gas\nwith a very high voltage across it."
+    },
+    {
+        "index": 39,
+        "start_time": 132735,
+        "end_time": 134785,
+        "text": "The resulting electric field"
+    },
+    {
+        "index": 40,
+        "start_time": 134785,
+        "end_time": 139969,
+        "text": "pushes some of the electrons off the atoms\nand accelerates them to high speeds"
+    },
+    {
+        "index": 41,
+        "start_time": 139969,
+        "end_time": 142786,
+        "text": "causing the ionization of other atoms."
+    },
+    {
+        "index": 42,
+        "start_time": 142786,
+        "end_time": 146974,
+        "text": "Imbedded impurities \nin the tiny cube of gas"
+    },
+    {
+        "index": 43,
+        "start_time": 146974,
+        "end_time": 150855,
+        "text": "cause it to gain and release \na precise amount of energy"
+    },
+    {
+        "index": 44,
+        "start_time": 150855,
+        "end_time": 154769,
+        "text": "in the form of ultraviolet radiation."
+    },
+    {
+        "index": 45,
+        "start_time": 154769,
+        "end_time": 156759,
+        "text": "Attached to each tiny cube,"
+    },
+    {
+        "index": 46,
+        "start_time": 156759,
+        "end_time": 160199,
+        "text": "a fluorescent material glows\nwith a specific color"
+    },
+    {
+        "index": 47,
+        "start_time": 160199,
+        "end_time": 165046,
+        "text": "when ultraviolet light \nat just the right intensity reaches it."
+    },
+    {
+        "index": 48,
+        "start_time": 165046,
+        "end_time": 169284,
+        "text": "Now, make a rectangle \nout of a million of these tiny cubes,"
+    },
+    {
+        "index": 49,
+        "start_time": 169284,
+        "end_time": 173397,
+        "text": "each separately controlled\nby sophisticated electronics."
+    },
+    {
+        "index": 50,
+        "start_time": 173397,
+        "end_time": 175870,
+        "text": "You may be looking at one now."
+    },
+    {
+        "index": 51,
+        "start_time": 175870,
+        "end_time": 178535,
+        "text": "This is called a plasma TV."
+    },
+    {
+        "index": 52,
+        "start_time": 178535,
+        "end_time": 181773,
+        "text": "Plasmas also have implications\nfor health care."
+    },
+    {
+        "index": 53,
+        "start_time": 181773,
+        "end_time": 185756,
+        "text": "Plasma chemists create \nhighly specific plasmas"
+    },
+    {
+        "index": 54,
+        "start_time": 185756,
+        "end_time": 189029,
+        "text": "that can destroy \nor alter targeted chemicals,"
+    },
+    {
+        "index": 55,
+        "start_time": 189029,
+        "end_time": 194620,
+        "text": "thereby killing pathogenic organisms\non food or hospital surfaces."
+    },
+    {
+        "index": 56,
+        "start_time": 194620,
+        "end_time": 197064,
+        "text": "Plasmas are all around us,"
+    },
+    {
+        "index": 57,
+        "start_time": 197064,
+        "end_time": 200337,
+        "text": "in forms that are both spectacular\nand practical."
+    },
+    {
+        "index": 58,
+        "start_time": 200337,
+        "end_time": 202623,
+        "text": "And in the future, plasma could be used"
+    },
+    {
+        "index": 59,
+        "start_time": 202623,
+        "end_time": 205709,
+        "text": "to permanently rid \nlandfills of their waste,"
+    },
+    {
+        "index": 60,
+        "start_time": 205709,
+        "end_time": 208790,
+        "text": "efficiently remove toxins \nfrom our air and water,"
+    },
+    {
+        "index": 61,
+        "start_time": 208790,
+        "end_time": 212674,
+        "text": "and provide us with a potentially\nunlimited supply"
+    },
+    {
+        "index": 62,
+        "start_time": 212674,
+        "end_time": 215307,
+        "text": "of renewable clean energy."
+    }
+]

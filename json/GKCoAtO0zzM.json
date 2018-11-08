@@ -1,0 +1,386 @@
+[
+  {
+    "end_time": 2130,
+    "index": 1,
+    "start_time": 499,
+    "text": "Hi, I&#39;m Daniel Holmlund."
+  },
+  {
+    "end_time": 4740,
+    "index": 2,
+    "start_time": 2130,
+    "text": "In this video we&#39;re going to\ndo a quick overview of sensors"
+  },
+  {
+    "end_time": 6720,
+    "index": 3,
+    "start_time": 4740,
+    "text": "and actuators and\ntake a closer look"
+  },
+  {
+    "end_time": 9360,
+    "index": 4,
+    "start_time": 6720,
+    "text": "at what&#39;s provided inside\nthe Grove IoT Sensor Kit."
+  },
+  {
+    "end_time": 14100,
+    "index": 5,
+    "start_time": 12270,
+    "text": "A sensor is defined\nas a device that"
+  },
+  {
+    "end_time": 17310,
+    "index": 6,
+    "start_time": 14100,
+    "text": "can record a measurement about\nits physical environment."
+  },
+  {
+    "end_time": 18900,
+    "index": 7,
+    "start_time": 17310,
+    "text": "This measurement can\nthen be converted"
+  },
+  {
+    "end_time": 22470,
+    "index": 8,
+    "start_time": 18900,
+    "text": "into an electrical signal that\ncan be read by an Arduino 101"
+  },
+  {
+    "end_time": 24750,
+    "index": 9,
+    "start_time": 22470,
+    "text": "and is forwarded to a\ngateway or to the cloud"
+  },
+  {
+    "end_time": 26340,
+    "index": 10,
+    "start_time": 24750,
+    "text": "for additional processing."
+  },
+  {
+    "end_time": 28500,
+    "index": 11,
+    "start_time": 26340,
+    "text": "The electrical signal\nconnects to the Arduino"
+  },
+  {
+    "end_time": 31290,
+    "index": 12,
+    "start_time": 28500,
+    "text": "with a couple of different\ntypes of connectors."
+  },
+  {
+    "end_time": 33629,
+    "index": 13,
+    "start_time": 31290,
+    "text": "Sensors encode their\ndata in different ways"
+  },
+  {
+    "end_time": 36660,
+    "index": 14,
+    "start_time": 33630,
+    "text": "in order to best represent the\ndata to the computer system"
+  },
+  {
+    "end_time": 37860,
+    "index": 15,
+    "start_time": 36660,
+    "text": "they talk to."
+  },
+  {
+    "end_time": 40140,
+    "index": 16,
+    "start_time": 37860,
+    "text": "The first type is\na digital sensor."
+  },
+  {
+    "end_time": 43590,
+    "index": 17,
+    "start_time": 40140,
+    "text": "The Grove Button and the\nSwitch are both examples that"
+  },
+  {
+    "end_time": 45840,
+    "index": 18,
+    "start_time": 43590,
+    "text": "send simple digital signals."
+  },
+  {
+    "end_time": 47700,
+    "index": 19,
+    "start_time": 45840,
+    "text": "They&#39;re either on\nor they&#39;re off."
+  },
+  {
+    "end_time": 50100,
+    "index": 20,
+    "start_time": 47700,
+    "text": "The second type is\na digital actuator."
+  },
+  {
+    "end_time": 53940,
+    "index": 21,
+    "start_time": 50100,
+    "text": "The Grove Buzzer and Grove LTD\nare both digital actuators."
+  },
+  {
+    "end_time": 55410,
+    "index": 22,
+    "start_time": 53940,
+    "text": "That is they can\nchange their state"
+  },
+  {
+    "end_time": 58500,
+    "index": 23,
+    "start_time": 55410,
+    "text": "and perform an action depending\non whether on or off signal"
+  },
+  {
+    "end_time": 59610,
+    "index": 24,
+    "start_time": 58500,
+    "text": "is sent to them."
+  },
+  {
+    "end_time": 62070,
+    "index": 25,
+    "start_time": 59610,
+    "text": "The Buzzer will make a noise\nand the LCD will light up"
+  },
+  {
+    "end_time": 63660,
+    "index": 26,
+    "start_time": 62070,
+    "text": "when a high signal was sent."
+  },
+  {
+    "end_time": 66810,
+    "index": 27,
+    "start_time": 63660,
+    "text": "They both deactivate\nwhen the signal is low."
+  },
+  {
+    "end_time": 70170,
+    "index": 28,
+    "start_time": 66810,
+    "text": "On the Arduino 101, a\nvoltage of 3.3 volts"
+  },
+  {
+    "end_time": 73530,
+    "index": 29,
+    "start_time": 70170,
+    "text": "is considered on or high\nand a voltage of zero"
+  },
+  {
+    "end_time": 75510,
+    "index": 30,
+    "start_time": 73530,
+    "text": "is considered off or low."
+  },
+  {
+    "end_time": 77850,
+    "index": 31,
+    "start_time": 75510,
+    "text": "The Grove Temperature\nSensor, Rotary Angle Sensor,"
+  },
+  {
+    "end_time": 81000,
+    "index": 32,
+    "start_time": 77850,
+    "text": "and Light Sensor are\nexamples of analog sensors."
+  },
+  {
+    "end_time": 84330,
+    "index": 33,
+    "start_time": 81000,
+    "text": "This means that they receive a\nvoltage somewhere between zero"
+  },
+  {
+    "end_time": 86280,
+    "index": 34,
+    "start_time": 84330,
+    "text": "and 3.3 volts."
+  },
+  {
+    "end_time": 89130,
+    "index": 35,
+    "start_time": 86280,
+    "text": "The Arduino 101 has an\nanalog to digital converter,"
+  },
+  {
+    "end_time": 91949,
+    "index": 36,
+    "start_time": 89130,
+    "text": "or ADC, which takes the\nsignal and converts it"
+  },
+  {
+    "end_time": 96480,
+    "index": 37,
+    "start_time": 91950,
+    "text": "into a 10-bit number, which is\na number between zero and 1023."
+  },
+  {
+    "end_time": 100440,
+    "index": 38,
+    "start_time": 96480,
+    "text": "So, for example, if a sensor is\nsending a voltage of 1.65 volts"
+  },
+  {
+    "end_time": 102990,
+    "index": 39,
+    "start_time": 100440,
+    "text": "to the Arduino, the\nconverter would read this"
+  },
+  {
+    "end_time": 105869,
+    "index": 40,
+    "start_time": 102990,
+    "text": "as approximately 512."
+  },
+  {
+    "end_time": 108510,
+    "index": 41,
+    "start_time": 105870,
+    "text": "Lastly, the LCD\nscreen is an actuator"
+  },
+  {
+    "end_time": 110460,
+    "index": 42,
+    "start_time": 108510,
+    "text": "that is capable of\ndisplaying a message"
+  },
+  {
+    "end_time": 113580,
+    "index": 43,
+    "start_time": 110460,
+    "text": "and illuminating its backlight\nto any eight-bit color."
+  },
+  {
+    "end_time": 116160,
+    "index": 44,
+    "start_time": 113580,
+    "text": "It&#39;s not a simple\ndigital or analog device."
+  },
+  {
+    "end_time": 120679,
+    "index": 45,
+    "start_time": 116160,
+    "text": "It uses a serial communication\nprotocol called I squared C."
+  },
+  {
+    "end_time": 122820,
+    "index": 46,
+    "start_time": 120680,
+    "text": "The I squared C\nprotocol allows devices"
+  },
+  {
+    "end_time": 125759,
+    "index": 47,
+    "start_time": 122820,
+    "text": "to communicate their\ninternal timing clocks"
+  },
+  {
+    "end_time": 128880,
+    "index": 48,
+    "start_time": 125760,
+    "text": "and then communicate data\nusing a serial protocol."
+  },
+  {
+    "end_time": 131038,
+    "index": 49,
+    "start_time": 128880,
+    "text": "I squared C devices\ncan be chained,"
+  },
+  {
+    "end_time": 133649,
+    "index": 50,
+    "start_time": 131038,
+    "text": "meaning that multiple\ndevices can be attached."
+  },
+  {
+    "end_time": 135270,
+    "index": 51,
+    "start_time": 133650,
+    "text": "And together, these\ndevices are said"
+  },
+  {
+    "end_time": 138240,
+    "index": 52,
+    "start_time": 135270,
+    "text": "to be on an I squared C bus."
+  },
+  {
+    "end_time": 140280,
+    "index": 53,
+    "start_time": 138240,
+    "text": "Each device is given\nan address that can"
+  },
+  {
+    "end_time": 143190,
+    "index": 54,
+    "start_time": 140280,
+    "text": "be communicated to on that bus."
+  },
+  {
+    "end_time": 145410,
+    "index": 55,
+    "start_time": 143190,
+    "text": "In the video on\nMRAA and UPM, we&#39;ll"
+  },
+  {
+    "end_time": 147090,
+    "index": 56,
+    "start_time": 145410,
+    "text": "see how to use a\nhigher level software"
+  },
+  {
+    "end_time": 149400,
+    "index": 57,
+    "start_time": 147090,
+    "text": "library to abstract\naway these details"
+  },
+  {
+    "end_time": 152100,
+    "index": 58,
+    "start_time": 149400,
+    "text": "and to give an easy-to-use\ninterface to more"
+  },
+  {
+    "end_time": 153900,
+    "index": 59,
+    "start_time": 152100,
+    "text": "complicated devices."
+  },
+  {
+    "end_time": 155620,
+    "index": 60,
+    "start_time": 153900,
+    "text": "Thank you very\nmuch for watching."
+  },
+  {
+    "end_time": 158370,
+    "index": 61,
+    "start_time": 155620,
+    "text": "Remember to like this video and\nsubscribe to the Intel software"
+  },
+  {
+    "end_time": 159510,
+    "index": 62,
+    "start_time": 158370,
+    "text": "YouTube channel."
+  },
+  {
+    "end_time": 161549,
+    "index": 63,
+    "start_time": 159510,
+    "text": "Follow the links below\nto get more information"
+  },
+  {
+    "end_time": 165590,
+    "index": 64,
+    "start_time": 161550,
+    "text": "on what we discussed and\nlook us up on Facebook."
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "end_time": 7099,
+    "index": 1,
+    "start_time": 99,
+    "text": "We\u2019re a month into 2015, and a lot of us\nare probably struggling with our New Years"
+  },
+  {
+    "end_time": 15940,
+    "index": 2,
+    "start_time": 15160,
+    "text": "diet resolutions."
+  },
+  {
+    "end_time": 20020,
+    "index": 3,
+    "start_time": 15940,
+    "text": "But if you find yourself staring at the half-eaten\ndonut in your hand saying, \u201cwhy can\u2019t"
+  },
+  {
+    "end_time": 22650,
+    "index": 4,
+    "start_time": 20020,
+    "text": "I quit you?\u201d, don\u2019t beat yourself up too\nmuch."
+  },
+  {
+    "end_time": 27890,
+    "index": 5,
+    "start_time": 22650,
+    "text": "New research out this week suggests that our\nbrains are hardwired to love that donut."
+  },
+  {
+    "end_time": 31580,
+    "index": 6,
+    "start_time": 27890,
+    "text": "Writing in the publication Cell, scientists\nat MIT say that they\u2019ve discovered the neural"
+  },
+  {
+    "end_time": 33949,
+    "index": 7,
+    "start_time": 31580,
+    "text": "circuit that controls sugar and food addictions."
+  },
+  {
+    "end_time": 39149,
+    "index": 8,
+    "start_time": 33949,
+    "text": "It\u2019s called the LH-VTA Loop, and it\u2019s\nlike a highway between the lateral hypothalamus,"
+  },
+  {
+    "end_time": 44059,
+    "index": 9,
+    "start_time": 39149,
+    "text": "or LH, which controls how hungry you feel,\nand the ventral tegmental area, or VTA, which"
+  },
+  {
+    "end_time": 46839,
+    "index": 10,
+    "start_time": 44059,
+    "text": "is the center of the brain\u2019s reward circuit."
+  },
+  {
+    "end_time": 50550,
+    "index": 11,
+    "start_time": 46839,
+    "text": "Scientists knew that the LH-VTA Loop existed\n-- problems in this area have been linked"
+  },
+  {
+    "end_time": 51898,
+    "index": 12,
+    "start_time": 50550,
+    "text": "to some sexual and drug addictions."
+  },
+  {
+    "end_time": 55039,
+    "index": 13,
+    "start_time": 51899,
+    "text": "But they didn\u2019t know if it was responsible\nfor food addiction, as well."
+  },
+  {
+    "end_time": 59469,
+    "index": 14,
+    "start_time": 55039,
+    "text": "So to test its role in eating behavior, they\nused a technique called optogenetics, on mice."
+  },
+  {
+    "end_time": 62739,
+    "index": 15,
+    "start_time": 59469,
+    "text": "They genetically modified certain neurons\nin the mice\u2019s brains, so that those cells"
+  },
+  {
+    "end_time": 65570,
+    "index": 16,
+    "start_time": 62739,
+    "text": "could be basically turned on or off by exposing\nthem to light."
+  },
+  {
+    "end_time": 69610,
+    "index": 17,
+    "start_time": 65570,
+    "text": "By delivering a yellow light through a small,\nimplanted fiber optic, the scientists could"
+  },
+  {
+    "end_time": 72329,
+    "index": 18,
+    "start_time": 69610,
+    "text": "turn those neurons on and activate the LH-VTA\nLoop."
+  },
+  {
+    "end_time": 75579,
+    "index": 19,
+    "start_time": 72329,
+    "text": "They could also turn those same neurons off\nby delivering a blue light."
+  },
+  {
+    "end_time": 80000,
+    "index": 20,
+    "start_time": 75579,
+    "text": "With these modifications in place, healthy,\nwell-fed mice were put into two stations."
+  },
+  {
+    "end_time": 83719,
+    "index": 21,
+    "start_time": 80000,
+    "text": "The first had a cup full of food pellets,\nand the second had a sugar dispenser. The"
+  },
+  {
+    "end_time": 85859,
+    "index": 22,
+    "start_time": 83719,
+    "text": "scientists then activated the yellow light."
+  },
+  {
+    "end_time": 89509,
+    "index": 23,
+    "start_time": 85859,
+    "text": "With their reward circuits stuck in the \u201con\u201d\nposition, the mice ate for longer periods"
+  },
+  {
+    "end_time": 93679,
+    "index": 24,
+    "start_time": 89509,
+    "text": "of time in the first station, and kept going\nback to the sugar dispenser, repeatedly, at"
+  },
+  {
+    "end_time": 94619,
+    "index": 25,
+    "start_time": 93679,
+    "text": "the second station."
+  },
+  {
+    "end_time": 99049,
+    "index": 26,
+    "start_time": 94619,
+    "text": "The mice at the second station would even\nwalk across a platform that delivered electrical"
+  },
+  {
+    "end_time": 101780,
+    "index": 27,
+    "start_time": 99049,
+    "text": "shocks just to get more of that sweet stuff."
+  },
+  {
+    "end_time": 106890,
+    "index": 28,
+    "start_time": 101780,
+    "text": "But when the scientists used the blue light\nto turn off the LH-VTA Loop, the mice wouldn\u2019t"
+  },
+  {
+    "end_time": 110170,
+    "index": 29,
+    "start_time": 106890,
+    "text": "walk across the electrified platform, and\nthey wouldn\u2019t eat if they were full."
+  },
+  {
+    "end_time": 114039,
+    "index": 30,
+    "start_time": 110170,
+    "text": "Now, we humans also have this same Loop in\nour brains, and it\u2019s likely there for a"
+  },
+  {
+    "end_time": 114289,
+    "index": 31,
+    "start_time": 114039,
+    "text": "reason."
+  },
+  {
+    "end_time": 118100,
+    "index": 32,
+    "start_time": 114189,
+    "text": "Many scientists believe that our taste for\nwhat we now think of as junk food evolved"
+  },
+  {
+    "end_time": 122089,
+    "index": 33,
+    "start_time": 118100,
+    "text": "as a way to reward us for finding palatable,\nhigh-energy food when food was scarce."
+  },
+  {
+    "end_time": 126060,
+    "index": 34,
+    "start_time": 122090,
+    "text": "But, because we now live in a world with a\nKrispy Kreme on every corner, our desire for"
+  },
+  {
+    "end_time": 128220,
+    "index": 35,
+    "start_time": 126060,
+    "text": "sugar has become more of a hinderance than\na help."
+  },
+  {
+    "end_time": 131940,
+    "index": 36,
+    "start_time": 128220,
+    "text": "So, the scientists say that finding the part\nof our brain that regulates these cravings"
+  },
+  {
+    "end_time": 134920,
+    "index": 37,
+    "start_time": 131940,
+    "text": "can help in developing treatments for often-debilitating\nfood addictions."
+  },
+  {
+    "end_time": 138579,
+    "index": 38,
+    "start_time": 134920,
+    "text": "But, besides our brain\u2019s reward system,\nwhat else makes us love food?"
+  },
+  {
+    "end_time": 139670,
+    "index": 39,
+    "start_time": 138580,
+    "text": "Well, taste, of course."
+  },
+  {
+    "end_time": 143720,
+    "index": 40,
+    "start_time": 139670,
+    "text": "There\u2019s bitter, sweet, salty, sour and what\u2019s\nsometimes called the \u2018fifth\u2019 taste, known"
+  },
+  {
+    "end_time": 144390,
+    "index": 41,
+    "start_time": 143720,
+    "text": "as umami."
+  },
+  {
+    "end_time": 148750,
+    "index": 42,
+    "start_time": 144390,
+    "text": "It\u2019s best described as a savory -- but not\nsalty -- flavor that you can\u2019t quite put"
+  },
+  {
+    "end_time": 149830,
+    "index": 43,
+    "start_time": 148750,
+    "text": "your finger on."
+  },
+  {
+    "end_time": 153300,
+    "index": 44,
+    "start_time": 149830,
+    "text": "Umami flavor comes predominantly from high\nlevels of the amino acid glutamate and was"
+  },
+  {
+    "end_time": 155640,
+    "index": 45,
+    "start_time": 153300,
+    "text": "discovered by a Japanese scientist in 1908."
+  },
+  {
+    "end_time": 159890,
+    "index": 46,
+    "start_time": 155640,
+    "text": "It\u2019s found in cheeses, shiitake mushrooms,\nham, and monosodium glutamate, a food additive"
+  },
+  {
+    "end_time": 163230,
+    "index": 47,
+    "start_time": 159890,
+    "text": "that was developed in 1909 to enhance the\numami flavor of food."
+  },
+  {
+    "end_time": 168190,
+    "index": 48,
+    "start_time": 163230,
+    "text": "Now, according to a new study in Japan, tasting\numami might be important to our health."
+  },
+  {
+    "end_time": 172490,
+    "index": 49,
+    "start_time": 168190,
+    "text": "Scientists performed what\u2019s known as a paper\nfilter disk test on 44 elderly patients. The"
+  },
+  {
+    "end_time": 176770,
+    "index": 50,
+    "start_time": 172490,
+    "text": "test uses a small piece of paper soaked in\ndifferent concentrations of a tasty solution"
+  },
+  {
+    "end_time": 179480,
+    "index": 51,
+    "start_time": 176770,
+    "text": "and places on the parts of the tongue responsible\nfor each taste."
+  },
+  {
+    "end_time": 183690,
+    "index": 52,
+    "start_time": 179480,
+    "text": "And 16 percent of those tested turned out\nto have unusually high thresholds for umami,"
+  },
+  {
+    "end_time": 185070,
+    "index": 53,
+    "start_time": 183690,
+    "text": "meaning that they could barely taste it."
+  },
+  {
+    "end_time": 188980,
+    "index": 54,
+    "start_time": 185070,
+    "text": "And those same patients were also ones who\nstated that food in general just wasn\u2019t"
+  },
+  {
+    "end_time": 192750,
+    "index": 55,
+    "start_time": 188980,
+    "text": "palatable to them anymore. As a result, they\nhad suffered from loss of appetite and weight"
+  },
+  {
+    "end_time": 193190,
+    "index": 56,
+    "start_time": 192750,
+    "text": "loss."
+  },
+  {
+    "end_time": 197070,
+    "index": 57,
+    "start_time": 193190,
+    "text": "Part of their problem, it turned out, was\nhyposalivation, or the inability to produce"
+  },
+  {
+    "end_time": 197970,
+    "index": 58,
+    "start_time": 197070,
+    "text": "enough saliva."
+  },
+  {
+    "end_time": 201590,
+    "index": 59,
+    "start_time": 197970,
+    "text": "You have to produce saliva in order to taste\nanything, because food needs to be partially"
+  },
+  {
+    "end_time": 204280,
+    "index": 60,
+    "start_time": 201590,
+    "text": "dissolved by saliva for our taste buds to\nregister them."
+  },
+  {
+    "end_time": 208490,
+    "index": 61,
+    "start_time": 204280,
+    "text": "And you know what actually stimulates saliva\nproduction? Foods with umami in it!"
+  },
+  {
+    "end_time": 214040,
+    "index": 62,
+    "start_time": 208490,
+    "text": "So in a weird kind of catch-22, the patients\nneeded to eat more umami in order to taste"
+  },
+  {
+    "end_time": 215730,
+    "index": 63,
+    "start_time": 214040,
+    "text": "umami, to get their appetites back."
+  },
+  {
+    "end_time": 219459,
+    "index": 64,
+    "start_time": 215730,
+    "text": "So the scientists prescribed a daily regime\nof konbu-cha, a tea made from kelp that\u2019s"
+  },
+  {
+    "end_time": 220180,
+    "index": 65,
+    "start_time": 219460,
+    "text": "rich in glutamate"
+  },
+  {
+    "end_time": 224570,
+    "index": 66,
+    "start_time": 220180,
+    "text": "The tea began stimulating their umami receptors,\nwhich caused them to slowly increase saliva"
+  },
+  {
+    "end_time": 228150,
+    "index": 67,
+    "start_time": 224570,
+    "text": "production. And as they started to produce\nmore saliva, they began to taste foods more"
+  },
+  {
+    "end_time": 228790,
+    "index": 68,
+    "start_time": 228150,
+    "text": "strongly."
+  },
+  {
+    "end_time": 232090,
+    "index": 69,
+    "start_time": 228790,
+    "text": "Eventually, food became more palatable and\nthey regained their appetite."
+  },
+  {
+    "end_time": 236010,
+    "index": 70,
+    "start_time": 232090,
+    "text": "Thank you for watching this particularly delicious\nepisode of SciShow News. If you want to help"
+  },
+  {
+    "end_time": 240709,
+    "index": 71,
+    "start_time": 236010,
+    "text": "us share science with the world, you can become\na supporting subscriber at Subbable.com/scishow."
+  },
+  {
+    "end_time": 245010,
+    "index": 72,
+    "start_time": 240710,
+    "text": "And don\u2019t forget to go to youtube.com/scishow\nand subscribe!"
+  }
+]

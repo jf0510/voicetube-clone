@@ -1,0 +1,86 @@
+[
+  {
+    "end_time": 13349,
+    "index": 1,
+    "start_time": 1639,
+    "text": "Hello I&#39;m Ivan and this week I tested 3d\nprinting on fabrics with ABS. I&#39;ve got an"
+  },
+  {
+    "end_time": 21060,
+    "index": 2,
+    "start_time": 13349,
+    "text": "old t-shirt and I fixed it on the building plate. Loaded a  spool of ABS"
+  },
+  {
+    "end_time": 29130,
+    "index": 3,
+    "start_time": 21060,
+    "text": "and applied the following settings: no\nbottom layers, one outline, 100% infill,"
+  },
+  {
+    "end_time": 38329,
+    "index": 4,
+    "start_time": 29130,
+    "text": "two layers. I didn&#39;t heat the bed but I\nincreased the hotend temperature to 255 C"
+  },
+  {
+    "end_time": 46260,
+    "index": 5,
+    "start_time": 38329,
+    "text": "hoping the ABS will better penetrate the\nfabrics. First I printed our company logo."
+  },
+  {
+    "end_time": 54750,
+    "index": 6,
+    "start_time": 46260,
+    "text": "It consists in nine solid characters, so it was an easy print. It took around 2"
+  },
+  {
+    "end_time": 58980,
+    "index": 7,
+    "start_time": 54750,
+    "text": "minutes - well there are only two layers."
+  },
+  {
+    "end_time": 65750,
+    "index": 8,
+    "start_time": 58980,
+    "text": "It came out nice and solidly sticked\nto the fabrics."
+  },
+  {
+    "end_time": 85170,
+    "index": 9,
+    "start_time": 76470,
+    "text": "Then I tested a larger and more complex\nprint like the Sting&#39;s signature. After the"
+  },
+  {
+    "end_time": 92610,
+    "index": 10,
+    "start_time": 85170,
+    "text": "first layer there was some displacement\nof the shirt on the x-axis but I"
+  },
+  {
+    "end_time": 99570,
+    "index": 11,
+    "start_time": 92610,
+    "text": "continued with the second layer and the\nend result was very ok"
+  },
+  {
+    "end_time": 111380,
+    "index": 12,
+    "start_time": 99570,
+    "text": "I don&#39;t know whether those will survive\nthe washing machine but it survived this..."
+  },
+  {
+    "end_time": 155310,
+    "index": 13,
+    "start_time": 147650,
+    "text": "so 3d printing on fabrics could be a\nnice technique to make an original"
+  },
+  {
+    "end_time": 163460,
+    "index": 14,
+    "start_time": 155310,
+    "text": "t-shirt for an event and make an\nimpression. Thanks for watching."
+  }
+]

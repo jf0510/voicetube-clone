@@ -1,0 +1,338 @@
+[
+  {
+    "end_time": 2200,
+    "index": 1,
+    "start_time": 499,
+    "text": "Hi, I&#39;m Daniel Holmlund."
+  },
+  {
+    "end_time": 5590,
+    "index": 2,
+    "start_time": 2200,
+    "text": "In this video, we&#39;ll show you\nthe traditional OSI 7 Layer"
+  },
+  {
+    "end_time": 10030,
+    "index": 3,
+    "start_time": 5590,
+    "text": "Network Model and describe\nhow the TCP/IP family of IoT"
+  },
+  {
+    "end_time": 11770,
+    "index": 4,
+    "start_time": 10030,
+    "text": "protocols fit into the picture."
+  },
+  {
+    "end_time": 18090,
+    "index": 5,
+    "start_time": 15610,
+    "text": "The internet of things is\nintroducing many new network"
+  },
+  {
+    "end_time": 18929,
+    "index": 6,
+    "start_time": 18090,
+    "text": "protocols."
+  },
+  {
+    "end_time": 20470,
+    "index": 7,
+    "start_time": 18929,
+    "text": "Sometimes there are\nso many that it&#39;s"
+  },
+  {
+    "end_time": 22869,
+    "index": 8,
+    "start_time": 20470,
+    "text": "difficult to know how and\nwhen they can be used."
+  },
+  {
+    "end_time": 24700,
+    "index": 9,
+    "start_time": 22870,
+    "text": "In addition,\nprotocols that are not"
+  },
+  {
+    "end_time": 27490,
+    "index": 10,
+    "start_time": 24700,
+    "text": "based on the traditional\nOSI 7 Layer Model"
+  },
+  {
+    "end_time": 30110,
+    "index": 11,
+    "start_time": 27490,
+    "text": "are becoming more common,\nwhere they have advantages"
+  },
+  {
+    "end_time": 32589,
+    "index": 12,
+    "start_time": 30110,
+    "text": "in IoT situations\nsuch as systems"
+  },
+  {
+    "end_time": 36340,
+    "index": 13,
+    "start_time": 32590,
+    "text": "that require low power, long\ndistance radio communications,"
+  },
+  {
+    "end_time": 38470,
+    "index": 14,
+    "start_time": 36340,
+    "text": "or mesh networking."
+  },
+  {
+    "end_time": 41050,
+    "index": 15,
+    "start_time": 38470,
+    "text": "The physical layer,\nLayer 1, is responsible"
+  },
+  {
+    "end_time": 43239,
+    "index": 16,
+    "start_time": 41050,
+    "text": "for the transmission\nof digital data bits"
+  },
+  {
+    "end_time": 45130,
+    "index": 17,
+    "start_time": 43240,
+    "text": "from the physical\nlayer of the sending"
+  },
+  {
+    "end_time": 48490,
+    "index": 18,
+    "start_time": 45130,
+    "text": "device to the physical layer\nof the receiving device."
+  },
+  {
+    "end_time": 52420,
+    "index": 19,
+    "start_time": 48490,
+    "text": "Examples of Layer 1 technologies\ninclude ethernet cables,"
+  },
+  {
+    "end_time": 55870,
+    "index": 20,
+    "start_time": 52420,
+    "text": "token ring networks,\nhubs, and repeaters."
+  },
+  {
+    "end_time": 59379,
+    "index": 21,
+    "start_time": 55870,
+    "text": "The data link layer, Layer 2,\nis responsible for transferring"
+  },
+  {
+    "end_time": 62170,
+    "index": 22,
+    "start_time": 59380,
+    "text": "data between two\nadjacent network nodes"
+  },
+  {
+    "end_time": 64480,
+    "index": 23,
+    "start_time": 62170,
+    "text": "and providing some\nerror correction."
+  },
+  {
+    "end_time": 66670,
+    "index": 24,
+    "start_time": 64480,
+    "text": "Examples of data\nlink protocols are"
+  },
+  {
+    "end_time": 69760,
+    "index": 25,
+    "start_time": 66670,
+    "text": "the frame based Ethernet\nProtocol and the Point-to-Point"
+  },
+  {
+    "end_time": 72310,
+    "index": 26,
+    "start_time": 69760,
+    "text": "Protocol, or PPP."
+  },
+  {
+    "end_time": 75970,
+    "index": 27,
+    "start_time": 72310,
+    "text": "The network layer, Layer 3,\nis responsible for providing"
+  },
+  {
+    "end_time": 79539,
+    "index": 28,
+    "start_time": 75970,
+    "text": "the ability to transfer variable\nlength and network packets"
+  },
+  {
+    "end_time": 82444,
+    "index": 29,
+    "start_time": 79540,
+    "text": "from a source to a destination."
+  },
+  {
+    "end_time": 83860,
+    "index": 30,
+    "start_time": 82444,
+    "text": "This includes the\nability to route"
+  },
+  {
+    "end_time": 85720,
+    "index": 31,
+    "start_time": 83860,
+    "text": "between adjacent networks."
+  },
+  {
+    "end_time": 87460,
+    "index": 32,
+    "start_time": 85720,
+    "text": "Examples of protocols\nin this layer"
+  },
+  {
+    "end_time": 92649,
+    "index": 33,
+    "start_time": 87460,
+    "text": "are IPv4 and v6, IPSec, the\nInternet Control Message"
+  },
+  {
+    "end_time": 96310,
+    "index": 34,
+    "start_time": 92650,
+    "text": "Protocol, or ICMP, which\nenables traceroute and ping,"
+  },
+  {
+    "end_time": 98770,
+    "index": 35,
+    "start_time": 96310,
+    "text": "and the Internet Group\nManagement Protocol,"
+  },
+  {
+    "end_time": 100839,
+    "index": 36,
+    "start_time": 98770,
+    "text": "which enables multicast groups."
+  },
+  {
+    "end_time": 103000,
+    "index": 37,
+    "start_time": 100840,
+    "text": "Layer 4 is the\ntransport layer and it"
+  },
+  {
+    "end_time": 106210,
+    "index": 38,
+    "start_time": 103000,
+    "text": "provides services such as the\nconnection-oriented data stream"
+  },
+  {
+    "end_time": 108970,
+    "index": 39,
+    "start_time": 106210,
+    "text": "protocol, reliability."
+  },
+  {
+    "end_time": 111429,
+    "index": 40,
+    "start_time": 108970,
+    "text": "flow control, and multiplexing."
+  },
+  {
+    "end_time": 115120,
+    "index": 41,
+    "start_time": 111430,
+    "text": "Most people will better know\nthis layer as the TCP or UDP"
+  },
+  {
+    "end_time": 116800,
+    "index": 42,
+    "start_time": 115120,
+    "text": "service layer."
+  },
+  {
+    "end_time": 118780,
+    "index": 43,
+    "start_time": 116800,
+    "text": "The next commonly\nused network layer"
+  },
+  {
+    "end_time": 121450,
+    "index": 44,
+    "start_time": 118780,
+    "text": "is the application\nlayer, or Layer 7,"
+  },
+  {
+    "end_time": 124090,
+    "index": 45,
+    "start_time": 121450,
+    "text": "which provides an abstraction\nlayer that specifies"
+  },
+  {
+    "end_time": 126350,
+    "index": 46,
+    "start_time": 124090,
+    "text": "higher level protocols."
+  },
+  {
+    "end_time": 128978,
+    "index": 47,
+    "start_time": 126350,
+    "text": "Some of these include the\nclassic internet protocols"
+  },
+  {
+    "end_time": 138750,
+    "index": 48,
+    "start_time": 128979,
+    "text": "such as HTTP, FTP, MQTT,\nSMTP, IMAP, LDAP, DNS, SSH,"
+  },
+  {
+    "end_time": 140950,
+    "index": 49,
+    "start_time": 138750,
+    "text": "TLS, and more."
+  },
+  {
+    "end_time": 144519,
+    "index": 50,
+    "start_time": 140950,
+    "text": "The OSI 7 Layer Model gives\nus a conceptual framework,"
+  },
+  {
+    "end_time": 147460,
+    "index": 51,
+    "start_time": 144520,
+    "text": "which we can use to continue\nour exploration of how"
+  },
+  {
+    "end_time": 151360,
+    "index": 52,
+    "start_time": 147460,
+    "text": "specific protocols fit into\nthe internet of things."
+  },
+  {
+    "end_time": 152570,
+    "index": 53,
+    "start_time": 151360,
+    "text": "Thanks for watching."
+  },
+  {
+    "end_time": 154390,
+    "index": 54,
+    "start_time": 152570,
+    "text": "For more information,\ncheck out the links"
+  },
+  {
+    "end_time": 157570,
+    "index": 55,
+    "start_time": 154390,
+    "text": "provided and don&#39;t\nforget to like this video"
+  },
+  {
+    "end_time": 161100,
+    "index": 56,
+    "start_time": 157570,
+    "text": "and subscribe to the Intel\nSoftware YouTube channel."
+  }
+]

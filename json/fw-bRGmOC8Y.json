@@ -1,0 +1,758 @@
+[
+  {
+    "end_time": 14576,
+    "index": 1,
+    "start_time": 12237,
+    "text": "CARL AZUZ, CNN ANCHOR: I`m Carl Azuz. Welcome to CNN STUDENT NEWS."
+  },
+  {
+    "end_time": 20513,
+    "index": 2,
+    "start_time": 14576,
+    "text": "This week, the victims of the Boston terror bombings are being honored \n in different ways: that`s how we start off today`s show."
+  },
+  {
+    "end_time": 32061,
+    "index": 3,
+    "start_time": 27588,
+    "text": "Yesterday, the city of Boston paused for a \n moment of silence at 2:50 p.m. "
+  },
+  {
+    "end_time": 37544,
+    "index": 4,
+    "start_time": 32061,
+    "text": "The same time when one week earlier, explosions went off \n near the finish line of the Boston Marathon."
+  },
+  {
+    "end_time": 43607,
+    "index": 5,
+    "start_time": 37545,
+    "text": "More than 180 people were injured by the explosions, around \n 50 of them are still in the hospital."
+  },
+  {
+    "end_time": 45580,
+    "index": 6,
+    "start_time": 43607,
+    "text": "Three people were killed in the attack. "
+  },
+  {
+    "end_time": 50373,
+    "index": 7,
+    "start_time": 45580,
+    "text": "Memorial services for two of them, Krystle Campbell \n and Lingzi Lu were held on Monday."
+  },
+  {
+    "end_time": 56105,
+    "index": 8,
+    "start_time": 50373,
+    "text": "The surviving suspect, Dzhokhar Tsarnaev, has been in the \n hospital since he was arrested last Friday."
+  },
+  {
+    "end_time": 61698,
+    "index": 9,
+    "start_time": 56106,
+    "text": "He can`t talk because of his injuries, but he`s \n communicating with investigators by nodding his head."
+  },
+  {
+    "end_time": 69899,
+    "index": 10,
+    "start_time": 61698,
+    "text": "Yesterday, he was charged with using a weapon of mass destruction and \n with malicious destruction of property by means of an explosive device."
+  },
+  {
+    "end_time": 73570,
+    "index": 11,
+    "start_time": 69899,
+    "text": "If he`s convicted, those charges could result in the death penalty."
+  },
+  {
+    "end_time": 77211,
+    "index": 12,
+    "start_time": 73570,
+    "text": "When he was arrested, the suspect was not read his Miranda rights. "
+  },
+  {
+    "end_time": 80244,
+    "index": 13,
+    "start_time": 77211,
+    "text": "There`s been some debate about that, and we`ll \n get into it in just a minute."
+  },
+  {
+    "end_time": 84745,
+    "index": 14,
+    "start_time": 80244,
+    "text": "But first, Jean Casarez is going to explain a little more about Miranda rights."
+  },
+  {
+    "end_time": 92886,
+    "index": 15,
+    "start_time": 84745,
+    "text": "JEAN CASAREZ, CORRESPONDENT &quot;IN SESSION&quot;: The Miranda warning is constitutionally based, and \n it`s very important for every single citizen in this country. "
+  },
+  {
+    "end_time": 96432,
+    "index": 16,
+    "start_time": 92886,
+    "text": "Because let`s say, you are being interrogated by law enforcement. "
+  },
+  {
+    "end_time": 100950,
+    "index": 17,
+    "start_time": 96432,
+    "text": "You don`t feel free to leave, and you say things that incriminate yourself."
+  },
+  {
+    "end_time": 104480,
+    "index": 18,
+    "start_time": 100946,
+    "text": "They could be used later on in a court of law against you. "
+  },
+  {
+    "end_time": 109039,
+    "index": 19,
+    "start_time": 104476,
+    "text": "So it is very important to have knowledge of that \n and to be given notice of that. "
+  },
+  {
+    "end_time": 117100,
+    "index": 20,
+    "start_time": 109042,
+    "text": "The Miranda warning was born from the case in Arizona, Miranda versus \n Arizona, it was a man being prosecuted for domestic violence."
+  },
+  {
+    "end_time": 121140,
+    "index": 21,
+    "start_time": 117102,
+    "text": "And all of his statements were let in when \n he was not given a warning. "
+  },
+  {
+    "end_time": 123560,
+    "index": 22,
+    "start_time": 121135,
+    "text": "He didn`t know that they could be. "
+  },
+  {
+    "end_time": 126670,
+    "index": 23,
+    "start_time": 123561,
+    "text": "So, here`s what happens: let`s say someone is being interrogated. "
+  },
+  {
+    "end_time": 130009,
+    "index": 24,
+    "start_time": 126666,
+    "text": "The Miranda warning is, you have a right to remain silent."
+  },
+  {
+    "end_time": 133000,
+    "index": 25,
+    "start_time": 130008,
+    "text": "Anything you say can be used against you. "
+  },
+  {
+    "end_time": 136800,
+    "index": 26,
+    "start_time": 133000,
+    "text": "You`re having a right to have an attorney present."
+  },
+  {
+    "end_time": 140950,
+    "index": 27,
+    "start_time": 136804,
+    "text": "AZUZ: Officers don`t have to read a suspect his or her Miranda rights."
+  },
+  {
+    "end_time": 146780,
+    "index": 28,
+    "start_time": 140951,
+    "text": "If they don`t, usually it means that anything the \n suspect tells police, cannot be used as evidence."
+  },
+  {
+    "end_time": 151660,
+    "index": 29,
+    "start_time": 146782,
+    "text": "But for this case, the federal government is using \n something called the public safety exception. "
+  },
+  {
+    "end_time": 156799,
+    "index": 30,
+    "start_time": 151664,
+    "text": "It says investigators can question the suspect before reading the Miranda rights, "
+  },
+  {
+    "end_time": 162640,
+    "index": 31,
+    "start_time": 156803,
+    "text": "if the investigators believe there`s a threat to public-safety, \n and those statements can`t be used at trial."
+  },
+  {
+    "end_time": 169280,
+    "index": 32,
+    "start_time": 162638,
+    "text": "During the manhunt for the surviving bombing suspect last Friday, a lot \n of Boston and the surrounding suburbs were on lockdown. "
+  },
+  {
+    "end_time": 172140,
+    "index": 33,
+    "start_time": 169276,
+    "text": "Businesses didn`t open, people didn`t go to work, "
+  },
+  {
+    "end_time": 175780,
+    "index": 34,
+    "start_time": 172143,
+    "text": "the city that was already reeling from the human cost of the violence, "
+  },
+  {
+    "end_time": 178650,
+    "index": 35,
+    "start_time": 175776,
+    "text": "suddenly had to deal with an economic cost as well. "
+  },
+  {
+    "end_time": 180690,
+    "index": 36,
+    "start_time": 178648,
+    "text": "Christine Romans examines that impact."
+  },
+  {
+    "end_time": 185790,
+    "index": 37,
+    "start_time": 182553,
+    "text": "CHRISTINE ROMANS, CNN CORRESPONDENT: Economists say the losses from shutting \n Boston down for a day are big, "
+  },
+  {
+    "end_time": 192910,
+    "index": 38,
+    "start_time": 185788,
+    "text": "but short-term, and that many businesses and the broader Boston economy will \n be able to absorb and make up for those losses."
+  },
+  {
+    "end_time": 200670,
+    "index": 39,
+    "start_time": 192908,
+    "text": "James Diffley from IHS Global Research says, it could be as much as the third \n or a quarter of Boston`s daily business, that was shut down on Friday."
+  },
+  {
+    "end_time": 202710,
+    "index": 40,
+    "start_time": 200672,
+    "text": "Boston is a big economy. There`s a lot of money. "
+  },
+  {
+    "end_time": 207340,
+    "index": 41,
+    "start_time": 202708,
+    "text": "The Boston metropolitan area produces three to $25 billion dollars \n with the goods and services every year. "
+  },
+  {
+    "end_time": 210740,
+    "index": 42,
+    "start_time": 207345,
+    "text": "That`s a little less than a billion dollars a day. So think about it:"
+  },
+  {
+    "end_time": 214880,
+    "index": 43,
+    "start_time": 210745,
+    "text": "A third to a quarter of that just gone from Friday. "
+  },
+  {
+    "end_time": 220250,
+    "index": 44,
+    "start_time": 214882,
+    "text": "And, of course, Boston is the ninth largest GDP in the \n country, so it is a big American city shut down."
+  },
+  {
+    "end_time": 225100,
+    "index": 45,
+    "start_time": 220253,
+    "text": "Everything stopped Friday, businesses closed, public transit, known in \n Boston as the T shut down, "
+  },
+  {
+    "end_time": 231180,
+    "index": 46,
+    "start_time": 225104,
+    "text": "16 of the area`s 35 colleges had canceled classes, \n including Harvard, MIT, Boston University, North Eastern. "
+  },
+  {
+    "end_time": 233970,
+    "index": 47,
+    "start_time": 231178,
+    "text": "Most taxis were off the roads and shopping centers were shut."
+  },
+  {
+    "end_time": 239840,
+    "index": 48,
+    "start_time": 233970,
+    "text": "But while many people work from home or had the \n day off, some workers actually couldn`t be busier:"
+  },
+  {
+    "end_time": 243720,
+    "index": 49,
+    "start_time": 239843,
+    "text": "thousands, thousands of law enforcement officials and workers. "
+  },
+  {
+    "end_time": 252260,
+    "index": 50,
+    "start_time": 243715,
+    "text": "Hospital workers, hotel employees working overtime, some Dunkin Donuts locations stayed \n open as well, reportedly at the request of first responders."
+  },
+  {
+    "end_time": 253860,
+    "index": 51,
+    "start_time": 252257,
+    "text": "There was a lot of business there. "
+  },
+  {
+    "end_time": 259260,
+    "index": 52,
+    "start_time": 253856,
+    "text": "There are insurance claims businesses can file for \n terrorism related losses, if it`s covered, "
+  },
+  {
+    "end_time": 265500,
+    "index": 53,
+    "start_time": 259265,
+    "text": "and analysts at risk management solution says that a property damage \n claims are likely to be less than a million dollars."
+  },
+  {
+    "end_time": 272820,
+    "index": 54,
+    "start_time": 265499,
+    "text": "It will be the business interruption that will be what is going to cost some companies \n money, and it`s going to be difficult for small businesses to get back. "
+  },
+  {
+    "end_time": 274450,
+    "index": 55,
+    "start_time": 272818,
+    "text": "That revenue meet their payroll ..."
+  },
+  {
+    "end_time": 278080,
+    "index": 56,
+    "start_time": 274454,
+    "text": "AZUZ: Authorities in Canada say they broken up \n a terror plot in their country. "
+  },
+  {
+    "end_time": 281990,
+    "index": 57,
+    "start_time": 278080,
+    "text": "They also said there`s not a connection between this and the attack in Boston."
+  },
+  {
+    "end_time": 287700,
+    "index": 58,
+    "start_time": 281992,
+    "text": "In Canada officers arrested two men who are accused \n of planning an attack against the passenger train."
+  },
+  {
+    "end_time": 292780,
+    "index": 59,
+    "start_time": 287703,
+    "text": "Officials say the suspects` were given support from \n an al-Qaeda terrorists group in a ring."
+  },
+  {
+    "end_time": 299409,
+    "index": 60,
+    "start_time": 292782,
+    "text": "Canadian authorities say, these suspects who are under surveillance for more than \n a year, were capable of carrying out the attack. "
+  },
+  {
+    "end_time": 302050,
+    "index": 61,
+    "start_time": 299410,
+    "text": "But they said the public was never in serious danger."
+  },
+  {
+    "end_time": 310790,
+    "index": 62,
+    "start_time": 302048,
+    "text": "Later this week, there is a public memorial schedule for the victims of last week`s \n deadly explosion at a fertilizer plant in the Texas town of West. "
+  },
+  {
+    "end_time": 313320,
+    "index": 63,
+    "start_time": 310790,
+    "text": "President Obama is planning to attend the memorial. "
+  },
+  {
+    "end_time": 316650,
+    "index": 64,
+    "start_time": 313316,
+    "text": "In West, many residents are focused on recovery and rebuilding. "
+  },
+  {
+    "end_time": 318320,
+    "index": 65,
+    "start_time": 316654,
+    "text": "That includes the town`s schools."
+  },
+  {
+    "end_time": 321330,
+    "index": 66,
+    "start_time": 318319,
+    "text": "Many of them were damaged or destroyed by the blast. "
+  },
+  {
+    "end_time": 325590,
+    "index": 67,
+    "start_time": 321326,
+    "text": "So when people realize students needed somewhere to go, they got to work:"
+  },
+  {
+    "end_time": 331840,
+    "index": 68,
+    "start_time": 325593,
+    "text": "volunteers and district groundskeepers turned an old empty school \n building into the new West high school. "
+  },
+  {
+    "end_time": 335340,
+    "index": 69,
+    "start_time": 331837,
+    "text": "They painted walls, made signs, brought in food and supplies. "
+  },
+  {
+    "end_time": 340350,
+    "index": 70,
+    "start_time": 335338,
+    "text": "And they did all in just a few days, so that it \n would be ready for students to return to class yesterday."
+  },
+  {
+    "end_time": 343280,
+    "index": 71,
+    "start_time": 341378,
+    "text": "DOYE WILLIAMS, CONNALLY ISD GROUNDSKEEPER: We don`t want them to think they`re visiting. "
+  },
+  {
+    "end_time": 351580,
+    "index": 72,
+    "start_time": 343280,
+    "text": "This is theirs and it gives them an opportunity to have some place \n that they can still do their work and get an education."
+  },
+  {
+    "end_time": 355489,
+    "index": 73,
+    "start_time": 351585,
+    "text": "AZUZ: Parts of the Midwestern U.S. have been struggling through some severe weather. "
+  },
+  {
+    "end_time": 359560,
+    "index": 74,
+    "start_time": 355491,
+    "text": "Records set in rainfall in the past week or so \n has led to flooding in some areas. "
+  },
+  {
+    "end_time": 362710,
+    "index": 75,
+    "start_time": 359563,
+    "text": "This is the parking lot of a school in Indiana. "
+  },
+  {
+    "end_time": 365900,
+    "index": 76,
+    "start_time": 362708,
+    "text": "Parents left their cars there to help chaperon a field trip. "
+  },
+  {
+    "end_time": 368840,
+    "index": 77,
+    "start_time": 365899,
+    "text": "Probably, didn`t expect they`ll end up under water."
+  },
+  {
+    "end_time": 370810,
+    "index": 78,
+    "start_time": 368843,
+    "text": "Also, you see these golden archers? "
+  },
+  {
+    "end_time": 375340,
+    "index": 79,
+    "start_time": 370808,
+    "text": "This isn`t just a McDonald`s. It`s the McDonald`s. The first one ever built. "
+  },
+  {
+    "end_time": 378750,
+    "index": 80,
+    "start_time": 375344,
+    "text": "It`s been turned into a museum and last week, it flooded."
+  },
+  {
+    "end_time": 381630,
+    "index": 81,
+    "start_time": 378751,
+    "text": "And the car on the right - now you see it. "
+  },
+  {
+    "end_time": 387799,
+    "index": 82,
+    "start_time": 381626,
+    "text": "Now you don`t. This sinkhole on the South Side of \n Chicago swallowed up three vehicles last week. "
+  },
+  {
+    "end_time": 391770,
+    "index": 83,
+    "start_time": 387801,
+    "text": "All the water, softened up the ground,, which caused it to give way."
+  },
+  {
+    "end_time": 397479,
+    "index": 84,
+    "start_time": 391768,
+    "text": "When you hear about cities and people recovering from some kind \n of disaster, you might wonder what you can do. "
+  },
+  {
+    "end_time": 400320,
+    "index": 85,
+    "start_time": 397479,
+    "text": "CNN`s Impact Your World Program has answers. "
+  },
+  {
+    "end_time": 403210,
+    "index": 86,
+    "start_time": 400317,
+    "text": "Check out the link in the resources box of our home page, "
+  },
+  {
+    "end_time": 410580,
+    "index": 87,
+    "start_time": 403209,
+    "text": "find out how you can make a difference for people recovering from the flooding \n in the Midwest, for folks in West, Texas, or those in Boston. "
+  },
+  {
+    "end_time": 418260,
+    "index": 88,
+    "start_time": 410581,
+    "text": "Teachers, we always appreciate your comments in the Resources box \n at cnnstudentnews.com, but now it`s all about you. "
+  },
+  {
+    "end_time": 420890,
+    "index": 89,
+    "start_time": 418256,
+    "text": "Teacher Appreciation Week is less than two weeks away. "
+  },
+  {
+    "end_time": 429240,
+    "index": 90,
+    "start_time": 420894,
+    "text": "This year, we`re looking for students to shout out their favorite teachers and to sign \n them superlatives, you know, like most likely to, and then fill in the blanks."
+  },
+  {
+    "end_time": 431669,
+    "index": 91,
+    "start_time": 429239,
+    "text": "All the details are on our I Report page. "
+  },
+  {
+    "end_time": 435060,
+    "index": 92,
+    "start_time": 431668,
+    "text": "You can start sending them in now, the deadline is May 3rd."
+  },
+  {
+    "end_time": 437310,
+    "index": 93,
+    "start_time": 435061,
+    "text": "How do you send us an I-Report? Check it out."
+  },
+  {
+    "end_time": 441680,
+    "index": 94,
+    "start_time": 438676,
+    "text": "Here`s how you can get on CNN STUDENT NEWS. "
+  },
+  {
+    "end_time": 444780,
+    "index": 95,
+    "start_time": 441681,
+    "text": "A couple of quick things : one, you have \n to be at least 13 years old, "
+  },
+  {
+    "end_time": 448870,
+    "index": 96,
+    "start_time": 444778,
+    "text": "and too, we don`t want to hear any music in \n the background, we just want to hear you."
+  },
+  {
+    "end_time": 453590,
+    "index": 97,
+    "start_time": 448868,
+    "text": "So, you shoot your video. That`s how you start. We did \n this on a cell phone, simple as that. "
+  },
+  {
+    "end_time": 457570,
+    "index": 98,
+    "start_time": 453592,
+    "text": "Then go to Ireport.com/cnnstudent news. "
+  },
+  {
+    "end_time": 464540,
+    "index": 99,
+    "start_time": 457570,
+    "text": "You fill out your info, you upload your video, and if it`s chosen, you \n will hear from us in an email about the last step: "
+  },
+  {
+    "end_time": 465470,
+    "index": 100,
+    "start_time": 464536,
+    "text": "good luck."
+  },
+  {
+    "end_time": 475179,
+    "index": 101,
+    "start_time": 467703,
+    "text": "UNIDENTIFIED FEMALE: Today`s &quot;Shoutout&quot; goes out to Mrs. Scaggs, AP English \n class at Valley View High School in Caldwell, Idaho."
+  },
+  {
+    "end_time": 478620,
+    "index": 102,
+    "start_time": 475185,
+    "text": "About how much of earth is covered by water? "
+  },
+  {
+    "end_time": 486070,
+    "index": 103,
+    "start_time": 478624,
+    "text": "You know what to do, is it 33 percent, \n 50 percent, 70 percent or 95 percent? "
+  },
+  {
+    "end_time": 488659,
+    "index": 104,
+    "start_time": 486068,
+    "text": "You`ve got three seconds, go!"
+  },
+  {
+    "end_time": 500200,
+    "index": 105,
+    "start_time": 494330,
+    "text": "Around 70 percent of the planet is covered by water., but \n only a small amount of that is freshwater. "
+  },
+  {
+    "end_time": 504419,
+    "index": 106,
+    "start_time": 500205,
+    "text": "That`s your answer and that`s yourshoutout."
+  },
+  {
+    "end_time": 510950,
+    "index": 107,
+    "start_time": 506145,
+    "text": "AZUZ: If you didn`t get that one, you`ve got more \n chances now with our Earth Date quiz: "
+  },
+  {
+    "end_time": 514159,
+    "index": 108,
+    "start_time": 510947,
+    "text": "we said only small amount of the Earth water is fresh. "
+  },
+  {
+    "end_time": 521020,
+    "index": 109,
+    "start_time": 514159,
+    "text": "What percentage do you think it is? One percent? \n 2.5 percent, 7.3 percent or 15 percent? "
+  },
+  {
+    "end_time": 527800,
+    "index": 110,
+    "start_time": 521024,
+    "text": "It`s not much: 2.5 percent of Earth water is fresh, and \n most of that is locked up in polar ice. "
+  },
+  {
+    "end_time": 532540,
+    "index": 111,
+    "start_time": 527797,
+    "text": "Next, how many gallons of water does the average \n American family use in a day? "
+  },
+  {
+    "end_time": 537439,
+    "index": 112,
+    "start_time": 532535,
+    "text": "Is it 25 gallons, 50 gallons? 100 gallons, or 300 gallons?"
+  },
+  {
+    "end_time": 539670,
+    "index": 113,
+    "start_time": 537444,
+    "text": "This one surprised all of us. "
+  },
+  {
+    "end_time": 545620,
+    "index": 114,
+    "start_time": 539674,
+    "text": "The U.S. government says the average family uses \n 300 gallons of water every day. "
+  },
+  {
+    "end_time": 549900,
+    "index": 115,
+    "start_time": 545622,
+    "text": "These questions came from a quiz that cnn.com \n put up on Earth Day yesterday. "
+  },
+  {
+    "end_time": 554970,
+    "index": 116,
+    "start_time": 549897,
+    "text": "You can find the link to the rest of those \n questions in the &quot;Resources&quot; box on our home page."
+  },
+  {
+    "end_time": 560730,
+    "index": 117,
+    "start_time": 554966,
+    "text": "Pool, bowling, basketball - lots of sports have great shots and great trick shots."
+  },
+  {
+    "end_time": 567970,
+    "index": 118,
+    "start_time": 560731,
+    "text": "Four, here comes Bubba. An upside down clubber. It may look \n like a golf ball, it skips like a stone."
+  },
+  {
+    "end_time": 574449,
+    "index": 119,
+    "start_time": 567973,
+    "text": "This isn`t the Masters, but consider the mastery it takes to \n drivel a golf ball, set it up and spike it."
+  },
+  {
+    "end_time": 576140,
+    "index": 120,
+    "start_time": 574451,
+    "text": "Take a victory lap, Mr. Watson. "
+  },
+  {
+    "end_time": 583320,
+    "index": 121,
+    "start_time": 576144,
+    "text": "Even when he`s not making green on the green, he`s making \n golfers green with envy shot after tricky trick shot. "
+  },
+  {
+    "end_time": 586260,
+    "index": 122,
+    "start_time": 583323,
+    "text": "Tough to get teed of at a sweet Trick shot. "
+  },
+  {
+    "end_time": 588460,
+    "index": 123,
+    "start_time": 586259,
+    "text": "Your eyes are (inaudible) what`s in the whole time. "
+  },
+  {
+    "end_time": 591660,
+    "index": 124,
+    "start_time": 588461,
+    "text": "No matter how you slice it, it`s just so easy to get hooked. "
+  },
+  {
+    "end_time": 596340,
+    "index": 125,
+    "start_time": 591664,
+    "text": "Where are the puns for now? We`ll have to golf, figure \n out some more. Maybe tomorrow we`ll take another swing."
+  },
+  {
+    "end_time": 598860,
+    "index": 126,
+    "start_time": 597264,
+    "text": "END"
+  }
+]

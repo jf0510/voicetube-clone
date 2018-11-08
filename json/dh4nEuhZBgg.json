@@ -1,0 +1,530 @@
+[
+    {
+        "index": 1,
+        "start_time": 11790,
+        "end_time": 16001,
+        "text": "Your interstellar police squad\nhas tracked a group of dangerous rebels"
+    },
+    {
+        "index": 2,
+        "start_time": 16001,
+        "end_time": 19681,
+        "text": "to a cluster of of seven small planets."
+    },
+    {
+        "index": 3,
+        "start_time": 19681,
+        "end_time": 24462,
+        "text": "Now you must apprehend them quickly \nbefore their reinforcements arrive."
+    },
+    {
+        "index": 4,
+        "start_time": 24462,
+        "end_time": 27191,
+        "text": "Of course, the rebels won\u2019t just stay put."
+    },
+    {
+        "index": 5,
+        "start_time": 27191,
+        "end_time": 31433,
+        "text": "They\u2019ll try to dodge you\nby moving from planet to planet."
+    },
+    {
+        "index": 6,
+        "start_time": 31433,
+        "end_time": 34201,
+        "text": "But you have one major advantage."
+    },
+    {
+        "index": 7,
+        "start_time": 34201,
+        "end_time": 40460,
+        "text": "Every hour, your state-of-the-art cruiser \ncan warp between any two planets,"
+    },
+    {
+        "index": 8,
+        "start_time": 40460,
+        "end_time": 42409,
+        "text": "while their beat-up smuggling ship"
+    },
+    {
+        "index": 9,
+        "start_time": 42409,
+        "end_time": 46491,
+        "text": "can only jump to an adjacent planet \nin that same time."
+    },
+    {
+        "index": 10,
+        "start_time": 46491,
+        "end_time": 48843,
+        "text": "These rebels don\u2019t like to stay put."
+    },
+    {
+        "index": 11,
+        "start_time": 48843,
+        "end_time": 52291,
+        "text": "Every time they can relocate, they will."
+    },
+    {
+        "index": 12,
+        "start_time": 52291,
+        "end_time": 57513,
+        "text": "Your scouts tell you that the approaching\nrebel fleet is 10 hours away."
+    },
+    {
+        "index": 13,
+        "start_time": 57513,
+        "end_time": 60592,
+        "text": "You can\u2019t risk letting the rebels escape."
+    },
+    {
+        "index": 14,
+        "start_time": 60592,
+        "end_time": 63514,
+        "text": "Can you devise a sequence \nfor searching the planets"
+    },
+    {
+        "index": 15,
+        "start_time": 63514,
+        "end_time": 67772,
+        "text": "that\u2019s guaranteed to catch them \nin 10 warps or less,"
+    },
+    {
+        "index": 16,
+        "start_time": 67772,
+        "end_time": 72582,
+        "text": "no matter what moves they make?"
+    },
+    {
+        "index": 17,
+        "start_time": 72582,
+        "end_time": 74866,
+        "text": "Rounding up the rebels won\u2019t be easy."
+    },
+    {
+        "index": 18,
+        "start_time": 74866,
+        "end_time": 79926,
+        "text": "For one, you have no way of knowing which \nplanet they\u2019re on to begin with."
+    },
+    {
+        "index": 19,
+        "start_time": 79926,
+        "end_time": 85222,
+        "text": "And without that information, it\u2019s hard \nto determine where they\u2019ll move next."
+    },
+    {
+        "index": 20,
+        "start_time": 85222,
+        "end_time": 87103,
+        "text": "So where do you begin?"
+    },
+    {
+        "index": 21,
+        "start_time": 87103,
+        "end_time": 91241,
+        "text": "When tackling problems of this kind \nit often helps to simplify things,"
+    },
+    {
+        "index": 22,
+        "start_time": 91241,
+        "end_time": 94681,
+        "text": "so you can better understand \ntheir dynamics."
+    },
+    {
+        "index": 23,
+        "start_time": 94681,
+        "end_time": 97440,
+        "text": "Let\u2019s imagine that this cluster \nhas the same arrangement"
+    },
+    {
+        "index": 24,
+        "start_time": 97440,
+        "end_time": 102540,
+        "text": "but no outermost planets,\nleaving only the four in the center."
+    },
+    {
+        "index": 25,
+        "start_time": 102540,
+        "end_time": 105391,
+        "text": "We still don\u2019t know which planet \nthe rebels start on."
+    },
+    {
+        "index": 26,
+        "start_time": 105391,
+        "end_time": 107529,
+        "text": "But there\u2019s one key feature:"
+    },
+    {
+        "index": 27,
+        "start_time": 107529,
+        "end_time": 111252,
+        "text": "the third planet \nis adjacent to all others,"
+    },
+    {
+        "index": 28,
+        "start_time": 111252,
+        "end_time": 115206,
+        "text": "which means the rebels either start there \nand move somewhere else,"
+    },
+    {
+        "index": 29,
+        "start_time": 115206,
+        "end_time": 117485,
+        "text": "or start on one of the other planets"
+    },
+    {
+        "index": 30,
+        "start_time": 117485,
+        "end_time": 122140,
+        "text": "and have no choice \nbut to move to planet three."
+    },
+    {
+        "index": 31,
+        "start_time": 122140,
+        "end_time": 129031,
+        "text": "Simply checking planet three\ntwice in a row would do the trick."
+    },
+    {
+        "index": 32,
+        "start_time": 129031,
+        "end_time": 133421,
+        "text": "Adding the three outer planet \nadds a bit more complexity,"
+    },
+    {
+        "index": 33,
+        "start_time": 133421,
+        "end_time": 135852,
+        "text": "but the same strategy remains."
+    },
+    {
+        "index": 34,
+        "start_time": 135852,
+        "end_time": 141051,
+        "text": "We want to check the planets in an order \nthat will eventually corner the rebels."
+    },
+    {
+        "index": 35,
+        "start_time": 141051,
+        "end_time": 143343,
+        "text": "And there\u2019s another insight \nthat can help us:"
+    },
+    {
+        "index": 36,
+        "start_time": 143343,
+        "end_time": 146792,
+        "text": "each hour, the rebels move from \nan even-numbered planet"
+    },
+    {
+        "index": 37,
+        "start_time": 146792,
+        "end_time": 148762,
+        "text": "to an odd-numbered planet,"
+    },
+    {
+        "index": 38,
+        "start_time": 148762,
+        "end_time": 150530,
+        "text": "or vice versa."
+    },
+    {
+        "index": 39,
+        "start_time": 150530,
+        "end_time": 152770,
+        "text": "This gives us a way \nto simplify the problem"
+    },
+    {
+        "index": 40,
+        "start_time": 152770,
+        "end_time": 155742,
+        "text": "by dividing the planets into two subsets,"
+    },
+    {
+        "index": 41,
+        "start_time": 155742,
+        "end_time": 158170,
+        "text": "and tackling each one separately."
+    },
+    {
+        "index": 42,
+        "start_time": 158170,
+        "end_time": 162392,
+        "text": "For starters, let\u2019s assume the rebels \nbegin on an even-numbered planet:"
+    },
+    {
+        "index": 43,
+        "start_time": 162392,
+        "end_time": 163110,
+        "text": "either two,"
+    },
+    {
+        "index": 44,
+        "start_time": 163110,
+        "end_time": 163868,
+        "text": "four,"
+    },
+    {
+        "index": 45,
+        "start_time": 163868,
+        "end_time": 165191,
+        "text": "or six."
+    },
+    {
+        "index": 46,
+        "start_time": 165191,
+        "end_time": 167582,
+        "text": "So we\u2019ll search planet two first."
+    },
+    {
+        "index": 47,
+        "start_time": 167582,
+        "end_time": 170533,
+        "text": "If they\u2019re not there, they must have \nstarted on either four"
+    },
+    {
+        "index": 48,
+        "start_time": 170533,
+        "end_time": 171843,
+        "text": "or six."
+    },
+    {
+        "index": 49,
+        "start_time": 171843,
+        "end_time": 173690,
+        "text": "which means they can move to three,"
+    },
+    {
+        "index": 50,
+        "start_time": 173690,
+        "end_time": 174491,
+        "text": "five,"
+    },
+    {
+        "index": 51,
+        "start_time": 174491,
+        "end_time": 176119,
+        "text": "or seven."
+    },
+    {
+        "index": 52,
+        "start_time": 176119,
+        "end_time": 180182,
+        "text": "Planet three at the center gives them \nthe most options for their next move,"
+    },
+    {
+        "index": 53,
+        "start_time": 180182,
+        "end_time": 182623,
+        "text": "so we\u2019ll want to check there next."
+    },
+    {
+        "index": 54,
+        "start_time": 182623,
+        "end_time": 185841,
+        "text": "If we don\u2019t find them, they must have been\nat planet five"
+    },
+    {
+        "index": 55,
+        "start_time": 185841,
+        "end_time": 186701,
+        "text": "or seven,"
+    },
+    {
+        "index": 56,
+        "start_time": 186701,
+        "end_time": 189062,
+        "text": "meaning they\u2019ll next move to four"
+    },
+    {
+        "index": 57,
+        "start_time": 189062,
+        "end_time": 190810,
+        "text": "or six."
+    },
+    {
+        "index": 58,
+        "start_time": 190810,
+        "end_time": 192951,
+        "text": "Let\u2019s now search planet four."
+    },
+    {
+        "index": 59,
+        "start_time": 192951,
+        "end_time": 195990,
+        "text": "If they\u2019re not there, they must have gone \nto the sixth planet"
+    },
+    {
+        "index": 60,
+        "start_time": 195990,
+        "end_time": 198021,
+        "text": "and can only flee to three"
+    },
+    {
+        "index": 61,
+        "start_time": 198021,
+        "end_time": 200011,
+        "text": "or seven."
+    },
+    {
+        "index": 62,
+        "start_time": 200011,
+        "end_time": 203362,
+        "text": "If we next scour planet three \nand don\u2019t find them,"
+    },
+    {
+        "index": 63,
+        "start_time": 203362,
+        "end_time": 206960,
+        "text": "we know they went to planet seven \nand are now cornered."
+    },
+    {
+        "index": 64,
+        "start_time": 206960,
+        "end_time": 212710,
+        "text": "They can only move to planet six, where\nwe\u2019ll apprehend them on our fifth search."
+    },
+    {
+        "index": 65,
+        "start_time": 212710,
+        "end_time": 214561,
+        "text": "Of course, this plan only works"
+    },
+    {
+        "index": 66,
+        "start_time": 214561,
+        "end_time": 219062,
+        "text": "assuming that the rebels were on \nan even-numbered planet in the first hour."
+    },
+    {
+        "index": 67,
+        "start_time": 219062,
+        "end_time": 221221,
+        "text": "But what if that assumption was wrong?"
+    },
+    {
+        "index": 68,
+        "start_time": 221221,
+        "end_time": 224612,
+        "text": "In that case, they must\u2019ve started \non an odd-numbered planet."
+    },
+    {
+        "index": 69,
+        "start_time": 224612,
+        "end_time": 227904,
+        "text": "And because they move to an adjacent \nplanet every hour,"
+    },
+    {
+        "index": 70,
+        "start_time": 227904,
+        "end_time": 232931,
+        "text": "their location must alternate between\nodd and even-numbered planets."
+    },
+    {
+        "index": 71,
+        "start_time": 232931,
+        "end_time": 235992,
+        "text": "This means that if they were on \nan odd-numbered planet to start,"
+    },
+    {
+        "index": 72,
+        "start_time": 235992,
+        "end_time": 240083,
+        "text": "after five moves, they&#39;d be \non an even-numbered planet."
+    },
+    {
+        "index": 73,
+        "start_time": 240083,
+        "end_time": 242242,
+        "text": "So if our first five searches missed them"
+    },
+    {
+        "index": 74,
+        "start_time": 242242,
+        "end_time": 246061,
+        "text": "because our assumption that they started \non an even-numbered planet was wrong,"
+    },
+    {
+        "index": 75,
+        "start_time": 246061,
+        "end_time": 249883,
+        "text": "all we have to do now \nis repeat the sequence!"
+    },
+    {
+        "index": 76,
+        "start_time": 249883,
+        "end_time": 251336,
+        "text": "Searching the planets in order"
+    },
+    {
+        "index": 77,
+        "start_time": 251336,
+        "end_time": 252061,
+        "text": "two,"
+    },
+    {
+        "index": 78,
+        "start_time": 252061,
+        "end_time": 253501,
+        "text": "three,"
+    },
+    {
+        "index": 79,
+        "start_time": 253501,
+        "end_time": 254733,
+        "text": "four,"
+    },
+    {
+        "index": 80,
+        "start_time": 254733,
+        "end_time": 256142,
+        "text": "three,"
+    },
+    {
+        "index": 81,
+        "start_time": 256142,
+        "end_time": 257350,
+        "text": "six,"
+    },
+    {
+        "index": 82,
+        "start_time": 257350,
+        "end_time": 258621,
+        "text": "two,"
+    },
+    {
+        "index": 83,
+        "start_time": 258621,
+        "end_time": 259771,
+        "text": "three,"
+    },
+    {
+        "index": 84,
+        "start_time": 259771,
+        "end_time": 261132,
+        "text": "four,"
+    },
+    {
+        "index": 85,
+        "start_time": 261132,
+        "end_time": 262240,
+        "text": "three,"
+    },
+    {
+        "index": 86,
+        "start_time": 262240,
+        "end_time": 263590,
+        "text": "six,"
+    },
+    {
+        "index": 87,
+        "start_time": 263590,
+        "end_time": 265560,
+        "text": "leaves the rebels nowhere to run."
+    },
+    {
+        "index": 88,
+        "start_time": 265560,
+        "end_time": 269872,
+        "text": "Thanks to your deductive reasoning, \norder is restored to the galaxy."
+    }
+]

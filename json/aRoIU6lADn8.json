@@ -1,0 +1,590 @@
+[
+    {
+        "index": 1,
+        "start_time": 0,
+        "end_time": 16560,
+        "text": "(Intro Music)"
+    },
+    {
+        "index": 2,
+        "start_time": 19160,
+        "end_time": 21280,
+        "text": "(Background Talking)"
+    },
+    {
+        "index": 3,
+        "start_time": 25080,
+        "end_time": 33500,
+        "text": "Corn Guy: See, uh... what people don&#39;t understand really about corn is that you dont just, uhh... grow corn, you grow WITH corn."
+    },
+    {
+        "index": 4,
+        "start_time": 33500,
+        "end_time": 38540,
+        "text": "Corn Guy: Now, as a corn farmer, or some people like to call me &quot;Shepard of the Shuck&quot;"
+    },
+    {
+        "index": 5,
+        "start_time": 38540,
+        "end_time": 39960,
+        "text": "Guy: No one calls you that."
+    },
+    {
+        "index": 6,
+        "start_time": 39960,
+        "end_time": 44020,
+        "text": "Guard: Mr. Conner, Dr. Mueller needs a test dummy in the bio-hazard center."
+    },
+    {
+        "index": 7,
+        "start_time": 44020,
+        "end_time": 44840,
+        "text": "Conner: Oh thank god."
+    },
+    {
+        "index": 8,
+        "start_time": 44840,
+        "end_time": 45900,
+        "text": "Guy: No, no, wait dont leave me!"
+    },
+    {
+        "index": 9,
+        "start_time": 46660,
+        "end_time": 50240,
+        "text": "Corn guy: I see you got a diet coke there.. you know, that has a lot of corn syrup."
+    },
+    {
+        "index": 10,
+        "start_time": 50240,
+        "end_time": 52860,
+        "text": "(Sighs)"
+    },
+    {
+        "index": 11,
+        "start_time": 52860,
+        "end_time": 56680,
+        "text": "Dr. Mueller: Ah, yes hello, I&#39;m Dr. Mueller and this is Dr. Mulligan."
+    },
+    {
+        "index": 12,
+        "start_time": 56680,
+        "end_time": 60900,
+        "text": "Dr. Mueller: We&#39;re botanists from the Bio-hazard center of fungal study."
+    },
+    {
+        "index": 13,
+        "start_time": 60900,
+        "end_time": 64020,
+        "text": "Dr. Mueller: Now, due to an incident with the fly traps from venus"
+    },
+    {
+        "index": 14,
+        "start_time": 64020,
+        "end_time": 68980,
+        "text": "Dr. Mueller: The botany wing is a little short on test subjects. So, we do apologize for any inconvenience."
+    },
+    {
+        "index": 15,
+        "start_time": 68980,
+        "end_time": 70180,
+        "text": "Conner: It&#39;s cool."
+    },
+    {
+        "index": 16,
+        "start_time": 70180,
+        "end_time": 74160,
+        "text": "Dr. Mueller: This is Dr. Powers, our on-sight shrink and your temporary phsycologist."
+    },
+    {
+        "index": 17,
+        "start_time": 74160,
+        "end_time": 75640,
+        "text": "Conner: What happened to my psychologist?"
+    },
+    {
+        "index": 18,
+        "start_time": 75640,
+        "end_time": 77700,
+        "text": "Conner: Is he still trapped in the nightmare dimension?"
+    },
+    {
+        "index": 19,
+        "start_time": 77700,
+        "end_time": 80120,
+        "text": "Dr. Mulligan: Um... I think you mean the &quot;night terror&quot; dimension?"
+    },
+    {
+        "index": 20,
+        "start_time": 83200,
+        "end_time": 85160,
+        "text": "Dr. Powers: It&#39;s an honor to meet you, Mr. Cornwell."
+    },
+    {
+        "index": 21,
+        "start_time": 85160,
+        "end_time": 88680,
+        "text": "Conner: Oh, its Conner...GOD, Dont talk to me about corn right now."
+    },
+    {
+        "index": 22,
+        "start_time": 88680,
+        "end_time": 92140,
+        "text": "Dr. Powers: Conner, sorry. Well, I&#39;m here if you need to talk."
+    },
+    {
+        "index": 23,
+        "start_time": 92140,
+        "end_time": 95620,
+        "text": "Dr. Powers: Formally or casually, and... I promise I won&#39;t be too invasive"
+    },
+    {
+        "index": 24,
+        "start_time": 95620,
+        "end_time": 100700,
+        "text": "Dr. Powers: As long as you promise that you&#39;re not secretly a telepathic wizard trying to steal my body."
+    },
+    {
+        "index": 25,
+        "start_time": 102040,
+        "end_time": 103320,
+        "text": "(Coughs)"
+    },
+    {
+        "index": 26,
+        "start_time": 103320,
+        "end_time": 104260,
+        "text": "Conner: M&#39;kay."
+    },
+    {
+        "index": 27,
+        "start_time": 104260,
+        "end_time": 105980,
+        "text": "Dr.Muller: Uh... this way, Mr. Conner."
+    },
+    {
+        "index": 28,
+        "start_time": 106220,
+        "end_time": 109740,
+        "text": "Dr. Powers: I&#39;m... uh, gonna get something to drink."
+    },
+    {
+        "index": 29,
+        "start_time": 109740,
+        "end_time": 113920,
+        "text": "Conner: Yeah, get a beer and forget that ever happened, right? Holy sh*t."
+    },
+    {
+        "index": 30,
+        "start_time": 114580,
+        "end_time": 121580,
+        "text": "Dr. Mueller: The outcome of these tests vary among individuals, but not once have we experimented on someone with regenerative immortality."
+    },
+    {
+        "index": 31,
+        "start_time": 121580,
+        "end_time": 126100,
+        "text": "Dr. Mulligan: Just so you know, it&#39;s very likely that you will die at least once listening to the song."
+    },
+    {
+        "index": 32,
+        "start_time": 126100,
+        "end_time": 127840,
+        "text": "Conner: So... what is it? Ed Sheeran?"
+    },
+    {
+        "index": 33,
+        "start_time": 127840,
+        "end_time": 132560,
+        "text": "Dr. Mulligan: We can&#39;t hear you, but I&#39;m sure that response was well funny."
+    },
+    {
+        "index": 34,
+        "start_time": 132980,
+        "end_time": 137220,
+        "text": "Dr. Powers: And we&#39;ll be starting the music in 3...2...1..."
+    },
+    {
+        "index": 35,
+        "start_time": 137220,
+        "end_time": 137900,
+        "text": "(Tape begins)"
+    },
+    {
+        "index": 36,
+        "start_time": 137900,
+        "end_time": 138480,
+        "text": {
+            "@attributes": {
+                "start": "137.9",
+                "dur": "0.58"
+            },
+            "0": " "
+        }
+    },
+    {
+        "index": 37,
+        "start_time": 138520,
+        "end_time": 155160,
+        "text": "(Music plays)"
+    },
+    {
+        "index": 38,
+        "start_time": 163080,
+        "end_time": 164380,
+        "text": "(Stomach groans)"
+    },
+    {
+        "index": 39,
+        "start_time": 164380,
+        "end_time": 166620,
+        "text": "(Retching noises)"
+    },
+    {
+        "index": 40,
+        "start_time": 166620,
+        "end_time": 169780,
+        "text": "(Skin tears)"
+    },
+    {
+        "index": 41,
+        "start_time": 172460,
+        "end_time": 178460,
+        "text": "(Tape playing over nature noises)"
+    },
+    {
+        "index": 42,
+        "start_time": 178460,
+        "end_time": 178960,
+        "text": "(REVIVAL +100)"
+    },
+    {
+        "index": 43,
+        "start_time": 180300,
+        "end_time": 182460,
+        "text": "Conner: Christ, I hope this isn&#39;t permanent."
+    },
+    {
+        "index": 44,
+        "start_time": 182460,
+        "end_time": 183221,
+        "text": "Dr. Mulligan: That&#39;s interesting."
+    },
+    {
+        "index": 45,
+        "start_time": 183221,
+        "end_time": 184120,
+        "text": "Dr. Powers: You&#39;re doing great, Conner!"
+    },
+    {
+        "index": 46,
+        "start_time": 184120,
+        "end_time": 185060,
+        "text": "Conner: Wow, this all me?"
+    },
+    {
+        "index": 47,
+        "start_time": 185060,
+        "end_time": 187000,
+        "text": "Conner: Growing some Buddha sh*t right here."
+    },
+    {
+        "index": 48,
+        "start_time": 187000,
+        "end_time": 191100,
+        "text": "Dr. Mueller: You&#39;ll begin to notice various types of life evolving from your original corpse."
+    },
+    {
+        "index": 49,
+        "start_time": 191100,
+        "end_time": 195000,
+        "text": "Dr. Mueller: They&#39;ll be attracted to the music, so, don&#39;t let them get the speaker."
+    },
+    {
+        "index": 50,
+        "start_time": 195040,
+        "end_time": 196020,
+        "text": "(Grunting noises)"
+    },
+    {
+        "index": 51,
+        "start_time": 198620,
+        "end_time": 200700,
+        "text": "Conner: Oh... sh*t we got beats."
+    },
+    {
+        "index": 52,
+        "start_time": 200800,
+        "end_time": 208440,
+        "text": "(Creature sounds)"
+    },
+    {
+        "index": 53,
+        "start_time": 208440,
+        "end_time": 210300,
+        "text": "Conner: God, stay the hell away from me."
+    },
+    {
+        "index": 54,
+        "start_time": 211680,
+        "end_time": 213320,
+        "text": "(Loud roar)"
+    },
+    {
+        "index": 55,
+        "start_time": 213400,
+        "end_time": 215000,
+        "text": "Dr. Mueller: Unlucky..."
+    },
+    {
+        "index": 56,
+        "start_time": 215000,
+        "end_time": 216640,
+        "text": "(Music continues)"
+    },
+    {
+        "index": 57,
+        "start_time": 217100,
+        "end_time": 219100,
+        "text": "(Creature roars)"
+    },
+    {
+        "index": 58,
+        "start_time": 219100,
+        "end_time": 220420,
+        "text": "Conner: You won&#39;t have my babies!"
+    },
+    {
+        "index": 59,
+        "start_time": 220420,
+        "end_time": 221280,
+        "text": "(Creature growls)"
+    },
+    {
+        "index": 60,
+        "start_time": 221280,
+        "end_time": 223260,
+        "text": "Conner: Okay, you can have one baby."
+    },
+    {
+        "index": 61,
+        "start_time": 223400,
+        "end_time": 225720,
+        "text": "(Chewing and growling sounds)"
+    },
+    {
+        "index": 62,
+        "start_time": 225980,
+        "end_time": 229660,
+        "text": "Conner No, no, no, no, no, no, no! (Creature roars)"
+    },
+    {
+        "index": 63,
+        "start_time": 233820,
+        "end_time": 234320,
+        "text": "Conner: Uh,"
+    },
+    {
+        "index": 64,
+        "start_time": 236080,
+        "end_time": 237920,
+        "text": "(Growling)"
+    },
+    {
+        "index": 65,
+        "start_time": 238220,
+        "end_time": 239900,
+        "text": "Dr. Mulligan: This is...new."
+    },
+    {
+        "index": 66,
+        "start_time": 240540,
+        "end_time": 243060,
+        "text": "(Creature grunts)"
+    },
+    {
+        "index": 67,
+        "start_time": 245540,
+        "end_time": 249340,
+        "text": "(Alarm blares)"
+    },
+    {
+        "index": 68,
+        "start_time": 249340,
+        "end_time": 252000,
+        "text": "Dr. Mueller: Theres a containment breach. We need to shut down all the-"
+    },
+    {
+        "index": 69,
+        "start_time": 252000,
+        "end_time": 254400,
+        "text": "Dr.Muller: Oh dear... (Glass breaks) (Alarm continues)"
+    },
+    {
+        "index": 70,
+        "start_time": 254400,
+        "end_time": 256540,
+        "text": "(Music continues as alarm blares)"
+    },
+    {
+        "index": 71,
+        "start_time": 262880,
+        "end_time": 269880,
+        "text": "Conner: Stop! Listen! I&#39;m not some tree deity, or a forest spirit, or whatever you think I am. I&#39;m just a guy who is also a tree who couldn&#39;t be killed."
+    },
+    {
+        "index": 72,
+        "start_time": 270360,
+        "end_time": 272840,
+        "text": "(Screaming and saw cutting sounds)"
+    },
+    {
+        "index": 73,
+        "start_time": 273140,
+        "end_time": 277500,
+        "text": "(Computer speaking gibberish)"
+    },
+    {
+        "index": 74,
+        "start_time": 277500,
+        "end_time": 279020,
+        "text": "Conner: Nah, man you got this."
+    },
+    {
+        "index": 75,
+        "start_time": 279820,
+        "end_time": 280860,
+        "text": "(Glass breaks)"
+    },
+    {
+        "index": 76,
+        "start_time": 281080,
+        "end_time": 282600,
+        "text": "(Crash below)"
+    },
+    {
+        "index": 77,
+        "start_time": 282600,
+        "end_time": 287040,
+        "text": "(Music continues)"
+    },
+    {
+        "index": 78,
+        "start_time": 287040,
+        "end_time": 290320,
+        "text": "Conner: Are we actually doing this? Are we actually leaving?"
+    },
+    {
+        "index": 79,
+        "start_time": 291780,
+        "end_time": 293460,
+        "text": "Conner: I&#39;m getting out."
+    },
+    {
+        "index": 80,
+        "start_time": 296100,
+        "end_time": 296740,
+        "text": "(OOF)"
+    },
+    {
+        "index": 81,
+        "start_time": 298980,
+        "end_time": 300740,
+        "text": "(Ringing and explosion)"
+    },
+    {
+        "index": 82,
+        "start_time": 307140,
+        "end_time": 311540,
+        "text": "Dr. Powers: So... you claim the humanoid entity invaded your mind..."
+    },
+    {
+        "index": 83,
+        "start_time": 311540,
+        "end_time": 314340,
+        "text": "Dr. Powers: And convinced you that you wanted to escape the facility?"
+    },
+    {
+        "index": 84,
+        "start_time": 314340,
+        "end_time": 316660,
+        "text": "Conner: Is that so hard to believe?"
+    },
+    {
+        "index": 85,
+        "start_time": 316660,
+        "end_time": 317960,
+        "text": "Dr. Powers: Well..."
+    },
+    {
+        "index": 86,
+        "start_time": 317960,
+        "end_time": 322420,
+        "text": "Conner: Come on. There&#39;s a giant slug downstairs that transforms into your greatest sexual desire..."
+    },
+    {
+        "index": 87,
+        "start_time": 322420,
+        "end_time": 323920,
+        "text": "Conner: But this is too much?"
+    },
+    {
+        "index": 88,
+        "start_time": 323920,
+        "end_time": 324940,
+        "text": "Dr. Powers: Wait, it transforms?"
+    },
+    {
+        "index": 89,
+        "start_time": 324940,
+        "end_time": 326400,
+        "text": "Both: What?"
+    },
+    {
+        "index": 90,
+        "start_time": 326400,
+        "end_time": 328280,
+        "text": "Conner: Has it been 30 minutes yet?"
+    },
+    {
+        "index": 91,
+        "start_time": 328280,
+        "end_time": 332740,
+        "text": "Dr. Powers: Conner... you can tell me if you wanted to escape. I don&#39;t have to write it down."
+    },
+    {
+        "index": 92,
+        "start_time": 332740,
+        "end_time": 337200,
+        "text": "Dr. Powers: This facility is pretty grim and dark, and they put you through a lot of horrible tests."
+    },
+    {
+        "index": 93,
+        "start_time": 337200,
+        "end_time": 343320,
+        "text": "Dr. Powers: If you&#39;re feeling like &quot;Yo, f**k this,&quot; and fantasize about escaping... then, you can tell me."
+    },
+    {
+        "index": 94,
+        "start_time": 343840,
+        "end_time": 347480,
+        "text": "Conner: I guess I&#39;m pretty... meh... about it?"
+    },
+    {
+        "index": 95,
+        "start_time": 348420,
+        "end_time": 349520,
+        "text": "Dr. Powers: Well, it&#39;s a start."
+    },
+    {
+        "index": 96,
+        "start_time": 350560,
+        "end_time": 351620,
+        "text": "(Office chair rolls into seemingly the void)"
+    },
+    {
+        "index": 97,
+        "start_time": 351620,
+        "end_time": 352560,
+        "text": "(Edited subtitles by: white boy danger)"
+    }
+]

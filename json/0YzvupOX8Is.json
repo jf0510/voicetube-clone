@@ -1,0 +1,518 @@
+[
+  {
+    "end_time": 18609,
+    "index": 1,
+    "start_time": 15811,
+    "text": "Whether you like it or not,\nwe use numbers every day."
+  },
+  {
+    "end_time": 20734,
+    "index": 2,
+    "start_time": 18633,
+    "text": "Some numbers, such as the speed of sound,"
+  },
+  {
+    "end_time": 22458,
+    "index": 3,
+    "start_time": 20758,
+    "text": "are small and easy to work with."
+  },
+  {
+    "end_time": 24499,
+    "index": 4,
+    "start_time": 22482,
+    "text": "Other numbers, such as the speed of light,"
+  },
+  {
+    "end_time": 26868,
+    "index": 5,
+    "start_time": 24523,
+    "text": "are much larger\nand cumbersome to work with."
+  },
+  {
+    "end_time": 29814,
+    "index": 6,
+    "start_time": 26892,
+    "text": "We can use scientific notation\nto express these large numbers"
+  },
+  {
+    "end_time": 31505,
+    "index": 7,
+    "start_time": 29839,
+    "text": "in a much more manageable format."
+  },
+  {
+    "end_time": 37855,
+    "index": 8,
+    "start_time": 31529,
+    "text": "So we can write\n299,792,458 meters per second"
+  },
+  {
+    "end_time": 41181,
+    "index": 9,
+    "start_time": 37879,
+    "text": "as 3.0 times 10 to the eighth\nmeters per second."
+  },
+  {
+    "end_time": 42992,
+    "index": 10,
+    "start_time": 41205,
+    "text": "Correct scientific notation"
+  },
+  {
+    "end_time": 45107,
+    "index": 11,
+    "start_time": 43016,
+    "text": "requires that the first term\nrange in value"
+  },
+  {
+    "end_time": 47467,
+    "index": 12,
+    "start_time": 45131,
+    "text": "so that it is greater than one\nbut less than 10,"
+  },
+  {
+    "end_time": 50706,
+    "index": 13,
+    "start_time": 47491,
+    "text": "and the second term represents\nthe power of 10 or order of magnitude"
+  },
+  {
+    "end_time": 52596,
+    "index": 14,
+    "start_time": 50730,
+    "text": "by which we multiply the first term."
+  },
+  {
+    "end_time": 56309,
+    "index": 15,
+    "start_time": 53156,
+    "text": "We can use the power of 10 as a tool\nin making quick estimations"
+  },
+  {
+    "end_time": 59312,
+    "index": 16,
+    "start_time": 56333,
+    "text": "when we do not need or care\nfor the exact value of a number."
+  },
+  {
+    "end_time": 61432,
+    "index": 17,
+    "start_time": 59701,
+    "text": "For example, the diameter of an atom"
+  },
+  {
+    "end_time": 64281,
+    "index": 18,
+    "start_time": 61456,
+    "text": "is approximately 10 to the power\nof negative 12 meters."
+  },
+  {
+    "end_time": 67523,
+    "index": 19,
+    "start_time": 64305,
+    "text": "The height of a tree is approximately\n10 to the power of one meter."
+  },
+  {
+    "end_time": 71154,
+    "index": 20,
+    "start_time": 67547,
+    "text": "The diameter of the Earth is approximately\n10 to the power of seven meters."
+  },
+  {
+    "end_time": 73868,
+    "index": 21,
+    "start_time": 71178,
+    "text": "The ability to use the power of 10\nas an estimation tool"
+  },
+  {
+    "end_time": 75741,
+    "index": 22,
+    "start_time": 73892,
+    "text": "can come in handy every now and again,"
+  },
+  {
+    "end_time": 78693,
+    "index": 23,
+    "start_time": 75765,
+    "text": "like when you&#39;re trying to guess\nthe number of M&amp;M&#39;s in a jar,"
+  },
+  {
+    "end_time": 81111,
+    "index": 24,
+    "start_time": 78717,
+    "text": "but is also an essential skill\nin math and science,"
+  },
+  {
+    "end_time": 84052,
+    "index": 25,
+    "start_time": 81135,
+    "text": "especially when dealing with\nwhat are known as Fermi problems."
+  },
+  {
+    "end_time": 86857,
+    "index": 26,
+    "start_time": 84076,
+    "text": "Fermi problems are named\nafter the physicist Enrico Fermi,"
+  },
+  {
+    "end_time": 89756,
+    "index": 27,
+    "start_time": 86882,
+    "text": "who&#39;s famous for making rapid\norder-of-magnitude estimations,"
+  },
+  {
+    "end_time": 92585,
+    "index": 28,
+    "start_time": 89780,
+    "text": "or rapid estimations,\nwith seemingly little available data."
+  },
+  {
+    "end_time": 95842,
+    "index": 29,
+    "start_time": 92609,
+    "text": "Fermi worked on the Manhattan Project\nin developing the atomic bomb,"
+  },
+  {
+    "end_time": 98571,
+    "index": 30,
+    "start_time": 95866,
+    "text": "and when it was tested\nat the Trinity site in 1945,"
+  },
+  {
+    "end_time": 101054,
+    "index": 31,
+    "start_time": 98595,
+    "text": "Fermi dropped a few pieces\nof paper during the blast"
+  },
+  {
+    "end_time": 103830,
+    "index": 32,
+    "start_time": 101078,
+    "text": "and used the distance they traveled\nbackwards as they fell"
+  },
+  {
+    "end_time": 107356,
+    "index": 33,
+    "start_time": 103854,
+    "text": "to estimate the strength of the explosion\nas 10 kilotons of TNT,"
+  },
+  {
+    "end_time": 111670,
+    "index": 34,
+    "start_time": 107380,
+    "text": "which is on the same order of magnitude\nas the actual value of 20 kilotons."
+  },
+  {
+    "end_time": 114730,
+    "index": 35,
+    "start_time": 111694,
+    "text": "One example of the classic\nFermi estimation problems"
+  },
+  {
+    "end_time": 116968,
+    "index": 36,
+    "start_time": 114754,
+    "text": "is to determine\nhow many piano tuners there are"
+  },
+  {
+    "end_time": 118855,
+    "index": 37,
+    "start_time": 116992,
+    "text": "in the city of Chicago, Illinois."
+  },
+  {
+    "end_time": 121141,
+    "index": 38,
+    "start_time": 118879,
+    "text": "At first, there seem to be\nso many unknowns"
+  },
+  {
+    "end_time": 123180,
+    "index": 39,
+    "start_time": 121165,
+    "text": "that the problem appears to be unsolvable."
+  },
+  {
+    "end_time": 126131,
+    "index": 40,
+    "start_time": 123204,
+    "text": "That is the perfect application\nfor a power-of-10 estimation,"
+  },
+  {
+    "end_time": 127790,
+    "index": 41,
+    "start_time": 126156,
+    "text": "as we don&#39;t need an exact answer -"
+  },
+  {
+    "end_time": 129340,
+    "index": 42,
+    "start_time": 127814,
+    "text": "an estimation will work."
+  },
+  {
+    "end_time": 132768,
+    "index": 43,
+    "start_time": 129365,
+    "text": "We can start by determining how many\npeople live in the city of Chicago."
+  },
+  {
+    "end_time": 134364,
+    "index": 44,
+    "start_time": 132792,
+    "text": "We know that it is a large city,"
+  },
+  {
+    "end_time": 137656,
+    "index": 45,
+    "start_time": 134388,
+    "text": "but we may be unsure about exactly\nhow many people live in the city."
+  },
+  {
+    "end_time": 140713,
+    "index": 46,
+    "start_time": 137680,
+    "text": "Are the one million people?\nFive million people?"
+  },
+  {
+    "end_time": 142296,
+    "index": 47,
+    "start_time": 140737,
+    "text": "This is the point in the problem"
+  },
+  {
+    "end_time": 145178,
+    "index": 48,
+    "start_time": 142320,
+    "text": "where many people become frustrated\nwith the uncertainty,"
+  },
+  {
+    "end_time": 148139,
+    "index": 49,
+    "start_time": 145202,
+    "text": "but we can easily get through this\nby using the power of 10."
+  },
+  {
+    "end_time": 150917,
+    "index": 50,
+    "start_time": 148163,
+    "text": "We can estimate the magnitude\nof the population of Chicago"
+  },
+  {
+    "end_time": 152366,
+    "index": 51,
+    "start_time": 150941,
+    "text": "as 10 to the power of six."
+  },
+  {
+    "end_time": 155303,
+    "index": 52,
+    "start_time": 152390,
+    "text": "While this doesn&#39;t tell us exactly\nhow many people live there,"
+  },
+  {
+    "end_time": 158451,
+    "index": 53,
+    "start_time": 155328,
+    "text": "it serves an accurate estimation\nfor the actual population"
+  },
+  {
+    "end_time": 160445,
+    "index": 54,
+    "start_time": 158475,
+    "text": "of just under three million people."
+  },
+  {
+    "end_time": 163549,
+    "index": 55,
+    "start_time": 160469,
+    "text": "So if there are approximately\n10 to the sixth people in Chicago,"
+  },
+  {
+    "end_time": 164819,
+    "index": 56,
+    "start_time": 163574,
+    "text": "how many pianos are there?"
+  },
+  {
+    "end_time": 167541,
+    "index": 57,
+    "start_time": 164843,
+    "text": "If we want to continue\ndealing with orders of magnitude,"
+  },
+  {
+    "end_time": 169566,
+    "index": 58,
+    "start_time": 167565,
+    "text": "we can either say that one out of 10"
+  },
+  {
+    "end_time": 171959,
+    "index": 59,
+    "start_time": 169590,
+    "text": "or one out of one hundred\npeople own a piano."
+  },
+  {
+    "end_time": 175462,
+    "index": 60,
+    "start_time": 171983,
+    "text": "Given that our estimate of the population\nincludes children and adults,"
+  },
+  {
+    "end_time": 177120,
+    "index": 61,
+    "start_time": 175486,
+    "text": "we&#39;ll go with the latter estimate,"
+  },
+  {
+    "end_time": 180243,
+    "index": 62,
+    "start_time": 177145,
+    "text": "which estimates that there are\napproximately 10 to the fourth,"
+  },
+  {
+    "end_time": 182191,
+    "index": 63,
+    "start_time": 180267,
+    "text": "or 10,000 pianos, in Chicago."
+  },
+  {
+    "end_time": 185359,
+    "index": 64,
+    "start_time": 182215,
+    "text": "With this many pianos,\nhow many piano tuners are there?"
+  },
+  {
+    "end_time": 189045,
+    "index": 65,
+    "start_time": 185383,
+    "text": "We could begin the process of thinking\nabout how often the pianos are tuned,"
+  },
+  {
+    "end_time": 191162,
+    "index": 66,
+    "start_time": 189069,
+    "text": "how many pianos are tuned in one day,"
+  },
+  {
+    "end_time": 193325,
+    "index": 67,
+    "start_time": 191187,
+    "text": "or how many days a piano tuner works,"
+  },
+  {
+    "end_time": 195515,
+    "index": 68,
+    "start_time": 193349,
+    "text": "but that&#39;s not the point\nof rapid estimation."
+  },
+  {
+    "end_time": 197468,
+    "index": 69,
+    "start_time": 195539,
+    "text": "We instead think in orders of magnitude,"
+  },
+  {
+    "end_time": 201476,
+    "index": 70,
+    "start_time": 197492,
+    "text": "and say that a piano tuner tunes roughly\n10 to the second pianos in a given year,"
+  },
+  {
+    "end_time": 203651,
+    "index": 71,
+    "start_time": 201500,
+    "text": "which is approximately\na few hundred pianos."
+  },
+  {
+    "end_time": 206960,
+    "index": 72,
+    "start_time": 203675,
+    "text": "Given our previous estimate\nof 10 to the fourth pianos in Chicago,"
+  },
+  {
+    "end_time": 211083,
+    "index": 73,
+    "start_time": 206984,
+    "text": "and the estimate that each piano tuner can\ntune 10 to the second pianos each year,"
+  },
+  {
+    "end_time": 214940,
+    "index": 74,
+    "start_time": 211107,
+    "text": "we can say that there are approximately\n10 to the second piano tuners in Chicago."
+  },
+  {
+    "end_time": 216796,
+    "index": 75,
+    "start_time": 214964,
+    "text": "Now, I know what you must be thinking:"
+  },
+  {
+    "end_time": 219597,
+    "index": 76,
+    "start_time": 216820,
+    "text": "How can all of these estimates\nproduce a reasonable answer?"
+  },
+  {
+    "end_time": 221034,
+    "index": 77,
+    "start_time": 219622,
+    "text": "Well, it&#39;s rather simple."
+  },
+  {
+    "end_time": 222837,
+    "index": 78,
+    "start_time": 221058,
+    "text": "In any Fermi problem, it is assumed"
+  },
+  {
+    "end_time": 225988,
+    "index": 79,
+    "start_time": 222861,
+    "text": "that the overestimates and underestimates\nbalance each other out,"
+  },
+  {
+    "end_time": 227227,
+    "index": 80,
+    "start_time": 226012,
+    "text": "and produce an estimation"
+  },
+  {
+    "end_time": 230491,
+    "index": 81,
+    "start_time": 227251,
+    "text": "that is usually within one order\nof magnitude of the actual answer."
+  },
+  {
+    "end_time": 233339,
+    "index": 82,
+    "start_time": 230515,
+    "text": "In our case we can confirm this\nby looking in the phone book"
+  },
+  {
+    "end_time": 235686,
+    "index": 83,
+    "start_time": 233364,
+    "text": "for the number of piano tuners\nlisted in Chicago."
+  },
+  {
+    "end_time": 237344,
+    "index": 84,
+    "start_time": 235710,
+    "text": "What do we find? 81."
+  },
+  {
+    "end_time": 240209,
+    "index": 85,
+    "start_time": 237368,
+    "text": "Pretty incredible, given\nour order-of-magnitude estimation."
+  },
+  {
+    "end_time": 242600,
+    "index": 86,
+    "start_time": 240233,
+    "text": "But, hey - that&#39;s the power of 10."
+  }
+]

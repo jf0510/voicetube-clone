@@ -1,0 +1,482 @@
+[
+    {
+        "index": 1,
+        "start_time": 7908,
+        "end_time": 12310,
+        "text": "All year long, researchers at hundreds\nof hospitals around the world"
+    },
+    {
+        "index": 2,
+        "start_time": 12310,
+        "end_time": 15019,
+        "text": "collect samples from flu patients"
+    },
+    {
+        "index": 3,
+        "start_time": 15019,
+        "end_time": 19179,
+        "text": "and send them to top virology experts\nwith one goal:"
+    },
+    {
+        "index": 4,
+        "start_time": 19179,
+        "end_time": 23268,
+        "text": "to design the vaccine \nfor the next flu season."
+    },
+    {
+        "index": 5,
+        "start_time": 23268,
+        "end_time": 26379,
+        "text": "But why do we need a new one every year?"
+    },
+    {
+        "index": 6,
+        "start_time": 26379,
+        "end_time": 30879,
+        "text": "Vaccines for diseases like mumps\nand rubella offer a lifetime of protection"
+    },
+    {
+        "index": 7,
+        "start_time": 30879,
+        "end_time": 33628,
+        "text": "with two shots early in life."
+    },
+    {
+        "index": 8,
+        "start_time": 33628,
+        "end_time": 36620,
+        "text": "What&#39;s so special about the flu?"
+    },
+    {
+        "index": 9,
+        "start_time": 36620,
+        "end_time": 39790,
+        "text": "Two factors make the flu a tough target."
+    },
+    {
+        "index": 10,
+        "start_time": 39790,
+        "end_time": 44210,
+        "text": "First, there are more than 100 subtypes\nof the influenza virus,"
+    },
+    {
+        "index": 11,
+        "start_time": 44210,
+        "end_time": 48309,
+        "text": "and the ones in circulation \nchange from season to season."
+    },
+    {
+        "index": 12,
+        "start_time": 48309,
+        "end_time": 52533,
+        "text": "And second, the flu&#39;s genetic code\nallows it to mutate more quickly"
+    },
+    {
+        "index": 13,
+        "start_time": 52533,
+        "end_time": 54820,
+        "text": "than many other viruses."
+    },
+    {
+        "index": 14,
+        "start_time": 54820,
+        "end_time": 60910,
+        "text": "The flu spreads by turning a host&#39;s own \ncells into viral production factories."
+    },
+    {
+        "index": 15,
+        "start_time": 60910,
+        "end_time": 65681,
+        "text": "When the virus is engulfed by a host cell,\nit expels its genetic material,"
+    },
+    {
+        "index": 16,
+        "start_time": 65681,
+        "end_time": 67978,
+        "text": "which makes its way to the nucleus."
+    },
+    {
+        "index": 17,
+        "start_time": 67978,
+        "end_time": 71841,
+        "text": "There, cellular machinery that normally\ncopies the host&#39;s genes"
+    },
+    {
+        "index": 18,
+        "start_time": 71841,
+        "end_time": 74882,
+        "text": "starts replicating viral genes instead,"
+    },
+    {
+        "index": 19,
+        "start_time": 74882,
+        "end_time": 78317,
+        "text": "creating more and more copies\nof the virus."
+    },
+    {
+        "index": 20,
+        "start_time": 78317,
+        "end_time": 83052,
+        "text": "New viruses are repackaged \nand crammed into the cell until it bursts,"
+    },
+    {
+        "index": 21,
+        "start_time": 83052,
+        "end_time": 89422,
+        "text": "sending freshly minted influenza viruses\nout to infect additional cells."
+    },
+    {
+        "index": 22,
+        "start_time": 89422,
+        "end_time": 91892,
+        "text": "Most viruses follow this script."
+    },
+    {
+        "index": 23,
+        "start_time": 91892,
+        "end_time": 95982,
+        "text": "The trick with the flu is that its genetic\nmaterial isn&#39;t DNA"
+    },
+    {
+        "index": 24,
+        "start_time": 95982,
+        "end_time": 99303,
+        "text": "but a similar compound called RNA."
+    },
+    {
+        "index": 25,
+        "start_time": 99303,
+        "end_time": 104193,
+        "text": "And RNA viruses can mutate much faster."
+    },
+    {
+        "index": 26,
+        "start_time": 104193,
+        "end_time": 106094,
+        "text": "When cells synthesize DNA,"
+    },
+    {
+        "index": 27,
+        "start_time": 106094,
+        "end_time": 110354,
+        "text": "a built-in proofreader recognizes \nand corrects mistakes,"
+    },
+    {
+        "index": 28,
+        "start_time": 110354,
+        "end_time": 114854,
+        "text": "but the RNA synthesis mechanism\ndoesn&#39;t have this fail-safe."
+    },
+    {
+        "index": 29,
+        "start_time": 114854,
+        "end_time": 120003,
+        "text": "If errors creep in, they stick around\ncreating new variants of the virus."
+    },
+    {
+        "index": 30,
+        "start_time": 120003,
+        "end_time": 121393,
+        "text": "Why is this a problem?"
+    },
+    {
+        "index": 31,
+        "start_time": 121393,
+        "end_time": 124623,
+        "text": "Because vaccines depend on recognition."
+    },
+    {
+        "index": 32,
+        "start_time": 124623,
+        "end_time": 129364,
+        "text": "The flu vaccine includes some of the same\nsubstances, called antigens,"
+    },
+    {
+        "index": 33,
+        "start_time": 129364,
+        "end_time": 132556,
+        "text": "found on the surface of the virus itself."
+    },
+    {
+        "index": 34,
+        "start_time": 132556,
+        "end_time": 135654,
+        "text": "The body identifies those fragments\nas foreign"
+    },
+    {
+        "index": 35,
+        "start_time": 135654,
+        "end_time": 139063,
+        "text": "and responds by producing compounds\ncalled antibodies,"
+    },
+    {
+        "index": 36,
+        "start_time": 139063,
+        "end_time": 142094,
+        "text": "tailor-made to match the antigens."
+    },
+    {
+        "index": 37,
+        "start_time": 142094,
+        "end_time": 145154,
+        "text": "When a vaccinated person\nencounters the actual virus,"
+    },
+    {
+        "index": 38,
+        "start_time": 145154,
+        "end_time": 149614,
+        "text": "the preprogrammed antibodies\nhelp the immune system identify the threat"
+    },
+    {
+        "index": 39,
+        "start_time": 149614,
+        "end_time": 153695,
+        "text": "and mobilize quickly \nto prevent an infection."
+    },
+    {
+        "index": 40,
+        "start_time": 153695,
+        "end_time": 157886,
+        "text": "Those antigens are different \nfor every strain of influenza."
+    },
+    {
+        "index": 41,
+        "start_time": 157886,
+        "end_time": 161326,
+        "text": "If vaccination has prepared \nthe immune system for one strain,"
+    },
+    {
+        "index": 42,
+        "start_time": 161326,
+        "end_time": 164577,
+        "text": "a different one may still \nbe able to sneak by."
+    },
+    {
+        "index": 43,
+        "start_time": 164577,
+        "end_time": 167085,
+        "text": "Even within the same strain of flu,"
+    },
+    {
+        "index": 44,
+        "start_time": 167085,
+        "end_time": 171216,
+        "text": "those rapid genetic mutations\ncan change the surface compounds enough"
+    },
+    {
+        "index": 45,
+        "start_time": 171216,
+        "end_time": 175366,
+        "text": "that the antibodies \nmay not recognize them."
+    },
+    {
+        "index": 46,
+        "start_time": 175366,
+        "end_time": 177358,
+        "text": "To make things even more complicated,"
+    },
+    {
+        "index": 47,
+        "start_time": 177358,
+        "end_time": 183167,
+        "text": "sometimes two different strains combine\nto create an entirely new hybrid virus."
+    },
+    {
+        "index": 48,
+        "start_time": 183167,
+        "end_time": 186286,
+        "text": "All of this makes vaccinating for the flu"
+    },
+    {
+        "index": 49,
+        "start_time": 186286,
+        "end_time": 190067,
+        "text": "like trying to hit a moving \ntransforming target."
+    },
+    {
+        "index": 50,
+        "start_time": 190067,
+        "end_time": 192887,
+        "text": "That&#39;s why scientists are constantly\ncollecting data"
+    },
+    {
+        "index": 51,
+        "start_time": 192887,
+        "end_time": 195108,
+        "text": "about which strains are circulating"
+    },
+    {
+        "index": 52,
+        "start_time": 195108,
+        "end_time": 197819,
+        "text": "and checking to see how much those\nstrains have mutated"
+    },
+    {
+        "index": 53,
+        "start_time": 197819,
+        "end_time": 200447,
+        "text": "from previous years&#39; versions."
+    },
+    {
+        "index": 54,
+        "start_time": 200447,
+        "end_time": 204398,
+        "text": "Twice annually, the World \nHealth Organization pulls together experts"
+    },
+    {
+        "index": 55,
+        "start_time": 204398,
+        "end_time": 206387,
+        "text": "to analyze all that data,"
+    },
+    {
+        "index": 56,
+        "start_time": 206387,
+        "end_time": 209558,
+        "text": "holding one meeting for each hemisphere."
+    },
+    {
+        "index": 57,
+        "start_time": 209558,
+        "end_time": 213788,
+        "text": "The scientists determine which strains\nto include in that season&#39;s vaccine,"
+    },
+    {
+        "index": 58,
+        "start_time": 213788,
+        "end_time": 218090,
+        "text": "picking four for the quadrivalent vaccine\nin use today."
+    },
+    {
+        "index": 59,
+        "start_time": 218090,
+        "end_time": 220398,
+        "text": "In spite of the flu&#39;s evasive maneuvers,"
+    },
+    {
+        "index": 60,
+        "start_time": 220398,
+        "end_time": 225808,
+        "text": "in recent years, the group&#39;s predictions\nhave been almost always correct."
+    },
+    {
+        "index": 61,
+        "start_time": 225808,
+        "end_time": 230109,
+        "text": "Even when flu strains mutate further,\nthe vaccine is often close enough"
+    },
+    {
+        "index": 62,
+        "start_time": 230109,
+        "end_time": 233309,
+        "text": "that a vaccinated person who catches\nthe flu anyway"
+    },
+    {
+        "index": 63,
+        "start_time": 233309,
+        "end_time": 238139,
+        "text": "will have a milder and shorter illness\nthan they would otherwise."
+    },
+    {
+        "index": 64,
+        "start_time": 238139,
+        "end_time": 241560,
+        "text": "Vaccination also helps protect\nother people in the community"
+    },
+    {
+        "index": 65,
+        "start_time": 241560,
+        "end_time": 244110,
+        "text": "who may not be medically eligible \nfor the shot"
+    },
+    {
+        "index": 66,
+        "start_time": 244110,
+        "end_time": 247512,
+        "text": "by preventing those around them\nfrom carrying the virus."
+    },
+    {
+        "index": 67,
+        "start_time": 247512,
+        "end_time": 249778,
+        "text": "This is called herd immunity."
+    },
+    {
+        "index": 68,
+        "start_time": 249778,
+        "end_time": 252050,
+        "text": "The flu shot can&#39;t give you the flu."
+    },
+    {
+        "index": 69,
+        "start_time": 252050,
+        "end_time": 256199,
+        "text": "It contains an inactivated virus\nthat isn&#39;t capable of making you sick."
+    },
+    {
+        "index": 70,
+        "start_time": 256199,
+        "end_time": 259000,
+        "text": "You might feel tired \nand achy after getting it,"
+    },
+    {
+        "index": 71,
+        "start_time": 259000,
+        "end_time": 260710,
+        "text": "but that&#39;s not an infection."
+    },
+    {
+        "index": 72,
+        "start_time": 260710,
+        "end_time": 263841,
+        "text": "It&#39;s your normal immune response\nto the vaccine."
+    },
+    {
+        "index": 73,
+        "start_time": 263841,
+        "end_time": 267861,
+        "text": "Some parts of the world use, \ninstead of a shot, an inhaled vaccine"
+    },
+    {
+        "index": 74,
+        "start_time": 267861,
+        "end_time": 270709,
+        "text": "that contains a weakened live virus."
+    },
+    {
+        "index": 75,
+        "start_time": 270709,
+        "end_time": 275041,
+        "text": "This is also safe for \nthe vast majority of people."
+    },
+    {
+        "index": 76,
+        "start_time": 275041,
+        "end_time": 278512,
+        "text": "Only those with impaired immune systems\nwould be at risk,"
+    },
+    {
+        "index": 77,
+        "start_time": 278512,
+        "end_time": 281920,
+        "text": "but they&#39;re typically \nnot given live vaccines."
+    },
+    {
+        "index": 78,
+        "start_time": 281920,
+        "end_time": 285951,
+        "text": "Meanwhile, scientists are working\nto develop a universal flu vaccine"
+    },
+    {
+        "index": 79,
+        "start_time": 285951,
+        "end_time": 289502,
+        "text": "that would protect against any strain,\neven mutated ones."
+    },
+    {
+        "index": 80,
+        "start_time": 289502,
+        "end_time": 293562,
+        "text": "But until then, the hunt \nfor next year&#39;s vaccine is on."
+    }
+]

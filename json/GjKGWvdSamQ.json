@@ -1,0 +1,950 @@
+[
+    {
+        "index": 1,
+        "start_time": 46550,
+        "end_time": 48400,
+        "text": "Dateline 1941"
+    },
+    {
+        "index": 2,
+        "start_time": 48500,
+        "end_time": 51400,
+        "text": "German troops continue their march toward Leningrad."
+    },
+    {
+        "index": 3,
+        "start_time": 51500,
+        "end_time": 54300,
+        "text": "The Japanese occupy Saigon."
+    },
+    {
+        "index": 4,
+        "start_time": 54400,
+        "end_time": 57200,
+        "text": "And the United States continues to ... mull\nit all over."
+    },
+    {
+        "index": 5,
+        "start_time": 57300,
+        "end_time": 58800,
+        "text": "Giggly Girl: What war?"
+    },
+    {
+        "index": 6,
+        "start_time": 58900,
+        "end_time": 61900,
+        "text": "Meanwhile in London, the unending blitzkrieg continues."
+    },
+    {
+        "index": 7,
+        "start_time": 62000,
+        "end_time": 65100,
+        "text": "In response, Prime Minister Churchill has\ntravelled back in time"
+    },
+    {
+        "index": 8,
+        "start_time": 65100,
+        "end_time": 67900,
+        "text": "and assembled the greatest scientific minds the world has ever known,"
+    },
+    {
+        "index": 9,
+        "start_time": 68000,
+        "end_time": 71400,
+        "text": "in a last-ditch effort to turn the tides of the war."
+    },
+    {
+        "index": 10,
+        "start_time": 71500,
+        "end_time": 76400,
+        "text": "Nikola Tesla. Known pigeon enthusiast and master of electricity."
+    },
+    {
+        "index": 11,
+        "start_time": 76500,
+        "end_time": 83000,
+        "text": "Tapputi: the World&#39;s First Chemist whose tonics and perfumes can cloud the minds of men."
+    },
+    {
+        "index": 12,
+        "start_time": 83100,
+        "end_time": 87100,
+        "text": "Charles Darwin has the ability to metamorphosize into any animal."
+    },
+    {
+        "index": 13,
+        "start_time": 87100,
+        "end_time": 90000,
+        "text": "But does his radical theory\nof evolution hold any water?"
+    },
+    {
+        "index": 14,
+        "start_time": 90000,
+        "end_time": 91400,
+        "text": "God only knows."
+    },
+    {
+        "index": 15,
+        "start_time": 91600,
+        "end_time": 94000,
+        "text": "Marie Curie: Mistress of Radiation."
+    },
+    {
+        "index": 16,
+        "start_time": 94000,
+        "end_time": 97000,
+        "text": "And she&#39;s definitely a no-nonsense kind of gal."
+    },
+    {
+        "index": 17,
+        "start_time": 99300,
+        "end_time": 101300,
+        "text": "Sigmund Freud."
+    },
+    {
+        "index": 18,
+        "start_time": 103500,
+        "end_time": 106200,
+        "text": "We&#39;re not really sure why he&#39;s here."
+    },
+    {
+        "index": 19,
+        "start_time": 106300,
+        "end_time": 110700,
+        "text": "Freud: It&#39;s because I have the power to control people&#39;s sexual thoughts."
+    },
+    {
+        "index": 20,
+        "start_time": 110700,
+        "end_time": 111900,
+        "text": "Observe."
+    },
+    {
+        "index": 21,
+        "start_time": 116800,
+        "end_time": 121800,
+        "text": "And the newest member of the team: a 14 year old clone of Albert Einstein."
+    },
+    {
+        "index": 22,
+        "start_time": 121800,
+        "end_time": 126700,
+        "text": "Time is relative to this young man, allowing him to travel at super speeds!"
+    },
+    {
+        "index": 23,
+        "start_time": 127800,
+        "end_time": 131500,
+        "text": "Together they form the Super Science Friends!"
+    },
+    {
+        "index": 24,
+        "start_time": 133300,
+        "end_time": 137200,
+        "text": "Now let&#39;s listen in as they prepare for their next daring adventure."
+    },
+    {
+        "index": 25,
+        "start_time": 137200,
+        "end_time": 139480,
+        "text": "Churchill: Alright Super Science Friends..."
+    },
+    {
+        "index": 26,
+        "start_time": 139480,
+        "end_time": 143040,
+        "text": "This week we&#39;re facing our greatest threat ever!"
+    },
+    {
+        "index": 27,
+        "start_time": 143420,
+        "end_time": 145200,
+        "text": "Tesla: Patent infringement?"
+    },
+    {
+        "index": 28,
+        "start_time": 145300,
+        "end_time": 147000,
+        "text": "Marie Curie: Male chauvinism?"
+    },
+    {
+        "index": 29,
+        "start_time": 147400,
+        "end_time": 150300,
+        "text": "Einstein: That giant Hitlerbot that keeps trying to get in?"
+    },
+    {
+        "index": 30,
+        "start_time": 151200,
+        "end_time": 153820,
+        "text": "No, it&#39;s even worse!"
+    },
+    {
+        "index": 31,
+        "start_time": 153820,
+        "end_time": 155880,
+        "text": "All of England&#39;s apples..."
+    },
+    {
+        "index": 32,
+        "start_time": 155880,
+        "end_time": 157400,
+        "text": "... are disappearing!"
+    },
+    {
+        "index": 33,
+        "start_time": 157600,
+        "end_time": 159780,
+        "text": "These are the only apples left."
+    },
+    {
+        "index": 34,
+        "start_time": 160100,
+        "end_time": 163380,
+        "text": "You can barely make a decent cobbler out of this."
+    },
+    {
+        "index": 35,
+        "start_time": 163620,
+        "end_time": 165560,
+        "text": "Z3. Take us through it."
+    },
+    {
+        "index": 36,
+        "start_time": 165560,
+        "end_time": 167500,
+        "text": "Z3: Of course, Herr Churchill."
+    },
+    {
+        "index": 37,
+        "start_time": 167800,
+        "end_time": 170160,
+        "text": "I wish he wouldn&#39;t call me that."
+    },
+    {
+        "index": 38,
+        "start_time": 170560,
+        "end_time": 175880,
+        "text": "I&#39;ve traced the mysterious disappearance of apples to sometime in the late 1600&#39;s."
+    },
+    {
+        "index": 39,
+        "start_time": 177000,
+        "end_time": 183300,
+        "text": "For some reason, someone or some thing has travelled to that moment and is systematically destroying them!"
+    },
+    {
+        "index": 40,
+        "start_time": 183300,
+        "end_time": 185340,
+        "text": "Every Grannysmith..."
+    },
+    {
+        "index": 41,
+        "start_time": 185340,
+        "end_time": 187460,
+        "text": "Every MacIntosh..."
+    },
+    {
+        "index": 42,
+        "start_time": 187460,
+        "end_time": 189720,
+        "text": "And yes, even the Red Delicious..."
+    },
+    {
+        "index": 43,
+        "start_time": 190300,
+        "end_time": 192840,
+        "text": "King of all the apples."
+    },
+    {
+        "index": 44,
+        "start_time": 192840,
+        "end_time": 196460,
+        "text": "Hmm.  Perhaps the villain is harvesting the apples"
+    },
+    {
+        "index": 45,
+        "start_time": 196460,
+        "end_time": 201200,
+        "text": "as an energy source to fuel some sort of apple powered Doomsday device!"
+    },
+    {
+        "index": 46,
+        "start_time": 201400,
+        "end_time": 202380,
+        "text": "Darwin: Outrageous!"
+    },
+    {
+        "index": 47,
+        "start_time": 202380,
+        "end_time": 206260,
+        "text": "This plague upon our apples could only mean the death of the bumblebees."
+    },
+    {
+        "index": 48,
+        "start_time": 206260,
+        "end_time": 209340,
+        "text": "We&#39;ll find their little bee carcases strewn across the land!"
+    },
+    {
+        "index": 49,
+        "start_time": 209560,
+        "end_time": 214780,
+        "text": "You need to go back in time and discover who is behind this."
+    },
+    {
+        "index": 50,
+        "start_time": 218380,
+        "end_time": 221020,
+        "text": "I really think that maybe Hitlerbot is a more..."
+    },
+    {
+        "index": 51,
+        "start_time": 221020,
+        "end_time": 222640,
+        "text": "Tapputi: To the sciencemobile!"
+    },
+    {
+        "index": 52,
+        "start_time": 224740,
+        "end_time": 226940,
+        "text": "Not so fast Albert!"
+    },
+    {
+        "index": 53,
+        "start_time": 226940,
+        "end_time": 229780,
+        "text": "You know you&#39;re not old enough to go on missions."
+    },
+    {
+        "index": 54,
+        "start_time": 230020,
+        "end_time": 231960,
+        "text": "Einstein: This E=MC sucks."
+    },
+    {
+        "index": 55,
+        "start_time": 245120,
+        "end_time": 246800,
+        "text": "I have to go to the bathroom."
+    },
+    {
+        "index": 56,
+        "start_time": 269340,
+        "end_time": 273660,
+        "text": "Flying Spaghetti Monster: Bye Freud! Good luck on your mission!"
+    },
+    {
+        "index": 57,
+        "start_time": 281960,
+        "end_time": 283720,
+        "text": "So, whatever did you do?"
+    },
+    {
+        "index": 58,
+        "start_time": 283720,
+        "end_time": 286640,
+        "text": "Well I had him flogged within an inch of his life of course!"
+    },
+    {
+        "index": 59,
+        "start_time": 286640,
+        "end_time": 289480,
+        "text": "Children are more trouble than they&#39;re worth."
+    },
+    {
+        "index": 60,
+        "start_time": 289480,
+        "end_time": 290400,
+        "text": "Quite right."
+    },
+    {
+        "index": 61,
+        "start_time": 309100,
+        "end_time": 311020,
+        "text": "Come here Darwin! Come here boy!"
+    },
+    {
+        "index": 62,
+        "start_time": 312640,
+        "end_time": 316260,
+        "text": "The Super Science Friends have arrived safely in the past."
+    },
+    {
+        "index": 63,
+        "start_time": 316560,
+        "end_time": 317520,
+        "text": "Churchill: Excellent!"
+    },
+    {
+        "index": 64,
+        "start_time": 317680,
+        "end_time": 323580,
+        "text": "Now pay close attention Albert. These people are professional researchers."
+    },
+    {
+        "index": 65,
+        "start_time": 323580,
+        "end_time": 329780,
+        "text": "Observe how they hunt for clues, not even letting the most minor detail go unnoticed."
+    },
+    {
+        "index": 66,
+        "start_time": 331820,
+        "end_time": 333340,
+        "text": "Goddammit."
+    },
+    {
+        "index": 67,
+        "start_time": 335380,
+        "end_time": 338080,
+        "text": "I&#39;ll show YOU who&#39;s not old enough."
+    },
+    {
+        "index": 68,
+        "start_time": 339960,
+        "end_time": 342220,
+        "text": "Where do we even begin?"
+    },
+    {
+        "index": 69,
+        "start_time": 342420,
+        "end_time": 344860,
+        "text": "Finding some apples would be a good start."
+    },
+    {
+        "index": 70,
+        "start_time": 344860,
+        "end_time": 347780,
+        "text": "This part of the orchard seems completely devoid."
+    },
+    {
+        "index": 71,
+        "start_time": 347780,
+        "end_time": 353580,
+        "text": "Tapputi: First one to find an apple wins 10 minutes behind the cider shed with me!"
+    },
+    {
+        "index": 72,
+        "start_time": 354480,
+        "end_time": 358320,
+        "text": "No apples here. No apples here. No apples here."
+    },
+    {
+        "index": 73,
+        "start_time": 358340,
+        "end_time": 360340,
+        "text": "No apples... gasp!"
+    },
+    {
+        "index": 74,
+        "start_time": 361320,
+        "end_time": 363840,
+        "text": "It can&#39;t be!"
+    },
+    {
+        "index": 75,
+        "start_time": 368560,
+        "end_time": 369800,
+        "text": "Gasp!"
+    },
+    {
+        "index": 76,
+        "start_time": 369800,
+        "end_time": 371740,
+        "text": "Isaac Newton!"
+    },
+    {
+        "index": 77,
+        "start_time": 372000,
+        "end_time": 375800,
+        "text": "\u266a You are so cool, you don&#39;t even know how"
+    },
+    {
+        "index": 78,
+        "start_time": 375800,
+        "end_time": 379820,
+        "text": "your law of attraction meant to me deep down. \u266a"
+    },
+    {
+        "index": 79,
+        "start_time": 379820,
+        "end_time": 383640,
+        "text": "Einstein: I&#39;ve got to tell the others! They&#39;re never going to believe it!"
+    },
+    {
+        "index": 80,
+        "start_time": 390300,
+        "end_time": 395980,
+        "text": "Lasers? If that&#39;s the case then we&#39;re looking at technology far beyond our own."
+    },
+    {
+        "index": 81,
+        "start_time": 395980,
+        "end_time": 399140,
+        "text": "Which means whoever is meddling in this time..."
+    },
+    {
+        "index": 82,
+        "start_time": 399140,
+        "end_time": 402160,
+        "text": "must be from ... the future!"
+    },
+    {
+        "index": 83,
+        "start_time": 402160,
+        "end_time": 407060,
+        "text": "Well I don&#39;t mean our future.  But THE future.  The future future."
+    },
+    {
+        "index": 84,
+        "start_time": 408040,
+        "end_time": 410640,
+        "text": "Classic female hysteria."
+    },
+    {
+        "index": 85,
+        "start_time": 414000,
+        "end_time": 415680,
+        "text": "Guys! Guys!!"
+    },
+    {
+        "index": 86,
+        "start_time": 416000,
+        "end_time": 417800,
+        "text": "Oh my god oh my god oh my god oh my god!"
+    },
+    {
+        "index": 87,
+        "start_time": 417800,
+        "end_time": 419360,
+        "text": "You&#39;re never going to believe it!"
+    },
+    {
+        "index": 88,
+        "start_time": 419360,
+        "end_time": 421560,
+        "text": "Einstein? What are you doing here?"
+    },
+    {
+        "index": 89,
+        "start_time": 421560,
+        "end_time": 422760,
+        "text": "Nevermind that! Listen!"
+    },
+    {
+        "index": 90,
+        "start_time": 422760,
+        "end_time": 425560,
+        "text": "An apple orchard is no place for a young boy."
+    },
+    {
+        "index": 91,
+        "start_time": 425560,
+        "end_time": 427000,
+        "text": "Wait I&#39;m telling you!"
+    },
+    {
+        "index": 92,
+        "start_time": 427000,
+        "end_time": 430380,
+        "text": "If you needed help with your biology homework it could have waited until we got home."
+    },
+    {
+        "index": 93,
+        "start_time": 430380,
+        "end_time": 432740,
+        "text": "No no no no no no no ... grrrrr!"
+    },
+    {
+        "index": 94,
+        "start_time": 436200,
+        "end_time": 437160,
+        "text": "Look!"
+    },
+    {
+        "index": 95,
+        "start_time": 438840,
+        "end_time": 440700,
+        "text": "Tapputi: Hey! You found the apples."
+    },
+    {
+        "index": 96,
+        "start_time": 440900,
+        "end_time": 445400,
+        "text": "You&#39;re a little younger than what I usually go for, but I guess a deal&#39;s a deal!"
+    },
+    {
+        "index": 97,
+        "start_time": 446720,
+        "end_time": 448920,
+        "text": "It&#39;s Isaac Newton!"
+    },
+    {
+        "index": 98,
+        "start_time": 448920,
+        "end_time": 454720,
+        "text": "Besides totally being my hero since I was born, he&#39;s also the father of modern physics!"
+    },
+    {
+        "index": 99,
+        "start_time": 454720,
+        "end_time": 457440,
+        "text": "His theory of gravity changed the world!"
+    },
+    {
+        "index": 100,
+        "start_time": 457440,
+        "end_time": 460480,
+        "text": "Which he thought of when an apple..."
+    },
+    {
+        "index": 101,
+        "start_time": 460480,
+        "end_time": 462380,
+        "text": "...fell on his head!"
+    },
+    {
+        "index": 102,
+        "start_time": 464660,
+        "end_time": 467940,
+        "text": "He&#39;s even more majestic than I imagined."
+    },
+    {
+        "index": 103,
+        "start_time": 467940,
+        "end_time": 472380,
+        "text": "Stop breathing on me. Besides, Newton is totally over-rated."
+    },
+    {
+        "index": 104,
+        "start_time": 472380,
+        "end_time": 475620,
+        "text": "I mean, he still believes in alchemy."
+    },
+    {
+        "index": 105,
+        "start_time": 477420,
+        "end_time": 480100,
+        "text": "What the hell is that supposed to mean?"
+    },
+    {
+        "index": 106,
+        "start_time": 481580,
+        "end_time": 483760,
+        "text": "What the devil are those?"
+    },
+    {
+        "index": 107,
+        "start_time": 489240,
+        "end_time": 493020,
+        "text": "Abominations of nature! We better call this in."
+    },
+    {
+        "index": 108,
+        "start_time": 498260,
+        "end_time": 500900,
+        "text": "Z3! Is Churchill there?"
+    },
+    {
+        "index": 109,
+        "start_time": 500900,
+        "end_time": 502560,
+        "text": "Hey Churchill."
+    },
+    {
+        "index": 110,
+        "start_time": 502560,
+        "end_time": 505400,
+        "text": "I think we found who&#39;s been destroying the apples."
+    },
+    {
+        "index": 111,
+        "start_time": 507180,
+        "end_time": 508900,
+        "text": "My God!"
+    },
+    {
+        "index": 112,
+        "start_time": 509560,
+        "end_time": 511920,
+        "text": "Z3. Analysis."
+    },
+    {
+        "index": 113,
+        "start_time": 511920,
+        "end_time": 516140,
+        "text": "One moment while I scan the timeline for a visual match."
+    },
+    {
+        "index": 114,
+        "start_time": 526100,
+        "end_time": 527460,
+        "text": "Data retrieved."
+    },
+    {
+        "index": 115,
+        "start_time": 527460,
+        "end_time": 531780,
+        "text": "They are future Soviet Cosmonauts originating from the mid 1950&#39;s."
+    },
+    {
+        "index": 116,
+        "start_time": 532240,
+        "end_time": 535880,
+        "text": "The future? Extended analysis."
+    },
+    {
+        "index": 117,
+        "start_time": 536920,
+        "end_time": 540580,
+        "text": "I have recovered a propaganda film detailing their mission."
+    },
+    {
+        "index": 118,
+        "start_time": 540580,
+        "end_time": 541580,
+        "text": "Roll it!"
+    },
+    {
+        "index": 119,
+        "start_time": 545860,
+        "end_time": 548580,
+        "text": "Soviet Narrator: Behold our brave Russian cosmonauts."
+    },
+    {
+        "index": 120,
+        "start_time": 548580,
+        "end_time": 558480,
+        "text": "Here in state of art training facility, they eagerly work day and night preparing to be first people ever going into space."
+    },
+    {
+        "index": 121,
+        "start_time": 559820,
+        "end_time": 566560,
+        "text": "Here they board Sputnik, which stupid Americans believe to be merely satellite when really is spaceship."
+    },
+    {
+        "index": 122,
+        "start_time": 566840,
+        "end_time": 570760,
+        "text": "It&#39;s roomy interior features all comforts of home."
+    },
+    {
+        "index": 123,
+        "start_time": 572440,
+        "end_time": 577960,
+        "text": "Insignificant problems, such as solar radiation leaks are easily overcome."
+    },
+    {
+        "index": 124,
+        "start_time": 578900,
+        "end_time": 584160,
+        "text": "Observe how their strong Russian bodies quickly adapt to the rigours of space travel."
+    },
+    {
+        "index": 125,
+        "start_time": 586020,
+        "end_time": 595680,
+        "text": "Our brave cosmonauts will slingshot around red planet of Mars, and go back in time to stop Western understanding of physics from ever happening."
+    },
+    {
+        "index": 126,
+        "start_time": 598380,
+        "end_time": 601180,
+        "text": "Our cosmonauts will change course of history"
+    },
+    {
+        "index": 127,
+        "start_time": 601180,
+        "end_time": 603820,
+        "text": "for the glory of Mother Russia."
+    },
+    {
+        "index": 128,
+        "start_time": 605360,
+        "end_time": 610260,
+        "text": "If their plan succeeds it will irreperably damage the course of human history"
+    },
+    {
+        "index": 129,
+        "start_time": 610260,
+        "end_time": 613020,
+        "text": "and all that we know will cease to exist!"
+    },
+    {
+        "index": 130,
+        "start_time": 613020,
+        "end_time": 618260,
+        "text": "The Super Science Friends must ensure that the apple hits Isaac Newton&#39;s..."
+    },
+    {
+        "index": 131,
+        "start_time": 618260,
+        "end_time": 620820,
+        "text": "Churchill: COMMIE SPACE ZOMBIES FROM THE FUTURE!"
+    },
+    {
+        "index": 132,
+        "start_time": 620820,
+        "end_time": 622120,
+        "text": "Get em!"
+    },
+    {
+        "index": 133,
+        "start_time": 748780,
+        "end_time": 750820,
+        "text": "You think you&#39;ve won."
+    },
+    {
+        "index": 134,
+        "start_time": 750820,
+        "end_time": 753720,
+        "text": "But there&#39;s one thing you&#39;ve forgotten!"
+    },
+    {
+        "index": 135,
+        "start_time": 753720,
+        "end_time": 757580,
+        "text": "That Winston Churchill is my mentor."
+    },
+    {
+        "index": 136,
+        "start_time": 759720,
+        "end_time": 763980,
+        "text": "And if there&#39;s one thing he taught me, it&#39;s to always..."
+    },
+    {
+        "index": 137,
+        "start_time": 763980,
+        "end_time": 766100,
+        "text": "PACK A LUNCH!"
+    },
+    {
+        "index": 138,
+        "start_time": 779860,
+        "end_time": 781480,
+        "text": "He&#39;s going to do it!"
+    },
+    {
+        "index": 139,
+        "start_time": 781480,
+        "end_time": 782920,
+        "text": "He just might do it."
+    },
+    {
+        "index": 140,
+        "start_time": 787600,
+        "end_time": 789700,
+        "text": "Almost there!"
+    },
+    {
+        "index": 141,
+        "start_time": 799760,
+        "end_time": 802720,
+        "text": "Tapputi: Ha ha ha ... it came right off!"
+    },
+    {
+        "index": 142,
+        "start_time": 819820,
+        "end_time": 822400,
+        "text": "What the devil do we do now?"
+    },
+    {
+        "index": 143,
+        "start_time": 823660,
+        "end_time": 825840,
+        "text": "Let&#39;s get the hell out of here."
+    },
+    {
+        "index": 144,
+        "start_time": 827540,
+        "end_time": 829700,
+        "text": "Wait! How does it turn out?"
+    },
+    {
+        "index": 145,
+        "start_time": 829700,
+        "end_time": 831800,
+        "text": "I need to check the history books!"
+    },
+    {
+        "index": 146,
+        "start_time": 837540,
+        "end_time": 839760,
+        "text": "Hmm. Close enough."
+    },
+    {
+        "index": 147,
+        "start_time": 840540,
+        "end_time": 849060,
+        "text": "\u266a You are so cool, you don&#39;t even know how your law of attraction meant to me deep down."
+    },
+    {
+        "index": 148,
+        "start_time": 849060,
+        "end_time": 857100,
+        "text": "You are so cool. I&#39;m where I am right now because without you I&#39;d be all on my..."
+    },
+    {
+        "index": 149,
+        "start_time": 863760,
+        "end_time": 867900,
+        "text": "Ugh, did you see this episode? That is not what Marie Curie was like."
+    },
+    {
+        "index": 150,
+        "start_time": 870200,
+        "end_time": 877700,
+        "text": "Tell me about it! And that Nazi bomber at the beginning wasn&#39;t even a model that was in service until like 1942!"
+    },
+    {
+        "index": 151,
+        "start_time": 880400,
+        "end_time": 884040,
+        "text": "Not to mention that the apple falling on Isaac Newton&#39;s head was a total myth!"
+    },
+    {
+        "index": 152,
+        "start_time": 886420,
+        "end_time": 889260,
+        "text": "To think that the greatest discovery of all time had anything to do with..."
+    },
+    {
+        "index": 153,
+        "start_time": 896640,
+        "end_time": 904660,
+        "text": "Music: You&#39;re pulling me all the way to the ground\nYour gravity\u2019s too much to bear."
+    },
+    {
+        "index": 154,
+        "start_time": 904660,
+        "end_time": 913900,
+        "text": "My head\u2019s starting to spin, just like a globe.\nTell me it\u2019s something, something we share."
+    },
+    {
+        "index": 155,
+        "start_time": 913900,
+        "end_time": 922060,
+        "text": "These long years that passed, have kept us apart.\nWhy don\u2019t you live closer to me?"
+    },
+    {
+        "index": 156,
+        "start_time": 922060,
+        "end_time": 931760,
+        "text": "Our ideas are close, but so far away.\nWhy\u2019d you believe in alchemy?"
+    },
+    {
+        "index": 157,
+        "start_time": 931760,
+        "end_time": 940400,
+        "text": "You are so cool, you don&#39;t even know how your law of attraction meant to me deep down."
+    },
+    {
+        "index": 158,
+        "start_time": 940400,
+        "end_time": 950540,
+        "text": "You are so cool. I&#39;m where I am right now because without you I&#39;d be all on my own. \u266a"
+    }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "index": 1,
+        "start_time": 7390,
+        "end_time": 13438,
+        "text": "So you&#39;re stranded in a huge rainforest,\nand you&#39;ve eaten a poisonous mushroom."
+    },
+    {
+        "index": 2,
+        "start_time": 13438,
+        "end_time": 19072,
+        "text": "To save your life, you need the antidote\nexcreted by a certain species of frog."
+    },
+    {
+        "index": 3,
+        "start_time": 19072,
+        "end_time": 23734,
+        "text": "Unfortunately, only the female \nof the species produces the antidote,"
+    },
+    {
+        "index": 4,
+        "start_time": 23734,
+        "end_time": 25474,
+        "text": "and to make matters worse,"
+    },
+    {
+        "index": 5,
+        "start_time": 25474,
+        "end_time": 30395,
+        "text": "the male and female occur in equal\nnumbers and look identical,"
+    },
+    {
+        "index": 6,
+        "start_time": 30395,
+        "end_time": 32519,
+        "text": "with no way for you to tell them apart,"
+    },
+    {
+        "index": 7,
+        "start_time": 32519,
+        "end_time": 36325,
+        "text": "except that the male \nhas a distinctive croak."
+    },
+    {
+        "index": 8,
+        "start_time": 36325,
+        "end_time": 38254,
+        "text": "And it may just be your lucky day."
+    },
+    {
+        "index": 9,
+        "start_time": 38254,
+        "end_time": 41350,
+        "text": "To your left, you&#39;ve spotted a frog\non a tree stump,"
+    },
+    {
+        "index": 10,
+        "start_time": 41350,
+        "end_time": 43469,
+        "text": "but before you start running to it,"
+    },
+    {
+        "index": 11,
+        "start_time": 43469,
+        "end_time": 46240,
+        "text": "you&#39;re startled by the croak\nof a male frog"
+    },
+    {
+        "index": 12,
+        "start_time": 46240,
+        "end_time": 49367,
+        "text": "coming from a clearing \nin the opposite direction."
+    },
+    {
+        "index": 13,
+        "start_time": 49367,
+        "end_time": 51167,
+        "text": "There, you see two frogs,"
+    },
+    {
+        "index": 14,
+        "start_time": 51167,
+        "end_time": 54130,
+        "text": "but you can&#39;t tell which one \nmade the sound."
+    },
+    {
+        "index": 15,
+        "start_time": 54130,
+        "end_time": 57249,
+        "text": "You feel yourself starting \nto lose consciousness,"
+    },
+    {
+        "index": 16,
+        "start_time": 57249,
+        "end_time": 62498,
+        "text": "and realize you only have time to go\nin one direction before you collapse."
+    },
+    {
+        "index": 17,
+        "start_time": 62498,
+        "end_time": 65704,
+        "text": "What are your chances of survival\nif you head for the clearing"
+    },
+    {
+        "index": 18,
+        "start_time": 65704,
+        "end_time": 68444,
+        "text": "and lick both of the frogs there?"
+    },
+    {
+        "index": 19,
+        "start_time": 68444,
+        "end_time": 70633,
+        "text": "What about if you go to the tree stump?"
+    },
+    {
+        "index": 20,
+        "start_time": 70633,
+        "end_time": 72535,
+        "text": "Which way should you go?"
+    },
+    {
+        "index": 21,
+        "start_time": 72535,
+        "end_time": 75364,
+        "text": "Press pause now\nto calculate odds yourself."
+    },
+    {
+        "index": 22,
+        "start_time": 75364,
+        "end_time": 76336,
+        "text": "3"
+    },
+    {
+        "index": 23,
+        "start_time": 76336,
+        "end_time": 77242,
+        "text": "2"
+    },
+    {
+        "index": 24,
+        "start_time": 77242,
+        "end_time": 78041,
+        "text": "1"
+    },
+    {
+        "index": 25,
+        "start_time": 78041,
+        "end_time": 80646,
+        "text": "If you chose to go to the clearing,\nyou&#39;re right,"
+    },
+    {
+        "index": 26,
+        "start_time": 80646,
+        "end_time": 84159,
+        "text": "but the hard part is correctly \ncalculating your odds."
+    },
+    {
+        "index": 27,
+        "start_time": 84159,
+        "end_time": 88503,
+        "text": "There are two common incorrect ways\nof solving this problem."
+    },
+    {
+        "index": 28,
+        "start_time": 88503,
+        "end_time": 90140,
+        "text": "Wrong answer number one:"
+    },
+    {
+        "index": 29,
+        "start_time": 90140,
+        "end_time": 93622,
+        "text": "Assuming there&#39;s a roughly equal\nnumber of males and females,"
+    },
+    {
+        "index": 30,
+        "start_time": 93622,
+        "end_time": 98475,
+        "text": "the probability of any one frog being\neither sex is one in two,"
+    },
+    {
+        "index": 31,
+        "start_time": 98475,
+        "end_time": 101471,
+        "text": "which is 0.5, or 50%."
+    },
+    {
+        "index": 32,
+        "start_time": 101471,
+        "end_time": 104042,
+        "text": "And since all frogs are independent\nof each other,"
+    },
+    {
+        "index": 33,
+        "start_time": 104042,
+        "end_time": 109557,
+        "text": "the chance of any one of them being female\nshould still be 50% each time you choose."
+    },
+    {
+        "index": 34,
+        "start_time": 109557,
+        "end_time": 112424,
+        "text": "This logic actually is correct \nfor the tree stump,"
+    },
+    {
+        "index": 35,
+        "start_time": 112424,
+        "end_time": 114315,
+        "text": "but not for the clearing."
+    },
+    {
+        "index": 36,
+        "start_time": 114315,
+        "end_time": 115630,
+        "text": "Wrong answer two:"
+    },
+    {
+        "index": 37,
+        "start_time": 115630,
+        "end_time": 117986,
+        "text": "First, you saw two frogs in the clearing."
+    },
+    {
+        "index": 38,
+        "start_time": 117986,
+        "end_time": 120754,
+        "text": "Now you&#39;ve learned that at least\none of them is male,"
+    },
+    {
+        "index": 39,
+        "start_time": 120754,
+        "end_time": 123142,
+        "text": "but what are the chances that both are?"
+    },
+    {
+        "index": 40,
+        "start_time": 123142,
+        "end_time": 127773,
+        "text": "If the probability of each individual frog\nbeing male is 0.5,"
+    },
+    {
+        "index": 41,
+        "start_time": 127773,
+        "end_time": 131665,
+        "text": "then multiplying the two together\nwill give you 0.25,"
+    },
+    {
+        "index": 42,
+        "start_time": 131665,
+        "end_time": 134785,
+        "text": "which is one in four, or 25%."
+    },
+    {
+        "index": 43,
+        "start_time": 134785,
+        "end_time": 139257,
+        "text": "So, you have a 75% chance \nof getting at least one female"
+    },
+    {
+        "index": 44,
+        "start_time": 139257,
+        "end_time": 141447,
+        "text": "and receiving the antidote."
+    },
+    {
+        "index": 45,
+        "start_time": 141447,
+        "end_time": 143316,
+        "text": "So here&#39;s the right answer."
+    },
+    {
+        "index": 46,
+        "start_time": 143316,
+        "end_time": 147344,
+        "text": "Going for the clearing gives you\na two in three chance of survival,"
+    },
+    {
+        "index": 47,
+        "start_time": 147344,
+        "end_time": 149950,
+        "text": "or about 67%."
+    },
+    {
+        "index": 48,
+        "start_time": 149950,
+        "end_time": 152590,
+        "text": "If you&#39;re wondering how this \ncould possibly be right,"
+    },
+    {
+        "index": 49,
+        "start_time": 152590,
+        "end_time": 155652,
+        "text": "it&#39;s because of something called\nconditional probability."
+    },
+    {
+        "index": 50,
+        "start_time": 155652,
+        "end_time": 157509,
+        "text": "Let&#39;s see how it unfolds."
+    },
+    {
+        "index": 51,
+        "start_time": 157509,
+        "end_time": 159439,
+        "text": "When we first see the two frogs,"
+    },
+    {
+        "index": 52,
+        "start_time": 159439,
+        "end_time": 162889,
+        "text": "there are several possible combinations\nof male and female."
+    },
+    {
+        "index": 53,
+        "start_time": 162889,
+        "end_time": 164539,
+        "text": "If we write out the full list,"
+    },
+    {
+        "index": 54,
+        "start_time": 164539,
+        "end_time": 168041,
+        "text": "we have what mathematicians call\nthe sample space,"
+    },
+    {
+        "index": 55,
+        "start_time": 168041,
+        "end_time": 169356,
+        "text": "and as we can see,"
+    },
+    {
+        "index": 56,
+        "start_time": 169356,
+        "end_time": 173993,
+        "text": "out of the four possible combinations,\nonly one has two males."
+    },
+    {
+        "index": 57,
+        "start_time": 173993,
+        "end_time": 177324,
+        "text": "So why was the answer of 75% wrong?"
+    },
+    {
+        "index": 58,
+        "start_time": 177324,
+        "end_time": 180565,
+        "text": "Because the croak gives \nus additional information."
+    },
+    {
+        "index": 59,
+        "start_time": 180565,
+        "end_time": 183223,
+        "text": "As soon as we know \nthat one of the frogs is male,"
+    },
+    {
+        "index": 60,
+        "start_time": 183223,
+        "end_time": 186262,
+        "text": "that tells us there can&#39;t be \na pair of females,"
+    },
+    {
+        "index": 61,
+        "start_time": 186262,
+        "end_time": 190095,
+        "text": "which means we can eliminate\nthat possibility from the sample space,"
+    },
+    {
+        "index": 62,
+        "start_time": 190095,
+        "end_time": 192953,
+        "text": "leaving us with \nthree possible combinations."
+    },
+    {
+        "index": 63,
+        "start_time": 192953,
+        "end_time": 195557,
+        "text": "Of them, one still has two males,"
+    },
+    {
+        "index": 64,
+        "start_time": 195557,
+        "end_time": 201317,
+        "text": "giving us our two in three,\nor 67% chance of getting a female."
+    },
+    {
+        "index": 65,
+        "start_time": 201317,
+        "end_time": 204351,
+        "text": "This is how conditional probability works."
+    },
+    {
+        "index": 66,
+        "start_time": 204351,
+        "end_time": 208883,
+        "text": "You start off with a large sample space\nthat includes every possibility."
+    },
+    {
+        "index": 67,
+        "start_time": 208883,
+        "end_time": 213679,
+        "text": "But every additional piece of information\nallows you to eliminate possibilities,"
+    },
+    {
+        "index": 68,
+        "start_time": 213679,
+        "end_time": 215252,
+        "text": "shrinking the sample space"
+    },
+    {
+        "index": 69,
+        "start_time": 215252,
+        "end_time": 219509,
+        "text": "and increasing the probability \nof getting a particular combination."
+    },
+    {
+        "index": 70,
+        "start_time": 219509,
+        "end_time": 223336,
+        "text": "The point is that information\naffects probability."
+    },
+    {
+        "index": 71,
+        "start_time": 223336,
+        "end_time": 228129,
+        "text": "And conditional probability isn&#39;t just\nthe stuff of abstract mathematical games."
+    },
+    {
+        "index": 72,
+        "start_time": 228129,
+        "end_time": 230648,
+        "text": "It pops up in the real world, as well."
+    },
+    {
+        "index": 73,
+        "start_time": 230648,
+        "end_time": 233897,
+        "text": "Computers and other devices use\nconditional probability"
+    },
+    {
+        "index": 74,
+        "start_time": 233897,
+        "end_time": 237848,
+        "text": "to detect likely errors in the strings\nof 1&#39;s and 0&#39;s"
+    },
+    {
+        "index": 75,
+        "start_time": 237848,
+        "end_time": 240427,
+        "text": "that all our data consists of."
+    },
+    {
+        "index": 76,
+        "start_time": 240427,
+        "end_time": 242523,
+        "text": "And in many of our own life decisions,"
+    },
+    {
+        "index": 77,
+        "start_time": 242523,
+        "end_time": 246314,
+        "text": "we use information gained from \npast experience and our surroundings"
+    },
+    {
+        "index": 78,
+        "start_time": 246314,
+        "end_time": 249411,
+        "text": "to narrow down our choices\nto the best options"
+    },
+    {
+        "index": 79,
+        "start_time": 249411,
+        "end_time": 250757,
+        "text": "so that maybe next time,"
+    },
+    {
+        "index": 80,
+        "start_time": 250757,
+        "end_time": 254297,
+        "text": "we can avoid eating that poisonous \nmushroom in the first place."
+    }
+]

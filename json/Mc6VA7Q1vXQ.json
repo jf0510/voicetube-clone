@@ -1,0 +1,536 @@
+[
+    {
+        "index": 1,
+        "start_time": 6994,
+        "end_time": 9434,
+        "text": "It&#39;s a good day to be a pirate."
+    },
+    {
+        "index": 2,
+        "start_time": 9434,
+        "end_time": 11244,
+        "text": "Amaro and his four mateys,"
+    },
+    {
+        "index": 3,
+        "start_time": 11244,
+        "end_time": 12044,
+        "text": "Bart,"
+    },
+    {
+        "index": 4,
+        "start_time": 12044,
+        "end_time": 12746,
+        "text": "Charlotte,"
+    },
+    {
+        "index": 5,
+        "start_time": 12746,
+        "end_time": 13514,
+        "text": "Daniel,"
+    },
+    {
+        "index": 6,
+        "start_time": 13514,
+        "end_time": 14225,
+        "text": "and Eliza"
+    },
+    {
+        "index": 7,
+        "start_time": 14225,
+        "end_time": 15715,
+        "text": "have struck gold:"
+    },
+    {
+        "index": 8,
+        "start_time": 15715,
+        "end_time": 18804,
+        "text": "a chest with 100 coins."
+    },
+    {
+        "index": 9,
+        "start_time": 18804,
+        "end_time": 24584,
+        "text": "But now, they must divvy up the booty\naccording to the pirate code."
+    },
+    {
+        "index": 10,
+        "start_time": 24584,
+        "end_time": 29349,
+        "text": "As captain, Amaro gets to propose\nhow to distribute the coins."
+    },
+    {
+        "index": 11,
+        "start_time": 29349,
+        "end_time": 32321,
+        "text": "Then, each pirate, \nincluding Amaro himself,"
+    },
+    {
+        "index": 12,
+        "start_time": 32321,
+        "end_time": 36728,
+        "text": "gets to vote either yarr or nay."
+    },
+    {
+        "index": 13,
+        "start_time": 36728,
+        "end_time": 42604,
+        "text": "If the vote passes, or if there&#39;s a tie,\nthe coins are divided according to plan."
+    },
+    {
+        "index": 14,
+        "start_time": 42604,
+        "end_time": 44663,
+        "text": "But if the majority votes nay,"
+    },
+    {
+        "index": 15,
+        "start_time": 44663,
+        "end_time": 46995,
+        "text": "Amaro must walk the plank"
+    },
+    {
+        "index": 16,
+        "start_time": 46995,
+        "end_time": 50046,
+        "text": "and Bart becomes captain."
+    },
+    {
+        "index": 17,
+        "start_time": 50046,
+        "end_time": 52854,
+        "text": "Then, Bart gets to propose\na new distribution"
+    },
+    {
+        "index": 18,
+        "start_time": 52854,
+        "end_time": 56746,
+        "text": "and all remaining pirates vote again."
+    },
+    {
+        "index": 19,
+        "start_time": 56746,
+        "end_time": 60036,
+        "text": "If his plan is rejected,\nhe walks the plank, too,"
+    },
+    {
+        "index": 20,
+        "start_time": 60036,
+        "end_time": 62245,
+        "text": "and Charlotte takes his place."
+    },
+    {
+        "index": 21,
+        "start_time": 62245,
+        "end_time": 63826,
+        "text": "This process repeats,"
+    },
+    {
+        "index": 22,
+        "start_time": 63826,
+        "end_time": 66988,
+        "text": "with the captain&#39;s hat moving to Daniel\nand then Eliza"
+    },
+    {
+        "index": 23,
+        "start_time": 66988,
+        "end_time": 72526,
+        "text": "until either a proposal is accepted\nor there&#39;s only one pirate left."
+    },
+    {
+        "index": 24,
+        "start_time": 72526,
+        "end_time": 78427,
+        "text": "Naturally, each pirate wants to stay alive\nwhile getting as much gold as possible."
+    },
+    {
+        "index": 25,
+        "start_time": 78427,
+        "end_time": 81759,
+        "text": "But being pirates, \nnone of them trust each other,"
+    },
+    {
+        "index": 26,
+        "start_time": 81759,
+        "end_time": 85107,
+        "text": "so they can&#39;t collaborate in advance."
+    },
+    {
+        "index": 27,
+        "start_time": 85107,
+        "end_time": 87108,
+        "text": "And being blood-thirsty pirates,"
+    },
+    {
+        "index": 28,
+        "start_time": 87108,
+        "end_time": 91148,
+        "text": "if anyone thinks they&#39;ll end up\nwith the same amount of gold either way,"
+    },
+    {
+        "index": 29,
+        "start_time": 91148,
+        "end_time": 96297,
+        "text": "they&#39;ll vote to make the captain\nwalk the plank just for fun."
+    },
+    {
+        "index": 30,
+        "start_time": 96297,
+        "end_time": 100158,
+        "text": "Finally, each pirate is excellent\nat logical deduction"
+    },
+    {
+        "index": 31,
+        "start_time": 100158,
+        "end_time": 103368,
+        "text": "and knows that the others are, too."
+    },
+    {
+        "index": 32,
+        "start_time": 103368,
+        "end_time": 108287,
+        "text": "What distribution should Amaro\npropose to make sure he lives?"
+    },
+    {
+        "index": 33,
+        "start_time": 108287,
+        "end_time": 113399,
+        "text": "Pause here if you want to figure\nit out for yourself!"
+    },
+    {
+        "index": 34,
+        "start_time": 113399,
+        "end_time": 114378,
+        "text": "Answer in: 3"
+    },
+    {
+        "index": 35,
+        "start_time": 114378,
+        "end_time": 115308,
+        "text": "Answer in: 2"
+    },
+    {
+        "index": 36,
+        "start_time": 115308,
+        "end_time": 116449,
+        "text": "Answer in: 1"
+    },
+    {
+        "index": 37,
+        "start_time": 116449,
+        "end_time": 118068,
+        "text": "If we follow our intuition,"
+    },
+    {
+        "index": 38,
+        "start_time": 118068,
+        "end_time": 122798,
+        "text": "it seems like Amaro should try to bribe\nthe other pirates with most of the gold"
+    },
+    {
+        "index": 39,
+        "start_time": 122798,
+        "end_time": 126170,
+        "text": "to increase the chances of his plan\nbeing accepted."
+    },
+    {
+        "index": 40,
+        "start_time": 126170,
+        "end_time": 131129,
+        "text": "But it turns out he can do\nmuch better than that. Why?"
+    },
+    {
+        "index": 41,
+        "start_time": 131129,
+        "end_time": 136570,
+        "text": "Like we said, the pirates all know\neach other to be top-notch logicians."
+    },
+    {
+        "index": 42,
+        "start_time": 136570,
+        "end_time": 141069,
+        "text": "So when each votes, they won&#39;t just\nbe thinking about the current proposal,"
+    },
+    {
+        "index": 43,
+        "start_time": 141069,
+        "end_time": 145968,
+        "text": "but about all possible outcomes\ndown the line."
+    },
+    {
+        "index": 44,
+        "start_time": 145968,
+        "end_time": 148832,
+        "text": "And because the rank order is known\nin advance,"
+    },
+    {
+        "index": 45,
+        "start_time": 148832,
+        "end_time": 154151,
+        "text": "each can accurately predict how the others\nwould vote in any situation"
+    },
+    {
+        "index": 46,
+        "start_time": 154151,
+        "end_time": 157801,
+        "text": "and adjust their own votes accordingly."
+    },
+    {
+        "index": 47,
+        "start_time": 157801,
+        "end_time": 162170,
+        "text": "Because Eliza&#39;s last, she has the most\noutcomes to consider,"
+    },
+    {
+        "index": 48,
+        "start_time": 162170,
+        "end_time": 164989,
+        "text": "so let&#39;s start by following \nher thought process."
+    },
+    {
+        "index": 49,
+        "start_time": 164989,
+        "end_time": 169431,
+        "text": "She&#39;d reason this out by working\nbackwards from the last possible scenario"
+    },
+    {
+        "index": 50,
+        "start_time": 169431,
+        "end_time": 173201,
+        "text": "with only her and Daniel remaining."
+    },
+    {
+        "index": 51,
+        "start_time": 173201,
+        "end_time": 176701,
+        "text": "Daniel would obviously propose\nto keep all the gold"
+    },
+    {
+        "index": 52,
+        "start_time": 176701,
+        "end_time": 180471,
+        "text": "and Eliza&#39;s one vote would not be\nenough to override him,"
+    },
+    {
+        "index": 53,
+        "start_time": 180471,
+        "end_time": 185631,
+        "text": "so Eliza wants to avoid this situation\nat all costs."
+    },
+    {
+        "index": 54,
+        "start_time": 185631,
+        "end_time": 188271,
+        "text": "Now we move to the previous decision point"
+    },
+    {
+        "index": 55,
+        "start_time": 188271,
+        "end_time": 192560,
+        "text": "with three pirates left \nand Charlotte making the proposal."
+    },
+    {
+        "index": 56,
+        "start_time": 192560,
+        "end_time": 196501,
+        "text": "Everyone knows that if she&#39;s outvoted,\nthe decision moves to Daniel,"
+    },
+    {
+        "index": 57,
+        "start_time": 196501,
+        "end_time": 199941,
+        "text": "who will then get all the gold\nwhile Eliza gets nothing."
+    },
+    {
+        "index": 58,
+        "start_time": 199941,
+        "end_time": 202156,
+        "text": "So to secure Eliza&#39;s vote,"
+    },
+    {
+        "index": 59,
+        "start_time": 202156,
+        "end_time": 207291,
+        "text": "Charlotte only needs to offer her\nslightly more than nothing, one coin."
+    },
+    {
+        "index": 60,
+        "start_time": 207291,
+        "end_time": 209113,
+        "text": "Since this ensures her support,"
+    },
+    {
+        "index": 61,
+        "start_time": 209113,
+        "end_time": 213821,
+        "text": "Charlotte doesn&#39;t need to offer Daniel\nanything at all."
+    },
+    {
+        "index": 62,
+        "start_time": 213821,
+        "end_time": 215713,
+        "text": "What if there are four pirates?"
+    },
+    {
+        "index": 63,
+        "start_time": 215713,
+        "end_time": 220862,
+        "text": "As captain, Bart would still only need\none other vote for his plan to pass."
+    },
+    {
+        "index": 64,
+        "start_time": 220862,
+        "end_time": 225342,
+        "text": "He knows that Daniel wouldn&#39;t want \nthe decision to pass to Charlotte,"
+    },
+    {
+        "index": 65,
+        "start_time": 225342,
+        "end_time": 229022,
+        "text": "so he would offer Daniel one coin\nfor his support"
+    },
+    {
+        "index": 66,
+        "start_time": 229022,
+        "end_time": 232172,
+        "text": "with nothing for Charlotte or Eliza."
+    },
+    {
+        "index": 67,
+        "start_time": 232172,
+        "end_time": 237543,
+        "text": "Now we&#39;re back at the initial vote\nwith all five pirates standing."
+    },
+    {
+        "index": 68,
+        "start_time": 237543,
+        "end_time": 239952,
+        "text": "Having considered all the other scenarios,"
+    },
+    {
+        "index": 69,
+        "start_time": 239952,
+        "end_time": 242423,
+        "text": "Amaro knows that if he goes overboard,"
+    },
+    {
+        "index": 70,
+        "start_time": 242423,
+        "end_time": 244211,
+        "text": "the decision comes down to Bart,"
+    },
+    {
+        "index": 71,
+        "start_time": 244211,
+        "end_time": 248102,
+        "text": "which would be bad news \nfor Charlotte and Eliza."
+    },
+    {
+        "index": 72,
+        "start_time": 248102,
+        "end_time": 253253,
+        "text": "So he offers them one coin each,\nkeeping 98 for himself."
+    },
+    {
+        "index": 73,
+        "start_time": 253253,
+        "end_time": 255150,
+        "text": "Bart and Daniel vote nay,"
+    },
+    {
+        "index": 74,
+        "start_time": 255150,
+        "end_time": 259304,
+        "text": "but Charlotte and Eliza \ngrudgingly vote yarr"
+    },
+    {
+        "index": 75,
+        "start_time": 259304,
+        "end_time": 263414,
+        "text": "knowing that the alternative \nwould be worse for them."
+    },
+    {
+        "index": 76,
+        "start_time": 263414,
+        "end_time": 267383,
+        "text": "The pirate game involves some interesting\nconcepts from game theory."
+    },
+    {
+        "index": 77,
+        "start_time": 267383,
+        "end_time": 270124,
+        "text": "One is the concept of common knowledge"
+    },
+    {
+        "index": 78,
+        "start_time": 270124,
+        "end_time": 273064,
+        "text": "where each person is aware of what\nthe others know"
+    },
+    {
+        "index": 79,
+        "start_time": 273064,
+        "end_time": 276407,
+        "text": "and uses this to predict their reasoning."
+    },
+    {
+        "index": 80,
+        "start_time": 276407,
+        "end_time": 280334,
+        "text": "And the final distribution is an example\nof a Nash equilibrium"
+    },
+    {
+        "index": 81,
+        "start_time": 280334,
+        "end_time": 283593,
+        "text": "where each player knows every other\nplayers&#39; strategy"
+    },
+    {
+        "index": 82,
+        "start_time": 283593,
+        "end_time": 286394,
+        "text": "and chooses theirs accordingly."
+    },
+    {
+        "index": 83,
+        "start_time": 286394,
+        "end_time": 289355,
+        "text": "Even though it may lead to a worse\noutcome for everyone"
+    },
+    {
+        "index": 84,
+        "start_time": 289355,
+        "end_time": 290979,
+        "text": "than cooperating would,"
+    },
+    {
+        "index": 85,
+        "start_time": 290979,
+        "end_time": 296555,
+        "text": "no individual player can benefit\nby changing their strategy."
+    },
+    {
+        "index": 86,
+        "start_time": 296555,
+        "end_time": 299826,
+        "text": "So it looks like Amaro gets to keep\nmost of the gold,"
+    },
+    {
+        "index": 87,
+        "start_time": 299826,
+        "end_time": 302539,
+        "text": "and the other pirates might need\nto find better ways"
+    },
+    {
+        "index": 88,
+        "start_time": 302539,
+        "end_time": 305214,
+        "text": "to use those impressive logic skills,"
+    },
+    {
+        "index": 89,
+        "start_time": 305214,
+        "end_time": 308475,
+        "text": "like revising this absurd pirate code."
+    }
+]

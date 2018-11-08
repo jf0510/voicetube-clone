@@ -1,0 +1,494 @@
+[
+    {
+        "index": 1,
+        "start_time": 6741,
+        "end_time": 11302,
+        "text": "Packed inside every cell in your body\nis a set of genetic instructions,"
+    },
+    {
+        "index": 2,
+        "start_time": 11302,
+        "end_time": 14232,
+        "text": "3.2 billion base pairs long."
+    },
+    {
+        "index": 3,
+        "start_time": 14232,
+        "end_time": 17346,
+        "text": "Deciphering these directions\nwould be a monumental task"
+    },
+    {
+        "index": 4,
+        "start_time": 17346,
+        "end_time": 22010,
+        "text": "but could offer unprecedented insight\nabout the human body."
+    },
+    {
+        "index": 5,
+        "start_time": 22010,
+        "end_time": 25862,
+        "text": "In 1990, a consortium \nof 20 international research centers"
+    },
+    {
+        "index": 6,
+        "start_time": 25862,
+        "end_time": 29494,
+        "text": "embarked on the world&#39;s largest\nbiological collaboration"
+    },
+    {
+        "index": 7,
+        "start_time": 29494,
+        "end_time": 31682,
+        "text": "to accomplish this mission."
+    },
+    {
+        "index": 8,
+        "start_time": 31682,
+        "end_time": 35178,
+        "text": "The Human Genome Project proposed\nto sequence the entire human genome"
+    },
+    {
+        "index": 9,
+        "start_time": 35178,
+        "end_time": 40217,
+        "text": "over 15 years \nwith $3 billion of public funds."
+    },
+    {
+        "index": 10,
+        "start_time": 40217,
+        "end_time": 42758,
+        "text": "Then, seven years \nbefore its scheduled completion,"
+    },
+    {
+        "index": 11,
+        "start_time": 42758,
+        "end_time": 47296,
+        "text": "a private company called Celera announced\nthat they could accomplish the same goal"
+    },
+    {
+        "index": 12,
+        "start_time": 47296,
+        "end_time": 51791,
+        "text": "in just three years\nand at a fraction of the cost."
+    },
+    {
+        "index": 13,
+        "start_time": 51791,
+        "end_time": 55477,
+        "text": "The two camps discussed a joint venture,\nbut talks quickly fell apart"
+    },
+    {
+        "index": 14,
+        "start_time": 55477,
+        "end_time": 60525,
+        "text": "as disagreements arose over legal\nand ethical issues of genetic property."
+    },
+    {
+        "index": 15,
+        "start_time": 60525,
+        "end_time": 63224,
+        "text": "And so the race began."
+    },
+    {
+        "index": 16,
+        "start_time": 63224,
+        "end_time": 67202,
+        "text": "Though both teams used the same technology\nto sequence the entire human genome,"
+    },
+    {
+        "index": 17,
+        "start_time": 67202,
+        "end_time": 70349,
+        "text": "it was their strategies \nthat made all the difference."
+    },
+    {
+        "index": 18,
+        "start_time": 70349,
+        "end_time": 73934,
+        "text": "Their paths diverged \nin the most critical of steps:"
+    },
+    {
+        "index": 19,
+        "start_time": 73934,
+        "end_time": 75712,
+        "text": "the first one."
+    },
+    {
+        "index": 20,
+        "start_time": 75712,
+        "end_time": 77764,
+        "text": "In the Human Genome Project&#39;s approach,"
+    },
+    {
+        "index": 21,
+        "start_time": 77764,
+        "end_time": 82365,
+        "text": "the genome was first divided into smaller,\nmore manageable chunks"
+    },
+    {
+        "index": 22,
+        "start_time": 82365,
+        "end_time": 85671,
+        "text": "about 150,000 base pairs long"
+    },
+    {
+        "index": 23,
+        "start_time": 85671,
+        "end_time": 88752,
+        "text": "that overlapped each other\na little bit on both ends."
+    },
+    {
+        "index": 24,
+        "start_time": 88752,
+        "end_time": 90265,
+        "text": "Each of these fragments of DNA"
+    },
+    {
+        "index": 25,
+        "start_time": 90265,
+        "end_time": 93473,
+        "text": "was inserted inside a bacterial \nartificial chromosome"
+    },
+    {
+        "index": 26,
+        "start_time": 93473,
+        "end_time": 96142,
+        "text": "where they were cloned and fingerprinted."
+    },
+    {
+        "index": 27,
+        "start_time": 96142,
+        "end_time": 99550,
+        "text": "The fingerprints showed scientists\nwhere the fragments overlapped"
+    },
+    {
+        "index": 28,
+        "start_time": 99550,
+        "end_time": 101674,
+        "text": "without knowing the actual sequence."
+    },
+    {
+        "index": 29,
+        "start_time": 101674,
+        "end_time": 103791,
+        "text": "Using the overlapping bits as a guide,"
+    },
+    {
+        "index": 30,
+        "start_time": 103791,
+        "end_time": 106840,
+        "text": "the researchers marked \neach fragment&#39;s place in the genome"
+    },
+    {
+        "index": 31,
+        "start_time": 106840,
+        "end_time": 109349,
+        "text": "to create a contiguous map,"
+    },
+    {
+        "index": 32,
+        "start_time": 109349,
+        "end_time": 111958,
+        "text": "a process that took about six years."
+    },
+    {
+        "index": 33,
+        "start_time": 111958,
+        "end_time": 115641,
+        "text": "The cloned fragments were sequenced\nin labs around the world"
+    },
+    {
+        "index": 34,
+        "start_time": 115641,
+        "end_time": 119107,
+        "text": "following one of the project&#39;s\ntwo major principles:"
+    },
+    {
+        "index": 35,
+        "start_time": 119107,
+        "end_time": 124205,
+        "text": "that collaboration on our shared heritage\nwas open to all nations."
+    },
+    {
+        "index": 36,
+        "start_time": 124205,
+        "end_time": 126884,
+        "text": "In each case, the fragments \nwere arbitrarily broken up"
+    },
+    {
+        "index": 37,
+        "start_time": 126884,
+        "end_time": 131636,
+        "text": "into small, overlapping pieces\nabout 1,000 base pairs long."
+    },
+    {
+        "index": 38,
+        "start_time": 131636,
+        "end_time": 134305,
+        "text": "Then, using a technology \ncalled the Sanger method,"
+    },
+    {
+        "index": 39,
+        "start_time": 134305,
+        "end_time": 136973,
+        "text": "each piece was sequenced letter by letter."
+    },
+    {
+        "index": 40,
+        "start_time": 136973,
+        "end_time": 142330,
+        "text": "This rigorous map-based approach\ncalled hierarchical shotgun sequencing"
+    },
+    {
+        "index": 41,
+        "start_time": 142330,
+        "end_time": 144963,
+        "text": "minimized the risk of misassembly,"
+    },
+    {
+        "index": 42,
+        "start_time": 144963,
+        "end_time": 148972,
+        "text": "a huge hazard of sequencing genomes\nwith many repetitive portions,"
+    },
+    {
+        "index": 43,
+        "start_time": 148972,
+        "end_time": 150721,
+        "text": "like the human genome."
+    },
+    {
+        "index": 44,
+        "start_time": 150721,
+        "end_time": 153118,
+        "text": "The consortium&#39;s \n&quot;better safe than sorry&quot; approach"
+    },
+    {
+        "index": 45,
+        "start_time": 153118,
+        "end_time": 158868,
+        "text": "contrasted starkly with Celera&#39;s strategy\ncalled whole genome shotgun sequencing."
+    },
+    {
+        "index": 46,
+        "start_time": 158868,
+        "end_time": 162523,
+        "text": "It hinged on skipping \nthe mapping phase entirely,"
+    },
+    {
+        "index": 47,
+        "start_time": 162523,
+        "end_time": 166055,
+        "text": "a faster, though foolhardy, approach\naccording to some."
+    },
+    {
+        "index": 48,
+        "start_time": 166055,
+        "end_time": 168754,
+        "text": "The entire genome was directly chopped up"
+    },
+    {
+        "index": 49,
+        "start_time": 168754,
+        "end_time": 172547,
+        "text": "into a giant heap \nof small, overlapping bits."
+    },
+    {
+        "index": 50,
+        "start_time": 172547,
+        "end_time": 175428,
+        "text": "Once these bits were sequenced\nvia the Sanger method,"
+    },
+    {
+        "index": 51,
+        "start_time": 175428,
+        "end_time": 179507,
+        "text": "Celera would take the formidable risk\nof reconstructing the genome"
+    },
+    {
+        "index": 52,
+        "start_time": 179507,
+        "end_time": 182240,
+        "text": "using just the overlaps."
+    },
+    {
+        "index": 53,
+        "start_time": 182240,
+        "end_time": 184547,
+        "text": "But perhaps their decision\nwasn&#39;t such a gamble"
+    },
+    {
+        "index": 54,
+        "start_time": 184547,
+        "end_time": 190272,
+        "text": "because guess whose freshly completed map\nwas available online for free?"
+    },
+    {
+        "index": 55,
+        "start_time": 190272,
+        "end_time": 191889,
+        "text": "The Human Genome Consortium,"
+    },
+    {
+        "index": 56,
+        "start_time": 191889,
+        "end_time": 194537,
+        "text": "in accordance with \nthe project&#39;s second major principle"
+    },
+    {
+        "index": 57,
+        "start_time": 194537,
+        "end_time": 196660,
+        "text": "which held that all of the project&#39;s data"
+    },
+    {
+        "index": 58,
+        "start_time": 196660,
+        "end_time": 201548,
+        "text": "would be shared publicly\nwithin 24 hours of collection."
+    },
+    {
+        "index": 59,
+        "start_time": 201548,
+        "end_time": 204090,
+        "text": "So in 1998, scientists around the world"
+    },
+    {
+        "index": 60,
+        "start_time": 204090,
+        "end_time": 207269,
+        "text": "were furiously sequencing \nlines of genetic code"
+    },
+    {
+        "index": 61,
+        "start_time": 207269,
+        "end_time": 211347,
+        "text": "using the tried and true, yet laborious,\nSanger method."
+    },
+    {
+        "index": 62,
+        "start_time": 211347,
+        "end_time": 215685,
+        "text": "Finally, after three exhausting years\nof continuous sequencing and assembling,"
+    },
+    {
+        "index": 63,
+        "start_time": 215685,
+        "end_time": 217360,
+        "text": "the verdict was in."
+    },
+    {
+        "index": 64,
+        "start_time": 217360,
+        "end_time": 221084,
+        "text": "In February 2001, both groups \nsimultaneously published"
+    },
+    {
+        "index": 65,
+        "start_time": 221084,
+        "end_time": 225454,
+        "text": "working drafts of more than 90%\nof the human genome,"
+    },
+    {
+        "index": 66,
+        "start_time": 225454,
+        "end_time": 228246,
+        "text": "several years ahead \nof the consortium&#39;s schedule."
+    },
+    {
+        "index": 67,
+        "start_time": 228246,
+        "end_time": 230679,
+        "text": "The race ended in a tie."
+    },
+    {
+        "index": 68,
+        "start_time": 230679,
+        "end_time": 234824,
+        "text": "The Human Genome Project&#39;s practice\nof immediately sharing its data"
+    },
+    {
+        "index": 69,
+        "start_time": 234824,
+        "end_time": 236626,
+        "text": "was an unusual one."
+    },
+    {
+        "index": 70,
+        "start_time": 236626,
+        "end_time": 239675,
+        "text": "It is more typical for scientists\nto closely guard their data"
+    },
+    {
+        "index": 71,
+        "start_time": 239675,
+        "end_time": 243487,
+        "text": "until they are able to analyze it\nand publish their conclusions."
+    },
+    {
+        "index": 72,
+        "start_time": 243487,
+        "end_time": 247559,
+        "text": "Instead, the Human Genome Project\naccelerated the pace of research"
+    },
+    {
+        "index": 73,
+        "start_time": 247559,
+        "end_time": 252706,
+        "text": "and created an international\ncollaboration on an unprecedented scale."
+    },
+    {
+        "index": 74,
+        "start_time": 252706,
+        "end_time": 256528,
+        "text": "Since then, robust investment in both\nthe public and private sector"
+    },
+    {
+        "index": 75,
+        "start_time": 256528,
+        "end_time": 260833,
+        "text": "has led to the identification\nof many disease related genes"
+    },
+    {
+        "index": 76,
+        "start_time": 260833,
+        "end_time": 264681,
+        "text": "and remarkable advances \nin sequencing technology."
+    },
+    {
+        "index": 77,
+        "start_time": 264681,
+        "end_time": 269380,
+        "text": "Today, a person&#39;s genome can be sequenced\nin just a few days."
+    },
+    {
+        "index": 78,
+        "start_time": 269380,
+        "end_time": 272619,
+        "text": "However, reading the genome \nis only the first step."
+    },
+    {
+        "index": 79,
+        "start_time": 272619,
+        "end_time": 276508,
+        "text": "We&#39;re a long way away from understanding\nwhat most of our genes do"
+    },
+    {
+        "index": 80,
+        "start_time": 276508,
+        "end_time": 278334,
+        "text": "and how they are controlled."
+    },
+    {
+        "index": 81,
+        "start_time": 278334,
+        "end_time": 279910,
+        "text": "Those are some of the challenges"
+    },
+    {
+        "index": 82,
+        "start_time": 279910,
+        "end_time": 283224,
+        "text": "for the next generation \nof ambitious research initiatives."
+    }
+]

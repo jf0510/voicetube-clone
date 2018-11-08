@@ -1,0 +1,428 @@
+[
+    {
+        "index": 1,
+        "start_time": 6960,
+        "end_time": 9600,
+        "text": "How can you play a Rubik&#39;s Cube?"
+    },
+    {
+        "index": 2,
+        "start_time": 9600,
+        "end_time": 13226,
+        "text": "Not play with it, \nbut play it like a piano?"
+    },
+    {
+        "index": 3,
+        "start_time": 13226,
+        "end_time": 15911,
+        "text": "That question doesn&#39;t \nmake a lot of sense at first,"
+    },
+    {
+        "index": 4,
+        "start_time": 15911,
+        "end_time": 20640,
+        "text": "but an abstract mathematical field\ncalled group theory holds the answer,"
+    },
+    {
+        "index": 5,
+        "start_time": 20640,
+        "end_time": 22609,
+        "text": "if you&#39;ll bear with me."
+    },
+    {
+        "index": 6,
+        "start_time": 22609,
+        "end_time": 26719,
+        "text": "In math, a group is a particular \ncollection of elements."
+    },
+    {
+        "index": 7,
+        "start_time": 26719,
+        "end_time": 28545,
+        "text": "That might be a set of integers,"
+    },
+    {
+        "index": 8,
+        "start_time": 28545,
+        "end_time": 30473,
+        "text": "the face of a Rubik&#39;s Cube,"
+    },
+    {
+        "index": 9,
+        "start_time": 30473,
+        "end_time": 32075,
+        "text": "or anything,"
+    },
+    {
+        "index": 10,
+        "start_time": 32075,
+        "end_time": 36571,
+        "text": "so long as they follow \nfour specific rules, or axioms."
+    },
+    {
+        "index": 11,
+        "start_time": 36571,
+        "end_time": 38059,
+        "text": "Axiom one:"
+    },
+    {
+        "index": 12,
+        "start_time": 38059,
+        "end_time": 43677,
+        "text": "all group operations must be closed\nor restricted to only group elements."
+    },
+    {
+        "index": 13,
+        "start_time": 43677,
+        "end_time": 46601,
+        "text": "So in our square, \nfor any operation you do,"
+    },
+    {
+        "index": 14,
+        "start_time": 46601,
+        "end_time": 48748,
+        "text": "like turn it one way or the other,"
+    },
+    {
+        "index": 15,
+        "start_time": 48748,
+        "end_time": 52031,
+        "text": "you&#39;ll still wind up with \nan element of the group."
+    },
+    {
+        "index": 16,
+        "start_time": 52031,
+        "end_time": 53666,
+        "text": "Axiom two:"
+    },
+    {
+        "index": 17,
+        "start_time": 53666,
+        "end_time": 57996,
+        "text": "no matter where we put parentheses\nwhen we&#39;re doing a single group operation,"
+    },
+    {
+        "index": 18,
+        "start_time": 57996,
+        "end_time": 60599,
+        "text": "we still get the same result."
+    },
+    {
+        "index": 19,
+        "start_time": 60599,
+        "end_time": 65040,
+        "text": "In other words, if we turn our square\nright two times, then right once,"
+    },
+    {
+        "index": 20,
+        "start_time": 65040,
+        "end_time": 68058,
+        "text": "that&#39;s the same as once, then twice,"
+    },
+    {
+        "index": 21,
+        "start_time": 68058,
+        "end_time": 72586,
+        "text": "or for numbers, one plus two \nis the same as two plus one."
+    },
+    {
+        "index": 22,
+        "start_time": 72586,
+        "end_time": 74254,
+        "text": "Axiom three:"
+    },
+    {
+        "index": 23,
+        "start_time": 74254,
+        "end_time": 78855,
+        "text": "for every operation, there&#39;s an element\nof our group called the identity."
+    },
+    {
+        "index": 24,
+        "start_time": 78855,
+        "end_time": 81290,
+        "text": "When we apply it \nto any other element in our group,"
+    },
+    {
+        "index": 25,
+        "start_time": 81290,
+        "end_time": 83449,
+        "text": "we still get that element."
+    },
+    {
+        "index": 26,
+        "start_time": 83449,
+        "end_time": 86857,
+        "text": "So for both turning the square\nand adding integers,"
+    },
+    {
+        "index": 27,
+        "start_time": 86857,
+        "end_time": 89267,
+        "text": "our identity here is zero,"
+    },
+    {
+        "index": 28,
+        "start_time": 89267,
+        "end_time": 91777,
+        "text": "not very exciting."
+    },
+    {
+        "index": 29,
+        "start_time": 91777,
+        "end_time": 93225,
+        "text": "Axiom four:"
+    },
+    {
+        "index": 30,
+        "start_time": 93225,
+        "end_time": 98302,
+        "text": "every group element has an element \ncalled its inverse also in the group."
+    },
+    {
+        "index": 31,
+        "start_time": 98302,
+        "end_time": 102253,
+        "text": "When the two are brought together\nusing the group&#39;s addition operation,"
+    },
+    {
+        "index": 32,
+        "start_time": 102253,
+        "end_time": 105111,
+        "text": "they result in the identity element, zero,"
+    },
+    {
+        "index": 33,
+        "start_time": 105111,
+        "end_time": 108843,
+        "text": "so they can be thought of \nas cancelling each other out."
+    },
+    {
+        "index": 34,
+        "start_time": 108843,
+        "end_time": 112439,
+        "text": "So that&#39;s all well and good,\nbut what&#39;s the point of any of it?"
+    },
+    {
+        "index": 35,
+        "start_time": 112439,
+        "end_time": 115303,
+        "text": "Well, when we get beyond \nthese basic rules,"
+    },
+    {
+        "index": 36,
+        "start_time": 115303,
+        "end_time": 117842,
+        "text": "some interesting properties emerge."
+    },
+    {
+        "index": 37,
+        "start_time": 117842,
+        "end_time": 123041,
+        "text": "For example, let&#39;s expand our square\nback into a full-fledged Rubik&#39;s Cube."
+    },
+    {
+        "index": 38,
+        "start_time": 123041,
+        "end_time": 126643,
+        "text": "This is still a group \nthat satisfies all of our axioms,"
+    },
+    {
+        "index": 39,
+        "start_time": 126643,
+        "end_time": 129821,
+        "text": "though now \nwith considerably more elements"
+    },
+    {
+        "index": 40,
+        "start_time": 129821,
+        "end_time": 132073,
+        "text": "and more operations."
+    },
+    {
+        "index": 41,
+        "start_time": 132073,
+        "end_time": 136664,
+        "text": "We can turn each row \nand column of each face."
+    },
+    {
+        "index": 42,
+        "start_time": 136664,
+        "end_time": 139035,
+        "text": "Each position is called a permutation,"
+    },
+    {
+        "index": 43,
+        "start_time": 139035,
+        "end_time": 143596,
+        "text": "and the more elements a group has,\nthe more possible permutations there are."
+    },
+    {
+        "index": 44,
+        "start_time": 143596,
+        "end_time": 148222,
+        "text": "A Rubik&#39;s Cube has more \nthan 43 quintillion permutations,"
+    },
+    {
+        "index": 45,
+        "start_time": 148222,
+        "end_time": 152450,
+        "text": "so trying to solve it randomly \nisn&#39;t going to work so well."
+    },
+    {
+        "index": 46,
+        "start_time": 152450,
+        "end_time": 155864,
+        "text": "However, using group theory\nwe can analyze the cube"
+    },
+    {
+        "index": 47,
+        "start_time": 155864,
+        "end_time": 161004,
+        "text": "and determine a sequence of permutations\nthat will result in a solution."
+    },
+    {
+        "index": 48,
+        "start_time": 161004,
+        "end_time": 164474,
+        "text": "And, in fact, that&#39;s exactly \nwhat most solvers do,"
+    },
+    {
+        "index": 49,
+        "start_time": 164474,
+        "end_time": 169572,
+        "text": "even using a group theory notation\nindicating turns."
+    },
+    {
+        "index": 50,
+        "start_time": 169572,
+        "end_time": 171601,
+        "text": "And it&#39;s not just good for puzzle solving."
+    },
+    {
+        "index": 51,
+        "start_time": 171601,
+        "end_time": 176575,
+        "text": "Group theory is deeply embedded \nin music, as well."
+    },
+    {
+        "index": 52,
+        "start_time": 176575,
+        "end_time": 180977,
+        "text": "One way to visualize a chord\nis to write out all twelve musical notes"
+    },
+    {
+        "index": 53,
+        "start_time": 180977,
+        "end_time": 183642,
+        "text": "and draw a square within them."
+    },
+    {
+        "index": 54,
+        "start_time": 183642,
+        "end_time": 188364,
+        "text": "We can start on any note,\nbut let&#39;s use C since it&#39;s at the top."
+    },
+    {
+        "index": 55,
+        "start_time": 188364,
+        "end_time": 192605,
+        "text": "The resulting chord is called\na diminished seventh chord."
+    },
+    {
+        "index": 56,
+        "start_time": 192605,
+        "end_time": 197193,
+        "text": "Now this chord is a group\nwhose elements are these four notes."
+    },
+    {
+        "index": 57,
+        "start_time": 197193,
+        "end_time": 201881,
+        "text": "The operation we can perform on it\nis to shift the bottom note to the top."
+    },
+    {
+        "index": 58,
+        "start_time": 201881,
+        "end_time": 204357,
+        "text": "In music that&#39;s called an inversion,"
+    },
+    {
+        "index": 59,
+        "start_time": 204357,
+        "end_time": 207247,
+        "text": "and it&#39;s the equivalent \nof addition from earlier."
+    },
+    {
+        "index": 60,
+        "start_time": 207247,
+        "end_time": 210169,
+        "text": "Each inversion changes \nthe sound of the chord,"
+    },
+    {
+        "index": 61,
+        "start_time": 210169,
+        "end_time": 213899,
+        "text": "but it never stops being\na C diminished seventh."
+    },
+    {
+        "index": 62,
+        "start_time": 213899,
+        "end_time": 217661,
+        "text": "In other words, it satisfies axiom one."
+    },
+    {
+        "index": 63,
+        "start_time": 217661,
+        "end_time": 221582,
+        "text": "Composers use inversions to manipulate\na sequence of chords"
+    },
+    {
+        "index": 64,
+        "start_time": 221582,
+        "end_time": 231327,
+        "text": "and avoid a blocky, \nawkward sounding progression."
+    },
+    {
+        "index": 65,
+        "start_time": 231327,
+        "end_time": 234768,
+        "text": "On a musical staff, \nan inversion looks like this."
+    },
+    {
+        "index": 66,
+        "start_time": 234768,
+        "end_time": 239986,
+        "text": "But we can also overlay it onto our square\nand get this."
+    },
+    {
+        "index": 67,
+        "start_time": 239986,
+        "end_time": 244484,
+        "text": "So, if you were to cover your entire\nRubik&#39;s Cube with notes"
+    },
+    {
+        "index": 68,
+        "start_time": 244484,
+        "end_time": 249538,
+        "text": "such that every face of the solved cube\nis a harmonious chord,"
+    },
+    {
+        "index": 69,
+        "start_time": 249538,
+        "end_time": 253098,
+        "text": "you could express the solution\nas a chord progression"
+    },
+    {
+        "index": 70,
+        "start_time": 253098,
+        "end_time": 256949,
+        "text": "that gradually moves \nfrom discordance to harmony"
+    },
+    {
+        "index": 71,
+        "start_time": 256949,
+        "end_time": 260581,
+        "text": "and play the Rubik&#39;s Cube,\nif that&#39;s your thing."
+    }
+]

@@ -1,0 +1,548 @@
+[
+    {
+        "index": 1,
+        "start_time": 6954,
+        "end_time": 9124,
+        "text": "Pick a card, any card."
+    },
+    {
+        "index": 2,
+        "start_time": 9124,
+        "end_time": 12014,
+        "text": "Actually, just pick up all of them and take a look."
+    },
+    {
+        "index": 3,
+        "start_time": 12014,
+        "end_time": 15848,
+        "text": "This standard 52-card deck has been used for centuries."
+    },
+    {
+        "index": 4,
+        "start_time": 15848,
+        "end_time": 18098,
+        "text": "Everyday, thousands just like it"
+    },
+    {
+        "index": 5,
+        "start_time": 18098,
+        "end_time": 21134,
+        "text": "are shuffled in casinos all over the world,"
+    },
+    {
+        "index": 6,
+        "start_time": 21134,
+        "end_time": 23719,
+        "text": "the order rearranged each time."
+    },
+    {
+        "index": 7,
+        "start_time": 23719,
+        "end_time": 26431,
+        "text": "And yet, every time you pick up a well-shuffled deck"
+    },
+    {
+        "index": 8,
+        "start_time": 26431,
+        "end_time": 27642,
+        "text": "like this one,"
+    },
+    {
+        "index": 9,
+        "start_time": 27642,
+        "end_time": 29431,
+        "text": "you are almost certainly holding"
+    },
+    {
+        "index": 10,
+        "start_time": 29431,
+        "end_time": 30848,
+        "text": "an arrangement of cards"
+    },
+    {
+        "index": 11,
+        "start_time": 30848,
+        "end_time": 33729,
+        "text": "that has never before existed in all of history."
+    },
+    {
+        "index": 12,
+        "start_time": 33729,
+        "end_time": 35764,
+        "text": "How can this be?"
+    },
+    {
+        "index": 13,
+        "start_time": 35764,
+        "end_time": 37900,
+        "text": "The answer lies in how many different arrangements"
+    },
+    {
+        "index": 14,
+        "start_time": 37900,
+        "end_time": 42348,
+        "text": "of 52 cards, or any objects, are possible."
+    },
+    {
+        "index": 15,
+        "start_time": 42348,
+        "end_time": 45620,
+        "text": "Now, 52 may not seem like such a high number,"
+    },
+    {
+        "index": 16,
+        "start_time": 45620,
+        "end_time": 48035,
+        "text": "but let&#39;s start with an even smaller one."
+    },
+    {
+        "index": 17,
+        "start_time": 48035,
+        "end_time": 49932,
+        "text": "Say we have four people trying to sit"
+    },
+    {
+        "index": 18,
+        "start_time": 49932,
+        "end_time": 52348,
+        "text": "in four numbered chairs."
+    },
+    {
+        "index": 19,
+        "start_time": 52348,
+        "end_time": 54460,
+        "text": "How many ways can they be seated?"
+    },
+    {
+        "index": 20,
+        "start_time": 54460,
+        "end_time": 56598,
+        "text": "To start off, any of the four people can sit"
+    },
+    {
+        "index": 21,
+        "start_time": 56598,
+        "end_time": 57920,
+        "text": "in the first chair."
+    },
+    {
+        "index": 22,
+        "start_time": 57920,
+        "end_time": 59132,
+        "text": "One this choice is made,"
+    },
+    {
+        "index": 23,
+        "start_time": 59132,
+        "end_time": 61466,
+        "text": "only three people remain standing."
+    },
+    {
+        "index": 24,
+        "start_time": 61466,
+        "end_time": 63262,
+        "text": "After the second person sits down,"
+    },
+    {
+        "index": 25,
+        "start_time": 63262,
+        "end_time": 65219,
+        "text": "only two people are left as candidates"
+    },
+    {
+        "index": 26,
+        "start_time": 65219,
+        "end_time": 66680,
+        "text": "for the third chair."
+    },
+    {
+        "index": 27,
+        "start_time": 66680,
+        "end_time": 68680,
+        "text": "And after the third person has sat down,"
+    },
+    {
+        "index": 28,
+        "start_time": 68680,
+        "end_time": 70431,
+        "text": "the last person standing has no choice"
+    },
+    {
+        "index": 29,
+        "start_time": 70431,
+        "end_time": 72347,
+        "text": "but to sit in the fourth chair."
+    },
+    {
+        "index": 30,
+        "start_time": 72347,
+        "end_time": 75098,
+        "text": "If we manually write out all the possible arrangements,"
+    },
+    {
+        "index": 31,
+        "start_time": 75098,
+        "end_time": 76814,
+        "text": "or permutations,"
+    },
+    {
+        "index": 32,
+        "start_time": 76814,
+        "end_time": 78818,
+        "text": "it turns out that there are 24 ways"
+    },
+    {
+        "index": 33,
+        "start_time": 78818,
+        "end_time": 82180,
+        "text": "that four people can be seated into four chairs,"
+    },
+    {
+        "index": 34,
+        "start_time": 82180,
+        "end_time": 83991,
+        "text": "but when dealing with larger numbers,"
+    },
+    {
+        "index": 35,
+        "start_time": 83991,
+        "end_time": 85532,
+        "text": "this can take quite a while."
+    },
+    {
+        "index": 36,
+        "start_time": 85532,
+        "end_time": 87848,
+        "text": "So let&#39;s see if there&#39;s a quicker way."
+    },
+    {
+        "index": 37,
+        "start_time": 87848,
+        "end_time": 89286,
+        "text": "Going from the beginning again,"
+    },
+    {
+        "index": 38,
+        "start_time": 89286,
+        "end_time": 91370,
+        "text": "you can see that each of the four initial choices"
+    },
+    {
+        "index": 39,
+        "start_time": 91370,
+        "end_time": 92682,
+        "text": "for the first chair"
+    },
+    {
+        "index": 40,
+        "start_time": 92682,
+        "end_time": 95999,
+        "text": "leads to three more possible choices for the second chair,"
+    },
+    {
+        "index": 41,
+        "start_time": 95999,
+        "end_time": 97461,
+        "text": "and each of those choices"
+    },
+    {
+        "index": 42,
+        "start_time": 97461,
+        "end_time": 99847,
+        "text": "leads to two more for the third chair."
+    },
+    {
+        "index": 43,
+        "start_time": 99847,
+        "end_time": 103181,
+        "text": "So instead of counting each final scenario individually,"
+    },
+    {
+        "index": 44,
+        "start_time": 103181,
+        "end_time": 106262,
+        "text": "we can multiply the number of choices for each chair:"
+    },
+    {
+        "index": 45,
+        "start_time": 106262,
+        "end_time": 109096,
+        "text": "four times three times two times one"
+    },
+    {
+        "index": 46,
+        "start_time": 109096,
+        "end_time": 111848,
+        "text": "to achieve the same result of 24."
+    },
+    {
+        "index": 47,
+        "start_time": 111848,
+        "end_time": 113681,
+        "text": "An interesting pattern emerges."
+    },
+    {
+        "index": 48,
+        "start_time": 113681,
+        "end_time": 116729,
+        "text": "We start with the number of objects we&#39;re arranging,"
+    },
+    {
+        "index": 49,
+        "start_time": 116729,
+        "end_time": 118098,
+        "text": "four in this case,"
+    },
+    {
+        "index": 50,
+        "start_time": 118098,
+        "end_time": 120847,
+        "text": "and multiply it by consecutively smaller integers"
+    },
+    {
+        "index": 51,
+        "start_time": 120847,
+        "end_time": 122902,
+        "text": "until we reach one."
+    },
+    {
+        "index": 52,
+        "start_time": 122902,
+        "end_time": 124514,
+        "text": "This is an exciting discovery."
+    },
+    {
+        "index": 53,
+        "start_time": 124514,
+        "end_time": 126449,
+        "text": "So exciting that mathematicians have chosen"
+    },
+    {
+        "index": 54,
+        "start_time": 126449,
+        "end_time": 128575,
+        "text": "to symbolize this kind of calculation,"
+    },
+    {
+        "index": 55,
+        "start_time": 128575,
+        "end_time": 130345,
+        "text": "known as a factorial,"
+    },
+    {
+        "index": 56,
+        "start_time": 130345,
+        "end_time": 132038,
+        "text": "with an exclamation mark."
+    },
+    {
+        "index": 57,
+        "start_time": 132038,
+        "end_time": 135514,
+        "text": "As a general rule, the factorial of any positive integer"
+    },
+    {
+        "index": 58,
+        "start_time": 135514,
+        "end_time": 137416,
+        "text": "is calculated as the product"
+    },
+    {
+        "index": 59,
+        "start_time": 137416,
+        "end_time": 138876,
+        "text": "of that same integer"
+    },
+    {
+        "index": 60,
+        "start_time": 138876,
+        "end_time": 141836,
+        "text": "and all smaller integers down to one."
+    },
+    {
+        "index": 61,
+        "start_time": 141836,
+        "end_time": 143263,
+        "text": "In our simple example,"
+    },
+    {
+        "index": 62,
+        "start_time": 143263,
+        "end_time": 144596,
+        "text": "the number of ways four people"
+    },
+    {
+        "index": 63,
+        "start_time": 144596,
+        "end_time": 146181,
+        "text": "can be arranged into chairs"
+    },
+    {
+        "index": 64,
+        "start_time": 146181,
+        "end_time": 148052,
+        "text": "is written as four factorial,"
+    },
+    {
+        "index": 65,
+        "start_time": 148052,
+        "end_time": 149975,
+        "text": "which equals 24."
+    },
+    {
+        "index": 66,
+        "start_time": 149975,
+        "end_time": 151808,
+        "text": "So let&#39;s go back to our deck."
+    },
+    {
+        "index": 67,
+        "start_time": 151808,
+        "end_time": 153598,
+        "text": "Just as there were four factorial ways"
+    },
+    {
+        "index": 68,
+        "start_time": 153598,
+        "end_time": 155431,
+        "text": "of arranging four people,"
+    },
+    {
+        "index": 69,
+        "start_time": 155431,
+        "end_time": 157598,
+        "text": "there are 52 factorial ways"
+    },
+    {
+        "index": 70,
+        "start_time": 157598,
+        "end_time": 160014,
+        "text": "of arranging 52 cards."
+    },
+    {
+        "index": 71,
+        "start_time": 160014,
+        "end_time": 163066,
+        "text": "Fortunately, we don&#39;t have to calculate this by hand."
+    },
+    {
+        "index": 72,
+        "start_time": 163066,
+        "end_time": 165014,
+        "text": "Just enter the function into a calculator,"
+    },
+    {
+        "index": 73,
+        "start_time": 165014,
+        "end_time": 166431,
+        "text": "and it will show you that the number of"
+    },
+    {
+        "index": 74,
+        "start_time": 166431,
+        "end_time": 167931,
+        "text": "possible arrangements is"
+    },
+    {
+        "index": 75,
+        "start_time": 167931,
+        "end_time": 172368,
+        "text": "8.07 x 10^67,"
+    },
+    {
+        "index": 76,
+        "start_time": 172368,
+        "end_time": 175788,
+        "text": "or roughly eight followed by 67 zeros."
+    },
+    {
+        "index": 77,
+        "start_time": 175788,
+        "end_time": 177458,
+        "text": "Just how big is this number?"
+    },
+    {
+        "index": 78,
+        "start_time": 177458,
+        "end_time": 179708,
+        "text": "Well, if a new permutation of 52 cards"
+    },
+    {
+        "index": 79,
+        "start_time": 179708,
+        "end_time": 181752,
+        "text": "were written out every second"
+    },
+    {
+        "index": 80,
+        "start_time": 181752,
+        "end_time": 184378,
+        "text": "starting 13.8 billion years ago,"
+    },
+    {
+        "index": 81,
+        "start_time": 184378,
+        "end_time": 186344,
+        "text": "when the Big Bang is thought to have occurred,"
+    },
+    {
+        "index": 82,
+        "start_time": 186344,
+        "end_time": 189094,
+        "text": "the writing would still be continuing today"
+    },
+    {
+        "index": 83,
+        "start_time": 189094,
+        "end_time": 191676,
+        "text": "and for millions of years to come."
+    },
+    {
+        "index": 84,
+        "start_time": 191676,
+        "end_time": 193426,
+        "text": "In fact, there are more possible"
+    },
+    {
+        "index": 85,
+        "start_time": 193426,
+        "end_time": 196345,
+        "text": "ways to arrange this simple deck of cards"
+    },
+    {
+        "index": 86,
+        "start_time": 196345,
+        "end_time": 198593,
+        "text": "than there are atoms on Earth."
+    },
+    {
+        "index": 87,
+        "start_time": 198593,
+        "end_time": 200759,
+        "text": "So the next time it&#39;s your turn to shuffle,"
+    },
+    {
+        "index": 88,
+        "start_time": 200759,
+        "end_time": 202093,
+        "text": "take a moment to remember"
+    },
+    {
+        "index": 89,
+        "start_time": 202093,
+        "end_time": 203174,
+        "text": "that you&#39;re holding something that"
+    },
+    {
+        "index": 90,
+        "start_time": 203174,
+        "end_time": 205235,
+        "text": "may have never before existed"
+    },
+    {
+        "index": 91,
+        "start_time": 205235,
+        "end_time": 207344,
+        "text": "and may never exist again."
+    }
+]

@@ -1,0 +1,500 @@
+[
+    {
+        "index": 1,
+        "start_time": 7080,
+        "end_time": 10586,
+        "text": "Earthquakes have always been \na terrifying phenomenon,"
+    },
+    {
+        "index": 2,
+        "start_time": 10586,
+        "end_time": 14051,
+        "text": "and they&#39;ve become more deadly\nas our cities have grown,"
+    },
+    {
+        "index": 3,
+        "start_time": 14051,
+        "end_time": 17720,
+        "text": "with collapsing buildings posing\none of the largest risks."
+    },
+    {
+        "index": 4,
+        "start_time": 17720,
+        "end_time": 20279,
+        "text": "Why do buildings collapse \nin an earthquake,"
+    },
+    {
+        "index": 5,
+        "start_time": 20279,
+        "end_time": 22756,
+        "text": "and how can it be prevented?"
+    },
+    {
+        "index": 6,
+        "start_time": 22756,
+        "end_time": 24994,
+        "text": "If you&#39;ve watched a lot of disaster films,"
+    },
+    {
+        "index": 7,
+        "start_time": 24994,
+        "end_time": 26101,
+        "text": "you might have the idea"
+    },
+    {
+        "index": 8,
+        "start_time": 26101,
+        "end_time": 29573,
+        "text": "that building collapse is caused directly\nby the ground beneath them"
+    },
+    {
+        "index": 9,
+        "start_time": 29573,
+        "end_time": 32977,
+        "text": "shaking violently,\nor even splitting apart."
+    },
+    {
+        "index": 10,
+        "start_time": 32977,
+        "end_time": 35298,
+        "text": "But that&#39;s not really how it works."
+    },
+    {
+        "index": 11,
+        "start_time": 35298,
+        "end_time": 39374,
+        "text": "For one thing, most buildings\nare not located right on a fault line,"
+    },
+    {
+        "index": 12,
+        "start_time": 39374,
+        "end_time": 43966,
+        "text": "and the shifting tectonic plates \ngo much deeper than building foundations."
+    },
+    {
+        "index": 13,
+        "start_time": 43966,
+        "end_time": 46316,
+        "text": "So what&#39;s actually going on?"
+    },
+    {
+        "index": 14,
+        "start_time": 46316,
+        "end_time": 50077,
+        "text": "In fact, the reality of earthquakes\nand their effect on buildings"
+    },
+    {
+        "index": 15,
+        "start_time": 50077,
+        "end_time": 52065,
+        "text": "is a bit more complicated."
+    },
+    {
+        "index": 16,
+        "start_time": 52065,
+        "end_time": 55282,
+        "text": "To make sense of it,\narchitects and engineers use models,"
+    },
+    {
+        "index": 17,
+        "start_time": 55282,
+        "end_time": 59778,
+        "text": "like a two-dimensional array of lines\nrepresenting columns and beams,"
+    },
+    {
+        "index": 18,
+        "start_time": 59778,
+        "end_time": 65432,
+        "text": "or a single line lollipop with circles \nrepresenting the building&#39;s mass."
+    },
+    {
+        "index": 19,
+        "start_time": 65432,
+        "end_time": 69280,
+        "text": "Even when simplified to this degree,\nthese models can be quite useful,"
+    },
+    {
+        "index": 20,
+        "start_time": 69280,
+        "end_time": 72009,
+        "text": "as predicting a building&#39;s response\nto an earthquake"
+    },
+    {
+        "index": 21,
+        "start_time": 72009,
+        "end_time": 74553,
+        "text": "is primarily a matter of physics."
+    },
+    {
+        "index": 22,
+        "start_time": 74553,
+        "end_time": 76868,
+        "text": "Most collapses that occur \nduring earthquakes"
+    },
+    {
+        "index": 23,
+        "start_time": 76868,
+        "end_time": 80332,
+        "text": "aren&#39;t actually caused \nby the earthquake itself."
+    },
+    {
+        "index": 24,
+        "start_time": 80332,
+        "end_time": 83259,
+        "text": "Instead, when the ground moves\nbeneath a building,"
+    },
+    {
+        "index": 25,
+        "start_time": 83259,
+        "end_time": 86284,
+        "text": "it displaces the foundation \nand lower levels,"
+    },
+    {
+        "index": 26,
+        "start_time": 86284,
+        "end_time": 88975,
+        "text": "sending shock waves through \nthe rest of the structure"
+    },
+    {
+        "index": 27,
+        "start_time": 88975,
+        "end_time": 91834,
+        "text": "and causing it to vibrate back and forth."
+    },
+    {
+        "index": 28,
+        "start_time": 91834,
+        "end_time": 96136,
+        "text": "The strength of this oscillation\ndepends on two main factors:"
+    },
+    {
+        "index": 29,
+        "start_time": 96136,
+        "end_time": 99196,
+        "text": "the building&#39;s mass, \nwhich is concentrated at the bottom,"
+    },
+    {
+        "index": 30,
+        "start_time": 99196,
+        "end_time": 100568,
+        "text": "and its stiffness,"
+    },
+    {
+        "index": 31,
+        "start_time": 100568,
+        "end_time": 104595,
+        "text": "which is the force required \nto cause a certain amount of displacement."
+    },
+    {
+        "index": 32,
+        "start_time": 104595,
+        "end_time": 108155,
+        "text": "Along with the building&#39;s material type\nand the shape of its columns,"
+    },
+    {
+        "index": 33,
+        "start_time": 108155,
+        "end_time": 111207,
+        "text": "stiffness is largely a matter of height."
+    },
+    {
+        "index": 34,
+        "start_time": 111207,
+        "end_time": 114105,
+        "text": "Shorter buildings tend to be stiffer\nand shift less,"
+    },
+    {
+        "index": 35,
+        "start_time": 114105,
+        "end_time": 117347,
+        "text": "while taller buildings are more flexible."
+    },
+    {
+        "index": 36,
+        "start_time": 117347,
+        "end_time": 120557,
+        "text": "You might think that the solution\nis to build shorter buildlings"
+    },
+    {
+        "index": 37,
+        "start_time": 120557,
+        "end_time": 122843,
+        "text": "so that they shift as little as possible."
+    },
+    {
+        "index": 38,
+        "start_time": 122843,
+        "end_time": 128700,
+        "text": "But the 1985 Mexico City earthquake is\na good example of why that&#39;s not the case."
+    },
+    {
+        "index": 39,
+        "start_time": 128700,
+        "end_time": 129812,
+        "text": "Durng the quake,"
+    },
+    {
+        "index": 40,
+        "start_time": 129812,
+        "end_time": 134022,
+        "text": "many buildings between six \nand fifteen stories tall collapsed."
+    },
+    {
+        "index": 41,
+        "start_time": 134022,
+        "end_time": 137999,
+        "text": "What&#39;s strange is that while shorter\nbuildings nearby did keep standing,"
+    },
+    {
+        "index": 42,
+        "start_time": 137999,
+        "end_time": 142405,
+        "text": "buildings taller than fifteen stories\nwere also less damaged,"
+    },
+    {
+        "index": 43,
+        "start_time": 142405,
+        "end_time": 144555,
+        "text": "and the midsized buildings that collapsed"
+    },
+    {
+        "index": 44,
+        "start_time": 144555,
+        "end_time": 148730,
+        "text": "were observed shaking far more violently\nthan the earthquake itself."
+    },
+    {
+        "index": 45,
+        "start_time": 148730,
+        "end_time": 150590,
+        "text": "How is that possible?"
+    },
+    {
+        "index": 46,
+        "start_time": 150590,
+        "end_time": 154322,
+        "text": "The answer has to do with something\nknown as natural frequency."
+    },
+    {
+        "index": 47,
+        "start_time": 154322,
+        "end_time": 155988,
+        "text": "In an oscillating system,"
+    },
+    {
+        "index": 48,
+        "start_time": 155988,
+        "end_time": 161581,
+        "text": "the frequency is how many back and forth\nmovement cycles occur within a second."
+    },
+    {
+        "index": 49,
+        "start_time": 161581,
+        "end_time": 163731,
+        "text": "This is the inverse of the period,"
+    },
+    {
+        "index": 50,
+        "start_time": 163731,
+        "end_time": 167520,
+        "text": "which is how many seconds it takes\nto complete one cycle."
+    },
+    {
+        "index": 51,
+        "start_time": 167520,
+        "end_time": 171763,
+        "text": "And a building&#39;s natural frequency,\ndetermined by its mass and stiffness,"
+    },
+    {
+        "index": 52,
+        "start_time": 171763,
+        "end_time": 175330,
+        "text": "is the frequency that its vibrations \nwill tend to cluster around."
+    },
+    {
+        "index": 53,
+        "start_time": 175330,
+        "end_time": 180277,
+        "text": "Increasing a building&#39;s mass slows down\nthe rate at which it naturally vibrates,"
+    },
+    {
+        "index": 54,
+        "start_time": 180277,
+        "end_time": 183835,
+        "text": "while increasing stiffness\nmakes it vibrate faster."
+    },
+    {
+        "index": 55,
+        "start_time": 183835,
+        "end_time": 186192,
+        "text": "So in the equation representing\ntheir relationship,"
+    },
+    {
+        "index": 56,
+        "start_time": 186192,
+        "end_time": 189911,
+        "text": "stiffness and natural frequency\nare proportional to one another,"
+    },
+    {
+        "index": 57,
+        "start_time": 189911,
+        "end_time": 194184,
+        "text": "while mass and natural frequency\nare inversely proportional."
+    },
+    {
+        "index": 58,
+        "start_time": 194184,
+        "end_time": 197658,
+        "text": "What happened in Mexico City\nwas an effect called resonance,"
+    },
+    {
+        "index": 59,
+        "start_time": 197658,
+        "end_time": 200198,
+        "text": "where the frequency \nof the earthquake&#39;s seismic waves"
+    },
+    {
+        "index": 60,
+        "start_time": 200198,
+        "end_time": 204535,
+        "text": "happen to match the natural frequency\nof the midsized buildings."
+    },
+    {
+        "index": 61,
+        "start_time": 204535,
+        "end_time": 207456,
+        "text": "Like a well-timed push on a swingset,"
+    },
+    {
+        "index": 62,
+        "start_time": 207456,
+        "end_time": 211211,
+        "text": "each additional seismic wave\namplified the building&#39;s vibration"
+    },
+    {
+        "index": 63,
+        "start_time": 211211,
+        "end_time": 213052,
+        "text": "in its current direction,"
+    },
+    {
+        "index": 64,
+        "start_time": 213052,
+        "end_time": 216616,
+        "text": "causing it to swing even further back,\nand so on,"
+    },
+    {
+        "index": 65,
+        "start_time": 216616,
+        "end_time": 221303,
+        "text": "eventually reaching a far greater extent\nthan the initial displacement."
+    },
+    {
+        "index": 66,
+        "start_time": 221303,
+        "end_time": 224685,
+        "text": "Today, engineers work \nwith geologists and seismologists"
+    },
+    {
+        "index": 67,
+        "start_time": 224685,
+        "end_time": 228702,
+        "text": "to predict the frequency \nof earthquake motions at building sites"
+    },
+    {
+        "index": 68,
+        "start_time": 228702,
+        "end_time": 231626,
+        "text": "in order to prevent \nresonance-induced collapses,"
+    },
+    {
+        "index": 69,
+        "start_time": 231626,
+        "end_time": 235023,
+        "text": "taking into account factors\nsuch as soil type and fault type,"
+    },
+    {
+        "index": 70,
+        "start_time": 235023,
+        "end_time": 237947,
+        "text": "as well as data from previous quakes."
+    },
+    {
+        "index": 71,
+        "start_time": 237947,
+        "end_time": 240997,
+        "text": "Low frequencies of motion \nwill cause more damage to taller"
+    },
+    {
+        "index": 72,
+        "start_time": 240997,
+        "end_time": 242865,
+        "text": "and more flexible buildings,"
+    },
+    {
+        "index": 73,
+        "start_time": 242865,
+        "end_time": 245789,
+        "text": "while high frequencies of motion\npose more threat"
+    },
+    {
+        "index": 74,
+        "start_time": 245789,
+        "end_time": 248553,
+        "text": "to structures that \nare shorter and stiffer."
+    },
+    {
+        "index": 75,
+        "start_time": 248553,
+        "end_time": 251316,
+        "text": "Engineers have also devised ways\nto abosrb shocks"
+    },
+    {
+        "index": 76,
+        "start_time": 251316,
+        "end_time": 254947,
+        "text": "and limit deformation\nusing innovative systems."
+    },
+    {
+        "index": 77,
+        "start_time": 254947,
+        "end_time": 257423,
+        "text": "Base isolation uses flexible layers"
+    },
+    {
+        "index": 78,
+        "start_time": 257423,
+        "end_time": 261346,
+        "text": "to isolate the foundation&#39;s displacement\nfrom the rest of the building,"
+    },
+    {
+        "index": 79,
+        "start_time": 261346,
+        "end_time": 265225,
+        "text": "while tuned mass damper systems\ncancel out resonance"
+    },
+    {
+        "index": 80,
+        "start_time": 265225,
+        "end_time": 268536,
+        "text": "by oscillating out of phase\nwith the natural frequency"
+    },
+    {
+        "index": 81,
+        "start_time": 268536,
+        "end_time": 270303,
+        "text": "to reduce vibrations."
+    },
+    {
+        "index": 82,
+        "start_time": 270303,
+        "end_time": 273835,
+        "text": "In the end, it&#39;s not the sturdiest \nbuildings that will remain standing"
+    },
+    {
+        "index": 83,
+        "start_time": 273835,
+        "end_time": 275477,
+        "text": "but the smartest ones."
+    }
+]

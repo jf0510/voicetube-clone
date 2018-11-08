@@ -1,0 +1,554 @@
+[
+    {
+        "index": 1,
+        "start_time": 6525,
+        "end_time": 9349,
+        "text": "Think about all the things that need to happen"
+    },
+    {
+        "index": 2,
+        "start_time": 9349,
+        "end_time": 11776,
+        "text": "for a human settlement to thrive:"
+    },
+    {
+        "index": 3,
+        "start_time": 11776,
+        "end_time": 13174,
+        "text": "obtaining food,"
+    },
+    {
+        "index": 4,
+        "start_time": 13174,
+        "end_time": 14344,
+        "text": "building shelter,"
+    },
+    {
+        "index": 5,
+        "start_time": 14344,
+        "end_time": 16676,
+        "text": "raising children and more."
+    },
+    {
+        "index": 6,
+        "start_time": 16676,
+        "end_time": 18815,
+        "text": "There needs to be a way to divide resources,"
+    },
+    {
+        "index": 7,
+        "start_time": 18815,
+        "end_time": 20542,
+        "text": "organize major efforts"
+    },
+    {
+        "index": 8,
+        "start_time": 20542,
+        "end_time": 23111,
+        "text": "and distribute labor efficiently."
+    },
+    {
+        "index": 9,
+        "start_time": 23111,
+        "end_time": 26240,
+        "text": "Now imagine having to do this without any sort of planning"
+    },
+    {
+        "index": 10,
+        "start_time": 26240,
+        "end_time": 28455,
+        "text": "or higher level communication."
+    },
+    {
+        "index": 11,
+        "start_time": 28455,
+        "end_time": 30267,
+        "text": "Welcome to the ant colony."
+    },
+    {
+        "index": 12,
+        "start_time": 30267,
+        "end_time": 33564,
+        "text": "Ants have some of the most complex social organization"
+    },
+    {
+        "index": 13,
+        "start_time": 33564,
+        "end_time": 35319,
+        "text": "in the animal kingdom,"
+    },
+    {
+        "index": 14,
+        "start_time": 35319,
+        "end_time": 36639,
+        "text": "living in structured colonies"
+    },
+    {
+        "index": 15,
+        "start_time": 36639,
+        "end_time": 38697,
+        "text": "containing different types of members"
+    },
+    {
+        "index": 16,
+        "start_time": 38697,
+        "end_time": 40934,
+        "text": "who perform specific roles."
+    },
+    {
+        "index": 17,
+        "start_time": 40934,
+        "end_time": 44126,
+        "text": "But although this may sound similar to some human societies,"
+    },
+    {
+        "index": 18,
+        "start_time": 44126,
+        "end_time": 47966,
+        "text": "this organization doesn&#39;t arise from any higher level decisions,"
+    },
+    {
+        "index": 19,
+        "start_time": 47966,
+        "end_time": 51712,
+        "text": "but is part of a biologically programmed cycle."
+    },
+    {
+        "index": 20,
+        "start_time": 51712,
+        "end_time": 53305,
+        "text": "In many species,"
+    },
+    {
+        "index": 21,
+        "start_time": 53305,
+        "end_time": 56215,
+        "text": "all the winged males and winged virgin queens"
+    },
+    {
+        "index": 22,
+        "start_time": 56215,
+        "end_time": 58950,
+        "text": "from all the nearby colonies in the population"
+    },
+    {
+        "index": 23,
+        "start_time": 58950,
+        "end_time": 61253,
+        "text": "each leave from their different nests"
+    },
+    {
+        "index": 24,
+        "start_time": 61253,
+        "end_time": 63932,
+        "text": "and meet at a central place to mate,"
+    },
+    {
+        "index": 25,
+        "start_time": 63932,
+        "end_time": 67655,
+        "text": "using pheromones to guide each other to a breeding ground."
+    },
+    {
+        "index": 26,
+        "start_time": 67655,
+        "end_time": 70177,
+        "text": "After mating, the males die off,"
+    },
+    {
+        "index": 27,
+        "start_time": 70177,
+        "end_time": 73236,
+        "text": "while females try to establish a new colony."
+    },
+    {
+        "index": 28,
+        "start_time": 73236,
+        "end_time": 76349,
+        "text": "The few that are successful settle down in a suitable spot,"
+    },
+    {
+        "index": 29,
+        "start_time": 76349,
+        "end_time": 77739,
+        "text": "lose their wings,"
+    },
+    {
+        "index": 30,
+        "start_time": 77739,
+        "end_time": 79659,
+        "text": "and begin laying eggs,"
+    },
+    {
+        "index": 31,
+        "start_time": 79659,
+        "end_time": 85251,
+        "text": "selectively fertilizing some using stored sperm they&#39;ve saved up from mating."
+    },
+    {
+        "index": 32,
+        "start_time": 85253,
+        "end_time": 87980,
+        "text": "Fertilized eggs grow into female workers"
+    },
+    {
+        "index": 33,
+        "start_time": 87980,
+        "end_time": 90455,
+        "text": "who care for the queen and her eggs."
+    },
+    {
+        "index": 34,
+        "start_time": 90455,
+        "end_time": 91951,
+        "text": "They will then defend the colony"
+    },
+    {
+        "index": 35,
+        "start_time": 91951,
+        "end_time": 93652,
+        "text": "and forage for food,"
+    },
+    {
+        "index": 36,
+        "start_time": 93652,
+        "end_time": 96524,
+        "text": "while unfertilized eggs grow into males"
+    },
+    {
+        "index": 37,
+        "start_time": 96524,
+        "end_time": 100055,
+        "text": "whose only job is to wait until they are ready to leave the nest"
+    },
+    {
+        "index": 38,
+        "start_time": 100055,
+        "end_time": 102852,
+        "text": "and reproduce, beginning the cycle again."
+    },
+    {
+        "index": 39,
+        "start_time": 102852,
+        "end_time": 106241,
+        "text": "So how do worker ants decide what to do and when?"
+    },
+    {
+        "index": 40,
+        "start_time": 106241,
+        "end_time": 108054,
+        "text": "Well, they don&#39;t really."
+    },
+    {
+        "index": 41,
+        "start_time": 108054,
+        "end_time": 110813,
+        "text": "Although they have no methods of intentional communication,"
+    },
+    {
+        "index": 42,
+        "start_time": 110813,
+        "end_time": 113600,
+        "text": "individual ants do interact with one another"
+    },
+    {
+        "index": 43,
+        "start_time": 113600,
+        "end_time": 116850,
+        "text": "through touch, sound and chemical signals."
+    },
+    {
+        "index": 44,
+        "start_time": 116850,
+        "end_time": 119241,
+        "text": "These stimuli accomplish many things"
+    },
+    {
+        "index": 45,
+        "start_time": 119241,
+        "end_time": 122674,
+        "text": "from serving as an alarm to other ants if one is killed,"
+    },
+    {
+        "index": 46,
+        "start_time": 122674,
+        "end_time": 126778,
+        "text": "to signaling when a queen is nearing the end of her reproductive life."
+    },
+    {
+        "index": 47,
+        "start_time": 126778,
+        "end_time": 130673,
+        "text": "But one of the most impressive collective capabilities of an ant colony"
+    },
+    {
+        "index": 48,
+        "start_time": 130673,
+        "end_time": 134231,
+        "text": "is to thoroughly and efficiently explore large areas"
+    },
+    {
+        "index": 49,
+        "start_time": 134231,
+        "end_time": 136917,
+        "text": "without any predetermined plan."
+    },
+    {
+        "index": 50,
+        "start_time": 136917,
+        "end_time": 139815,
+        "text": "Most species of ants have little or no sense of sight"
+    },
+    {
+        "index": 51,
+        "start_time": 139815,
+        "end_time": 142613,
+        "text": "and can only smell things in their vicinity."
+    },
+    {
+        "index": 52,
+        "start_time": 142613,
+        "end_time": 144852,
+        "text": "Combined with their lack of high level coordination,"
+    },
+    {
+        "index": 53,
+        "start_time": 144852,
+        "end_time": 148024,
+        "text": "this would seem to make them terrible explorers,"
+    },
+    {
+        "index": 54,
+        "start_time": 148024,
+        "end_time": 149927,
+        "text": "but there is an amazingly simple way"
+    },
+    {
+        "index": 55,
+        "start_time": 149927,
+        "end_time": 152680,
+        "text": "that ants maximize their searching efficiency;"
+    },
+    {
+        "index": 56,
+        "start_time": 152680,
+        "end_time": 154358,
+        "text": "by changing their movement patterns"
+    },
+    {
+        "index": 57,
+        "start_time": 154358,
+        "end_time": 157099,
+        "text": "based on individual interactions."
+    },
+    {
+        "index": 58,
+        "start_time": 157099,
+        "end_time": 158567,
+        "text": "When two ants meet,"
+    },
+    {
+        "index": 59,
+        "start_time": 158567,
+        "end_time": 160913,
+        "text": "they sense each other by touching antennae."
+    },
+    {
+        "index": 60,
+        "start_time": 160913,
+        "end_time": 164652,
+        "text": "If there are many ants in a small area this will happen more often"
+    },
+    {
+        "index": 61,
+        "start_time": 164652,
+        "end_time": 166698,
+        "text": "causing them to respond by moving"
+    },
+    {
+        "index": 62,
+        "start_time": 166698,
+        "end_time": 171761,
+        "text": "in more convoluted, random paths in order to search more thoroughly."
+    },
+    {
+        "index": 63,
+        "start_time": 171761,
+        "end_time": 175757,
+        "text": "But in a larger area, with less ants, where such meetings happen less often,"
+    },
+    {
+        "index": 64,
+        "start_time": 175757,
+        "end_time": 179007,
+        "text": "they can walk in straight lines to cover more ground."
+    },
+    {
+        "index": 65,
+        "start_time": 179007,
+        "end_time": 181330,
+        "text": "While exploring their environment in this way,"
+    },
+    {
+        "index": 66,
+        "start_time": 181330,
+        "end_time": 183879,
+        "text": "an ant may come across any number of things,"
+    },
+    {
+        "index": 67,
+        "start_time": 183879,
+        "end_time": 186835,
+        "text": "from threats or enemies, to alternate nesting sites."
+    },
+    {
+        "index": 68,
+        "start_time": 186835,
+        "end_time": 191707,
+        "text": "And some species have another capability known as recruitment."
+    },
+    {
+        "index": 69,
+        "start_time": 191707,
+        "end_time": 194216,
+        "text": "When one of these ants happens to find food,"
+    },
+    {
+        "index": 70,
+        "start_time": 194216,
+        "end_time": 198266,
+        "text": "it will return with it, marking its path with a chemical scent."
+    },
+    {
+        "index": 71,
+        "start_time": 198266,
+        "end_time": 200863,
+        "text": "Other ants will then follow this pheromone trail,"
+    },
+    {
+        "index": 72,
+        "start_time": 200863,
+        "end_time": 204516,
+        "text": "renewing it each time they manage to find food and return."
+    },
+    {
+        "index": 73,
+        "start_time": 204516,
+        "end_time": 206998,
+        "text": "Once the food in that spot is depleted,"
+    },
+    {
+        "index": 74,
+        "start_time": 206998,
+        "end_time": 209382,
+        "text": "the ants stop marking their return."
+    },
+    {
+        "index": 75,
+        "start_time": 209382,
+        "end_time": 213875,
+        "text": "The scent dissipates and ants are no longer attracted to that path."
+    },
+    {
+        "index": 76,
+        "start_time": 213875,
+        "end_time": 216772,
+        "text": "These seemingly crude methods of search and retrieval"
+    },
+    {
+        "index": 77,
+        "start_time": 216772,
+        "end_time": 220654,
+        "text": "are, in fact, so useful that they are applied in computer models"
+    },
+    {
+        "index": 78,
+        "start_time": 220654,
+        "end_time": 224813,
+        "text": "to obtain optimal solutions from decentralized elements,"
+    },
+    {
+        "index": 79,
+        "start_time": 224813,
+        "end_time": 228079,
+        "text": "working randomly and exchanging simple information."
+    },
+    {
+        "index": 80,
+        "start_time": 228079,
+        "end_time": 231134,
+        "text": "This has many theoretical and practical applications,"
+    },
+    {
+        "index": 81,
+        "start_time": 231134,
+        "end_time": 233967,
+        "text": "from solving the famous traveling salesman problem,"
+    },
+    {
+        "index": 82,
+        "start_time": 233967,
+        "end_time": 238177,
+        "text": "to scheduling computing tasks and optimizing Internet searches,"
+    },
+    {
+        "index": 83,
+        "start_time": 238177,
+        "end_time": 241072,
+        "text": "to enabling groups of robots to search a minefield"
+    },
+    {
+        "index": 84,
+        "start_time": 241072,
+        "end_time": 244807,
+        "text": "or a burning building collectively, without any central control."
+    },
+    {
+        "index": 85,
+        "start_time": 244807,
+        "end_time": 249160,
+        "text": "But you can observe these fascinatingly simple, yet effective, processes directly"
+    },
+    {
+        "index": 86,
+        "start_time": 249160,
+        "end_time": 250994,
+        "text": "through some simple experiments,"
+    },
+    {
+        "index": 87,
+        "start_time": 250994,
+        "end_time": 254717,
+        "text": "by allowing ants to enter empty spaces of various sizes"
+    },
+    {
+        "index": 88,
+        "start_time": 254717,
+        "end_time": 257135,
+        "text": "and paying attention to their behavior."
+    },
+    {
+        "index": 89,
+        "start_time": 257135,
+        "end_time": 261026,
+        "text": "Ants may not be able to vote, hold meetings or even make any plans,"
+    },
+    {
+        "index": 90,
+        "start_time": 261026,
+        "end_time": 263830,
+        "text": "but we humans may still be able to learn something"
+    },
+    {
+        "index": 91,
+        "start_time": 263830,
+        "end_time": 265938,
+        "text": "from the way that such simple creatures"
+    },
+    {
+        "index": 92,
+        "start_time": 265938,
+        "end_time": 270468,
+        "text": "are able to function so effectively in such complex ways."
+    }
+]

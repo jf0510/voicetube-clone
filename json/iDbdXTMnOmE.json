@@ -1,0 +1,470 @@
+[
+    {
+        "index": 1,
+        "start_time": 13962,
+        "end_time": 16132,
+        "text": "In the summer of 1997,"
+    },
+    {
+        "index": 2,
+        "start_time": 16132,
+        "end_time": 20611,
+        "text": "NASA&#39;s Pathfinder spacecraft landed \non the surface of Mars,"
+    },
+    {
+        "index": 3,
+        "start_time": 20611,
+        "end_time": 25241,
+        "text": "and began transmitting incredible,\niconic images back to Earth."
+    },
+    {
+        "index": 4,
+        "start_time": 25241,
+        "end_time": 28480,
+        "text": "But several days in, \nsomething went terribly wrong."
+    },
+    {
+        "index": 5,
+        "start_time": 28480,
+        "end_time": 30662,
+        "text": "The transmissions stopped."
+    },
+    {
+        "index": 6,
+        "start_time": 30662,
+        "end_time": 34232,
+        "text": "Pathfinder was, in effect, \nprocrastinating:"
+    },
+    {
+        "index": 7,
+        "start_time": 34232,
+        "end_time": 39691,
+        "text": "keeping itself fully occupied \nbut failing to do its most important work."
+    },
+    {
+        "index": 8,
+        "start_time": 39691,
+        "end_time": 40901,
+        "text": "What was going on?"
+    },
+    {
+        "index": 9,
+        "start_time": 40901,
+        "end_time": 44933,
+        "text": "There was a bug, it turned out, \nin its scheduler."
+    },
+    {
+        "index": 10,
+        "start_time": 44933,
+        "end_time": 48203,
+        "text": "Every operating system has something \ncalled the scheduler"
+    },
+    {
+        "index": 11,
+        "start_time": 48203,
+        "end_time": 52544,
+        "text": "that tells the CPU how long\nto work on each task before switching,"
+    },
+    {
+        "index": 12,
+        "start_time": 52544,
+        "end_time": 54414,
+        "text": "and what to switch to."
+    },
+    {
+        "index": 13,
+        "start_time": 54414,
+        "end_time": 58863,
+        "text": "Done right, computers move so fluidly \nbetween their various responsibilities,"
+    },
+    {
+        "index": 14,
+        "start_time": 58863,
+        "end_time": 62343,
+        "text": "they give the illusion \nof doing everything simultaneously."
+    },
+    {
+        "index": 15,
+        "start_time": 62343,
+        "end_time": 66446,
+        "text": "But we all know what happens\nwhen things go wrong."
+    },
+    {
+        "index": 16,
+        "start_time": 66446,
+        "end_time": 70462,
+        "text": "This should give us, if nothing else, \nsome measure of consolation."
+    },
+    {
+        "index": 17,
+        "start_time": 70462,
+        "end_time": 73555,
+        "text": "Even computers get overwhelmed sometimes."
+    },
+    {
+        "index": 18,
+        "start_time": 73555,
+        "end_time": 76636,
+        "text": "Maybe learning about the computer science \nof scheduling"
+    },
+    {
+        "index": 19,
+        "start_time": 76636,
+        "end_time": 81025,
+        "text": "can give us some ideas about our own\nhuman struggles with time."
+    },
+    {
+        "index": 20,
+        "start_time": 81025,
+        "end_time": 85644,
+        "text": "One of the first insights is that all \nthe time you spend prioritizing your work"
+    },
+    {
+        "index": 21,
+        "start_time": 85644,
+        "end_time": 88775,
+        "text": "is time you aren&#39;t spending doing it."
+    },
+    {
+        "index": 22,
+        "start_time": 88775,
+        "end_time": 93074,
+        "text": "For instance, let&#39;s say when you check \nyour inbox, you scan all the messages,"
+    },
+    {
+        "index": 23,
+        "start_time": 93074,
+        "end_time": 95374,
+        "text": "choosing which is the most important."
+    },
+    {
+        "index": 24,
+        "start_time": 95374,
+        "end_time": 97703,
+        "text": "Once you&#39;ve dealt with that one, \nyou repeat."
+    },
+    {
+        "index": 25,
+        "start_time": 97703,
+        "end_time": 100052,
+        "text": "Seems sensible, \nbut there&#39;s a problem here."
+    },
+    {
+        "index": 26,
+        "start_time": 100052,
+        "end_time": 103925,
+        "text": "This is what&#39;s known \nas a quadratic-time algorithm."
+    },
+    {
+        "index": 27,
+        "start_time": 103925,
+        "end_time": 109387,
+        "text": "With an inbox that&#39;s twice as\nfull, these passes will take twice as long"
+    },
+    {
+        "index": 28,
+        "start_time": 109387,
+        "end_time": 111875,
+        "text": "and you&#39;ll need to do \ntwice as many of them!"
+    },
+    {
+        "index": 29,
+        "start_time": 111875,
+        "end_time": 115085,
+        "text": "This means four times the work."
+    },
+    {
+        "index": 30,
+        "start_time": 115085,
+        "end_time": 117615,
+        "text": "The programmers \nof the operating system Linux"
+    },
+    {
+        "index": 31,
+        "start_time": 117615,
+        "end_time": 121273,
+        "text": "encountered a similar problem in 2003."
+    },
+    {
+        "index": 32,
+        "start_time": 121273,
+        "end_time": 125816,
+        "text": "Linux would rank every single \none of its tasks in order of importance,"
+    },
+    {
+        "index": 33,
+        "start_time": 125816,
+        "end_time": 130276,
+        "text": "and sometimes spent more time \nranking tasks than doing them."
+    },
+    {
+        "index": 34,
+        "start_time": 130276,
+        "end_time": 134606,
+        "text": "The programmers\u2019 counterintuitive solution\nwas to replace this full ranking"
+    },
+    {
+        "index": 35,
+        "start_time": 134606,
+        "end_time": 138107,
+        "text": "with a limited number \nof priority \u201cbuckets.\u201d"
+    },
+    {
+        "index": 36,
+        "start_time": 138107,
+        "end_time": 141287,
+        "text": "The system was less precise \nabout what to do next"
+    },
+    {
+        "index": 37,
+        "start_time": 141287,
+        "end_time": 146191,
+        "text": "but more than made up for it \nby spending more time making progress."
+    },
+    {
+        "index": 38,
+        "start_time": 146191,
+        "end_time": 150909,
+        "text": "So with your emails, insisting on always \ndoing the very most important thing first"
+    },
+    {
+        "index": 39,
+        "start_time": 150909,
+        "end_time": 152890,
+        "text": "could lead to a meltdown."
+    },
+    {
+        "index": 40,
+        "start_time": 152890,
+        "end_time": 155783,
+        "text": "Waking up to an inbox three times fuller \nthan normal"
+    },
+    {
+        "index": 41,
+        "start_time": 155783,
+        "end_time": 158967,
+        "text": "could take nine times longer to clear."
+    },
+    {
+        "index": 42,
+        "start_time": 158967,
+        "end_time": 163718,
+        "text": "You\u2019d be better off replying \nin chronological order, or even at random!"
+    },
+    {
+        "index": 43,
+        "start_time": 163718,
+        "end_time": 167886,
+        "text": "Surprisingly, sometimes giving up \non doing things in the perfect order"
+    },
+    {
+        "index": 44,
+        "start_time": 167886,
+        "end_time": 171037,
+        "text": "may be the key to getting them done."
+    },
+    {
+        "index": 45,
+        "start_time": 171037,
+        "end_time": 173866,
+        "text": "Another insight that emerges \nfrom computer scheduling"
+    },
+    {
+        "index": 46,
+        "start_time": 173866,
+        "end_time": 178638,
+        "text": "has to do with one of the most prevalent \nfeatures of modern life: interruptions."
+    },
+    {
+        "index": 47,
+        "start_time": 178638,
+        "end_time": 181509,
+        "text": "When a computer goes \nfrom one task to another,"
+    },
+    {
+        "index": 48,
+        "start_time": 181509,
+        "end_time": 184696,
+        "text": "it has to do what&#39;s called \na context switch,"
+    },
+    {
+        "index": 49,
+        "start_time": 184696,
+        "end_time": 187029,
+        "text": "bookmarking its place in one task,"
+    },
+    {
+        "index": 50,
+        "start_time": 187029,
+        "end_time": 191448,
+        "text": "moving old data out of its memory \nand new data in."
+    },
+    {
+        "index": 51,
+        "start_time": 191448,
+        "end_time": 194028,
+        "text": "Each of these actions comes at a cost."
+    },
+    {
+        "index": 52,
+        "start_time": 194028,
+        "end_time": 196858,
+        "text": "The insight here is that there\u2019s \na fundamental tradeoff"
+    },
+    {
+        "index": 53,
+        "start_time": 196858,
+        "end_time": 200029,
+        "text": "between productivity and responsiveness."
+    },
+    {
+        "index": 54,
+        "start_time": 200029,
+        "end_time": 203830,
+        "text": "Getting serious work done \nmeans minimizing context switches."
+    },
+    {
+        "index": 55,
+        "start_time": 203830,
+        "end_time": 208549,
+        "text": "But being responsive means reacting \nanytime something comes up."
+    },
+    {
+        "index": 56,
+        "start_time": 208549,
+        "end_time": 212401,
+        "text": "These two principles \nare fundamentally in tension."
+    },
+    {
+        "index": 57,
+        "start_time": 212401,
+        "end_time": 214899,
+        "text": "Recognizing this tension allows us"
+    },
+    {
+        "index": 58,
+        "start_time": 214899,
+        "end_time": 217880,
+        "text": "to decide where \nwe want to strike that balance."
+    },
+    {
+        "index": 59,
+        "start_time": 217880,
+        "end_time": 221639,
+        "text": "The obvious solution \nis to minimize interruptions."
+    },
+    {
+        "index": 60,
+        "start_time": 221639,
+        "end_time": 225242,
+        "text": "The less obvious one is to group them."
+    },
+    {
+        "index": 61,
+        "start_time": 225242,
+        "end_time": 228760,
+        "text": "If no notification \nor email requires a response"
+    },
+    {
+        "index": 62,
+        "start_time": 228760,
+        "end_time": 232011,
+        "text": "more urgently than once an hour, say,"
+    },
+    {
+        "index": 63,
+        "start_time": 232011,
+        "end_time": 236590,
+        "text": "then that\u2019s exactly how often \nyou should check them. No more."
+    },
+    {
+        "index": 64,
+        "start_time": 236590,
+        "end_time": 242029,
+        "text": "In computer science, this idea goes by \nthe name of interrupt coalescing."
+    },
+    {
+        "index": 65,
+        "start_time": 242029,
+        "end_time": 244631,
+        "text": "Rather than dealing with \nthings as they come up \u2013"
+    },
+    {
+        "index": 66,
+        "start_time": 244631,
+        "end_time": 245981,
+        "text": "Oh, the mouse was moved?"
+    },
+    {
+        "index": 67,
+        "start_time": 245981,
+        "end_time": 247071,
+        "text": "A key was pressed?"
+    },
+    {
+        "index": 68,
+        "start_time": 247071,
+        "end_time": 248792,
+        "text": "More of that file downloaded? \u2013"
+    },
+    {
+        "index": 69,
+        "start_time": 248792,
+        "end_time": 251549,
+        "text": "the system groups these \ninterruptions together"
+    },
+    {
+        "index": 70,
+        "start_time": 251549,
+        "end_time": 254721,
+        "text": "based on how long they can afford to wait."
+    },
+    {
+        "index": 71,
+        "start_time": 254721,
+        "end_time": 257648,
+        "text": "In 2013, interrupt coalescing"
+    },
+    {
+        "index": 72,
+        "start_time": 257648,
+        "end_time": 261942,
+        "text": "triggered a massive improvement \nin laptop battery life."
+    },
+    {
+        "index": 73,
+        "start_time": 261942,
+        "end_time": 266753,
+        "text": "This is because deferring interruptions \nlets a system check everything at once,"
+    },
+    {
+        "index": 74,
+        "start_time": 266753,
+        "end_time": 270623,
+        "text": "then quickly re-enter a low-power state."
+    },
+    {
+        "index": 75,
+        "start_time": 270623,
+        "end_time": 273212,
+        "text": "As with computers, so it is with us."
+    },
+    {
+        "index": 76,
+        "start_time": 273212,
+        "end_time": 275641,
+        "text": "Perhaps adopting a similar approach"
+    },
+    {
+        "index": 77,
+        "start_time": 275641,
+        "end_time": 279471,
+        "text": "might allow us users \nto reclaim our own attention,"
+    },
+    {
+        "index": 78,
+        "start_time": 279471,
+        "end_time": 284644,
+        "text": "and give us back one of the things\nthat feels so rare in modern life: rest."
+    }
+]

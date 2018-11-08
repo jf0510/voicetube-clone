@@ -1,0 +1,488 @@
+[
+    {
+        "index": 1,
+        "start_time": 6481,
+        "end_time": 11020,
+        "text": "What if I told you there were trillions\nof tiny bacteria all around you?"
+    },
+    {
+        "index": 2,
+        "start_time": 11044,
+        "end_time": 12499,
+        "text": "It&#39;s true."
+    },
+    {
+        "index": 3,
+        "start_time": 12523,
+        "end_time": 16598,
+        "text": "Microorganisms called bacteria\nwere some of the first life forms"
+    },
+    {
+        "index": 4,
+        "start_time": 16622,
+        "end_time": 17764,
+        "text": "to appear on Earth."
+    },
+    {
+        "index": 5,
+        "start_time": 18526,
+        "end_time": 20833,
+        "text": "Though they consist of only a single cell,"
+    },
+    {
+        "index": 6,
+        "start_time": 20857,
+        "end_time": 25426,
+        "text": "their total biomass is greater than\nthat of all plants and animals combined."
+    },
+    {
+        "index": 7,
+        "start_time": 26668,
+        "end_time": 28618,
+        "text": "And they live virtually everywhere:"
+    },
+    {
+        "index": 8,
+        "start_time": 28642,
+        "end_time": 30995,
+        "text": "on the ground, in the water,"
+    },
+    {
+        "index": 9,
+        "start_time": 31019,
+        "end_time": 33531,
+        "text": "on your kitchen table, on your skin,"
+    },
+    {
+        "index": 10,
+        "start_time": 33555,
+        "end_time": 35210,
+        "text": "even inside you."
+    },
+    {
+        "index": 11,
+        "start_time": 35945,
+        "end_time": 38252,
+        "text": "Don&#39;t reach for the panic button just yet."
+    },
+    {
+        "index": 12,
+        "start_time": 38276,
+        "end_time": 42072,
+        "text": "Although you have 10 times\nmore bacterial cells inside you"
+    },
+    {
+        "index": 13,
+        "start_time": 42096,
+        "end_time": 43993,
+        "text": "than your body has human cells,"
+    },
+    {
+        "index": 14,
+        "start_time": 44018,
+        "end_time": 48081,
+        "text": "many of these bacteria\nare harmless or even beneficial,"
+    },
+    {
+        "index": 15,
+        "start_time": 48106,
+        "end_time": 50246,
+        "text": "helping digestion and immunity."
+    },
+    {
+        "index": 16,
+        "start_time": 51086,
+        "end_time": 54871,
+        "text": "But there are a few bad apples\nthat can cause harmful infections,"
+    },
+    {
+        "index": 17,
+        "start_time": 54895,
+        "end_time": 57942,
+        "text": "from minor inconveniences\nto deadly epidemics."
+    },
+    {
+        "index": 18,
+        "start_time": 58717,
+        "end_time": 64120,
+        "text": "Fortunately, there are amazing medicines\ndesigned to fight bacterial infections."
+    },
+    {
+        "index": 19,
+        "start_time": 64144,
+        "end_time": 68020,
+        "text": "Synthesized from chemicals or\noccurring naturally in things like mold,"
+    },
+    {
+        "index": 20,
+        "start_time": 68044,
+        "end_time": 71091,
+        "text": "these antibiotics kill\nor neutralize bacteria"
+    },
+    {
+        "index": 21,
+        "start_time": 71115,
+        "end_time": 73951,
+        "text": "by interrupting cell wall synthesis"
+    },
+    {
+        "index": 22,
+        "start_time": 73975,
+        "end_time": 78031,
+        "text": "or interfering with vital processes\nlike protein synthesis,"
+    },
+    {
+        "index": 23,
+        "start_time": 78055,
+        "end_time": 80369,
+        "text": "all while leaving human cells unharmed."
+    },
+    {
+        "index": 24,
+        "start_time": 81131,
+        "end_time": 84430,
+        "text": "The deployment of antibiotics\nover the course of the 20th century"
+    },
+    {
+        "index": 25,
+        "start_time": 84454,
+        "end_time": 87950,
+        "text": "has rendered many previously\ndangerous diseases easily treatable."
+    },
+    {
+        "index": 26,
+        "start_time": 87974,
+        "end_time": 90847,
+        "text": "But today, more and more\nof our antibiotics"
+    },
+    {
+        "index": 27,
+        "start_time": 90871,
+        "end_time": 92963,
+        "text": "are becoming less effective."
+    },
+    {
+        "index": 28,
+        "start_time": 92987,
+        "end_time": 95564,
+        "text": "Did something go wrong\nto make them stop working?"
+    },
+    {
+        "index": 29,
+        "start_time": 95588,
+        "end_time": 100423,
+        "text": "The problem is not with the antibiotics\nbut the bacteria they were made to fight,"
+    },
+    {
+        "index": 30,
+        "start_time": 100447,
+        "end_time": 103797,
+        "text": "and the reason lies in Darwin&#39;s theory\nof natural selection."
+    },
+    {
+        "index": 31,
+        "start_time": 104587,
+        "end_time": 106238,
+        "text": "Just like any other organisms,"
+    },
+    {
+        "index": 32,
+        "start_time": 106262,
+        "end_time": 109596,
+        "text": "individual bacteria\ncan undergo random mutations."
+    },
+    {
+        "index": 33,
+        "start_time": 109937,
+        "end_time": 113211,
+        "text": "Many of these mutations\nare harmful or useless,"
+    },
+    {
+        "index": 34,
+        "start_time": 113235,
+        "end_time": 116584,
+        "text": "but every now and then,\none comes along that gives its organism"
+    },
+    {
+        "index": 35,
+        "start_time": 116608,
+        "end_time": 118211,
+        "text": "an edge in survival."
+    },
+    {
+        "index": 36,
+        "start_time": 118488,
+        "end_time": 119870,
+        "text": "And for a bacterium,"
+    },
+    {
+        "index": 37,
+        "start_time": 119895,
+        "end_time": 122911,
+        "text": "a mutation making it resistant\nto a certain antibiotic"
+    },
+    {
+        "index": 38,
+        "start_time": 122936,
+        "end_time": 124364,
+        "text": "gives quite the edge."
+    },
+    {
+        "index": 39,
+        "start_time": 125208,
+        "end_time": 127976,
+        "text": "As the non-resistant bacteria\nare killed off,"
+    },
+    {
+        "index": 40,
+        "start_time": 128000,
+        "end_time": 131350,
+        "text": "which happens especially quickly\nin antibiotic-rich environments,"
+    },
+    {
+        "index": 41,
+        "start_time": 131374,
+        "end_time": 132474,
+        "text": "like hospitals,"
+    },
+    {
+        "index": 42,
+        "start_time": 132520,
+        "end_time": 135715,
+        "text": "there is more room and resources\nfor the resistant ones to thrive,"
+    },
+    {
+        "index": 43,
+        "start_time": 135740,
+        "end_time": 139573,
+        "text": "passing along only the mutated genes\nthat help them do so."
+    },
+    {
+        "index": 44,
+        "start_time": 139597,
+        "end_time": 141905,
+        "text": "Reproduction\nisn&#39;t the only way to do this."
+    },
+    {
+        "index": 45,
+        "start_time": 142580,
+        "end_time": 146572,
+        "text": "Some can release their DNA upon death\nto be picked up by other bacteria,"
+    },
+    {
+        "index": 46,
+        "start_time": 146596,
+        "end_time": 149158,
+        "text": "while others use a method\ncalled conjugation,"
+    },
+    {
+        "index": 47,
+        "start_time": 149182,
+        "end_time": 152107,
+        "text": "connecting through pili\nto share their genes."
+    },
+    {
+        "index": 48,
+        "start_time": 152131,
+        "end_time": 154833,
+        "text": "Over time, the resistant\ngenes proliferate,"
+    },
+    {
+        "index": 49,
+        "start_time": 154857,
+        "end_time": 157837,
+        "text": "creating entire strains\nof resistant super bacteria."
+    },
+    {
+        "index": 50,
+        "start_time": 159127,
+        "end_time": 162561,
+        "text": "So how much time do we have\nbefore these superbugs take over?"
+    },
+    {
+        "index": 51,
+        "start_time": 163466,
+        "end_time": 165823,
+        "text": "Well, in some bacteria,\nit&#39;s already happened."
+    },
+    {
+        "index": 52,
+        "start_time": 166989,
+        "end_time": 170352,
+        "text": "For instance, some strands\nof staphylococcus aureus,"
+    },
+    {
+        "index": 53,
+        "start_time": 170376,
+        "end_time": 174157,
+        "text": "which causes everything from\nskin infections to pneumonia and sepsis,"
+    },
+    {
+        "index": 54,
+        "start_time": 174181,
+        "end_time": 176209,
+        "text": "have developed into MRSA,"
+    },
+    {
+        "index": 55,
+        "start_time": 176233,
+        "end_time": 179100,
+        "text": "becoming resistant\nto beta-lactam antibiotics,"
+    },
+    {
+        "index": 56,
+        "start_time": 179124,
+        "end_time": 181581,
+        "text": "like penicillin, methicillin,\nand oxacillin."
+    },
+    {
+        "index": 57,
+        "start_time": 182573,
+        "end_time": 187377,
+        "text": "Thanks to a gene that replaces the protein\nbeta-lactams normally target and bind to,"
+    },
+    {
+        "index": 58,
+        "start_time": 187401,
+        "end_time": 190836,
+        "text": "MRSA can keep making\nits cell walls unimpeded."
+    },
+    {
+        "index": 59,
+        "start_time": 190860,
+        "end_time": 193885,
+        "text": "Other super bacteria, like salmonella,"
+    },
+    {
+        "index": 60,
+        "start_time": 193909,
+        "end_time": 197055,
+        "text": "even sometimes produce enzymes\nlike beta-lactams"
+    },
+    {
+        "index": 61,
+        "start_time": 197079,
+        "end_time": 200678,
+        "text": "that break down antibiotic attackers\nbefore they can do any damage,"
+    },
+    {
+        "index": 62,
+        "start_time": 200702,
+        "end_time": 203415,
+        "text": "and E. coli, a diverse group of bacteria"
+    },
+    {
+        "index": 63,
+        "start_time": 203439,
+        "end_time": 206827,
+        "text": "that contains strains that cause\ndiarrhea and kidney failure,"
+    },
+    {
+        "index": 64,
+        "start_time": 206851,
+        "end_time": 208963,
+        "text": "can prevent the function of antibiotics,"
+    },
+    {
+        "index": 65,
+        "start_time": 208987,
+        "end_time": 211381,
+        "text": "like quinolones, by actively\nbooting any invaders"
+    },
+    {
+        "index": 66,
+        "start_time": 211405,
+        "end_time": 213214,
+        "text": "that manage to enter the cell."
+    },
+    {
+        "index": 67,
+        "start_time": 214566,
+        "end_time": 216368,
+        "text": "But there is good news."
+    },
+    {
+        "index": 68,
+        "start_time": 216392,
+        "end_time": 219587,
+        "text": "Scientists are working to stay\none step ahead of the bacteria,"
+    },
+    {
+        "index": 69,
+        "start_time": 219611,
+        "end_time": 221705,
+        "text": "and although development\nof new antibiotics"
+    },
+    {
+        "index": 70,
+        "start_time": 221729,
+        "end_time": 223373,
+        "text": "has slowed in recent years,"
+    },
+    {
+        "index": 71,
+        "start_time": 223397,
+        "end_time": 227626,
+        "text": "the World Health Organization has made it\na priority to develop novel treatments."
+    },
+    {
+        "index": 72,
+        "start_time": 228487,
+        "end_time": 231249,
+        "text": "Other scientists are investigating\nalternate solutions,"
+    },
+    {
+        "index": 73,
+        "start_time": 231273,
+        "end_time": 234912,
+        "text": "such as phage therapy\nor using vaccines to prevent infections."
+    },
+    {
+        "index": 74,
+        "start_time": 235784,
+        "end_time": 239597,
+        "text": "Most importantly, curbing the excessive\nand unnecessary use of antibiotics,"
+    },
+    {
+        "index": 75,
+        "start_time": 239621,
+        "end_time": 242660,
+        "text": "such as for minor infections\nthat can resolve on their own,"
+    },
+    {
+        "index": 76,
+        "start_time": 242684,
+        "end_time": 246320,
+        "text": "as well as changing medical practice\nto prevent hospital infections,"
+    },
+    {
+        "index": 77,
+        "start_time": 246344,
+        "end_time": 247717,
+        "text": "can have a major impact"
+    },
+    {
+        "index": 78,
+        "start_time": 247741,
+        "end_time": 250265,
+        "text": "by keeping more\nnon-resistant bacteria alive"
+    },
+    {
+        "index": 79,
+        "start_time": 250289,
+        "end_time": 252320,
+        "text": "as competition for resistant strains."
+    },
+    {
+        "index": 80,
+        "start_time": 253082,
+        "end_time": 256815,
+        "text": "In the war against super bacteria,\ndeescalation may sometimes work better"
+    },
+    {
+        "index": 81,
+        "start_time": 256839,
+        "end_time": 258935,
+        "text": "than an evolutionary arms race."
+    }
+]

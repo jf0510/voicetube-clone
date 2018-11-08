@@ -1,0 +1,482 @@
+[
+    {
+        "index": 1,
+        "start_time": 0,
+        "end_time": 7000,
+        "text": "Translator: Jessica Ruby\nReviewer: Caroline Cristal"
+    },
+    {
+        "index": 2,
+        "start_time": 6550,
+        "end_time": 7996,
+        "text": "You may not realize it,"
+    },
+    {
+        "index": 3,
+        "start_time": 7996,
+        "end_time": 10081,
+        "text": "but from the moment you got out of bed today"
+    },
+    {
+        "index": 4,
+        "start_time": 10081,
+        "end_time": 12697,
+        "text": "to the point where you sat down to watch this video,"
+    },
+    {
+        "index": 5,
+        "start_time": 12697,
+        "end_time": 14419,
+        "text": "you&#39;ve essentially been swimming."
+    },
+    {
+        "index": 6,
+        "start_time": 14419,
+        "end_time": 18172,
+        "text": "Why? Because air is a fluid just like water."
+    },
+    {
+        "index": 7,
+        "start_time": 18172,
+        "end_time": 19966,
+        "text": "It has waves and eddies."
+    },
+    {
+        "index": 8,
+        "start_time": 19966,
+        "end_time": 21050,
+        "text": "It flows."
+    },
+    {
+        "index": 9,
+        "start_time": 21050,
+        "end_time": 22552,
+        "text": "And when you push air out of the way,"
+    },
+    {
+        "index": 10,
+        "start_time": 22552,
+        "end_time": 24803,
+        "text": "it rushes around you into a wake."
+    },
+    {
+        "index": 11,
+        "start_time": 24803,
+        "end_time": 27391,
+        "text": "So why don&#39;t we notice it most of the time?"
+    },
+    {
+        "index": 12,
+        "start_time": 27391,
+        "end_time": 30642,
+        "text": "We commonly think of air as empty space."
+    },
+    {
+        "index": 13,
+        "start_time": 30642,
+        "end_time": 33812,
+        "text": "But while one cubic centimeter of interstellar space,"
+    },
+    {
+        "index": 14,
+        "start_time": 33812,
+        "end_time": 36065,
+        "text": "the volume in the tip of your pinky finger,"
+    },
+    {
+        "index": 15,
+        "start_time": 36065,
+        "end_time": 38032,
+        "text": "contains roughly one atom,"
+    },
+    {
+        "index": 16,
+        "start_time": 38032,
+        "end_time": 43197,
+        "text": "the same volume of air has about 10 quintillion molecules."
+    },
+    {
+        "index": 17,
+        "start_time": 43197,
+        "end_time": 44946,
+        "text": "If that sounds hard to wrap your head around,"
+    },
+    {
+        "index": 18,
+        "start_time": 44946,
+        "end_time": 46697,
+        "text": "it happens to be about the same"
+    },
+    {
+        "index": 19,
+        "start_time": 46697,
+        "end_time": 49198,
+        "text": "as the number of insects alive on the planet,"
+    },
+    {
+        "index": 20,
+        "start_time": 49198,
+        "end_time": 51946,
+        "text": "all crawling, climbing, and flying over each other"
+    },
+    {
+        "index": 21,
+        "start_time": 51946,
+        "end_time": 55570,
+        "text": "in an enormous, tightly packed swarm."
+    },
+    {
+        "index": 22,
+        "start_time": 55570,
+        "end_time": 57838,
+        "text": "When this swarm of molecules runs into things,"
+    },
+    {
+        "index": 23,
+        "start_time": 57838,
+        "end_time": 61381,
+        "text": "it exerts a force, pressing against the boundaries of the fluid,"
+    },
+    {
+        "index": 24,
+        "start_time": 61381,
+        "end_time": 64676,
+        "text": "like water pressing against the glass of a bottle."
+    },
+    {
+        "index": 25,
+        "start_time": 64676,
+        "end_time": 66512,
+        "text": "This is known as air pressure."
+    },
+    {
+        "index": 26,
+        "start_time": 66512,
+        "end_time": 68226,
+        "text": "And while air is lighter than water,"
+    },
+    {
+        "index": 27,
+        "start_time": 68226,
+        "end_time": 70557,
+        "text": "all those molecules still get pretty heavy,"
+    },
+    {
+        "index": 28,
+        "start_time": 70557,
+        "end_time": 72975,
+        "text": "with the total air filling a typical school gym,"
+    },
+    {
+        "index": 29,
+        "start_time": 72975,
+        "end_time": 75771,
+        "text": "weighing about as much as an adult elephant."
+    },
+    {
+        "index": 30,
+        "start_time": 75771,
+        "end_time": 77727,
+        "text": "So when you walk into a gym,"
+    },
+    {
+        "index": 31,
+        "start_time": 77727,
+        "end_time": 79394,
+        "text": "how come you&#39;re not immediately crushed"
+    },
+    {
+        "index": 32,
+        "start_time": 79394,
+        "end_time": 81360,
+        "text": "by the elephant of air in the room?"
+    },
+    {
+        "index": 33,
+        "start_time": 81360,
+        "end_time": 82983,
+        "text": "Well, first of all,"
+    },
+    {
+        "index": 34,
+        "start_time": 82983,
+        "end_time": 85644,
+        "text": "because most of it is pressing on the floor and the walls,"
+    },
+    {
+        "index": 35,
+        "start_time": 85644,
+        "end_time": 87478,
+        "text": "and the part that is pressing on you"
+    },
+    {
+        "index": 36,
+        "start_time": 87478,
+        "end_time": 90978,
+        "text": "is pushed back by the pressure inside you!"
+    },
+    {
+        "index": 37,
+        "start_time": 90978,
+        "end_time": 94084,
+        "text": "You see, the air, as well as the water and everything else,"
+    },
+    {
+        "index": 38,
+        "start_time": 94084,
+        "end_time": 96999,
+        "text": "that fills our bodies exerts an amount of pressure"
+    },
+    {
+        "index": 39,
+        "start_time": 96999,
+        "end_time": 98835,
+        "text": "equal to that of the air outside."
+    },
+    {
+        "index": 40,
+        "start_time": 98835,
+        "end_time": 100838,
+        "text": "Of course, this is no accident."
+    },
+    {
+        "index": 41,
+        "start_time": 100838,
+        "end_time": 103173,
+        "text": "It&#39;s precisely what allows us to survive"
+    },
+    {
+        "index": 42,
+        "start_time": 103173,
+        "end_time": 104882,
+        "text": "in the normal atmosphere,"
+    },
+    {
+        "index": 43,
+        "start_time": 104882,
+        "end_time": 106395,
+        "text": "and what makes it more difficult"
+    },
+    {
+        "index": 44,
+        "start_time": 106395,
+        "end_time": 108345,
+        "text": "at high altitudes or deep water."
+    },
+    {
+        "index": 45,
+        "start_time": 108345,
+        "end_time": 110846,
+        "text": "And we normally don&#39;t feel the air pressing on us"
+    },
+    {
+        "index": 46,
+        "start_time": 110846,
+        "end_time": 112648,
+        "text": "because it&#39;s generally uniform."
+    },
+    {
+        "index": 47,
+        "start_time": 112648,
+        "end_time": 114768,
+        "text": "So even though different amounts of air molecules"
+    },
+    {
+        "index": 48,
+        "start_time": 114768,
+        "end_time": 116560,
+        "text": "are hitting you at different times,"
+    },
+    {
+        "index": 49,
+        "start_time": 116560,
+        "end_time": 118227,
+        "text": "the swarm is so thick"
+    },
+    {
+        "index": 50,
+        "start_time": 118227,
+        "end_time": 121107,
+        "text": "that all those little differences average out."
+    },
+    {
+        "index": 51,
+        "start_time": 121107,
+        "end_time": 123777,
+        "text": "What happens when air pressure isn&#39;t uniform?"
+    },
+    {
+        "index": 52,
+        "start_time": 123777,
+        "end_time": 126279,
+        "text": "This means that the molecules are pushing harder"
+    },
+    {
+        "index": 53,
+        "start_time": 126279,
+        "end_time": 128060,
+        "text": "in one region of air than another,"
+    },
+    {
+        "index": 54,
+        "start_time": 128060,
+        "end_time": 130476,
+        "text": "driving the air flow from the higher pressure region"
+    },
+    {
+        "index": 55,
+        "start_time": 130476,
+        "end_time": 132144,
+        "text": "to the lower."
+    },
+    {
+        "index": 56,
+        "start_time": 132144,
+        "end_time": 134161,
+        "text": "We feel this flow directly as wind,"
+    },
+    {
+        "index": 57,
+        "start_time": 134161,
+        "end_time": 135790,
+        "text": "and the pressure systems"
+    },
+    {
+        "index": 58,
+        "start_time": 135790,
+        "end_time": 137499,
+        "text": "that meteorologists are always going on about"
+    },
+    {
+        "index": 59,
+        "start_time": 137499,
+        "end_time": 139960,
+        "text": "are responsible for other weather changes,"
+    },
+    {
+        "index": 60,
+        "start_time": 139960,
+        "end_time": 142922,
+        "text": "from the mundane to the catastrophic."
+    },
+    {
+        "index": 61,
+        "start_time": 142922,
+        "end_time": 144590,
+        "text": "But differences in air pressure"
+    },
+    {
+        "index": 62,
+        "start_time": 144590,
+        "end_time": 147001,
+        "text": "do more than just let us complain about the weather;"
+    },
+    {
+        "index": 63,
+        "start_time": 147001,
+        "end_time": 149428,
+        "text": "they&#39;re the very reason we&#39;re alive."
+    },
+    {
+        "index": 64,
+        "start_time": 149428,
+        "end_time": 152061,
+        "text": "We breathe by lowering the pressure in our lungs,"
+    },
+    {
+        "index": 65,
+        "start_time": 152061,
+        "end_time": 153933,
+        "text": "allowing air to rush in."
+    },
+    {
+        "index": 66,
+        "start_time": 153933,
+        "end_time": 155767,
+        "text": "So the next time you take a deep breath,"
+    },
+    {
+        "index": 67,
+        "start_time": 155767,
+        "end_time": 158522,
+        "text": "think of the unfathomable number of air molecules"
+    },
+    {
+        "index": 68,
+        "start_time": 158522,
+        "end_time": 160311,
+        "text": "you&#39;re commanding to move."
+    },
+    {
+        "index": 69,
+        "start_time": 160311,
+        "end_time": 162310,
+        "text": "We look up at the night sky"
+    },
+    {
+        "index": 70,
+        "start_time": 162310,
+        "end_time": 164478,
+        "text": "to ponder the infinity of space,"
+    },
+    {
+        "index": 71,
+        "start_time": 164478,
+        "end_time": 166310,
+        "text": "but unless you&#39;re watching this video"
+    },
+    {
+        "index": 72,
+        "start_time": 166310,
+        "end_time": 167976,
+        "text": "from that deep space,"
+    },
+    {
+        "index": 73,
+        "start_time": 167976,
+        "end_time": 169533,
+        "text": "there are more air molecules"
+    },
+    {
+        "index": 74,
+        "start_time": 169533,
+        "end_time": 171144,
+        "text": "in and around your body"
+    },
+    {
+        "index": 75,
+        "start_time": 171144,
+        "end_time": 174077,
+        "text": "than there are grains of sand in all the world&#39;s beaches and deserts,"
+    },
+    {
+        "index": 76,
+        "start_time": 174077,
+        "end_time": 176454,
+        "text": "stars in the visible universe,"
+    },
+    {
+        "index": 77,
+        "start_time": 176454,
+        "end_time": 178747,
+        "text": "or both of those numbers combined."
+    },
+    {
+        "index": 78,
+        "start_time": 178747,
+        "end_time": 180394,
+        "text": "The vastness of the universe"
+    },
+    {
+        "index": 79,
+        "start_time": 180394,
+        "end_time": 181894,
+        "text": "is right in front of you"
+    },
+    {
+        "index": 80,
+        "start_time": 181894,
+        "end_time": 184004,
+        "text": "and inside you."
+    }
+]

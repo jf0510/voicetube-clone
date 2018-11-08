@@ -1,0 +1,764 @@
+[
+    {
+        "index": 1,
+        "start_time": 7168,
+        "end_time": 11429,
+        "text": "On a December afternoon in Chicago\nduring the middle of World War II,"
+    },
+    {
+        "index": 2,
+        "start_time": 11429,
+        "end_time": 16140,
+        "text": "scientists cracked open the nucleus\nat the center of the uranium atom"
+    },
+    {
+        "index": 3,
+        "start_time": 16140,
+        "end_time": 22099,
+        "text": "and turned nuclear mass into energy\nover and over again."
+    },
+    {
+        "index": 4,
+        "start_time": 22099,
+        "end_time": 24250,
+        "text": "They did this by creating \nfor the first time"
+    },
+    {
+        "index": 5,
+        "start_time": 24250,
+        "end_time": 28402,
+        "text": "a chain reaction inside a new\nengineering marvel:"
+    },
+    {
+        "index": 6,
+        "start_time": 28402,
+        "end_time": 31460,
+        "text": "the nuclear reactor."
+    },
+    {
+        "index": 7,
+        "start_time": 31460,
+        "end_time": 36000,
+        "text": "Since then, the ability to mine great\namounts of energy from uranium nuclei"
+    },
+    {
+        "index": 8,
+        "start_time": 36000,
+        "end_time": 38449,
+        "text": "has led some to bill nuclear power"
+    },
+    {
+        "index": 9,
+        "start_time": 38449,
+        "end_time": 43918,
+        "text": "as a plentiful utopian\nsource of electricity."
+    },
+    {
+        "index": 10,
+        "start_time": 43918,
+        "end_time": 48550,
+        "text": "A modern nuclear reactor generates enough\nelectricity from one kilogram of fuel"
+    },
+    {
+        "index": 11,
+        "start_time": 48550,
+        "end_time": 53801,
+        "text": "to power an average American household\nfor nearly 34 years."
+    },
+    {
+        "index": 12,
+        "start_time": 53801,
+        "end_time": 56720,
+        "text": "But rather than dominate the global\nelectricity market,"
+    },
+    {
+        "index": 13,
+        "start_time": 56720,
+        "end_time": 62620,
+        "text": "nuclear power has declined from\nan all-time high of 18% in 1996"
+    },
+    {
+        "index": 14,
+        "start_time": 62620,
+        "end_time": 65540,
+        "text": "to 11% today."
+    },
+    {
+        "index": 15,
+        "start_time": 65540,
+        "end_time": 69121,
+        "text": "And it&#39;s expected to drop further\nin the coming decades."
+    },
+    {
+        "index": 16,
+        "start_time": 69121,
+        "end_time": 72581,
+        "text": "What happened to the great promise\nof this technology?"
+    },
+    {
+        "index": 17,
+        "start_time": 72581,
+        "end_time": 75632,
+        "text": "It turns out nuclear power \nfaces many hurdles,"
+    },
+    {
+        "index": 18,
+        "start_time": 75632,
+        "end_time": 77621,
+        "text": "including high construction costs"
+    },
+    {
+        "index": 19,
+        "start_time": 77621,
+        "end_time": 79790,
+        "text": "and public opposition."
+    },
+    {
+        "index": 20,
+        "start_time": 79790,
+        "end_time": 85343,
+        "text": "And behind these problems lie \na series of unique engineering challenges."
+    },
+    {
+        "index": 21,
+        "start_time": 85343,
+        "end_time": 88671,
+        "text": "Nuclear power relies on the fission\nof uranium nuclei"
+    },
+    {
+        "index": 22,
+        "start_time": 88671,
+        "end_time": 91123,
+        "text": "and a controlled chain reaction"
+    },
+    {
+        "index": 23,
+        "start_time": 91123,
+        "end_time": 95131,
+        "text": "that reproduces this splitting\nin many more nuclei."
+    },
+    {
+        "index": 24,
+        "start_time": 95131,
+        "end_time": 99172,
+        "text": "The atomic nucleus is densely packed\nwith protons and neutrons"
+    },
+    {
+        "index": 25,
+        "start_time": 99172,
+        "end_time": 102563,
+        "text": "bound by a powerful nuclear force."
+    },
+    {
+        "index": 26,
+        "start_time": 102563,
+        "end_time": 107832,
+        "text": "Most uranium atoms have a total\nof 238 protons and neutrons,"
+    },
+    {
+        "index": 27,
+        "start_time": 107832,
+        "end_time": 112253,
+        "text": "but roughly one in every 140\nlacks three neutrons,"
+    },
+    {
+        "index": 28,
+        "start_time": 112253,
+        "end_time": 116311,
+        "text": "and this lighter isotope is less\ntightly bound."
+    },
+    {
+        "index": 29,
+        "start_time": 116311,
+        "end_time": 118613,
+        "text": "Compared to its more abundant cousin,"
+    },
+    {
+        "index": 30,
+        "start_time": 118613,
+        "end_time": 123183,
+        "text": "a strike by a neutron easily splits\nthe U-235 nuclei"
+    },
+    {
+        "index": 31,
+        "start_time": 123183,
+        "end_time": 127463,
+        "text": "into lighter, radioactive elements\ncalled fission products,"
+    },
+    {
+        "index": 32,
+        "start_time": 127463,
+        "end_time": 129282,
+        "text": "in addition to two to three neutrons,"
+    },
+    {
+        "index": 33,
+        "start_time": 129282,
+        "end_time": 130473,
+        "text": "gamma rays,"
+    },
+    {
+        "index": 34,
+        "start_time": 130473,
+        "end_time": 132513,
+        "text": "and a few neutrinos."
+    },
+    {
+        "index": 35,
+        "start_time": 132513,
+        "end_time": 136532,
+        "text": "During fission, some nuclear mass\ntransforms into energy."
+    },
+    {
+        "index": 36,
+        "start_time": 136532,
+        "end_time": 140805,
+        "text": "A fraction of the newfound energy\npowers the fast-moving neutrons,"
+    },
+    {
+        "index": 37,
+        "start_time": 140805,
+        "end_time": 143223,
+        "text": "and if some of them strike uranium nuclei,"
+    },
+    {
+        "index": 38,
+        "start_time": 143223,
+        "end_time": 147713,
+        "text": "fission results in a second \nlarger generation of neutrons."
+    },
+    {
+        "index": 39,
+        "start_time": 147713,
+        "end_time": 151643,
+        "text": "If this second generation of neutrons\nstrike more uranium nuclei,"
+    },
+    {
+        "index": 40,
+        "start_time": 151643,
+        "end_time": 157023,
+        "text": "more fission results in an even\nlarger third generation, and so on."
+    },
+    {
+        "index": 41,
+        "start_time": 157023,
+        "end_time": 158644,
+        "text": "But inside a nuclear reactor,"
+    },
+    {
+        "index": 42,
+        "start_time": 158644,
+        "end_time": 163775,
+        "text": "this spiraling chain reaction is tamed\nusing control rods"
+    },
+    {
+        "index": 43,
+        "start_time": 163775,
+        "end_time": 169084,
+        "text": "made of elements that capture excess \nneutrons and keep their number in check."
+    },
+    {
+        "index": 44,
+        "start_time": 169084,
+        "end_time": 170834,
+        "text": "With a controlled chain reaction,"
+    },
+    {
+        "index": 45,
+        "start_time": 170834,
+        "end_time": 175804,
+        "text": "a reactor draws power steadily\nand stably for years."
+    },
+    {
+        "index": 46,
+        "start_time": 175804,
+        "end_time": 180373,
+        "text": "The neutron-led chain reaction\nis a potent process driving nuclear power,"
+    },
+    {
+        "index": 47,
+        "start_time": 180373,
+        "end_time": 182115,
+        "text": "but there&#39;s a catch that can result"
+    },
+    {
+        "index": 48,
+        "start_time": 182115,
+        "end_time": 185267,
+        "text": "in unique demands \non the production of its fuel."
+    },
+    {
+        "index": 49,
+        "start_time": 185267,
+        "end_time": 189987,
+        "text": "It turns out, most of the neutrons emitted\nfrom fission have too much kinetic energy"
+    },
+    {
+        "index": 50,
+        "start_time": 189987,
+        "end_time": 192856,
+        "text": "to be captured by uranium nuclei."
+    },
+    {
+        "index": 51,
+        "start_time": 192856,
+        "end_time": 197117,
+        "text": "The fission rate is too low\nand the chain reaction fizzles out."
+    },
+    {
+        "index": 52,
+        "start_time": 197117,
+        "end_time": 201987,
+        "text": "The first nuclear reactor built in Chicago\nused graphite as a moderator"
+    },
+    {
+        "index": 53,
+        "start_time": 201987,
+        "end_time": 204884,
+        "text": "to scatter and slow down \nneutrons just enough"
+    },
+    {
+        "index": 54,
+        "start_time": 204884,
+        "end_time": 209924,
+        "text": "to increase their capture by uranium\nand raise the rate of fission."
+    },
+    {
+        "index": 55,
+        "start_time": 209924,
+        "end_time": 214118,
+        "text": "Modern reactors commonly use\npurified water as a moderator,"
+    },
+    {
+        "index": 56,
+        "start_time": 214118,
+        "end_time": 218254,
+        "text": "but the scattered neutrons are still\na little too fast."
+    },
+    {
+        "index": 57,
+        "start_time": 218254,
+        "end_time": 220586,
+        "text": "To compensate \nand keep up the chain reaction,"
+    },
+    {
+        "index": 58,
+        "start_time": 220586,
+        "end_time": 224087,
+        "text": "the concentration of U-235 is enriched"
+    },
+    {
+        "index": 59,
+        "start_time": 224087,
+        "end_time": 227766,
+        "text": "to four to seven times \nits natural abundance."
+    },
+    {
+        "index": 60,
+        "start_time": 227766,
+        "end_time": 232078,
+        "text": "Today, enrichment is often done by\npassing a gaseous uranium compound"
+    },
+    {
+        "index": 61,
+        "start_time": 232078,
+        "end_time": 233767,
+        "text": "through centrifuges"
+    },
+    {
+        "index": 62,
+        "start_time": 233767,
+        "end_time": 239017,
+        "text": "to separate lighter U-235 \nfrom heavier U-238."
+    },
+    {
+        "index": 63,
+        "start_time": 239017,
+        "end_time": 243157,
+        "text": "But the same process can be continued\nto highly enrich U-235"
+    },
+    {
+        "index": 64,
+        "start_time": 243157,
+        "end_time": 246647,
+        "text": "up to 130 times its natural abundance"
+    },
+    {
+        "index": 65,
+        "start_time": 246647,
+        "end_time": 251667,
+        "text": "and create an explosive chain reaction\nin a bomb."
+    },
+    {
+        "index": 66,
+        "start_time": 251667,
+        "end_time": 255448,
+        "text": "Methods like centrifuge processing\nmust be carefully regulated"
+    },
+    {
+        "index": 67,
+        "start_time": 255448,
+        "end_time": 259586,
+        "text": "to limit the spread of bomb-grade fuel."
+    },
+    {
+        "index": 68,
+        "start_time": 259586,
+        "end_time": 262287,
+        "text": "Remember, only a fraction \nof the released fission energy"
+    },
+    {
+        "index": 69,
+        "start_time": 262287,
+        "end_time": 264708,
+        "text": "goes into speeding up neutrons."
+    },
+    {
+        "index": 70,
+        "start_time": 264708,
+        "end_time": 269777,
+        "text": "Most of the nuclear power goes into the\nkinetic energy of the fission products."
+    },
+    {
+        "index": 71,
+        "start_time": 269777,
+        "end_time": 274179,
+        "text": "Those are captured inside the reactor\nas heat by a coolant,"
+    },
+    {
+        "index": 72,
+        "start_time": 274179,
+        "end_time": 276574,
+        "text": "usually purified water."
+    },
+    {
+        "index": 73,
+        "start_time": 276574,
+        "end_time": 281808,
+        "text": "This heat is eventually used to drive\nan electric turbine generator by steam"
+    },
+    {
+        "index": 74,
+        "start_time": 281808,
+        "end_time": 283798,
+        "text": "just outside the reactor."
+    },
+    {
+        "index": 75,
+        "start_time": 283798,
+        "end_time": 286680,
+        "text": "Water flow is critical \nnot only to create electricity,"
+    },
+    {
+        "index": 76,
+        "start_time": 286680,
+        "end_time": 290780,
+        "text": "but also to guard against the most dreaded\ntype of reactor accident,"
+    },
+    {
+        "index": 77,
+        "start_time": 290780,
+        "end_time": 292468,
+        "text": "the meltdown."
+    },
+    {
+        "index": 78,
+        "start_time": 292468,
+        "end_time": 295919,
+        "text": "If water flow stops because a pipe\ncarrying it breaks,"
+    },
+    {
+        "index": 79,
+        "start_time": 295919,
+        "end_time": 297960,
+        "text": "or the pumps that push it fail,"
+    },
+    {
+        "index": 80,
+        "start_time": 297960,
+        "end_time": 301497,
+        "text": "the uranium heats up very quickly\nand melts."
+    },
+    {
+        "index": 81,
+        "start_time": 301497,
+        "end_time": 303059,
+        "text": "During a nuclear meltdown,"
+    },
+    {
+        "index": 82,
+        "start_time": 303059,
+        "end_time": 305929,
+        "text": "radioactive vapors escape \ninto the reactor,"
+    },
+    {
+        "index": 83,
+        "start_time": 305929,
+        "end_time": 307948,
+        "text": "and if the reactor fails to hold them,"
+    },
+    {
+        "index": 84,
+        "start_time": 307948,
+        "end_time": 313218,
+        "text": "a steel and concrete containment building\nis the last line of defense."
+    },
+    {
+        "index": 85,
+        "start_time": 313218,
+        "end_time": 316109,
+        "text": "But if the radioactive gas pressure\nis too high,"
+    },
+    {
+        "index": 86,
+        "start_time": 316109,
+        "end_time": 319780,
+        "text": "containment fails and the gasses\nescape into the air,"
+    },
+    {
+        "index": 87,
+        "start_time": 319780,
+        "end_time": 323899,
+        "text": "spreading as far \nand wide as the wind blows."
+    },
+    {
+        "index": 88,
+        "start_time": 323899,
+        "end_time": 326289,
+        "text": "The radioactive fission products\nin these vapors"
+    },
+    {
+        "index": 89,
+        "start_time": 326289,
+        "end_time": 329952,
+        "text": "eventually decay into stable elements."
+    },
+    {
+        "index": 90,
+        "start_time": 329952,
+        "end_time": 331960,
+        "text": "While some decay in a few seconds,"
+    },
+    {
+        "index": 91,
+        "start_time": 331960,
+        "end_time": 335350,
+        "text": "others take hundreds \nof thousands of years."
+    },
+    {
+        "index": 92,
+        "start_time": 335350,
+        "end_time": 337418,
+        "text": "The greatest challenge \nfor a nuclear reactor"
+    },
+    {
+        "index": 93,
+        "start_time": 337418,
+        "end_time": 339829,
+        "text": "is to safely contain these products"
+    },
+    {
+        "index": 94,
+        "start_time": 339829,
+        "end_time": 343870,
+        "text": "and keep them from harming humans\nor the environment."
+    },
+    {
+        "index": 95,
+        "start_time": 343870,
+        "end_time": 347620,
+        "text": "Containment doesn&#39;t stop mattering\nonce the fuel is used up."
+    },
+    {
+        "index": 96,
+        "start_time": 347620,
+        "end_time": 351031,
+        "text": "In fact, it becomes an even greater\nstorage problem."
+    },
+    {
+        "index": 97,
+        "start_time": 351031,
+        "end_time": 352351,
+        "text": "Every one to two years,"
+    },
+    {
+        "index": 98,
+        "start_time": 352351,
+        "end_time": 355830,
+        "text": "some spent fuel is removed from reactors"
+    },
+    {
+        "index": 99,
+        "start_time": 355830,
+        "end_time": 359121,
+        "text": "and stored in pools of water \nthat cool the waste"
+    },
+    {
+        "index": 100,
+        "start_time": 359121,
+        "end_time": 362399,
+        "text": "and block its radioactive emissions."
+    },
+    {
+        "index": 101,
+        "start_time": 362399,
+        "end_time": 366010,
+        "text": "The irradiated fuel is a mix of uranium\nthat failed to fission,"
+    },
+    {
+        "index": 102,
+        "start_time": 366010,
+        "end_time": 367670,
+        "text": "fission products,"
+    },
+    {
+        "index": 103,
+        "start_time": 367670,
+        "end_time": 372850,
+        "text": "and plutonium, a radioactive material\nnot found in nature."
+    },
+    {
+        "index": 104,
+        "start_time": 372850,
+        "end_time": 375523,
+        "text": "This mix must be isolated from\nthe environment"
+    },
+    {
+        "index": 105,
+        "start_time": 375523,
+        "end_time": 378041,
+        "text": "until it has all safely decayed."
+    },
+    {
+        "index": 106,
+        "start_time": 378041,
+        "end_time": 383682,
+        "text": "Many countries propose deep time storage\nin tunnels drilled far underground,"
+    },
+    {
+        "index": 107,
+        "start_time": 383682,
+        "end_time": 385212,
+        "text": "but none have been built,"
+    },
+    {
+        "index": 108,
+        "start_time": 385212,
+        "end_time": 389092,
+        "text": "and there&#39;s great uncertainty about\ntheir long-term security."
+    },
+    {
+        "index": 109,
+        "start_time": 389092,
+        "end_time": 392200,
+        "text": "How can a nation that has existed\nfor only a few hundred years"
+    },
+    {
+        "index": 110,
+        "start_time": 392200,
+        "end_time": 396112,
+        "text": "plan to guard plutonium\nthrough its radioactive half-life"
+    },
+    {
+        "index": 111,
+        "start_time": 396112,
+        "end_time": 398772,
+        "text": "of 24,000 years?"
+    },
+    {
+        "index": 112,
+        "start_time": 398772,
+        "end_time": 402584,
+        "text": "Today, many nuclear power plants\nsit on their waste, instead,"
+    },
+    {
+        "index": 113,
+        "start_time": 402584,
+        "end_time": 406023,
+        "text": "storing them indefinitely on site."
+    },
+    {
+        "index": 114,
+        "start_time": 406023,
+        "end_time": 410601,
+        "text": "Apart from radioactivity, there&#39;s an\neven greater danger with spent fuel."
+    },
+    {
+        "index": 115,
+        "start_time": 410601,
+        "end_time": 413023,
+        "text": "Plutonium can sustain a chain reaction"
+    },
+    {
+        "index": 116,
+        "start_time": 413023,
+        "end_time": 417035,
+        "text": "and can be mined from the waste\nto make bombs."
+    },
+    {
+        "index": 117,
+        "start_time": 417035,
+        "end_time": 420932,
+        "text": "Storing spent fuel is thus not only\na safety risk for the environment,"
+    },
+    {
+        "index": 118,
+        "start_time": 420932,
+        "end_time": 435076,
+        "text": "but also a security risk for nations."
+    },
+    {
+        "index": 119,
+        "start_time": 435076,
+        "end_time": 438488,
+        "text": "Who should be the watchmen to guard it?"
+    },
+    {
+        "index": 120,
+        "start_time": 438488,
+        "end_time": 441883,
+        "text": "Visionary scientists from the early years\nof the nuclear age"
+    },
+    {
+        "index": 121,
+        "start_time": 441883,
+        "end_time": 446044,
+        "text": "pioneered how to reliably tap \nthe tremendous amount of energy"
+    },
+    {
+        "index": 122,
+        "start_time": 446044,
+        "end_time": 447903,
+        "text": "inside an atom -"
+    },
+    {
+        "index": 123,
+        "start_time": 447903,
+        "end_time": 450113,
+        "text": "as an explosive bomb"
+    },
+    {
+        "index": 124,
+        "start_time": 450113,
+        "end_time": 454272,
+        "text": "and as a controlled power source\nwith incredible potential."
+    },
+    {
+        "index": 125,
+        "start_time": 454272,
+        "end_time": 457053,
+        "text": "But their successors have learned\nhumbling insights"
+    },
+    {
+        "index": 126,
+        "start_time": 457053,
+        "end_time": 461834,
+        "text": "about the technology&#39;s not-so-utopian\nindustrial limits."
+    },
+    {
+        "index": 127,
+        "start_time": 461834,
+        "end_time": 468237,
+        "text": "Mining the subatomic realm makes for\ncomplex, expensive, and risky engineering."
+    }
+]

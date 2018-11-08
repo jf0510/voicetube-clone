@@ -1,0 +1,512 @@
+[
+    {
+        "index": 1,
+        "start_time": 10947,
+        "end_time": 18489,
+        "text": "One, two, three, four, five, six,\nseven, eight, nine, and zero."
+    },
+    {
+        "index": 2,
+        "start_time": 18489,
+        "end_time": 24188,
+        "text": "With just these ten symbols, we can\nwrite any rational number imaginable."
+    },
+    {
+        "index": 3,
+        "start_time": 24188,
+        "end_time": 26691,
+        "text": "But why these particular symbols?"
+    },
+    {
+        "index": 4,
+        "start_time": 26691,
+        "end_time": 28352,
+        "text": "Why ten of them?"
+    },
+    {
+        "index": 5,
+        "start_time": 28352,
+        "end_time": 31599,
+        "text": "And why do we arrange them the way we do?"
+    },
+    {
+        "index": 6,
+        "start_time": 31599,
+        "end_time": 35419,
+        "text": "Numbers have been a fact of life\nthroughout recorded history."
+    },
+    {
+        "index": 7,
+        "start_time": 35419,
+        "end_time": 39849,
+        "text": "Early humans likely counted animals\nin a flock or members in a tribe"
+    },
+    {
+        "index": 8,
+        "start_time": 39849,
+        "end_time": 42989,
+        "text": "using body parts or tally marks."
+    },
+    {
+        "index": 9,
+        "start_time": 42989,
+        "end_time": 47480,
+        "text": "But as the complexity of life increased,\nalong with the number of things to count,"
+    },
+    {
+        "index": 10,
+        "start_time": 47480,
+        "end_time": 50550,
+        "text": "these methods were no longer sufficient."
+    },
+    {
+        "index": 11,
+        "start_time": 50550,
+        "end_time": 52049,
+        "text": "So as they developed,"
+    },
+    {
+        "index": 12,
+        "start_time": 52049,
+        "end_time": 56808,
+        "text": "different civilizations came up \nwith ways of recording higher numbers."
+    },
+    {
+        "index": 13,
+        "start_time": 56808,
+        "end_time": 58059,
+        "text": "Many of these systems,"
+    },
+    {
+        "index": 14,
+        "start_time": 58059,
+        "end_time": 58819,
+        "text": "like Greek,"
+    },
+    {
+        "index": 15,
+        "start_time": 58819,
+        "end_time": 59539,
+        "text": "Hebrew,"
+    },
+    {
+        "index": 16,
+        "start_time": 59539,
+        "end_time": 60770,
+        "text": "and Egyptian numerals,"
+    },
+    {
+        "index": 17,
+        "start_time": 60770,
+        "end_time": 63300,
+        "text": "were just extensions of tally marks"
+    },
+    {
+        "index": 18,
+        "start_time": 63300,
+        "end_time": 67350,
+        "text": "with new symbols added to represent\nlarger magnitudes of value."
+    },
+    {
+        "index": 19,
+        "start_time": 67350,
+        "end_time": 73150,
+        "text": "Each symbol was repeated as many times\nas necessary and all were added together."
+    },
+    {
+        "index": 20,
+        "start_time": 73150,
+        "end_time": 75990,
+        "text": "Roman numerals added another twist."
+    },
+    {
+        "index": 21,
+        "start_time": 75990,
+        "end_time": 78490,
+        "text": "If a numeral appeared before one\nwith a higher value,"
+    },
+    {
+        "index": 22,
+        "start_time": 78490,
+        "end_time": 81950,
+        "text": "it would be subtracted rather than added."
+    },
+    {
+        "index": 23,
+        "start_time": 81950,
+        "end_time": 83450,
+        "text": "But even with this innovation,"
+    },
+    {
+        "index": 24,
+        "start_time": 83450,
+        "end_time": 88501,
+        "text": "it was still a cumbersome method\nfor writing large numbers."
+    },
+    {
+        "index": 25,
+        "start_time": 88501,
+        "end_time": 90861,
+        "text": "The way to a more useful \nand elegant system"
+    },
+    {
+        "index": 26,
+        "start_time": 90861,
+        "end_time": 95041,
+        "text": "lay in something called \npositional notation."
+    },
+    {
+        "index": 27,
+        "start_time": 95041,
+        "end_time": 98430,
+        "text": "Previous number systems needed to draw\nmany symbols repeatedly"
+    },
+    {
+        "index": 28,
+        "start_time": 98430,
+        "end_time": 102610,
+        "text": "and invent a new symbol \nfor each larger magnitude."
+    },
+    {
+        "index": 29,
+        "start_time": 102610,
+        "end_time": 105971,
+        "text": "But a positional system could reuse\nthe same symbols,"
+    },
+    {
+        "index": 30,
+        "start_time": 105971,
+        "end_time": 110962,
+        "text": "assigning them different values\nbased on their position in the sequence."
+    },
+    {
+        "index": 31,
+        "start_time": 110962,
+        "end_time": 114911,
+        "text": "Several civilizations developed positional\nnotation independently,"
+    },
+    {
+        "index": 32,
+        "start_time": 114911,
+        "end_time": 116822,
+        "text": "including the Babylonians,"
+    },
+    {
+        "index": 33,
+        "start_time": 116822,
+        "end_time": 118032,
+        "text": "the Ancient Chinese,"
+    },
+    {
+        "index": 34,
+        "start_time": 118032,
+        "end_time": 119982,
+        "text": "and the Aztecs."
+    },
+    {
+        "index": 35,
+        "start_time": 119982,
+        "end_time": 124562,
+        "text": "By the 8th century, Indian mathematicians\nhad perfected such a system"
+    },
+    {
+        "index": 36,
+        "start_time": 124562,
+        "end_time": 126552,
+        "text": "and over the next several centuries,"
+    },
+    {
+        "index": 37,
+        "start_time": 126552,
+        "end_time": 132343,
+        "text": "Arab merchants, scholars, and conquerors\nbegan to spread it into Europe."
+    },
+    {
+        "index": 38,
+        "start_time": 132343,
+        "end_time": 136043,
+        "text": "This was a decimal, or base ten, system,"
+    },
+    {
+        "index": 39,
+        "start_time": 136043,
+        "end_time": 140514,
+        "text": "which could represent any number\nusing only ten unique glyphs."
+    },
+    {
+        "index": 40,
+        "start_time": 140514,
+        "end_time": 143943,
+        "text": "The positions of these symbols\nindicate different powers of ten,"
+    },
+    {
+        "index": 41,
+        "start_time": 143943,
+        "end_time": 147483,
+        "text": "starting on the right \nand increasing as we move left."
+    },
+    {
+        "index": 42,
+        "start_time": 147483,
+        "end_time": 150203,
+        "text": "For example, the number 316"
+    },
+    {
+        "index": 43,
+        "start_time": 150203,
+        "end_time": 153693,
+        "text": "reads as 6x10^0"
+    },
+    {
+        "index": 44,
+        "start_time": 153693,
+        "end_time": 156292,
+        "text": "plus 1x10^1"
+    },
+    {
+        "index": 45,
+        "start_time": 156292,
+        "end_time": 159943,
+        "text": "plus 3x10^2."
+    },
+    {
+        "index": 46,
+        "start_time": 159943,
+        "end_time": 161833,
+        "text": "A key breakthrough of this system,"
+    },
+    {
+        "index": 47,
+        "start_time": 161833,
+        "end_time": 164734,
+        "text": "which was also independently \ndeveloped by the Mayans,"
+    },
+    {
+        "index": 48,
+        "start_time": 164734,
+        "end_time": 167483,
+        "text": "was the number zero."
+    },
+    {
+        "index": 49,
+        "start_time": 167483,
+        "end_time": 170573,
+        "text": "Older positional notation systems \nthat lacked this symbol"
+    },
+    {
+        "index": 50,
+        "start_time": 170573,
+        "end_time": 172394,
+        "text": "would leave a blank in its place,"
+    },
+    {
+        "index": 51,
+        "start_time": 172394,
+        "end_time": 176935,
+        "text": "making it hard to distinguish \nbetween 63 and 603,"
+    },
+    {
+        "index": 52,
+        "start_time": 176935,
+        "end_time": 180003,
+        "text": "or 12 and 120."
+    },
+    {
+        "index": 53,
+        "start_time": 180003,
+        "end_time": 184054,
+        "text": "The understanding of zero as both\na value and a placeholder"
+    },
+    {
+        "index": 54,
+        "start_time": 184054,
+        "end_time": 188024,
+        "text": "made for reliable and consistent notation."
+    },
+    {
+        "index": 55,
+        "start_time": 188024,
+        "end_time": 190393,
+        "text": "Of course, it&#39;s possible \nto use any ten symbols"
+    },
+    {
+        "index": 56,
+        "start_time": 190393,
+        "end_time": 193743,
+        "text": "to represent the numerals \nzero through nine."
+    },
+    {
+        "index": 57,
+        "start_time": 193743,
+        "end_time": 197038,
+        "text": "For a long time, \nthe glyphs varied regionally."
+    },
+    {
+        "index": 58,
+        "start_time": 197038,
+        "end_time": 199202,
+        "text": "Most scholars agree \nthat our current digits"
+    },
+    {
+        "index": 59,
+        "start_time": 199202,
+        "end_time": 202726,
+        "text": "evolved from those used in the\nNorth African Maghreb region"
+    },
+    {
+        "index": 60,
+        "start_time": 202726,
+        "end_time": 204884,
+        "text": "of the Arab Empire."
+    },
+    {
+        "index": 61,
+        "start_time": 204884,
+        "end_time": 209905,
+        "text": "And by the 15th century, what we now know\nas the Hindu-Arabic numeral system"
+    },
+    {
+        "index": 62,
+        "start_time": 209905,
+        "end_time": 212789,
+        "text": "had replaced Roman numerals\nin everyday life"
+    },
+    {
+        "index": 63,
+        "start_time": 212789,
+        "end_time": 217275,
+        "text": "to become the most commonly \nused number system in the world."
+    },
+    {
+        "index": 64,
+        "start_time": 217275,
+        "end_time": 220726,
+        "text": "So why did the Hindu-Arabic system,\nalong with so many others,"
+    },
+    {
+        "index": 65,
+        "start_time": 220726,
+        "end_time": 222859,
+        "text": "use base ten?"
+    },
+    {
+        "index": 66,
+        "start_time": 222859,
+        "end_time": 226784,
+        "text": "The most likely answer is the simplest."
+    },
+    {
+        "index": 67,
+        "start_time": 226784,
+        "end_time": 232355,
+        "text": "That also explains why the Aztecs used\na base 20, or vigesimal system."
+    },
+    {
+        "index": 68,
+        "start_time": 232355,
+        "end_time": 234975,
+        "text": "But other bases are possible, too."
+    },
+    {
+        "index": 69,
+        "start_time": 234975,
+        "end_time": 238965,
+        "text": "Babylonian numerals were sexigesimal,\nor base 60."
+    },
+    {
+        "index": 70,
+        "start_time": 238965,
+        "end_time": 242236,
+        "text": "Any many people think that a base 12,\nor duodecimal system,"
+    },
+    {
+        "index": 71,
+        "start_time": 242236,
+        "end_time": 244345,
+        "text": "would be a good idea."
+    },
+    {
+        "index": 72,
+        "start_time": 244345,
+        "end_time": 248265,
+        "text": "Like 60, 12 is a highly composite number\nthat can be divided by two,"
+    },
+    {
+        "index": 73,
+        "start_time": 248265,
+        "end_time": 249035,
+        "text": "three,"
+    },
+    {
+        "index": 74,
+        "start_time": 249035,
+        "end_time": 249747,
+        "text": "four,"
+    },
+    {
+        "index": 75,
+        "start_time": 249747,
+        "end_time": 250926,
+        "text": "and six,"
+    },
+    {
+        "index": 76,
+        "start_time": 250926,
+        "end_time": 254705,
+        "text": "making it much better for representing\ncommon fractions."
+    },
+    {
+        "index": 77,
+        "start_time": 254705,
+        "end_time": 257755,
+        "text": "In fact, both systems appear\nin our everyday lives,"
+    },
+    {
+        "index": 78,
+        "start_time": 257755,
+        "end_time": 259871,
+        "text": "from how we measure degrees and time,"
+    },
+    {
+        "index": 79,
+        "start_time": 259871,
+        "end_time": 263416,
+        "text": "to common measurements,\nlike a dozen or a gross."
+    },
+    {
+        "index": 80,
+        "start_time": 263416,
+        "end_time": 267166,
+        "text": "And, of course, the base two, \nor binary system,"
+    },
+    {
+        "index": 81,
+        "start_time": 267166,
+        "end_time": 270048,
+        "text": "is used in all of our digital devices,"
+    },
+    {
+        "index": 82,
+        "start_time": 270048,
+        "end_time": 275966,
+        "text": "though programmers also use base eight\nand base 16 for more compact notation."
+    },
+    {
+        "index": 83,
+        "start_time": 275966,
+        "end_time": 277990,
+        "text": "So the next time you use a large number,"
+    },
+    {
+        "index": 84,
+        "start_time": 277990,
+        "end_time": 282396,
+        "text": "think of the massive quantity captured\nin just these few symbols,"
+    },
+    {
+        "index": 85,
+        "start_time": 282396,
+        "end_time": 285779,
+        "text": "and see if you can come up \nwith a different way to represent it."
+    }
+]

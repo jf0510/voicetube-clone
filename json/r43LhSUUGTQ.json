@@ -1,0 +1,200 @@
+[
+  {
+    "end_time": 4069,
+    "index": 1,
+    "start_time": 0,
+    "text": "When you vote have you ever wondered\nwhether your ballot is actually counted?"
+  },
+  {
+    "end_time": 9580,
+    "index": 2,
+    "start_time": 4069,
+    "text": "If you meet someone online how do you\nknow they&#39;re who they say they are?"
+  },
+  {
+    "end_time": 13559,
+    "index": 3,
+    "start_time": 9580,
+    "text": "When you buy coffee that&#39;s labeled fair trade what makes you so certain of its origin?"
+  },
+  {
+    "end_time": 18109,
+    "index": 4,
+    "start_time": 13559,
+    "text": "To be sure really sure about any of\nthose questions you need a system where"
+  },
+  {
+    "end_time": 21789,
+    "index": 5,
+    "start_time": 18109,
+    "text": "records could be stored, facts can be\nverified by anyone, and security is guaranteed."
+  },
+  {
+    "end_time": 25920,
+    "index": 6,
+    "start_time": 21789,
+    "text": "That way no one could cheat\nthe system by editing records because"
+  },
+  {
+    "end_time": 29800,
+    "index": 7,
+    "start_time": 25920,
+    "text": "everyone using the system would be\nwatching. Systems like this are on the"
+  },
+  {
+    "end_time": 34090,
+    "index": 8,
+    "start_time": 29800,
+    "text": "horizon and the software that powers\nthem it&#39;s called a blockchain."
+  },
+  {
+    "end_time": 38170,
+    "index": 9,
+    "start_time": 34090,
+    "text": "Blockchains store information across the\nnetwork of personal computers,"
+  },
+  {
+    "end_time": 43170,
+    "index": 10,
+    "start_time": 38170,
+    "text": "making them not just decentralized but distributed. This means no central company or person"
+  },
+  {
+    "end_time": 48059,
+    "index": 11,
+    "start_time": 43170,
+    "text": "owns the system, yet everyone can use it\nand help run it. This is important"
+  },
+  {
+    "end_time": 51579,
+    "index": 12,
+    "start_time": 48059,
+    "text": "because it means it&#39;s difficult for any\none person to take down the network or corrupt it."
+  },
+  {
+    "end_time": 56239,
+    "index": 13,
+    "start_time": 51579,
+    "text": "The people who run the system\nuse their computer to hold bundles of"
+  },
+  {
+    "end_time": 61339,
+    "index": 14,
+    "start_time": 56239,
+    "text": "records submitted by others, known as\n&quot;blocks,&quot; in a chronological chain."
+  },
+  {
+    "end_time": 65110,
+    "index": 15,
+    "start_time": 61340,
+    "text": "The blockchain uses a form of math called cryptography to ensure that records can&#39;t"
+  },
+  {
+    "end_time": 69409,
+    "index": 16,
+    "start_time": 65110,
+    "text": "be counterfeited or changed by anyone\nelse."
+  },
+  {
+    "end_time": 73799,
+    "index": 17,
+    "start_time": 69409,
+    "text": "You\u2019ve probably heard of the blockchain\u2019s first killer app: a form of digital cash called Bitcoin that you can send to anyone, even a complete stranger."
+  },
+  {
+    "end_time": 78850,
+    "index": 18,
+    "start_time": 73799,
+    "text": "Bitcoin is different from credit cards,"
+  },
+  {
+    "end_time": 82460,
+    "index": 19,
+    "start_time": 78850,
+    "text": "PayPal, or other ways to send money because there isn&#39;t a bank or financial"
+  },
+  {
+    "end_time": 84229,
+    "index": 20,
+    "start_time": 82460,
+    "text": "middlemen involved."
+  },
+  {
+    "end_time": 88160,
+    "index": 21,
+    "start_time": 84230,
+    "text": "Instead, people from all over the world\nhelp move the digital money by"
+  },
+  {
+    "end_time": 92090,
+    "index": 22,
+    "start_time": 88160,
+    "text": "validating others&#39; Bitcoin transactions\nwith their personal computers,"
+  },
+  {
+    "end_time": 95910,
+    "index": 23,
+    "start_time": 92090,
+    "text": "earning a small fee in the process.\nBitcoin uses the blockchain by"
+  },
+  {
+    "end_time": 100250,
+    "index": 24,
+    "start_time": 95910,
+    "text": "tracking records of ownership over the\ndigital cash, so only one person can be"
+  },
+  {
+    "end_time": 104390,
+    "index": 25,
+    "start_time": 100250,
+    "text": "the owner at a time and the cash can&#39;t\nbe spent twice, like counterfeit money in"
+  },
+  {
+    "end_time": 109230,
+    "index": 26,
+    "start_time": 104390,
+    "text": "the physical world can. But bitcoin is\njust the beginning for blockchains."
+  },
+  {
+    "end_time": 113340,
+    "index": 27,
+    "start_time": 109230,
+    "text": "In the future, blockchains that manage and verify online data could enable us to"
+  },
+  {
+    "end_time": 118060,
+    "index": 28,
+    "start_time": 113340,
+    "text": "launch companies that are entirely run\nby algorithms, make self-driving cars"
+  },
+  {
+    "end_time": 122140,
+    "index": 29,
+    "start_time": 118060,
+    "text": "safer, help us protect our online\nidentities, and even track the billions"
+  },
+  {
+    "end_time": 126530,
+    "index": 30,
+    "start_time": 122140,
+    "text": "of devices on the Internet of Things.\nThese innovations will change our lives"
+  },
+  {
+    "end_time": 131460,
+    "index": 31,
+    "start_time": 126530,
+    "text": "forever and it&#39;s all just beginning. To\nlearn more about the urgent future of"
+  },
+  {
+    "end_time": 137360,
+    "index": 32,
+    "start_time": 131460,
+    "text": "the blockchain please visit www.iftf.org/blockchainfutureslab"
+  },
+  {
+    "end_time": 139360,
+    "index": 33,
+    "start_time": 137360,
+    "text": " "
+  }
+]

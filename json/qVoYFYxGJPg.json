@@ -1,0 +1,470 @@
+[
+    {
+        "index": 1,
+        "start_time": 7213,
+        "end_time": 9972,
+        "text": "Dating back at least \nto the time of Socrates,"
+    },
+    {
+        "index": 2,
+        "start_time": 9972,
+        "end_time": 13263,
+        "text": "some early societies decided\nthat certain disputes,"
+    },
+    {
+        "index": 3,
+        "start_time": 13263,
+        "end_time": 16173,
+        "text": "such as whether a person committed\na particular crime,"
+    },
+    {
+        "index": 4,
+        "start_time": 16173,
+        "end_time": 18832,
+        "text": "should be heard by a group of citizens."
+    },
+    {
+        "index": 5,
+        "start_time": 18832,
+        "end_time": 23053,
+        "text": "Several centuries later, trial by jury\nwas introduced to England,"
+    },
+    {
+        "index": 6,
+        "start_time": 23053,
+        "end_time": 26842,
+        "text": "where it became a fundamental feature\nof the legal system,"
+    },
+    {
+        "index": 7,
+        "start_time": 26842,
+        "end_time": 30954,
+        "text": "checking the government \nand involving citizens in decision-making."
+    },
+    {
+        "index": 8,
+        "start_time": 30954,
+        "end_time": 34164,
+        "text": "Juries decided whether defendants\nwould be tried on crimes,"
+    },
+    {
+        "index": 9,
+        "start_time": 34164,
+        "end_time": 37462,
+        "text": "determined whether the accused\ndefendants were guilty,"
+    },
+    {
+        "index": 10,
+        "start_time": 37462,
+        "end_time": 40453,
+        "text": "and resolved monetary disputes."
+    },
+    {
+        "index": 11,
+        "start_time": 40453,
+        "end_time": 44123,
+        "text": "While the American colonies eventually\ncast off England&#39;s rule,"
+    },
+    {
+        "index": 12,
+        "start_time": 44123,
+        "end_time": 46834,
+        "text": "its legal tradition of the jury persisted."
+    },
+    {
+        "index": 13,
+        "start_time": 46834,
+        "end_time": 49844,
+        "text": "The United States Constitution \ninstructed a grand jury"
+    },
+    {
+        "index": 14,
+        "start_time": 49844,
+        "end_time": 52594,
+        "text": "to decide whether \ncriminal cases proceeded,"
+    },
+    {
+        "index": 15,
+        "start_time": 52594,
+        "end_time": 56134,
+        "text": "required a jury to try all crimes,\nexcept impeachment,"
+    },
+    {
+        "index": 16,
+        "start_time": 56134,
+        "end_time": 59282,
+        "text": "and provided for juries \nin civil cases as well."
+    },
+    {
+        "index": 17,
+        "start_time": 59282,
+        "end_time": 63004,
+        "text": "Yet, in the US today,\ngrand juries often are not convened,"
+    },
+    {
+        "index": 18,
+        "start_time": 63004,
+        "end_time": 66864,
+        "text": "and juries decide less than 4%\nof criminal cases"
+    },
+    {
+        "index": 19,
+        "start_time": 66864,
+        "end_time": 70354,
+        "text": "and less than 1% of civil cases\nfiled in court."
+    },
+    {
+        "index": 20,
+        "start_time": 70354,
+        "end_time": 74424,
+        "text": "That&#39;s at the same time as jury systems\nin other countries are growing."
+    },
+    {
+        "index": 21,
+        "start_time": 74424,
+        "end_time": 76885,
+        "text": "So what happened in the U.S.?"
+    },
+    {
+        "index": 22,
+        "start_time": 76885,
+        "end_time": 81895,
+        "text": "Part of the story lies in how the Supreme\nCourt has interpreted the Constitution."
+    },
+    {
+        "index": 23,
+        "start_time": 81895,
+        "end_time": 83657,
+        "text": "It&#39;s permitted plea bargaining,"
+    },
+    {
+        "index": 24,
+        "start_time": 83657,
+        "end_time": 86520,
+        "text": "which now occurs in almost \nevery criminal case."
+    },
+    {
+        "index": 25,
+        "start_time": 86520,
+        "end_time": 89817,
+        "text": "The way it works is the prosecutor\npresents the accused"
+    },
+    {
+        "index": 26,
+        "start_time": 89817,
+        "end_time": 92236,
+        "text": "with a decision of whether \nto plead guilty."
+    },
+    {
+        "index": 27,
+        "start_time": 92236,
+        "end_time": 95582,
+        "text": "If they accept the plea, the case won&#39;t\ngo in front of a jury,"
+    },
+    {
+        "index": 28,
+        "start_time": 95582,
+        "end_time": 97751,
+        "text": "but they&#39;ll receive \na shorter prison sentence"
+    },
+    {
+        "index": 29,
+        "start_time": 97751,
+        "end_time": 100841,
+        "text": "than they&#39;d get if \na jury did convict them."
+    },
+    {
+        "index": 30,
+        "start_time": 100841,
+        "end_time": 103671,
+        "text": "The risk of a much greater \nprison sentence after a trial"
+    },
+    {
+        "index": 31,
+        "start_time": 103671,
+        "end_time": 107511,
+        "text": "can frighten even an innocent defendant\ninto taking a plea."
+    },
+    {
+        "index": 32,
+        "start_time": 107511,
+        "end_time": 109992,
+        "text": "Between the 19th century \nand the 21st century,"
+    },
+    {
+        "index": 33,
+        "start_time": 109992,
+        "end_time": 115522,
+        "text": "the proportion of guilty pleas\nhas increased from around 20% to 90%,"
+    },
+    {
+        "index": 34,
+        "start_time": 115522,
+        "end_time": 117617,
+        "text": "and the numbers continue to grow."
+    },
+    {
+        "index": 35,
+        "start_time": 117617,
+        "end_time": 120503,
+        "text": "The Supreme Court has permitted\nthe use of another procedure"
+    },
+    {
+        "index": 36,
+        "start_time": 120503,
+        "end_time": 122313,
+        "text": "that interferes with the jury"
+    },
+    {
+        "index": 37,
+        "start_time": 122313,
+        "end_time": 124044,
+        "text": "called summary judgement."
+    },
+    {
+        "index": 38,
+        "start_time": 124044,
+        "end_time": 128143,
+        "text": "Using summary judgement, judges can\ndecide that civil trials are unnecessary"
+    },
+    {
+        "index": 39,
+        "start_time": 128143,
+        "end_time": 131962,
+        "text": "if the people who sue \nhave insufficient evidence."
+    },
+    {
+        "index": 40,
+        "start_time": 131962,
+        "end_time": 137002,
+        "text": "This is intended only for cases\nwhere no reasonable jury would disagree."
+    },
+    {
+        "index": 41,
+        "start_time": 137002,
+        "end_time": 139102,
+        "text": "That&#39;s a difficult thing \nto determine,"
+    },
+    {
+        "index": 42,
+        "start_time": 139102,
+        "end_time": 141982,
+        "text": "yet usage of summary judgement\nhas stretched to the point"
+    },
+    {
+        "index": 43,
+        "start_time": 141982,
+        "end_time": 145012,
+        "text": "where some would argue it&#39;s being abused."
+    },
+    {
+        "index": 44,
+        "start_time": 145012,
+        "end_time": 147723,
+        "text": "For instance, judges grant fully,\nor in part,"
+    },
+    {
+        "index": 45,
+        "start_time": 147723,
+        "end_time": 150367,
+        "text": "over 70% of employers&#39; requests"
+    },
+    {
+        "index": 46,
+        "start_time": 150367,
+        "end_time": 153712,
+        "text": "to dismiss employment \ndiscrimination cases."
+    },
+    {
+        "index": 47,
+        "start_time": 153712,
+        "end_time": 158114,
+        "text": "In other cases, both the person who sues\nand the person who defends"
+    },
+    {
+        "index": 48,
+        "start_time": 158114,
+        "end_time": 160683,
+        "text": "forgo their right to go to court,"
+    },
+    {
+        "index": 49,
+        "start_time": 160683,
+        "end_time": 164544,
+        "text": "instead resolving their dispute through\na professional arbitrator."
+    },
+    {
+        "index": 50,
+        "start_time": 164544,
+        "end_time": 168173,
+        "text": "These are generally lawyers, professors,\nor former judges."
+    },
+    {
+        "index": 51,
+        "start_time": 168173,
+        "end_time": 171044,
+        "text": "Arbitration can be a smart decision\nby both parties"
+    },
+    {
+        "index": 52,
+        "start_time": 171044,
+        "end_time": 173984,
+        "text": "to avoid the requirements \nof a trial in court,"
+    },
+    {
+        "index": 53,
+        "start_time": 173984,
+        "end_time": 177194,
+        "text": "but it&#39;s often agreed to unwittingly\nwhen people sign contracts"
+    },
+    {
+        "index": 54,
+        "start_time": 177194,
+        "end_time": 181105,
+        "text": "like employment applications\nand consumer agreements."
+    },
+    {
+        "index": 55,
+        "start_time": 181105,
+        "end_time": 182575,
+        "text": "That can become a problem."
+    },
+    {
+        "index": 56,
+        "start_time": 182575,
+        "end_time": 185144,
+        "text": "For example, some arbitrators \nmay be biased"
+    },
+    {
+        "index": 57,
+        "start_time": 185144,
+        "end_time": 187555,
+        "text": "towards the companies\nthat give them cases."
+    },
+    {
+        "index": 58,
+        "start_time": 187555,
+        "end_time": 190725,
+        "text": "These are just some of the ways\nin which juries have disappeared."
+    },
+    {
+        "index": 59,
+        "start_time": 190725,
+        "end_time": 193765,
+        "text": "But could the disappearance of juries\nbe a good thing?"
+    },
+    {
+        "index": 60,
+        "start_time": 193765,
+        "end_time": 195685,
+        "text": "Well, juries aren&#39;t perfect."
+    },
+    {
+        "index": 61,
+        "start_time": 195685,
+        "end_time": 196775,
+        "text": "They&#39;re costly,"
+    },
+    {
+        "index": 62,
+        "start_time": 196775,
+        "end_time": 197765,
+        "text": "time-consuming,"
+    },
+    {
+        "index": 63,
+        "start_time": 197765,
+        "end_time": 199275,
+        "text": "and may make errors."
+    },
+    {
+        "index": 64,
+        "start_time": 199275,
+        "end_time": 201255,
+        "text": "And they&#39;re not always necessary,"
+    },
+    {
+        "index": 65,
+        "start_time": 201255,
+        "end_time": 204684,
+        "text": "like when people can simply agree\nto settle their disputes."
+    },
+    {
+        "index": 66,
+        "start_time": 204684,
+        "end_time": 206765,
+        "text": "But juries have their advantages."
+    },
+    {
+        "index": 67,
+        "start_time": 206765,
+        "end_time": 208135,
+        "text": "When properly selected,"
+    },
+    {
+        "index": 68,
+        "start_time": 208135,
+        "end_time": 211516,
+        "text": "jurors are more representative of\nthe general population"
+    },
+    {
+        "index": 69,
+        "start_time": 211516,
+        "end_time": 214366,
+        "text": "and don&#39;t have the same incentives\nas prosecutors,"
+    },
+    {
+        "index": 70,
+        "start_time": 214366,
+        "end_time": 215256,
+        "text": "legislators,"
+    },
+    {
+        "index": 71,
+        "start_time": 215256,
+        "end_time": 216256,
+        "text": "or judges"
+    },
+    {
+        "index": 72,
+        "start_time": 216256,
+        "end_time": 218315,
+        "text": "seeking reelection or promotion."
+    },
+    {
+        "index": 73,
+        "start_time": 218315,
+        "end_time": 220966,
+        "text": "The founders of the United States trusted\nin the wisdom"
+    },
+    {
+        "index": 74,
+        "start_time": 220966,
+        "end_time": 222845,
+        "text": "of impartial groups of citizens"
+    },
+    {
+        "index": 75,
+        "start_time": 222845,
+        "end_time": 225805,
+        "text": "to check the power of all three branches\nof government."
+    },
+    {
+        "index": 76,
+        "start_time": 225805,
+        "end_time": 229246,
+        "text": "And the jury trial itself has given\nordinary citizens"
+    },
+    {
+        "index": 77,
+        "start_time": 229246,
+        "end_time": 232145,
+        "text": "a central role in upholding\nthe social fabric."
+    },
+    {
+        "index": 78,
+        "start_time": 232145,
+        "end_time": 236356,
+        "text": "So will the jury system in the U.S.\nsurvive into the future?"
+    }
+]

@@ -1,0 +1,572 @@
+[
+    {
+        "index": 1,
+        "start_time": 6947,
+        "end_time": 8305,
+        "text": "The sun is shining."
+    },
+    {
+        "index": 2,
+        "start_time": 8329,
+        "end_time": 10053,
+        "text": "The birds are singing."
+    },
+    {
+        "index": 3,
+        "start_time": 10077,
+        "end_time": 12595,
+        "text": "It looks like the start\nof another lovely day."
+    },
+    {
+        "index": 4,
+        "start_time": 12619,
+        "end_time": 15297,
+        "text": "You&#39;re walking happily\nin the park, when, &quot;Ah-choo!&quot;"
+    },
+    {
+        "index": 5,
+        "start_time": 16082,
+        "end_time": 19999,
+        "text": "A passing stranger has expelled mucus\nand saliva from their mouth and nose."
+    },
+    {
+        "index": 6,
+        "start_time": 20023,
+        "end_time": 23082,
+        "text": "You can feel the droplets\nof moisture land on your skin,"
+    },
+    {
+        "index": 7,
+        "start_time": 23106,
+        "end_time": 26079,
+        "text": "but what you can&#39;t feel are\nthe thousands, or even millions,"
+    },
+    {
+        "index": 8,
+        "start_time": 26103,
+        "end_time": 29681,
+        "text": "of microscopic germs that have covertly\ntraveled through the air"
+    },
+    {
+        "index": 9,
+        "start_time": 29705,
+        "end_time": 32618,
+        "text": "and onto your clothing, hands and face."
+    },
+    {
+        "index": 10,
+        "start_time": 32642,
+        "end_time": 34411,
+        "text": "As gross as this scenario sounds,"
+    },
+    {
+        "index": 11,
+        "start_time": 34435,
+        "end_time": 38617,
+        "text": "it&#39;s actually very common for our bodies\nto be exposed to disease-causing germs,"
+    },
+    {
+        "index": 12,
+        "start_time": 38641,
+        "end_time": 41361,
+        "text": "and most of the time,\nit&#39;s not nearly as obvious."
+    },
+    {
+        "index": 13,
+        "start_time": 41385,
+        "end_time": 44634,
+        "text": "Germs are found on almost every surface\nwe come into contact with."
+    },
+    {
+        "index": 14,
+        "start_time": 44658,
+        "end_time": 45877,
+        "text": "When we talk about germs,"
+    },
+    {
+        "index": 15,
+        "start_time": 45901,
+        "end_time": 50272,
+        "text": "we&#39;re actually referring to many different\nkinds of microscopic organisms,"
+    },
+    {
+        "index": 16,
+        "start_time": 50296,
+        "end_time": 52651,
+        "text": "including bacteria, fungi,"
+    },
+    {
+        "index": 17,
+        "start_time": 52675,
+        "end_time": 54247,
+        "text": "protozoa and viruses."
+    },
+    {
+        "index": 18,
+        "start_time": 55224,
+        "end_time": 59197,
+        "text": "But what our germs all have in common\nis the ability to interact with our bodies"
+    },
+    {
+        "index": 19,
+        "start_time": 59221,
+        "end_time": 60965,
+        "text": "and change how we feel and function."
+    },
+    {
+        "index": 20,
+        "start_time": 61897,
+        "end_time": 65282,
+        "text": "Scientists who study infectious diseases\nhave wondered for decades"
+    },
+    {
+        "index": 21,
+        "start_time": 65306,
+        "end_time": 69363,
+        "text": "why it is that some of these germs\nare relatively harmless,"
+    },
+    {
+        "index": 22,
+        "start_time": 69399,
+        "end_time": 72879,
+        "text": "while others cause devastating effects\nand can sometimes be fatal."
+    },
+    {
+        "index": 23,
+        "start_time": 73522,
+        "end_time": 76038,
+        "text": "We still haven&#39;t solved the entire puzzle,"
+    },
+    {
+        "index": 24,
+        "start_time": 76062,
+        "end_time": 79547,
+        "text": "but what we do know\nis that the harmfulness, or virulence,"
+    },
+    {
+        "index": 25,
+        "start_time": 79571,
+        "end_time": 81706,
+        "text": "of a germ is a result of evolution."
+    },
+    {
+        "index": 26,
+        "start_time": 81730,
+        "end_time": 84249,
+        "text": "How can it be that the same\nevolutionary process"
+    },
+    {
+        "index": 27,
+        "start_time": 84273,
+        "end_time": 87142,
+        "text": "can produce germs that cause\nvery different levels of harm?"
+    },
+    {
+        "index": 28,
+        "start_time": 87960,
+        "end_time": 89743,
+        "text": "The answer starts to become clear"
+    },
+    {
+        "index": 29,
+        "start_time": 89767,
+        "end_time": 92417,
+        "text": "if we think about a germ&#39;s\nmode of transmission,"
+    },
+    {
+        "index": 30,
+        "start_time": 92441,
+        "end_time": 96041,
+        "text": "which is the strategy it uses\nto get from one host to the next."
+    },
+    {
+        "index": 31,
+        "start_time": 96065,
+        "end_time": 98827,
+        "text": "A common mode of transmission\noccurs through the air,"
+    },
+    {
+        "index": 32,
+        "start_time": 98851,
+        "end_time": 100540,
+        "text": "like the sneeze you just witnessed,"
+    },
+    {
+        "index": 33,
+        "start_time": 100564,
+        "end_time": 103653,
+        "text": "and one germ that uses\nthis method is the rhinovirus,"
+    },
+    {
+        "index": 34,
+        "start_time": 103677,
+        "end_time": 105491,
+        "text": "which replicates in our upper airways,"
+    },
+    {
+        "index": 35,
+        "start_time": 105515,
+        "end_time": 108468,
+        "text": "and is responsible\nfor up to half of all common colds."
+    },
+    {
+        "index": 36,
+        "start_time": 108492,
+        "end_time": 110430,
+        "text": "Now, imagine that after the sneeze,"
+    },
+    {
+        "index": 37,
+        "start_time": 110454,
+        "end_time": 113982,
+        "text": "one of three hypothetical\nvarieties of rhinovirus,"
+    },
+    {
+        "index": 38,
+        "start_time": 114006,
+        "end_time": 118305,
+        "text": "let&#39;s call them &quot;too much,&quot;\n&quot;too little,&quot; and &quot;just right,&quot;"
+    },
+    {
+        "index": 39,
+        "start_time": 118329,
+        "end_time": 120549,
+        "text": "has been lucky enough to land on you."
+    },
+    {
+        "index": 40,
+        "start_time": 120573,
+        "end_time": 123492,
+        "text": "These viruses are hardwired to replicate,"
+    },
+    {
+        "index": 41,
+        "start_time": 123516,
+        "end_time": 126946,
+        "text": "but because of genetic differences,\nthey will do so at different rates."
+    },
+    {
+        "index": 42,
+        "start_time": 126970,
+        "end_time": 129649,
+        "text": "&quot;Too much&quot; multiplies very often,"
+    },
+    {
+        "index": 43,
+        "start_time": 129674,
+        "end_time": 131852,
+        "text": "making it very successful\nin the short run."
+    },
+    {
+        "index": 44,
+        "start_time": 131876,
+        "end_time": 135212,
+        "text": "However, this success comes\nat a cost to you, the host."
+    },
+    {
+        "index": 45,
+        "start_time": 135236,
+        "end_time": 139078,
+        "text": "A quickly replicating virus\ncan cause more damage to your body,"
+    },
+    {
+        "index": 46,
+        "start_time": 139102,
+        "end_time": 141259,
+        "text": "making cold symptoms more severe."
+    },
+    {
+        "index": 47,
+        "start_time": 141871,
+        "end_time": 143711,
+        "text": "If you&#39;re too sick to leave your home,"
+    },
+    {
+        "index": 48,
+        "start_time": 143735,
+        "end_time": 147583,
+        "text": "you don&#39;t give the virus any opportunities\nto jump to a new host."
+    },
+    {
+        "index": 49,
+        "start_time": 147607,
+        "end_time": 149550,
+        "text": "And if the disease should kill you,"
+    },
+    {
+        "index": 50,
+        "start_time": 149574,
+        "end_time": 152726,
+        "text": "the virus&#39; own life cycle will end\nalong with yours."
+    },
+    {
+        "index": 51,
+        "start_time": 152750,
+        "end_time": 155386,
+        "text": "&quot;Too little,&quot; on the other hand,\nmultiplies rarely"
+    },
+    {
+        "index": 52,
+        "start_time": 155410,
+        "end_time": 157593,
+        "text": "and causes you little harm in the process."
+    },
+    {
+        "index": 53,
+        "start_time": 157617,
+        "end_time": 161370,
+        "text": "Although this leaves you healthy enough\nto interact with other potential hosts,"
+    },
+    {
+        "index": 54,
+        "start_time": 161394,
+        "end_time": 164642,
+        "text": "the lack of symptoms means\nyou may not sneeze at all,"
+    },
+    {
+        "index": 55,
+        "start_time": 164666,
+        "end_time": 169456,
+        "text": "or if you do, there may be too few viruses\nin your mucus to infect anyone else."
+    },
+    {
+        "index": 56,
+        "start_time": 169480,
+        "end_time": 172777,
+        "text": "Meanwhile, &quot;just right&quot; has been\nreplicating quickly enough"
+    },
+    {
+        "index": 57,
+        "start_time": 172801,
+        "end_time": 176197,
+        "text": "to ensure that you&#39;re carrying\nsufficient amounts of the virus to spread"
+    },
+    {
+        "index": 58,
+        "start_time": 176221,
+        "end_time": 178864,
+        "text": "but not so often that you&#39;re too sick\nto get out of bed."
+    },
+    {
+        "index": 59,
+        "start_time": 179671,
+        "end_time": 182439,
+        "text": "And in the end, it&#39;s the one\nthat will be most successful"
+    },
+    {
+        "index": 60,
+        "start_time": 182463,
+        "end_time": 186631,
+        "text": "at transmitting itself to new hosts\nand giving rise to the next generation."
+    },
+    {
+        "index": 61,
+        "start_time": 187442,
+        "end_time": 190976,
+        "text": "This describes what scientists call\ntrade-off hypothesis."
+    },
+    {
+        "index": 62,
+        "start_time": 191000,
+        "end_time": 192994,
+        "text": "First developed in the early 1980s,"
+    },
+    {
+        "index": 63,
+        "start_time": 193018,
+        "end_time": 196555,
+        "text": "it predicts that germs will evolve\nto maximize their overall success"
+    },
+    {
+        "index": 64,
+        "start_time": 196579,
+        "end_time": 199430,
+        "text": "by achieving a balance between\nreplicating within a host,"
+    },
+    {
+        "index": 65,
+        "start_time": 199454,
+        "end_time": 202846,
+        "text": "which causes virulence,\nand transmission to a new host."
+    },
+    {
+        "index": 66,
+        "start_time": 203908,
+        "end_time": 205902,
+        "text": "In the case of the rhinovirus,"
+    },
+    {
+        "index": 67,
+        "start_time": 205926,
+        "end_time": 210575,
+        "text": "the hypothesis predicts that its evolution\nwill favor less virulent forms"
+    },
+    {
+        "index": 68,
+        "start_time": 210599,
+        "end_time": 214036,
+        "text": "because it relies on close contact\nto get to its next victim."
+    },
+    {
+        "index": 69,
+        "start_time": 214060,
+        "end_time": 217147,
+        "text": "For the rhinovirus,\na mobile host is a good host,"
+    },
+    {
+        "index": 70,
+        "start_time": 217171,
+        "end_time": 218959,
+        "text": "and indeed, that is what we see."
+    },
+    {
+        "index": 71,
+        "start_time": 218983,
+        "end_time": 222761,
+        "text": "While most people experience\na runny nose, coughing and sneezing,"
+    },
+    {
+        "index": 72,
+        "start_time": 222785,
+        "end_time": 226093,
+        "text": "the common cold is generally mild\nand only lasts about a week."
+    },
+    {
+        "index": 73,
+        "start_time": 226117,
+        "end_time": 228153,
+        "text": "It would be great\nif the story ended there,"
+    },
+    {
+        "index": 74,
+        "start_time": 228177,
+        "end_time": 230504,
+        "text": "but germs use many other modes\nof transmission."
+    },
+    {
+        "index": 75,
+        "start_time": 230528,
+        "end_time": 235384,
+        "text": "For example, the malaria parasite,\nplasmodium, is transmitted by mosquitoes."
+    },
+    {
+        "index": 76,
+        "start_time": 235408,
+        "end_time": 238826,
+        "text": "Unlike the rhinovirus, it doesn&#39;t need us\nto be up and about,"
+    },
+    {
+        "index": 77,
+        "start_time": 238850,
+        "end_time": 241029,
+        "text": "and may even benefit from harming us"
+    },
+    {
+        "index": 78,
+        "start_time": 241053,
+        "end_time": 245088,
+        "text": "since a sick and immobile person\nis easier for mosquitoes to bite."
+    },
+    {
+        "index": 79,
+        "start_time": 245112,
+        "end_time": 247855,
+        "text": "We would expect germs\nthat depend less on host mobility,"
+    },
+    {
+        "index": 80,
+        "start_time": 247879,
+        "end_time": 250831,
+        "text": "like those transmitted\nby insects, water or food,"
+    },
+    {
+        "index": 81,
+        "start_time": 250855,
+        "end_time": 252965,
+        "text": "to cause more severe symptoms."
+    },
+    {
+        "index": 82,
+        "start_time": 252989,
+        "end_time": 256748,
+        "text": "So, what can we do to reduce\nthe harmfulness of infectious diseases?"
+    },
+    {
+        "index": 83,
+        "start_time": 256772,
+        "end_time": 259348,
+        "text": "Evolutionary biologist Dr. Paul Ewald"
+    },
+    {
+        "index": 84,
+        "start_time": 259373,
+        "end_time": 262277,
+        "text": "has suggested that we can\nactually direct their evolution"
+    },
+    {
+        "index": 85,
+        "start_time": 262309,
+        "end_time": 264535,
+        "text": "through simple disease-control methods."
+    },
+    {
+        "index": 86,
+        "start_time": 264559,
+        "end_time": 267987,
+        "text": "By mosquito-proofing houses,\nestablishing clean water systems,"
+    },
+    {
+        "index": 87,
+        "start_time": 268011,
+        "end_time": 270137,
+        "text": "or staying home when we get a cold,"
+    },
+    {
+        "index": 88,
+        "start_time": 270161,
+        "end_time": 273108,
+        "text": "we can obstruct the transmission\nstrategies of harmful germs"
+    },
+    {
+        "index": 89,
+        "start_time": 273132,
+        "end_time": 275911,
+        "text": "while creating a greater dependence\non host mobility."
+    },
+    {
+        "index": 90,
+        "start_time": 275935,
+        "end_time": 278672,
+        "text": "So, while traditional methods\nof trying to eradicate germs"
+    },
+    {
+        "index": 91,
+        "start_time": 278696,
+        "end_time": 281428,
+        "text": "may only breed stronger ones\nin the long run,"
+    },
+    {
+        "index": 92,
+        "start_time": 281452,
+        "end_time": 285838,
+        "text": "this innovative approach of encouraging\nthem to evolve milder forms"
+    },
+    {
+        "index": 93,
+        "start_time": 285862,
+        "end_time": 287666,
+        "text": "could be a win-win situation."
+    },
+    {
+        "index": 94,
+        "start_time": 287690,
+        "end_time": 289113,
+        "text": "(Cough)"
+    },
+    {
+        "index": 95,
+        "start_time": 289137,
+        "end_time": 290993,
+        "text": "Well, for the most part."
+    }
+]

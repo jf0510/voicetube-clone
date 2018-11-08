@@ -1,0 +1,650 @@
+[
+  {
+    "end_time": 833,
+    "index": 1,
+    "start_time": 0,
+    "text": "(ominous music)"
+  },
+  {
+    "end_time": 2748,
+    "index": 2,
+    "start_time": 833,
+    "text": "- You&#39;ve probably seen\npeople cover their webcams,"
+  },
+  {
+    "end_time": 4995,
+    "index": 3,
+    "start_time": 2749,
+    "text": "but should you cover your webcam?"
+  },
+  {
+    "end_time": 7132,
+    "index": 4,
+    "start_time": 4995,
+    "text": "Former FBI director, James Comey,"
+  },
+  {
+    "end_time": 7965,
+    "index": 5,
+    "start_time": 7132,
+    "text": "thinks you should."
+  },
+  {
+    "end_time": 9208,
+    "index": 6,
+    "start_time": 7965,
+    "text": "- [Interviewer] Do you\nstill have a piece of tape"
+  },
+  {
+    "end_time": 11749,
+    "index": 7,
+    "start_time": 9208,
+    "text": "over your cameras at home?\n- Heck yeah, heck yeah."
+  },
+  {
+    "end_time": 13472,
+    "index": 8,
+    "start_time": 11749,
+    "text": "- Edward Snowden, and\neven Mark Zuckerberg,"
+  },
+  {
+    "end_time": 15844,
+    "index": 9,
+    "start_time": 13472,
+    "text": "appear to cover theirs.\nIt could protect you"
+  },
+  {
+    "end_time": 17834,
+    "index": 10,
+    "start_time": 15845,
+    "text": "from attacks like the one Miss Teen USA"
+  },
+  {
+    "end_time": 19998,
+    "index": 11,
+    "start_time": 17834,
+    "text": "experienced in 2013, in which a man"
+  },
+  {
+    "end_time": 22429,
+    "index": 12,
+    "start_time": 19998,
+    "text": "secretly spied on her, and recorded her,"
+  },
+  {
+    "end_time": 25162,
+    "index": 13,
+    "start_time": 22429,
+    "text": "and then blackmailed her. But\nyou&#39;re not a head of state,"
+  },
+  {
+    "end_time": 26944,
+    "index": 14,
+    "start_time": 25162,
+    "text": "and you&#39;re also not a celebrity."
+  },
+  {
+    "end_time": 28764,
+    "index": 15,
+    "start_time": 26944,
+    "text": "So do you really need\nto worry about someone"
+  },
+  {
+    "end_time": 31714,
+    "index": 16,
+    "start_time": 28764,
+    "text": "spying on you through\nyour laptop&#39;s camera?"
+  },
+  {
+    "end_time": 32631,
+    "index": 17,
+    "start_time": 31714,
+    "text": "Well, yeah."
+  },
+  {
+    "end_time": 35396,
+    "index": 18,
+    "start_time": 33176,
+    "text": "(steady electronic music)"
+  },
+  {
+    "end_time": 37591,
+    "index": 19,
+    "start_time": 35396,
+    "text": "In 2013, a hacker told the BBC"
+  },
+  {
+    "end_time": 39252,
+    "index": 20,
+    "start_time": 37591,
+    "text": "that access to a woman&#39;s webcam"
+  },
+  {
+    "end_time": 41516,
+    "index": 21,
+    "start_time": 39252,
+    "text": "cost about a dollar,\nand that he had access"
+  },
+  {
+    "end_time": 44099,
+    "index": 22,
+    "start_time": 41516,
+    "text": "to 500 computers. That&#39;s crazy!"
+  },
+  {
+    "end_time": 46695,
+    "index": 23,
+    "start_time": 44586,
+    "text": "So, to find out how\ncommon these attacks are,"
+  },
+  {
+    "end_time": 47925,
+    "index": 24,
+    "start_time": 46695,
+    "text": "and whether we should be worried,"
+  },
+  {
+    "end_time": 50340,
+    "index": 25,
+    "start_time": 47925,
+    "text": "I talked to Tod Beardsley,\nthe research director"
+  },
+  {
+    "end_time": 54381,
+    "index": 26,
+    "start_time": 50341,
+    "text": "at cybersecurity and penetration\ntesting company, Rapid7."
+  },
+  {
+    "end_time": 57048,
+    "index": 27,
+    "start_time": 54381,
+    "text": "- There are occasionally bugs in"
+  },
+  {
+    "end_time": 61634,
+    "index": 28,
+    "start_time": 58423,
+    "text": "web-based technologies\nthat allow attackers"
+  },
+  {
+    "end_time": 65217,
+    "index": 29,
+    "start_time": 61634,
+    "text": "to open your webcam\nand record video on it."
+  },
+  {
+    "end_time": 68103,
+    "index": 30,
+    "start_time": 65942,
+    "text": "They&#39;re pretty far and few in between."
+  },
+  {
+    "end_time": 69792,
+    "index": 31,
+    "start_time": 68103,
+    "text": "- [Ashley] He explained to\nme that these vulnerabilities"
+  },
+  {
+    "end_time": 71321,
+    "index": 32,
+    "start_time": 69793,
+    "text": "often show up in Flash and Java,"
+  },
+  {
+    "end_time": 74364,
+    "index": 33,
+    "start_time": 71321,
+    "text": "and at this point, there\nmight even been one in html5."
+  },
+  {
+    "end_time": 76539,
+    "index": 34,
+    "start_time": 74364,
+    "text": "What really sucks is that you won&#39;t know"
+  },
+  {
+    "end_time": 78818,
+    "index": 35,
+    "start_time": 76539,
+    "text": "if a website is affected, also,"
+  },
+  {
+    "end_time": 81259,
+    "index": 36,
+    "start_time": 78818,
+    "text": "hackers can turn off your webcam&#39;s light"
+  },
+  {
+    "end_time": 82678,
+    "index": 37,
+    "start_time": 81260,
+    "text": "so you won&#39;t actually know whether"
+  },
+  {
+    "end_time": 84972,
+    "index": 38,
+    "start_time": 82678,
+    "text": "you&#39;ve been compromised. That&#39;s not great!"
+  },
+  {
+    "end_time": 86610,
+    "index": 39,
+    "start_time": 84972,
+    "text": "- Anything that wants you to click"
+  },
+  {
+    "end_time": 89072,
+    "index": 40,
+    "start_time": 86611,
+    "text": "in a very specific place in your browser,"
+  },
+  {
+    "end_time": 92130,
+    "index": 41,
+    "start_time": 89072,
+    "text": "that would be very suspect.\nYou see it a lot more now"
+  },
+  {
+    "end_time": 93571,
+    "index": 42,
+    "start_time": 92130,
+    "text": "with location services, like,"
+  },
+  {
+    "end_time": 95892,
+    "index": 43,
+    "start_time": 93571,
+    "text": "&quot;click here to allow location service&quot;,"
+  },
+  {
+    "end_time": 99005,
+    "index": 44,
+    "start_time": 95892,
+    "text": "that&#39;s typically the\ncontrol on webcams as well."
+  },
+  {
+    "end_time": 100600,
+    "index": 45,
+    "start_time": 99005,
+    "text": "There&#39;s not a lot you can\ndo about it other than"
+  },
+  {
+    "end_time": 101458,
+    "index": 46,
+    "start_time": 100600,
+    "text": "(clicks tongue to mimic sticky tape)"
+  },
+  {
+    "end_time": 102580,
+    "index": 47,
+    "start_time": 101458,
+    "text": "- Okay, so, at least tape will"
+  },
+  {
+    "end_time": 105716,
+    "index": 48,
+    "start_time": 102580,
+    "text": "stop someone from spying on you visually,"
+  },
+  {
+    "end_time": 108359,
+    "index": 49,
+    "start_time": 105716,
+    "text": "that&#39;s a relief. But how effective"
+  },
+  {
+    "end_time": 110591,
+    "index": 50,
+    "start_time": 108359,
+    "text": "is covering our webcams,\nand should we do it?"
+  },
+  {
+    "end_time": 113151,
+    "index": 51,
+    "start_time": 110591,
+    "text": "- Having it covered is a super cheap,"
+  },
+  {
+    "end_time": 117495,
+    "index": 52,
+    "start_time": 113152,
+    "text": "super easy thing to do, that\nalso doesn&#39;t get you a lot,"
+  },
+  {
+    "end_time": 119170,
+    "index": 53,
+    "start_time": 117495,
+    "text": "but at least it makes\nyou feel better, right?"
+  },
+  {
+    "end_time": 121541,
+    "index": 54,
+    "start_time": 119170,
+    "text": "And it is a signal to other people"
+  },
+  {
+    "end_time": 123247,
+    "index": 55,
+    "start_time": 121541,
+    "text": "that you think about security."
+  },
+  {
+    "end_time": 125200,
+    "index": 56,
+    "start_time": 123248,
+    "text": "- Okay, so Tod says it can&#39;t hurt,"
+  },
+  {
+    "end_time": 126698,
+    "index": 57,
+    "start_time": 125200,
+    "text": "but covering your laptop camera"
+  },
+  {
+    "end_time": 129398,
+    "index": 58,
+    "start_time": 126698,
+    "text": "doesn&#39;t actually address\nthe much bigger risk"
+  },
+  {
+    "end_time": 131381,
+    "index": 59,
+    "start_time": 129398,
+    "text": "of your cellphone camera and microphone."
+  },
+  {
+    "end_time": 133206,
+    "index": 60,
+    "start_time": 131381,
+    "text": "Microphone hacking is\nprobably just as creepy"
+  },
+  {
+    "end_time": 135353,
+    "index": 61,
+    "start_time": 133206,
+    "text": "and incriminating as a video."
+  },
+  {
+    "end_time": 137936,
+    "index": 62,
+    "start_time": 135354,
+    "text": "- I can record conversations in the room,"
+  },
+  {
+    "end_time": 139395,
+    "index": 63,
+    "start_time": 137936,
+    "text": "that piece of tape is not gonna stop me."
+  },
+  {
+    "end_time": 141013,
+    "index": 64,
+    "start_time": 139395,
+    "text": "- [Ashley] We actually tested this."
+  },
+  {
+    "end_time": 142573,
+    "index": 65,
+    "start_time": 141013,
+    "text": "(cellphone ringing)"
+  },
+  {
+    "end_time": 143406,
+    "index": 66,
+    "start_time": 142573,
+    "text": "- [Woman On Phone] Hey."
+  },
+  {
+    "end_time": 145330,
+    "index": 67,
+    "start_time": 143406,
+    "text": "- Hey, okay, so can you try to talk to me"
+  },
+  {
+    "end_time": 148105,
+    "index": 68,
+    "start_time": 145330,
+    "text": "with your phone away from your face?"
+  },
+  {
+    "end_time": 149528,
+    "index": 69,
+    "start_time": 148105,
+    "text": "- [Woman On Phone] Sure."
+  },
+  {
+    "end_time": 150361,
+    "index": 70,
+    "start_time": 149528,
+    "text": "(microphone static)"
+  },
+  {
+    "end_time": 152328,
+    "index": 71,
+    "start_time": 150361,
+    "text": "- [Woman On Phone] This is\nabout how loudly I would talk"
+  },
+  {
+    "end_time": 153642,
+    "index": 72,
+    "start_time": 152329,
+    "text": "if I was having a conversation"
+  },
+  {
+    "end_time": 155559,
+    "index": 73,
+    "start_time": 153642,
+    "text": "with someone in a room."
+  },
+  {
+    "end_time": 160039,
+    "index": 74,
+    "start_time": 156539,
+    "text": "- Okay, so I can hear you pretty perfectly"
+  },
+  {
+    "end_time": 162904,
+    "index": 75,
+    "start_time": 160121,
+    "text": "meaning, if a hacker had\nhacked into your microphone,"
+  },
+  {
+    "end_time": 165734,
+    "index": 76,
+    "start_time": 162904,
+    "text": "even if you had tape\nover it, here she would"
+  },
+  {
+    "end_time": 168170,
+    "index": 77,
+    "start_time": 165734,
+    "text": "still be able to hear what you&#39;re saying."
+  },
+  {
+    "end_time": 169545,
+    "index": 78,
+    "start_time": 168170,
+    "text": "I hate to break it to you all,"
+  },
+  {
+    "end_time": 171515,
+    "index": 79,
+    "start_time": 169545,
+    "text": "but the reality is that\ncameras and microphones"
+  },
+  {
+    "end_time": 173791,
+    "index": 80,
+    "start_time": 171515,
+    "text": "are everywhere now; we\nhave smart home speakers,"
+  },
+  {
+    "end_time": 176621,
+    "index": 81,
+    "start_time": 173792,
+    "text": "cellphones, laptops, smart refrigerators,"
+  },
+  {
+    "end_time": 179065,
+    "index": 82,
+    "start_time": 176621,
+    "text": "and even voice-enabled TV remotes"
+  },
+  {
+    "end_time": 181173,
+    "index": 83,
+    "start_time": 179065,
+    "text": "listening to us at all times."
+  },
+  {
+    "end_time": 182918,
+    "index": 84,
+    "start_time": 181173,
+    "text": "Unless you&#39;re going to tape over,"
+  },
+  {
+    "end_time": 184588,
+    "index": 85,
+    "start_time": 182918,
+    "text": "or physically disable every one"
+  },
+  {
+    "end_time": 186242,
+    "index": 86,
+    "start_time": 184588,
+    "text": "of those cameras or microphones,"
+  },
+  {
+    "end_time": 188255,
+    "index": 87,
+    "start_time": 186242,
+    "text": "you&#39;re still going to be at risk."
+  },
+  {
+    "end_time": 189492,
+    "index": 88,
+    "start_time": 188255,
+    "text": "But, if nothing else, we can at least"
+  },
+  {
+    "end_time": 191905,
+    "index": 89,
+    "start_time": 189492,
+    "text": "prevent webcam attacks with tape."
+  },
+  {
+    "end_time": 194680,
+    "index": 90,
+    "start_time": 191905,
+    "text": "- There is some superstitious\ncomfort you get,"
+  },
+  {
+    "end_time": 197968,
+    "index": 91,
+    "start_time": 194680,
+    "text": "because you can see the\ncamera sticker all the time,"
+  },
+  {
+    "end_time": 200441,
+    "index": 92,
+    "start_time": 197968,
+    "text": "you&#39;re looking at it and\nthink, &quot;I&#39;m doing it right&quot;."
+  },
+  {
+    "end_time": 202048,
+    "index": 93,
+    "start_time": 200441,
+    "text": "It&#39;s a little bit self-congratulatory"
+  },
+  {
+    "end_time": 203467,
+    "index": 94,
+    "start_time": 202048,
+    "text": "to put the tape on the camera,"
+  },
+  {
+    "end_time": 206535,
+    "index": 95,
+    "start_time": 203467,
+    "text": "but it does ultimately also mean that"
+  },
+  {
+    "end_time": 208811,
+    "index": 96,
+    "start_time": 206535,
+    "text": "you&#39;re looking at security\ncontrol all the time,"
+  },
+  {
+    "end_time": 210039,
+    "index": 97,
+    "start_time": 208811,
+    "text": "so you might be thinking more about"
+  },
+  {
+    "end_time": 211494,
+    "index": 98,
+    "start_time": 210039,
+    "text": "how long should my password be?"
+  },
+  {
+    "end_time": 212863,
+    "index": 99,
+    "start_time": 211495,
+    "text": "Should I tell those people my password?"
+  },
+  {
+    "end_time": 214287,
+    "index": 100,
+    "start_time": 212863,
+    "text": "Shall I click on this link in the cPanel?"
+  },
+  {
+    "end_time": 215907,
+    "index": 101,
+    "start_time": 214287,
+    "text": "I think that is probably valuable."
+  },
+  {
+    "end_time": 218301,
+    "index": 102,
+    "start_time": 215907,
+    "text": "- So go ahead, put tape over your camera."
+  },
+  {
+    "end_time": 219554,
+    "index": 103,
+    "start_time": 218301,
+    "text": "It might not stop hackers from"
+  },
+  {
+    "end_time": 221091,
+    "index": 104,
+    "start_time": 219555,
+    "text": "listening through your microphone,"
+  },
+  {
+    "end_time": 223298,
+    "index": 105,
+    "start_time": 221091,
+    "text": "but it&#39;ll at least make us feel"
+  },
+  {
+    "end_time": 224763,
+    "index": 106,
+    "start_time": 223298,
+    "text": "a little bit better, and prevent them"
+  },
+  {
+    "end_time": 227430,
+    "index": 107,
+    "start_time": 224763,
+    "text": "from watching us sleep at night."
+  },
+  {
+    "end_time": 230472,
+    "index": 108,
+    "start_time": 227722,
+    "text": "(elevator dings)"
+  }
+]

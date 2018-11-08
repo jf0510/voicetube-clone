@@ -1,0 +1,572 @@
+[
+    {
+        "index": 1,
+        "start_time": 5684,
+        "end_time": 8684,
+        "text": "French fries are delicious."
+    },
+    {
+        "index": 2,
+        "start_time": 8684,
+        "end_time": 12684,
+        "text": "French fries with ketchup are a little slice of heaven."
+    },
+    {
+        "index": 3,
+        "start_time": 12684,
+        "end_time": 14432,
+        "text": "The problem is it&#39;s basically impossible"
+    },
+    {
+        "index": 4,
+        "start_time": 14432,
+        "end_time": 16463,
+        "text": "to pour the exactly right amount."
+    },
+    {
+        "index": 5,
+        "start_time": 16463,
+        "end_time": 19768,
+        "text": "We&#39;re so used to pouring ketchup that we don&#39;t realize"
+    },
+    {
+        "index": 6,
+        "start_time": 19768,
+        "end_time": 21851,
+        "text": "how weird its behavior is."
+    },
+    {
+        "index": 7,
+        "start_time": 21851,
+        "end_time": 26430,
+        "text": "Imagine a ketchup bottle filled with a straight up solid like steel."
+    },
+    {
+        "index": 8,
+        "start_time": 26430,
+        "end_time": 29475,
+        "text": "No amount of shaking would ever get the steel out."
+    },
+    {
+        "index": 9,
+        "start_time": 29475,
+        "end_time": 32395,
+        "text": "Now imagine that same bottle full of a liquid like water."
+    },
+    {
+        "index": 10,
+        "start_time": 32395,
+        "end_time": 34434,
+        "text": "That would pour like a dream."
+    },
+    {
+        "index": 11,
+        "start_time": 34434,
+        "end_time": 36851,
+        "text": "Ketchup, though, can&#39;t seem to make up its mind."
+    },
+    {
+        "index": 12,
+        "start_time": 36851,
+        "end_time": 38933,
+        "text": "Is it is a solid? Or a liquid?"
+    },
+    {
+        "index": 13,
+        "start_time": 38933,
+        "end_time": 41654,
+        "text": "The answer is, it depends."
+    },
+    {
+        "index": 14,
+        "start_time": 41654,
+        "end_time": 44846,
+        "text": "The world&#39;s most common fluids like water, oils and alcohols"
+    },
+    {
+        "index": 15,
+        "start_time": 44846,
+        "end_time": 47597,
+        "text": "respond to force linearly."
+    },
+    {
+        "index": 16,
+        "start_time": 47597,
+        "end_time": 51238,
+        "text": "If you push on them twice as hard, they move twice as fast."
+    },
+    {
+        "index": 17,
+        "start_time": 51238,
+        "end_time": 54355,
+        "text": "Sir Isaac Newton, of apple fame, first proposed this relationship,"
+    },
+    {
+        "index": 18,
+        "start_time": 54355,
+        "end_time": 57739,
+        "text": "and so those fluids are called Newtonian fluids."
+    },
+    {
+        "index": 19,
+        "start_time": 57739,
+        "end_time": 60695,
+        "text": "Ketchup, though, is part of a merry band of linear rule breakers"
+    },
+    {
+        "index": 20,
+        "start_time": 60695,
+        "end_time": 63286,
+        "text": "called Non-Newtonian fluids."
+    },
+    {
+        "index": 21,
+        "start_time": 63286,
+        "end_time": 66368,
+        "text": "Mayonnaise, toothpaste, blood, paint, peanut butter"
+    },
+    {
+        "index": 22,
+        "start_time": 66368,
+        "end_time": 69870,
+        "text": "and lots of other fluids respond to force non-linearly."
+    },
+    {
+        "index": 23,
+        "start_time": 69870,
+        "end_time": 71915,
+        "text": "That is, their apparent thickness changes"
+    },
+    {
+        "index": 24,
+        "start_time": 71915,
+        "end_time": 75336,
+        "text": "depending on how hard you push, or how long, or how fast."
+    },
+    {
+        "index": 25,
+        "start_time": 75336,
+        "end_time": 78551,
+        "text": "And ketchup is actually Non-Newtonian in two different ways."
+    },
+    {
+        "index": 26,
+        "start_time": 78551,
+        "end_time": 82849,
+        "text": "Way number one: the harder you push, the thinner ketchup seems to get."
+    },
+    {
+        "index": 27,
+        "start_time": 82849,
+        "end_time": 84715,
+        "text": "Below a certain pushing force,"
+    },
+    {
+        "index": 28,
+        "start_time": 84715,
+        "end_time": 86717,
+        "text": "ketchup basically behaves like a solid."
+    },
+    {
+        "index": 29,
+        "start_time": 86717,
+        "end_time": 89134,
+        "text": "But once you pass that breaking point,"
+    },
+    {
+        "index": 30,
+        "start_time": 89134,
+        "end_time": 93384,
+        "text": "it switches gears and becomes a thousand times thinner than it was before."
+    },
+    {
+        "index": 31,
+        "start_time": 93384,
+        "end_time": 95384,
+        "text": "Sound familiar right?"
+    },
+    {
+        "index": 32,
+        "start_time": 95384,
+        "end_time": 99276,
+        "text": "Way number two: if you push with a force below the threshold force"
+    },
+    {
+        "index": 33,
+        "start_time": 99276,
+        "end_time": 101569,
+        "text": "eventually, the ketchup will start to flow."
+    },
+    {
+        "index": 34,
+        "start_time": 101569,
+        "end_time": 105158,
+        "text": "In this case, time, not force, is the key to releasing ketchup"
+    },
+    {
+        "index": 35,
+        "start_time": 105158,
+        "end_time": 106992,
+        "text": "from its glassy prison."
+    },
+    {
+        "index": 36,
+        "start_time": 106992,
+        "end_time": 109620,
+        "text": "Alright, so, why does ketchup act all weird?"
+    },
+    {
+        "index": 37,
+        "start_time": 109620,
+        "end_time": 112634,
+        "text": "Well, it&#39;s made from tomatoes, pulverized, smashed, thrashed,"
+    },
+    {
+        "index": 38,
+        "start_time": 112634,
+        "end_time": 115457,
+        "text": "utterly destroyed tomatoes."
+    },
+    {
+        "index": 39,
+        "start_time": 115457,
+        "end_time": 116801,
+        "text": "See these tiny particles?"
+    },
+    {
+        "index": 40,
+        "start_time": 116801,
+        "end_time": 118586,
+        "text": "This is what remains of tomatoes cells"
+    },
+    {
+        "index": 41,
+        "start_time": 118586,
+        "end_time": 121215,
+        "text": "after they go through the ketchup treatment."
+    },
+    {
+        "index": 42,
+        "start_time": 121215,
+        "end_time": 122925,
+        "text": "And the liquid around those particles?"
+    },
+    {
+        "index": 43,
+        "start_time": 122925,
+        "end_time": 125967,
+        "text": "That&#39;s mostly water and some vinegar, sugar, and spices."
+    },
+    {
+        "index": 44,
+        "start_time": 125967,
+        "end_time": 128190,
+        "text": "When ketchup is just sitting around,"
+    },
+    {
+        "index": 45,
+        "start_time": 128190,
+        "end_time": 131551,
+        "text": "the tomato particles are evenly and randomly distributed."
+    },
+    {
+        "index": 46,
+        "start_time": 131551,
+        "end_time": 133967,
+        "text": "Now, let&#39;s say you apply a weak force very quickly."
+    },
+    {
+        "index": 47,
+        "start_time": 133967,
+        "end_time": 135522,
+        "text": "The particles bump into each other,"
+    },
+    {
+        "index": 48,
+        "start_time": 135522,
+        "end_time": 137218,
+        "text": "but can&#39;t get out of each other&#39;s way,"
+    },
+    {
+        "index": 49,
+        "start_time": 137218,
+        "end_time": 138717,
+        "text": "so the ketchup doesn&#39;t flow."
+    },
+    {
+        "index": 50,
+        "start_time": 138717,
+        "end_time": 141777,
+        "text": "Now, let&#39;s say you apply a strong force very quickly."
+    },
+    {
+        "index": 51,
+        "start_time": 141777,
+        "end_time": 144613,
+        "text": "That extra force is enough to squish the tomato particles,"
+    },
+    {
+        "index": 52,
+        "start_time": 144613,
+        "end_time": 145945,
+        "text": "so maybe instead of little spheres,"
+    },
+    {
+        "index": 53,
+        "start_time": 145945,
+        "end_time": 148827,
+        "text": "they get smushed into little ellipses, and boom!"
+    },
+    {
+        "index": 54,
+        "start_time": 148827,
+        "end_time": 150784,
+        "text": "Now you have enough space for one group of particles"
+    },
+    {
+        "index": 55,
+        "start_time": 150784,
+        "end_time": 153633,
+        "text": "to get passed others and the ketchup flows."
+    },
+    {
+        "index": 56,
+        "start_time": 153633,
+        "end_time": 157716,
+        "text": "Now let&#39;s say you apply a very weak force but for a very long time."
+    },
+    {
+        "index": 57,
+        "start_time": 157716,
+        "end_time": 161253,
+        "text": "Turns out, we&#39;re not exactly sure what happens in this scenario."
+    },
+    {
+        "index": 58,
+        "start_time": 161253,
+        "end_time": 165009,
+        "text": "One possibility is that the tomato particles near the walls of the container"
+    },
+    {
+        "index": 59,
+        "start_time": 165009,
+        "end_time": 167299,
+        "text": "slowly get bumped towards the middle,"
+    },
+    {
+        "index": 60,
+        "start_time": 167299,
+        "end_time": 168800,
+        "text": "leaving the soup they were dissolved in,"
+    },
+    {
+        "index": 61,
+        "start_time": 168800,
+        "end_time": 170383,
+        "text": "which remember is basically water,"
+    },
+    {
+        "index": 62,
+        "start_time": 170383,
+        "end_time": 171884,
+        "text": "near the edges."
+    },
+    {
+        "index": 63,
+        "start_time": 171884,
+        "end_time": 174383,
+        "text": "That water serves as a lubricant betwen the glass bottle"
+    },
+    {
+        "index": 64,
+        "start_time": 174383,
+        "end_time": 176436,
+        "text": "and the center plug of ketchup,"
+    },
+    {
+        "index": 65,
+        "start_time": 176436,
+        "end_time": 178551,
+        "text": "and so the ketchup flows."
+    },
+    {
+        "index": 66,
+        "start_time": 178551,
+        "end_time": 181941,
+        "text": "Another possibility is that the particles slowly rearrange themselves"
+    },
+    {
+        "index": 67,
+        "start_time": 181941,
+        "end_time": 185801,
+        "text": "into lots of small groups, which then flow past each other."
+    },
+    {
+        "index": 68,
+        "start_time": 185801,
+        "end_time": 188133,
+        "text": "Scientists who study fluid flows are still actively researching"
+    },
+    {
+        "index": 69,
+        "start_time": 188133,
+        "end_time": 191326,
+        "text": "how ketchup and its merry friends work."
+    },
+    {
+        "index": 70,
+        "start_time": 191326,
+        "end_time": 193411,
+        "text": "Ketchup basically gets thinner the harder you push,"
+    },
+    {
+        "index": 71,
+        "start_time": 193411,
+        "end_time": 196498,
+        "text": "but other substances, like oobleck or some natural peanut butters,"
+    },
+    {
+        "index": 72,
+        "start_time": 196498,
+        "end_time": 199301,
+        "text": "actually get thicker the harder you push."
+    },
+    {
+        "index": 73,
+        "start_time": 199301,
+        "end_time": 201717,
+        "text": "Others can climb up rotating rods,"
+    },
+    {
+        "index": 74,
+        "start_time": 201717,
+        "end_time": 204090,
+        "text": "or continue to pour themselves out of a beeker,"
+    },
+    {
+        "index": 75,
+        "start_time": 204090,
+        "end_time": 206012,
+        "text": "once you get them started."
+    },
+    {
+        "index": 76,
+        "start_time": 206012,
+        "end_time": 207384,
+        "text": "From a physics perspective, though,"
+    },
+    {
+        "index": 77,
+        "start_time": 207384,
+        "end_time": 210217,
+        "text": "ketchup is one of the more complicated mixtures out there."
+    },
+    {
+        "index": 78,
+        "start_time": 210217,
+        "end_time": 212467,
+        "text": "And as if that weren&#39;t enough, the balance of ingredients"
+    },
+    {
+        "index": 79,
+        "start_time": 212467,
+        "end_time": 215300,
+        "text": "and the presence of natural thickeners like xanthan gum,"
+    },
+    {
+        "index": 80,
+        "start_time": 215300,
+        "end_time": 217934,
+        "text": "which is also found in many fruit drinks and milkshakes,"
+    },
+    {
+        "index": 81,
+        "start_time": 217934,
+        "end_time": 219605,
+        "text": "can mean that two different ketchups"
+    },
+    {
+        "index": 82,
+        "start_time": 219605,
+        "end_time": 221549,
+        "text": "can behave completely differently."
+    },
+    {
+        "index": 83,
+        "start_time": 221549,
+        "end_time": 224234,
+        "text": "But most will show two telltale properties:"
+    },
+    {
+        "index": 84,
+        "start_time": 224234,
+        "end_time": 226069,
+        "text": "sudden thinning at a threshold force,"
+    },
+    {
+        "index": 85,
+        "start_time": 226069,
+        "end_time": 228321,
+        "text": "and more gradual thinning after a small force"
+    },
+    {
+        "index": 86,
+        "start_time": 228321,
+        "end_time": 230365,
+        "text": "is applied for a long time."
+    },
+    {
+        "index": 87,
+        "start_time": 230365,
+        "end_time": 233327,
+        "text": "And that means you could get ketchup out of the bottle in two ways:"
+    },
+    {
+        "index": 88,
+        "start_time": 233327,
+        "end_time": 235966,
+        "text": "either give it a series of long, slow languid shakes"
+    },
+    {
+        "index": 89,
+        "start_time": 235966,
+        "end_time": 238467,
+        "text": "making sure you don&#39;t ever stop applying force,"
+    },
+    {
+        "index": 90,
+        "start_time": 238467,
+        "end_time": 242504,
+        "text": "or you could hit the bottle once very, very hard."
+    },
+    {
+        "index": 91,
+        "start_time": 242504,
+        "end_time": 244717,
+        "text": "What the real pros do is keep the lid on,"
+    },
+    {
+        "index": 92,
+        "start_time": 244717,
+        "end_time": 247132,
+        "text": "give the bottle a few short, sharp shakes"
+    },
+    {
+        "index": 93,
+        "start_time": 247132,
+        "end_time": 248550,
+        "text": "to wake up all those tomato particles,"
+    },
+    {
+        "index": 94,
+        "start_time": 248550,
+        "end_time": 250428,
+        "text": "and then take the lid off"
+    },
+    {
+        "index": 95,
+        "start_time": 250428,
+        "end_time": 253801,
+        "text": "and do a nice controlled pour onto their heavenly fries."
+    }
+]

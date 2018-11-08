@@ -1,0 +1,974 @@
+[
+    {
+        "index": 1,
+        "start_time": 0,
+        "end_time": 7000,
+        "text": "Translator: Andrea McDonough\nReviewer: Jessica Ruby"
+    },
+    {
+        "index": 2,
+        "start_time": 14171,
+        "end_time": 16490,
+        "text": "The ancient Greeks had a great idea:"
+    },
+    {
+        "index": 3,
+        "start_time": 16490,
+        "end_time": 18328,
+        "text": "The universe is simple."
+    },
+    {
+        "index": 4,
+        "start_time": 18328,
+        "end_time": 19288,
+        "text": "In their minds,"
+    },
+    {
+        "index": 5,
+        "start_time": 19288,
+        "end_time": 21450,
+        "text": "all you needed to make it were four elements:"
+    },
+    {
+        "index": 6,
+        "start_time": 21450,
+        "end_time": 22041,
+        "text": "earth,"
+    },
+    {
+        "index": 7,
+        "start_time": 22041,
+        "end_time": 22569,
+        "text": "air,"
+    },
+    {
+        "index": 8,
+        "start_time": 22569,
+        "end_time": 23125,
+        "text": "fire,"
+    },
+    {
+        "index": 9,
+        "start_time": 23125,
+        "end_time": 24565,
+        "text": "and water."
+    },
+    {
+        "index": 10,
+        "start_time": 24565,
+        "end_time": 26921,
+        "text": "As theories go, it&#39;s a beautiful one."
+    },
+    {
+        "index": 11,
+        "start_time": 26921,
+        "end_time": 28898,
+        "text": "It has simplicity and elegance."
+    },
+    {
+        "index": 12,
+        "start_time": 28898,
+        "end_time": 30314,
+        "text": "It says that by combining"
+    },
+    {
+        "index": 13,
+        "start_time": 30314,
+        "end_time": 32176,
+        "text": "the four basic elements in different ways,"
+    },
+    {
+        "index": 14,
+        "start_time": 32176,
+        "end_time": 35346,
+        "text": "you could produce all the wonderful diversity of the universe."
+    },
+    {
+        "index": 15,
+        "start_time": 35346,
+        "end_time": 36817,
+        "text": "Earth and fire, for example,"
+    },
+    {
+        "index": 16,
+        "start_time": 36817,
+        "end_time": 38975,
+        "text": "give you things that are dry."
+    },
+    {
+        "index": 17,
+        "start_time": 38975,
+        "end_time": 41822,
+        "text": "Air and water, things that are wet."
+    },
+    {
+        "index": 18,
+        "start_time": 41822,
+        "end_time": 43906,
+        "text": "But as theories go, it had a problem."
+    },
+    {
+        "index": 19,
+        "start_time": 43906,
+        "end_time": 46690,
+        "text": "It didn&#39;t predict anything that could be measured,"
+    },
+    {
+        "index": 20,
+        "start_time": 46690,
+        "end_time": 49987,
+        "text": "and measurement is the basis of experimental science."
+    },
+    {
+        "index": 21,
+        "start_time": 49987,
+        "end_time": 52196,
+        "text": "Worse still, the theory was wrong."
+    },
+    {
+        "index": 22,
+        "start_time": 52196,
+        "end_time": 54698,
+        "text": "But the Greeks were great scientists of the mind"
+    },
+    {
+        "index": 23,
+        "start_time": 54698,
+        "end_time": 56033,
+        "text": "and in the 5th century B.C.,"
+    },
+    {
+        "index": 24,
+        "start_time": 56033,
+        "end_time": 57792,
+        "text": "Leucippus of Miletus came up"
+    },
+    {
+        "index": 25,
+        "start_time": 57792,
+        "end_time": 61080,
+        "text": "with one of the most enduring scientific ideas ever."
+    },
+    {
+        "index": 26,
+        "start_time": 61080,
+        "end_time": 62530,
+        "text": "Everything we see is made up"
+    },
+    {
+        "index": 27,
+        "start_time": 62530,
+        "end_time": 65870,
+        "text": "of tiny, indivisible bits of stuff called atoms."
+    },
+    {
+        "index": 28,
+        "start_time": 65870,
+        "end_time": 67958,
+        "text": "This theory is simple and elegant,"
+    },
+    {
+        "index": 29,
+        "start_time": 67958,
+        "end_time": 69037,
+        "text": "and it has the advantage"
+    },
+    {
+        "index": 30,
+        "start_time": 69037,
+        "end_time": 71423,
+        "text": "over the earth, air, fire, and water theory"
+    },
+    {
+        "index": 31,
+        "start_time": 71423,
+        "end_time": 72598,
+        "text": "of being right."
+    },
+    {
+        "index": 32,
+        "start_time": 72598,
+        "end_time": 75238,
+        "text": "Centuries of scientific thought and experimentation"
+    },
+    {
+        "index": 33,
+        "start_time": 75238,
+        "end_time": 77002,
+        "text": "have established that the real elements,"
+    },
+    {
+        "index": 34,
+        "start_time": 77002,
+        "end_time": 78354,
+        "text": "things like hydrogen,"
+    },
+    {
+        "index": 35,
+        "start_time": 78354,
+        "end_time": 78878,
+        "text": "carbon,"
+    },
+    {
+        "index": 36,
+        "start_time": 78878,
+        "end_time": 79741,
+        "text": "and iron,"
+    },
+    {
+        "index": 37,
+        "start_time": 79741,
+        "end_time": 81661,
+        "text": "can be broken down into atoms."
+    },
+    {
+        "index": 38,
+        "start_time": 81661,
+        "end_time": 84078,
+        "text": "In Leucippus&#39;s theory, the atom is the smallest,"
+    },
+    {
+        "index": 39,
+        "start_time": 84078,
+        "end_time": 86938,
+        "text": "indivisible bit of stuff that&#39;s still recognizable"
+    },
+    {
+        "index": 40,
+        "start_time": 86938,
+        "end_time": 87720,
+        "text": "as hydrogen,"
+    },
+    {
+        "index": 41,
+        "start_time": 87720,
+        "end_time": 88252,
+        "text": "carbon,"
+    },
+    {
+        "index": 42,
+        "start_time": 88268,
+        "end_time": 89049,
+        "text": "or iron."
+    },
+    {
+        "index": 43,
+        "start_time": 89049,
+        "end_time": 90923,
+        "text": "The only thing wrong with Leucippus&#39;s idea"
+    },
+    {
+        "index": 44,
+        "start_time": 90923,
+        "end_time": 93497,
+        "text": "is that atoms are, in fact, divisible."
+    },
+    {
+        "index": 45,
+        "start_time": 93497,
+        "end_time": 95742,
+        "text": "Furthermore, his atoms idea turns out"
+    },
+    {
+        "index": 46,
+        "start_time": 95742,
+        "end_time": 97129,
+        "text": "to explain just a small part"
+    },
+    {
+        "index": 47,
+        "start_time": 97129,
+        "end_time": 99035,
+        "text": "of what the universe is made of."
+    },
+    {
+        "index": 48,
+        "start_time": 99035,
+        "end_time": 101333,
+        "text": "What appears to be the ordinary stuff of the universe"
+    },
+    {
+        "index": 49,
+        "start_time": 101333,
+        "end_time": 102713,
+        "text": "is, in fact, quite rare."
+    },
+    {
+        "index": 50,
+        "start_time": 102713,
+        "end_time": 105849,
+        "text": "Leucippus&#39;s atoms, and the things they&#39;re made of,"
+    },
+    {
+        "index": 51,
+        "start_time": 105849,
+        "end_time": 107687,
+        "text": "actually make up only about 5%"
+    },
+    {
+        "index": 52,
+        "start_time": 107687,
+        "end_time": 109220,
+        "text": "of what we know to be there."
+    },
+    {
+        "index": 53,
+        "start_time": 109220,
+        "end_time": 110804,
+        "text": "Physicists know the rest of the universe,"
+    },
+    {
+        "index": 54,
+        "start_time": 110804,
+        "end_time": 112182,
+        "text": "95% of it,"
+    },
+    {
+        "index": 55,
+        "start_time": 112182,
+        "end_time": 113975,
+        "text": "as the dark universe,"
+    },
+    {
+        "index": 56,
+        "start_time": 113975,
+        "end_time": 116643,
+        "text": "made of dark matter and dark energy."
+    },
+    {
+        "index": 57,
+        "start_time": 116643,
+        "end_time": 117607,
+        "text": "How do we know this?"
+    },
+    {
+        "index": 58,
+        "start_time": 117607,
+        "end_time": 120023,
+        "text": "Well, we know because we look at things"
+    },
+    {
+        "index": 59,
+        "start_time": 120023,
+        "end_time": 121024,
+        "text": "and we see them."
+    },
+    {
+        "index": 60,
+        "start_time": 121024,
+        "end_time": 122316,
+        "text": "That might seem rather simplistic,"
+    },
+    {
+        "index": 61,
+        "start_time": 122316,
+        "end_time": 123860,
+        "text": "but it&#39;s actually quite profound."
+    },
+    {
+        "index": 62,
+        "start_time": 123860,
+        "end_time": 126197,
+        "text": "All the stuff that&#39;s made of atoms is visible."
+    },
+    {
+        "index": 63,
+        "start_time": 126197,
+        "end_time": 128784,
+        "text": "Light bounces off it, and we can see it."
+    },
+    {
+        "index": 64,
+        "start_time": 128784,
+        "end_time": 129844,
+        "text": "When we look out into space,"
+    },
+    {
+        "index": 65,
+        "start_time": 129844,
+        "end_time": 131540,
+        "text": "we see stars and galaxies."
+    },
+    {
+        "index": 66,
+        "start_time": 131540,
+        "end_time": 133537,
+        "text": "Some of them, like the one we live in,"
+    },
+    {
+        "index": 67,
+        "start_time": 133537,
+        "end_time": 137165,
+        "text": "are beautiful, spiral shapes, spinning gracefully through space."
+    },
+    {
+        "index": 68,
+        "start_time": 137165,
+        "end_time": 138794,
+        "text": "When scientists first measured the motion"
+    },
+    {
+        "index": 69,
+        "start_time": 138794,
+        "end_time": 140966,
+        "text": "of groups of galaxies in the 1930&#39;s"
+    },
+    {
+        "index": 70,
+        "start_time": 140966,
+        "end_time": 143254,
+        "text": "and weighed the amount of matter they contained,"
+    },
+    {
+        "index": 71,
+        "start_time": 143254,
+        "end_time": 144630,
+        "text": "they were in for a surprise."
+    },
+    {
+        "index": 72,
+        "start_time": 144630,
+        "end_time": 146298,
+        "text": "They found that there&#39;s not enough visible stuff"
+    },
+    {
+        "index": 73,
+        "start_time": 146298,
+        "end_time": 148349,
+        "text": "in those groups to hold them together."
+    },
+    {
+        "index": 74,
+        "start_time": 148349,
+        "end_time": 150348,
+        "text": "Later measurements of individual galaxies"
+    },
+    {
+        "index": 75,
+        "start_time": 150348,
+        "end_time": 152096,
+        "text": "confirmed this puzzling result."
+    },
+    {
+        "index": 76,
+        "start_time": 152096,
+        "end_time": 154183,
+        "text": "There&#39;s simply not enough visible stuff in galaxies"
+    },
+    {
+        "index": 77,
+        "start_time": 154183,
+        "end_time": 156769,
+        "text": "to provide enough gravity to hold them together."
+    },
+    {
+        "index": 78,
+        "start_time": 156769,
+        "end_time": 157770,
+        "text": "From what we can see,"
+    },
+    {
+        "index": 79,
+        "start_time": 157770,
+        "end_time": 159855,
+        "text": "they ought to fly apart, but they don&#39;t."
+    },
+    {
+        "index": 80,
+        "start_time": 159855,
+        "end_time": 160980,
+        "text": "So there must be stuff there"
+    },
+    {
+        "index": 81,
+        "start_time": 160980,
+        "end_time": 162399,
+        "text": "that we can&#39;t see."
+    },
+    {
+        "index": 82,
+        "start_time": 162399,
+        "end_time": 164578,
+        "text": "We call that stuff dark matter."
+    },
+    {
+        "index": 83,
+        "start_time": 164578,
+        "end_time": 166563,
+        "text": "The best evidence for dark matter today"
+    },
+    {
+        "index": 84,
+        "start_time": 166563,
+        "end_time": 167822,
+        "text": "comes from measurements of something"
+    },
+    {
+        "index": 85,
+        "start_time": 167822,
+        "end_time": 169573,
+        "text": "called the cosmic microwave background,"
+    },
+    {
+        "index": 86,
+        "start_time": 169573,
+        "end_time": 171074,
+        "text": "the afterglow of the Big Bang,"
+    },
+    {
+        "index": 87,
+        "start_time": 171074,
+        "end_time": 172450,
+        "text": "but that&#39;s another story."
+    },
+    {
+        "index": 88,
+        "start_time": 172450,
+        "end_time": 173707,
+        "text": "All of the evidence we have"
+    },
+    {
+        "index": 89,
+        "start_time": 173707,
+        "end_time": 175286,
+        "text": "says that dark matter is there"
+    },
+    {
+        "index": 90,
+        "start_time": 175286,
+        "end_time": 176873,
+        "text": "and it accounts for much of the stuff"
+    },
+    {
+        "index": 91,
+        "start_time": 176873,
+        "end_time": 178665,
+        "text": "in those beautiful spiral galaxies"
+    },
+    {
+        "index": 92,
+        "start_time": 178665,
+        "end_time": 180191,
+        "text": "that fill the heavens."
+    },
+    {
+        "index": 93,
+        "start_time": 180191,
+        "end_time": 181989,
+        "text": "So where does that leave us?"
+    },
+    {
+        "index": 94,
+        "start_time": 181989,
+        "end_time": 183605,
+        "text": "We&#39;ve long known that the heavens"
+    },
+    {
+        "index": 95,
+        "start_time": 183605,
+        "end_time": 185261,
+        "text": "do not revolve around us"
+    },
+    {
+        "index": 96,
+        "start_time": 185261,
+        "end_time": 187793,
+        "text": "and that we&#39;re residents of a fairly ordinary planet,"
+    },
+    {
+        "index": 97,
+        "start_time": 187793,
+        "end_time": 189485,
+        "text": "orbiting a fairly ordinary star,"
+    },
+    {
+        "index": 98,
+        "start_time": 189485,
+        "end_time": 192135,
+        "text": "in the spiral arm of a fairly ordinary galaxy."
+    },
+    {
+        "index": 99,
+        "start_time": 192135,
+        "end_time": 194030,
+        "text": "The discovery of dark matter took us"
+    },
+    {
+        "index": 100,
+        "start_time": 194030,
+        "end_time": 196977,
+        "text": "one step further away from the center of things."
+    },
+    {
+        "index": 101,
+        "start_time": 196977,
+        "end_time": 198478,
+        "text": "It told us that the stuff we&#39;re made of"
+    },
+    {
+        "index": 102,
+        "start_time": 198478,
+        "end_time": 201688,
+        "text": "is only a small fraction of what makes up the universe."
+    },
+    {
+        "index": 103,
+        "start_time": 201688,
+        "end_time": 202998,
+        "text": "But there was more to come."
+    },
+    {
+        "index": 104,
+        "start_time": 202998,
+        "end_time": 203898,
+        "text": "Early this century,"
+    },
+    {
+        "index": 105,
+        "start_time": 203898,
+        "end_time": 206234,
+        "text": "scientists studying the outer reaches of the universe"
+    },
+    {
+        "index": 106,
+        "start_time": 206234,
+        "end_time": 208778,
+        "text": "confirmed that not only is everything moving apart"
+    },
+    {
+        "index": 107,
+        "start_time": 208778,
+        "end_time": 210196,
+        "text": "from everything else,"
+    },
+    {
+        "index": 108,
+        "start_time": 210196,
+        "end_time": 211492,
+        "text": "as you would expect in a universe"
+    },
+    {
+        "index": 109,
+        "start_time": 211492,
+        "end_time": 213599,
+        "text": "that began in hot, dense big bang,"
+    },
+    {
+        "index": 110,
+        "start_time": 213599,
+        "end_time": 215266,
+        "text": "but that the universe&#39;s expansion"
+    },
+    {
+        "index": 111,
+        "start_time": 215266,
+        "end_time": 217511,
+        "text": "also seems to be accelerating."
+    },
+    {
+        "index": 112,
+        "start_time": 217511,
+        "end_time": 218955,
+        "text": "What&#39;s that about?"
+    },
+    {
+        "index": 113,
+        "start_time": 218955,
+        "end_time": 220678,
+        "text": "Either there is some kind of energy"
+    },
+    {
+        "index": 114,
+        "start_time": 220678,
+        "end_time": 221956,
+        "text": "pushing this acceleration,"
+    },
+    {
+        "index": 115,
+        "start_time": 221956,
+        "end_time": 224450,
+        "text": "just like you provide energy to accelerate a car,"
+    },
+    {
+        "index": 116,
+        "start_time": 224450,
+        "end_time": 227238,
+        "text": "or gravity does not behave exactly as we think."
+    },
+    {
+        "index": 117,
+        "start_time": 227238,
+        "end_time": 229875,
+        "text": "Most scientists think it&#39;s the former,"
+    },
+    {
+        "index": 118,
+        "start_time": 229875,
+        "end_time": 232919,
+        "text": "that there&#39;s some kind of energy driving the acceleration,"
+    },
+    {
+        "index": 119,
+        "start_time": 232919,
+        "end_time": 235170,
+        "text": "and they called it &lt;i&gt;dark energy&lt;\/i&gt;."
+    },
+    {
+        "index": 120,
+        "start_time": 235170,
+        "end_time": 237006,
+        "text": "Today&#39;s best measurements allow us to work out"
+    },
+    {
+        "index": 121,
+        "start_time": 237006,
+        "end_time": 239300,
+        "text": "just how much of the universe is dark."
+    },
+    {
+        "index": 122,
+        "start_time": 239300,
+        "end_time": 240925,
+        "text": "It looks as if dark energy makes up"
+    },
+    {
+        "index": 123,
+        "start_time": 240925,
+        "end_time": 242761,
+        "text": "about 68% of the universe"
+    },
+    {
+        "index": 124,
+        "start_time": 242761,
+        "end_time": 245238,
+        "text": "and dark matter about 27%,"
+    },
+    {
+        "index": 125,
+        "start_time": 245238,
+        "end_time": 247097,
+        "text": "leaving just 5% for us"
+    },
+    {
+        "index": 126,
+        "start_time": 247097,
+        "end_time": 249599,
+        "text": "and everything else we can actually see."
+    },
+    {
+        "index": 127,
+        "start_time": 249599,
+        "end_time": 251209,
+        "text": "So what&#39;s the dark stuff made of?"
+    },
+    {
+        "index": 128,
+        "start_time": 251209,
+        "end_time": 251851,
+        "text": "We don&#39;t know,"
+    },
+    {
+        "index": 129,
+        "start_time": 251851,
+        "end_time": 253755,
+        "text": "but there&#39;s one theory, called &lt;i&gt;supersymmetry&lt;\/i&gt;,"
+    },
+    {
+        "index": 130,
+        "start_time": 253755,
+        "end_time": 255605,
+        "text": "that could explain some of it."
+    },
+    {
+        "index": 131,
+        "start_time": 255605,
+        "end_time": 258262,
+        "text": "Supersymmetry, or SUSY for short,"
+    },
+    {
+        "index": 132,
+        "start_time": 258262,
+        "end_time": 259997,
+        "text": "predicts a whole range of new particles,"
+    },
+    {
+        "index": 133,
+        "start_time": 259997,
+        "end_time": 261957,
+        "text": "some of which could make up the dark matter."
+    },
+    {
+        "index": 134,
+        "start_time": 261957,
+        "end_time": 263785,
+        "text": "If we found evidence for SUSY,"
+    },
+    {
+        "index": 135,
+        "start_time": 263785,
+        "end_time": 266311,
+        "text": "we could go from understanding 5% of our universe,"
+    },
+    {
+        "index": 136,
+        "start_time": 266311,
+        "end_time": 267715,
+        "text": "the things we can actually see,"
+    },
+    {
+        "index": 137,
+        "start_time": 267715,
+        "end_time": 269172,
+        "text": "to around a third."
+    },
+    {
+        "index": 138,
+        "start_time": 269172,
+        "end_time": 270841,
+        "text": "Not bad for a day&#39;s work."
+    },
+    {
+        "index": 139,
+        "start_time": 270841,
+        "end_time": 273094,
+        "text": "Dark energy would probably be harder to understand,"
+    },
+    {
+        "index": 140,
+        "start_time": 273094,
+        "end_time": 274964,
+        "text": "but there are some speculative theories out there"
+    },
+    {
+        "index": 141,
+        "start_time": 274964,
+        "end_time": 276263,
+        "text": "that might point the way."
+    },
+    {
+        "index": 142,
+        "start_time": 276263,
+        "end_time": 277374,
+        "text": "Among them are theories that go back"
+    },
+    {
+        "index": 143,
+        "start_time": 277374,
+        "end_time": 279916,
+        "text": "to that first great idea of the ancient Greeks,"
+    },
+    {
+        "index": 144,
+        "start_time": 279916,
+        "end_time": 282421,
+        "text": "the idea that we began with several minutes ago,"
+    },
+    {
+        "index": 145,
+        "start_time": 282421,
+        "end_time": 285120,
+        "text": "the idea that the universe must be simple."
+    },
+    {
+        "index": 146,
+        "start_time": 285120,
+        "end_time": 287139,
+        "text": "These theories predict that there is just a single element"
+    },
+    {
+        "index": 147,
+        "start_time": 287139,
+        "end_time": 289933,
+        "text": "from which all the universe&#39;s wonderful diversity stems,"
+    },
+    {
+        "index": 148,
+        "start_time": 289933,
+        "end_time": 291595,
+        "text": "a vibrating string."
+    },
+    {
+        "index": 149,
+        "start_time": 291595,
+        "end_time": 293764,
+        "text": "The idea is that all the particles we know today"
+    },
+    {
+        "index": 150,
+        "start_time": 293764,
+        "end_time": 296183,
+        "text": "are just different harmonics on the string."
+    },
+    {
+        "index": 151,
+        "start_time": 296183,
+        "end_time": 297999,
+        "text": "Unfortunately, string theories today"
+    },
+    {
+        "index": 152,
+        "start_time": 297999,
+        "end_time": 299556,
+        "text": "are, as yet, untestable."
+    },
+    {
+        "index": 153,
+        "start_time": 299556,
+        "end_time": 301772,
+        "text": "But, with so much of the universe waiting to be explored,"
+    },
+    {
+        "index": 154,
+        "start_time": 301772,
+        "end_time": 303358,
+        "text": "the stakes are high."
+    },
+    {
+        "index": 155,
+        "start_time": 303358,
+        "end_time": 305442,
+        "text": "Does all of this make you feel small?"
+    },
+    {
+        "index": 156,
+        "start_time": 305442,
+        "end_time": 306609,
+        "text": "It shouldn&#39;t."
+    },
+    {
+        "index": 157,
+        "start_time": 306609,
+        "end_time": 308001,
+        "text": "Instead, you should marvel"
+    },
+    {
+        "index": 158,
+        "start_time": 308001,
+        "end_time": 309447,
+        "text": "in the fact that, as far as we know,"
+    },
+    {
+        "index": 159,
+        "start_time": 309447,
+        "end_time": 312013,
+        "text": "you are a member of the only species in the universe"
+    },
+    {
+        "index": 160,
+        "start_time": 312013,
+        "end_time": 314715,
+        "text": "able even to begin to grasp its wonders,"
+    },
+    {
+        "index": 161,
+        "start_time": 314715,
+        "end_time": 316035,
+        "text": "and you&#39;re living at the right time"
+    },
+    {
+        "index": 162,
+        "start_time": 316035,
+        "end_time": 318706,
+        "text": "to see our understanding explode."
+    }
+]

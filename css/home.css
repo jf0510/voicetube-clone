@@ -1,0 +1,203 @@
+body {
+    background: url("https://cdn.voicetube.com/assets/img/bg.jpg")
+}
+
+h2 {
+    color: #777;
+}
+
+section {
+    margin: 20px 0px;
+}
+
+
+/*nav bar*/
+
+nav a {
+    display: block;
+}
+
+.navbar {
+    min-height: 80px;
+}
+
+.navbar-nav>li>a {
+    color: #fff;
+}
+
+.navbar-brand {
+    padding: 24px 20px;
+    height: 80px;
+}
+
+.navbar-header img {
+    height: 32px;
+    width: auto;
+}
+
+
+/*navbar-scroll*/
+
+@media (min-width: 992px) {
+    .navbar {
+        -webkit-transition: all 0.6s ease-out;
+        -moz-transition: all 0.6s ease-out;
+        -o-transition: all 0.6s ease-out;
+        -ms-transition: all 0.6s ease-out;
+        transition: all 0.6s ease-out;
+        background-color: transparent;
+        background: transparent;
+        border-color: transparent;
+    }
+    .navbar.scrolled {
+        background: rgb(68, 68, 68);
+        /* IE */
+        background: rgba(0, 0, 0, 0.78);
+        /* NON-IE */
+    }
+}
+
+
+/*banner*/
+
+.masthead {
+    display: table;
+    width: 100%;
+    height: 640px;
+    position: relative;
+    margin-bottom: 40px;
+    color: white;
+    background: url("https://cdn.voicetube.com/assets/img/banner02.jpg") no-repeat 35% 0%;
+    background-color: white;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.masthead .intro-body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+/* banner - title & search-bar*/
+
+.search-section {
+    margin: 5%;
+}
+
+.title {
+    display: block;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 1.4em;
+    color: #FFF;
+    position: relative;
+    height: 100%;
+    max-width: 15em;
+    text-shadow: 0 0 24px rgba(0, 0, 0, 0.5), 0 0 64px rgba(0, 0, 0, 0.25), 0 2px rgba(0, 0, 0, 0.75)
+}
+
+.search-bar-decoration {
+    border: 10px solid rgba(255, 255, 255, .5);
+    background: white;
+    background-clip: padding-box;
+    border-radius: 10px;
+}
+
+.demo-block {
+    padding-top: 30%;
+    height: 173px;
+}
+
+.img-polaroid {
+    padding: 4px;
+    background-color: white;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+s .putcenter {
+    margin-left: 70%;
+}
+
+
+/*new-video*/
+
+#new_video {
+    padding-bottom: 50px;
+}
+
+
+/*new-video-carousel*/
+
+
+
+.thumbnail p {
+    font-weight: 500;
+   line-height: 1.5em;
+}
+
+.caption-title {
+    height: 3em;
+    overflow: hidden;
+    padding: 0px;
+    margin-bottom: 5px;
+}
+
+.minw {
+    min-width: 75%
+}
+
+
+/*new-video-hidden-title*/
+
+@media (min-width: 768px) {}
+
+
+/*playlist*/
+
+#playlist .carousel {
+    padding: 0px 40px;
+    margin: 0px;
+}
+
+
+
+.carousel-control {
+    color: #555;
+    width: 2%;
+}
+
+
+.carousel-control.left,
+.carousel-control.right {
+/*    margin-left: 15px;*/
+    background-image: none;
+}
+
+
+@media (max-width: 768px) {
+    #playlist {
+        padding-top: 80px;
+    }
+}
+
+@media (min-width: 769px) {
+    #playlist .panel-body{
+    padding: 15px 5px 0px 5px;
+    }
+}
+
+
+@media (max-width: 768px) {
+    #playlist .panel-body{
+        overflow-x: hidden;
+        overflow-y: scroll;
+        height: 400px;
+    }
+    .carousel-control {
+        display: none;
+    }
+}

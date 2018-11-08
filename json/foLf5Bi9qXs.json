@@ -1,0 +1,506 @@
+[
+    {
+        "index": 1,
+        "start_time": 7245,
+        "end_time": 11543,
+        "text": "Over 100,000 metric tons\nof caffeine are consumed"
+    },
+    {
+        "index": 2,
+        "start_time": 11543,
+        "end_time": 13812,
+        "text": "around the world every year."
+    },
+    {
+        "index": 3,
+        "start_time": 13812,
+        "end_time": 18034,
+        "text": "That&#39;s equivalent to the weight\nof 14 Eiffel Towers."
+    },
+    {
+        "index": 4,
+        "start_time": 18034,
+        "end_time": 21344,
+        "text": "Most of this caffeine is consumed\nin coffee and tea,"
+    },
+    {
+        "index": 5,
+        "start_time": 21344,
+        "end_time": 23793,
+        "text": "but it&#39;s also ingested in some sodas,"
+    },
+    {
+        "index": 6,
+        "start_time": 23793,
+        "end_time": 24667,
+        "text": "chocolate,"
+    },
+    {
+        "index": 7,
+        "start_time": 24667,
+        "end_time": 26244,
+        "text": "caffeine pills,"
+    },
+    {
+        "index": 8,
+        "start_time": 26244,
+        "end_time": 29264,
+        "text": "and even beverages labeled decaf."
+    },
+    {
+        "index": 9,
+        "start_time": 29264,
+        "end_time": 32991,
+        "text": "Caffeine helps us feel alert,\nfocused, happy, and energetic,"
+    },
+    {
+        "index": 10,
+        "start_time": 32991,
+        "end_time": 35982,
+        "text": "even if we haven&#39;t had enough sleep."
+    },
+    {
+        "index": 11,
+        "start_time": 35982,
+        "end_time": 40410,
+        "text": "But it can also raise our blood pressure,\nand make us feel anxious."
+    },
+    {
+        "index": 12,
+        "start_time": 40410,
+        "end_time": 43153,
+        "text": "It&#39;s the world most widely used drug."
+    },
+    {
+        "index": 13,
+        "start_time": 43153,
+        "end_time": 46612,
+        "text": "So how does it keep us awake?"
+    },
+    {
+        "index": 14,
+        "start_time": 46612,
+        "end_time": 50892,
+        "text": "Caffeine evolved in plants where\nit serves a few purposes."
+    },
+    {
+        "index": 15,
+        "start_time": 50892,
+        "end_time": 55474,
+        "text": "In high doses, as it&#39;s found in the leaves\nand seeds of certain species,"
+    },
+    {
+        "index": 16,
+        "start_time": 55474,
+        "end_time": 57784,
+        "text": "it&#39;s toxic to insects."
+    },
+    {
+        "index": 17,
+        "start_time": 57784,
+        "end_time": 61672,
+        "text": "But when they consume it in lower doses,\nas it&#39;s found in nectar,"
+    },
+    {
+        "index": 18,
+        "start_time": 61672,
+        "end_time": 65924,
+        "text": "it can actually help them remember\nand revisit flowers."
+    },
+    {
+        "index": 19,
+        "start_time": 65924,
+        "end_time": 71403,
+        "text": "In the human body, caffeine acts as a\nstimulant for the central nervous system."
+    },
+    {
+        "index": 20,
+        "start_time": 71403,
+        "end_time": 75747,
+        "text": "It keeps us awake by blocking one of\nthe body&#39;s key sleep-inducing molecules,"
+    },
+    {
+        "index": 21,
+        "start_time": 75747,
+        "end_time": 79402,
+        "text": "a substance called adenosine."
+    },
+    {
+        "index": 22,
+        "start_time": 79402,
+        "end_time": 82013,
+        "text": "Your body needs a constant supply\nof energy,"
+    },
+    {
+        "index": 23,
+        "start_time": 82013,
+        "end_time": 87314,
+        "text": "which it gets by breaking down\na high-energy molecule called ATP."
+    },
+    {
+        "index": 24,
+        "start_time": 87314,
+        "end_time": 88254,
+        "text": "In the process,"
+    },
+    {
+        "index": 25,
+        "start_time": 88254,
+        "end_time": 92794,
+        "text": "it liberates adenosine,\nATP&#39;s chemical backbone."
+    },
+    {
+        "index": 26,
+        "start_time": 92794,
+        "end_time": 97645,
+        "text": "Neurons in your brain have receptors\nperfectly tailored to this molecule."
+    },
+    {
+        "index": 27,
+        "start_time": 97645,
+        "end_time": 99954,
+        "text": "When adenosine docks to these receptors,"
+    },
+    {
+        "index": 28,
+        "start_time": 99954,
+        "end_time": 103665,
+        "text": "it activates a cascade \nof biochemical reactions"
+    },
+    {
+        "index": 29,
+        "start_time": 103665,
+        "end_time": 105926,
+        "text": "that cause neurons to fire more sluggishly"
+    },
+    {
+        "index": 30,
+        "start_time": 105926,
+        "end_time": 110465,
+        "text": "and slow the release of important\nbrain-signaling molecules."
+    },
+    {
+        "index": 31,
+        "start_time": 110465,
+        "end_time": 113265,
+        "text": "In other words, you get sleepy."
+    },
+    {
+        "index": 32,
+        "start_time": 113265,
+        "end_time": 118285,
+        "text": "Caffeine is what&#39;s called an adenosine\nreceptor antagonist."
+    },
+    {
+        "index": 33,
+        "start_time": 118285,
+        "end_time": 121856,
+        "text": "That means it derails this process\nof slowing your neurons down"
+    },
+    {
+        "index": 34,
+        "start_time": 121856,
+        "end_time": 124385,
+        "text": "by blocking adenosine receptors."
+    },
+    {
+        "index": 35,
+        "start_time": 124385,
+        "end_time": 128627,
+        "text": "Caffeine and adenosine have a similar\nmolecular structure,"
+    },
+    {
+        "index": 36,
+        "start_time": 128627,
+        "end_time": 132456,
+        "text": "close enough that caffeine can wedge into\nthe adenosine receptors,"
+    },
+    {
+        "index": 37,
+        "start_time": 132456,
+        "end_time": 135266,
+        "text": "but not close enough to activate them."
+    },
+    {
+        "index": 38,
+        "start_time": 135266,
+        "end_time": 138855,
+        "text": "To summarize, \nadenosine inhibits your neurons."
+    },
+    {
+        "index": 39,
+        "start_time": 138855,
+        "end_time": 144727,
+        "text": "Caffeine inhibits the inhibitor,\nso it stimulates you."
+    },
+    {
+        "index": 40,
+        "start_time": 144727,
+        "end_time": 147306,
+        "text": "Caffeine can also boost positive feelings."
+    },
+    {
+        "index": 41,
+        "start_time": 147306,
+        "end_time": 149855,
+        "text": "In some neurons, the adenosine receptors"
+    },
+    {
+        "index": 42,
+        "start_time": 149855,
+        "end_time": 154367,
+        "text": "are linked to receptors \nfor another molecule called dopamine."
+    },
+    {
+        "index": 43,
+        "start_time": 154367,
+        "end_time": 158570,
+        "text": "One of dopamine&#39;s roles in the brain\nis to promote feelings of pleasure."
+    },
+    {
+        "index": 44,
+        "start_time": 158570,
+        "end_time": 161871,
+        "text": "When adenosine docks in one of these\npaired receptors,"
+    },
+    {
+        "index": 45,
+        "start_time": 161871,
+        "end_time": 165948,
+        "text": "that can make it harder for dopamine\nto fit in its own spot,"
+    },
+    {
+        "index": 46,
+        "start_time": 165948,
+        "end_time": 168758,
+        "text": "interrupting its mood-lifting work."
+    },
+    {
+        "index": 47,
+        "start_time": 168758,
+        "end_time": 173338,
+        "text": "But when caffeine takes adenosine&#39;s place,\nit doesn&#39;t have the same effect,"
+    },
+    {
+        "index": 48,
+        "start_time": 173338,
+        "end_time": 175948,
+        "text": "and dopamine can slide in."
+    },
+    {
+        "index": 49,
+        "start_time": 175948,
+        "end_time": 180930,
+        "text": "There&#39;s evidence that caffeine&#39;s effects\non adenosine and dopamine receptors"
+    },
+    {
+        "index": 50,
+        "start_time": 180930,
+        "end_time": 185180,
+        "text": "can have long-term benefits, too,\nreducing the risk of diseases"
+    },
+    {
+        "index": 51,
+        "start_time": 185180,
+        "end_time": 190129,
+        "text": "like Parkinson&#39;s, Alzheimer&#39;s,\nand some types of cancer."
+    },
+    {
+        "index": 52,
+        "start_time": 190129,
+        "end_time": 194998,
+        "text": "Caffeine can also ramp up the body&#39;s\nability to burn fat."
+    },
+    {
+        "index": 53,
+        "start_time": 194998,
+        "end_time": 197510,
+        "text": "In fact, some sports organizations think"
+    },
+    {
+        "index": 54,
+        "start_time": 197510,
+        "end_time": 200960,
+        "text": "that caffeine gives athletes \nan unfair advantage"
+    },
+    {
+        "index": 55,
+        "start_time": 200960,
+        "end_time": 204308,
+        "text": "and have placed limits on its consumption."
+    },
+    {
+        "index": 56,
+        "start_time": 204308,
+        "end_time": 207120,
+        "text": "From 1972 until 2004,"
+    },
+    {
+        "index": 57,
+        "start_time": 207120,
+        "end_time": 211739,
+        "text": "Olympic athletes had to stay below\na certain blood-caffeine concentration"
+    },
+    {
+        "index": 58,
+        "start_time": 211739,
+        "end_time": 214120,
+        "text": "to compete."
+    },
+    {
+        "index": 59,
+        "start_time": 214120,
+        "end_time": 217729,
+        "text": "Of course, not all of caffeine&#39;s effects\nare so helpful."
+    },
+    {
+        "index": 60,
+        "start_time": 217729,
+        "end_time": 220089,
+        "text": "It might make you feel better\nand more alert,"
+    },
+    {
+        "index": 61,
+        "start_time": 220089,
+        "end_time": 223220,
+        "text": "but it can also raise your heart rate\nand blood pressure,"
+    },
+    {
+        "index": 62,
+        "start_time": 223220,
+        "end_time": 226410,
+        "text": "cause increased urination or diarrhea,"
+    },
+    {
+        "index": 63,
+        "start_time": 226410,
+        "end_time": 229953,
+        "text": "and contribute to insomnia and anxiety."
+    },
+    {
+        "index": 64,
+        "start_time": 229953,
+        "end_time": 232801,
+        "text": "Plus, the foods and beverages\ncaffeine is found in"
+    },
+    {
+        "index": 65,
+        "start_time": 232801,
+        "end_time": 238541,
+        "text": "have their own impacts on your body\nthat have to be taken into account."
+    },
+    {
+        "index": 66,
+        "start_time": 238541,
+        "end_time": 241571,
+        "text": "Your brain can adapt to regular\nconsumption of caffeine."
+    },
+    {
+        "index": 67,
+        "start_time": 241571,
+        "end_time": 244832,
+        "text": "If your adenosine receptors \nare perpetually clogged,"
+    },
+    {
+        "index": 68,
+        "start_time": 244832,
+        "end_time": 247720,
+        "text": "your body will manufacture extra ones."
+    },
+    {
+        "index": 69,
+        "start_time": 247720,
+        "end_time": 249939,
+        "text": "That way, even with caffeine around,"
+    },
+    {
+        "index": 70,
+        "start_time": 249939,
+        "end_time": 255252,
+        "text": "adenosine can still do its job\nof signaling the brain to power down."
+    },
+    {
+        "index": 71,
+        "start_time": 255252,
+        "end_time": 258723,
+        "text": "That&#39;s why you may find you need\nto consume more and more caffeine"
+    },
+    {
+        "index": 72,
+        "start_time": 258723,
+        "end_time": 260853,
+        "text": "to feel as alert."
+    },
+    {
+        "index": 73,
+        "start_time": 260853,
+        "end_time": 264473,
+        "text": "There are more and more adenosine\nreceptors to block."
+    },
+    {
+        "index": 74,
+        "start_time": 264473,
+        "end_time": 266973,
+        "text": "It&#39;s also why if you suddenly \nquit caffeine,"
+    },
+    {
+        "index": 75,
+        "start_time": 266973,
+        "end_time": 270194,
+        "text": "you may experience \nan unpleasant withdrawal."
+    },
+    {
+        "index": 76,
+        "start_time": 270194,
+        "end_time": 272493,
+        "text": "With plenty of receptors \nand no competition,"
+    },
+    {
+        "index": 77,
+        "start_time": 272493,
+        "end_time": 274853,
+        "text": "adenosine can work overtime,"
+    },
+    {
+        "index": 78,
+        "start_time": 274853,
+        "end_time": 276473,
+        "text": "causing symptoms like headaches,"
+    },
+    {
+        "index": 79,
+        "start_time": 276473,
+        "end_time": 277634,
+        "text": "tiredness,"
+    },
+    {
+        "index": 80,
+        "start_time": 277634,
+        "end_time": 280212,
+        "text": "and depressed moods."
+    },
+    {
+        "index": 81,
+        "start_time": 280212,
+        "end_time": 284963,
+        "text": "But in a few days, the extra adenosine\nreceptors will disappear,"
+    },
+    {
+        "index": 82,
+        "start_time": 284963,
+        "end_time": 286993,
+        "text": "your body will readjust,"
+    },
+    {
+        "index": 83,
+        "start_time": 286993,
+        "end_time": 289593,
+        "text": "and you&#39;ll feel just as alert as ever,"
+    },
+    {
+        "index": 84,
+        "start_time": 289593,
+        "end_time": 293233,
+        "text": "even without an infusion of the world&#39;s\nmost popular stimulant."
+    }
+]

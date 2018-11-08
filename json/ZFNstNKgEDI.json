@@ -1,0 +1,482 @@
+[
+    {
+        "index": 1,
+        "start_time": 6553,
+        "end_time": 8883,
+        "text": "Have you ever sat in a doctor&#39;s\noffice for hours"
+    },
+    {
+        "index": 2,
+        "start_time": 8883,
+        "end_time": 12083,
+        "text": "despite having an appointment\nat a specific time?"
+    },
+    {
+        "index": 3,
+        "start_time": 12083,
+        "end_time": 16253,
+        "text": "Has a hotel turned down\nyour reservation because it&#39;s full?"
+    },
+    {
+        "index": 4,
+        "start_time": 16253,
+        "end_time": 20264,
+        "text": "Or have you been bumped off a flight\nthat you paid for?"
+    },
+    {
+        "index": 5,
+        "start_time": 20264,
+        "end_time": 22803,
+        "text": "These are all symptoms of overbooking,"
+    },
+    {
+        "index": 6,
+        "start_time": 22803,
+        "end_time": 25015,
+        "text": "a practice where businesses\nand institutions"
+    },
+    {
+        "index": 7,
+        "start_time": 25015,
+        "end_time": 29034,
+        "text": "sell or book more \nthan their full capacity."
+    },
+    {
+        "index": 8,
+        "start_time": 29034,
+        "end_time": 31264,
+        "text": "While often infuriating for the customer,"
+    },
+    {
+        "index": 9,
+        "start_time": 31264,
+        "end_time": 33715,
+        "text": "overbooking happens because\nit increases profits"
+    },
+    {
+        "index": 10,
+        "start_time": 33715,
+        "end_time": 37805,
+        "text": "while also letting businesses\noptimize their resources."
+    },
+    {
+        "index": 11,
+        "start_time": 37805,
+        "end_time": 40786,
+        "text": "They know that not everyone\nwill show up to their appointments,"
+    },
+    {
+        "index": 12,
+        "start_time": 40786,
+        "end_time": 41565,
+        "text": "reservations,"
+    },
+    {
+        "index": 13,
+        "start_time": 41565,
+        "end_time": 42525,
+        "text": "and flights,"
+    },
+    {
+        "index": 14,
+        "start_time": 42525,
+        "end_time": 46667,
+        "text": "so they make more available\nthan they actually have to offer."
+    },
+    {
+        "index": 15,
+        "start_time": 46667,
+        "end_time": 51455,
+        "text": "Airlines are the classical example,\npartially because it happens so often."
+    },
+    {
+        "index": 16,
+        "start_time": 51455,
+        "end_time": 55407,
+        "text": "About 50,000 people get bumped\noff their flights each year."
+    },
+    {
+        "index": 17,
+        "start_time": 55407,
+        "end_time": 59426,
+        "text": "That figure comes at little surprise\nto the airlines themselves,"
+    },
+    {
+        "index": 18,
+        "start_time": 59426,
+        "end_time": 64207,
+        "text": "which use statistics to determine\nexactly how many tickets to sell."
+    },
+    {
+        "index": 19,
+        "start_time": 64207,
+        "end_time": 65607,
+        "text": "It&#39;s a delicate operation."
+    },
+    {
+        "index": 20,
+        "start_time": 65607,
+        "end_time": 68886,
+        "text": "Sell too few, and they&#39;re wasting seats."
+    },
+    {
+        "index": 21,
+        "start_time": 68886,
+        "end_time": 72507,
+        "text": "Sell too many, and they pay penalties -"
+    },
+    {
+        "index": 22,
+        "start_time": 72507,
+        "end_time": 77727,
+        "text": "money, free flights, hotel stays,\nand annoyed customers."
+    },
+    {
+        "index": 23,
+        "start_time": 77727,
+        "end_time": 81556,
+        "text": "So here&#39;s a simplified version\nof how their calculations work."
+    },
+    {
+        "index": 24,
+        "start_time": 81556,
+        "end_time": 84268,
+        "text": "Airlines have collected years worth\nof information"
+    },
+    {
+        "index": 25,
+        "start_time": 84268,
+        "end_time": 88389,
+        "text": "about who does and doesn&#39;t show up\nfor certain flights."
+    },
+    {
+        "index": 26,
+        "start_time": 88389,
+        "end_time": 91047,
+        "text": "They know, for example,\nthat on a particular route,"
+    },
+    {
+        "index": 27,
+        "start_time": 91047,
+        "end_time": 97047,
+        "text": "the probability that each individual\ncustomer will show up on time is 90%."
+    },
+    {
+        "index": 28,
+        "start_time": 97051,
+        "end_time": 98513,
+        "text": "For the sake of simplicity,"
+    },
+    {
+        "index": 29,
+        "start_time": 98513,
+        "end_time": 101372,
+        "text": "we&#39;ll assume that every customer\nis traveling individually"
+    },
+    {
+        "index": 30,
+        "start_time": 101372,
+        "end_time": 104182,
+        "text": "rather than as families or groups."
+    },
+    {
+        "index": 31,
+        "start_time": 104182,
+        "end_time": 109652,
+        "text": "Then, if there are 180 seats on the plane\nand they sell 180 tickets,"
+    },
+    {
+        "index": 32,
+        "start_time": 109652,
+        "end_time": 114832,
+        "text": "the most likely result is that 162\npassengers will board."
+    },
+    {
+        "index": 33,
+        "start_time": 114832,
+        "end_time": 118132,
+        "text": "But, of course, you could also\nend up with more passengers,"
+    },
+    {
+        "index": 34,
+        "start_time": 118132,
+        "end_time": 120121,
+        "text": "or fewer."
+    },
+    {
+        "index": 35,
+        "start_time": 120121,
+        "end_time": 122773,
+        "text": "The probability for each value\nis given by what&#39;s called"
+    },
+    {
+        "index": 36,
+        "start_time": 122773,
+        "end_time": 124976,
+        "text": "a binomial distribution,"
+    },
+    {
+        "index": 37,
+        "start_time": 124976,
+        "end_time": 127783,
+        "text": "which peaks at the most likely outcome."
+    },
+    {
+        "index": 38,
+        "start_time": 127783,
+        "end_time": 129764,
+        "text": "Now let&#39;s look at the revenue."
+    },
+    {
+        "index": 39,
+        "start_time": 129764,
+        "end_time": 131913,
+        "text": "The airline makes money from each\nticket buyer"
+    },
+    {
+        "index": 40,
+        "start_time": 131913,
+        "end_time": 135095,
+        "text": "and loses money for each person\nwho gets bumped."
+    },
+    {
+        "index": 41,
+        "start_time": 135095,
+        "end_time": 140984,
+        "text": "Let&#39;s say a ticket costs $250\nand isn&#39;t exchangeable for a later flight."
+    },
+    {
+        "index": 42,
+        "start_time": 140984,
+        "end_time": 144834,
+        "text": "And the cost of bumping \na passenger is $800."
+    },
+    {
+        "index": 43,
+        "start_time": 144834,
+        "end_time": 147084,
+        "text": "These numbers are just for the sake\nof example."
+    },
+    {
+        "index": 44,
+        "start_time": 147084,
+        "end_time": 149654,
+        "text": "Actual amounts vary considerably."
+    },
+    {
+        "index": 45,
+        "start_time": 149654,
+        "end_time": 156084,
+        "text": "So here, if you don&#39;t sell\nany extra tickets, you make $45,000."
+    },
+    {
+        "index": 46,
+        "start_time": 156084,
+        "end_time": 160396,
+        "text": "If you sell 15 extras\nand at least 15 people are no shows,"
+    },
+    {
+        "index": 47,
+        "start_time": 160396,
+        "end_time": 164056,
+        "text": "you make $48,750."
+    },
+    {
+        "index": 48,
+        "start_time": 164056,
+        "end_time": 166115,
+        "text": "That&#39;s the best case."
+    },
+    {
+        "index": 49,
+        "start_time": 166115,
+        "end_time": 168845,
+        "text": "In the worst case, everyone shows up."
+    },
+    {
+        "index": 50,
+        "start_time": 168845,
+        "end_time": 175669,
+        "text": "15 unlucky passengers get bumped,\nand the revenue will only be $36,750,"
+    },
+    {
+        "index": 51,
+        "start_time": 175669,
+        "end_time": 179777,
+        "text": "even less than if you only sold 180\ntickets in the first place."
+    },
+    {
+        "index": 52,
+        "start_time": 179777,
+        "end_time": 183928,
+        "text": "But what matters isn&#39;t just how\ngood or bad a scenario is financially,"
+    },
+    {
+        "index": 53,
+        "start_time": 183928,
+        "end_time": 186776,
+        "text": "but how likely it is to happen."
+    },
+    {
+        "index": 54,
+        "start_time": 186776,
+        "end_time": 189596,
+        "text": "So how likely is each scenario?"
+    },
+    {
+        "index": 55,
+        "start_time": 189596,
+        "end_time": 193116,
+        "text": "We can find out by using\nthe binomial distribution."
+    },
+    {
+        "index": 56,
+        "start_time": 193116,
+        "end_time": 198517,
+        "text": "In this example, the probability\nof exactly 195 passengers boarding"
+    },
+    {
+        "index": 57,
+        "start_time": 198517,
+        "end_time": 201167,
+        "text": "is almost 0%."
+    },
+    {
+        "index": 58,
+        "start_time": 201167,
+        "end_time": 208738,
+        "text": "The probability of exactly 184 passengers\nboarding is 1.11%, and so on."
+    },
+    {
+        "index": 59,
+        "start_time": 208738,
+        "end_time": 212437,
+        "text": "Multiply these probabilities\nby the revenue for each case,"
+    },
+    {
+        "index": 60,
+        "start_time": 212437,
+        "end_time": 213839,
+        "text": "add them all up,"
+    },
+    {
+        "index": 61,
+        "start_time": 213839,
+        "end_time": 218117,
+        "text": "and subtract the sum from the earnings\nby 195 sold tickets,"
+    },
+    {
+        "index": 62,
+        "start_time": 218117,
+        "end_time": 223616,
+        "text": "and you get the expected revenue\nfor selling 195 tickets."
+    },
+    {
+        "index": 63,
+        "start_time": 223616,
+        "end_time": 227038,
+        "text": "By repeating this calculation\nfor various numbers of extra tickets,"
+    },
+    {
+        "index": 64,
+        "start_time": 227038,
+        "end_time": 231087,
+        "text": "the airline can find the one likely\nto yield the highest revenue."
+    },
+    {
+        "index": 65,
+        "start_time": 231087,
+        "end_time": 234527,
+        "text": "In this example, that&#39;s 198 tickets,"
+    },
+    {
+        "index": 66,
+        "start_time": 234527,
+        "end_time": 239977,
+        "text": "from which the airline will probably\nmake $48,774,"
+    },
+    {
+        "index": 67,
+        "start_time": 239977,
+        "end_time": 243448,
+        "text": "almost 4,000 more than without\noverbooking."
+    },
+    {
+        "index": 68,
+        "start_time": 243448,
+        "end_time": 245857,
+        "text": "And that&#39;s just for one flight."
+    },
+    {
+        "index": 69,
+        "start_time": 245857,
+        "end_time": 249137,
+        "text": "Multiply that by a million flights\nper airline per year,"
+    },
+    {
+        "index": 70,
+        "start_time": 249137,
+        "end_time": 252012,
+        "text": "and overbooking adds up fast."
+    },
+    {
+        "index": 71,
+        "start_time": 252012,
+        "end_time": 255763,
+        "text": "Of course, the actual calculation\nis much more complicated."
+    },
+    {
+        "index": 72,
+        "start_time": 255763,
+        "end_time": 259694,
+        "text": "Airlines apply many factors\nto create even more accurate models."
+    },
+    {
+        "index": 73,
+        "start_time": 259694,
+        "end_time": 261709,
+        "text": "But should they?"
+    },
+    {
+        "index": 74,
+        "start_time": 261709,
+        "end_time": 264559,
+        "text": "Some argue that overbooking is unethical."
+    },
+    {
+        "index": 75,
+        "start_time": 264559,
+        "end_time": 268259,
+        "text": "You&#39;re charging two people \nfor the same resource."
+    },
+    {
+        "index": 76,
+        "start_time": 268259,
+        "end_time": 271069,
+        "text": "Of course, if you&#39;re 100% sure \nsomeone won&#39;t show up,"
+    },
+    {
+        "index": 77,
+        "start_time": 271069,
+        "end_time": 273430,
+        "text": "it&#39;s fine to sell their seat."
+    },
+    {
+        "index": 78,
+        "start_time": 273430,
+        "end_time": 276520,
+        "text": "But what if you&#39;re only 95% sure?"
+    },
+    {
+        "index": 79,
+        "start_time": 276520,
+        "end_time": 278719,
+        "text": "75%?"
+    },
+    {
+        "index": 80,
+        "start_time": 278719,
+        "end_time": 283754,
+        "text": "Is there a number that separates being\nunethical from being practical?"
+    }
+]

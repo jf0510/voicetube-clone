@@ -1,0 +1,518 @@
+[
+    {
+        "index": 1,
+        "start_time": 8568,
+        "end_time": 11971,
+        "text": "To someone first encountering\nthe works of William Shakespeare,"
+    },
+    {
+        "index": 2,
+        "start_time": 11971,
+        "end_time": 14540,
+        "text": "the language may seem strange."
+    },
+    {
+        "index": 3,
+        "start_time": 14540,
+        "end_time": 17625,
+        "text": "But there is a secret to appreciating it."
+    },
+    {
+        "index": 4,
+        "start_time": 17625,
+        "end_time": 23383,
+        "text": "Although he was famous for his plays,\nShakespeare was first and foremost a poet."
+    },
+    {
+        "index": 5,
+        "start_time": 23383,
+        "end_time": 26202,
+        "text": "One of the most important things \nin Shakespeare&#39;s language"
+    },
+    {
+        "index": 6,
+        "start_time": 26202,
+        "end_time": 28740,
+        "text": "is his use of stress."
+    },
+    {
+        "index": 7,
+        "start_time": 28740,
+        "end_time": 30153,
+        "text": "Not that kind of stress,"
+    },
+    {
+        "index": 8,
+        "start_time": 30153,
+        "end_time": 34498,
+        "text": "but the way we emphasize certain \nsyllables in words more than others."
+    },
+    {
+        "index": 9,
+        "start_time": 34498,
+        "end_time": 38283,
+        "text": "We&#39;re so used to doing this\nthat we may not notice it at first."
+    },
+    {
+        "index": 10,
+        "start_time": 38283,
+        "end_time": 42462,
+        "text": "But if you say the word slowly,\nyou can easily identify them."
+    },
+    {
+        "index": 11,
+        "start_time": 42462,
+        "end_time": 48272,
+        "text": "Playwright, computer, telephone."
+    },
+    {
+        "index": 12,
+        "start_time": 48272,
+        "end_time": 50644,
+        "text": "Poets are very aware of these stresses,"
+    },
+    {
+        "index": 13,
+        "start_time": 50644,
+        "end_time": 52609,
+        "text": "having long experimented with the number"
+    },
+    {
+        "index": 14,
+        "start_time": 52609,
+        "end_time": 55603,
+        "text": "and order of stressed \nand unstressed syllables,"
+    },
+    {
+        "index": 15,
+        "start_time": 55603,
+        "end_time": 60515,
+        "text": "and combined them in different ways\nto create rhythm in their poems."
+    },
+    {
+        "index": 16,
+        "start_time": 60515,
+        "end_time": 61577,
+        "text": "Like songwriters,"
+    },
+    {
+        "index": 17,
+        "start_time": 61577,
+        "end_time": 66299,
+        "text": "poets often express their ideas through \na recognizable repetition of these rhythms"
+    },
+    {
+        "index": 18,
+        "start_time": 66299,
+        "end_time": 68963,
+        "text": "or poetic meter."
+    },
+    {
+        "index": 19,
+        "start_time": 68963,
+        "end_time": 69994,
+        "text": "And like music,"
+    },
+    {
+        "index": 20,
+        "start_time": 69994,
+        "end_time": 74107,
+        "text": "poetry has its own set of terms \nfor describing this."
+    },
+    {
+        "index": 21,
+        "start_time": 74107,
+        "end_time": 75619,
+        "text": "In a line of verse,"
+    },
+    {
+        "index": 22,
+        "start_time": 75619,
+        "end_time": 79249,
+        "text": "a foot is a certain number \nof stressed and unstressed syllables"
+    },
+    {
+        "index": 23,
+        "start_time": 79249,
+        "end_time": 81407,
+        "text": "forming a distinct unit,"
+    },
+    {
+        "index": 24,
+        "start_time": 81407,
+        "end_time": 85742,
+        "text": "just as a musical measure\nconsists of a certain number of beats."
+    },
+    {
+        "index": 25,
+        "start_time": 85742,
+        "end_time": 89504,
+        "text": "One line of verse is usually made\nup of several feet."
+    },
+    {
+        "index": 26,
+        "start_time": 89504,
+        "end_time": 93799,
+        "text": "For example, a dactyl is a metrical \nfoot of three syllables"
+    },
+    {
+        "index": 27,
+        "start_time": 93799,
+        "end_time": 97976,
+        "text": "with the first stressed, and the second\nand third unstressed."
+    },
+    {
+        "index": 28,
+        "start_time": 97976,
+        "end_time": 101164,
+        "text": "Dactyls can create lines\nthat move swiftly and gather force,"
+    },
+    {
+        "index": 29,
+        "start_time": 101164,
+        "end_time": 104541,
+        "text": "as in Robert Browning&#39;s poem, \n&quot;The Lost Leader.&quot;"
+    },
+    {
+        "index": 30,
+        "start_time": 104541,
+        "end_time": 111505,
+        "text": "&quot;Just for a handful of silver he left us.\nJust for a rib and to stick in his coat.&quot;"
+    },
+    {
+        "index": 31,
+        "start_time": 111505,
+        "end_time": 114403,
+        "text": "Another kind of foot \nis the two-syllable long trochee,"
+    },
+    {
+        "index": 32,
+        "start_time": 114403,
+        "end_time": 117619,
+        "text": "a stressed syllable \nfollowed by an unstressed one."
+    },
+    {
+        "index": 33,
+        "start_time": 117619,
+        "end_time": 120272,
+        "text": "The trochees in these lines \nfrom Shakespeare&#39;s &quot;Macbeth&quot;"
+    },
+    {
+        "index": 34,
+        "start_time": 120272,
+        "end_time": 124224,
+        "text": "lend an ominous and spooky tone\nto the witches&#39; chant."
+    },
+    {
+        "index": 35,
+        "start_time": 124224,
+        "end_time": 130750,
+        "text": "&quot;Double, double, toil and trouble;\nfire burn and cauldron bubble.&quot;"
+    },
+    {
+        "index": 36,
+        "start_time": 130750,
+        "end_time": 133674,
+        "text": "But with Shakespeare,\nit&#39;s all about the iamb."
+    },
+    {
+        "index": 37,
+        "start_time": 133674,
+        "end_time": 136541,
+        "text": "This two-syllable foot \nis like a reverse trochee,"
+    },
+    {
+        "index": 38,
+        "start_time": 136541,
+        "end_time": 140493,
+        "text": "so the first syllable is unstressed\nand the second is stressed, as in,"
+    },
+    {
+        "index": 39,
+        "start_time": 140493,
+        "end_time": 144215,
+        "text": "&quot;To be, or not to be.&quot;"
+    },
+    {
+        "index": 40,
+        "start_time": 144215,
+        "end_time": 148425,
+        "text": "Shakespeare&#39;s favorite meter, \nin particular, was iambic pentameter,"
+    },
+    {
+        "index": 41,
+        "start_time": 148425,
+        "end_time": 151832,
+        "text": "where each line of verse\nis made up of five two-syllable iambs,"
+    },
+    {
+        "index": 42,
+        "start_time": 151832,
+        "end_time": 154949,
+        "text": "for a total of ten syllables."
+    },
+    {
+        "index": 43,
+        "start_time": 154949,
+        "end_time": 158357,
+        "text": "And it&#39;s used for many \nof Shakespeare&#39;s most famous lines:"
+    },
+    {
+        "index": 44,
+        "start_time": 158357,
+        "end_time": 162597,
+        "text": "&quot;Shall I compare thee\nto a summer&#39;s day?&quot;"
+    },
+    {
+        "index": 45,
+        "start_time": 162597,
+        "end_time": 166965,
+        "text": "&quot;Arise fair sun, \nand kill the envious moon.&quot;"
+    },
+    {
+        "index": 46,
+        "start_time": 166965,
+        "end_time": 171406,
+        "text": "Notice how the iambs cut across\nboth punctuation and word separation."
+    },
+    {
+        "index": 47,
+        "start_time": 171406,
+        "end_time": 175548,
+        "text": "Meter is all about sound, not spelling."
+    },
+    {
+        "index": 48,
+        "start_time": 175548,
+        "end_time": 178369,
+        "text": "Iambic pentameter may sound technical,"
+    },
+    {
+        "index": 49,
+        "start_time": 178369,
+        "end_time": 181422,
+        "text": "but there&#39;s an easy way \nto remember what it means."
+    },
+    {
+        "index": 50,
+        "start_time": 181422,
+        "end_time": 185669,
+        "text": "The word iamb is pronounced\njust like the phrase, &quot;I am.&quot;"
+    },
+    {
+        "index": 51,
+        "start_time": 185669,
+        "end_time": 187975,
+        "text": "Now, let&#39;s expand that to a sentence"
+    },
+    {
+        "index": 52,
+        "start_time": 187975,
+        "end_time": 191155,
+        "text": "that just happens \nto be in iambic pentameter."
+    },
+    {
+        "index": 53,
+        "start_time": 191155,
+        "end_time": 195308,
+        "text": "&quot;I am a pirate with a wooden leg.&quot;"
+    },
+    {
+        "index": 54,
+        "start_time": 195308,
+        "end_time": 197549,
+        "text": "The pirate can only walk in iambs,"
+    },
+    {
+        "index": 55,
+        "start_time": 197549,
+        "end_time": 200676,
+        "text": "a living reminder \nof Shakespeare&#39;s favorite meter."
+    },
+    {
+        "index": 56,
+        "start_time": 200676,
+        "end_time": 204428,
+        "text": "Iambic pentameter \nis when he takes ten steps."
+    },
+    {
+        "index": 57,
+        "start_time": 204428,
+        "end_time": 207764,
+        "text": "Our pirate friend can even help us \nremember how to properly mark it"
+    },
+    {
+        "index": 58,
+        "start_time": 207764,
+        "end_time": 212166,
+        "text": "if we image the footprints he leaves\nwalking along a deserted island beach:"
+    },
+    {
+        "index": 59,
+        "start_time": 212166,
+        "end_time": 217858,
+        "text": "A curve for unstressed syllables,\nand a shoe outline for stressed ones."
+    },
+    {
+        "index": 60,
+        "start_time": 217858,
+        "end_time": 222293,
+        "text": "&quot;If music be the food of love, play on.&quot;"
+    },
+    {
+        "index": 61,
+        "start_time": 222293,
+        "end_time": 224572,
+        "text": "Of course, most lines \nof Shakespeare&#39;s plays"
+    },
+    {
+        "index": 62,
+        "start_time": 224572,
+        "end_time": 226820,
+        "text": "are written in regular prose."
+    },
+    {
+        "index": 63,
+        "start_time": 226820,
+        "end_time": 228166,
+        "text": "But if you read carefully,"
+    },
+    {
+        "index": 64,
+        "start_time": 228166,
+        "end_time": 231090,
+        "text": "you&#39;ll notice that Shakespeare&#39;s \ncharacters turn to poetry,"
+    },
+    {
+        "index": 65,
+        "start_time": 231090,
+        "end_time": 233312,
+        "text": "and iambic pentameter in particular,"
+    },
+    {
+        "index": 66,
+        "start_time": 233312,
+        "end_time": 237778,
+        "text": "for many of the same reasons \nthat we look to poetry in our own lives."
+    },
+    {
+        "index": 67,
+        "start_time": 237778,
+        "end_time": 243301,
+        "text": "Feeling passionate, introspective,\nor momentous."
+    },
+    {
+        "index": 68,
+        "start_time": 243301,
+        "end_time": 246808,
+        "text": "Whether it&#39;s Hamlet pondering \nhis existence,"
+    },
+    {
+        "index": 69,
+        "start_time": 246808,
+        "end_time": 249100,
+        "text": "or Romeo professing his love,"
+    },
+    {
+        "index": 70,
+        "start_time": 249100,
+        "end_time": 252848,
+        "text": "the characters switch to iambic pentameter\nwhen speaking about their emotions"
+    },
+    {
+        "index": 71,
+        "start_time": 252848,
+        "end_time": 255287,
+        "text": "and their place in the world."
+    },
+    {
+        "index": 72,
+        "start_time": 255287,
+        "end_time": 258411,
+        "text": "Which leaves just one last question."
+    },
+    {
+        "index": 73,
+        "start_time": 258411,
+        "end_time": 262039,
+        "text": "Why did Shakespeare choose \niambic pentameter for these moments,"
+    },
+    {
+        "index": 74,
+        "start_time": 262039,
+        "end_time": 266669,
+        "text": "rather than, say, trochaic hexameter\nor dactylic tetrameter?"
+    },
+    {
+        "index": 75,
+        "start_time": 266669,
+        "end_time": 270138,
+        "text": "It&#39;s been said that iambic pentameter \nwas easy for his actors to memorize"
+    },
+    {
+        "index": 76,
+        "start_time": 270138,
+        "end_time": 271795,
+        "text": "and for the audience to understand"
+    },
+    {
+        "index": 77,
+        "start_time": 271795,
+        "end_time": 276179,
+        "text": "because it&#39;s naturally suited \nto the English language."
+    },
+    {
+        "index": 78,
+        "start_time": 276179,
+        "end_time": 278131,
+        "text": "But there might be another reason."
+    },
+    {
+        "index": 79,
+        "start_time": 278131,
+        "end_time": 280864,
+        "text": "The next time you&#39;re in a heightened \nemotional situation,"
+    },
+    {
+        "index": 80,
+        "start_time": 280864,
+        "end_time": 284045,
+        "text": "like the ones that make \nShakespeare&#39;s characters burst into verse,"
+    },
+    {
+        "index": 81,
+        "start_time": 284045,
+        "end_time": 287550,
+        "text": "put your hand over \nthe left side of your chest."
+    },
+    {
+        "index": 82,
+        "start_time": 287550,
+        "end_time": 289251,
+        "text": "What do you feel?"
+    },
+    {
+        "index": 83,
+        "start_time": 289251,
+        "end_time": 292180,
+        "text": "That&#39;s your heart beating in iambs."
+    },
+    {
+        "index": 84,
+        "start_time": 292180,
+        "end_time": 298052,
+        "text": "Da duhm, da duhm, \nda duhm, da duhm, da duhm."
+    },
+    {
+        "index": 85,
+        "start_time": 298052,
+        "end_time": 302133,
+        "text": "Shakespeare&#39;s most poetic lines don&#39;t just\ntalk about matters of the heart."
+    },
+    {
+        "index": 86,
+        "start_time": 302133,
+        "end_time": 304288,
+        "text": "They follow its rhythm."
+    }
+]

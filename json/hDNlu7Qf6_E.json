@@ -1,0 +1,614 @@
+[
+    {
+        "index": 1,
+        "start_time": 7251,
+        "end_time": 9872,
+        "text": "The year was 1816."
+    },
+    {
+        "index": 2,
+        "start_time": 9872,
+        "end_time": 12382,
+        "text": "Europe and North America had just been through"
+    },
+    {
+        "index": 3,
+        "start_time": 12382,
+        "end_time": 15276,
+        "text": "a devastating series of wars,"
+    },
+    {
+        "index": 4,
+        "start_time": 15276,
+        "end_time": 18258,
+        "text": "and a slow recovery seemed to be underway,"
+    },
+    {
+        "index": 5,
+        "start_time": 18258,
+        "end_time": 20759,
+        "text": "but nature had other plans."
+    },
+    {
+        "index": 6,
+        "start_time": 20759,
+        "end_time": 23351,
+        "text": "After two years of poor harvests,"
+    },
+    {
+        "index": 7,
+        "start_time": 23351,
+        "end_time": 26289,
+        "text": "the spring brought heavy rains and cold,"
+    },
+    {
+        "index": 8,
+        "start_time": 26289,
+        "end_time": 29274,
+        "text": "flooding the rivers and causing crop failures"
+    },
+    {
+        "index": 9,
+        "start_time": 29274,
+        "end_time": 31853,
+        "text": "from the British Isles to Switzerland."
+    },
+    {
+        "index": 10,
+        "start_time": 31853,
+        "end_time": 35642,
+        "text": "While odd-colored snow fell in Italy and Hungary,"
+    },
+    {
+        "index": 11,
+        "start_time": 35642,
+        "end_time": 40486,
+        "text": "famine, food riots and disease epidemics ensued."
+    },
+    {
+        "index": 12,
+        "start_time": 40486,
+        "end_time": 42655,
+        "text": "Meanwhile, New England was blanketed"
+    },
+    {
+        "index": 13,
+        "start_time": 42655,
+        "end_time": 44347,
+        "text": "by a strange fog"
+    },
+    {
+        "index": 14,
+        "start_time": 44347,
+        "end_time": 45576,
+        "text": "that would not disperse"
+    },
+    {
+        "index": 15,
+        "start_time": 45576,
+        "end_time": 47494,
+        "text": "as the ground remained frozen"
+    },
+    {
+        "index": 16,
+        "start_time": 47494,
+        "end_time": 49410,
+        "text": "well into June."
+    },
+    {
+        "index": 17,
+        "start_time": 49410,
+        "end_time": 52790,
+        "text": "In what came to be known as &quot;the Year Without a Summer,&quot;"
+    },
+    {
+        "index": 18,
+        "start_time": 52790,
+        "end_time": 55328,
+        "text": "some thought the apocalypse had begun."
+    },
+    {
+        "index": 19,
+        "start_time": 55328,
+        "end_time": 58588,
+        "text": "A mood captured in Lord Byron&#39;s poem &quot;Darkness&quot;:"
+    },
+    {
+        "index": 20,
+        "start_time": 58588,
+        "end_time": 61965,
+        "text": "&quot;I had a dream which was not all a dream."
+    },
+    {
+        "index": 21,
+        "start_time": 61965,
+        "end_time": 64715,
+        "text": "The bright sun was extinguish&#39;d,"
+    },
+    {
+        "index": 22,
+        "start_time": 64715,
+        "end_time": 68550,
+        "text": "and the stars did wander darkling in the eternal space,"
+    },
+    {
+        "index": 23,
+        "start_time": 68550,
+        "end_time": 70672,
+        "text": "rayless, and pathless,"
+    },
+    {
+        "index": 24,
+        "start_time": 70672,
+        "end_time": 73935,
+        "text": "and the icy Earth swung blind and blackening"
+    },
+    {
+        "index": 25,
+        "start_time": 73935,
+        "end_time": 75799,
+        "text": "in the moonless air;"
+    },
+    {
+        "index": 26,
+        "start_time": 75799,
+        "end_time": 79883,
+        "text": "morn came and went -- and came, and brought no day.&quot;"
+    },
+    {
+        "index": 27,
+        "start_time": 79883,
+        "end_time": 80860,
+        "text": "They had no way of knowing"
+    },
+    {
+        "index": 28,
+        "start_time": 80860,
+        "end_time": 82777,
+        "text": "that the real source of their misfortunes"
+    },
+    {
+        "index": 29,
+        "start_time": 82777,
+        "end_time": 87000,
+        "text": "had occurred a year ago thousands of miles away."
+    },
+    {
+        "index": 30,
+        "start_time": 87000,
+        "end_time": 90619,
+        "text": "The 1815 eruption of Mount Tambora"
+    },
+    {
+        "index": 31,
+        "start_time": 90619,
+        "end_time": 93331,
+        "text": "on the Indonesian island of Sumbawa"
+    },
+    {
+        "index": 32,
+        "start_time": 93331,
+        "end_time": 95957,
+        "text": "was what is known as a supervolcano,"
+    },
+    {
+        "index": 33,
+        "start_time": 95957,
+        "end_time": 98960,
+        "text": "characterized by a volume of erupted material,"
+    },
+    {
+        "index": 34,
+        "start_time": 98960,
+        "end_time": 102562,
+        "text": "many times greater than that of ordinary volcanoes."
+    },
+    {
+        "index": 35,
+        "start_time": 102562,
+        "end_time": 105246,
+        "text": "And while the popular image of volcanic destruction"
+    },
+    {
+        "index": 36,
+        "start_time": 105246,
+        "end_time": 107966,
+        "text": "is molten rock engulfing the surrounding land,"
+    },
+    {
+        "index": 37,
+        "start_time": 107966,
+        "end_time": 110514,
+        "text": "far greater devastation is caused"
+    },
+    {
+        "index": 38,
+        "start_time": 110514,
+        "end_time": 112849,
+        "text": "by what remains in the air."
+    },
+    {
+        "index": 39,
+        "start_time": 112849,
+        "end_time": 115200,
+        "text": "Volcanic ash, dispersed by wind,"
+    },
+    {
+        "index": 40,
+        "start_time": 115200,
+        "end_time": 117298,
+        "text": "can blanket the sky for days,"
+    },
+    {
+        "index": 41,
+        "start_time": 117298,
+        "end_time": 120215,
+        "text": "while toxic gases, such as sulfur dioxide,"
+    },
+    {
+        "index": 42,
+        "start_time": 120215,
+        "end_time": 121841,
+        "text": "react in the stratosphere,"
+    },
+    {
+        "index": 43,
+        "start_time": 121841,
+        "end_time": 123519,
+        "text": "blocking out solar radiation"
+    },
+    {
+        "index": 44,
+        "start_time": 123519,
+        "end_time": 126509,
+        "text": "and drastically cooling the atmosphere below."
+    },
+    {
+        "index": 45,
+        "start_time": 126509,
+        "end_time": 128694,
+        "text": "The resulting volcanic winter,"
+    },
+    {
+        "index": 46,
+        "start_time": 128694,
+        "end_time": 131327,
+        "text": "along with other effects such as acid rain,"
+    },
+    {
+        "index": 47,
+        "start_time": 131327,
+        "end_time": 132952,
+        "text": "can effect multiple continents,"
+    },
+    {
+        "index": 48,
+        "start_time": 132952,
+        "end_time": 134495,
+        "text": "disrupting natural cycles"
+    },
+    {
+        "index": 49,
+        "start_time": 134495,
+        "end_time": 137465,
+        "text": "and annihilating the plant life on which other organisms,"
+    },
+    {
+        "index": 50,
+        "start_time": 137465,
+        "end_time": 140503,
+        "text": "including humans, depend."
+    },
+    {
+        "index": 51,
+        "start_time": 140503,
+        "end_time": 143515,
+        "text": "Releasing nearly 160 cubic kilometers"
+    },
+    {
+        "index": 52,
+        "start_time": 143515,
+        "end_time": 145509,
+        "text": "of rock, ash and gas,"
+    },
+    {
+        "index": 53,
+        "start_time": 145509,
+        "end_time": 147304,
+        "text": "the Mount Tambora eruption"
+    },
+    {
+        "index": 54,
+        "start_time": 147304,
+        "end_time": 149762,
+        "text": "was the largest in recorded history,"
+    },
+    {
+        "index": 55,
+        "start_time": 149762,
+        "end_time": 152680,
+        "text": "causing as many as 90,000 deaths."
+    },
+    {
+        "index": 56,
+        "start_time": 152680,
+        "end_time": 155397,
+        "text": "But previous eruptions have been even more deadly."
+    },
+    {
+        "index": 57,
+        "start_time": 155397,
+        "end_time": 158883,
+        "text": "The 1600 eruption of Peru&#39;s Huaynaputina"
+    },
+    {
+        "index": 58,
+        "start_time": 158883,
+        "end_time": 161219,
+        "text": "is likely to have triggered the Russian famine,"
+    },
+    {
+        "index": 59,
+        "start_time": 161219,
+        "end_time": 163317,
+        "text": "that killed nearly two million,"
+    },
+    {
+        "index": 60,
+        "start_time": 163317,
+        "end_time": 166739,
+        "text": "while more ancient eruptions have been blamed for major world events,"
+    },
+    {
+        "index": 61,
+        "start_time": 166739,
+        "end_time": 169295,
+        "text": "such as the fall of the Chinese Xia Dynasty,"
+    },
+    {
+        "index": 62,
+        "start_time": 169295,
+        "end_time": 172298,
+        "text": "the disappearance of the Minoan civilization,"
+    },
+    {
+        "index": 63,
+        "start_time": 172298,
+        "end_time": 175228,
+        "text": "and even a genetic bottleneck in human evolution"
+    },
+    {
+        "index": 64,
+        "start_time": 175228,
+        "end_time": 178465,
+        "text": "that may have resulted from all but a few thousand human beings"
+    },
+    {
+        "index": 65,
+        "start_time": 178465,
+        "end_time": 181544,
+        "text": "being wiped out 70,000 years ago."
+    },
+    {
+        "index": 66,
+        "start_time": 181544,
+        "end_time": 184336,
+        "text": "One of the most dangerous types of supervolcano"
+    },
+    {
+        "index": 67,
+        "start_time": 184336,
+        "end_time": 186556,
+        "text": "is an explosive caldera,"
+    },
+    {
+        "index": 68,
+        "start_time": 186556,
+        "end_time": 188926,
+        "text": "formed when a volcanic mountain collapses"
+    },
+    {
+        "index": 69,
+        "start_time": 188926,
+        "end_time": 190845,
+        "text": "after an eruption so large"
+    },
+    {
+        "index": 70,
+        "start_time": 190845,
+        "end_time": 192846,
+        "text": "that the now-empty magma chamber"
+    },
+    {
+        "index": 71,
+        "start_time": 192846,
+        "end_time": 194966,
+        "text": "can no longer support its weight."
+    },
+    {
+        "index": 72,
+        "start_time": 194966,
+        "end_time": 197849,
+        "text": "But though the above-ground volcano is gone,"
+    },
+    {
+        "index": 73,
+        "start_time": 197849,
+        "end_time": 200937,
+        "text": "the underground volcanic activity continues."
+    },
+    {
+        "index": 74,
+        "start_time": 200937,
+        "end_time": 202715,
+        "text": "With no method of release,"
+    },
+    {
+        "index": 75,
+        "start_time": 202715,
+        "end_time": 204941,
+        "text": "magma and volcanic gases continue"
+    },
+    {
+        "index": 76,
+        "start_time": 204941,
+        "end_time": 207881,
+        "text": "to accumulate and expand underground,"
+    },
+    {
+        "index": 77,
+        "start_time": 207881,
+        "end_time": 211299,
+        "text": "building up pressure until a massive and violent explosion"
+    },
+    {
+        "index": 78,
+        "start_time": 211299,
+        "end_time": 213465,
+        "text": "becomes inevitable."
+    },
+    {
+        "index": 79,
+        "start_time": 213465,
+        "end_time": 216916,
+        "text": "And one of the largest active volcanic calderas"
+    },
+    {
+        "index": 80,
+        "start_time": 216916,
+        "end_time": 219631,
+        "text": "lies right under Yellowstone National Park."
+    },
+    {
+        "index": 81,
+        "start_time": 219631,
+        "end_time": 223185,
+        "text": "The last time it erupted, 650,000 years ago,"
+    },
+    {
+        "index": 82,
+        "start_time": 223185,
+        "end_time": 225123,
+        "text": "it covered much of North America"
+    },
+    {
+        "index": 83,
+        "start_time": 225123,
+        "end_time": 227965,
+        "text": "in nearly two meters of ash and rock."
+    },
+    {
+        "index": 84,
+        "start_time": 227965,
+        "end_time": 230283,
+        "text": "Scientists are currently monitoring"
+    },
+    {
+        "index": 85,
+        "start_time": 230283,
+        "end_time": 231927,
+        "text": "the world&#39;s active volcanoes,"
+    },
+    {
+        "index": 86,
+        "start_time": 231927,
+        "end_time": 233894,
+        "text": "and procedures for predicting eruptions,"
+    },
+    {
+        "index": 87,
+        "start_time": 233894,
+        "end_time": 237309,
+        "text": "conducting evacuations and diverting lava flows"
+    },
+    {
+        "index": 88,
+        "start_time": 237309,
+        "end_time": 239465,
+        "text": "have improved over the years."
+    },
+    {
+        "index": 89,
+        "start_time": 239465,
+        "end_time": 241549,
+        "text": "But the massive scale and global reach"
+    },
+    {
+        "index": 90,
+        "start_time": 241549,
+        "end_time": 242964,
+        "text": "of a supervolcano"
+    },
+    {
+        "index": 91,
+        "start_time": 242964,
+        "end_time": 246258,
+        "text": "means that for many people there would be nowhere to run."
+    },
+    {
+        "index": 92,
+        "start_time": 246258,
+        "end_time": 248716,
+        "text": "Fortunately, the current data shows no evidence"
+    },
+    {
+        "index": 93,
+        "start_time": 248716,
+        "end_time": 251946,
+        "text": "of such an eruption occurring in the next few thousand years."
+    },
+    {
+        "index": 94,
+        "start_time": 251946,
+        "end_time": 254492,
+        "text": "But the idea of a sudden and unavoidable"
+    },
+    {
+        "index": 95,
+        "start_time": 254492,
+        "end_time": 256909,
+        "text": "civilization-destroying apocalypse"
+    },
+    {
+        "index": 96,
+        "start_time": 256909,
+        "end_time": 259370,
+        "text": "caused by events half a globe away"
+    },
+    {
+        "index": 97,
+        "start_time": 259370,
+        "end_time": 261957,
+        "text": "will remain a powerful and terrifying vision."
+    },
+    {
+        "index": 98,
+        "start_time": 261957,
+        "end_time": 264376,
+        "text": "Less fictional than we would like to believe."
+    },
+    {
+        "index": 99,
+        "start_time": 264376,
+        "end_time": 267755,
+        "text": "&quot;The winds were withered in the stagnant air,"
+    },
+    {
+        "index": 100,
+        "start_time": 267755,
+        "end_time": 269630,
+        "text": "and the clouds perish&#39;d;"
+    },
+    {
+        "index": 101,
+        "start_time": 269630,
+        "end_time": 272355,
+        "text": "darkness had no need of aid from them --"
+    },
+    {
+        "index": 102,
+        "start_time": 272355,
+        "end_time": 274883,
+        "text": "she was the universe.&quot; - Lord Byron"
+    }
+]

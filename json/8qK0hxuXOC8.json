@@ -1,0 +1,596 @@
+[
+    {
+        "index": 1,
+        "start_time": 7095,
+        "end_time": 8584,
+        "text": "Most people will take a pill,"
+    },
+    {
+        "index": 2,
+        "start_time": 8584,
+        "end_time": 9834,
+        "text": "receive an injection,"
+    },
+    {
+        "index": 3,
+        "start_time": 9834,
+        "end_time": 13335,
+        "text": "or otherwise take some kind of medicine\nduring their lives,"
+    },
+    {
+        "index": 4,
+        "start_time": 13335,
+        "end_time": 18266,
+        "text": "but most of us don&#39;t know anything\nabout how these substances actually work."
+    },
+    {
+        "index": 5,
+        "start_time": 18266,
+        "end_time": 21816,
+        "text": "How can various compounds impact the way\nwe physically feel,"
+    },
+    {
+        "index": 6,
+        "start_time": 21816,
+        "end_time": 22726,
+        "text": "think,"
+    },
+    {
+        "index": 7,
+        "start_time": 22726,
+        "end_time": 24844,
+        "text": "and even behave?"
+    },
+    {
+        "index": 8,
+        "start_time": 24844,
+        "end_time": 28665,
+        "text": "For the most part, this depends on\nhow a drug alters the communication"
+    },
+    {
+        "index": 9,
+        "start_time": 28665,
+        "end_time": 31226,
+        "text": "between cells in the brain."
+    },
+    {
+        "index": 10,
+        "start_time": 31226,
+        "end_time": 33787,
+        "text": "There are a number of different ways\nthat can happen."
+    },
+    {
+        "index": 11,
+        "start_time": 33787,
+        "end_time": 35866,
+        "text": "But before it gets into the brain,"
+    },
+    {
+        "index": 12,
+        "start_time": 35866,
+        "end_time": 38124,
+        "text": "any drug must first reach the bloodstream"
+    },
+    {
+        "index": 13,
+        "start_time": 38124,
+        "end_time": 41897,
+        "text": "on a journey that can take anywhere\nfrom seconds to hours,"
+    },
+    {
+        "index": 14,
+        "start_time": 41897,
+        "end_time": 44327,
+        "text": "depending on factors like how\nit&#39;s administered."
+    },
+    {
+        "index": 15,
+        "start_time": 44327,
+        "end_time": 47367,
+        "text": "The slowest method is to take\na drug orally"
+    },
+    {
+        "index": 16,
+        "start_time": 47367,
+        "end_time": 50097,
+        "text": "because it must be absorbed by\nour digestive system"
+    },
+    {
+        "index": 17,
+        "start_time": 50097,
+        "end_time": 52189,
+        "text": "before it takes effect."
+    },
+    {
+        "index": 18,
+        "start_time": 52189,
+        "end_time": 55398,
+        "text": "Inhaling a drug gets it into\nthe bloodstream faster."
+    },
+    {
+        "index": 19,
+        "start_time": 55398,
+        "end_time": 58888,
+        "text": "And injecting a drug intravenously\nworks quickly too"
+    },
+    {
+        "index": 20,
+        "start_time": 58888,
+        "end_time": 62007,
+        "text": "because it pumps the chemicals directly\ninto the blood."
+    },
+    {
+        "index": 21,
+        "start_time": 62007,
+        "end_time": 66788,
+        "text": "Once there, the drug quickly reaches\nthe gates of its destination, the brain."
+    },
+    {
+        "index": 22,
+        "start_time": 66788,
+        "end_time": 70606,
+        "text": "The entrance to this organ is guarded\nby the blood-brain barrier,"
+    },
+    {
+        "index": 23,
+        "start_time": 70606,
+        "end_time": 72858,
+        "text": "which separates blood \nfrom the nervous system"
+    },
+    {
+        "index": 24,
+        "start_time": 72858,
+        "end_time": 75940,
+        "text": "to keep potentially dangerous \nsubstances out."
+    },
+    {
+        "index": 25,
+        "start_time": 75940,
+        "end_time": 79148,
+        "text": "So all drugs must have a specific\nchemical composition"
+    },
+    {
+        "index": 26,
+        "start_time": 79148,
+        "end_time": 83568,
+        "text": "which gives them the key to unlock\nthis barrier and pass through."
+    },
+    {
+        "index": 27,
+        "start_time": 83568,
+        "end_time": 87428,
+        "text": "Once inside, drugs start to interfere\nwith the brain&#39;s normal functioning"
+    },
+    {
+        "index": 28,
+        "start_time": 87428,
+        "end_time": 90938,
+        "text": "by targeting its web of neurons \nand synapses."
+    },
+    {
+        "index": 29,
+        "start_time": 90938,
+        "end_time": 95498,
+        "text": "Neurons are brain cells that have\na nucleus, dendrites, and an axon."
+    },
+    {
+        "index": 30,
+        "start_time": 95498,
+        "end_time": 99540,
+        "text": "Synapses are structures placed along\nthe dendrites or the axon"
+    },
+    {
+        "index": 31,
+        "start_time": 99540,
+        "end_time": 103989,
+        "text": "which allow the exchange of \nelectrochemical signals between neurons."
+    },
+    {
+        "index": 32,
+        "start_time": 103989,
+        "end_time": 107669,
+        "text": "Those signals take the form of chemicals\ncalled neurotransmitters."
+    },
+    {
+        "index": 33,
+        "start_time": 107669,
+        "end_time": 111470,
+        "text": "Each neurotransmitter plays different\nroles in regulating our behaviors,"
+    },
+    {
+        "index": 34,
+        "start_time": 111470,
+        "end_time": 112280,
+        "text": "emotions,"
+    },
+    {
+        "index": 35,
+        "start_time": 112280,
+        "end_time": 113489,
+        "text": "and cognition."
+    },
+    {
+        "index": 36,
+        "start_time": 113489,
+        "end_time": 115880,
+        "text": "But they all work in one of two ways."
+    },
+    {
+        "index": 37,
+        "start_time": 115880,
+        "end_time": 118080,
+        "text": "They can either inhibit \nthe receiving neuron,"
+    },
+    {
+        "index": 38,
+        "start_time": 118080,
+        "end_time": 119601,
+        "text": "limiting its activity,"
+    },
+    {
+        "index": 39,
+        "start_time": 119601,
+        "end_time": 120980,
+        "text": "or excite it,"
+    },
+    {
+        "index": 40,
+        "start_time": 120980,
+        "end_time": 125079,
+        "text": "creating a new electrochemical signal\nthat spreads throughout the network."
+    },
+    {
+        "index": 41,
+        "start_time": 125079,
+        "end_time": 128020,
+        "text": "Any leftover neurotransmitter usually\ngets degraded"
+    },
+    {
+        "index": 42,
+        "start_time": 128020,
+        "end_time": 131120,
+        "text": "or reabsorbed \ninto the transmitting neuron."
+    },
+    {
+        "index": 43,
+        "start_time": 131120,
+        "end_time": 133981,
+        "text": "A drug&#39;s effectiveness stems \nfrom its ability"
+    },
+    {
+        "index": 44,
+        "start_time": 133981,
+        "end_time": 138651,
+        "text": "to manipulate these synaptic transmissions\nat different phases of the process."
+    },
+    {
+        "index": 45,
+        "start_time": 138651,
+        "end_time": 141401,
+        "text": "That results in an increase or a decrease"
+    },
+    {
+        "index": 46,
+        "start_time": 141401,
+        "end_time": 144752,
+        "text": "in the amount of neurotransmitters\nbeing spread."
+    },
+    {
+        "index": 47,
+        "start_time": 144752,
+        "end_time": 148402,
+        "text": "For instance, common antidepressants,\nlike SSRIs,"
+    },
+    {
+        "index": 48,
+        "start_time": 148402,
+        "end_time": 151181,
+        "text": "stop the reabsorption of serotonin,"
+    },
+    {
+        "index": 49,
+        "start_time": 151181,
+        "end_time": 154572,
+        "text": "a neurotransmitter that modulates\nour moods."
+    },
+    {
+        "index": 50,
+        "start_time": 154572,
+        "end_time": 157744,
+        "text": "This effectively pushes more of it\ninto the neural network."
+    },
+    {
+        "index": 51,
+        "start_time": 157744,
+        "end_time": 160332,
+        "text": "Meanwhile, painkillers, like morphine,"
+    },
+    {
+        "index": 52,
+        "start_time": 160332,
+        "end_time": 163444,
+        "text": "raise levels of serotonin \nand noradrenaline,"
+    },
+    {
+        "index": 53,
+        "start_time": 163444,
+        "end_time": 164842,
+        "text": "which regulate energy,"
+    },
+    {
+        "index": 54,
+        "start_time": 164842,
+        "end_time": 165801,
+        "text": "arousal,"
+    },
+    {
+        "index": 55,
+        "start_time": 165801,
+        "end_time": 166740,
+        "text": "alertness,"
+    },
+    {
+        "index": 56,
+        "start_time": 166740,
+        "end_time": 168190,
+        "text": "and pleasure."
+    },
+    {
+        "index": 57,
+        "start_time": 168190,
+        "end_time": 171812,
+        "text": "Those same neurotransmitters also\naffect endorphin receptors,"
+    },
+    {
+        "index": 58,
+        "start_time": 171812,
+        "end_time": 173542,
+        "text": "reducing pain perception."
+    },
+    {
+        "index": 59,
+        "start_time": 173542,
+        "end_time": 177712,
+        "text": "And tranquilizers works by increasing\nthe production of GABA"
+    },
+    {
+        "index": 60,
+        "start_time": 177712,
+        "end_time": 179902,
+        "text": "to inhibit neural activity"
+    },
+    {
+        "index": 61,
+        "start_time": 179902,
+        "end_time": 183913,
+        "text": "putting the person in a relaxed\nor sedated state."
+    },
+    {
+        "index": 62,
+        "start_time": 183913,
+        "end_time": 186473,
+        "text": "What about illegal or elicit drugs?"
+    },
+    {
+        "index": 63,
+        "start_time": 186473,
+        "end_time": 190954,
+        "text": "These have powerful impacts on the brain\nthat we&#39;re still trying to understand."
+    },
+    {
+        "index": 64,
+        "start_time": 190954,
+        "end_time": 192884,
+        "text": "Crystal meth, an amphetamine,"
+    },
+    {
+        "index": 65,
+        "start_time": 192884,
+        "end_time": 195943,
+        "text": "induces a long-lasting release\nof dopamine,"
+    },
+    {
+        "index": 66,
+        "start_time": 195943,
+        "end_time": 201055,
+        "text": "a neurotransmitter linked with\nthe perception of reward and pleasure."
+    },
+    {
+        "index": 67,
+        "start_time": 201055,
+        "end_time": 203593,
+        "text": "It also activates noradrenaline receptors,"
+    },
+    {
+        "index": 68,
+        "start_time": 203593,
+        "end_time": 205125,
+        "text": "which increases the heart rate,"
+    },
+    {
+        "index": 69,
+        "start_time": 205125,
+        "end_time": 206368,
+        "text": "dilates pupils,"
+    },
+    {
+        "index": 70,
+        "start_time": 206368,
+        "end_time": 209632,
+        "text": "and triggers the body&#39;s fight\nor flight response."
+    },
+    {
+        "index": 71,
+        "start_time": 209632,
+        "end_time": 213444,
+        "text": "Cocaine blocks the reuptake of dopamine\nand serotonin,"
+    },
+    {
+        "index": 72,
+        "start_time": 213444,
+        "end_time": 215073,
+        "text": "pushing more into the network"
+    },
+    {
+        "index": 73,
+        "start_time": 215073,
+        "end_time": 216432,
+        "text": "where they boost energy,"
+    },
+    {
+        "index": 74,
+        "start_time": 216432,
+        "end_time": 218125,
+        "text": "create feelings of euphoria,"
+    },
+    {
+        "index": 75,
+        "start_time": 218125,
+        "end_time": 220454,
+        "text": "and suppress appetites."
+    },
+    {
+        "index": 76,
+        "start_time": 220454,
+        "end_time": 224159,
+        "text": "And hallucinogenic drugs have some\nof the most puzzling effects."
+    },
+    {
+        "index": 77,
+        "start_time": 224159,
+        "end_time": 225659,
+        "text": "Substances like LSD,"
+    },
+    {
+        "index": 78,
+        "start_time": 225659,
+        "end_time": 226638,
+        "text": "mescaline,"
+    },
+    {
+        "index": 79,
+        "start_time": 226638,
+        "end_time": 227757,
+        "text": "and DMT"
+    },
+    {
+        "index": 80,
+        "start_time": 227757,
+        "end_time": 230225,
+        "text": "all block the release of serotonin,"
+    },
+    {
+        "index": 81,
+        "start_time": 230225,
+        "end_time": 232895,
+        "text": "which regulates mood and impulsivity."
+    },
+    {
+        "index": 82,
+        "start_time": 232895,
+        "end_time": 235246,
+        "text": "They also have an impact \non the neural circuits"
+    },
+    {
+        "index": 83,
+        "start_time": 235246,
+        "end_time": 239815,
+        "text": "involved in perception, learning,\nand behavioral regulation,"
+    },
+    {
+        "index": 84,
+        "start_time": 239815,
+        "end_time": 244348,
+        "text": "which may explain why these drugs\nhave such powerful impacts."
+    },
+    {
+        "index": 85,
+        "start_time": 244348,
+        "end_time": 246594,
+        "text": "Even if some of these \neffects sound exciting,"
+    },
+    {
+        "index": 86,
+        "start_time": 246594,
+        "end_time": 250944,
+        "text": "there are reasons why some of these drugs\nare highly controlled and often illegal."
+    },
+    {
+        "index": 87,
+        "start_time": 250944,
+        "end_time": 253468,
+        "text": "Drugs have the power to alter \nthe brain&#39;s chemistry,"
+    },
+    {
+        "index": 88,
+        "start_time": 253468,
+        "end_time": 257315,
+        "text": "and repeated use can permanently\nrewire the neural networks"
+    },
+    {
+        "index": 89,
+        "start_time": 257315,
+        "end_time": 259107,
+        "text": "that support our ability to think,"
+    },
+    {
+        "index": 90,
+        "start_time": 259107,
+        "end_time": 260255,
+        "text": "make decisions,"
+    },
+    {
+        "index": 91,
+        "start_time": 260255,
+        "end_time": 261000,
+        "text": "learn,"
+    },
+    {
+        "index": 92,
+        "start_time": 261000,
+        "end_time": 262757,
+        "text": "and remember things."
+    },
+    {
+        "index": 93,
+        "start_time": 262757,
+        "end_time": 265996,
+        "text": "There&#39;s a lot we still don&#39;t know \nabout drugs and their effects,"
+    },
+    {
+        "index": 94,
+        "start_time": 265996,
+        "end_time": 267911,
+        "text": "both the good and the bad."
+    },
+    {
+        "index": 95,
+        "start_time": 267911,
+        "end_time": 271647,
+        "text": "But those we do know about are the ones\nwe&#39;ve studied closely,"
+    },
+    {
+        "index": 96,
+        "start_time": 271647,
+        "end_time": 273978,
+        "text": "and turned into effective medicines."
+    },
+    {
+        "index": 97,
+        "start_time": 273978,
+        "end_time": 276958,
+        "text": "As our knowledge grows about drugs\nand the brain,"
+    },
+    {
+        "index": 98,
+        "start_time": 276958,
+        "end_time": 279308,
+        "text": "the possibilities will also increase"
+    },
+    {
+        "index": 99,
+        "start_time": 279308,
+        "end_time": 283287,
+        "text": "for treating the many medical problems\nthat puzzle researchers today."
+    }
+]

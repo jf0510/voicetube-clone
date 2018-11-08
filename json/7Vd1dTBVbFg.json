@@ -1,0 +1,422 @@
+[
+    {
+        "index": 1,
+        "start_time": 10221,
+        "end_time": 15345,
+        "text": "In this dystopian world, your resistance\ngroup is humanity&#39;s last hope."
+    },
+    {
+        "index": 2,
+        "start_time": 15345,
+        "end_time": 19359,
+        "text": "Unfortunately, you&#39;ve all been captured\nby the tyrannical rulers"
+    },
+    {
+        "index": 3,
+        "start_time": 19359,
+        "end_time": 23527,
+        "text": "and brought to the ancient colosseum\nfor their deadly entertainment."
+    },
+    {
+        "index": 4,
+        "start_time": 23527,
+        "end_time": 25382,
+        "text": "Before you&#39;re thrown into the dungeon,"
+    },
+    {
+        "index": 5,
+        "start_time": 25382,
+        "end_time": 28964,
+        "text": "you see many numbered hallways\nleading outside."
+    },
+    {
+        "index": 6,
+        "start_time": 28964,
+        "end_time": 31942,
+        "text": "But each exit is blocked by \nan electric barrier"
+    },
+    {
+        "index": 7,
+        "start_time": 31942,
+        "end_time": 34506,
+        "text": "with a combination keypad."
+    },
+    {
+        "index": 8,
+        "start_time": 34506,
+        "end_time": 39541,
+        "text": "You learn that one of you will be allowed\nto try to escape by passing a challenge"
+    },
+    {
+        "index": 9,
+        "start_time": 39541,
+        "end_time": 44852,
+        "text": "while everyone else will be fed to\nthe mutant salamanders the next morning."
+    },
+    {
+        "index": 10,
+        "start_time": 44852,
+        "end_time": 48631,
+        "text": "With her perfect logical reasoning,\nZara is the obvious choice."
+    },
+    {
+        "index": 11,
+        "start_time": 48631,
+        "end_time": 54466,
+        "text": "You hand her a concealed audio transmitter\nso that the rest of you can listen along."
+    },
+    {
+        "index": 12,
+        "start_time": 54466,
+        "end_time": 56058,
+        "text": "As Zara is led away,"
+    },
+    {
+        "index": 13,
+        "start_time": 56058,
+        "end_time": 58942,
+        "text": "you hear her footsteps echo \nthrough one of the hallways,"
+    },
+    {
+        "index": 14,
+        "start_time": 58942,
+        "end_time": 60694,
+        "text": "then stop."
+    },
+    {
+        "index": 15,
+        "start_time": 60694,
+        "end_time": 63659,
+        "text": "A voice announces \nthat she must enter a code"
+    },
+    {
+        "index": 16,
+        "start_time": 63659,
+        "end_time": 68166,
+        "text": "consisting of three positive whole numbers\nin ascending order,"
+    },
+    {
+        "index": 17,
+        "start_time": 68166,
+        "end_time": 71466,
+        "text": "so the second number is greater than\nor equal to the first,"
+    },
+    {
+        "index": 18,
+        "start_time": 71466,
+        "end_time": 75254,
+        "text": "and the third is greater than\nor equal to the second."
+    },
+    {
+        "index": 19,
+        "start_time": 75254,
+        "end_time": 77432,
+        "text": "She may ask for up to three clues,"
+    },
+    {
+        "index": 20,
+        "start_time": 77432,
+        "end_time": 79026,
+        "text": "but if she makes a wrong guess,"
+    },
+    {
+        "index": 21,
+        "start_time": 79026,
+        "end_time": 80966,
+        "text": "or says anything else,"
+    },
+    {
+        "index": 22,
+        "start_time": 80966,
+        "end_time": 83754,
+        "text": "she&#39;ll be thrown back into the dungeon."
+    },
+    {
+        "index": 23,
+        "start_time": 83754,
+        "end_time": 90848,
+        "text": "For the first clue, the voice says\nthe product of the three numbers is 36."
+    },
+    {
+        "index": 24,
+        "start_time": 90848,
+        "end_time": 93092,
+        "text": "When Zara asks for the second clue,"
+    },
+    {
+        "index": 25,
+        "start_time": 93092,
+        "end_time": 95092,
+        "text": "it tells her the sum of the numbers"
+    },
+    {
+        "index": 26,
+        "start_time": 95092,
+        "end_time": 99876,
+        "text": "is the same as the number \nof the hallway she entered."
+    },
+    {
+        "index": 27,
+        "start_time": 99876,
+        "end_time": 101682,
+        "text": "There&#39;s a long silence."
+    },
+    {
+        "index": 28,
+        "start_time": 101682,
+        "end_time": 104317,
+        "text": "You&#39;re sure Zara remembers \nthe hallway number,"
+    },
+    {
+        "index": 29,
+        "start_time": 104317,
+        "end_time": 106809,
+        "text": "but there&#39;s no way for you to know it,"
+    },
+    {
+        "index": 30,
+        "start_time": 106809,
+        "end_time": 110002,
+        "text": "and she can&#39;t say it outloud."
+    },
+    {
+        "index": 31,
+        "start_time": 110002,
+        "end_time": 113422,
+        "text": "If Zara could enter the passcode \nat this point, she would,"
+    },
+    {
+        "index": 32,
+        "start_time": 113422,
+        "end_time": 117215,
+        "text": "but instead, she asks for the third clue,"
+    },
+    {
+        "index": 33,
+        "start_time": 117215,
+        "end_time": 121811,
+        "text": "and the voice announces that the largest\nnumber appears only once"
+    },
+    {
+        "index": 34,
+        "start_time": 121811,
+        "end_time": 124117,
+        "text": "in the combination."
+    },
+    {
+        "index": 35,
+        "start_time": 124117,
+        "end_time": 128931,
+        "text": "Moments later, the buzz of the electric\nbarrier stops for a few seconds,"
+    },
+    {
+        "index": 36,
+        "start_time": 128931,
+        "end_time": 131766,
+        "text": "and you realize that Zara has escaped."
+    },
+    {
+        "index": 37,
+        "start_time": 131766,
+        "end_time": 135002,
+        "text": "Unfortunately, her transmitter \nis no longer in range,"
+    },
+    {
+        "index": 38,
+        "start_time": 135002,
+        "end_time": 137507,
+        "text": "so that&#39;s all the information you get."
+    },
+    {
+        "index": 39,
+        "start_time": 137507,
+        "end_time": 139849,
+        "text": "Can you find the solution?"
+    },
+    {
+        "index": 40,
+        "start_time": 139849,
+        "end_time": 147280,
+        "text": "Pause on the next screen\nto work out the solution."
+    },
+    {
+        "index": 41,
+        "start_time": 147280,
+        "end_time": 148451,
+        "text": "3"
+    },
+    {
+        "index": 42,
+        "start_time": 148451,
+        "end_time": 149394,
+        "text": "2"
+    },
+    {
+        "index": 43,
+        "start_time": 149394,
+        "end_time": 150401,
+        "text": "1"
+    },
+    {
+        "index": 44,
+        "start_time": 150401,
+        "end_time": 153829,
+        "text": "You&#39;re worried about the fact that you\ndon&#39;t know Zara&#39;s hallway number,"
+    },
+    {
+        "index": 45,
+        "start_time": 153829,
+        "end_time": 157140,
+        "text": "but you decide to start \nfrom the beginning anyways."
+    },
+    {
+        "index": 46,
+        "start_time": 157140,
+        "end_time": 161170,
+        "text": "From the first clue, you work out all of\nthe eight possible combinations"
+    },
+    {
+        "index": 47,
+        "start_time": 161170,
+        "end_time": 163911,
+        "text": "that come out to a product of 36."
+    },
+    {
+        "index": 48,
+        "start_time": 163911,
+        "end_time": 165972,
+        "text": "One of these must be right,\nbut which one?"
+    },
+    {
+        "index": 49,
+        "start_time": 165972,
+        "end_time": 168371,
+        "text": "Now comes the hard part."
+    },
+    {
+        "index": 50,
+        "start_time": 168371,
+        "end_time": 171313,
+        "text": "Even though you don&#39;t know which number\nyou&#39;re looking for,"
+    },
+    {
+        "index": 51,
+        "start_time": 171313,
+        "end_time": 175782,
+        "text": "you decide to work out the sum\nof each combination&#39;s three numbers."
+    },
+    {
+        "index": 52,
+        "start_time": 175782,
+        "end_time": 177564,
+        "text": "That&#39;s when it hits you."
+    },
+    {
+        "index": 53,
+        "start_time": 177564,
+        "end_time": 180562,
+        "text": "All but two of the sums are unique,"
+    },
+    {
+        "index": 54,
+        "start_time": 180562,
+        "end_time": 183532,
+        "text": "and if the hallway number had matched\nany of these,"
+    },
+    {
+        "index": 55,
+        "start_time": 183532,
+        "end_time": 187259,
+        "text": "Zara would have known the correct\ncombination right then and there"
+    },
+    {
+        "index": 56,
+        "start_time": 187259,
+        "end_time": 189687,
+        "text": "without asking for the third clue."
+    },
+    {
+        "index": 57,
+        "start_time": 189687,
+        "end_time": 191501,
+        "text": "Since she did ask for the clue,"
+    },
+    {
+        "index": 58,
+        "start_time": 191501,
+        "end_time": 194356,
+        "text": "the hallway number must have \nmatched the only sum"
+    },
+    {
+        "index": 59,
+        "start_time": 194356,
+        "end_time": 197104,
+        "text": "that appears more than once in the list:"
+    },
+    {
+        "index": 60,
+        "start_time": 197104,
+        "end_time": 198478,
+        "text": "thirteen."
+    },
+    {
+        "index": 61,
+        "start_time": 198478,
+        "end_time": 202391,
+        "text": "But which of the two combinations\nthat add up to thirteen is correct:"
+    },
+    {
+        "index": 62,
+        "start_time": 202391,
+        "end_time": 203539,
+        "text": "1,6,6,"
+    },
+    {
+        "index": 63,
+        "start_time": 203539,
+        "end_time": 205433,
+        "text": "or 2,2,9?"
+    },
+    {
+        "index": 64,
+        "start_time": 205433,
+        "end_time": 207594,
+        "text": "That&#39;s where the third clue comes in."
+    },
+    {
+        "index": 65,
+        "start_time": 207594,
+        "end_time": 210465,
+        "text": "Since it tells us that the largest\nnumber must be unique,"
+    },
+    {
+        "index": 66,
+        "start_time": 210465,
+        "end_time": 213152,
+        "text": "2,2,9 must be the code."
+    },
+    {
+        "index": 67,
+        "start_time": 213152,
+        "end_time": 217449,
+        "text": "When night falls, you and the others\nescape through hallway thirteen"
+    },
+    {
+        "index": 68,
+        "start_time": 217449,
+        "end_time": 219785,
+        "text": "and rejoin Zara outside."
+    },
+    {
+        "index": 69,
+        "start_time": 219785,
+        "end_time": 222293,
+        "text": "You&#39;ve freed yourselves through \nmath and logic."
+    },
+    {
+        "index": 70,
+        "start_time": 222293,
+        "end_time": 224700,
+        "text": "Now it&#39;s time to free \nthe rest of the world."
+    }
+]

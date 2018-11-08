@@ -1,0 +1,710 @@
+[
+    {
+        "index": 1,
+        "start_time": 7509,
+        "end_time": 9317,
+        "text": "We have some good reasons to completely"
+    },
+    {
+        "index": 2,
+        "start_time": 9317,
+        "end_time": 11235,
+        "text": "switch over to solar power."
+    },
+    {
+        "index": 3,
+        "start_time": 11235,
+        "end_time": 12859,
+        "text": "It&#39;s cheaper in many cases,"
+    },
+    {
+        "index": 4,
+        "start_time": 12859,
+        "end_time": 14809,
+        "text": "and definitely more sustainable"
+    },
+    {
+        "index": 5,
+        "start_time": 14809,
+        "end_time": 17213,
+        "text": "than our dependance on traditional power plants"
+    },
+    {
+        "index": 6,
+        "start_time": 17213,
+        "end_time": 18906,
+        "text": "that use resources like coal,"
+    },
+    {
+        "index": 7,
+        "start_time": 18906,
+        "end_time": 20950,
+        "text": "which will eventually run out."
+    },
+    {
+        "index": 8,
+        "start_time": 20950,
+        "end_time": 22035,
+        "text": "So why don&#39;t we replace these"
+    },
+    {
+        "index": 9,
+        "start_time": 22035,
+        "end_time": 24570,
+        "text": "traditional plants with solar energy?"
+    },
+    {
+        "index": 10,
+        "start_time": 24570,
+        "end_time": 26027,
+        "text": "Because there&#39;s one factor that makes"
+    },
+    {
+        "index": 11,
+        "start_time": 26027,
+        "end_time": 28476,
+        "text": "solar power very unpredictable:"
+    },
+    {
+        "index": 12,
+        "start_time": 28476,
+        "end_time": 30052,
+        "text": "cloud cover."
+    },
+    {
+        "index": 13,
+        "start_time": 30052,
+        "end_time": 32223,
+        "text": "As the sun&#39;s rays move towards Earth,"
+    },
+    {
+        "index": 14,
+        "start_time": 32223,
+        "end_time": 34652,
+        "text": "some get absorbed by the Earth&#39;s atmosphere,"
+    },
+    {
+        "index": 15,
+        "start_time": 34652,
+        "end_time": 36755,
+        "text": "some are reflected back into outer space,"
+    },
+    {
+        "index": 16,
+        "start_time": 36755,
+        "end_time": 39887,
+        "text": "but the rest make it to the Earth&#39;s surface."
+    },
+    {
+        "index": 17,
+        "start_time": 39887,
+        "end_time": 41436,
+        "text": "The ones that aren&#39;t deviated"
+    },
+    {
+        "index": 18,
+        "start_time": 41436,
+        "end_time": 43516,
+        "text": "are called direct irradiance."
+    },
+    {
+        "index": 19,
+        "start_time": 43516,
+        "end_time": 45359,
+        "text": "The ones that are deflected by clouds"
+    },
+    {
+        "index": 20,
+        "start_time": 45359,
+        "end_time": 47659,
+        "text": "are called diffuse irradiance."
+    },
+    {
+        "index": 21,
+        "start_time": 47659,
+        "end_time": 50509,
+        "text": "And those rays that first get reflected by a surface,"
+    },
+    {
+        "index": 22,
+        "start_time": 50509,
+        "end_time": 51780,
+        "text": "like a nearby building,"
+    },
+    {
+        "index": 23,
+        "start_time": 51780,
+        "end_time": 54379,
+        "text": "before reaching the solar energy system"
+    },
+    {
+        "index": 24,
+        "start_time": 54379,
+        "end_time": 56610,
+        "text": "are called reflected irradiance."
+    },
+    {
+        "index": 25,
+        "start_time": 56610,
+        "end_time": 58256,
+        "text": "But before we can examine how clouds"
+    },
+    {
+        "index": 26,
+        "start_time": 58256,
+        "end_time": 61281,
+        "text": "affect the sun&#39;s rays and electricity production,"
+    },
+    {
+        "index": 27,
+        "start_time": 61281,
+        "end_time": 64500,
+        "text": "let&#39;s see how these solar energy systems work."
+    },
+    {
+        "index": 28,
+        "start_time": 64500,
+        "end_time": 66868,
+        "text": "First up, we have solar towers."
+    },
+    {
+        "index": 29,
+        "start_time": 66868,
+        "end_time": 68414,
+        "text": "These are made up of a central tower"
+    },
+    {
+        "index": 30,
+        "start_time": 68414,
+        "end_time": 71120,
+        "text": "surrounded by a huge field of mirrors"
+    },
+    {
+        "index": 31,
+        "start_time": 71120,
+        "end_time": 73034,
+        "text": "that track the sun&#39;s path and focus"
+    },
+    {
+        "index": 32,
+        "start_time": 73034,
+        "end_time": 76651,
+        "text": "only the direct rays onto a single point on the tower,"
+    },
+    {
+        "index": 33,
+        "start_time": 76651,
+        "end_time": 79434,
+        "text": "kind of like an eager beachgoer."
+    },
+    {
+        "index": 34,
+        "start_time": 79434,
+        "end_time": 81130,
+        "text": "The heat generated by these rays"
+    },
+    {
+        "index": 35,
+        "start_time": 81130,
+        "end_time": 84706,
+        "text": "is so immense that it can be used to boil water"
+    },
+    {
+        "index": 36,
+        "start_time": 84706,
+        "end_time": 87720,
+        "text": "producing steam that drives a traditional turbine,"
+    },
+    {
+        "index": 37,
+        "start_time": 87720,
+        "end_time": 89545,
+        "text": "which makes electricity."
+    },
+    {
+        "index": 38,
+        "start_time": 89545,
+        "end_time": 91515,
+        "text": "But when we say solar energy systems,"
+    },
+    {
+        "index": 39,
+        "start_time": 91515,
+        "end_time": 94252,
+        "text": "we&#39;re usually talking about photovoltaics,"
+    },
+    {
+        "index": 40,
+        "start_time": 94252,
+        "end_time": 95704,
+        "text": "or solar panels,"
+    },
+    {
+        "index": 41,
+        "start_time": 95704,
+        "end_time": 97325,
+        "text": "which are the systems most commonly used"
+    },
+    {
+        "index": 42,
+        "start_time": 97325,
+        "end_time": 98945,
+        "text": "to generate solar power."
+    },
+    {
+        "index": 43,
+        "start_time": 98945,
+        "end_time": 99916,
+        "text": "In solar panels,"
+    },
+    {
+        "index": 44,
+        "start_time": 99916,
+        "end_time": 102795,
+        "text": "photons from the sun&#39;s rays hit the surface of a panel,"
+    },
+    {
+        "index": 45,
+        "start_time": 102795,
+        "end_time": 104465,
+        "text": "and electrons are released"
+    },
+    {
+        "index": 46,
+        "start_time": 104465,
+        "end_time": 106818,
+        "text": "to get an electric current going."
+    },
+    {
+        "index": 47,
+        "start_time": 106818,
+        "end_time": 109818,
+        "text": "Solar panels can use all types of irradiance,"
+    },
+    {
+        "index": 48,
+        "start_time": 109818,
+        "end_time": 113556,
+        "text": "while solar towers can only use direct irradiance,"
+    },
+    {
+        "index": 49,
+        "start_time": 113556,
+        "end_time": 116218,
+        "text": "and this is where clouds become important"
+    },
+    {
+        "index": 50,
+        "start_time": 116218,
+        "end_time": 118290,
+        "text": "because depending on their type and location"
+    },
+    {
+        "index": 51,
+        "start_time": 118290,
+        "end_time": 119537,
+        "text": "relative to the sun,"
+    },
+    {
+        "index": 52,
+        "start_time": 119537,
+        "end_time": 121645,
+        "text": "they can either increase or decrease"
+    },
+    {
+        "index": 53,
+        "start_time": 121645,
+        "end_time": 124122,
+        "text": "the amount of electricity produced."
+    },
+    {
+        "index": 54,
+        "start_time": 124122,
+        "end_time": 126236,
+        "text": "For instance, even a few cumulus clouds"
+    },
+    {
+        "index": 55,
+        "start_time": 126236,
+        "end_time": 127690,
+        "text": "in front of the sun can reduce"
+    },
+    {
+        "index": 56,
+        "start_time": 127690,
+        "end_time": 130042,
+        "text": "the electricity production in solar towers"
+    },
+    {
+        "index": 57,
+        "start_time": 130042,
+        "end_time": 134461,
+        "text": "to almost zero because of this dependence on direct rays."
+    },
+    {
+        "index": 58,
+        "start_time": 134461,
+        "end_time": 136693,
+        "text": "In solar panels, those clouds would decrease"
+    },
+    {
+        "index": 59,
+        "start_time": 136693,
+        "end_time": 138200,
+        "text": "energy output as well,"
+    },
+    {
+        "index": 60,
+        "start_time": 138200,
+        "end_time": 139435,
+        "text": "though not as much"
+    },
+    {
+        "index": 61,
+        "start_time": 139435,
+        "end_time": 142710,
+        "text": "because solar panels can use all types of irradiance."
+    },
+    {
+        "index": 62,
+        "start_time": 142710,
+        "end_time": 146160,
+        "text": "However, all this depends on the clouds exact positioning."
+    },
+    {
+        "index": 63,
+        "start_time": 146160,
+        "end_time": 148468,
+        "text": "Due to reflection, or a particular phenomeon"
+    },
+    {
+        "index": 64,
+        "start_time": 148468,
+        "end_time": 150344,
+        "text": "called Mie scattering,"
+    },
+    {
+        "index": 65,
+        "start_time": 150344,
+        "end_time": 153125,
+        "text": "the sun&#39;s rays can actually be focused forward"
+    },
+    {
+        "index": 66,
+        "start_time": 153125,
+        "end_time": 156566,
+        "text": "by clouds to create a more than 50% increase"
+    },
+    {
+        "index": 67,
+        "start_time": 156566,
+        "end_time": 159681,
+        "text": "in the solar irradiance reaching a solar panel."
+    },
+    {
+        "index": 68,
+        "start_time": 159681,
+        "end_time": 162231,
+        "text": "If this potential increase isn&#39;t accounted for,"
+    },
+    {
+        "index": 69,
+        "start_time": 162231,
+        "end_time": 164780,
+        "text": "it could damage the solar panel."
+    },
+    {
+        "index": 70,
+        "start_time": 164780,
+        "end_time": 165901,
+        "text": "Why does this matter?"
+    },
+    {
+        "index": 71,
+        "start_time": 165901,
+        "end_time": 167731,
+        "text": "Well, you wouldn&#39;t want this lesson to stop"
+    },
+    {
+        "index": 72,
+        "start_time": 167731,
+        "end_time": 171127,
+        "text": "just because a cloud passed over the panel on your roof."
+    },
+    {
+        "index": 73,
+        "start_time": 171127,
+        "end_time": 174429,
+        "text": "In solar towers, huge tanks of molten salt or oil"
+    },
+    {
+        "index": 74,
+        "start_time": 174429,
+        "end_time": 176808,
+        "text": "can be used to store any excess heat"
+    },
+    {
+        "index": 75,
+        "start_time": 176808,
+        "end_time": 178292,
+        "text": "and use it when needed,"
+    },
+    {
+        "index": 76,
+        "start_time": 178292,
+        "end_time": 179736,
+        "text": "so that&#39;s how they manage the problem"
+    },
+    {
+        "index": 77,
+        "start_time": 179736,
+        "end_time": 182525,
+        "text": "of fluctuating solar irradiance to smooth out"
+    },
+    {
+        "index": 78,
+        "start_time": 182525,
+        "end_time": 183999,
+        "text": "electricity production."
+    },
+    {
+        "index": 79,
+        "start_time": 183999,
+        "end_time": 185345,
+        "text": "But in the case of solar panels,"
+    },
+    {
+        "index": 80,
+        "start_time": 185345,
+        "end_time": 187905,
+        "text": "there currently isn&#39;t any way to affordably"
+    },
+    {
+        "index": 81,
+        "start_time": 187905,
+        "end_time": 189730,
+        "text": "store extra energy."
+    },
+    {
+        "index": 82,
+        "start_time": 189730,
+        "end_time": 191717,
+        "text": "That&#39;s where traditional power plants come in"
+    },
+    {
+        "index": 83,
+        "start_time": 191717,
+        "end_time": 193841,
+        "text": "because to correct for any fluctuations"
+    },
+    {
+        "index": 84,
+        "start_time": 193841,
+        "end_time": 195815,
+        "text": "in these solar powered plants,"
+    },
+    {
+        "index": 85,
+        "start_time": 195815,
+        "end_time": 198149,
+        "text": "extra electricity from traditional sources"
+    },
+    {
+        "index": 86,
+        "start_time": 198149,
+        "end_time": 200429,
+        "text": "always needs to be available."
+    },
+    {
+        "index": 87,
+        "start_time": 200429,
+        "end_time": 202869,
+        "text": "But then why aren&#39;t these tradtional power plants"
+    },
+    {
+        "index": 88,
+        "start_time": 202869,
+        "end_time": 204337,
+        "text": "just used as a backup,"
+    },
+    {
+        "index": 89,
+        "start_time": 204337,
+        "end_time": 206075,
+        "text": "instead of us humans depending on them"
+    },
+    {
+        "index": 90,
+        "start_time": 206075,
+        "end_time": 208296,
+        "text": "as our main sources of energy?"
+    },
+    {
+        "index": 91,
+        "start_time": 208296,
+        "end_time": 210113,
+        "text": "Because it&#39;s impossible for an employee"
+    },
+    {
+        "index": 92,
+        "start_time": 210113,
+        "end_time": 212248,
+        "text": "at a coal fired or a nuclear plant"
+    },
+    {
+        "index": 93,
+        "start_time": 212248,
+        "end_time": 213507,
+        "text": "to turn a knob to produce"
+    },
+    {
+        "index": 94,
+        "start_time": 213507,
+        "end_time": 215427,
+        "text": "more or less electricity depending"
+    },
+    {
+        "index": 95,
+        "start_time": 215427,
+        "end_time": 217834,
+        "text": "on how many clouds there are in the sky."
+    },
+    {
+        "index": 96,
+        "start_time": 217834,
+        "end_time": 220521,
+        "text": "The response time would simply be too slow."
+    },
+    {
+        "index": 97,
+        "start_time": 220521,
+        "end_time": 222819,
+        "text": "Instead, to accommodate these fluctuations,"
+    },
+    {
+        "index": 98,
+        "start_time": 222819,
+        "end_time": 225718,
+        "text": "some extra electricity from traditional power plants"
+    },
+    {
+        "index": 99,
+        "start_time": 225718,
+        "end_time": 228036,
+        "text": "is always being produced."
+    },
+    {
+        "index": 100,
+        "start_time": 228036,
+        "end_time": 229496,
+        "text": "On clear sky days,"
+    },
+    {
+        "index": 101,
+        "start_time": 229496,
+        "end_time": 231578,
+        "text": "that extra electricity might be wasted,"
+    },
+    {
+        "index": 102,
+        "start_time": 231578,
+        "end_time": 233557,
+        "text": "but when cloudy skies prevail,"
+    },
+    {
+        "index": 103,
+        "start_time": 233557,
+        "end_time": 235467,
+        "text": "it&#39;s what fills the gap."
+    },
+    {
+        "index": 104,
+        "start_time": 235467,
+        "end_time": 236930,
+        "text": "This is what we currently depend on"
+    },
+    {
+        "index": 105,
+        "start_time": 236930,
+        "end_time": 238861,
+        "text": "for a constant supply of energy."
+    },
+    {
+        "index": 106,
+        "start_time": 238861,
+        "end_time": 240186,
+        "text": "For this reason, a lot of researchers"
+    },
+    {
+        "index": 107,
+        "start_time": 240186,
+        "end_time": 242632,
+        "text": "are interested in forcasting the motion"
+    },
+    {
+        "index": 108,
+        "start_time": 242632,
+        "end_time": 245835,
+        "text": "and formation of clouds through satellite images"
+    },
+    {
+        "index": 109,
+        "start_time": 245835,
+        "end_time": 247883,
+        "text": "or cameras that look up at the sky"
+    },
+    {
+        "index": 110,
+        "start_time": 247883,
+        "end_time": 250765,
+        "text": "to maximize the energy from solar power plants"
+    },
+    {
+        "index": 111,
+        "start_time": 250765,
+        "end_time": 253038,
+        "text": "and minimize energy waste."
+    },
+    {
+        "index": 112,
+        "start_time": 253038,
+        "end_time": 254365,
+        "text": "If we could accomplish that,"
+    },
+    {
+        "index": 113,
+        "start_time": 254365,
+        "end_time": 256484,
+        "text": "you&#39;d be able to enjoy this video"
+    },
+    {
+        "index": 114,
+        "start_time": 256484,
+        "end_time": 258486,
+        "text": "powered solely by the sun&#39;s rays,"
+    },
+    {
+        "index": 115,
+        "start_time": 258486,
+        "end_time": 260067,
+        "text": "no matter what the weather,"
+    },
+    {
+        "index": 116,
+        "start_time": 260067,
+        "end_time": 261845,
+        "text": "although if the sun is shining,"
+    },
+    {
+        "index": 117,
+        "start_time": 261845,
+        "end_time": 264070,
+        "text": "you may be tempted to venture outside"
+    },
+    {
+        "index": 118,
+        "start_time": 264070,
+        "end_time": 267034,
+        "text": "to go and do a different kind of cloud gazing."
+    }
+]

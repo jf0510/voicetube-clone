@@ -1,0 +1,38 @@
+[
+  {
+    "end_time": 500,
+    "index": 1,
+    "start_time": 0,
+    "text": "Toyota"
+  },
+  {
+    "end_time": 2500,
+    "index": 2,
+    "start_time": 500,
+    "text": "Tunak Tunak Tunak Tunak Tunak..."
+  },
+  {
+    "end_time": 3380,
+    "index": 3,
+    "start_time": 2500,
+    "text": "Da DA dA"
+  },
+  {
+    "end_time": 5480,
+    "index": 4,
+    "start_time": 3620,
+    "text": "Tunak Tunak tunak......"
+  },
+  {
+    "end_time": 6620,
+    "index": 5,
+    "start_time": 6120,
+    "text": "DaDada"
+  },
+  {
+    "end_time": 7380,
+    "index": 6,
+    "start_time": 6620,
+    "text": "Blah Blah Blah Stuff"
+  }
+]

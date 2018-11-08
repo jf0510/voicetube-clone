@@ -1,0 +1,422 @@
+[
+    {
+        "index": 1,
+        "start_time": 9193,
+        "end_time": 11397,
+        "text": "They say, &#39;Time is money,&#39;"
+    },
+    {
+        "index": 2,
+        "start_time": 11397,
+        "end_time": 14140,
+        "text": "but what does one really have to do with the other?"
+    },
+    {
+        "index": 3,
+        "start_time": 14140,
+        "end_time": 15595,
+        "text": "Meet Sheila!"
+    },
+    {
+        "index": 4,
+        "start_time": 15595,
+        "end_time": 19072,
+        "text": "She just got her first big bonus."
+    },
+    {
+        "index": 5,
+        "start_time": 19072,
+        "end_time": 22094,
+        "text": "Sheila knows exactly what she wants to do with that money."
+    },
+    {
+        "index": 6,
+        "start_time": 22094,
+        "end_time": 25659,
+        "text": "She&#39;s had her eye on a nice convertible for a while now."
+    },
+    {
+        "index": 7,
+        "start_time": 25659,
+        "end_time": 28049,
+        "text": "Yes, Sheila, that&#39;s a nice car!"
+    },
+    {
+        "index": 8,
+        "start_time": 28049,
+        "end_time": 31448,
+        "text": "Oh, looks like Sheila is a little short."
+    },
+    {
+        "index": 9,
+        "start_time": 31448,
+        "end_time": 32404,
+        "text": "But wait!"
+    },
+    {
+        "index": 10,
+        "start_time": 32404,
+        "end_time": 34176,
+        "text": "She has an idea."
+    },
+    {
+        "index": 11,
+        "start_time": 34176,
+        "end_time": 35819,
+        "text": "Sheila is a smart cookie."
+    },
+    {
+        "index": 12,
+        "start_time": 35819,
+        "end_time": 38499,
+        "text": "She knows that if she deposits the money for a year"
+    },
+    {
+        "index": 13,
+        "start_time": 38499,
+        "end_time": 40433,
+        "text": "instead of buying the car today,"
+    },
+    {
+        "index": 14,
+        "start_time": 40433,
+        "end_time": 42544,
+        "text": "she will earn interest."
+    },
+    {
+        "index": 15,
+        "start_time": 42544,
+        "end_time": 45889,
+        "text": "Then she&#39;ll be able to afford the car."
+    },
+    {
+        "index": 16,
+        "start_time": 45889,
+        "end_time": 49601,
+        "text": "Sheila knows that the value of her deposit one year from now"
+    },
+    {
+        "index": 17,
+        "start_time": 49601,
+        "end_time": 53992,
+        "text": "will equal the money deposited today plus the interest earned."
+    },
+    {
+        "index": 18,
+        "start_time": 53992,
+        "end_time": 56623,
+        "text": "We call Sheila&#39;s money deposited today"
+    },
+    {
+        "index": 19,
+        "start_time": 56623,
+        "end_time": 58814,
+        "text": "the present value of money."
+    },
+    {
+        "index": 20,
+        "start_time": 58814,
+        "end_time": 61073,
+        "text": "And the value of Sheila&#39;s deposit next year"
+    },
+    {
+        "index": 21,
+        "start_time": 61073,
+        "end_time": 63079,
+        "text": "is the future value of money."
+    },
+    {
+        "index": 22,
+        "start_time": 63079,
+        "end_time": 64832,
+        "text": "What connects one to the other?"
+    },
+    {
+        "index": 23,
+        "start_time": 64832,
+        "end_time": 66251,
+        "text": "The interest rate,"
+    },
+    {
+        "index": 24,
+        "start_time": 66251,
+        "end_time": 70290,
+        "text": "also known as the time value of money."
+    },
+    {
+        "index": 25,
+        "start_time": 70290,
+        "end_time": 71994,
+        "text": "Now, with a little bit of rearranging,"
+    },
+    {
+        "index": 26,
+        "start_time": 71994,
+        "end_time": 75079,
+        "text": "we can figure out the future value of Sheila&#39;s money"
+    },
+    {
+        "index": 27,
+        "start_time": 75079,
+        "end_time": 76788,
+        "text": "with this equation."
+    },
+    {
+        "index": 28,
+        "start_time": 76788,
+        "end_time": 81016,
+        "text": "So in a year, the future value will be $11,000."
+    },
+    {
+        "index": 29,
+        "start_time": 81016,
+        "end_time": 82395,
+        "text": "Well, it&#39;s been a year!"
+    },
+    {
+        "index": 30,
+        "start_time": 82395,
+        "end_time": 85394,
+        "text": "And there&#39;s Sheila, with enough money to buy the car."
+    },
+    {
+        "index": 31,
+        "start_time": 85394,
+        "end_time": 88275,
+        "text": "Sheila really understands the future value of money."
+    },
+    {
+        "index": 32,
+        "start_time": 88275,
+        "end_time": 91531,
+        "text": "Now, I just hope she understands the speed limit!"
+    },
+    {
+        "index": 33,
+        "start_time": 91531,
+        "end_time": 92633,
+        "text": "Now, meet Timmy."
+    },
+    {
+        "index": 34,
+        "start_time": 92633,
+        "end_time": 94553,
+        "text": "He&#39;s also gotten his bonus."
+    },
+    {
+        "index": 35,
+        "start_time": 94553,
+        "end_time": 97493,
+        "text": "The money seems to be burning a hole in his pocket."
+    },
+    {
+        "index": 36,
+        "start_time": 97493,
+        "end_time": 102440,
+        "text": "Yes, Timmy, that&#39;s a nice car that will surely impress people."
+    },
+    {
+        "index": 37,
+        "start_time": 102440,
+        "end_time": 105175,
+        "text": "Oh! Looks like you&#39;re a little short."
+    },
+    {
+        "index": 38,
+        "start_time": 105175,
+        "end_time": 107479,
+        "text": "Maybe you can follow Sheila&#39;s example."
+    },
+    {
+        "index": 39,
+        "start_time": 107479,
+        "end_time": 109275,
+        "text": "You see, Timmy, just like Sheila,"
+    },
+    {
+        "index": 40,
+        "start_time": 109275,
+        "end_time": 112551,
+        "text": "after the first year, you&#39;ll have $11,000."
+    },
+    {
+        "index": 41,
+        "start_time": 112551,
+        "end_time": 116161,
+        "text": "But Timmy, that is still not enough to buy that fancy car."
+    },
+    {
+        "index": 42,
+        "start_time": 116161,
+        "end_time": 118995,
+        "text": "Why don&#39;t you leave the money deposited for another year?"
+    },
+    {
+        "index": 43,
+        "start_time": 118995,
+        "end_time": 121914,
+        "text": "Let&#39;s see how your deposit will be doing in two years."
+    },
+    {
+        "index": 44,
+        "start_time": 121914,
+        "end_time": 123772,
+        "text": "With a little bit of rearranging,"
+    },
+    {
+        "index": 45,
+        "start_time": 123772,
+        "end_time": 125940,
+        "text": "it becomes the value of your money next year,"
+    },
+    {
+        "index": 46,
+        "start_time": 125940,
+        "end_time": 128353,
+        "text": "times one plus the interest rate."
+    },
+    {
+        "index": 47,
+        "start_time": 128353,
+        "end_time": 131082,
+        "text": "We can then convert the future value one year from now"
+    },
+    {
+        "index": 48,
+        "start_time": 131082,
+        "end_time": 134165,
+        "text": "to the present value times one plus the interest rate."
+    },
+    {
+        "index": 49,
+        "start_time": 134165,
+        "end_time": 135790,
+        "text": "We can even simplify this further"
+    },
+    {
+        "index": 50,
+        "start_time": 135790,
+        "end_time": 139654,
+        "text": "by just squaring the value of one plus the interest rate."
+    },
+    {
+        "index": 51,
+        "start_time": 139654,
+        "end_time": 142232,
+        "text": "Sorry, Timmy, you&#39;ll have more money after two years,"
+    },
+    {
+        "index": 52,
+        "start_time": 142232,
+        "end_time": 144860,
+        "text": "but you still can&#39;t afford the car!"
+    },
+    {
+        "index": 53,
+        "start_time": 144860,
+        "end_time": 148113,
+        "text": "I don&#39;t know how many more years you&#39;ll have to wait,"
+    },
+    {
+        "index": 54,
+        "start_time": 148113,
+        "end_time": 150558,
+        "text": "but I can tell you one way we can figure it out."
+    },
+    {
+        "index": 55,
+        "start_time": 150558,
+        "end_time": 153190,
+        "text": "Do you see that little number two in the equation?"
+    },
+    {
+        "index": 56,
+        "start_time": 153190,
+        "end_time": 154731,
+        "text": "Any number that you put in there"
+    },
+    {
+        "index": 57,
+        "start_time": 154731,
+        "end_time": 157256,
+        "text": "is the number of years that you are waiting,"
+    },
+    {
+        "index": 58,
+        "start_time": 157256,
+        "end_time": 159890,
+        "text": "also known as the period."
+    },
+    {
+        "index": 59,
+        "start_time": 159890,
+        "end_time": 164262,
+        "text": "Sure, Timmy, we can see how much you&#39;ll have in five years."
+    },
+    {
+        "index": 60,
+        "start_time": 164262,
+        "end_time": 168445,
+        "text": "Let&#39;s connect future value and present value across five years."
+    },
+    {
+        "index": 61,
+        "start_time": 168445,
+        "end_time": 171677,
+        "text": "Let&#39;s watch the period increase from two to five."
+    },
+    {
+        "index": 62,
+        "start_time": 171677,
+        "end_time": 178031,
+        "text": "After 5 years, you&#39;ll have $16,105.10."
+    },
+    {
+        "index": 63,
+        "start_time": 178031,
+        "end_time": 181147,
+        "text": "Sorry, Timmy, you have to wait a little longer."
+    },
+    {
+        "index": 64,
+        "start_time": 181147,
+        "end_time": 182780,
+        "text": "10 years?"
+    },
+    {
+        "index": 65,
+        "start_time": 182780,
+        "end_time": 186593,
+        "text": "Yeah! Let&#39;s see if you&#39;ll be able to buy the car then."
+    },
+    {
+        "index": 66,
+        "start_time": 186593,
+        "end_time": 188146,
+        "text": "Not quite."
+    },
+    {
+        "index": 67,
+        "start_time": 188146,
+        "end_time": 193011,
+        "text": "Well, Timmy, it looks like you&#39;ll need 26 years to afford this car."
+    },
+    {
+        "index": 68,
+        "start_time": 193011,
+        "end_time": 196190,
+        "text": "You should ask Sheila for a ride to the beach."
+    },
+    {
+        "index": 69,
+        "start_time": 196190,
+        "end_time": 198541,
+        "text": "Maybe a bicycle will suit you better?"
+    },
+    {
+        "index": 70,
+        "start_time": 198541,
+        "end_time": 200534,
+        "text": "I hear the bus is pretty cheap!"
+    }
+]

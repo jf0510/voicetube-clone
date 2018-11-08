@@ -1,0 +1,404 @@
+[
+    {
+        "index": 1,
+        "start_time": 6674,
+        "end_time": 10689,
+        "text": "It&#39;s estimated that \nfor every 10,000 bills in the U.S.,"
+    },
+    {
+        "index": 2,
+        "start_time": 10689,
+        "end_time": 13178,
+        "text": "one of those bills is fake."
+    },
+    {
+        "index": 3,
+        "start_time": 13178,
+        "end_time": 15111,
+        "text": "That may not sound like much,"
+    },
+    {
+        "index": 4,
+        "start_time": 15111,
+        "end_time": 19958,
+        "text": "but it adds up to millions of dollars\nin cold hard cash."
+    },
+    {
+        "index": 5,
+        "start_time": 19958,
+        "end_time": 23720,
+        "text": "Counterfeit money has the potential\nto cause all sorts of problems,"
+    },
+    {
+        "index": 6,
+        "start_time": 23720,
+        "end_time": 29370,
+        "text": "from leaving you short $20\nto destabilizing national economies."
+    },
+    {
+        "index": 7,
+        "start_time": 29370,
+        "end_time": 30535,
+        "text": "But don&#39;t worry."
+    },
+    {
+        "index": 8,
+        "start_time": 30535,
+        "end_time": 32775,
+        "text": "You can help catch the counterfeits."
+    },
+    {
+        "index": 9,
+        "start_time": 32775,
+        "end_time": 36150,
+        "text": "All you need are some simple tools\nand a bit of chemistry."
+    },
+    {
+        "index": 10,
+        "start_time": 36150,
+        "end_time": 40073,
+        "text": "First up, the anti-counterfeit \ndetection pen."
+    },
+    {
+        "index": 11,
+        "start_time": 40073,
+        "end_time": 41808,
+        "text": "The pen looks like a highlighter"
+    },
+    {
+        "index": 12,
+        "start_time": 41808,
+        "end_time": 45417,
+        "text": "and contains a solution \nof potassium iodide"
+    },
+    {
+        "index": 13,
+        "start_time": 45417,
+        "end_time": 47939,
+        "text": "and elemental iodine."
+    },
+    {
+        "index": 14,
+        "start_time": 47939,
+        "end_time": 50516,
+        "text": "It reveals of the presence of starch,"
+    },
+    {
+        "index": 15,
+        "start_time": 50516,
+        "end_time": 54146,
+        "text": "which is commonly used \nto strengthen regular printer paper,"
+    },
+    {
+        "index": 16,
+        "start_time": 54146,
+        "end_time": 57066,
+        "text": "but won&#39;t be found in real money."
+    },
+    {
+        "index": 17,
+        "start_time": 57066,
+        "end_time": 60819,
+        "text": "That&#39;s because authentic bills\nare made of cotton and linen"
+    },
+    {
+        "index": 18,
+        "start_time": 60819,
+        "end_time": 64486,
+        "text": "and are threaded with tiny \nred and blue fibers."
+    },
+    {
+        "index": 19,
+        "start_time": 64486,
+        "end_time": 68332,
+        "text": "That material is made by a single,\nhighly-guarded company"
+    },
+    {
+        "index": 20,
+        "start_time": 68332,
+        "end_time": 70393,
+        "text": "called Crane and Company,"
+    },
+    {
+        "index": 21,
+        "start_time": 70393,
+        "end_time": 72190,
+        "text": "which has been printing currency"
+    },
+    {
+        "index": 22,
+        "start_time": 72190,
+        "end_time": 78386,
+        "text": "since Paul Revere asked them \nto help finance the Revolutionary War."
+    },
+    {
+        "index": 23,
+        "start_time": 78386,
+        "end_time": 81437,
+        "text": "The starch in many counterfeit bills,\non the other hand,"
+    },
+    {
+        "index": 24,
+        "start_time": 81437,
+        "end_time": 83433,
+        "text": "is made of two molecules:"
+    },
+    {
+        "index": 25,
+        "start_time": 83433,
+        "end_time": 86061,
+        "text": "amylopectin and amylose."
+    },
+    {
+        "index": 26,
+        "start_time": 86061,
+        "end_time": 88571,
+        "text": "It&#39;s amylose that gives the fake away."
+    },
+    {
+        "index": 27,
+        "start_time": 88571,
+        "end_time": 92421,
+        "text": "Its long chain of sugar molecules\nconnected by oxygen atoms"
+    },
+    {
+        "index": 28,
+        "start_time": 92421,
+        "end_time": 96187,
+        "text": "forms a helical structure, like DNA."
+    },
+    {
+        "index": 29,
+        "start_time": 96187,
+        "end_time": 98879,
+        "text": "Iodide likes to squeeze inside this coil,"
+    },
+    {
+        "index": 30,
+        "start_time": 98879,
+        "end_time": 103343,
+        "text": "forming a new compound\nthat leaves a dark mark on the paper."
+    },
+    {
+        "index": 31,
+        "start_time": 103343,
+        "end_time": 107460,
+        "text": "However, in the absence of starch,\nthere is no chemical reaction"
+    },
+    {
+        "index": 32,
+        "start_time": 107460,
+        "end_time": 110343,
+        "text": "and the mark will look light yellow."
+    },
+    {
+        "index": 33,
+        "start_time": 110343,
+        "end_time": 113262,
+        "text": "So if the fake isn&#39;t printed \non starchy paper,"
+    },
+    {
+        "index": 34,
+        "start_time": 113262,
+        "end_time": 115808,
+        "text": "iodine solutions can&#39;t help you."
+    },
+    {
+        "index": 35,
+        "start_time": 115808,
+        "end_time": 119819,
+        "text": "That&#39;s one of the reasons \nU.S. bills printed since 1996"
+    },
+    {
+        "index": 36,
+        "start_time": 119819,
+        "end_time": 125404,
+        "text": "have been chemically enhanced to include\nanother counterfeit countermeasure:"
+    },
+    {
+        "index": 37,
+        "start_time": 125404,
+        "end_time": 128557,
+        "text": "a strip that fluoresces under UV light."
+    },
+    {
+        "index": 38,
+        "start_time": 128557,
+        "end_time": 131860,
+        "text": "That&#39;s the same kind of light\nused at black light parties"
+    },
+    {
+        "index": 39,
+        "start_time": 131860,
+        "end_time": 134747,
+        "text": "and airport security lines."
+    },
+    {
+        "index": 40,
+        "start_time": 134747,
+        "end_time": 138096,
+        "text": "The polyester strip \nprinted with invisble ink"
+    },
+    {
+        "index": 41,
+        "start_time": 138096,
+        "end_time": 140275,
+        "text": "is just one millimeter wide"
+    },
+    {
+        "index": 42,
+        "start_time": 140275,
+        "end_time": 144546,
+        "text": "and is found in different positions\ndepending on a bill&#39;s value."
+    },
+    {
+        "index": 43,
+        "start_time": 144546,
+        "end_time": 146865,
+        "text": "If you hold your dollar \nup to natural light,"
+    },
+    {
+        "index": 44,
+        "start_time": 146865,
+        "end_time": 150816,
+        "text": "you can see the amount \nand the word USA printed on the band."
+    },
+    {
+        "index": 45,
+        "start_time": 150816,
+        "end_time": 154474,
+        "text": "But under UV light, \nthese strips really shine."
+    },
+    {
+        "index": 46,
+        "start_time": 154474,
+        "end_time": 159537,
+        "text": "They contain molecules that can be excited\nby absorbing certain amounts of energy,"
+    },
+    {
+        "index": 47,
+        "start_time": 159537,
+        "end_time": 163972,
+        "text": "specifically, that given off \nby common UV light sources."
+    },
+    {
+        "index": 48,
+        "start_time": 163972,
+        "end_time": 167608,
+        "text": "As these excited molecules return\nto their original states,"
+    },
+    {
+        "index": 49,
+        "start_time": 167608,
+        "end_time": 172898,
+        "text": "they lose a bit of energy as heat\nand then radiate the rest as light."
+    },
+    {
+        "index": 50,
+        "start_time": 172898,
+        "end_time": 176079,
+        "text": "Energy is inversely related to wavelength,"
+    },
+    {
+        "index": 51,
+        "start_time": 176079,
+        "end_time": 180314,
+        "text": "which means that the longer wavelengths\nhave lower energy."
+    },
+    {
+        "index": 52,
+        "start_time": 180314,
+        "end_time": 182989,
+        "text": "So the lower energy light \ngiven off by the strip"
+    },
+    {
+        "index": 53,
+        "start_time": 182989,
+        "end_time": 186584,
+        "text": "means longer wavelengths\nthat fall in the visible range,"
+    },
+    {
+        "index": 54,
+        "start_time": 186584,
+        "end_time": 190529,
+        "text": "and suddenly we can see that \nwhich had been invisible."
+    },
+    {
+        "index": 55,
+        "start_time": 190529,
+        "end_time": 193584,
+        "text": "And if a glowing strip doesn&#39;t show up\non a recent bill,"
+    },
+    {
+        "index": 56,
+        "start_time": 193584,
+        "end_time": 196858,
+        "text": "you have a fake on your hands."
+    },
+    {
+        "index": 57,
+        "start_time": 196858,
+        "end_time": 200165,
+        "text": "For times when you&#39;re not dealing \nwith counterfeit masterminds,"
+    },
+    {
+        "index": 58,
+        "start_time": 200165,
+        "end_time": 203541,
+        "text": "looking for simple visual cues will do."
+    },
+    {
+        "index": 59,
+        "start_time": 203541,
+        "end_time": 206853,
+        "text": "Make sure the portrait \nlooks lifelike and not flat,"
+    },
+    {
+        "index": 60,
+        "start_time": 206853,
+        "end_time": 210317,
+        "text": "the seal has perfectly \neven sawtooth points,"
+    },
+    {
+        "index": 61,
+        "start_time": 210317,
+        "end_time": 212693,
+        "text": "the inked border is unbroken,"
+    },
+    {
+        "index": 62,
+        "start_time": 212693,
+        "end_time": 218182,
+        "text": "and the serial number has precisely \nequal spacing between each number."
+    },
+    {
+        "index": 63,
+        "start_time": 218182,
+        "end_time": 221108,
+        "text": "So the next time you come across \nsome dubious dough,"
+    },
+    {
+        "index": 64,
+        "start_time": 221108,
+        "end_time": 222483,
+        "text": "have a closer look,"
+    },
+    {
+        "index": 65,
+        "start_time": 222483,
+        "end_time": 224224,
+        "text": "pull out your iodine solution,"
+    },
+    {
+        "index": 66,
+        "start_time": 224224,
+        "end_time": 226597,
+        "text": "or take it to a rave"
+    },
+    {
+        "index": 67,
+        "start_time": 226597,
+        "end_time": 229330,
+        "text": "and you just might catch a counterfeit."
+    }
+]

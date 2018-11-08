@@ -1,0 +1,248 @@
+[
+  {
+    "end_time": 2440,
+    "index": 1,
+    "start_time": 640,
+    "text": "Hi, I&#39;m David Shaw."
+  },
+  {
+    "end_time": 4310,
+    "index": 2,
+    "start_time": 2440,
+    "text": "And welcome to AI News."
+  },
+  {
+    "end_time": 7779,
+    "index": 3,
+    "start_time": 4310,
+    "text": "A very Happy New Year to\nall, and welcome to 2018."
+  },
+  {
+    "end_time": 10630,
+    "index": 4,
+    "start_time": 7780,
+    "text": "In this episode, we discover\nthe world&#39;s first Neural Network"
+  },
+  {
+    "end_time": 11800,
+    "index": 5,
+    "start_time": 10630,
+    "text": "Processor."
+  },
+  {
+    "end_time": 14470,
+    "index": 6,
+    "start_time": 11800,
+    "text": "Take a look at a new Deep\nLearning Edge Solution,"
+  },
+  {
+    "end_time": 18280,
+    "index": 7,
+    "start_time": 14470,
+    "text": "and explore Unity Technologies\nML Agents exclusively"
+  },
+  {
+    "end_time": 19692,
+    "index": 8,
+    "start_time": 18280,
+    "text": "on Intel Architecture."
+  },
+  {
+    "end_time": 22150,
+    "index": 9,
+    "start_time": 19692,
+    "text": "Don&#39;t forget to check out the\nlinks provided to learn more."
+  },
+  {
+    "end_time": 29619,
+    "index": 10,
+    "start_time": 26560,
+    "text": "Intel is launching its first\nfamily of processors designed"
+  },
+  {
+    "end_time": 33100,
+    "index": 11,
+    "start_time": 29620,
+    "text": "from the ground up for AI, the\nIntel Nervana Neural Network"
+  },
+  {
+    "end_time": 34210,
+    "index": 12,
+    "start_time": 33100,
+    "text": "Processor."
+  },
+  {
+    "end_time": 37190,
+    "index": 13,
+    "start_time": 34210,
+    "text": "It&#39;s a purpose built\narchitecture for deep learning."
+  },
+  {
+    "end_time": 39160,
+    "index": 14,
+    "start_time": 37190,
+    "text": "The goal is to provide\nthe needed flexibility"
+  },
+  {
+    "end_time": 41290,
+    "index": 15,
+    "start_time": 39160,
+    "text": "to support all deep\nlearning primitives"
+  },
+  {
+    "end_time": 43269,
+    "index": 16,
+    "start_time": 41290,
+    "text": "while making core\nhardware components as"
+  },
+  {
+    "end_time": 44980,
+    "index": 17,
+    "start_time": 43270,
+    "text": "efficient as possible."
+  },
+  {
+    "end_time": 48010,
+    "index": 18,
+    "start_time": 44980,
+    "text": "This processor also has a\nnew memory architecture,"
+  },
+  {
+    "end_time": 51309,
+    "index": 19,
+    "start_time": 48010,
+    "text": "and is designed to maximize\nthe utilization of silicon"
+  },
+  {
+    "end_time": 52600,
+    "index": 20,
+    "start_time": 51310,
+    "text": "computation."
+  },
+  {
+    "end_time": 55300,
+    "index": 21,
+    "start_time": 52600,
+    "text": "In addition, it can achieve\na new level scalability"
+  },
+  {
+    "end_time": 56800,
+    "index": 22,
+    "start_time": 55300,
+    "text": "for AI models."
+  },
+  {
+    "end_time": 58599,
+    "index": 23,
+    "start_time": 56800,
+    "text": "Discover a deep\nlearning edge solution"
+  },
+  {
+    "end_time": 61390,
+    "index": 24,
+    "start_time": 58600,
+    "text": "that pairs the Raspberry\nPi 3 single board computer"
+  },
+  {
+    "end_time": 64060,
+    "index": 25,
+    "start_time": 61390,
+    "text": "with the Intel Movidius\nNeural Compute Stick."
+  },
+  {
+    "end_time": 66370,
+    "index": 26,
+    "start_time": 64060,
+    "text": "This article will show you\nhow to increase the Pi 3"
+  },
+  {
+    "end_time": 68470,
+    "index": 27,
+    "start_time": 66370,
+    "text": "performance for\ncomputing inference using"
+  },
+  {
+    "end_time": 69970,
+    "index": 28,
+    "start_time": 68470,
+    "text": "Google&#39;s mobile nets."
+  },
+  {
+    "end_time": 72730,
+    "index": 29,
+    "start_time": 69970,
+    "text": "Learn how to install and run\nUnity Technologies Machine"
+  },
+  {
+    "end_time": 76450,
+    "index": 30,
+    "start_time": 72730,
+    "text": "Learning Agents in CPU only\nenvironments from this article."
+  },
+  {
+    "end_time": 78220,
+    "index": 31,
+    "start_time": 76450,
+    "text": "It will teach you\nhow to train ANS"
+  },
+  {
+    "end_time": 81500,
+    "index": 32,
+    "start_time": 78220,
+    "text": "to run the ML Agents Balance\nBalls example on Windows,"
+  },
+  {
+    "end_time": 85390,
+    "index": 33,
+    "start_time": 81500,
+    "text": "perform a Tensorflow CMake Build\non Windows optimized for Intel"
+  },
+  {
+    "end_time": 89500,
+    "index": 34,
+    "start_time": 85390,
+    "text": "AVX 2, and create a simple\nAmazon Web Services Ubuntu"
+  },
+  {
+    "end_time": 91780,
+    "index": 35,
+    "start_time": 89500,
+    "text": "Machine Image\nEnvironment from scratch."
+  },
+  {
+    "end_time": 93400,
+    "index": 36,
+    "start_time": 91780,
+    "text": "Additionally, it\nwill show you how"
+  },
+  {
+    "end_time": 96340,
+    "index": 37,
+    "start_time": 93400,
+    "text": "to build a Headless Version\nof Balance Balls for Linux."
+  },
+  {
+    "end_time": 97434,
+    "index": 38,
+    "start_time": 96340,
+    "text": "Thanks for watching."
+  },
+  {
+    "end_time": 99850,
+    "index": 39,
+    "start_time": 97434,
+    "text": "Don&#39;t forget to like this video\nand subscribe to the Intel"
+  },
+  {
+    "end_time": 101380,
+    "index": 40,
+    "start_time": 99850,
+    "text": "Software YouTube Channel."
+  },
+  {
+    "end_time": 104399,
+    "index": 41,
+    "start_time": 101380,
+    "text": "Follow the links\nprovided to learn more."
+  }
+]

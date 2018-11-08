@@ -1,0 +1,266 @@
+[
+  {
+    "end_time": 3149,
+    "index": 1,
+    "start_time": 2169,
+    "text": "hello and"
+  },
+  {
+    "end_time": 7170,
+    "index": 2,
+    "start_time": 3149,
+    "text": "welcome to the tutorial of 2421, for 2421"
+  },
+  {
+    "end_time": 10900,
+    "index": 3,
+    "start_time": 7170,
+    "text": "weighted code you might have some question that for example"
+  },
+  {
+    "end_time": 14730,
+    "index": 4,
+    "start_time": 10900,
+    "text": "what&#39;s the correct way to write 2 or 4 5  lets find out"
+  },
+  {
+    "end_time": 18490,
+    "index": 5,
+    "start_time": 14730,
+    "text": "for 2 we could write simply that 0 0 "
+  },
+  {
+    "end_time": 21698,
+    "index": 6,
+    "start_time": 18490,
+    "text": "1 0 or 1 "
+  },
+  {
+    "end_time": 25380,
+    "index": 7,
+    "start_time": 21699,
+    "text": "0 0 then"
+  },
+  {
+    "end_time": 28980,
+    "index": 8,
+    "start_time": 25380,
+    "text": "which which one will be correct for four"
+  },
+  {
+    "end_time": 32259,
+    "index": 9,
+    "start_time": 28980,
+    "text": "also 0 1 0 0 "
+  },
+  {
+    "end_time": 38550,
+    "index": 10,
+    "start_time": 35390,
+    "text": "and 1 0 1 0"
+  },
+  {
+    "end_time": 47019,
+    "index": 11,
+    "start_time": 43410,
+    "text": "but we can&#39;t understand that which one should\nbe correct"
+  },
+  {
+    "end_time": 50660,
+    "index": 12,
+    "start_time": 47020,
+    "text": "let&#39;s find out here we have the decimal equivalent of "
+  },
+  {
+    "end_time": 54949,
+    "index": 13,
+    "start_time": 50660,
+    "text": "2 4 2 1  remember one thing that"
+  },
+  {
+    "end_time": 58339,
+    "index": 14,
+    "start_time": 54949,
+    "text": "every one code is a compliment of"
+  },
+  {
+    "end_time": 62719,
+    "index": 15,
+    "start_time": 58340,
+    "text": "another for decimal o&#39;s 9&#39;s compliment will be 9"
+  },
+  {
+    "end_time": 65840,
+    "index": 16,
+    "start_time": 62719,
+    "text": "1&#39;s 9&#39;s compliment will be 8"
+  },
+  {
+    "end_time": 69010,
+    "index": 17,
+    "start_time": 65840,
+    "text": "for 2 its 7 for three it&#39;s 6 for 4 it&#39;s 5"
+  },
+  {
+    "end_time": 73030,
+    "index": 18,
+    "start_time": 69010,
+    "text": "here is the binary code and it&#39;s 1&#39;s complement"
+  },
+  {
+    "end_time": 76409,
+    "index": 19,
+    "start_time": 73030,
+    "text": "we have to remember that for 0"
+  },
+  {
+    "end_time": 80150,
+    "index": 20,
+    "start_time": 76409,
+    "text": "2421 code will be 0 0 0 0"
+  },
+  {
+    "end_time": 83200,
+    "index": 21,
+    "start_time": 80150,
+    "text": "then it&#39;s 9&#39;s complement would"
+  },
+  {
+    "end_time": 86530,
+    "index": 22,
+    "start_time": 83200,
+    "text": "go to the 9 so its"
+  },
+  {
+    "end_time": 89939,
+    "index": 23,
+    "start_time": 86530,
+    "text": "like that and the code is"
+  },
+  {
+    "end_time": 94919,
+    "index": 24,
+    "start_time": 89939,
+    "text": "for 0000"
+  },
+  {
+    "end_time": 98130,
+    "index": 25,
+    "start_time": 94920,
+    "text": "it&#39;s 1&#39;s complement is 11"
+  },
+  {
+    "end_time": 102079,
+    "index": 26,
+    "start_time": 98130,
+    "text": "11 for 1,  2421 code is"
+  },
+  {
+    "end_time": 105679,
+    "index": 27,
+    "start_time": 102079,
+    "text": "0 0 0 1 and its"
+  },
+  {
+    "end_time": 109049,
+    "index": 28,
+    "start_time": 105680,
+    "text": "one&#39;s complement is one one"
+  },
+  {
+    "end_time": 116049,
+    "index": 29,
+    "start_time": 109049,
+    "text": "one 0"
+  },
+  {
+    "end_time": 120200,
+    "index": 30,
+    "start_time": 116420,
+    "text": "ok then for 2 "
+  },
+  {
+    "end_time": 124079,
+    "index": 31,
+    "start_time": 120200,
+    "text": "0 0 one 0"
+  },
+  {
+    "end_time": 127320,
+    "index": 32,
+    "start_time": 124079,
+    "text": "and it&#39;s  1&#39;s compliment will be"
+  },
+  {
+    "end_time": 130978,
+    "index": 33,
+    "start_time": 127320,
+    "text": "one one 0 one"
+  },
+  {
+    "end_time": 134090,
+    "index": 34,
+    "start_time": 130979,
+    "text": "for 3, "
+  },
+  {
+    "end_time": 137670,
+    "index": 35,
+    "start_time": 134090,
+    "text": "0011 and its "
+  },
+  {
+    "end_time": 141208,
+    "index": 36,
+    "start_time": 137670,
+    "text": "one&#39;s complement is"
+  },
+  {
+    "end_time": 144920,
+    "index": 37,
+    "start_time": 141209,
+    "text": "1100 for 4"
+  },
+  {
+    "end_time": 148548,
+    "index": 38,
+    "start_time": 144920,
+    "text": "0100 and 5"
+  },
+  {
+    "end_time": 151920,
+    "index": 39,
+    "start_time": 148549,
+    "text": "1011"
+  },
+  {
+    "end_time": 155700,
+    "index": 40,
+    "start_time": 151920,
+    "text": "umm remember another thing that"
+  },
+  {
+    "end_time": 159130,
+    "index": 41,
+    "start_time": 155700,
+    "text": "it should be in increasing order"
+  },
+  {
+    "end_time": 159910,
+    "index": 42,
+    "start_time": 159130,
+    "text": "ok"
+  },
+  {
+    "end_time": 161910,
+    "index": 43,
+    "start_time": 159910,
+    "text": "Thank You...,"
+  },
+  {
+    "end_time": 163910,
+    "index": 44,
+    "start_time": 161910,
+    "text": " "
+  }
+]

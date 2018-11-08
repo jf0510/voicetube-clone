@@ -1,0 +1,650 @@
+[
+    {
+        "index": 1,
+        "start_time": 6539,
+        "end_time": 9958,
+        "text": "Space: it&#39;s where things happen."
+    },
+    {
+        "index": 2,
+        "start_time": 9958,
+        "end_time": 12575,
+        "text": "Time: it&#39;s when things happen."
+    },
+    {
+        "index": 3,
+        "start_time": 12575,
+        "end_time": 14324,
+        "text": "We can measure where things are"
+    },
+    {
+        "index": 4,
+        "start_time": 14324,
+        "end_time": 15658,
+        "text": "and when things take place,"
+    },
+    {
+        "index": 5,
+        "start_time": 15658,
+        "end_time": 17157,
+        "text": "but in modern physics,"
+    },
+    {
+        "index": 6,
+        "start_time": 17157,
+        "end_time": 18993,
+        "text": "we realize when and where"
+    },
+    {
+        "index": 7,
+        "start_time": 18993,
+        "end_time": 22467,
+        "text": "are actually part of the same question."
+    },
+    {
+        "index": 8,
+        "start_time": 22467,
+        "end_time": 24679,
+        "text": "Because when it comes to understanding the universe,"
+    },
+    {
+        "index": 9,
+        "start_time": 24679,
+        "end_time": 28055,
+        "text": "we need to replace three-dimensional space plus time"
+    },
+    {
+        "index": 10,
+        "start_time": 28055,
+        "end_time": 29847,
+        "text": "with a single concept:"
+    },
+    {
+        "index": 11,
+        "start_time": 29847,
+        "end_time": 33644,
+        "text": "four-dimensional space-time."
+    },
+    {
+        "index": 12,
+        "start_time": 33644,
+        "end_time": 35773,
+        "text": "We&#39;ll explore and explain space-time"
+    },
+    {
+        "index": 13,
+        "start_time": 35773,
+        "end_time": 38273,
+        "text": "in this series of animations."
+    },
+    {
+        "index": 14,
+        "start_time": 38273,
+        "end_time": 39234,
+        "text": "Animations?"
+    },
+    {
+        "index": 15,
+        "start_time": 39234,
+        "end_time": 40317,
+        "text": "Yeah."
+    },
+    {
+        "index": 16,
+        "start_time": 40317,
+        "end_time": 42523,
+        "text": "Well, we&#39;re not very animated are we?"
+    },
+    {
+        "index": 17,
+        "start_time": 42523,
+        "end_time": 46859,
+        "text": "Sure we are! Look, I can go from here to here."
+    },
+    {
+        "index": 18,
+        "start_time": 46859,
+        "end_time": 48659,
+        "text": "Whoa! How&#39;d you get from here to there?"
+    },
+    {
+        "index": 19,
+        "start_time": 48659,
+        "end_time": 50024,
+        "text": "How fast did you go?"
+    },
+    {
+        "index": 20,
+        "start_time": 50024,
+        "end_time": 51689,
+        "text": "Did you run? Walk?"
+    },
+    {
+        "index": 21,
+        "start_time": 51689,
+        "end_time": 53357,
+        "text": "Did you even go in a straight line?"
+    },
+    {
+        "index": 22,
+        "start_time": 53357,
+        "end_time": 57108,
+        "text": "Ah! To answer that, you&#39;ll need to make our cartoon physics"
+    },
+    {
+        "index": 23,
+        "start_time": 57108,
+        "end_time": 59543,
+        "text": "look more like physics physics."
+    },
+    {
+        "index": 24,
+        "start_time": 59543,
+        "end_time": 62107,
+        "text": "You&#39;ll need more panels."
+    },
+    {
+        "index": 25,
+        "start_time": 62107,
+        "end_time": 65301,
+        "text": "More panels, please!"
+    },
+    {
+        "index": 26,
+        "start_time": 65301,
+        "end_time": 70096,
+        "text": "Okay, in each panel, Andrew&#39;s in a slightly different place."
+    },
+    {
+        "index": 27,
+        "start_time": 70096,
+        "end_time": 71975,
+        "text": "So I can see each one records"
+    },
+    {
+        "index": 28,
+        "start_time": 71975,
+        "end_time": 74892,
+        "text": "where Andrew is at a different time."
+    },
+    {
+        "index": 29,
+        "start_time": 74892,
+        "end_time": 78981,
+        "text": "That&#39;s great. But it would be easier to see"
+    },
+    {
+        "index": 30,
+        "start_time": 78981,
+        "end_time": 80440,
+        "text": "what&#39;s going on if we could cut out"
+    },
+    {
+        "index": 31,
+        "start_time": 80440,
+        "end_time": 82773,
+        "text": "all the hundreds of panels and stack them up"
+    },
+    {
+        "index": 32,
+        "start_time": 82773,
+        "end_time": 86069,
+        "text": "like a flip book."
+    },
+    {
+        "index": 33,
+        "start_time": 86069,
+        "end_time": 88155,
+        "text": "Right, now let&#39;s flip through the book"
+    },
+    {
+        "index": 34,
+        "start_time": 88155,
+        "end_time": 90607,
+        "text": "so that we can see one panel after another"
+    },
+    {
+        "index": 35,
+        "start_time": 90607,
+        "end_time": 94358,
+        "text": "getting through 24 in every second."
+    },
+    {
+        "index": 36,
+        "start_time": 94358,
+        "end_time": 96439,
+        "text": "See! I told you it was an animation."
+    },
+    {
+        "index": 37,
+        "start_time": 96439,
+        "end_time": 99376,
+        "text": "Now you can see me walking along."
+    },
+    {
+        "index": 38,
+        "start_time": 99376,
+        "end_time": 102046,
+        "text": "Drawing all those panels and putting them into a flip book"
+    },
+    {
+        "index": 39,
+        "start_time": 102046,
+        "end_time": 105757,
+        "text": "is just one way of recording the way I&#39;m moving."
+    },
+    {
+        "index": 40,
+        "start_time": 105757,
+        "end_time": 109773,
+        "text": "It&#39;s how animation, or even movies, work."
+    },
+    {
+        "index": 41,
+        "start_time": 109773,
+        "end_time": 112346,
+        "text": "As it turns out, at my walking speed,"
+    },
+    {
+        "index": 42,
+        "start_time": 112346,
+        "end_time": 115691,
+        "text": "it takes two seconds to get past each fence post,"
+    },
+    {
+        "index": 43,
+        "start_time": 115691,
+        "end_time": 118521,
+        "text": "and they&#39;re spaced four meters apart."
+    },
+    {
+        "index": 44,
+        "start_time": 118521,
+        "end_time": 120478,
+        "text": "So we can calculate my velocity --"
+    },
+    {
+        "index": 45,
+        "start_time": 120478,
+        "end_time": 122482,
+        "text": "how fast I&#39;m moving through space - -"
+    },
+    {
+        "index": 46,
+        "start_time": 122482,
+        "end_time": 125484,
+        "text": "is two meters per second."
+    },
+    {
+        "index": 47,
+        "start_time": 125484,
+        "end_time": 128238,
+        "text": "But I could&#39;ve worked that out from the panels"
+    },
+    {
+        "index": 48,
+        "start_time": 128238,
+        "end_time": 131156,
+        "text": "without flipping through them."
+    },
+    {
+        "index": 49,
+        "start_time": 131156,
+        "end_time": 132493,
+        "text": "From the edge of the flip book,"
+    },
+    {
+        "index": 50,
+        "start_time": 132493,
+        "end_time": 134608,
+        "text": "you can see all of the copies of the fence posts"
+    },
+    {
+        "index": 51,
+        "start_time": 134608,
+        "end_time": 136440,
+        "text": "and all of the copies of Andrew"
+    },
+    {
+        "index": 52,
+        "start_time": 136440,
+        "end_time": 140124,
+        "text": "and he&#39;s in a slightly different place in each one."
+    },
+    {
+        "index": 53,
+        "start_time": 140124,
+        "end_time": 143230,
+        "text": "Now we can predict everything that will happen to Andrew"
+    },
+    {
+        "index": 54,
+        "start_time": 143230,
+        "end_time": 146775,
+        "text": "when we flip through 24 pages every second,"
+    },
+    {
+        "index": 55,
+        "start_time": 146775,
+        "end_time": 148132,
+        "text": "including his speed of motion,"
+    },
+    {
+        "index": 56,
+        "start_time": 148132,
+        "end_time": 150343,
+        "text": "just by looking."
+    },
+    {
+        "index": 57,
+        "start_time": 150343,
+        "end_time": 153387,
+        "text": "No need to flip through at all."
+    },
+    {
+        "index": 58,
+        "start_time": 153387,
+        "end_time": 154638,
+        "text": "The edge of this flip book"
+    },
+    {
+        "index": 59,
+        "start_time": 154638,
+        "end_time": 157701,
+        "text": "is known as a space-time diagram"
+    },
+    {
+        "index": 60,
+        "start_time": 157701,
+        "end_time": 160066,
+        "text": "of Andrew&#39;s journey through, you guessed it,"
+    },
+    {
+        "index": 61,
+        "start_time": 160066,
+        "end_time": 162067,
+        "text": "space and time."
+    },
+    {
+        "index": 62,
+        "start_time": 162067,
+        "end_time": 165151,
+        "text": "We call the line that represents Andrew&#39;s journey"
+    },
+    {
+        "index": 63,
+        "start_time": 165151,
+        "end_time": 167510,
+        "text": "his world line."
+    },
+    {
+        "index": 64,
+        "start_time": 167510,
+        "end_time": 169865,
+        "text": "If i jog instead of walking,"
+    },
+    {
+        "index": 65,
+        "start_time": 169865,
+        "end_time": 174454,
+        "text": "I might be able to get past a fence post every second."
+    },
+    {
+        "index": 66,
+        "start_time": 174454,
+        "end_time": 176037,
+        "text": "He&#39;s not very athletic."
+    },
+    {
+        "index": 67,
+        "start_time": 176037,
+        "end_time": 179207,
+        "text": "Anyway, when we look at this new flip book from the edge,"
+    },
+    {
+        "index": 68,
+        "start_time": 179207,
+        "end_time": 182260,
+        "text": "we can do the same analysis as before."
+    },
+    {
+        "index": 69,
+        "start_time": 182260,
+        "end_time": 183837,
+        "text": "The world line for Andrew jogging"
+    },
+    {
+        "index": 70,
+        "start_time": 183837,
+        "end_time": 185297,
+        "text": "is more tilted over"
+    },
+    {
+        "index": 71,
+        "start_time": 185297,
+        "end_time": 187759,
+        "text": "than the world line for Andrew walking."
+    },
+    {
+        "index": 72,
+        "start_time": 187759,
+        "end_time": 190926,
+        "text": "We can tell he&#39;s going twice as fast as before"
+    },
+    {
+        "index": 73,
+        "start_time": 190926,
+        "end_time": 194395,
+        "text": "without flipping the panels."
+    },
+    {
+        "index": 74,
+        "start_time": 194395,
+        "end_time": 196638,
+        "text": "But here&#39;s the clever bit."
+    },
+    {
+        "index": 75,
+        "start_time": 196638,
+        "end_time": 200361,
+        "text": "In physics, it&#39;s always good to view things from other perspectives."
+    },
+    {
+        "index": 76,
+        "start_time": 200361,
+        "end_time": 202226,
+        "text": "After all, the laws of physics"
+    },
+    {
+        "index": 77,
+        "start_time": 202226,
+        "end_time": 203861,
+        "text": "should be the same for everyone"
+    },
+    {
+        "index": 78,
+        "start_time": 203861,
+        "end_time": 206277,
+        "text": "or no one will obey them."
+    },
+    {
+        "index": 79,
+        "start_time": 206277,
+        "end_time": 209066,
+        "text": "So let&#39;s rethink our cartoon"
+    },
+    {
+        "index": 80,
+        "start_time": 209066,
+        "end_time": 211652,
+        "text": "and have the camera follow Andrew jogging along"
+    },
+    {
+        "index": 81,
+        "start_time": 211652,
+        "end_time": 215237,
+        "text": "as the fence posts approach and pass behind him."
+    },
+    {
+        "index": 82,
+        "start_time": 215237,
+        "end_time": 217777,
+        "text": "Still viewing it as a flip book of panels,"
+    },
+    {
+        "index": 83,
+        "start_time": 217777,
+        "end_time": 219777,
+        "text": "we don&#39;t need to redraw anything."
+    },
+    {
+        "index": 84,
+        "start_time": 219777,
+        "end_time": 222832,
+        "text": "We simply move all of the cutout frames slightly"
+    },
+    {
+        "index": 85,
+        "start_time": 222832,
+        "end_time": 225110,
+        "text": "until Andrew&#39;s tilted world line"
+    },
+    {
+        "index": 86,
+        "start_time": 225110,
+        "end_time": 228003,
+        "text": "becomes completely vertical."
+    },
+    {
+        "index": 87,
+        "start_time": 228003,
+        "end_time": 230695,
+        "text": "To see why, let&#39;s flip it."
+    },
+    {
+        "index": 88,
+        "start_time": 230695,
+        "end_time": 234424,
+        "text": "Yes, now I&#39;m stationery, just jogging on the spot,"
+    },
+    {
+        "index": 89,
+        "start_time": 234424,
+        "end_time": 236051,
+        "text": "in the center of the panel."
+    },
+    {
+        "index": 90,
+        "start_time": 236051,
+        "end_time": 237552,
+        "text": "On the edge of the flip book,"
+    },
+    {
+        "index": 91,
+        "start_time": 237552,
+        "end_time": 240361,
+        "text": "my world line was going straight upwards."
+    },
+    {
+        "index": 92,
+        "start_time": 240361,
+        "end_time": 243027,
+        "text": "The fence posts are coming past me."
+    },
+    {
+        "index": 93,
+        "start_time": 243027,
+        "end_time": 246312,
+        "text": "It&#39;s now their world lines that are tilted."
+    },
+    {
+        "index": 94,
+        "start_time": 246312,
+        "end_time": 249438,
+        "text": "This rearrangement of the panels is known as a"
+    },
+    {
+        "index": 95,
+        "start_time": 249438,
+        "end_time": 251649,
+        "text": "Galilean transformation,"
+    },
+    {
+        "index": 96,
+        "start_time": 251649,
+        "end_time": 256240,
+        "text": "and it lets us analyze physics from someeone else&#39;s perspective."
+    },
+    {
+        "index": 97,
+        "start_time": 256240,
+        "end_time": 258574,
+        "text": "In this case, mine."
+    },
+    {
+        "index": 98,
+        "start_time": 258574,
+        "end_time": 261945,
+        "text": "After all, it&#39;s always good to see things from other points of view,"
+    },
+    {
+        "index": 99,
+        "start_time": 261945,
+        "end_time": 264694,
+        "text": "especially when the viewers are moving"
+    },
+    {
+        "index": 100,
+        "start_time": 264694,
+        "end_time": 266693,
+        "text": "at different speeds."
+    },
+    {
+        "index": 101,
+        "start_time": 266693,
+        "end_time": 270529,
+        "text": "So long as the speeds aren&#39;t too high."
+    },
+    {
+        "index": 102,
+        "start_time": 270529,
+        "end_time": 273278,
+        "text": "If you&#39;re a cosmic ray moving at the speed of light,"
+    },
+    {
+        "index": 103,
+        "start_time": 273278,
+        "end_time": 278028,
+        "text": "our flip book of your point of view falls apart."
+    },
+    {
+        "index": 104,
+        "start_time": 278028,
+        "end_time": 279805,
+        "text": "To stop that from happening,"
+    },
+    {
+        "index": 105,
+        "start_time": 279805,
+        "end_time": 282140,
+        "text": "we&#39;ll have to glue panels together."
+    },
+    {
+        "index": 106,
+        "start_time": 282140,
+        "end_time": 284612,
+        "text": "Instead of a stack of separate panels,"
+    },
+    {
+        "index": 107,
+        "start_time": 284612,
+        "end_time": 287977,
+        "text": "we&#39;ll need a solid block of space-time,"
+    },
+    {
+        "index": 108,
+        "start_time": 287977,
+        "end_time": 290694,
+        "text": "which we&#39;ll come to in the next animation."
+    }
+]

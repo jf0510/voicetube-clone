@@ -1,0 +1,242 @@
+[
+  {
+    "end_time": 9700,
+    "index": 1,
+    "start_time": 380,
+    "text": "Here\u2019s a scientific mystery for you: does\nhot water freeze faster than cold water?"
+  },
+  {
+    "end_time": 11979,
+    "index": 2,
+    "start_time": 9700,
+    "text": "The answer is: we don\u2019t know."
+  },
+  {
+    "end_time": 15710,
+    "index": 3,
+    "start_time": 11980,
+    "text": "You\u2019re probably thinking: how can we not\nknow? I mean, we\u2019ve all got water. Most"
+  },
+  {
+    "end_time": 18169,
+    "index": 4,
+    "start_time": 15710,
+    "text": "of us have a freezer. This seems like a pretty\nsimple experiment."
+  },
+  {
+    "end_time": 20159,
+    "index": 5,
+    "start_time": 18169,
+    "text": "Well you\u2019re right, it is\u2026 it also isn\u2019t."
+  },
+  {
+    "end_time": 25970,
+    "index": 6,
+    "start_time": 20159,
+    "text": "The experiment has been performed, by brilliant\npeople all over the world. And in those experiments,"
+  },
+  {
+    "end_time": 30579,
+    "index": 7,
+    "start_time": 25970,
+    "text": "SOMETIMES hot water freezes faster than cold\nwater. And sometimes it doesn\u2019t. And either"
+  },
+  {
+    "end_time": 33000,
+    "index": 8,
+    "start_time": 30579,
+    "text": "way, the results of the experiment are not\nreproducible."
+  },
+  {
+    "end_time": 37140,
+    "index": 9,
+    "start_time": 33000,
+    "text": "The observation that hot water will freeze\nfaster than cold water is called the Mpemba"
+  },
+  {
+    "end_time": 41900,
+    "index": 10,
+    "start_time": 37140,
+    "text": "Effect. It\u2019s named after Erasto Mpemba,\nwho noticed the effect in 1963 when he was"
+  },
+  {
+    "end_time": 45080,
+    "index": 11,
+    "start_time": 41900,
+    "text": "just thirteen years old and making ice cream\nwith his classmates."
+  },
+  {
+    "end_time": 48600,
+    "index": 12,
+    "start_time": 45080,
+    "text": "He noticed that the ice cream mixture made\nwith hot milk froze faster than the mixture"
+  },
+  {
+    "end_time": 49760,
+    "index": 13,
+    "start_time": 48600,
+    "text": "made with cold milk."
+  },
+  {
+    "end_time": 53849,
+    "index": 14,
+    "start_time": 49760,
+    "text": "However, he wasn\u2019t the first person to make\nthis claim. Aristotle said the same thing"
+  },
+  {
+    "end_time": 58540,
+    "index": 15,
+    "start_time": 53850,
+    "text": "in the year 4 BCE. Just, you know, not about\nice cream. Ren\u00e9 Descartes and Francis Bacon"
+  },
+  {
+    "end_time": 61460,
+    "index": 16,
+    "start_time": 58540,
+    "text": "also believed that hot water froze faster\nthan cold water."
+  },
+  {
+    "end_time": 65089,
+    "index": 17,
+    "start_time": 61460,
+    "text": "But scientists aren\u2019t convinced that the\nMpemba Effect is actually a thing."
+  },
+  {
+    "end_time": 68590,
+    "index": 18,
+    "start_time": 65089,
+    "text": "Here\u2019s the problem. When you have ANY two\nsamples of water - that\u2019s just ordinary"
+  },
+  {
+    "end_time": 73810,
+    "index": 19,
+    "start_time": 68590,
+    "text": "tap water - one of them will ALWAYS freeze\nfirst. That\u2019s because the mixture of impurities"
+  },
+  {
+    "end_time": 75189,
+    "index": 20,
+    "start_time": 73810,
+    "text": "in the water will be slightly different."
+  },
+  {
+    "end_time": 79270,
+    "index": 21,
+    "start_time": 75189,
+    "text": "And differences in the composition, size,\nand position of those impurities can make"
+  },
+  {
+    "end_time": 81880,
+    "index": 22,
+    "start_time": 79270,
+    "text": "the freezing point of water vary by several\ndegrees."
+  },
+  {
+    "end_time": 86039,
+    "index": 23,
+    "start_time": 81880,
+    "text": "Hot tap water will freeze before cold distilled\nwater, if you control for all other conditions,"
+  },
+  {
+    "end_time": 89590,
+    "index": 24,
+    "start_time": 86039,
+    "text": "because the impurities in the tap water mean\nthat it just...freezes at a higher temperature."
+  },
+  {
+    "end_time": 93689,
+    "index": 25,
+    "start_time": 89590,
+    "text": "So in that case, the hot water will freeze\nfirst, but not because it\u2019s hot."
+  },
+  {
+    "end_time": 97428,
+    "index": 26,
+    "start_time": 93689,
+    "text": "If the Mpemba Effect IS a thing, and warmer\nwater really DOES freeze faster, there are"
+  },
+  {
+    "end_time": 99439,
+    "index": 27,
+    "start_time": 97429,
+    "text": "a lot of theories for why that might happen."
+  },
+  {
+    "end_time": 103288,
+    "index": 28,
+    "start_time": 99439,
+    "text": "Evaporation is the simplest and probably the\nbest one. Some of the hot water will evaporate"
+  },
+  {
+    "end_time": 107279,
+    "index": 29,
+    "start_time": 103289,
+    "text": "as it cools, meaning there\u2019s just less water\nto freeze, so it doesn\u2019t take as much time."
+  },
+  {
+    "end_time": 111490,
+    "index": 30,
+    "start_time": 107279,
+    "text": "But the Mpemba Effect has been observed while\nusing sealed containers, which prevented evaporated"
+  },
+  {
+    "end_time": 112579,
+    "index": 31,
+    "start_time": 111490,
+    "text": "water from escaping."
+  },
+  {
+    "end_time": 115979,
+    "index": 32,
+    "start_time": 112579,
+    "text": "Other researchers who have looked into the\nMpemba Effect claim is has to do with convection"
+  },
+  {
+    "end_time": 120039,
+    "index": 33,
+    "start_time": 115979,
+    "text": "currents -- the way the water moves around\nas it heats. Or covalent bonds. Or how hot"
+  },
+  {
+    "end_time": 123929,
+    "index": 34,
+    "start_time": 120039,
+    "text": "water holds less dissolved gas, which maybe\ndoes...something. They\u2019re not really sure."
+  },
+  {
+    "end_time": 127149,
+    "index": 35,
+    "start_time": 123929,
+    "text": "Want to test it yourself? Stick some water\nin your freezer and see if you notice something"
+  },
+  {
+    "end_time": 129470,
+    "index": 36,
+    "start_time": 127149,
+    "text": "weird. Who knows, maybe you\u2019ll get an effect\nnamed after you."
+  },
+  {
+    "end_time": 132410,
+    "index": 37,
+    "start_time": 129470,
+    "text": "Thanks for asking, and thanks to all of our\npatrons on Patreon who keep these answers"
+  },
+  {
+    "end_time": 135560,
+    "index": 38,
+    "start_time": 132410,
+    "text": "coming. If you\u2019d like to submit questions\nto be answered, or get these Quick Questions"
+  },
+  {
+    "end_time": 140180,
+    "index": 39,
+    "start_time": 135560,
+    "text": "a few days before everyone else, go to patreon.com/scishow.\nAnd don\u2019t forget to go to youtube.com/scishow"
+  },
+  {
+    "end_time": 149920,
+    "index": 40,
+    "start_time": 140180,
+    "text": "and subscribe!"
+  }
+]

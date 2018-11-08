@@ -1,0 +1,260 @@
+[
+  {
+    "end_time": 2370,
+    "index": 1,
+    "start_time": 500,
+    "text": "Hi, I&#39;m [INAUDIBLE] from Intel."
+  },
+  {
+    "end_time": 5720,
+    "index": 2,
+    "start_time": 2370,
+    "text": "In this video, I will discuss\nthe Intel Speech Enabling"
+  },
+  {
+    "end_time": 6920,
+    "index": 3,
+    "start_time": 5720,
+    "text": "Developer Kit."
+  },
+  {
+    "end_time": 9230,
+    "index": 4,
+    "start_time": 6920,
+    "text": "It aims to provide\nspeech capabilities"
+  },
+  {
+    "end_time": 11125,
+    "index": 5,
+    "start_time": 9230,
+    "text": "into your smart home devices."
+  },
+  {
+    "end_time": 12500,
+    "index": 6,
+    "start_time": 11125,
+    "text": "We are also going\nto show you how"
+  },
+  {
+    "end_time": 14669,
+    "index": 7,
+    "start_time": 12500,
+    "text": "to set it up so that\nyou can start using it"
+  },
+  {
+    "end_time": 15710,
+    "index": 8,
+    "start_time": 14669,
+    "text": "in your own developments."
+  },
+  {
+    "end_time": 18100,
+    "index": 9,
+    "start_time": 15710,
+    "text": "[MUSIC PLAYING]"
+  },
+  {
+    "end_time": 22460,
+    "index": 10,
+    "start_time": 18980,
+    "text": "Smart homes do more than just\nconnect devices to the cloud."
+  },
+  {
+    "end_time": 25100,
+    "index": 11,
+    "start_time": 22460,
+    "text": "The value of a smart home\ncomes from addressing"
+  },
+  {
+    "end_time": 29120,
+    "index": 12,
+    "start_time": 25100,
+    "text": "the real human needs by easing\nthe task of running a home,"
+  },
+  {
+    "end_time": 32600,
+    "index": 13,
+    "start_time": 29120,
+    "text": "creating peace of mind,\nand enriching daily life."
+  },
+  {
+    "end_time": 35210,
+    "index": 14,
+    "start_time": 32600,
+    "text": "To be truly smart, a\nhome must seamlessly"
+  },
+  {
+    "end_time": 38570,
+    "index": 15,
+    "start_time": 35210,
+    "text": "interconnect diverse\ndevices, services, and things"
+  },
+  {
+    "end_time": 42530,
+    "index": 16,
+    "start_time": 38570,
+    "text": "throughout the home to become\nmore perceptive, responsive,"
+  },
+  {
+    "end_time": 43910,
+    "index": 17,
+    "start_time": 42530,
+    "text": "and autonomous."
+  },
+  {
+    "end_time": 47809,
+    "index": 18,
+    "start_time": 43910,
+    "text": "Our homes work seamlessly to\nunderstand your intentions,"
+  },
+  {
+    "end_time": 50810,
+    "index": 19,
+    "start_time": 47810,
+    "text": "anticipate your needs,\nand proactively deliver"
+  },
+  {
+    "end_time": 52790,
+    "index": 20,
+    "start_time": 50810,
+    "text": "amazing experiences."
+  },
+  {
+    "end_time": 54560,
+    "index": 21,
+    "start_time": 52790,
+    "text": "Speech understanding\ncapabilities"
+  },
+  {
+    "end_time": 56660,
+    "index": 22,
+    "start_time": 54560,
+    "text": "are essential to a smart home."
+  },
+  {
+    "end_time": 59510,
+    "index": 23,
+    "start_time": 56660,
+    "text": "Now I&#39;ll walk you through\nassembling the Intel Speech"
+  },
+  {
+    "end_time": 60565,
+    "index": 24,
+    "start_time": 59510,
+    "text": "Enabling Developer Kit."
+  },
+  {
+    "end_time": 63324,
+    "index": 25,
+    "start_time": 60565,
+    "text": "[MUSIC PLAYING]"
+  },
+  {
+    "end_time": 66770,
+    "index": 26,
+    "start_time": 64319,
+    "text": "Step one, start\nwith the DSP board"
+  },
+  {
+    "end_time": 69530,
+    "index": 27,
+    "start_time": 66770,
+    "text": "with the bottom side facing up."
+  },
+  {
+    "end_time": 73150,
+    "index": 28,
+    "start_time": 69530,
+    "text": "Place the screws with the\nheads down on a hard surface"
+  },
+  {
+    "end_time": 77390,
+    "index": 29,
+    "start_time": 73150,
+    "text": "and insert one washer\non each of the screws."
+  },
+  {
+    "end_time": 79880,
+    "index": 30,
+    "start_time": 77390,
+    "text": "Insert the three screws\ninto the three screw"
+  },
+  {
+    "end_time": 82520,
+    "index": 31,
+    "start_time": 79880,
+    "text": "slots on the DSP board."
+  },
+  {
+    "end_time": 85450,
+    "index": 32,
+    "start_time": 82520,
+    "text": "Place another washer on the\nother side of the board,"
+  },
+  {
+    "end_time": 87680,
+    "index": 33,
+    "start_time": 85450,
+    "text": "and screw in the\nthree large standoffs."
+  },
+  {
+    "end_time": 90500,
+    "index": 34,
+    "start_time": 87680,
+    "text": "[MUSIC PLAYING]"
+  },
+  {
+    "end_time": 98000,
+    "index": 35,
+    "start_time": 94730,
+    "text": "Step two, insert the\nRaspberry Pi connector"
+  },
+  {
+    "end_time": 99980,
+    "index": 36,
+    "start_time": 98000,
+    "text": "cable on the board."
+  },
+  {
+    "end_time": 100770,
+    "index": 37,
+    "start_time": 99980,
+    "text": "Step 3--"
+  },
+  {
+    "end_time": 103584,
+    "index": 38,
+    "start_time": 100770,
+    "text": "[MUSIC PLAYING]"
+  },
+  {
+    "end_time": 109550,
+    "index": 39,
+    "start_time": 105930,
+    "text": "Now you have a fully set up\nIntel Speech Enabling Developer"
+  },
+  {
+    "end_time": 111380,
+    "index": 40,
+    "start_time": 109550,
+    "text": "Kit."
+  },
+  {
+    "end_time": 113960,
+    "index": 41,
+    "start_time": 111380,
+    "text": "Thank you for watching\nand to learn more,"
+  },
+  {
+    "end_time": 117140,
+    "index": 42,
+    "start_time": 113960,
+    "text": "check out\nsoftware.intel.com/smart-home."
+  },
+  {
+    "end_time": 120190,
+    "index": 43,
+    "start_time": 117140,
+    "text": "[MUSIC PLAYING]"
+  }
+]

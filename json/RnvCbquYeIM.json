@@ -1,0 +1,596 @@
+[
+    {
+        "index": 1,
+        "start_time": 6985,
+        "end_time": 11914,
+        "text": "Every year, the world uses \n35 billion barrels of oil."
+    },
+    {
+        "index": 2,
+        "start_time": 11914,
+        "end_time": 16984,
+        "text": "This massive scale of fossil fuel \ndependence pollutes the Earth"
+    },
+    {
+        "index": 3,
+        "start_time": 16984,
+        "end_time": 18884,
+        "text": "and it won&#39;t last forever."
+    },
+    {
+        "index": 4,
+        "start_time": 18884,
+        "end_time": 23575,
+        "text": "Scientists estimate that we&#39;ve consumed\nabout 40% of the world&#39;s oil."
+    },
+    {
+        "index": 5,
+        "start_time": 23575,
+        "end_time": 25245,
+        "text": "According to present estimates,"
+    },
+    {
+        "index": 6,
+        "start_time": 25245,
+        "end_time": 29405,
+        "text": "at this rate, we&#39;ll run out of oil\nand gas in 50 years or so,"
+    },
+    {
+        "index": 7,
+        "start_time": 29405,
+        "end_time": 32465,
+        "text": "and in about a century for coal."
+    },
+    {
+        "index": 8,
+        "start_time": 32465,
+        "end_time": 36654,
+        "text": "On the flip side, we have abundant\nsun, water, and wind."
+    },
+    {
+        "index": 9,
+        "start_time": 36654,
+        "end_time": 38715,
+        "text": "These are renewable energy sources,"
+    },
+    {
+        "index": 10,
+        "start_time": 38715,
+        "end_time": 41495,
+        "text": "meaning that we won&#39;t use them up\nover time."
+    },
+    {
+        "index": 11,
+        "start_time": 41495,
+        "end_time": 44305,
+        "text": "What if we could exchange \nour fossil fuel dependence"
+    },
+    {
+        "index": 12,
+        "start_time": 44305,
+        "end_time": 48006,
+        "text": "for an existence based \nsolely on renewables?"
+    },
+    {
+        "index": 13,
+        "start_time": 48006,
+        "end_time": 50097,
+        "text": "We&#39;ve pondered that question for decades,"
+    },
+    {
+        "index": 14,
+        "start_time": 50097,
+        "end_time": 55785,
+        "text": "and yet, renewable energy still\nonly provides about 13% of our needs."
+    },
+    {
+        "index": 15,
+        "start_time": 55785,
+        "end_time": 60496,
+        "text": "That&#39;s because reaching 100% requires\nrenewable energy that&#39;s inexpensive"
+    },
+    {
+        "index": 16,
+        "start_time": 60496,
+        "end_time": 62576,
+        "text": "and accessible."
+    },
+    {
+        "index": 17,
+        "start_time": 62576,
+        "end_time": 64836,
+        "text": "This represents a huge challenge,"
+    },
+    {
+        "index": 18,
+        "start_time": 64836,
+        "end_time": 70017,
+        "text": "even if we ignore the politics involved\nand focus on the science and engineering."
+    },
+    {
+        "index": 19,
+        "start_time": 70017,
+        "end_time": 74597,
+        "text": "We can better understand the problem\nby understanding how we use energy."
+    },
+    {
+        "index": 20,
+        "start_time": 74597,
+        "end_time": 78457,
+        "text": "Global energy use is a diverse \nand complex system,"
+    },
+    {
+        "index": 21,
+        "start_time": 78457,
+        "end_time": 81957,
+        "text": "and the different elements \nrequire their own solutions."
+    },
+    {
+        "index": 22,
+        "start_time": 81957,
+        "end_time": 86037,
+        "text": "But for now, we&#39;ll focus on two\nof the most familiar in everyday life:"
+    },
+    {
+        "index": 23,
+        "start_time": 86037,
+        "end_time": 88897,
+        "text": "electricity and liquid fuels."
+    },
+    {
+        "index": 24,
+        "start_time": 88897,
+        "end_time": 92279,
+        "text": "Electricity powers blast furnaces, \nelevators, computers,"
+    },
+    {
+        "index": 25,
+        "start_time": 92279,
+        "end_time": 96417,
+        "text": "and all manner of things in homes,\nbusinesses, and manufacturing."
+    },
+    {
+        "index": 26,
+        "start_time": 96417,
+        "end_time": 99837,
+        "text": "Meanwhile, liquid fuels \nplay a crucial role"
+    },
+    {
+        "index": 27,
+        "start_time": 99837,
+        "end_time": 103038,
+        "text": "in almost all forms of transportation."
+    },
+    {
+        "index": 28,
+        "start_time": 103038,
+        "end_time": 105780,
+        "text": "Let&#39;s consider the electrical \nportion first."
+    },
+    {
+        "index": 29,
+        "start_time": 105780,
+        "end_time": 109269,
+        "text": "The great news is that our technology\nis already advanced enough"
+    },
+    {
+        "index": 30,
+        "start_time": 109269,
+        "end_time": 112268,
+        "text": "to capture all that energy \nfrom renewables,"
+    },
+    {
+        "index": 31,
+        "start_time": 112268,
+        "end_time": 114349,
+        "text": "and there&#39;s an ample supply."
+    },
+    {
+        "index": 32,
+        "start_time": 114349,
+        "end_time": 116349,
+        "text": "The sun continuously radiates"
+    },
+    {
+        "index": 33,
+        "start_time": 116349,
+        "end_time": 122538,
+        "text": "about 173 quadrillion watts \nof solar energy at the Earth,"
+    },
+    {
+        "index": 34,
+        "start_time": 122538,
+        "end_time": 125770,
+        "text": "which is almost 10,000 times\nour present needs."
+    },
+    {
+        "index": 35,
+        "start_time": 125770,
+        "end_time": 130016,
+        "text": "It&#39;s been estimated that a surface that\nspans several hundred thousand kilometers"
+    },
+    {
+        "index": 36,
+        "start_time": 130016,
+        "end_time": 134100,
+        "text": "would be needed to power humanity\nat our present usage levels."
+    },
+    {
+        "index": 37,
+        "start_time": 134100,
+        "end_time": 136120,
+        "text": "So why don&#39;t we build that?"
+    },
+    {
+        "index": 38,
+        "start_time": 136120,
+        "end_time": 138540,
+        "text": "Because there are other \nhurdles in the way,"
+    },
+    {
+        "index": 39,
+        "start_time": 138540,
+        "end_time": 139580,
+        "text": "like efficiency"
+    },
+    {
+        "index": 40,
+        "start_time": 139580,
+        "end_time": 141960,
+        "text": "and energy transportation."
+    },
+    {
+        "index": 41,
+        "start_time": 141960,
+        "end_time": 143611,
+        "text": "To maximize efficiency,"
+    },
+    {
+        "index": 42,
+        "start_time": 143611,
+        "end_time": 148870,
+        "text": "solar plants must be located in areas \nwith lots of sunshine year round,"
+    },
+    {
+        "index": 43,
+        "start_time": 148870,
+        "end_time": 150641,
+        "text": "like deserts."
+    },
+    {
+        "index": 44,
+        "start_time": 150641,
+        "end_time": 154180,
+        "text": "But those are far away \nfrom densely populated regions"
+    },
+    {
+        "index": 45,
+        "start_time": 154180,
+        "end_time": 156401,
+        "text": "where energy demand is high."
+    },
+    {
+        "index": 46,
+        "start_time": 156401,
+        "end_time": 159741,
+        "text": "There are other forms of renewable energy\nwe could draw from,"
+    },
+    {
+        "index": 47,
+        "start_time": 159741,
+        "end_time": 160986,
+        "text": "such as hydroelectric,"
+    },
+    {
+        "index": 48,
+        "start_time": 160986,
+        "end_time": 162179,
+        "text": "geothermal,"
+    },
+    {
+        "index": 49,
+        "start_time": 162179,
+        "end_time": 163691,
+        "text": "and biomasses,"
+    },
+    {
+        "index": 50,
+        "start_time": 163691,
+        "end_time": 167892,
+        "text": "but they also have limits based on\navailability and location."
+    },
+    {
+        "index": 51,
+        "start_time": 167892,
+        "end_time": 171200,
+        "text": "In principle, a connected electrical\nenergy network"
+    },
+    {
+        "index": 52,
+        "start_time": 171200,
+        "end_time": 173686,
+        "text": "with power lines crisscrossing the globe"
+    },
+    {
+        "index": 53,
+        "start_time": 173686,
+        "end_time": 177111,
+        "text": "would enable us to transport power\nfrom where it&#39;s generated"
+    },
+    {
+        "index": 54,
+        "start_time": 177111,
+        "end_time": 179123,
+        "text": "to where it&#39;s needed."
+    },
+    {
+        "index": 55,
+        "start_time": 179123,
+        "end_time": 183612,
+        "text": "But building a system on this scale\nfaces an astronomical price tag."
+    },
+    {
+        "index": 56,
+        "start_time": 183612,
+        "end_time": 186680,
+        "text": "We could lower the cost by developing\nadvanced technologies"
+    },
+    {
+        "index": 57,
+        "start_time": 186680,
+        "end_time": 189632,
+        "text": "to capture energy more efficiently."
+    },
+    {
+        "index": 58,
+        "start_time": 189632,
+        "end_time": 194013,
+        "text": "The infrastructure for transporting energy\nwould also have to change drastically."
+    },
+    {
+        "index": 59,
+        "start_time": 194013,
+        "end_time": 199361,
+        "text": "Present-day power lines lose about 6-8%\nof the energy they carry"
+    },
+    {
+        "index": 60,
+        "start_time": 199361,
+        "end_time": 203952,
+        "text": "because wire material dissipates energy\nthrough resistance."
+    },
+    {
+        "index": 61,
+        "start_time": 203952,
+        "end_time": 207043,
+        "text": "Longer power lines would mean\nmore energy loss."
+    },
+    {
+        "index": 62,
+        "start_time": 207043,
+        "end_time": 210052,
+        "text": "Superconductors could be one solution."
+    },
+    {
+        "index": 63,
+        "start_time": 210052,
+        "end_time": 214243,
+        "text": "Such materials can transport electricity\nwithout dissipation."
+    },
+    {
+        "index": 64,
+        "start_time": 214243,
+        "end_time": 218412,
+        "text": "Unfortunately, they only work\nif cooled to low temperatures,"
+    },
+    {
+        "index": 65,
+        "start_time": 218412,
+        "end_time": 221592,
+        "text": "which requires energy \nand defeats the purpose."
+    },
+    {
+        "index": 66,
+        "start_time": 221592,
+        "end_time": 223263,
+        "text": "To benefit from that technology,"
+    },
+    {
+        "index": 67,
+        "start_time": 223263,
+        "end_time": 226044,
+        "text": "we&#39;d need to discover \nnew superconducting materials"
+    },
+    {
+        "index": 68,
+        "start_time": 226044,
+        "end_time": 229224,
+        "text": "that operate at room temperature."
+    },
+    {
+        "index": 69,
+        "start_time": 229224,
+        "end_time": 233474,
+        "text": "And what about the all-important,\noil-derived liquid fuels?"
+    },
+    {
+        "index": 70,
+        "start_time": 233474,
+        "end_time": 236937,
+        "text": "The scientific challenge there is to store\nrenewable energy"
+    },
+    {
+        "index": 71,
+        "start_time": 236937,
+        "end_time": 239785,
+        "text": "in an easily transportable form."
+    },
+    {
+        "index": 72,
+        "start_time": 239785,
+        "end_time": 243484,
+        "text": "Recently, we&#39;ve gotten better\nat producing lithium ion batteries,"
+    },
+    {
+        "index": 73,
+        "start_time": 243484,
+        "end_time": 247105,
+        "text": "which are lightweight \nand have high-energy density."
+    },
+    {
+        "index": 74,
+        "start_time": 247105,
+        "end_time": 252577,
+        "text": "But even the best of these\nstore about 2.5 megajoules per kilogram."
+    },
+    {
+        "index": 75,
+        "start_time": 252577,
+        "end_time": 257204,
+        "text": "That&#39;s about 20 times less than the energy\nin one kilogram of gasoline."
+    },
+    {
+        "index": 76,
+        "start_time": 257204,
+        "end_time": 261414,
+        "text": "To be truly competitive, car batteries\nwould have to store much more energy"
+    },
+    {
+        "index": 77,
+        "start_time": 261414,
+        "end_time": 263974,
+        "text": "without adding cost."
+    },
+    {
+        "index": 78,
+        "start_time": 263974,
+        "end_time": 268996,
+        "text": "The challenges only increase \nfor bigger vessels, like ships and planes."
+    },
+    {
+        "index": 79,
+        "start_time": 268996,
+        "end_time": 272045,
+        "text": "To power a cross-Atlantic \nflight for a jet,"
+    },
+    {
+        "index": 80,
+        "start_time": 272045,
+        "end_time": 275696,
+        "text": "we&#39;d need a battery weighing\nabout 1,000 tons."
+    },
+    {
+        "index": 81,
+        "start_time": 275696,
+        "end_time": 279085,
+        "text": "This, too, demands a technological leap\ntowards new materials,"
+    },
+    {
+        "index": 82,
+        "start_time": 279085,
+        "end_time": 280570,
+        "text": "higher energy density,"
+    },
+    {
+        "index": 83,
+        "start_time": 280570,
+        "end_time": 283236,
+        "text": "and better storage."
+    },
+    {
+        "index": 84,
+        "start_time": 283236,
+        "end_time": 286327,
+        "text": "One promising solution would be\nto find efficient ways"
+    },
+    {
+        "index": 85,
+        "start_time": 286327,
+        "end_time": 289467,
+        "text": "to convert solar into chemical energy."
+    },
+    {
+        "index": 86,
+        "start_time": 289467,
+        "end_time": 291606,
+        "text": "This is already happening in labs,"
+    },
+    {
+        "index": 87,
+        "start_time": 291606,
+        "end_time": 295898,
+        "text": "but the efficiency is still too low\nto allow it to reach the market."
+    },
+    {
+        "index": 88,
+        "start_time": 295898,
+        "end_time": 299274,
+        "text": "To find novel solutions, we&#39;ll need\nlots of creativity,"
+    },
+    {
+        "index": 89,
+        "start_time": 299274,
+        "end_time": 300306,
+        "text": "innovation,"
+    },
+    {
+        "index": 90,
+        "start_time": 300306,
+        "end_time": 302447,
+        "text": "and powerful incentives."
+    },
+    {
+        "index": 91,
+        "start_time": 302447,
+        "end_time": 306816,
+        "text": "The transition towards all-renewable \nenergies is a complex problem"
+    },
+    {
+        "index": 92,
+        "start_time": 306816,
+        "end_time": 310198,
+        "text": "involving technology, \neconomics, and politics."
+    },
+    {
+        "index": 93,
+        "start_time": 310198,
+        "end_time": 314527,
+        "text": "Priorities on how to tackle this challenge\ndepend on the specific assumptions"
+    },
+    {
+        "index": 94,
+        "start_time": 314527,
+        "end_time": 319558,
+        "text": "we have to make when trying to solve\nsuch a multifaceted problem."
+    },
+    {
+        "index": 95,
+        "start_time": 319558,
+        "end_time": 323058,
+        "text": "But there&#39;s ample reason to be optimistic\nthat we&#39;ll get there."
+    },
+    {
+        "index": 96,
+        "start_time": 323058,
+        "end_time": 326818,
+        "text": "Top scientific minds around the world\nare working on these problems"
+    },
+    {
+        "index": 97,
+        "start_time": 326818,
+        "end_time": 329378,
+        "text": "and making breakthroughs all the time."
+    },
+    {
+        "index": 98,
+        "start_time": 329378,
+        "end_time": 333519,
+        "text": "And many governments and businesses\nare investing in technologies"
+    },
+    {
+        "index": 99,
+        "start_time": 333519,
+        "end_time": 336559,
+        "text": "that harness the energy all around us."
+    }
+]

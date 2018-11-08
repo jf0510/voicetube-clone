@@ -1,0 +1,1040 @@
+[
+    {
+        "index": 1,
+        "start_time": 0,
+        "end_time": 7000,
+        "text": "Translator: Andrea McDonough\nReviewer: Bedirhan Cinar"
+    },
+    {
+        "index": 2,
+        "start_time": 17903,
+        "end_time": 19617,
+        "text": "Hello, my name is Christian Rudder,"
+    },
+    {
+        "index": 3,
+        "start_time": 19641,
+        "end_time": 21850,
+        "text": "and I was one of the founders of OkCupid."
+    },
+    {
+        "index": 4,
+        "start_time": 21874,
+        "end_time": 24792,
+        "text": "It&#39;s now one of the biggest\ndating sites in the United States."
+    },
+    {
+        "index": 5,
+        "start_time": 24816,
+        "end_time": 27207,
+        "text": "Like most everyone at the site,\nI was a math major,"
+    },
+    {
+        "index": 6,
+        "start_time": 27231,
+        "end_time": 30671,
+        "text": "As you may expect, we&#39;re known\nfor the analytic approach we take to love."
+    },
+    {
+        "index": 7,
+        "start_time": 30695,
+        "end_time": 32333,
+        "text": "We call it our matching algorithm."
+    },
+    {
+        "index": 8,
+        "start_time": 32357,
+        "end_time": 34945,
+        "text": "Basically, OkCupid&#39;s matching\nalgorithm helps us decide"
+    },
+    {
+        "index": 9,
+        "start_time": 34969,
+        "end_time": 36845,
+        "text": "whether two people should go on a date."
+    },
+    {
+        "index": 10,
+        "start_time": 36869,
+        "end_time": 38741,
+        "text": "We built our entire business around it."
+    },
+    {
+        "index": 11,
+        "start_time": 38765,
+        "end_time": 40725,
+        "text": "Now, algorithm is a fancy word,"
+    },
+    {
+        "index": 12,
+        "start_time": 40749,
+        "end_time": 43234,
+        "text": "and people like to drop it\nlike it&#39;s this big thing."
+    },
+    {
+        "index": 13,
+        "start_time": 43258,
+        "end_time": 45546,
+        "text": "But really, an algorithm\nis just a systematic,"
+    },
+    {
+        "index": 14,
+        "start_time": 45570,
+        "end_time": 47793,
+        "text": "step-by-step way to solve a problem."
+    },
+    {
+        "index": 15,
+        "start_time": 47817,
+        "end_time": 49994,
+        "text": "It doesn&#39;t have to be fancy at all."
+    },
+    {
+        "index": 16,
+        "start_time": 50018,
+        "end_time": 51169,
+        "text": "Here in this lesson,"
+    },
+    {
+        "index": 17,
+        "start_time": 51193,
+        "end_time": 54201,
+        "text": "I&#39;m going to explain how we arrived\nat our particular algorithm,"
+    },
+    {
+        "index": 18,
+        "start_time": 54225,
+        "end_time": 55636,
+        "text": "so you can see how it&#39;s done."
+    },
+    {
+        "index": 19,
+        "start_time": 55660,
+        "end_time": 57594,
+        "text": "Now, why are algorithms even important?"
+    },
+    {
+        "index": 20,
+        "start_time": 57618,
+        "end_time": 59198,
+        "text": "Why does this lesson even exist?"
+    },
+    {
+        "index": 21,
+        "start_time": 59222,
+        "end_time": 62642,
+        "text": "Well, notice one very significant\nphrase I used above:"
+    },
+    {
+        "index": 22,
+        "start_time": 62666,
+        "end_time": 65005,
+        "text": "they are a step-by-step\nway to solve a problem,"
+    },
+    {
+        "index": 23,
+        "start_time": 65029,
+        "end_time": 68447,
+        "text": "and as you probably know, computers\nexcel at step-by-step processes."
+    },
+    {
+        "index": 24,
+        "start_time": 68471,
+        "end_time": 70060,
+        "text": "A computer without an algorithm"
+    },
+    {
+        "index": 25,
+        "start_time": 70084,
+        "end_time": 72808,
+        "text": "is basically an expensive paperweight."
+    },
+    {
+        "index": 26,
+        "start_time": 72832,
+        "end_time": 75821,
+        "text": "And since computers are such\na pervasive part of everyday life,"
+    },
+    {
+        "index": 27,
+        "start_time": 75845,
+        "end_time": 77392,
+        "text": "algorithms are everywhere."
+    },
+    {
+        "index": 28,
+        "start_time": 78590,
+        "end_time": 81787,
+        "text": "The math behind OkCupid&#39;s matching\nalgorithm is surprisingly simple."
+    },
+    {
+        "index": 29,
+        "start_time": 81811,
+        "end_time": 85813,
+        "text": "It&#39;s just some addition, multiplication,\na little bit of square roots."
+    },
+    {
+        "index": 30,
+        "start_time": 85837,
+        "end_time": 87527,
+        "text": "The tricky part in designing it"
+    },
+    {
+        "index": 31,
+        "start_time": 87551,
+        "end_time": 90116,
+        "text": "was figuring out how to take\nsomething mysterious,"
+    },
+    {
+        "index": 32,
+        "start_time": 90140,
+        "end_time": 91290,
+        "text": "human attraction,"
+    },
+    {
+        "index": 33,
+        "start_time": 91314,
+        "end_time": 94098,
+        "text": "and break it into components\nthat a computer can work with."
+    },
+    {
+        "index": 34,
+        "start_time": 94122,
+        "end_time": 96675,
+        "text": "The first thing we needed\nto match people up was data,"
+    },
+    {
+        "index": 35,
+        "start_time": 96699,
+        "end_time": 98691,
+        "text": "something for the algorithm to work with."
+    },
+    {
+        "index": 36,
+        "start_time": 98715,
+        "end_time": 101873,
+        "text": "The best way to get data quickly\nfrom people is to just ask for it."
+    },
+    {
+        "index": 37,
+        "start_time": 101897,
+        "end_time": 104624,
+        "text": "So we decided that OkCupid\nshould ask users questions,"
+    },
+    {
+        "index": 38,
+        "start_time": 104648,
+        "end_time": 107005,
+        "text": "stuff like, &quot;Do you want\nto have kids one day?&quot;"
+    },
+    {
+        "index": 39,
+        "start_time": 107029,
+        "end_time": 108787,
+        "text": "&quot;How often do you brush your teeth?&quot;"
+    },
+    {
+        "index": 40,
+        "start_time": 108811,
+        "end_time": 110203,
+        "text": "&quot;Do you like scary movies?&quot;"
+    },
+    {
+        "index": 41,
+        "start_time": 110675,
+        "end_time": 112752,
+        "text": "And big stuff like,\n&quot;Do you believe in God?&quot;"
+    },
+    {
+        "index": 42,
+        "start_time": 113843,
+        "end_time": 116907,
+        "text": "Now, a lot of the questions\nare good for matching like with like,"
+    },
+    {
+        "index": 43,
+        "start_time": 116931,
+        "end_time": 119087,
+        "text": "that is, when both people\nanswer the same way."
+    },
+    {
+        "index": 44,
+        "start_time": 119111,
+        "end_time": 121659,
+        "text": "For example, two people\nwho are both into scary movies"
+    },
+    {
+        "index": 45,
+        "start_time": 121683,
+        "end_time": 125004,
+        "text": "are probably a better match\nthan one person who is and one who isn&#39;t."
+    },
+    {
+        "index": 46,
+        "start_time": 125028,
+        "end_time": 126521,
+        "text": "But what about a question like,"
+    },
+    {
+        "index": 47,
+        "start_time": 126545,
+        "end_time": 128607,
+        "text": "&quot;Do you like to be\nthe center of attention?&quot;"
+    },
+    {
+        "index": 48,
+        "start_time": 128631,
+        "end_time": 131259,
+        "text": "If both people in a relationship\nare saying yes to this,"
+    },
+    {
+        "index": 49,
+        "start_time": 131283,
+        "end_time": 133376,
+        "text": "they&#39;re going to have massive problems."
+    },
+    {
+        "index": 50,
+        "start_time": 133400,
+        "end_time": 134645,
+        "text": "We realized this early on,"
+    },
+    {
+        "index": 51,
+        "start_time": 134669,
+        "end_time": 137938,
+        "text": "and so we decided we needed\na bit more data from each question."
+    },
+    {
+        "index": 52,
+        "start_time": 137962,
+        "end_time": 140725,
+        "text": "We had to ask people to specify\nnot only their own answer,"
+    },
+    {
+        "index": 53,
+        "start_time": 140749,
+        "end_time": 143014,
+        "text": "but the answer they wanted\nfrom someone else."
+    },
+    {
+        "index": 54,
+        "start_time": 143038,
+        "end_time": 144539,
+        "text": "That worked really well."
+    },
+    {
+        "index": 55,
+        "start_time": 144563,
+        "end_time": 146167,
+        "text": "But we needed one more dimension."
+    },
+    {
+        "index": 56,
+        "start_time": 146191,
+        "end_time": 148834,
+        "text": "Some questions tell you more\nabout a person than others."
+    },
+    {
+        "index": 57,
+        "start_time": 148858,
+        "end_time": 152253,
+        "text": "For example, a question\nabout politics, something like,"
+    },
+    {
+        "index": 58,
+        "start_time": 152277,
+        "end_time": 154565,
+        "text": "&quot;Which is worse:\nbook burning or flag burning?&quot;"
+    },
+    {
+        "index": 59,
+        "start_time": 154589,
+        "end_time": 157399,
+        "text": "might reveal more about someone\nthan their taste in movies."
+    },
+    {
+        "index": 60,
+        "start_time": 157423,
+        "end_time": 160042,
+        "text": "And it doesn&#39;t make sense\nto weigh all things equally,"
+    },
+    {
+        "index": 61,
+        "start_time": 160066,
+        "end_time": 161662,
+        "text": "so we added one final data point."
+    },
+    {
+        "index": 62,
+        "start_time": 161686,
+        "end_time": 163710,
+        "text": "For everything that OkCupid asks you,"
+    },
+    {
+        "index": 63,
+        "start_time": 163734,
+        "end_time": 166563,
+        "text": "you have a chance to tell us\nthe role it plays in your life."
+    },
+    {
+        "index": 64,
+        "start_time": 166587,
+        "end_time": 168906,
+        "text": "And this ranges\nfrom irrelevant to mandatory."
+    },
+    {
+        "index": 65,
+        "start_time": 169446,
+        "end_time": 172668,
+        "text": "So now, for every question,\nwe have three things for our algorithm:"
+    },
+    {
+        "index": 66,
+        "start_time": 172692,
+        "end_time": 174044,
+        "text": "first, your answer;"
+    },
+    {
+        "index": 67,
+        "start_time": 174617,
+        "end_time": 178757,
+        "text": "second, how you want someone else --\nyour potential match -- to answer;"
+    },
+    {
+        "index": 68,
+        "start_time": 178781,
+        "end_time": 181569,
+        "text": "and third, how important\nthe question is to you at all."
+    },
+    {
+        "index": 69,
+        "start_time": 182710,
+        "end_time": 183962,
+        "text": "With all this information,"
+    },
+    {
+        "index": 70,
+        "start_time": 183986,
+        "end_time": 187104,
+        "text": "OkCupid can figure out\nhow well two people will get along."
+    },
+    {
+        "index": 71,
+        "start_time": 187128,
+        "end_time": 190134,
+        "text": "The algorithm crunches the numbers\nand gives us a result."
+    },
+    {
+        "index": 72,
+        "start_time": 190158,
+        "end_time": 191310,
+        "text": "As a practical example,"
+    },
+    {
+        "index": 73,
+        "start_time": 191334,
+        "end_time": 193859,
+        "text": "let&#39;s look at how we&#39;d match you\nwith another person."
+    },
+    {
+        "index": 74,
+        "start_time": 193883,
+        "end_time": 195072,
+        "text": "Let&#39;s call him &quot;B.&quot;"
+    },
+    {
+        "index": 75,
+        "start_time": 196023,
+        "end_time": 199505,
+        "text": "Your match percentage with B is based\non questions you&#39;ve both answered."
+    },
+    {
+        "index": 76,
+        "start_time": 199529,
+        "end_time": 201954,
+        "text": "Let&#39;s call that set\nof common questions &quot;s.&quot;"
+    },
+    {
+        "index": 77,
+        "start_time": 202559,
+        "end_time": 204908,
+        "text": "As a very simple example,\nwe use a small set &quot;s&quot;"
+    },
+    {
+        "index": 78,
+        "start_time": 204932,
+        "end_time": 206573,
+        "text": "with just two questions in common,"
+    },
+    {
+        "index": 79,
+        "start_time": 206597,
+        "end_time": 208425,
+        "text": "and compute a match from that."
+    },
+    {
+        "index": 80,
+        "start_time": 208449,
+        "end_time": 210120,
+        "text": "Here are our two example questions."
+    },
+    {
+        "index": 81,
+        "start_time": 210144,
+        "end_time": 212525,
+        "text": "The first one, let&#39;s say, is,\n&quot;How messy are you?&quot;"
+    },
+    {
+        "index": 82,
+        "start_time": 212549,
+        "end_time": 214645,
+        "text": "And the answer possibilities are:"
+    },
+    {
+        "index": 83,
+        "start_time": 214669,
+        "end_time": 218030,
+        "text": "very messy, average and very organized."
+    },
+    {
+        "index": 84,
+        "start_time": 218054,
+        "end_time": 220114,
+        "text": "And let&#39;s say you answered\n&quot;very organized,&quot;"
+    },
+    {
+        "index": 85,
+        "start_time": 220138,
+        "end_time": 222898,
+        "text": "and you&#39;d like someone else\nto answer &quot;very organized,&quot;"
+    },
+    {
+        "index": 86,
+        "start_time": 222922,
+        "end_time": 225178,
+        "text": "and the question is very important to you."
+    },
+    {
+        "index": 87,
+        "start_time": 225202,
+        "end_time": 226694,
+        "text": "Basically, you&#39;re a neat freak."
+    },
+    {
+        "index": 88,
+        "start_time": 226718,
+        "end_time": 229586,
+        "text": "You&#39;re neat, you want someone else\nto be neat, and that&#39;s it."
+    },
+    {
+        "index": 89,
+        "start_time": 229610,
+        "end_time": 231625,
+        "text": "And let&#39;s say B is a little bit different."
+    },
+    {
+        "index": 90,
+        "start_time": 231649,
+        "end_time": 233688,
+        "text": "He answered &quot;very organized&quot; for himself,"
+    },
+    {
+        "index": 91,
+        "start_time": 233712,
+        "end_time": 236719,
+        "text": "but &quot;average&quot; is OK with him\nas an answer from someone else,"
+    },
+    {
+        "index": 92,
+        "start_time": 236743,
+        "end_time": 239145,
+        "text": "and the question is only\na little important to him."
+    },
+    {
+        "index": 93,
+        "start_time": 239169,
+        "end_time": 242062,
+        "text": "Let&#39;s look at the second question,\nfrom our previous example:"
+    },
+    {
+        "index": 94,
+        "start_time": 242086,
+        "end_time": 244142,
+        "text": "&quot;Do you like to be\nthe center of attention?&quot;"
+    },
+    {
+        "index": 95,
+        "start_time": 244166,
+        "end_time": 245680,
+        "text": "The answers are &quot;yes&quot; and &quot;no.&quot;"
+    },
+    {
+        "index": 96,
+        "start_time": 245704,
+        "end_time": 248699,
+        "text": "You&#39;ve answered &quot;no,&quot; you want\nsomeone else to answer &quot;no,&quot;"
+    },
+    {
+        "index": 97,
+        "start_time": 248723,
+        "end_time": 251114,
+        "text": "and the question is only\na little important to you."
+    },
+    {
+        "index": 98,
+        "start_time": 251138,
+        "end_time": 252759,
+        "text": "Now B, he&#39;s answered &quot;yes.&quot;"
+    },
+    {
+        "index": 99,
+        "start_time": 252783,
+        "end_time": 254559,
+        "text": "He wants someone else to answer &quot;no,&quot;"
+    },
+    {
+        "index": 100,
+        "start_time": 254583,
+        "end_time": 256857,
+        "text": "because he wants the spotlight on him,"
+    },
+    {
+        "index": 101,
+        "start_time": 256881,
+        "end_time": 259311,
+        "text": "and the question is somewhat\nimportant to him."
+    },
+    {
+        "index": 102,
+        "start_time": 259335,
+        "end_time": 261334,
+        "text": "So, let&#39;s try to compute all of this."
+    },
+    {
+        "index": 103,
+        "start_time": 261972,
+        "end_time": 264475,
+        "text": "Our first step is, since we use\ncomputers to do this,"
+    },
+    {
+        "index": 104,
+        "start_time": 264499,
+        "end_time": 266366,
+        "text": "we need to assign numerical values"
+    },
+    {
+        "index": 105,
+        "start_time": 266390,
+        "end_time": 269017,
+        "text": "to ideas like &quot;somewhat\nimportant&quot; and &quot;very important,&quot;"
+    },
+    {
+        "index": 106,
+        "start_time": 269041,
+        "end_time": 271252,
+        "text": "because computers need\neverything in numbers."
+    },
+    {
+        "index": 107,
+        "start_time": 271276,
+        "end_time": 273679,
+        "text": "We at OkCupid decided\non the following scale:"
+    },
+    {
+        "index": 108,
+        "start_time": 273703,
+        "end_time": 275649,
+        "text": "&quot;Irrelevant&quot; is worth 0."
+    },
+    {
+        "index": 109,
+        "start_time": 276173,
+        "end_time": 278062,
+        "text": "&quot;A little important&quot; is worth 1."
+    },
+    {
+        "index": 110,
+        "start_time": 278538,
+        "end_time": 280347,
+        "text": "&quot;Somewhat important&quot; is worth 10."
+    },
+    {
+        "index": 111,
+        "start_time": 280831,
+        "end_time": 282585,
+        "text": "&quot;Very important&quot; is 50."
+    },
+    {
+        "index": 112,
+        "start_time": 282609,
+        "end_time": 286221,
+        "text": "And &quot;absolutely mandatory&quot; is 250."
+    },
+    {
+        "index": 113,
+        "start_time": 286245,
+        "end_time": 288876,
+        "text": "Next, the algorithm makes\ntwo simple calculations."
+    },
+    {
+        "index": 114,
+        "start_time": 288900,
+        "end_time": 292146,
+        "text": "The first is: How much did\nB&#39;s answers satisfy you?"
+    },
+    {
+        "index": 115,
+        "start_time": 292170,
+        "end_time": 295963,
+        "text": "That is, how many possible points\ndid B score on your scale?"
+    },
+    {
+        "index": 116,
+        "start_time": 295987,
+        "end_time": 299199,
+        "text": "Well, you indicated that B&#39;s answer\nto the first question,"
+    },
+    {
+        "index": 117,
+        "start_time": 299223,
+        "end_time": 300389,
+        "text": "about messiness,"
+    },
+    {
+        "index": 118,
+        "start_time": 300413,
+        "end_time": 301763,
+        "text": "was very important to you."
+    },
+    {
+        "index": 119,
+        "start_time": 301787,
+        "end_time": 304017,
+        "text": "It&#39;s worth 50 points and B got that right."
+    },
+    {
+        "index": 120,
+        "start_time": 304375,
+        "end_time": 306112,
+        "text": "The second question is worth only 1,"
+    },
+    {
+        "index": 121,
+        "start_time": 306136,
+        "end_time": 308414,
+        "text": "because you said\nit was only a little important."
+    },
+    {
+        "index": 122,
+        "start_time": 308438,
+        "end_time": 309635,
+        "text": "B got that wrong,"
+    },
+    {
+        "index": 123,
+        "start_time": 309659,
+        "end_time": 312441,
+        "text": "so B&#39;s answers were 50\nout of 51 possible points."
+    },
+    {
+        "index": 124,
+        "start_time": 312465,
+        "end_time": 315073,
+        "text": "That&#39;s 98% satisfactory. Pretty good."
+    },
+    {
+        "index": 125,
+        "start_time": 315097,
+        "end_time": 319046,
+        "text": "The second question the algorithm\nlooks at is: How much did you satisfy B?"
+    },
+    {
+        "index": 126,
+        "start_time": 319070,
+        "end_time": 322329,
+        "text": "Well, B placed 1 point on your answer\nto the messiness question"
+    },
+    {
+        "index": 127,
+        "start_time": 322353,
+        "end_time": 324306,
+        "text": "and 10 on your answer to the second."
+    },
+    {
+        "index": 128,
+        "start_time": 324745,
+        "end_time": 328132,
+        "text": "Of those 11, that&#39;s 1 plus 10,\nyou earned 10 --"
+    },
+    {
+        "index": 129,
+        "start_time": 328156,
+        "end_time": 330751,
+        "text": "you guys satisfied each other\non the second question."
+    },
+    {
+        "index": 130,
+        "start_time": 330775,
+        "end_time": 335017,
+        "text": "So your answers were 10 out of 11\nequals 91 percent satisfactory to B."
+    },
+    {
+        "index": 131,
+        "start_time": 335041,
+        "end_time": 336192,
+        "text": "That&#39;s not bad."
+    },
+    {
+        "index": 132,
+        "start_time": 336216,
+        "end_time": 338723,
+        "text": "The final step is to take\nthese two match percentages"
+    },
+    {
+        "index": 133,
+        "start_time": 338747,
+        "end_time": 340613,
+        "text": "and get one number for the both of you."
+    },
+    {
+        "index": 134,
+        "start_time": 340637,
+        "end_time": 343248,
+        "text": "To do this, the algorithm\nmultiplies your scores,"
+    },
+    {
+        "index": 135,
+        "start_time": 343272,
+        "end_time": 344937,
+        "text": "then takes the nth root,"
+    },
+    {
+        "index": 136,
+        "start_time": 344961,
+        "end_time": 347144,
+        "text": "where &quot;n&quot; is the number of questions."
+    },
+    {
+        "index": 137,
+        "start_time": 347168,
+        "end_time": 349998,
+        "text": "Because s, which is the number\nof questions in this sample,"
+    },
+    {
+        "index": 138,
+        "start_time": 350022,
+        "end_time": 351863,
+        "text": "is only 2,"
+    },
+    {
+        "index": 139,
+        "start_time": 351887,
+        "end_time": 355552,
+        "text": "we have: match percentage\nequals the square root"
+    },
+    {
+        "index": 140,
+        "start_time": 355576,
+        "end_time": 358472,
+        "text": "of 98 percent times 91 percent."
+    },
+    {
+        "index": 141,
+        "start_time": 358496,
+        "end_time": 360280,
+        "text": "That equals 94 percent."
+    },
+    {
+        "index": 142,
+        "start_time": 360304,
+        "end_time": 363508,
+        "text": "That 94 percent is your match\npercentage with B."
+    },
+    {
+        "index": 143,
+        "start_time": 363532,
+        "end_time": 366775,
+        "text": "It&#39;s a mathematical expression\nof how happy you&#39;d be with each other,"
+    },
+    {
+        "index": 144,
+        "start_time": 366799,
+        "end_time": 367982,
+        "text": "based on what we know."
+    },
+    {
+        "index": 145,
+        "start_time": 368006,
+        "end_time": 369792,
+        "text": "Now, why does the algorithm multiply,"
+    },
+    {
+        "index": 146,
+        "start_time": 369816,
+        "end_time": 372585,
+        "text": "as opposed to, say, average\nthe two match scores together,"
+    },
+    {
+        "index": 147,
+        "start_time": 372609,
+        "end_time": 374279,
+        "text": "and do the square-root business?"
+    },
+    {
+        "index": 148,
+        "start_time": 374303,
+        "end_time": 376832,
+        "text": "In general, this formula\nis called the geometric mean."
+    },
+    {
+        "index": 149,
+        "start_time": 376856,
+        "end_time": 379483,
+        "text": "It&#39;s a great way to combine\nvalues that have wide ranges"
+    },
+    {
+        "index": 150,
+        "start_time": 379507,
+        "end_time": 381422,
+        "text": "and represent very different properties."
+    },
+    {
+        "index": 151,
+        "start_time": 381446,
+        "end_time": 383859,
+        "text": "In other words, it&#39;s perfect\nfor romantic matching."
+    },
+    {
+        "index": 152,
+        "start_time": 383883,
+        "end_time": 387130,
+        "text": "You&#39;ve got wide ranges and you&#39;ve got\ntons of different data points,"
+    },
+    {
+        "index": 153,
+        "start_time": 387154,
+        "end_time": 390592,
+        "text": "like I said, about movies, politics,\nreligion -- everything."
+    },
+    {
+        "index": 154,
+        "start_time": 390616,
+        "end_time": 392454,
+        "text": "Intuitively, too, this makes sense."
+    },
+    {
+        "index": 155,
+        "start_time": 392478,
+        "end_time": 395253,
+        "text": "Two people satisfying\neach other 50 percent"
+    },
+    {
+        "index": 156,
+        "start_time": 395277,
+        "end_time": 399229,
+        "text": "should be a better match\nthan two others who satisfy 0 and 100,"
+    },
+    {
+        "index": 157,
+        "start_time": 399253,
+        "end_time": 401067,
+        "text": "because affection needs to be mutual."
+    },
+    {
+        "index": 158,
+        "start_time": 401091,
+        "end_time": 403582,
+        "text": "After adding a little correction\nfor margin of error,"
+    },
+    {
+        "index": 159,
+        "start_time": 403606,
+        "end_time": 406177,
+        "text": "in the case where we have\na small number of questions,"
+    },
+    {
+        "index": 160,
+        "start_time": 406201,
+        "end_time": 407518,
+        "text": "like we do in this example,"
+    },
+    {
+        "index": 161,
+        "start_time": 407542,
+        "end_time": 408714,
+        "text": "we&#39;re good to go."
+    },
+    {
+        "index": 162,
+        "start_time": 408738,
+        "end_time": 410650,
+        "text": "Any time OkCupid matches two people,"
+    },
+    {
+        "index": 163,
+        "start_time": 410674,
+        "end_time": 412706,
+        "text": "it goes through the steps\nwe just outlined."
+    },
+    {
+        "index": 164,
+        "start_time": 412730,
+        "end_time": 414999,
+        "text": "First it collects data about your answers,"
+    },
+    {
+        "index": 165,
+        "start_time": 415023,
+        "end_time": 418008,
+        "text": "then it compares your choices\nand preferences to other people&#39;s"
+    },
+    {
+        "index": 166,
+        "start_time": 418032,
+        "end_time": 419999,
+        "text": "in simple, mathematical ways."
+    },
+    {
+        "index": 167,
+        "start_time": 420023,
+        "end_time": 422946,
+        "text": "This, the ability to take\nreal-world phenomena"
+    },
+    {
+        "index": 168,
+        "start_time": 422970,
+        "end_time": 425385,
+        "text": "and make them something\na microchip can understand,"
+    },
+    {
+        "index": 169,
+        "start_time": 425409,
+        "end_time": 428686,
+        "text": "is, I think, the most important skill\nanyone can have these days."
+    },
+    {
+        "index": 170,
+        "start_time": 428710,
+        "end_time": 431133,
+        "text": "Like you use sentences\nto tell a story to a person,"
+    },
+    {
+        "index": 171,
+        "start_time": 431157,
+        "end_time": 433641,
+        "text": "you use algorithms\nto tell a story to a computer."
+    },
+    {
+        "index": 172,
+        "start_time": 434349,
+        "end_time": 437382,
+        "text": "If you learn the language,\nyou can go out and tell your stories."
+    },
+    {
+        "index": 173,
+        "start_time": 437406,
+        "end_time": 439159,
+        "text": "I hope this will help you do that."
+    }
+]

@@ -1,0 +1,416 @@
+[
+  {
+    "end_time": 1744,
+    "index": 1,
+    "start_time": 152,
+    "text": "In order to make a collider into a"
+  },
+  {
+    "end_time": 3564,
+    "index": 2,
+    "start_time": 1745,
+    "text": "trigger we simply check the"
+  },
+  {
+    "end_time": 5564,
+    "index": 3,
+    "start_time": 3564,
+    "text": "&#39;Is Trigger&#39; checkbox on the component"
+  },
+  {
+    "end_time": 7564,
+    "index": 4,
+    "start_time": 5564,
+    "text": "settings in the inspector."
+  },
+  {
+    "end_time": 10395,
+    "index": 5,
+    "start_time": 8395,
+    "text": "When a collider is a trigger things will"
+  },
+  {
+    "end_time": 12769,
+    "index": 6,
+    "start_time": 10395,
+    "text": "no longer bump into it. Instead they will"
+  },
+  {
+    "end_time": 15143,
+    "index": 7,
+    "start_time": 12769,
+    "text": "pass through it and this can be detected"
+  },
+  {
+    "end_time": 15989,
+    "index": 8,
+    "start_time": 15143,
+    "text": "via code."
+  },
+  {
+    "end_time": 17842,
+    "index": 9,
+    "start_time": 16129,
+    "text": "Similar to normal colliders,"
+  },
+  {
+    "end_time": 19785,
+    "index": 10,
+    "start_time": 17842,
+    "text": "events are called when other colliders"
+  },
+  {
+    "end_time": 21786,
+    "index": 11,
+    "start_time": 19786,
+    "text": "are overlapping with the trigger collider."
+  },
+  {
+    "end_time": 25061,
+    "index": 12,
+    "start_time": 22466,
+    "text": "In this example we have a box collider"
+  },
+  {
+    "end_time": 27061,
+    "index": 13,
+    "start_time": 25061,
+    "text": "with Is Trigger checked"
+  },
+  {
+    "end_time": 30578,
+    "index": 14,
+    "start_time": 27561,
+    "text": "and a falling &#39;prop samoflange&#39; ball object."
+  },
+  {
+    "end_time": 33863,
+    "index": 15,
+    "start_time": 31863,
+    "text": "This object enters the trigger,"
+  },
+  {
+    "end_time": 37180,
+    "index": 16,
+    "start_time": 33863,
+    "text": "stays as it rolls forward and then exits."
+  },
+  {
+    "end_time": 40783,
+    "index": 17,
+    "start_time": 38523,
+    "text": "To check these events we attach a script"
+  },
+  {
+    "end_time": 43117,
+    "index": 18,
+    "start_time": 40783,
+    "text": "to the trigger, which is registering"
+  },
+  {
+    "end_time": 46537,
+    "index": 19,
+    "start_time": 43117,
+    "text": "OnTriggerEnter and logging to the console"
+  },
+  {
+    "end_time": 48717,
+    "index": 20,
+    "start_time": 46537,
+    "text": "and likewise OnTriggerStay"
+  },
+  {
+    "end_time": 50424,
+    "index": 21,
+    "start_time": 48717,
+    "text": "and OnTriggerExit."
+  },
+  {
+    "end_time": 52161,
+    "index": 22,
+    "start_time": 50648,
+    "text": "So if we pause the game"
+  },
+  {
+    "end_time": 54696,
+    "index": 23,
+    "start_time": 52161,
+    "text": "and step through one frame at a time,"
+  },
+  {
+    "end_time": 57790,
+    "index": 24,
+    "start_time": 55790,
+    "text": "looking at the console will show that the"
+  },
+  {
+    "end_time": 59790,
+    "index": 25,
+    "start_time": 57790,
+    "text": "object enters the trigger"
+  },
+  {
+    "end_time": 63174,
+    "index": 26,
+    "start_time": 61174,
+    "text": "stays for a number of frames"
+  },
+  {
+    "end_time": 70453,
+    "index": 27,
+    "start_time": 68453,
+    "text": "and eventually exits the trigger."
+  },
+  {
+    "end_time": 74528,
+    "index": 28,
+    "start_time": 72528,
+    "text": "In the same way as standard collisions,"
+  },
+  {
+    "end_time": 77017,
+    "index": 29,
+    "start_time": 74528,
+    "text": "one of the two objects must have a rigidbody."
+  },
+  {
+    "end_time": 79186,
+    "index": 30,
+    "start_time": 77186,
+    "text": "It&#39;s standard practice to make sure that your trigger"
+  },
+  {
+    "end_time": 80855,
+    "index": 31,
+    "start_time": 79186,
+    "text": "colliders are static objects,"
+  },
+  {
+    "end_time": 82565,
+    "index": 32,
+    "start_time": 80855,
+    "text": "meaning they will not be moved by the"
+  },
+  {
+    "end_time": 84565,
+    "index": 33,
+    "start_time": 82565,
+    "text": "physics engine. So usually you will make"
+  },
+  {
+    "end_time": 86565,
+    "index": 34,
+    "start_time": 84565,
+    "text": "a trigger and then pass a rigidbody"
+  },
+  {
+    "end_time": 89009,
+    "index": 35,
+    "start_time": 86565,
+    "text": "through it. This example is no different."
+  },
+  {
+    "end_time": 90898,
+    "index": 36,
+    "start_time": 89108,
+    "text": "We&#39;re passing our rigidbody object"
+  },
+  {
+    "end_time": 92996,
+    "index": 37,
+    "start_time": 90898,
+    "text": "through the trigger zone and detecting"
+  },
+  {
+    "end_time": 94729,
+    "index": 38,
+    "start_time": 92996,
+    "text": "when something enters that trigger."
+  },
+  {
+    "end_time": 96730,
+    "index": 39,
+    "start_time": 94730,
+    "text": "So the intention with the trigger collider,"
+  },
+  {
+    "end_time": 98428,
+    "index": 40,
+    "start_time": 96730,
+    "text": "also known as a trigger zone,"
+  },
+  {
+    "end_time": 100776,
+    "index": 41,
+    "start_time": 98428,
+    "text": "is that you can call code without the"
+  },
+  {
+    "end_time": 102776,
+    "index": 42,
+    "start_time": 100776,
+    "text": "objects in your game physically colliding."
+  },
+  {
+    "end_time": 105235,
+    "index": 43,
+    "start_time": 103235,
+    "text": "So for example, with our hoverpad,"
+  },
+  {
+    "end_time": 107473,
+    "index": 44,
+    "start_time": 105235,
+    "text": "we can add a force to our samoflange ball"
+  },
+  {
+    "end_time": 109045,
+    "index": 45,
+    "start_time": 107473,
+    "text": "to give the effect of it hovering"
+  },
+  {
+    "end_time": 111574,
+    "index": 46,
+    "start_time": 109045,
+    "text": "so long as it stays within the trigger zone."
+  },
+  {
+    "end_time": 114086,
+    "index": 47,
+    "start_time": 111574,
+    "text": "For example, we could address the object"
+  },
+  {
+    "end_time": 116086,
+    "index": 48,
+    "start_time": 114086,
+    "text": "that&#39;s currently staying within the trigger"
+  },
+  {
+    "end_time": 118086,
+    "index": 49,
+    "start_time": 116086,
+    "text": "because the object that&#39;s staying"
+  },
+  {
+    "end_time": 120086,
+    "index": 50,
+    "start_time": 118086,
+    "text": "is saved in a variable called &#39;other&#39;"
+  },
+  {
+    "end_time": 122381,
+    "index": 51,
+    "start_time": 120086,
+    "text": "of type Collider. We could then address"
+  },
+  {
+    "end_time": 124381,
+    "index": 52,
+    "start_time": 122381,
+    "text": "the rigidbody and add a force"
+  },
+  {
+    "end_time": 127554,
+    "index": 53,
+    "start_time": 124381,
+    "text": "in the direction of Vector3.up,"
+  },
+  {
+    "end_time": 129845,
+    "index": 54,
+    "start_time": 127554,
+    "text": "a shortcut for &#39;up&#39; in world coordinates."
+  },
+  {
+    "end_time": 131845,
+    "index": 55,
+    "start_time": 129845,
+    "text": "We could then multiply by a number"
+  },
+  {
+    "end_time": 133845,
+    "index": 56,
+    "start_time": 131845,
+    "text": "which we&#39;ll save as a variable."
+  },
+  {
+    "end_time": 135957,
+    "index": 57,
+    "start_time": 134110,
+    "text": "And we&#39;ll finish out the AddForce"
+  },
+  {
+    "end_time": 139196,
+    "index": 58,
+    "start_time": 135957,
+    "text": "by choosing acceleration as the mode."
+  },
+  {
+    "end_time": 144218,
+    "index": 59,
+    "start_time": 141298,
+    "text": "Now we&#39;ll move our object over the hoverpad"
+  },
+  {
+    "end_time": 147062,
+    "index": 60,
+    "start_time": 145229,
+    "text": "and we&#39;ll use Freeze Position to keep it"
+  },
+  {
+    "end_time": 149574,
+    "index": 61,
+    "start_time": 147062,
+    "text": "in the same place in X and Z."
+  },
+  {
+    "end_time": 151735,
+    "index": 62,
+    "start_time": 149812,
+    "text": "Allowing the force of Y to create"
+  },
+  {
+    "end_time": 153372,
+    "index": 63,
+    "start_time": 151735,
+    "text": "the hovering effect."
+  },
+  {
+    "end_time": 156638,
+    "index": 64,
+    "start_time": 154235,
+    "text": "And now if I press play, as you can see"
+  },
+  {
+    "end_time": 158638,
+    "index": 65,
+    "start_time": 156638,
+    "text": "as long as it stays within that area"
+  },
+  {
+    "end_time": 160638,
+    "index": 66,
+    "start_time": 158638,
+    "text": "it creates the effect of hovering without"
+  },
+  {
+    "end_time": 162240,
+    "index": 67,
+    "start_time": 160638,
+    "text": "having to interact without any part"
+  },
+  {
+    "end_time": 164240,
+    "index": 68,
+    "start_time": 162240,
+    "text": "of the geometry."
+  },
+  {
+    "end_time": 165000,
+    "index": 69,
+    "start_time": 164240,
+    "text": "Subtitles by the Amara.org community"
+  }
+]

@@ -1,0 +1,398 @@
+[
+    {
+        "index": 1,
+        "start_time": 6833,
+        "end_time": 8725,
+        "text": "&quot;Some are born great,"
+    },
+    {
+        "index": 2,
+        "start_time": 8725,
+        "end_time": 10620,
+        "text": "some achieve greatness,"
+    },
+    {
+        "index": 3,
+        "start_time": 10620,
+        "end_time": 15711,
+        "text": "and others have greatness thrust\nupon them&quot;, quoth William Shakespeare."
+    },
+    {
+        "index": 4,
+        "start_time": 15711,
+        "end_time": 17301,
+        "text": "Or did he?"
+    },
+    {
+        "index": 5,
+        "start_time": 17301,
+        "end_time": 21969,
+        "text": "Some people question whether Shakespeare\nreally wrote the works that bear his name,"
+    },
+    {
+        "index": 6,
+        "start_time": 21969,
+        "end_time": 24889,
+        "text": "or whether he even existed at all."
+    },
+    {
+        "index": 7,
+        "start_time": 24889,
+        "end_time": 28809,
+        "text": "They speculate that Shakespeare\nwas a pseudonym for another writer,"
+    },
+    {
+        "index": 8,
+        "start_time": 28809,
+        "end_time": 30236,
+        "text": "or a group of writers."
+    },
+    {
+        "index": 9,
+        "start_time": 30236,
+        "end_time": 32348,
+        "text": "Proposed candidates \nfor the real Shakespeare"
+    },
+    {
+        "index": 10,
+        "start_time": 32348,
+        "end_time": 37945,
+        "text": "include other famous playwrights, \npoliticians and even some prominent women."
+    },
+    {
+        "index": 11,
+        "start_time": 37945,
+        "end_time": 41436,
+        "text": "Could it be true that the greatest writer\nin the English language"
+    },
+    {
+        "index": 12,
+        "start_time": 41436,
+        "end_time": 44941,
+        "text": "was as fictional as his plays?"
+    },
+    {
+        "index": 13,
+        "start_time": 44941,
+        "end_time": 47867,
+        "text": "Most Shakespeare scholars \ndismiss these theories"
+    },
+    {
+        "index": 14,
+        "start_time": 47867,
+        "end_time": 51439,
+        "text": "based on historical \nand biographical evidence."
+    },
+    {
+        "index": 15,
+        "start_time": 51439,
+        "end_time": 55514,
+        "text": "But there is another way to test\nwhether Shakespeare&#39;s famous lines"
+    },
+    {
+        "index": 16,
+        "start_time": 55514,
+        "end_time": 58500,
+        "text": "were actually written by someone else."
+    },
+    {
+        "index": 17,
+        "start_time": 58500,
+        "end_time": 60689,
+        "text": "Linguistics, the study of language,"
+    },
+    {
+        "index": 18,
+        "start_time": 60689,
+        "end_time": 64090,
+        "text": "can tell us a great deal about the way\nwe speak and write"
+    },
+    {
+        "index": 19,
+        "start_time": 64090,
+        "end_time": 69585,
+        "text": "by examining syntax, grammar, \nsemantics and vocabulary."
+    },
+    {
+        "index": 20,
+        "start_time": 69585,
+        "end_time": 71416,
+        "text": "And in the late 1800s,"
+    },
+    {
+        "index": 21,
+        "start_time": 71416,
+        "end_time": 75447,
+        "text": "a Polish philosopher \nnamed Wincenty Lutos\u0142awski"
+    },
+    {
+        "index": 22,
+        "start_time": 75447,
+        "end_time": 78226,
+        "text": "formalized a method known as stylometry,"
+    },
+    {
+        "index": 23,
+        "start_time": 78226,
+        "end_time": 83428,
+        "text": "applying this knowledge to investigate \nquestions of literary authorship."
+    },
+    {
+        "index": 24,
+        "start_time": 83428,
+        "end_time": 85395,
+        "text": "So how does stylometry work?"
+    },
+    {
+        "index": 25,
+        "start_time": 85395,
+        "end_time": 89279,
+        "text": "The idea is that each writer&#39;s style\nhas certain characteristics"
+    },
+    {
+        "index": 26,
+        "start_time": 89279,
+        "end_time": 93613,
+        "text": "that remain fairly uniform \namong individual works."
+    },
+    {
+        "index": 27,
+        "start_time": 93613,
+        "end_time": 97094,
+        "text": "Examples of characteristics include\naverage sentence length,"
+    },
+    {
+        "index": 28,
+        "start_time": 97094,
+        "end_time": 98953,
+        "text": "the arrangement of words,"
+    },
+    {
+        "index": 29,
+        "start_time": 98953,
+        "end_time": 102487,
+        "text": "and even the number of occurrences\nof a particular word."
+    },
+    {
+        "index": 30,
+        "start_time": 102487,
+        "end_time": 107566,
+        "text": "Let&#39;s look at use of the word thee\nand visualize it as a dimension, or axis."
+    },
+    {
+        "index": 31,
+        "start_time": 107566,
+        "end_time": 110554,
+        "text": "Each of Shakespeare&#39;s works\ncan be placed on that axis,"
+    },
+    {
+        "index": 32,
+        "start_time": 110554,
+        "end_time": 114668,
+        "text": "like a data point, based on the number\nof occurrences of that word."
+    },
+    {
+        "index": 33,
+        "start_time": 114668,
+        "end_time": 117235,
+        "text": "In statistics, the tightness \nof these points"
+    },
+    {
+        "index": 34,
+        "start_time": 117235,
+        "end_time": 122498,
+        "text": "gives us what is known as the variance,\nan expected range for our data."
+    },
+    {
+        "index": 35,
+        "start_time": 122498,
+        "end_time": 127995,
+        "text": "But, this is only a single characteristic\nin a very high-dimensional space."
+    },
+    {
+        "index": 36,
+        "start_time": 127995,
+        "end_time": 131340,
+        "text": "With a clustering tool\ncalled Principal Component Analysis,"
+    },
+    {
+        "index": 37,
+        "start_time": 131340,
+        "end_time": 136131,
+        "text": "we can reduce the multidimensional space\ninto simple principal components"
+    },
+    {
+        "index": 38,
+        "start_time": 136131,
+        "end_time": 139905,
+        "text": "that collectively measure the variance\nin Shakespeare&#39;s works."
+    },
+    {
+        "index": 39,
+        "start_time": 139905,
+        "end_time": 142396,
+        "text": "We can then test the works\nof our candidates"
+    },
+    {
+        "index": 40,
+        "start_time": 142396,
+        "end_time": 144867,
+        "text": "against those principal components."
+    },
+    {
+        "index": 41,
+        "start_time": 144867,
+        "end_time": 146055,
+        "text": "For example,"
+    },
+    {
+        "index": 42,
+        "start_time": 146055,
+        "end_time": 150394,
+        "text": "if enough works of Francis Bacon\nfall within the Shakespearean variance,"
+    },
+    {
+        "index": 43,
+        "start_time": 150394,
+        "end_time": 152263,
+        "text": "that would be pretty strong evidence"
+    },
+    {
+        "index": 44,
+        "start_time": 152263,
+        "end_time": 157045,
+        "text": "that Francis Bacon and Shakespeare\nare actually the same person."
+    },
+    {
+        "index": 45,
+        "start_time": 157045,
+        "end_time": 159161,
+        "text": "What did the results show?"
+    },
+    {
+        "index": 46,
+        "start_time": 159161,
+        "end_time": 162477,
+        "text": "Well, the stylometrists who carried \nthis out have concluded"
+    },
+    {
+        "index": 47,
+        "start_time": 162477,
+        "end_time": 166557,
+        "text": "that Shakespeare is none other \nthan Shakespeare."
+    },
+    {
+        "index": 48,
+        "start_time": 166557,
+        "end_time": 169191,
+        "text": "The Bard is the Bard."
+    },
+    {
+        "index": 49,
+        "start_time": 169191,
+        "end_time": 174370,
+        "text": "The pretender&#39;s works just don&#39;t match up\nwith Shakespeare&#39;s signature style."
+    },
+    {
+        "index": 50,
+        "start_time": 174370,
+        "end_time": 177642,
+        "text": "However, our intrepid \nstatisticians did find"
+    },
+    {
+        "index": 51,
+        "start_time": 177642,
+        "end_time": 180884,
+        "text": "some compelling evidence \nof collaborations."
+    },
+    {
+        "index": 52,
+        "start_time": 180884,
+        "end_time": 183138,
+        "text": "For instance, one recent study concluded"
+    },
+    {
+        "index": 53,
+        "start_time": 183138,
+        "end_time": 188216,
+        "text": "that Shakespeare worked with playwright\nChristopher Marlowe on &quot;Henry VI,&quot;"
+    },
+    {
+        "index": 54,
+        "start_time": 188216,
+        "end_time": 190624,
+        "text": "parts one and two."
+    },
+    {
+        "index": 55,
+        "start_time": 190624,
+        "end_time": 195642,
+        "text": "Shakespeare&#39;s identity is only one of \nthe many problems stylometry can resolve."
+    },
+    {
+        "index": 56,
+        "start_time": 195642,
+        "end_time": 198308,
+        "text": "It can help us determine\nwhen a work was written,"
+    },
+    {
+        "index": 57,
+        "start_time": 198308,
+        "end_time": 201040,
+        "text": "whether an ancient text is a forgery,"
+    },
+    {
+        "index": 58,
+        "start_time": 201040,
+        "end_time": 203685,
+        "text": "whether a student has committed plagiarism,"
+    },
+    {
+        "index": 59,
+        "start_time": 203685,
+        "end_time": 209020,
+        "text": "or if that email you just received \nis of a high priority or spam."
+    },
+    {
+        "index": 60,
+        "start_time": 209020,
+        "end_time": 211551,
+        "text": "And does the timeless poetry \nof Shakespeare&#39;s lines"
+    },
+    {
+        "index": 61,
+        "start_time": 211551,
+        "end_time": 214475,
+        "text": "just boil down to numbers and statistics?"
+    },
+    {
+        "index": 62,
+        "start_time": 214475,
+        "end_time": 215885,
+        "text": "Not quite."
+    },
+    {
+        "index": 63,
+        "start_time": 215885,
+        "end_time": 220900,
+        "text": "Stylometric analysis may reveal what makes\nShakespeare&#39;s works structurally distinct,"
+    },
+    {
+        "index": 64,
+        "start_time": 220900,
+        "end_time": 225525,
+        "text": "but it cannot capture the beauty of\nthe sentiments and emotions they express,"
+    },
+    {
+        "index": 65,
+        "start_time": 225525,
+        "end_time": 228509,
+        "text": "or why they affect us the way they do."
+    },
+    {
+        "index": 66,
+        "start_time": 228509,
+        "end_time": 230826,
+        "text": "At least, not yet."
+    }
+]

@@ -1,0 +1,548 @@
+[
+    {
+        "index": 1,
+        "start_time": 6614,
+        "end_time": 8163,
+        "text": "Every four seconds,"
+    },
+    {
+        "index": 2,
+        "start_time": 8163,
+        "end_time": 9697,
+        "text": "someone is diagnosed with"
+    },
+    {
+        "index": 3,
+        "start_time": 9697,
+        "end_time": 11582,
+        "text": "Alzheimer&#39;s disease."
+    },
+    {
+        "index": 4,
+        "start_time": 11582,
+        "end_time": 13754,
+        "text": "It&#39;s the most common cause of dementia,"
+    },
+    {
+        "index": 5,
+        "start_time": 13754,
+        "end_time": 16613,
+        "text": "affecting over 40 million people worldwide,"
+    },
+    {
+        "index": 6,
+        "start_time": 16613,
+        "end_time": 19133,
+        "text": "and yet finding a cure is something that still"
+    },
+    {
+        "index": 7,
+        "start_time": 19133,
+        "end_time": 21615,
+        "text": "eludes researchers today."
+    },
+    {
+        "index": 8,
+        "start_time": 21615,
+        "end_time": 24888,
+        "text": "Dr. Alois Alzheimer, a German psychiatrist,"
+    },
+    {
+        "index": 9,
+        "start_time": 24888,
+        "end_time": 27935,
+        "text": "first described the symptoms in 1901"
+    },
+    {
+        "index": 10,
+        "start_time": 27935,
+        "end_time": 30395,
+        "text": "when he noticed that a particular hospital patient"
+    },
+    {
+        "index": 11,
+        "start_time": 30395,
+        "end_time": 32312,
+        "text": "had some peculiar problems,"
+    },
+    {
+        "index": 12,
+        "start_time": 32312,
+        "end_time": 34115,
+        "text": "including difficulty sleeping,"
+    },
+    {
+        "index": 13,
+        "start_time": 34115,
+        "end_time": 37485,
+        "text": "disturbed memory, drastic mood changes,"
+    },
+    {
+        "index": 14,
+        "start_time": 37485,
+        "end_time": 39651,
+        "text": "and increasing confusion."
+    },
+    {
+        "index": 15,
+        "start_time": 39651,
+        "end_time": 41528,
+        "text": "When the patient passed away,"
+    },
+    {
+        "index": 16,
+        "start_time": 41528,
+        "end_time": 43739,
+        "text": "Alzheimer was able to do an autopsy"
+    },
+    {
+        "index": 17,
+        "start_time": 43739,
+        "end_time": 45779,
+        "text": "and test his idea that perhaps"
+    },
+    {
+        "index": 18,
+        "start_time": 45779,
+        "end_time": 48200,
+        "text": "her symptoms were caused by irregularities"
+    },
+    {
+        "index": 19,
+        "start_time": 48200,
+        "end_time": 50163,
+        "text": "in the brain&#39;s structure."
+    },
+    {
+        "index": 20,
+        "start_time": 50163,
+        "end_time": 52114,
+        "text": "What he found beneath the microscope"
+    },
+    {
+        "index": 21,
+        "start_time": 52114,
+        "end_time": 54587,
+        "text": "were visible differences in brain tissue"
+    },
+    {
+        "index": 22,
+        "start_time": 54587,
+        "end_time": 56781,
+        "text": "in the form of misfolded proteins"
+    },
+    {
+        "index": 23,
+        "start_time": 56781,
+        "end_time": 58115,
+        "text": "called plaques,"
+    },
+    {
+        "index": 24,
+        "start_time": 58115,
+        "end_time": 60548,
+        "text": "and neurofibrillary tangles."
+    },
+    {
+        "index": 25,
+        "start_time": 60548,
+        "end_time": 62926,
+        "text": "Those plaques and tangles work together"
+    },
+    {
+        "index": 26,
+        "start_time": 62926,
+        "end_time": 65345,
+        "text": "to break down the brain&#39;s structure."
+    },
+    {
+        "index": 27,
+        "start_time": 65345,
+        "end_time": 67137,
+        "text": "Plaques arise when another protein"
+    },
+    {
+        "index": 28,
+        "start_time": 67137,
+        "end_time": 69780,
+        "text": "in the fatty membrane surrounding nerve cells"
+    },
+    {
+        "index": 29,
+        "start_time": 69780,
+        "end_time": 72477,
+        "text": "gets sliced up by a particular enzyme,"
+    },
+    {
+        "index": 30,
+        "start_time": 72477,
+        "end_time": 75062,
+        "text": "resulting in beta-amyloid proteins,"
+    },
+    {
+        "index": 31,
+        "start_time": 75062,
+        "end_time": 76861,
+        "text": "which are sticky and have a tendency"
+    },
+    {
+        "index": 32,
+        "start_time": 76861,
+        "end_time": 78448,
+        "text": "to clump together."
+    },
+    {
+        "index": 33,
+        "start_time": 78448,
+        "end_time": 80400,
+        "text": "That clumping is what forms the things"
+    },
+    {
+        "index": 34,
+        "start_time": 80400,
+        "end_time": 82531,
+        "text": "we know as plaques."
+    },
+    {
+        "index": 35,
+        "start_time": 82531,
+        "end_time": 84324,
+        "text": "These clumps block signaling"
+    },
+    {
+        "index": 36,
+        "start_time": 84324,
+        "end_time": 85826,
+        "text": "and, therefore, communication"
+    },
+    {
+        "index": 37,
+        "start_time": 85826,
+        "end_time": 88162,
+        "text": "between cells, and also seem to trigger"
+    },
+    {
+        "index": 38,
+        "start_time": 88162,
+        "end_time": 90698,
+        "text": "immune reactions that cause the destruction"
+    },
+    {
+        "index": 39,
+        "start_time": 90698,
+        "end_time": 92832,
+        "text": "of disabled nerve cells."
+    },
+    {
+        "index": 40,
+        "start_time": 92832,
+        "end_time": 95614,
+        "text": "In Alzheimer&#39;s disease, neurofibrillary tangles"
+    },
+    {
+        "index": 41,
+        "start_time": 95614,
+        "end_time": 98699,
+        "text": "are built from a protein known as tau."
+    },
+    {
+        "index": 42,
+        "start_time": 98699,
+        "end_time": 101589,
+        "text": "The brain&#39;s nerve cells contain a network of tubes"
+    },
+    {
+        "index": 43,
+        "start_time": 101589,
+        "end_time": 103613,
+        "text": "that act like a highway for food molecules"
+    },
+    {
+        "index": 44,
+        "start_time": 103613,
+        "end_time": 105176,
+        "text": "among other things."
+    },
+    {
+        "index": 45,
+        "start_time": 105176,
+        "end_time": 107719,
+        "text": "Usually, the tau protein ensures that these tubes"
+    },
+    {
+        "index": 46,
+        "start_time": 107719,
+        "end_time": 109975,
+        "text": "are straight, allowing molecules"
+    },
+    {
+        "index": 47,
+        "start_time": 109975,
+        "end_time": 111892,
+        "text": "to pass through freely."
+    },
+    {
+        "index": 48,
+        "start_time": 111892,
+        "end_time": 113601,
+        "text": "But in Alzheimer&#39;s disease,"
+    },
+    {
+        "index": 49,
+        "start_time": 113601,
+        "end_time": 117064,
+        "text": "the protein collapses into twisted strands or tangles,"
+    },
+    {
+        "index": 50,
+        "start_time": 117064,
+        "end_time": 118896,
+        "text": "making the tubes disintegrate,"
+    },
+    {
+        "index": 51,
+        "start_time": 118896,
+        "end_time": 121401,
+        "text": "obstructing nutrients from reaching the nerve cell"
+    },
+    {
+        "index": 52,
+        "start_time": 121401,
+        "end_time": 124029,
+        "text": "and leading to cell death."
+    },
+    {
+        "index": 53,
+        "start_time": 124029,
+        "end_time": 126365,
+        "text": "The destructive pairing of plaques and tangles"
+    },
+    {
+        "index": 54,
+        "start_time": 126365,
+        "end_time": 128697,
+        "text": "starts in a region called the hippocampus,"
+    },
+    {
+        "index": 55,
+        "start_time": 128697,
+        "end_time": 131116,
+        "text": "which is responsible for forming memories."
+    },
+    {
+        "index": 56,
+        "start_time": 131116,
+        "end_time": 132829,
+        "text": "That&#39;s why short-term memory loss"
+    },
+    {
+        "index": 57,
+        "start_time": 132829,
+        "end_time": 135531,
+        "text": "is usually the first symptom of Alzheimer&#39;s."
+    },
+    {
+        "index": 58,
+        "start_time": 135531,
+        "end_time": 137415,
+        "text": "The proteins then progressively invade"
+    },
+    {
+        "index": 59,
+        "start_time": 137415,
+        "end_time": 139031,
+        "text": "other parts of the brain,"
+    },
+    {
+        "index": 60,
+        "start_time": 139031,
+        "end_time": 140865,
+        "text": "creating unique changes that signal"
+    },
+    {
+        "index": 61,
+        "start_time": 140865,
+        "end_time": 143281,
+        "text": "various stages of the disease."
+    },
+    {
+        "index": 62,
+        "start_time": 143281,
+        "end_time": 144516,
+        "text": "At the front of the brain,"
+    },
+    {
+        "index": 63,
+        "start_time": 144516,
+        "end_time": 148052,
+        "text": "the proteins destroy the ability to process logical thoughts."
+    },
+    {
+        "index": 64,
+        "start_time": 148052,
+        "end_time": 151220,
+        "text": "Next, they shift to the region that controls emotions,"
+    },
+    {
+        "index": 65,
+        "start_time": 151220,
+        "end_time": 153557,
+        "text": "resulting in erratic mood changes."
+    },
+    {
+        "index": 66,
+        "start_time": 153557,
+        "end_time": 154781,
+        "text": "At the top of the brain,"
+    },
+    {
+        "index": 67,
+        "start_time": 154781,
+        "end_time": 157145,
+        "text": "they cause paranoia and hallucinations,"
+    },
+    {
+        "index": 68,
+        "start_time": 157145,
+        "end_time": 159198,
+        "text": "and once they reach the brain&#39;s rear,"
+    },
+    {
+        "index": 69,
+        "start_time": 159198,
+        "end_time": 161197,
+        "text": "the plaques and tangles work together"
+    },
+    {
+        "index": 70,
+        "start_time": 161197,
+        "end_time": 163615,
+        "text": "to erase the mind&#39;s deepest memories."
+    },
+    {
+        "index": 71,
+        "start_time": 163615,
+        "end_time": 165236,
+        "text": "Eventually the control centers governing"
+    },
+    {
+        "index": 72,
+        "start_time": 165236,
+        "end_time": 168030,
+        "text": "heart rate and breathing are overpowered as well"
+    },
+    {
+        "index": 73,
+        "start_time": 168030,
+        "end_time": 169826,
+        "text": "resulting in death."
+    },
+    {
+        "index": 74,
+        "start_time": 169826,
+        "end_time": 171865,
+        "text": "The immensely destructive nature of this disease"
+    },
+    {
+        "index": 75,
+        "start_time": 171865,
+        "end_time": 174864,
+        "text": "has inspired many researchers to look for a cure"
+    },
+    {
+        "index": 76,
+        "start_time": 174864,
+        "end_time": 178616,
+        "text": "but currently they&#39;re focused on slowing its progression."
+    },
+    {
+        "index": 77,
+        "start_time": 178616,
+        "end_time": 180003,
+        "text": "One temporary treatment"
+    },
+    {
+        "index": 78,
+        "start_time": 180003,
+        "end_time": 182630,
+        "text": "helps reduce the break down of acetylcholine,"
+    },
+    {
+        "index": 79,
+        "start_time": 182630,
+        "end_time": 185283,
+        "text": "an important chemical messenger in the brain"
+    },
+    {
+        "index": 80,
+        "start_time": 185283,
+        "end_time": 187802,
+        "text": "which is decreased in Alzheimer&#39;s patients"
+    },
+    {
+        "index": 81,
+        "start_time": 187802,
+        "end_time": 190865,
+        "text": "due to the death of the nerve cells that make it."
+    },
+    {
+        "index": 82,
+        "start_time": 190865,
+        "end_time": 193181,
+        "text": "Another possible solution is a vaccine"
+    },
+    {
+        "index": 83,
+        "start_time": 193181,
+        "end_time": 195642,
+        "text": "that trains the body&#39;s immune system to attack"
+    },
+    {
+        "index": 84,
+        "start_time": 195642,
+        "end_time": 199229,
+        "text": "beta-amyloid plaques before they can form clumps."
+    },
+    {
+        "index": 85,
+        "start_time": 199229,
+        "end_time": 202030,
+        "text": "But we still need to find an actual cure."
+    },
+    {
+        "index": 86,
+        "start_time": 202030,
+        "end_time": 203780,
+        "text": "Alzheimer&#39;s disease was discovered"
+    },
+    {
+        "index": 87,
+        "start_time": 203780,
+        "end_time": 205449,
+        "text": "more than a century ago,"
+    },
+    {
+        "index": 88,
+        "start_time": 205449,
+        "end_time": 208113,
+        "text": "and yet still it is not well understood."
+    },
+    {
+        "index": 89,
+        "start_time": 208113,
+        "end_time": 209780,
+        "text": "Perhaps one day we&#39;ll grasp"
+    },
+    {
+        "index": 90,
+        "start_time": 209780,
+        "end_time": 212696,
+        "text": "the exact mechanisms at work behind this threat"
+    },
+    {
+        "index": 91,
+        "start_time": 212696,
+        "end_time": 214910,
+        "text": "and a solution will be unearthed."
+    }
+]

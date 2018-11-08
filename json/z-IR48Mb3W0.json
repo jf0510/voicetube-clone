@@ -1,0 +1,560 @@
+[
+    {
+        "index": 1,
+        "start_time": 7668,
+        "end_time": 11309,
+        "text": "Depression is the leading cause\nof disability in the world."
+    },
+    {
+        "index": 2,
+        "start_time": 11309,
+        "end_time": 12382,
+        "text": "In the United States,"
+    },
+    {
+        "index": 3,
+        "start_time": 12382,
+        "end_time": 15683,
+        "text": "close to 10% of adults \nstruggle with depression."
+    },
+    {
+        "index": 4,
+        "start_time": 15683,
+        "end_time": 17358,
+        "text": "But because it&#39;s a mental illness,"
+    },
+    {
+        "index": 5,
+        "start_time": 17358,
+        "end_time": 21598,
+        "text": "it can be a lot harder to understand\nthan, say, high cholesterol."
+    },
+    {
+        "index": 6,
+        "start_time": 21598,
+        "end_time": 25390,
+        "text": "One major source of confusion is\nthe difference between having depression"
+    },
+    {
+        "index": 7,
+        "start_time": 25390,
+        "end_time": 27963,
+        "text": "and just feeling depressed."
+    },
+    {
+        "index": 8,
+        "start_time": 27963,
+        "end_time": 31492,
+        "text": "Almost everyone feels down\nfrom time to time."
+    },
+    {
+        "index": 9,
+        "start_time": 31492,
+        "end_time": 32711,
+        "text": "Getting a bad grade,"
+    },
+    {
+        "index": 10,
+        "start_time": 32711,
+        "end_time": 33808,
+        "text": "losing a job,"
+    },
+    {
+        "index": 11,
+        "start_time": 33808,
+        "end_time": 34831,
+        "text": "having an argument,"
+    },
+    {
+        "index": 12,
+        "start_time": 34831,
+        "end_time": 38064,
+        "text": "even a rainy day can bring on\nfeelings of sadness."
+    },
+    {
+        "index": 13,
+        "start_time": 38064,
+        "end_time": 39891,
+        "text": "Sometimes there&#39;s no trigger at all."
+    },
+    {
+        "index": 14,
+        "start_time": 39891,
+        "end_time": 42006,
+        "text": "It just pops up out of the blue."
+    },
+    {
+        "index": 15,
+        "start_time": 42006,
+        "end_time": 43549,
+        "text": "Then circumstances change,"
+    },
+    {
+        "index": 16,
+        "start_time": 43549,
+        "end_time": 46206,
+        "text": "and those sad feelings disappear."
+    },
+    {
+        "index": 17,
+        "start_time": 46206,
+        "end_time": 48419,
+        "text": "Clinical depression is different."
+    },
+    {
+        "index": 18,
+        "start_time": 48419,
+        "end_time": 49896,
+        "text": "It&#39;s a medical disorder,"
+    },
+    {
+        "index": 19,
+        "start_time": 49896,
+        "end_time": 52778,
+        "text": "and it won&#39;t go away \njust because you want it to."
+    },
+    {
+        "index": 20,
+        "start_time": 52778,
+        "end_time": 55180,
+        "text": "It lingers for at least \ntwo consecutive weeks,"
+    },
+    {
+        "index": 21,
+        "start_time": 55180,
+        "end_time": 58783,
+        "text": "and significantly interferes \nwith one&#39;s ability to work,"
+    },
+    {
+        "index": 22,
+        "start_time": 58783,
+        "end_time": 59590,
+        "text": "play,"
+    },
+    {
+        "index": 23,
+        "start_time": 59590,
+        "end_time": 60996,
+        "text": "or love."
+    },
+    {
+        "index": 24,
+        "start_time": 60996,
+        "end_time": 63277,
+        "text": "Depression can have a lot\nof different symptoms:"
+    },
+    {
+        "index": 25,
+        "start_time": 63277,
+        "end_time": 64281,
+        "text": "a low mood,"
+    },
+    {
+        "index": 26,
+        "start_time": 64281,
+        "end_time": 66912,
+        "text": "loss of interest in things\nyou&#39;d normally enjoy,"
+    },
+    {
+        "index": 27,
+        "start_time": 66912,
+        "end_time": 68485,
+        "text": "changes in appetite,"
+    },
+    {
+        "index": 28,
+        "start_time": 68485,
+        "end_time": 70835,
+        "text": "feeling worthless or excessively guilty,"
+    },
+    {
+        "index": 29,
+        "start_time": 70835,
+        "end_time": 73531,
+        "text": "sleeping either too much or too little,"
+    },
+    {
+        "index": 30,
+        "start_time": 73531,
+        "end_time": 75363,
+        "text": "poor concentration,"
+    },
+    {
+        "index": 31,
+        "start_time": 75363,
+        "end_time": 77198,
+        "text": "restlessness or slowness,"
+    },
+    {
+        "index": 32,
+        "start_time": 77198,
+        "end_time": 78681,
+        "text": "loss of energy,"
+    },
+    {
+        "index": 33,
+        "start_time": 78681,
+        "end_time": 81215,
+        "text": "or recurrent thoughts of suicide."
+    },
+    {
+        "index": 34,
+        "start_time": 81215,
+        "end_time": 83461,
+        "text": "If you have at least five\nof those symptoms,"
+    },
+    {
+        "index": 35,
+        "start_time": 83461,
+        "end_time": 85445,
+        "text": "according to psychiatric guidelines,"
+    },
+    {
+        "index": 36,
+        "start_time": 85445,
+        "end_time": 88924,
+        "text": "you qualify for a diagnosis of depression."
+    },
+    {
+        "index": 37,
+        "start_time": 88924,
+        "end_time": 91292,
+        "text": "And it&#39;s not just behavioral symptoms."
+    },
+    {
+        "index": 38,
+        "start_time": 91292,
+        "end_time": 95406,
+        "text": "Depression has physical manifestations\ninside the brain."
+    },
+    {
+        "index": 39,
+        "start_time": 95406,
+        "end_time": 96511,
+        "text": "First of all,"
+    },
+    {
+        "index": 40,
+        "start_time": 96511,
+        "end_time": 99092,
+        "text": "there are changes that could be seen\nwith the naked eye"
+    },
+    {
+        "index": 41,
+        "start_time": 99092,
+        "end_time": 100510,
+        "text": "and X-ray vision."
+    },
+    {
+        "index": 42,
+        "start_time": 100510,
+        "end_time": 104783,
+        "text": "These include smaller frontal lobes\nand hippocampal volumes."
+    },
+    {
+        "index": 43,
+        "start_time": 104783,
+        "end_time": 106871,
+        "text": "On a more microscale,"
+    },
+    {
+        "index": 44,
+        "start_time": 106871,
+        "end_time": 109351,
+        "text": "depression is associated \nwith a few things:"
+    },
+    {
+        "index": 45,
+        "start_time": 109351,
+        "end_time": 113241,
+        "text": "the abnormal transmission or depletion\nof certain neurotransmitters,"
+    },
+    {
+        "index": 46,
+        "start_time": 113241,
+        "end_time": 116870,
+        "text": "especially serotonin, norepinephrine,\nand dopamine,"
+    },
+    {
+        "index": 47,
+        "start_time": 116870,
+        "end_time": 118628,
+        "text": "blunted circadian rhythms,"
+    },
+    {
+        "index": 48,
+        "start_time": 118628,
+        "end_time": 123338,
+        "text": "or specific changes in the REM\nand slow-wave parts of your sleep cycle,"
+    },
+    {
+        "index": 49,
+        "start_time": 123338,
+        "end_time": 125303,
+        "text": "and hormone abnormalities,"
+    },
+    {
+        "index": 50,
+        "start_time": 125303,
+        "end_time": 130187,
+        "text": "such as high cortisol and deregulation\nof thyroid hormones."
+    },
+    {
+        "index": 51,
+        "start_time": 130187,
+        "end_time": 132950,
+        "text": "But neuroscientists still don&#39;t have\na complete picture"
+    },
+    {
+        "index": 52,
+        "start_time": 132950,
+        "end_time": 135101,
+        "text": "of what causes depression."
+    },
+    {
+        "index": 53,
+        "start_time": 135101,
+        "end_time": 140075,
+        "text": "It seems to have to do with a complex\ninteraction between genes and environment,"
+    },
+    {
+        "index": 54,
+        "start_time": 140075,
+        "end_time": 141839,
+        "text": "but we don&#39;t have a diagnostic tool"
+    },
+    {
+        "index": 55,
+        "start_time": 141839,
+        "end_time": 146112,
+        "text": "that can accurately predict where\nor when it will show up."
+    },
+    {
+        "index": 56,
+        "start_time": 146112,
+        "end_time": 148619,
+        "text": "And because depression symptoms\nare intangible,"
+    },
+    {
+        "index": 57,
+        "start_time": 148619,
+        "end_time": 152467,
+        "text": "it&#39;s hard to know who might look fine\nbut is actually struggling."
+    },
+    {
+        "index": 58,
+        "start_time": 152467,
+        "end_time": 154954,
+        "text": "According to the National Institute\nof Mental Health,"
+    },
+    {
+        "index": 59,
+        "start_time": 154954,
+        "end_time": 157847,
+        "text": "it takes the average person\nsuffering with a mental illness"
+    },
+    {
+        "index": 60,
+        "start_time": 157847,
+        "end_time": 161138,
+        "text": "over ten years to ask for help."
+    },
+    {
+        "index": 61,
+        "start_time": 161138,
+        "end_time": 163115,
+        "text": "But there are very effective treatments."
+    },
+    {
+        "index": 62,
+        "start_time": 163115,
+        "end_time": 167611,
+        "text": "Medications and therapy complement\neach other to boost brain chemicals."
+    },
+    {
+        "index": 63,
+        "start_time": 167611,
+        "end_time": 170631,
+        "text": "In extreme cases,\nelectroconvulsive therapy,"
+    },
+    {
+        "index": 64,
+        "start_time": 170631,
+        "end_time": 173553,
+        "text": "which is like a controlled seizure\nin the patient&#39;s brain,"
+    },
+    {
+        "index": 65,
+        "start_time": 173553,
+        "end_time": 175668,
+        "text": "is also very helpful."
+    },
+    {
+        "index": 66,
+        "start_time": 175668,
+        "end_time": 176989,
+        "text": "Other promising treatments,"
+    },
+    {
+        "index": 67,
+        "start_time": 176989,
+        "end_time": 179621,
+        "text": "like transcranial magnetic stimulation,"
+    },
+    {
+        "index": 68,
+        "start_time": 179621,
+        "end_time": 181799,
+        "text": "are being investigated, too."
+    },
+    {
+        "index": 69,
+        "start_time": 181799,
+        "end_time": 184405,
+        "text": "So, if you know someone \nstruggling with depression,"
+    },
+    {
+        "index": 70,
+        "start_time": 184405,
+        "end_time": 188777,
+        "text": "encourage them, gently, to seek out\nsome of these options."
+    },
+    {
+        "index": 71,
+        "start_time": 188777,
+        "end_time": 191176,
+        "text": "You might even offer to help\nwith specific tasks,"
+    },
+    {
+        "index": 72,
+        "start_time": 191176,
+        "end_time": 193291,
+        "text": "like looking up therapists in the area,"
+    },
+    {
+        "index": 73,
+        "start_time": 193291,
+        "end_time": 196026,
+        "text": "or making a list of questions\nto ask a doctor."
+    },
+    {
+        "index": 74,
+        "start_time": 196026,
+        "end_time": 197689,
+        "text": "To someone with depression,"
+    },
+    {
+        "index": 75,
+        "start_time": 197689,
+        "end_time": 200741,
+        "text": "these first steps can seem insurmountable."
+    },
+    {
+        "index": 76,
+        "start_time": 200741,
+        "end_time": 203026,
+        "text": "If they feel guilty or ashamed,"
+    },
+    {
+        "index": 77,
+        "start_time": 203026,
+        "end_time": 205590,
+        "text": "point out that depression \nis a medical condition,"
+    },
+    {
+        "index": 78,
+        "start_time": 205590,
+        "end_time": 207641,
+        "text": "just like asthma or diabetes."
+    },
+    {
+        "index": 79,
+        "start_time": 207641,
+        "end_time": 210274,
+        "text": "It&#39;s not a weakness \nor a personality trait,"
+    },
+    {
+        "index": 80,
+        "start_time": 210274,
+        "end_time": 213516,
+        "text": "and they shouldn&#39;t expect themselves\nto just get over it"
+    },
+    {
+        "index": 81,
+        "start_time": 213516,
+        "end_time": 216866,
+        "text": "anymore than they could will themselves\nto get over a broken arm."
+    },
+    {
+        "index": 82,
+        "start_time": 216866,
+        "end_time": 219461,
+        "text": "If you haven&#39;t experienced \ndepression yourself,"
+    },
+    {
+        "index": 83,
+        "start_time": 219461,
+        "end_time": 222804,
+        "text": "avoid comparing it to times\nyou&#39;ve felt down."
+    },
+    {
+        "index": 84,
+        "start_time": 222804,
+        "end_time": 226977,
+        "text": "Comparing what they&#39;re experiencing\nto normal, temporary feelings of sadness"
+    },
+    {
+        "index": 85,
+        "start_time": 226977,
+        "end_time": 229599,
+        "text": "can make them feel guilty for struggling."
+    },
+    {
+        "index": 86,
+        "start_time": 229599,
+        "end_time": 232936,
+        "text": "Even just talking about \ndepression openly can help."
+    },
+    {
+        "index": 87,
+        "start_time": 232936,
+        "end_time": 237315,
+        "text": "For example, research shows that asking\nsomeone about suicidal thoughts"
+    },
+    {
+        "index": 88,
+        "start_time": 237315,
+        "end_time": 239814,
+        "text": "actually reduces their suicide risk."
+    },
+    {
+        "index": 89,
+        "start_time": 239814,
+        "end_time": 243766,
+        "text": "Open conversations about mental illness\nhelp erode stigma"
+    },
+    {
+        "index": 90,
+        "start_time": 243766,
+        "end_time": 246502,
+        "text": "and make it easier \nfor people to ask for help."
+    },
+    {
+        "index": 91,
+        "start_time": 246502,
+        "end_time": 248293,
+        "text": "And the more patients seek treatment,"
+    },
+    {
+        "index": 92,
+        "start_time": 248293,
+        "end_time": 250992,
+        "text": "the more scientists will learn\nabout depression,"
+    },
+    {
+        "index": 93,
+        "start_time": 250992,
+        "end_time": 253209,
+        "text": "and the better the treatments will get."
+    }
+]

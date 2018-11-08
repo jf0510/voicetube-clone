@@ -1,0 +1,608 @@
+[
+    {
+        "index": 1,
+        "start_time": 6825,
+        "end_time": 9077,
+        "text": "Picture warm, gooey cookies,"
+    },
+    {
+        "index": 2,
+        "start_time": 9101,
+        "end_time": 12052,
+        "text": "crunchy candies, velvety cakes,"
+    },
+    {
+        "index": 3,
+        "start_time": 12076,
+        "end_time": 14670,
+        "text": "waffle cones piled high with ice cream."
+    },
+    {
+        "index": 4,
+        "start_time": 14693,
+        "end_time": 16646,
+        "text": "Is your mouth watering?"
+    },
+    {
+        "index": 5,
+        "start_time": 16670,
+        "end_time": 17867,
+        "text": "Are you craving dessert?"
+    },
+    {
+        "index": 6,
+        "start_time": 17891,
+        "end_time": 18922,
+        "text": "Why?"
+    },
+    {
+        "index": 7,
+        "start_time": 18946,
+        "end_time": 23676,
+        "text": "What happens in the brain\nthat makes sugary foods so hard to resist?"
+    },
+    {
+        "index": 8,
+        "start_time": 23700,
+        "end_time": 27089,
+        "text": "Sugar is a general term\nused to describe a class of molecules"
+    },
+    {
+        "index": 9,
+        "start_time": 27113,
+        "end_time": 28403,
+        "text": "called carbohydrates,"
+    },
+    {
+        "index": 10,
+        "start_time": 28427,
+        "end_time": 31254,
+        "text": "and it&#39;s found in a wide variety\nof food and drink."
+    },
+    {
+        "index": 11,
+        "start_time": 31278,
+        "end_time": 34418,
+        "text": "Just check the labels\non sweet products you buy."
+    },
+    {
+        "index": 12,
+        "start_time": 34442,
+        "end_time": 36910,
+        "text": "Glucose, fructose, sucrose,"
+    },
+    {
+        "index": 13,
+        "start_time": 36934,
+        "end_time": 39783,
+        "text": "maltose, lactose, dextrose, and starch"
+    },
+    {
+        "index": 14,
+        "start_time": 39807,
+        "end_time": 41762,
+        "text": "are all forms of sugar."
+    },
+    {
+        "index": 15,
+        "start_time": 41786,
+        "end_time": 43717,
+        "text": "So are high-fructose corn syrup,"
+    },
+    {
+        "index": 16,
+        "start_time": 43741,
+        "end_time": 46270,
+        "text": "fruit juice, raw sugar, and honey."
+    },
+    {
+        "index": 17,
+        "start_time": 46709,
+        "end_time": 49638,
+        "text": "And sugar isn&#39;t just\nin candies and desserts,"
+    },
+    {
+        "index": 18,
+        "start_time": 49662,
+        "end_time": 51186,
+        "text": "it&#39;s also added to tomato sauce,"
+    },
+    {
+        "index": 19,
+        "start_time": 51188,
+        "end_time": 55676,
+        "text": "yogurt, dried fruit,\nflavored waters, or granola bars."
+    },
+    {
+        "index": 20,
+        "start_time": 55700,
+        "end_time": 58663,
+        "text": "Since sugar is everywhere,\nit&#39;s important to understand"
+    },
+    {
+        "index": 21,
+        "start_time": 58687,
+        "end_time": 59882,
+        "text": "how it affects the brain."
+    },
+    {
+        "index": 22,
+        "start_time": 59906,
+        "end_time": 62251,
+        "text": "What happens when sugar hits your tongue?"
+    },
+    {
+        "index": 23,
+        "start_time": 62275,
+        "end_time": 65206,
+        "text": "And does eating a little bit of sugar\nmake you crave more?"
+    },
+    {
+        "index": 24,
+        "start_time": 65753,
+        "end_time": 67323,
+        "text": "You take a bite of cereal."
+    },
+    {
+        "index": 25,
+        "start_time": 67347,
+        "end_time": 70504,
+        "text": "The sugars it contains activate\nthe sweet-taste receptors,"
+    },
+    {
+        "index": 26,
+        "start_time": 70528,
+        "end_time": 72746,
+        "text": "part of the taste buds on the tongue."
+    },
+    {
+        "index": 27,
+        "start_time": 72770,
+        "end_time": 75747,
+        "text": "These receptors send a signal\nup to the brain stem,"
+    },
+    {
+        "index": 28,
+        "start_time": 75771,
+        "end_time": 79237,
+        "text": "and from there, it forks off\ninto many areas of the forebrain,"
+    },
+    {
+        "index": 29,
+        "start_time": 79261,
+        "end_time": 81789,
+        "text": "one of which is the cerebral cortex."
+    },
+    {
+        "index": 30,
+        "start_time": 81813,
+        "end_time": 85983,
+        "text": "Different sections of the cerebral cortex\nprocess different tastes:"
+    },
+    {
+        "index": 31,
+        "start_time": 86007,
+        "end_time": 87971,
+        "text": "bitter, salty, umami,"
+    },
+    {
+        "index": 32,
+        "start_time": 87995,
+        "end_time": 89799,
+        "text": "and, in our case, sweet."
+    },
+    {
+        "index": 33,
+        "start_time": 89823,
+        "end_time": 93416,
+        "text": "From here, the signal activates\nthe brain&#39;s reward system."
+    },
+    {
+        "index": 34,
+        "start_time": 93440,
+        "end_time": 97101,
+        "text": "This reward system is a series\nof electrical and chemical pathways"
+    },
+    {
+        "index": 35,
+        "start_time": 97125,
+        "end_time": 99725,
+        "text": "across several different\nregions of the brain."
+    },
+    {
+        "index": 36,
+        "start_time": 99749,
+        "end_time": 101035,
+        "text": "It&#39;s a complicated network,"
+    },
+    {
+        "index": 37,
+        "start_time": 101059,
+        "end_time": 104484,
+        "text": "but it helps answer a single,\nsubconscious question:"
+    },
+    {
+        "index": 38,
+        "start_time": 104508,
+        "end_time": 105853,
+        "text": "should I do that again?"
+    },
+    {
+        "index": 39,
+        "start_time": 105877,
+        "end_time": 109477,
+        "text": "That warm, fuzzy feeling you get\nwhen you taste Grandma&#39;s chocolate cake?"
+    },
+    {
+        "index": 40,
+        "start_time": 109501,
+        "end_time": 111380,
+        "text": "That&#39;s your reward system saying,"
+    },
+    {
+        "index": 41,
+        "start_time": 111404,
+        "end_time": 112916,
+        "text": "&quot;Mmm, yes!&quot;"
+    },
+    {
+        "index": 42,
+        "start_time": 112940,
+        "end_time": 115273,
+        "text": "And it&#39;s not just activated by food."
+    },
+    {
+        "index": 43,
+        "start_time": 115297,
+        "end_time": 117583,
+        "text": "Socializing, sexual behavior, and drugs"
+    },
+    {
+        "index": 44,
+        "start_time": 117607,
+        "end_time": 120710,
+        "text": "are just a few examples\nof things and experiences"
+    },
+    {
+        "index": 45,
+        "start_time": 120734,
+        "end_time": 123277,
+        "text": "that also activate the reward system."
+    },
+    {
+        "index": 46,
+        "start_time": 123301,
+        "end_time": 128645,
+        "text": "But overactivating this reward system\nkickstarts a series of unfortunate events:"
+    },
+    {
+        "index": 47,
+        "start_time": 128669,
+        "end_time": 132300,
+        "text": "loss of control, craving,\nand increased tolerance to sugar."
+    },
+    {
+        "index": 48,
+        "start_time": 133158,
+        "end_time": 135231,
+        "text": "Let&#39;s get back to our bite of cereal."
+    },
+    {
+        "index": 49,
+        "start_time": 135255,
+        "end_time": 138888,
+        "text": "It travels down into your stomach\nand eventually into your gut."
+    },
+    {
+        "index": 50,
+        "start_time": 138912,
+        "end_time": 139925,
+        "text": "And guess what?"
+    },
+    {
+        "index": 51,
+        "start_time": 139949,
+        "end_time": 142356,
+        "text": "There are sugar receptors here, too."
+    },
+    {
+        "index": 52,
+        "start_time": 142380,
+        "end_time": 144731,
+        "text": "They are not taste buds,\nbut they do send signals"
+    },
+    {
+        "index": 53,
+        "start_time": 144755,
+        "end_time": 146563,
+        "text": "telling your brain that you&#39;re full"
+    },
+    {
+        "index": 54,
+        "start_time": 146587,
+        "end_time": 148730,
+        "text": "or that your body should\nproduce more insulin"
+    },
+    {
+        "index": 55,
+        "start_time": 148754,
+        "end_time": 150979,
+        "text": "to deal with the extra sugar\nyou&#39;re eating."
+    },
+    {
+        "index": 56,
+        "start_time": 151596,
+        "end_time": 154539,
+        "text": "The major currency\nof our reward system is dopamine,"
+    },
+    {
+        "index": 57,
+        "start_time": 154563,
+        "end_time": 157129,
+        "text": "an important chemical or neurotransmitter."
+    },
+    {
+        "index": 58,
+        "start_time": 157153,
+        "end_time": 159660,
+        "text": "There are many dopamine\nreceptors in the forebrain,"
+    },
+    {
+        "index": 59,
+        "start_time": 159684,
+        "end_time": 161816,
+        "text": "but they&#39;re not evenly distributed."
+    },
+    {
+        "index": 60,
+        "start_time": 161840,
+        "end_time": 164624,
+        "text": "Certain areas contain dense\nclusters of receptors,"
+    },
+    {
+        "index": 61,
+        "start_time": 164648,
+        "end_time": 168311,
+        "text": "and these dopamine hot spots\nare a part of our reward system."
+    },
+    {
+        "index": 62,
+        "start_time": 168898,
+        "end_time": 171549,
+        "text": "Drugs like alcohol, nicotine, or heroin"
+    },
+    {
+        "index": 63,
+        "start_time": 171573,
+        "end_time": 173342,
+        "text": "send dopamine into overdrive,"
+    },
+    {
+        "index": 64,
+        "start_time": 173366,
+        "end_time": 176425,
+        "text": "leading some people\nto constantly seek that high,"
+    },
+    {
+        "index": 65,
+        "start_time": 176449,
+        "end_time": 178170,
+        "text": "in other words, to be addicted."
+    },
+    {
+        "index": 66,
+        "start_time": 178645,
+        "end_time": 183532,
+        "text": "Sugar also causes dopamine to be released,\nthough not as violently as drugs."
+    },
+    {
+        "index": 67,
+        "start_time": 183556,
+        "end_time": 186665,
+        "text": "And sugar is rare\namong dopamine-inducing foods."
+    },
+    {
+        "index": 68,
+        "start_time": 186689,
+        "end_time": 188628,
+        "text": "Broccoli, for example, has no effect,"
+    },
+    {
+        "index": 69,
+        "start_time": 188652,
+        "end_time": 190088,
+        "text": "which probably explains"
+    },
+    {
+        "index": 70,
+        "start_time": 190112,
+        "end_time": 192813,
+        "text": "why it&#39;s so hard to get\nkids to eat their veggies."
+    },
+    {
+        "index": 71,
+        "start_time": 193295,
+        "end_time": 194851,
+        "text": "Speaking of healthy foods,"
+    },
+    {
+        "index": 72,
+        "start_time": 194875,
+        "end_time": 197690,
+        "text": "let&#39;s say you&#39;re hungry\nand decide to eat a balanced meal."
+    },
+    {
+        "index": 73,
+        "start_time": 197714,
+        "end_time": 201325,
+        "text": "You do, and dopamine levels spike\nin the reward system hot spots."
+    },
+    {
+        "index": 74,
+        "start_time": 201349,
+        "end_time": 204706,
+        "text": "But if you eat that same dish\nmany days in a row,"
+    },
+    {
+        "index": 75,
+        "start_time": 204730,
+        "end_time": 208974,
+        "text": "dopamine levels will spike less and less,\neventually leveling out."
+    },
+    {
+        "index": 76,
+        "start_time": 208998,
+        "end_time": 210760,
+        "text": "That&#39;s because when it comes to food,"
+    },
+    {
+        "index": 77,
+        "start_time": 210784,
+        "end_time": 214931,
+        "text": "the brain evolved to pay special attention\nto new or different tastes."
+    },
+    {
+        "index": 78,
+        "start_time": 214955,
+        "end_time": 216061,
+        "text": "Why?"
+    },
+    {
+        "index": 79,
+        "start_time": 216085,
+        "end_time": 217245,
+        "text": "Two reasons:"
+    },
+    {
+        "index": 80,
+        "start_time": 217269,
+        "end_time": 219785,
+        "text": "first, to detect food that&#39;s gone bad."
+    },
+    {
+        "index": 81,
+        "start_time": 219809,
+        "end_time": 222729,
+        "text": "And second, because the more variety\nwe have in our diet,"
+    },
+    {
+        "index": 82,
+        "start_time": 222753,
+        "end_time": 225852,
+        "text": "the more likely we are\nto get all the nutrients we need."
+    },
+    {
+        "index": 83,
+        "start_time": 225876,
+        "end_time": 227227,
+        "text": "To keep that variety up,"
+    },
+    {
+        "index": 84,
+        "start_time": 227251,
+        "end_time": 229639,
+        "text": "we need to be able\nto recognize a new food,"
+    },
+    {
+        "index": 85,
+        "start_time": 229663,
+        "end_time": 233520,
+        "text": "and more importantly, we need\nto want to keep eating new foods."
+    },
+    {
+        "index": 86,
+        "start_time": 233544,
+        "end_time": 237343,
+        "text": "And that&#39;s why the dopamine levels off\nwhen a food becomes boring."
+    },
+    {
+        "index": 87,
+        "start_time": 237367,
+        "end_time": 238942,
+        "text": "Now, back to that meal."
+    },
+    {
+        "index": 88,
+        "start_time": 238966,
+        "end_time": 242068,
+        "text": "What happens if in place\nof the healthy, balanced dish,"
+    },
+    {
+        "index": 89,
+        "start_time": 242092,
+        "end_time": 244283,
+        "text": "you eat sugar-rich food instead?"
+    },
+    {
+        "index": 90,
+        "start_time": 244307,
+        "end_time": 247315,
+        "text": "If you rarely eat sugar\nor don&#39;t eat much at a time,"
+    },
+    {
+        "index": 91,
+        "start_time": 247339,
+        "end_time": 249949,
+        "text": "the effect is similar\nto that of the balanced meal."
+    },
+    {
+        "index": 92,
+        "start_time": 249973,
+        "end_time": 253702,
+        "text": "But if you eat too much,\nthe dopamine response does not level out."
+    },
+    {
+        "index": 93,
+        "start_time": 253726,
+        "end_time": 257721,
+        "text": "In other words, eating lots of sugar\nwill continue to feel rewarding."
+    },
+    {
+        "index": 94,
+        "start_time": 257745,
+        "end_time": 261129,
+        "text": "In this way, sugar behaves\na little bit like a drug."
+    },
+    {
+        "index": 95,
+        "start_time": 261153,
+        "end_time": 264597,
+        "text": "It&#39;s one reason people seem\nto be hooked on sugary foods."
+    },
+    {
+        "index": 96,
+        "start_time": 264621,
+        "end_time": 267513,
+        "text": "So, think back to all those\ndifferent kinds of sugar."
+    },
+    {
+        "index": 97,
+        "start_time": 267537,
+        "end_time": 270904,
+        "text": "Each one is unique,\nbut every time any sugar is consumed,"
+    },
+    {
+        "index": 98,
+        "start_time": 270928,
+        "end_time": 275265,
+        "text": "it kickstarts a domino effect in the brain\nthat sparks a rewarding feeling."
+    },
+    {
+        "index": 99,
+        "start_time": 275289,
+        "end_time": 278696,
+        "text": "Too much, too often,\nand things can go into overdrive."
+    },
+    {
+        "index": 100,
+        "start_time": 278720,
+        "end_time": 282951,
+        "text": "So, yes, overconsumption of sugar\ncan have addictive effects on the brain,"
+    },
+    {
+        "index": 101,
+        "start_time": 282975,
+        "end_time": 286178,
+        "text": "but a wedge of cake once\nin a while won&#39;t hurt you."
+    }
+]

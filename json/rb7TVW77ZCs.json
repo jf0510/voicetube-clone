@@ -1,0 +1,464 @@
+[
+    {
+        "index": 1,
+        "start_time": 7090,
+        "end_time": 10441,
+        "text": "In 1796, the scientist Edward Jenner"
+    },
+    {
+        "index": 2,
+        "start_time": 10441,
+        "end_time": 15111,
+        "text": "injected material from a cowpox virus\ninto an eight-year-old boy"
+    },
+    {
+        "index": 3,
+        "start_time": 15111,
+        "end_time": 17878,
+        "text": "with a hunch that this would provide\nthe protection needed"
+    },
+    {
+        "index": 4,
+        "start_time": 17878,
+        "end_time": 23243,
+        "text": "to save people from deadly outbreaks\nof the related smallpox virus."
+    },
+    {
+        "index": 5,
+        "start_time": 23243,
+        "end_time": 24890,
+        "text": "It was a success."
+    },
+    {
+        "index": 6,
+        "start_time": 24890,
+        "end_time": 27619,
+        "text": "The eight-year-old was inoculated\nagainst the disease"
+    },
+    {
+        "index": 7,
+        "start_time": 27619,
+        "end_time": 30930,
+        "text": "and this became the first ever vaccine."
+    },
+    {
+        "index": 8,
+        "start_time": 30930,
+        "end_time": 32723,
+        "text": "But why did it work?"
+    },
+    {
+        "index": 9,
+        "start_time": 32723,
+        "end_time": 34657,
+        "text": "To understand how vaccines function,"
+    },
+    {
+        "index": 10,
+        "start_time": 34657,
+        "end_time": 39118,
+        "text": "we need to know how the immune system\ndefends us against contagious diseases"
+    },
+    {
+        "index": 11,
+        "start_time": 39118,
+        "end_time": 40915,
+        "text": "in the first place."
+    },
+    {
+        "index": 12,
+        "start_time": 40915,
+        "end_time": 43071,
+        "text": "When foreign microbes invade us,"
+    },
+    {
+        "index": 13,
+        "start_time": 43071,
+        "end_time": 46124,
+        "text": "the immune system triggers\na series of responses"
+    },
+    {
+        "index": 14,
+        "start_time": 46124,
+        "end_time": 49756,
+        "text": "in an attempt to identify\nand remove them from our bodies."
+    },
+    {
+        "index": 15,
+        "start_time": 49756,
+        "end_time": 52806,
+        "text": "The signs that this immune\nresponse is working"
+    },
+    {
+        "index": 16,
+        "start_time": 52806,
+        "end_time": 57500,
+        "text": "are the coughing, sneezing,\ninflammation and fever we experience,"
+    },
+    {
+        "index": 17,
+        "start_time": 57500,
+        "end_time": 63414,
+        "text": "which work to trap, deter and rid the body\nof threatening things, like bacteria."
+    },
+    {
+        "index": 18,
+        "start_time": 63414,
+        "end_time": 67824,
+        "text": "These innate immune responses\nalso trigger our second line of defense,"
+    },
+    {
+        "index": 19,
+        "start_time": 67824,
+        "end_time": 70198,
+        "text": "called adaptive immunity."
+    },
+    {
+        "index": 20,
+        "start_time": 70198,
+        "end_time": 75113,
+        "text": "Special cells called B cells and T cells\nare recruited to fight microbes,"
+    },
+    {
+        "index": 21,
+        "start_time": 75113,
+        "end_time": 78331,
+        "text": "and also record information about them,"
+    },
+    {
+        "index": 22,
+        "start_time": 78331,
+        "end_time": 81479,
+        "text": "creating a memory of what\nthe invaders look like,"
+    },
+    {
+        "index": 23,
+        "start_time": 81479,
+        "end_time": 84047,
+        "text": "and how best to fight them."
+    },
+    {
+        "index": 24,
+        "start_time": 84047,
+        "end_time": 85940,
+        "text": "This know-how becomes handy"
+    },
+    {
+        "index": 25,
+        "start_time": 85940,
+        "end_time": 89472,
+        "text": "if the same pathogen\ninvades the body again."
+    },
+    {
+        "index": 26,
+        "start_time": 89472,
+        "end_time": 93520,
+        "text": "But despite this smart response,\nthere&#39;s still a risk involved."
+    },
+    {
+        "index": 27,
+        "start_time": 93520,
+        "end_time": 96696,
+        "text": "The body takes time to learn\nhow to respond to pathogens"
+    },
+    {
+        "index": 28,
+        "start_time": 96696,
+        "end_time": 98757,
+        "text": "and to build up these defenses."
+    },
+    {
+        "index": 29,
+        "start_time": 98757,
+        "end_time": 99757,
+        "text": "And even then,"
+    },
+    {
+        "index": 30,
+        "start_time": 99767,
+        "end_time": 103179,
+        "text": "if a body is too weak or young\nto fight back when it&#39;s invaded,"
+    },
+    {
+        "index": 31,
+        "start_time": 103189,
+        "end_time": 108881,
+        "text": "it might face very serious risk\nif the pathogen is particularly severe."
+    },
+    {
+        "index": 32,
+        "start_time": 108881,
+        "end_time": 111933,
+        "text": "But what if we could prepare\nthe body&#39;s immune response,"
+    },
+    {
+        "index": 33,
+        "start_time": 111933,
+        "end_time": 115080,
+        "text": "readying it before someone even got ill?"
+    },
+    {
+        "index": 34,
+        "start_time": 115080,
+        "end_time": 117491,
+        "text": "This is where vaccines come in."
+    },
+    {
+        "index": 35,
+        "start_time": 117491,
+        "end_time": 120998,
+        "text": "Using the same principles\nthat the body uses to defend itself,"
+    },
+    {
+        "index": 36,
+        "start_time": 120998,
+        "end_time": 125975,
+        "text": "scientists use vaccines to trigger\nthe body&#39;s adaptive immune system,"
+    },
+    {
+        "index": 37,
+        "start_time": 125975,
+        "end_time": 129681,
+        "text": "without exposing humans\nto the full strength disease."
+    },
+    {
+        "index": 38,
+        "start_time": 129681,
+        "end_time": 133559,
+        "text": "This has resulted in many vaccines,\nwhich each work uniquely,"
+    },
+    {
+        "index": 39,
+        "start_time": 133559,
+        "end_time": 136067,
+        "text": "separated into many different types."
+    },
+    {
+        "index": 40,
+        "start_time": 136067,
+        "end_time": 139769,
+        "text": "First, we have live attenuated vaccines."
+    },
+    {
+        "index": 41,
+        "start_time": 139769,
+        "end_time": 144748,
+        "text": "These are made of the pathogen itself\nbut a much weaker and tamer version."
+    },
+    {
+        "index": 42,
+        "start_time": 144748,
+        "end_time": 149499,
+        "text": "Next, we have inactive vaccines,\nin which the pathogens have been killed."
+    },
+    {
+        "index": 43,
+        "start_time": 149499,
+        "end_time": 152528,
+        "text": "The weakening and inactivation\nin both types of vaccine"
+    },
+    {
+        "index": 44,
+        "start_time": 152528,
+        "end_time": 156438,
+        "text": "ensures that pathogens don&#39;t develop\ninto the full blown disease."
+    },
+    {
+        "index": 45,
+        "start_time": 156438,
+        "end_time": 160298,
+        "text": "But just like a disease,\nthey trigger an immune response,"
+    },
+    {
+        "index": 46,
+        "start_time": 160298,
+        "end_time": 162452,
+        "text": "teaching the body to recognize an attack"
+    },
+    {
+        "index": 47,
+        "start_time": 162452,
+        "end_time": 166248,
+        "text": "by making a profile\nof pathogens in preparation."
+    },
+    {
+        "index": 48,
+        "start_time": 166248,
+        "end_time": 171049,
+        "text": "The downside is that live attenuated\nvaccines can be difficult to make,"
+    },
+    {
+        "index": 49,
+        "start_time": 171049,
+        "end_time": 173249,
+        "text": "and because they&#39;re live\nand quite powerful,"
+    },
+    {
+        "index": 50,
+        "start_time": 173249,
+        "end_time": 176589,
+        "text": "people with weaker immune systems\ncan&#39;t have them,"
+    },
+    {
+        "index": 51,
+        "start_time": 176589,
+        "end_time": 180963,
+        "text": "while inactive vaccines\ndon&#39;t create long-lasting immunity."
+    },
+    {
+        "index": 52,
+        "start_time": 180963,
+        "end_time": 183790,
+        "text": "Another type, the subunit vaccine,"
+    },
+    {
+        "index": 53,
+        "start_time": 183790,
+        "end_time": 188033,
+        "text": "is only made from one part\nof the pathogen, called an antigen,"
+    },
+    {
+        "index": 54,
+        "start_time": 188033,
+        "end_time": 191569,
+        "text": "the ingredient that actually triggers\nthe immune response."
+    },
+    {
+        "index": 55,
+        "start_time": 191569,
+        "end_time": 194946,
+        "text": "By even further isolating\nspecific components of antigens,"
+    },
+    {
+        "index": 56,
+        "start_time": 194946,
+        "end_time": 197383,
+        "text": "like proteins or polysaccharides,"
+    },
+    {
+        "index": 57,
+        "start_time": 197383,
+        "end_time": 201753,
+        "text": "these vaccines can prompt\nspecific responses."
+    },
+    {
+        "index": 58,
+        "start_time": 201753,
+        "end_time": 205671,
+        "text": "Scientists are now building\na whole new range of vaccines"
+    },
+    {
+        "index": 59,
+        "start_time": 205671,
+        "end_time": 207171,
+        "text": "called DNA vaccines."
+    },
+    {
+        "index": 60,
+        "start_time": 207171,
+        "end_time": 212029,
+        "text": "For this variety, they isolate the very\ngenes that make the specific antigens"
+    },
+    {
+        "index": 61,
+        "start_time": 212029,
+        "end_time": 216566,
+        "text": "the body needs to trigger its immune\nresponse to specific pathogens."
+    },
+    {
+        "index": 62,
+        "start_time": 216566,
+        "end_time": 218720,
+        "text": "When injected into the human body,"
+    },
+    {
+        "index": 63,
+        "start_time": 218720,
+        "end_time": 222538,
+        "text": "those genes instruct cells\nin the body to make the antigens."
+    },
+    {
+        "index": 64,
+        "start_time": 222538,
+        "end_time": 224980,
+        "text": "This causes a stronger immune response,"
+    },
+    {
+        "index": 65,
+        "start_time": 224980,
+        "end_time": 227912,
+        "text": "and prepares the body\nfor any future threats,"
+    },
+    {
+        "index": 66,
+        "start_time": 227912,
+        "end_time": 231382,
+        "text": "and because the vaccine only includes\nspecific genetic material,"
+    },
+    {
+        "index": 67,
+        "start_time": 231382,
+        "end_time": 235004,
+        "text": "it doesn&#39;t contain any other ingredients\nfrom the rest of the pathogen"
+    },
+    {
+        "index": 68,
+        "start_time": 235004,
+        "end_time": 238605,
+        "text": "that could develop into the disease\nand harm the patient."
+    },
+    {
+        "index": 69,
+        "start_time": 238605,
+        "end_time": 240881,
+        "text": "If these vaccines become a success,"
+    },
+    {
+        "index": 70,
+        "start_time": 240881,
+        "end_time": 243515,
+        "text": "we might be able to build\nmore effective treatments"
+    },
+    {
+        "index": 71,
+        "start_time": 243515,
+        "end_time": 246152,
+        "text": "for invasive pathogens in years to come."
+    },
+    {
+        "index": 72,
+        "start_time": 246152,
+        "end_time": 248370,
+        "text": "Just like Edward Jenner&#39;s\namazing discovery"
+    },
+    {
+        "index": 73,
+        "start_time": 248370,
+        "end_time": 251656,
+        "text": "spurred on modern medicine\nall those decades ago,"
+    },
+    {
+        "index": 74,
+        "start_time": 251656,
+        "end_time": 253685,
+        "text": "continuing the development of vaccines"
+    },
+    {
+        "index": 75,
+        "start_time": 253685,
+        "end_time": 256894,
+        "text": "might even allow us\nto treat diseases like HIV,"
+    },
+    {
+        "index": 76,
+        "start_time": 256894,
+        "end_time": 257894,
+        "text": "malaria,"
+    },
+    {
+        "index": 77,
+        "start_time": 257898,
+        "end_time": 259608,
+        "text": "or Ebola, one day."
+    }
+]

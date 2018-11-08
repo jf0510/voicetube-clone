@@ -1,0 +1,512 @@
+[
+    {
+        "index": 1,
+        "start_time": 7989,
+        "end_time": 10718,
+        "text": "On the night of January 1, 1801,"
+    },
+    {
+        "index": 2,
+        "start_time": 10718,
+        "end_time": 13949,
+        "text": "Giuseppe Piazzi, \na priest in Palermo, Italy,"
+    },
+    {
+        "index": 3,
+        "start_time": 13949,
+        "end_time": 16649,
+        "text": "was mapping the stars in the sky."
+    },
+    {
+        "index": 4,
+        "start_time": 16649,
+        "end_time": 19919,
+        "text": "Over three nights, he&#39;d look at and draw\nthe same set of stars,"
+    },
+    {
+        "index": 5,
+        "start_time": 19919,
+        "end_time": 23000,
+        "text": "carefully measuring \ntheir relative positions."
+    },
+    {
+        "index": 6,
+        "start_time": 23000,
+        "end_time": 25378,
+        "text": "That night, he measured the stars."
+    },
+    {
+        "index": 7,
+        "start_time": 25378,
+        "end_time": 27569,
+        "text": "The next night, he measured them again."
+    },
+    {
+        "index": 8,
+        "start_time": 27569,
+        "end_time": 30679,
+        "text": "To his surprise, one had moved."
+    },
+    {
+        "index": 9,
+        "start_time": 30679,
+        "end_time": 33800,
+        "text": "The third night, the peculiar star\nhad moved again."
+    },
+    {
+        "index": 10,
+        "start_time": 33800,
+        "end_time": 36101,
+        "text": "This meant it couldn&#39;t be a star at all."
+    },
+    {
+        "index": 11,
+        "start_time": 36101,
+        "end_time": 39892,
+        "text": "It was something new, the first asteroid\never discovered,"
+    },
+    {
+        "index": 12,
+        "start_time": 39892,
+        "end_time": 43380,
+        "text": "which Piazzi eventually named Ceres."
+    },
+    {
+        "index": 13,
+        "start_time": 43380,
+        "end_time": 46865,
+        "text": "Asteroids are bits of rock and metal\nthat orbit the Sun."
+    },
+    {
+        "index": 14,
+        "start_time": 46865,
+        "end_time": 52014,
+        "text": "At over 900 kilometers across,\nCeres is a very large asteroid."
+    },
+    {
+        "index": 15,
+        "start_time": 52014,
+        "end_time": 53888,
+        "text": "But through a telescope, like Piazzi&#39;s,"
+    },
+    {
+        "index": 16,
+        "start_time": 53888,
+        "end_time": 58151,
+        "text": "Ceres looked like a pinpoint of light\nsimilar to a star."
+    },
+    {
+        "index": 17,
+        "start_time": 58151,
+        "end_time": 61122,
+        "text": "In fact, the word asteroid \nmeans star-like."
+    },
+    {
+        "index": 18,
+        "start_time": 61122,
+        "end_time": 63101,
+        "text": "You can tell the difference between stars"
+    },
+    {
+        "index": 19,
+        "start_time": 63101,
+        "end_time": 66041,
+        "text": "and asteroids by \nthe way they move across the sky."
+    },
+    {
+        "index": 20,
+        "start_time": 66041,
+        "end_time": 69212,
+        "text": "Of course, Piazzi knew \nnone of that at the time,"
+    },
+    {
+        "index": 21,
+        "start_time": 69212,
+        "end_time": 71752,
+        "text": "just that he had discovered something new."
+    },
+    {
+        "index": 22,
+        "start_time": 71752,
+        "end_time": 73072,
+        "text": "To learn about Ceres,"
+    },
+    {
+        "index": 23,
+        "start_time": 73072,
+        "end_time": 75733,
+        "text": "Piazzi needed to track \nits motion across the sky"
+    },
+    {
+        "index": 24,
+        "start_time": 75733,
+        "end_time": 79182,
+        "text": "and then calculate \nits orbit around the Sun."
+    },
+    {
+        "index": 25,
+        "start_time": 79182,
+        "end_time": 83833,
+        "text": "So each clear night, Piazzi\ntrained his telescope to the heavens."
+    },
+    {
+        "index": 26,
+        "start_time": 83833,
+        "end_time": 86303,
+        "text": "Night after night, \nhe made careful measurements"
+    },
+    {
+        "index": 27,
+        "start_time": 86303,
+        "end_time": 88323,
+        "text": "until finally, he couldn&#39;t."
+    },
+    {
+        "index": 28,
+        "start_time": 88323,
+        "end_time": 90182,
+        "text": "The Sun got in the way."
+    },
+    {
+        "index": 29,
+        "start_time": 90182,
+        "end_time": 95087,
+        "text": "When Piazzi first spotted Ceres,\nit was here, and the Earth was here."
+    },
+    {
+        "index": 30,
+        "start_time": 95087,
+        "end_time": 99373,
+        "text": "As he tracked it each night,\nthe Earth and Ceres moved like this"
+    },
+    {
+        "index": 31,
+        "start_time": 99373,
+        "end_time": 101634,
+        "text": "until Ceres was here."
+    },
+    {
+        "index": 32,
+        "start_time": 101634,
+        "end_time": 106454,
+        "text": "And that meant that Ceres was only\nin the sky when it was daytime on Earth."
+    },
+    {
+        "index": 33,
+        "start_time": 106454,
+        "end_time": 111424,
+        "text": "During the day, bright sunlight made \nthis small asteroid impossible to see."
+    },
+    {
+        "index": 34,
+        "start_time": 111424,
+        "end_time": 115069,
+        "text": "Astronomers needed to calculate\nCeres&#39;s orbit."
+    },
+    {
+        "index": 35,
+        "start_time": 115069,
+        "end_time": 117554,
+        "text": "This would let them predict where\nit was going to be"
+    },
+    {
+        "index": 36,
+        "start_time": 117554,
+        "end_time": 120821,
+        "text": "in the vast night sky on any given night."
+    },
+    {
+        "index": 37,
+        "start_time": 120821,
+        "end_time": 124733,
+        "text": "But the calculations were grueling\nand the results imprecise."
+    },
+    {
+        "index": 38,
+        "start_time": 124733,
+        "end_time": 127015,
+        "text": "Many astronomers searched for Ceres,"
+    },
+    {
+        "index": 39,
+        "start_time": 127015,
+        "end_time": 130716,
+        "text": "but not knowing exactly where to look,\nno one could find it."
+    },
+    {
+        "index": 40,
+        "start_time": 130716,
+        "end_time": 134937,
+        "text": "Luckily, a hardworking mathematician\nnamed Carl Friedrich Gauss"
+    },
+    {
+        "index": 41,
+        "start_time": 134937,
+        "end_time": 137444,
+        "text": "heard about the lost asteroid."
+    },
+    {
+        "index": 42,
+        "start_time": 137444,
+        "end_time": 140706,
+        "text": "He thought it was an exciting puzzle\nand went to work."
+    },
+    {
+        "index": 43,
+        "start_time": 140706,
+        "end_time": 143935,
+        "text": "When he realized he didn&#39;t have\nthe mathematical methods he needed,"
+    },
+    {
+        "index": 44,
+        "start_time": 143935,
+        "end_time": 147754,
+        "text": "he invented new ones \nthat we still use today."
+    },
+    {
+        "index": 45,
+        "start_time": 147754,
+        "end_time": 152586,
+        "text": "He derived a new orbit and new predictions\nof where to look for Ceres."
+    },
+    {
+        "index": 46,
+        "start_time": 152586,
+        "end_time": 156077,
+        "text": "Hungarian astronomer\nBaron Franz Xaver von Zach"
+    },
+    {
+        "index": 47,
+        "start_time": 156077,
+        "end_time": 159167,
+        "text": "searched for Ceres \nwith Gauss&#39;s predictions."
+    },
+    {
+        "index": 48,
+        "start_time": 159167,
+        "end_time": 161424,
+        "text": "After weeks of frustrating clouds,"
+    },
+    {
+        "index": 49,
+        "start_time": 161424,
+        "end_time": 166776,
+        "text": "von Zach finally had clear skies\non December 31, 1801."
+    },
+    {
+        "index": 50,
+        "start_time": 166776,
+        "end_time": 170396,
+        "text": "He looked through his telescope\nand finally saw Ceres."
+    },
+    {
+        "index": 51,
+        "start_time": 170396,
+        "end_time": 173116,
+        "text": "We haven&#39;t lost track of it since."
+    },
+    {
+        "index": 52,
+        "start_time": 173116,
+        "end_time": 177517,
+        "text": "Today, we&#39;ve discovered hundreds\nof thousands of asteroids."
+    },
+    {
+        "index": 53,
+        "start_time": 177517,
+        "end_time": 181707,
+        "text": "Many, including Ceres, orbit the Sun\nbetween Mars and Jupiter,"
+    },
+    {
+        "index": 54,
+        "start_time": 181707,
+        "end_time": 186136,
+        "text": "while near-Earth asteroids orbit\nthe Sun relatively close to Earth."
+    },
+    {
+        "index": 55,
+        "start_time": 186136,
+        "end_time": 188058,
+        "text": "When we recorded this narration,"
+    },
+    {
+        "index": 56,
+        "start_time": 188058,
+        "end_time": 193538,
+        "text": "astronomers had discovered \n16,407 near-Earth asteroids,"
+    },
+    {
+        "index": 57,
+        "start_time": 193538,
+        "end_time": 195766,
+        "text": "but since we find \nnew asteroids all the time,"
+    },
+    {
+        "index": 58,
+        "start_time": 195766,
+        "end_time": 198589,
+        "text": "that number will have grown\nby hundreds or thousands"
+    },
+    {
+        "index": 59,
+        "start_time": 198589,
+        "end_time": 201699,
+        "text": "by the time you watch this."
+    },
+    {
+        "index": 60,
+        "start_time": 201699,
+        "end_time": 204408,
+        "text": "Today, asteroid hunters \nuse modern telescopes,"
+    },
+    {
+        "index": 61,
+        "start_time": 204408,
+        "end_time": 206780,
+        "text": "including one in space."
+    },
+    {
+        "index": 62,
+        "start_time": 206780,
+        "end_time": 208532,
+        "text": "Computers analyze the images,"
+    },
+    {
+        "index": 63,
+        "start_time": 208532,
+        "end_time": 210039,
+        "text": "and humans check the output"
+    },
+    {
+        "index": 64,
+        "start_time": 210039,
+        "end_time": 214099,
+        "text": "before reporting the asteroid observations\nto an archiving center."
+    },
+    {
+        "index": 65,
+        "start_time": 214099,
+        "end_time": 217869,
+        "text": "Each discovered asteroid has its unique\norbit measured."
+    },
+    {
+        "index": 66,
+        "start_time": 217869,
+        "end_time": 221661,
+        "text": "An orbit lets astronomers predict \nwhere asteroids are going to be"
+    },
+    {
+        "index": 67,
+        "start_time": 221661,
+        "end_time": 224061,
+        "text": "at any given time."
+    },
+    {
+        "index": 68,
+        "start_time": 224061,
+        "end_time": 227667,
+        "text": "Most asteroid trajectories can be\npredicted for about 80 years"
+    },
+    {
+        "index": 69,
+        "start_time": 227667,
+        "end_time": 231640,
+        "text": "though we can calculate where the best\nstudied asteroids will be every day"
+    },
+    {
+        "index": 70,
+        "start_time": 231640,
+        "end_time": 235560,
+        "text": "between now and \n800 years into the future."
+    },
+    {
+        "index": 71,
+        "start_time": 235560,
+        "end_time": 237449,
+        "text": "We must keep searching for asteroids"
+    },
+    {
+        "index": 72,
+        "start_time": 237449,
+        "end_time": 241399,
+        "text": "in case there&#39;s one out there\non a collision course with Earth."
+    },
+    {
+        "index": 73,
+        "start_time": 241399,
+        "end_time": 244300,
+        "text": "Astronomers don&#39;t only \nsearch for asteroids, though."
+    },
+    {
+        "index": 74,
+        "start_time": 244300,
+        "end_time": 246619,
+        "text": "They also study them \nto learn how they formed,"
+    },
+    {
+        "index": 75,
+        "start_time": 246619,
+        "end_time": 247900,
+        "text": "what they&#39;re made of,"
+    },
+    {
+        "index": 76,
+        "start_time": 247900,
+        "end_time": 250950,
+        "text": "and what they can tell us \nabout our solar system."
+    },
+    {
+        "index": 77,
+        "start_time": 250950,
+        "end_time": 254861,
+        "text": "Today, we can do something that Piazzi\ncould only dream of:"
+    },
+    {
+        "index": 78,
+        "start_time": 254861,
+        "end_time": 258551,
+        "text": "send spacecraft to study \nasteroids up close."
+    },
+    {
+        "index": 79,
+        "start_time": 258551,
+        "end_time": 261560,
+        "text": "One spacecraft called Dawn\njourneyed billions of kilometers"
+    },
+    {
+        "index": 80,
+        "start_time": 261560,
+        "end_time": 265141,
+        "text": "over four years to the main asteroid belt."
+    },
+    {
+        "index": 81,
+        "start_time": 265141,
+        "end_time": 269431,
+        "text": "There, it visited Ceres\nand another asteroid, Vesta."
+    },
+    {
+        "index": 82,
+        "start_time": 269431,
+        "end_time": 273191,
+        "text": "Dawn&#39;s stunning images transformed\nPiazzi&#39;s dot of light"
+    },
+    {
+        "index": 83,
+        "start_time": 273191,
+        "end_time": 276191,
+        "text": "into a spectacular landscape\nof craters,"
+    },
+    {
+        "index": 84,
+        "start_time": 276191,
+        "end_time": 277200,
+        "text": "landslides,"
+    },
+    {
+        "index": 85,
+        "start_time": 277200,
+        "end_time": 278510,
+        "text": "and mountains."
+    }
+]

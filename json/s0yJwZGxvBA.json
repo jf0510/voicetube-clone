@@ -1,0 +1,758 @@
+[
+    {
+        "index": 1,
+        "start_time": 6563,
+        "end_time": 10701,
+        "text": "So my name is Kakani Katija,\nand I&#39;m a bioengineer."
+    },
+    {
+        "index": 2,
+        "start_time": 10701,
+        "end_time": 14494,
+        "text": "I study marine organisms \nin their natural environment."
+    },
+    {
+        "index": 3,
+        "start_time": 14494,
+        "end_time": 15941,
+        "text": "And what I want to point out,"
+    },
+    {
+        "index": 4,
+        "start_time": 15941,
+        "end_time": 18404,
+        "text": "and at least you can see this\nin this visualization,"
+    },
+    {
+        "index": 5,
+        "start_time": 18404,
+        "end_time": 21453,
+        "text": "is that the ocean environment\nis a dynamic place."
+    },
+    {
+        "index": 6,
+        "start_time": 21453,
+        "end_time": 23887,
+        "text": "What you&#39;re seeing \nare the kinds of currents,"
+    },
+    {
+        "index": 7,
+        "start_time": 23887,
+        "end_time": 25141,
+        "text": "as well as the whirls,"
+    },
+    {
+        "index": 8,
+        "start_time": 25141,
+        "end_time": 27671,
+        "text": "that are left behind in the ocean\nbecause of tides"
+    },
+    {
+        "index": 9,
+        "start_time": 27671,
+        "end_time": 29181,
+        "text": "or because of winds."
+    },
+    {
+        "index": 10,
+        "start_time": 29181,
+        "end_time": 32361,
+        "text": "And imagine a marine organism\nas living in this environment,"
+    },
+    {
+        "index": 11,
+        "start_time": 32361,
+        "end_time": 34820,
+        "text": "and they&#39;re trying to undergo\ntheir entire lives"
+    },
+    {
+        "index": 12,
+        "start_time": 34820,
+        "end_time": 37556,
+        "text": "while dealing with currents like these."
+    },
+    {
+        "index": 13,
+        "start_time": 37556,
+        "end_time": 39159,
+        "text": "But what I also want to point out"
+    },
+    {
+        "index": 14,
+        "start_time": 39159,
+        "end_time": 43907,
+        "text": "is that small organisms also create\nsmall fluid motions, as well."
+    },
+    {
+        "index": 15,
+        "start_time": 43907,
+        "end_time": 46983,
+        "text": "And it&#39;s these fluid motions that I study."
+    },
+    {
+        "index": 16,
+        "start_time": 46983,
+        "end_time": 49903,
+        "text": "And we can think about them\nlike being footprints."
+    },
+    {
+        "index": 17,
+        "start_time": 49903,
+        "end_time": 54206,
+        "text": "So this is my dog Kieran,\nand take a look at her footprints."
+    },
+    {
+        "index": 18,
+        "start_time": 54206,
+        "end_time": 56957,
+        "text": "Footprints provide a lot of information."
+    },
+    {
+        "index": 19,
+        "start_time": 56957,
+        "end_time": 59640,
+        "text": "Not only do they tell us what kind\nof organism left them,"
+    },
+    {
+        "index": 20,
+        "start_time": 59640,
+        "end_time": 62899,
+        "text": "they might also tell us something about\nwhen that organism was there,"
+    },
+    {
+        "index": 21,
+        "start_time": 62899,
+        "end_time": 66409,
+        "text": "but also what kind of behavior,\nwere they running or were they walking?"
+    },
+    {
+        "index": 22,
+        "start_time": 66409,
+        "end_time": 69837,
+        "text": "And so terrestrial organisms,\nlike my cute dog Kieran,"
+    },
+    {
+        "index": 23,
+        "start_time": 69837,
+        "end_time": 74644,
+        "text": "might be leaving footprints behind\nin dirt or in sand,"
+    },
+    {
+        "index": 24,
+        "start_time": 74644,
+        "end_time": 80848,
+        "text": "but marine organisms leave footprints in\nthe form of what we call wake structures,"
+    },
+    {
+        "index": 25,
+        "start_time": 80848,
+        "end_time": 82768,
+        "text": "or hydrodynamic signatures,"
+    },
+    {
+        "index": 26,
+        "start_time": 82768,
+        "end_time": 83861,
+        "text": "in fluid."
+    },
+    {
+        "index": 27,
+        "start_time": 83861,
+        "end_time": 86807,
+        "text": "Now imagine, it&#39;s really hard to see these\nkinds of structures"
+    },
+    {
+        "index": 28,
+        "start_time": 86807,
+        "end_time": 88794,
+        "text": "because fluid is transparent."
+    },
+    {
+        "index": 29,
+        "start_time": 88794,
+        "end_time": 93844,
+        "text": "However, if we add something to the fluid,\nwe get a completely different picture."
+    },
+    {
+        "index": 30,
+        "start_time": 93844,
+        "end_time": 96938,
+        "text": "And you can see that these footprints\nthat marine organisms create"
+    },
+    {
+        "index": 31,
+        "start_time": 96938,
+        "end_time": 98481,
+        "text": "are just dynamic."
+    },
+    {
+        "index": 32,
+        "start_time": 98481,
+        "end_time": 100082,
+        "text": "They are constantly changing."
+    },
+    {
+        "index": 33,
+        "start_time": 100082,
+        "end_time": 103645,
+        "text": "And marine organisms also have the ability\nto sense these signatures."
+    },
+    {
+        "index": 34,
+        "start_time": 103645,
+        "end_time": 105955,
+        "text": "They can also inform decisions,"
+    },
+    {
+        "index": 35,
+        "start_time": 105955,
+        "end_time": 109418,
+        "text": "like whether or not they want to continue\nfollowing a signature like this"
+    },
+    {
+        "index": 36,
+        "start_time": 109418,
+        "end_time": 111492,
+        "text": "to find a mate or to find food,"
+    },
+    {
+        "index": 37,
+        "start_time": 111492,
+        "end_time": 115421,
+        "text": "or maybe avoid these signatures\nto avoid being eaten."
+    },
+    {
+        "index": 38,
+        "start_time": 115421,
+        "end_time": 117662,
+        "text": "So imagine the ability to be able"
+    },
+    {
+        "index": 39,
+        "start_time": 117662,
+        "end_time": 121825,
+        "text": "to not only see \nor visualize these kinds of signatures,"
+    },
+    {
+        "index": 40,
+        "start_time": 121825,
+        "end_time": 123788,
+        "text": "but to also measure them."
+    },
+    {
+        "index": 41,
+        "start_time": 123788,
+        "end_time": 126442,
+        "text": "This is the engineering side of what I do."
+    },
+    {
+        "index": 42,
+        "start_time": 126442,
+        "end_time": 130425,
+        "text": "And so what I&#39;ve done is I actually took\na laboratory technique"
+    },
+    {
+        "index": 43,
+        "start_time": 130425,
+        "end_time": 133666,
+        "text": "and miniaturized it \nand basically shrunk it down"
+    },
+    {
+        "index": 44,
+        "start_time": 133666,
+        "end_time": 136115,
+        "text": "into the use of underwater housings"
+    },
+    {
+        "index": 45,
+        "start_time": 136115,
+        "end_time": 139959,
+        "text": "to make a device \nthat a single scuba diver can use."
+    },
+    {
+        "index": 46,
+        "start_time": 139959,
+        "end_time": 144231,
+        "text": "And so a single scuba diver can go\nanywhere from the surface to 40 meters,"
+    },
+    {
+        "index": 47,
+        "start_time": 144231,
+        "end_time": 145840,
+        "text": "or 120 feet deep,"
+    },
+    {
+        "index": 48,
+        "start_time": 145840,
+        "end_time": 150711,
+        "text": "to measure the hydrodynamic signatures\nthat organisms create."
+    },
+    {
+        "index": 49,
+        "start_time": 150711,
+        "end_time": 151568,
+        "text": "Before I begin,"
+    },
+    {
+        "index": 50,
+        "start_time": 151568,
+        "end_time": 156040,
+        "text": "I want to immerse you into what \nthese kinds of measurements require."
+    },
+    {
+        "index": 51,
+        "start_time": 156040,
+        "end_time": 159539,
+        "text": "So in order to work,\nwe actually dive at night,"
+    },
+    {
+        "index": 52,
+        "start_time": 159539,
+        "end_time": 163866,
+        "text": "and this is because we&#39;re trying\nto minimize any interactions"
+    },
+    {
+        "index": 53,
+        "start_time": 163866,
+        "end_time": 166166,
+        "text": "between the laser and sunlight"
+    },
+    {
+        "index": 54,
+        "start_time": 166166,
+        "end_time": 168775,
+        "text": "and we&#39;re diving in complete darkness"
+    },
+    {
+        "index": 55,
+        "start_time": 168775,
+        "end_time": 172249,
+        "text": "because we do not want to scare away\nthe organisms we&#39;re trying to study."
+    },
+    {
+        "index": 56,
+        "start_time": 172249,
+        "end_time": 175085,
+        "text": "And then once we find the organisms\nwe&#39;re interested in,"
+    },
+    {
+        "index": 57,
+        "start_time": 175085,
+        "end_time": 177708,
+        "text": "we turn on a green laser."
+    },
+    {
+        "index": 58,
+        "start_time": 177708,
+        "end_time": 181987,
+        "text": "And this green laser is actually \nilluminating a sheet of fluid,"
+    },
+    {
+        "index": 59,
+        "start_time": 181987,
+        "end_time": 182989,
+        "text": "and in that fluid,"
+    },
+    {
+        "index": 60,
+        "start_time": 182989,
+        "end_time": 187219,
+        "text": "it&#39;s reflecting off of particles\nthat are found everywhere in the ocean."
+    },
+    {
+        "index": 61,
+        "start_time": 187219,
+        "end_time": 190270,
+        "text": "And so as an animal swims through\nthis laser sheet,"
+    },
+    {
+        "index": 62,
+        "start_time": 190270,
+        "end_time": 193971,
+        "text": "you can see these particles \nare moving over time,"
+    },
+    {
+        "index": 63,
+        "start_time": 193971,
+        "end_time": 197717,
+        "text": "and so we actually risk our lives\nto get this kind of data."
+    },
+    {
+        "index": 64,
+        "start_time": 197717,
+        "end_time": 198972,
+        "text": "What you&#39;re going to see"
+    },
+    {
+        "index": 65,
+        "start_time": 198972,
+        "end_time": 201593,
+        "text": "is that on the left these \ntwo particles images"
+    },
+    {
+        "index": 66,
+        "start_time": 201593,
+        "end_time": 204165,
+        "text": "that shows the displacement \nof fluid over time,"
+    },
+    {
+        "index": 67,
+        "start_time": 204165,
+        "end_time": 206154,
+        "text": "and using that data,"
+    },
+    {
+        "index": 68,
+        "start_time": 206154,
+        "end_time": 209195,
+        "text": "you can actually extract what the velocity\nof that fluid is,"
+    },
+    {
+        "index": 69,
+        "start_time": 209195,
+        "end_time": 212756,
+        "text": "and that&#39;s indicated by the vector plots\nthat you see in the middle."
+    },
+    {
+        "index": 70,
+        "start_time": 212756,
+        "end_time": 214520,
+        "text": "And then we can use that data"
+    },
+    {
+        "index": 71,
+        "start_time": 214520,
+        "end_time": 216766,
+        "text": "to answer a variety \nof different questions,"
+    },
+    {
+        "index": 72,
+        "start_time": 216766,
+        "end_time": 219694,
+        "text": "not only to understand the rotational\nsense of that fluid,"
+    },
+    {
+        "index": 73,
+        "start_time": 219694,
+        "end_time": 221136,
+        "text": "which you see on the right,"
+    },
+    {
+        "index": 74,
+        "start_time": 221136,
+        "end_time": 224021,
+        "text": "but also estimate something \nabout energetics,"
+    },
+    {
+        "index": 75,
+        "start_time": 224021,
+        "end_time": 227893,
+        "text": "or the kinds of forces that act on\nthese organisms or on the fluid,"
+    },
+    {
+        "index": 76,
+        "start_time": 227893,
+        "end_time": 230748,
+        "text": "and also evaluate swimming\nand feeding performance."
+    },
+    {
+        "index": 77,
+        "start_time": 230748,
+        "end_time": 233888,
+        "text": "We&#39;ve used this technique on a variety\nof different organisms,"
+    },
+    {
+        "index": 78,
+        "start_time": 233888,
+        "end_time": 236299,
+        "text": "but remember, there&#39;s an issue here."
+    },
+    {
+        "index": 79,
+        "start_time": 236299,
+        "end_time": 240915,
+        "text": "We&#39;re only able to study organisms\nthat a scuba diver can reach."
+    },
+    {
+        "index": 80,
+        "start_time": 240915,
+        "end_time": 244965,
+        "text": "And so before I finish, I want to tell you\nwhat the next frontier is"
+    },
+    {
+        "index": 81,
+        "start_time": 244965,
+        "end_time": 247950,
+        "text": "in terms of these kinds of measurements."
+    },
+    {
+        "index": 82,
+        "start_time": 247950,
+        "end_time": 252287,
+        "text": "And with collaborators at \nMonterey Bay Aquarium Research Institute,"
+    },
+    {
+        "index": 83,
+        "start_time": 252287,
+        "end_time": 256528,
+        "text": "we&#39;re developing instrumentation\nto go on remotely opperated vehicles"
+    },
+    {
+        "index": 84,
+        "start_time": 256528,
+        "end_time": 261799,
+        "text": "so we can study organisms anywhere\nfrom the surface down to 4000 meters,"
+    },
+    {
+        "index": 85,
+        "start_time": 261799,
+        "end_time": 263495,
+        "text": "or two and a half miles."
+    },
+    {
+        "index": 86,
+        "start_time": 263495,
+        "end_time": 266836,
+        "text": "And so we can answer really\ninteresting questions about this organism,"
+    },
+    {
+        "index": 87,
+        "start_time": 266836,
+        "end_time": 268547,
+        "text": "this is a larvacean,"
+    },
+    {
+        "index": 88,
+        "start_time": 268547,
+        "end_time": 273952,
+        "text": "that creates a feeding current and forces\nfluids through their mucus house"
+    },
+    {
+        "index": 89,
+        "start_time": 273952,
+        "end_time": 275949,
+        "text": "and extracts nutrients."
+    },
+    {
+        "index": 90,
+        "start_time": 275949,
+        "end_time": 277139,
+        "text": "And then this animal,"
+    },
+    {
+        "index": 91,
+        "start_time": 277139,
+        "end_time": 279091,
+        "text": "this is a siphonophore,"
+    },
+    {
+        "index": 92,
+        "start_time": 279091,
+        "end_time": 283072,
+        "text": "and they can get to lengths about\nhalf the size of a football field."
+    },
+    {
+        "index": 93,
+        "start_time": 283072,
+        "end_time": 286302,
+        "text": "And they&#39;re able to swim \nvertically in the ocean"
+    },
+    {
+        "index": 94,
+        "start_time": 286302,
+        "end_time": 288452,
+        "text": "by just creating jet propulsion."
+    },
+    {
+        "index": 95,
+        "start_time": 288452,
+        "end_time": 290668,
+        "text": "And then finally we can answer \nthese questions"
+    },
+    {
+        "index": 96,
+        "start_time": 290668,
+        "end_time": 293976,
+        "text": "about how swarming organisms,\nlike krill,"
+    },
+    {
+        "index": 97,
+        "start_time": 293976,
+        "end_time": 297059,
+        "text": "are able to affect \nmixing on larger scales."
+    },
+    {
+        "index": 98,
+        "start_time": 297059,
+        "end_time": 301096,
+        "text": "And this is actually one of the most\ninteresting results so far"
+    },
+    {
+        "index": 99,
+        "start_time": 301096,
+        "end_time": 304648,
+        "text": "that we&#39;ve collected \nusing the scuba diving device"
+    },
+    {
+        "index": 100,
+        "start_time": 304648,
+        "end_time": 308092,
+        "text": "in that organisms, especially when they&#39;re\nmoving in mass,"
+    },
+    {
+        "index": 101,
+        "start_time": 308092,
+        "end_time": 310365,
+        "text": "are able to generate mixing"
+    },
+    {
+        "index": 102,
+        "start_time": 310365,
+        "end_time": 314529,
+        "text": "at levels that are equivalent \nto some other physical processes"
+    },
+    {
+        "index": 103,
+        "start_time": 314529,
+        "end_time": 317359,
+        "text": "that are associated with winds and tides."
+    },
+    {
+        "index": 104,
+        "start_time": 317359,
+        "end_time": 318641,
+        "text": "But before I finish,"
+    },
+    {
+        "index": 105,
+        "start_time": 318641,
+        "end_time": 321500,
+        "text": "I want to leave you all with a question"
+    },
+    {
+        "index": 106,
+        "start_time": 321500,
+        "end_time": 323840,
+        "text": "because I think it&#39;s important\nto keep in mind"
+    },
+    {
+        "index": 107,
+        "start_time": 323840,
+        "end_time": 326919,
+        "text": "that technologies today \nthat we take for granted"
+    },
+    {
+        "index": 108,
+        "start_time": 326919,
+        "end_time": 328424,
+        "text": "started somewhere."
+    },
+    {
+        "index": 109,
+        "start_time": 328424,
+        "end_time": 330443,
+        "text": "It was inspired from something."
+    },
+    {
+        "index": 110,
+        "start_time": 330443,
+        "end_time": 333950,
+        "text": "So imagine scientists and engineers\nwere inspired by birds"
+    },
+    {
+        "index": 111,
+        "start_time": 333950,
+        "end_time": 336191,
+        "text": "to create airplanes."
+    },
+    {
+        "index": 112,
+        "start_time": 336191,
+        "end_time": 337863,
+        "text": "And something we take for granted,"
+    },
+    {
+        "index": 113,
+        "start_time": 337863,
+        "end_time": 340417,
+        "text": "flying from San Francisco to New York,"
+    },
+    {
+        "index": 114,
+        "start_time": 340417,
+        "end_time": 343440,
+        "text": "is something that \nwas inspired by an organism."
+    },
+    {
+        "index": 115,
+        "start_time": 343440,
+        "end_time": 346027,
+        "text": "And as we&#39;re developing \nthese new technologies"
+    },
+    {
+        "index": 116,
+        "start_time": 346027,
+        "end_time": 348079,
+        "text": "to understand marine organisms,"
+    },
+    {
+        "index": 117,
+        "start_time": 348079,
+        "end_time": 350398,
+        "text": "what we want to do \nis answer this question:"
+    },
+    {
+        "index": 118,
+        "start_time": 350398,
+        "end_time": 352965,
+        "text": "how will marine organisms inspire us?"
+    },
+    {
+        "index": 119,
+        "start_time": 352965,
+        "end_time": 356715,
+        "text": "Will they allow us to develop \nnew underwater technologies,"
+    },
+    {
+        "index": 120,
+        "start_time": 356715,
+        "end_time": 359466,
+        "text": "like underwater vehicles \nthat look like a jellyfish?"
+    },
+    {
+        "index": 121,
+        "start_time": 359466,
+        "end_time": 362543,
+        "text": "I think it&#39;s a really exciting time\nin ocean exploration"
+    },
+    {
+        "index": 122,
+        "start_time": 362543,
+        "end_time": 366437,
+        "text": "because now we have the tools available\nto answer this kind of question,"
+    },
+    {
+        "index": 123,
+        "start_time": 366437,
+        "end_time": 369279,
+        "text": "and with the help \nof you guys at some point,"
+    },
+    {
+        "index": 124,
+        "start_time": 369279,
+        "end_time": 372807,
+        "text": "you can apply these tools\nto answer this kind of question"
+    },
+    {
+        "index": 125,
+        "start_time": 372807,
+        "end_time": 375851,
+        "text": "and also develop technologies\nof the future."
+    },
+    {
+        "index": 126,
+        "start_time": 375851,
+        "end_time": 377291,
+        "text": "Thank you."
+    }
+]

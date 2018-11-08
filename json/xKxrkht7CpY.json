@@ -1,0 +1,518 @@
+[
+    {
+        "index": 1,
+        "start_time": 8152,
+        "end_time": 11497,
+        "text": "The Earth intercepts a lot of solar power:"
+    },
+    {
+        "index": 2,
+        "start_time": 11497,
+        "end_time": 14579,
+        "text": "173 thousand terawatts."
+    },
+    {
+        "index": 3,
+        "start_time": 14579,
+        "end_time": 19300,
+        "text": "That&#39;s ten thousand times more power\nthan the planet&#39;s population uses."
+    },
+    {
+        "index": 4,
+        "start_time": 19300,
+        "end_time": 20950,
+        "text": "So is it possible that one day"
+    },
+    {
+        "index": 5,
+        "start_time": 20950,
+        "end_time": 24447,
+        "text": "the world could be completely \nreliant on solar energy?"
+    },
+    {
+        "index": 6,
+        "start_time": 24447,
+        "end_time": 25698,
+        "text": "To answer that question,"
+    },
+    {
+        "index": 7,
+        "start_time": 25698,
+        "end_time": 31959,
+        "text": "we first need to examine how solar panels\nconvert solar energy to electrical energy."
+    },
+    {
+        "index": 8,
+        "start_time": 31959,
+        "end_time": 36263,
+        "text": "Solar panels are made up of smaller units\ncalled solar cells."
+    },
+    {
+        "index": 9,
+        "start_time": 36263,
+        "end_time": 39183,
+        "text": "The most common solar cells\nare made from silicon,"
+    },
+    {
+        "index": 10,
+        "start_time": 39183,
+        "end_time": 43297,
+        "text": "a semiconductor that is the second\nmost abundant element on Earth."
+    },
+    {
+        "index": 11,
+        "start_time": 43297,
+        "end_time": 44589,
+        "text": "In a solar cell,"
+    },
+    {
+        "index": 12,
+        "start_time": 44589,
+        "end_time": 48567,
+        "text": "crystalline silicon is sandwiched\nbetween conductive layers."
+    },
+    {
+        "index": 13,
+        "start_time": 48567,
+        "end_time": 53776,
+        "text": "Each silicon atom is connected\nto its neighbors by four strong bonds,"
+    },
+    {
+        "index": 14,
+        "start_time": 53776,
+        "end_time": 58077,
+        "text": "which keep the electrons in place\nso no current can flow."
+    },
+    {
+        "index": 15,
+        "start_time": 58077,
+        "end_time": 59203,
+        "text": "Here&#39;s the key:"
+    },
+    {
+        "index": 16,
+        "start_time": 59203,
+        "end_time": 63886,
+        "text": "a silicon solar cell uses\ntwo different layers of silicon."
+    },
+    {
+        "index": 17,
+        "start_time": 63886,
+        "end_time": 67036,
+        "text": "An n-type silicon has extra electrons,"
+    },
+    {
+        "index": 18,
+        "start_time": 67036,
+        "end_time": 72289,
+        "text": "and p-type silicon has extra spaces\nfor electrons, called holes."
+    },
+    {
+        "index": 19,
+        "start_time": 72289,
+        "end_time": 74223,
+        "text": "Where the two types of silicon meet,"
+    },
+    {
+        "index": 20,
+        "start_time": 74223,
+        "end_time": 77922,
+        "text": "electrons can wander across \nthe p\/n junction,"
+    },
+    {
+        "index": 21,
+        "start_time": 77922,
+        "end_time": 79979,
+        "text": "leaving a positive charge on one side"
+    },
+    {
+        "index": 22,
+        "start_time": 79979,
+        "end_time": 83063,
+        "text": "and creating negative charge on the other."
+    },
+    {
+        "index": 23,
+        "start_time": 83063,
+        "end_time": 86785,
+        "text": "You can think of light \nas the flow of tiny particles"
+    },
+    {
+        "index": 24,
+        "start_time": 86785,
+        "end_time": 88125,
+        "text": "called photons,"
+    },
+    {
+        "index": 25,
+        "start_time": 88125,
+        "end_time": 90185,
+        "text": "shooting out from the Sun."
+    },
+    {
+        "index": 26,
+        "start_time": 90185,
+        "end_time": 94131,
+        "text": "When one of these photons strikes\nthe silicon cell with enough energy,"
+    },
+    {
+        "index": 27,
+        "start_time": 94131,
+        "end_time": 98529,
+        "text": "it can knock an electron from its bond,\nleaving a hole."
+    },
+    {
+        "index": 28,
+        "start_time": 98529,
+        "end_time": 103321,
+        "text": "The negatively charged electron and\nlocation of the positively charged hole"
+    },
+    {
+        "index": 29,
+        "start_time": 103321,
+        "end_time": 105734,
+        "text": "are now free to move around."
+    },
+    {
+        "index": 30,
+        "start_time": 105734,
+        "end_time": 108752,
+        "text": "But because of the electric field\nat the p\/n junction,"
+    },
+    {
+        "index": 31,
+        "start_time": 108752,
+        "end_time": 111355,
+        "text": "they&#39;ll only go one way."
+    },
+    {
+        "index": 32,
+        "start_time": 111355,
+        "end_time": 113376,
+        "text": "The electron is drawn to the n-side,"
+    },
+    {
+        "index": 33,
+        "start_time": 113376,
+        "end_time": 116362,
+        "text": "while the hole is drawn to the p-side."
+    },
+    {
+        "index": 34,
+        "start_time": 116362,
+        "end_time": 121995,
+        "text": "The mobile electrons are collected by\nthin metal fingers at the top of the cell."
+    },
+    {
+        "index": 35,
+        "start_time": 121995,
+        "end_time": 124750,
+        "text": "From there, they flow through \nan external circuit,"
+    },
+    {
+        "index": 36,
+        "start_time": 124750,
+        "end_time": 126065,
+        "text": "doing electrical work,"
+    },
+    {
+        "index": 37,
+        "start_time": 126065,
+        "end_time": 127606,
+        "text": "like powering a lightbulb,"
+    },
+    {
+        "index": 38,
+        "start_time": 127606,
+        "end_time": 131974,
+        "text": "before returning through the conductive\naluminum sheet on the back."
+    },
+    {
+        "index": 39,
+        "start_time": 131974,
+        "end_time": 135067,
+        "text": "Each silicon cell only puts out\nhalf a volt,"
+    },
+    {
+        "index": 40,
+        "start_time": 135067,
+        "end_time": 138658,
+        "text": "but you can string them \ntogether in modules to get more power."
+    },
+    {
+        "index": 41,
+        "start_time": 138658,
+        "end_time": 142763,
+        "text": "Twelve photovoltaic cells are enough\nto charge a cellphone,"
+    },
+    {
+        "index": 42,
+        "start_time": 142763,
+        "end_time": 146364,
+        "text": "while it takes many modules \nto power an entire house."
+    },
+    {
+        "index": 43,
+        "start_time": 146364,
+        "end_time": 149478,
+        "text": "Electrons are the only moving parts\nin a solar cell,"
+    },
+    {
+        "index": 44,
+        "start_time": 149478,
+        "end_time": 151854,
+        "text": "and they all go back where they came from."
+    },
+    {
+        "index": 45,
+        "start_time": 151854,
+        "end_time": 153882,
+        "text": "There&#39;s nothing to get worn out\nor used up,"
+    },
+    {
+        "index": 46,
+        "start_time": 153882,
+        "end_time": 157057,
+        "text": "so solar cells can last for decades."
+    },
+    {
+        "index": 47,
+        "start_time": 157057,
+        "end_time": 162874,
+        "text": "So what&#39;s stopping us from being\ncompletely reliant on solar power?"
+    },
+    {
+        "index": 48,
+        "start_time": 162874,
+        "end_time": 164970,
+        "text": "There are political factors at play,"
+    },
+    {
+        "index": 49,
+        "start_time": 164970,
+        "end_time": 168954,
+        "text": "not to mention businesses that lobby\nto maintain the status quo."
+    },
+    {
+        "index": 50,
+        "start_time": 168954,
+        "end_time": 173065,
+        "text": "But for now, let&#39;s focus on the physical\nand logistical challenges,"
+    },
+    {
+        "index": 51,
+        "start_time": 173065,
+        "end_time": 174482,
+        "text": "and the most obvious of those"
+    },
+    {
+        "index": 52,
+        "start_time": 174482,
+        "end_time": 178852,
+        "text": "is that solar energy \nis unevenly distributed across the planet."
+    },
+    {
+        "index": 53,
+        "start_time": 178852,
+        "end_time": 181219,
+        "text": "Some areas are sunnier than others."
+    },
+    {
+        "index": 54,
+        "start_time": 181219,
+        "end_time": 182859,
+        "text": "It&#39;s also inconsistent."
+    },
+    {
+        "index": 55,
+        "start_time": 182859,
+        "end_time": 187228,
+        "text": "Less solar energy is available \non cloudy days or at night."
+    },
+    {
+        "index": 56,
+        "start_time": 187228,
+        "end_time": 189638,
+        "text": "So a total reliance would require"
+    },
+    {
+        "index": 57,
+        "start_time": 189638,
+        "end_time": 194102,
+        "text": "efficient ways to get electricity \nfrom sunny spots to cloudy ones,"
+    },
+    {
+        "index": 58,
+        "start_time": 194102,
+        "end_time": 197087,
+        "text": "and effective storage of energy."
+    },
+    {
+        "index": 59,
+        "start_time": 197087,
+        "end_time": 200393,
+        "text": "The efficiency of the cell itself\nis a challenge, too."
+    },
+    {
+        "index": 60,
+        "start_time": 200393,
+        "end_time": 203444,
+        "text": "If sunlight is reflected \ninstead of absorbed,"
+    },
+    {
+        "index": 61,
+        "start_time": 203444,
+        "end_time": 208130,
+        "text": "or if dislodged electrons fall back into\na hole before going through the circuit,"
+    },
+    {
+        "index": 62,
+        "start_time": 208130,
+        "end_time": 210893,
+        "text": "that photon&#39;s energy is lost."
+    },
+    {
+        "index": 63,
+        "start_time": 210893,
+        "end_time": 213241,
+        "text": "The most efficient solar cell yet"
+    },
+    {
+        "index": 64,
+        "start_time": 213241,
+        "end_time": 218634,
+        "text": "still only converts 46% of \nthe available sunlight to electricity,"
+    },
+    {
+        "index": 65,
+        "start_time": 218634,
+        "end_time": 223642,
+        "text": "and most commercial systems are currently\n15-20% efficient."
+    },
+    {
+        "index": 66,
+        "start_time": 223642,
+        "end_time": 225529,
+        "text": "In spite of these limitations,"
+    },
+    {
+        "index": 67,
+        "start_time": 225529,
+        "end_time": 227204,
+        "text": "it actually would be possible"
+    },
+    {
+        "index": 68,
+        "start_time": 227204,
+        "end_time": 230618,
+        "text": "to power the entire world \nwith today&#39;s solar technology."
+    },
+    {
+        "index": 69,
+        "start_time": 230618,
+        "end_time": 232984,
+        "text": "We&#39;d need the funding \nto build the infrastructure"
+    },
+    {
+        "index": 70,
+        "start_time": 232984,
+        "end_time": 234971,
+        "text": "and a good deal of space."
+    },
+    {
+        "index": 71,
+        "start_time": 234971,
+        "end_time": 239440,
+        "text": "Estimates range from tens \nto hundreds of thousands of square miles,"
+    },
+    {
+        "index": 72,
+        "start_time": 239440,
+        "end_time": 240976,
+        "text": "which seems like a lot,"
+    },
+    {
+        "index": 73,
+        "start_time": 240976,
+        "end_time": 246312,
+        "text": "but the Sahara Desert alone is over\n3 million square miles in area."
+    },
+    {
+        "index": 74,
+        "start_time": 246312,
+        "end_time": 249039,
+        "text": "Meanwhile, solar cells are getting\nbetter, cheaper,"
+    },
+    {
+        "index": 75,
+        "start_time": 249039,
+        "end_time": 251986,
+        "text": "and are competing \nwith electricity from the grid."
+    },
+    {
+        "index": 76,
+        "start_time": 251986,
+        "end_time": 256967,
+        "text": "And innovations, like floating solar farms,\nmay change the landscape entirely."
+    },
+    {
+        "index": 77,
+        "start_time": 256967,
+        "end_time": 258956,
+        "text": "Thought experiments aside,"
+    },
+    {
+        "index": 78,
+        "start_time": 258956,
+        "end_time": 261018,
+        "text": "there&#39;s the fact \nthat over a billion people"
+    },
+    {
+        "index": 79,
+        "start_time": 261018,
+        "end_time": 264481,
+        "text": "don&#39;t have access \nto a reliable electric grid,"
+    },
+    {
+        "index": 80,
+        "start_time": 264481,
+        "end_time": 266567,
+        "text": "especially in developing countries,"
+    },
+    {
+        "index": 81,
+        "start_time": 266567,
+        "end_time": 268842,
+        "text": "many of which are sunny."
+    },
+    {
+        "index": 82,
+        "start_time": 268842,
+        "end_time": 270096,
+        "text": "So in places like that,"
+    },
+    {
+        "index": 83,
+        "start_time": 270096,
+        "end_time": 274979,
+        "text": "solar energy is already much cheaper\nand safer than available alternatives,"
+    },
+    {
+        "index": 84,
+        "start_time": 274979,
+        "end_time": 276579,
+        "text": "like kerosene."
+    },
+    {
+        "index": 85,
+        "start_time": 276579,
+        "end_time": 278646,
+        "text": "For say, Finland or Seattle, though,"
+    },
+    {
+        "index": 86,
+        "start_time": 278646,
+        "end_time": 282041,
+        "text": "effective solar energy \nmay still be a little way off."
+    }
+]

@@ -1,0 +1,464 @@
+[
+    {
+        "index": 1,
+        "start_time": 9036,
+        "end_time": 14106,
+        "text": "You&#39;d have a hard time finding\nK\u00f6nigsberg on any modern maps,"
+    },
+    {
+        "index": 2,
+        "start_time": 14106,
+        "end_time": 17415,
+        "text": "but one particular quirk in its geography"
+    },
+    {
+        "index": 3,
+        "start_time": 17415,
+        "end_time": 22205,
+        "text": "has made it one of the most famous cities\nin mathematics."
+    },
+    {
+        "index": 4,
+        "start_time": 22205,
+        "end_time": 26214,
+        "text": "The medieval German city lay on both sides\nof the Pregel River."
+    },
+    {
+        "index": 5,
+        "start_time": 26214,
+        "end_time": 28875,
+        "text": "At the center were two large islands."
+    },
+    {
+        "index": 6,
+        "start_time": 28875,
+        "end_time": 33124,
+        "text": "The two islands were connected \nto each other and to the river banks"
+    },
+    {
+        "index": 7,
+        "start_time": 33124,
+        "end_time": 35884,
+        "text": "by seven bridges."
+    },
+    {
+        "index": 8,
+        "start_time": 35884,
+        "end_time": 41296,
+        "text": "Carl Gottlieb Ehler, a mathematician who\nlater became the mayor of a nearby town,"
+    },
+    {
+        "index": 9,
+        "start_time": 41296,
+        "end_time": 44395,
+        "text": "grew obsessed with these islands\nand bridges."
+    },
+    {
+        "index": 10,
+        "start_time": 44395,
+        "end_time": 47205,
+        "text": "He kept coming back to a single question:"
+    },
+    {
+        "index": 11,
+        "start_time": 47205,
+        "end_time": 51095,
+        "text": "Which route would allow someone\nto cross all seven bridges"
+    },
+    {
+        "index": 12,
+        "start_time": 51095,
+        "end_time": 55136,
+        "text": "without crossing any of them\nmore than once?"
+    },
+    {
+        "index": 13,
+        "start_time": 55136,
+        "end_time": 56946,
+        "text": "Think about it for a moment."
+    },
+    {
+        "index": 14,
+        "start_time": 56946,
+        "end_time": 57936,
+        "text": "7"
+    },
+    {
+        "index": 15,
+        "start_time": 57936,
+        "end_time": 58947,
+        "text": "6"
+    },
+    {
+        "index": 16,
+        "start_time": 58947,
+        "end_time": 59916,
+        "text": "5"
+    },
+    {
+        "index": 17,
+        "start_time": 59916,
+        "end_time": 60847,
+        "text": "4"
+    },
+    {
+        "index": 18,
+        "start_time": 60847,
+        "end_time": 61956,
+        "text": "3"
+    },
+    {
+        "index": 19,
+        "start_time": 61956,
+        "end_time": 62886,
+        "text": "2"
+    },
+    {
+        "index": 20,
+        "start_time": 62886,
+        "end_time": 63996,
+        "text": "1"
+    },
+    {
+        "index": 21,
+        "start_time": 63996,
+        "end_time": 65076,
+        "text": "Give up?"
+    },
+    {
+        "index": 22,
+        "start_time": 65076,
+        "end_time": 66198,
+        "text": "You should."
+    },
+    {
+        "index": 23,
+        "start_time": 66198,
+        "end_time": 67513,
+        "text": "It&#39;s not possible."
+    },
+    {
+        "index": 24,
+        "start_time": 67513,
+        "end_time": 72636,
+        "text": "But attempting to explain why\nled famous mathematician Leonhard Euler"
+    },
+    {
+        "index": 25,
+        "start_time": 72636,
+        "end_time": 75997,
+        "text": "to invent a new field of mathematics."
+    },
+    {
+        "index": 26,
+        "start_time": 75997,
+        "end_time": 78648,
+        "text": "Carl wrote to Euler for help\nwith the problem."
+    },
+    {
+        "index": 27,
+        "start_time": 78648,
+        "end_time": 83367,
+        "text": "Euler first dismissed the question as\nhaving nothing to do with math."
+    },
+    {
+        "index": 28,
+        "start_time": 83367,
+        "end_time": 85136,
+        "text": "But the more he wrestled with it,"
+    },
+    {
+        "index": 29,
+        "start_time": 85136,
+        "end_time": 88977,
+        "text": "the more it seemed there might\nbe something there after all."
+    },
+    {
+        "index": 30,
+        "start_time": 88977,
+        "end_time": 92906,
+        "text": "The answer he came up with\nhad to do with a type of geometry"
+    },
+    {
+        "index": 31,
+        "start_time": 92906,
+        "end_time": 98258,
+        "text": "that did not quite exist yet,\nwhat he called the Geometry of Position,"
+    },
+    {
+        "index": 32,
+        "start_time": 98258,
+        "end_time": 101897,
+        "text": "now known as Graph Theory."
+    },
+    {
+        "index": 33,
+        "start_time": 101897,
+        "end_time": 103443,
+        "text": "Euler&#39;s first insight"
+    },
+    {
+        "index": 34,
+        "start_time": 103443,
+        "end_time": 108507,
+        "text": "was that the route taken between entering\nan island or a riverbank and leaving it"
+    },
+    {
+        "index": 35,
+        "start_time": 108507,
+        "end_time": 110578,
+        "text": "didn&#39;t actually matter."
+    },
+    {
+        "index": 36,
+        "start_time": 110578,
+        "end_time": 114427,
+        "text": "Thus, the map could be simplified with\neach of the four landmasses"
+    },
+    {
+        "index": 37,
+        "start_time": 114427,
+        "end_time": 116627,
+        "text": "represented as a single point,"
+    },
+    {
+        "index": 38,
+        "start_time": 116627,
+        "end_time": 119297,
+        "text": "what we now call a node,"
+    },
+    {
+        "index": 39,
+        "start_time": 119297,
+        "end_time": 124198,
+        "text": "with lines, or edges, between them\nto represent the bridges."
+    },
+    {
+        "index": 40,
+        "start_time": 124198,
+        "end_time": 129619,
+        "text": "And this simplified graph allows us\nto easily count the degrees of each node."
+    },
+    {
+        "index": 41,
+        "start_time": 129619,
+        "end_time": 133219,
+        "text": "That&#39;s the number of bridges \neach land mass touches."
+    },
+    {
+        "index": 42,
+        "start_time": 133219,
+        "end_time": 134598,
+        "text": "Why do the degrees matter?"
+    },
+    {
+        "index": 43,
+        "start_time": 134598,
+        "end_time": 136828,
+        "text": "Well, according to the rules \nof the challenge,"
+    },
+    {
+        "index": 44,
+        "start_time": 136828,
+        "end_time": 140678,
+        "text": "once travelers arrive onto a landmass\nby one bridge,"
+    },
+    {
+        "index": 45,
+        "start_time": 140678,
+        "end_time": 143800,
+        "text": "they would have to leave it \nvia a different bridge."
+    },
+    {
+        "index": 46,
+        "start_time": 143800,
+        "end_time": 148168,
+        "text": "In other words, the bridges leading\nto and from each node on any route"
+    },
+    {
+        "index": 47,
+        "start_time": 148168,
+        "end_time": 150587,
+        "text": "must occur in distinct pairs,"
+    },
+    {
+        "index": 48,
+        "start_time": 150587,
+        "end_time": 154239,
+        "text": "meaning that the number of bridges\ntouching each landmass visited"
+    },
+    {
+        "index": 49,
+        "start_time": 154239,
+        "end_time": 156368,
+        "text": "must be even."
+    },
+    {
+        "index": 50,
+        "start_time": 156368,
+        "end_time": 160029,
+        "text": "The only possible exceptions would be\nthe locations of the beginning"
+    },
+    {
+        "index": 51,
+        "start_time": 160029,
+        "end_time": 162267,
+        "text": "and end of the walk."
+    },
+    {
+        "index": 52,
+        "start_time": 162267,
+        "end_time": 167218,
+        "text": "Looking at the graph, it becomes apparent\nthat all four nodes have an odd degree."
+    },
+    {
+        "index": 53,
+        "start_time": 167218,
+        "end_time": 169187,
+        "text": "So no matter which path is chosen,"
+    },
+    {
+        "index": 54,
+        "start_time": 169187,
+        "end_time": 173440,
+        "text": "at some point,\na bridge will have to be crossed twice."
+    },
+    {
+        "index": 55,
+        "start_time": 173440,
+        "end_time": 177709,
+        "text": "Euler used this proof to formulate\na general theory"
+    },
+    {
+        "index": 56,
+        "start_time": 177709,
+        "end_time": 181721,
+        "text": "that applies to all graphs with two\nor more nodes."
+    },
+    {
+        "index": 57,
+        "start_time": 181721,
+        "end_time": 185790,
+        "text": "A Eulerian path \nthat visits each edge only once"
+    },
+    {
+        "index": 58,
+        "start_time": 185790,
+        "end_time": 189159,
+        "text": "is only possible in one of two scenarios."
+    },
+    {
+        "index": 59,
+        "start_time": 189159,
+        "end_time": 193769,
+        "text": "The first is when there are exactly\ntwo nodes of odd degree,"
+    },
+    {
+        "index": 60,
+        "start_time": 193769,
+        "end_time": 196310,
+        "text": "meaning all the rest are even."
+    },
+    {
+        "index": 61,
+        "start_time": 196310,
+        "end_time": 199659,
+        "text": "There, the starting point is one\nof the odd nodes,"
+    },
+    {
+        "index": 62,
+        "start_time": 199659,
+        "end_time": 201770,
+        "text": "and the end point is the other."
+    },
+    {
+        "index": 63,
+        "start_time": 201770,
+        "end_time": 206091,
+        "text": "The second is when all the nodes\nare of even degree."
+    },
+    {
+        "index": 64,
+        "start_time": 206091,
+        "end_time": 211231,
+        "text": "Then, the Eulerian path will start\nand stop in the same location,"
+    },
+    {
+        "index": 65,
+        "start_time": 211231,
+        "end_time": 214758,
+        "text": "which also makes it something called\na Eulerian circuit."
+    },
+    {
+        "index": 66,
+        "start_time": 214758,
+        "end_time": 218460,
+        "text": "So how might you create a Eulerian path\nin K\u00f6nigsberg?"
+    },
+    {
+        "index": 67,
+        "start_time": 218460,
+        "end_time": 219302,
+        "text": "It&#39;s simple."
+    },
+    {
+        "index": 68,
+        "start_time": 219302,
+        "end_time": 221402,
+        "text": "Just remove any one bridge."
+    },
+    {
+        "index": 69,
+        "start_time": 221402,
+        "end_time": 226080,
+        "text": "And it turns out, history created\na Eulerian path of its own."
+    },
+    {
+        "index": 70,
+        "start_time": 226080,
+        "end_time": 230198,
+        "text": "During World War II, the Soviet Air Force\ndestroyed two of the city&#39;s bridges,"
+    },
+    {
+        "index": 71,
+        "start_time": 230198,
+        "end_time": 233531,
+        "text": "making a Eulerian path easily possible."
+    },
+    {
+        "index": 72,
+        "start_time": 233531,
+        "end_time": 237291,
+        "text": "Though, to be fair, that probably\nwasn&#39;t their intention."
+    },
+    {
+        "index": 73,
+        "start_time": 237291,
+        "end_time": 240781,
+        "text": "These bombings pretty much wiped\nK\u00f6nigsberg off the map,"
+    },
+    {
+        "index": 74,
+        "start_time": 240781,
+        "end_time": 244910,
+        "text": "and it was later rebuilt \nas the Russian city of Kaliningrad."
+    },
+    {
+        "index": 75,
+        "start_time": 244910,
+        "end_time": 249083,
+        "text": "So while K\u00f6nigsberg and her seven bridges\nmay not be around anymore,"
+    },
+    {
+        "index": 76,
+        "start_time": 249083,
+        "end_time": 253361,
+        "text": "they will be remembered throughout\nhistory by the seemingly trivial riddle"
+    },
+    {
+        "index": 77,
+        "start_time": 253361,
+        "end_time": 257662,
+        "text": "which led to the emergence of \na whole new field of mathematics."
+    }
+]

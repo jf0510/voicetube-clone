@@ -1,0 +1,500 @@
+[
+    {
+        "index": 1,
+        "start_time": 7139,
+        "end_time": 10579,
+        "text": "Why is it so difficult to cure cancer?"
+    },
+    {
+        "index": 2,
+        "start_time": 10579,
+        "end_time": 12300,
+        "text": "We&#39;ve harnessed electricity,"
+    },
+    {
+        "index": 3,
+        "start_time": 12300,
+        "end_time": 14129,
+        "text": "sequenced the human genome,"
+    },
+    {
+        "index": 4,
+        "start_time": 14129,
+        "end_time": 16741,
+        "text": "and eradicated small pox."
+    },
+    {
+        "index": 5,
+        "start_time": 16741,
+        "end_time": 18940,
+        "text": "But after billions of dollars in research,"
+    },
+    {
+        "index": 6,
+        "start_time": 18940,
+        "end_time": 23121,
+        "text": "we haven&#39;t found a solution for a disease\nthat affects more than 14 million people"
+    },
+    {
+        "index": 7,
+        "start_time": 23121,
+        "end_time": 27061,
+        "text": "and their families at any given time."
+    },
+    {
+        "index": 8,
+        "start_time": 27061,
+        "end_time": 31720,
+        "text": "Cancer arises as normal cells\naccumulate mutations."
+    },
+    {
+        "index": 9,
+        "start_time": 31720,
+        "end_time": 35496,
+        "text": "Most of the time, \ncells can detect mutations or DNA damage"
+    },
+    {
+        "index": 10,
+        "start_time": 35496,
+        "end_time": 38862,
+        "text": "and either fix them or self destruct."
+    },
+    {
+        "index": 11,
+        "start_time": 38862,
+        "end_time": 43117,
+        "text": "However, some mutations allow cancerous\ncells to grow unchecked"
+    },
+    {
+        "index": 12,
+        "start_time": 43117,
+        "end_time": 45173,
+        "text": "and invade nearby tissues,"
+    },
+    {
+        "index": 13,
+        "start_time": 45173,
+        "end_time": 48816,
+        "text": "or even metastasize to distant organs."
+    },
+    {
+        "index": 14,
+        "start_time": 48816,
+        "end_time": 54082,
+        "text": "Cancers become almost incurable\nonce they metastasize."
+    },
+    {
+        "index": 15,
+        "start_time": 54082,
+        "end_time": 57002,
+        "text": "And cancer is incredibly complex."
+    },
+    {
+        "index": 16,
+        "start_time": 57002,
+        "end_time": 58873,
+        "text": "It&#39;s not just one disease."
+    },
+    {
+        "index": 17,
+        "start_time": 58873,
+        "end_time": 60872,
+        "text": "There are more than 100 different types"
+    },
+    {
+        "index": 18,
+        "start_time": 60872,
+        "end_time": 65363,
+        "text": "and we don&#39;t have a magic bullet\nthat can cure all of them."
+    },
+    {
+        "index": 19,
+        "start_time": 65363,
+        "end_time": 66731,
+        "text": "For most cancers,"
+    },
+    {
+        "index": 20,
+        "start_time": 66731,
+        "end_time": 70933,
+        "text": "treatments usually include \na combination of surgery to remove tumors"
+    },
+    {
+        "index": 21,
+        "start_time": 70933,
+        "end_time": 76247,
+        "text": "and radiation and chemotherapy\nto kill any cancerous cells left behind."
+    },
+    {
+        "index": 22,
+        "start_time": 76247,
+        "end_time": 77507,
+        "text": "Hormone therapies,"
+    },
+    {
+        "index": 23,
+        "start_time": 77507,
+        "end_time": 78948,
+        "text": "immunotherapy,"
+    },
+    {
+        "index": 24,
+        "start_time": 78948,
+        "end_time": 82370,
+        "text": "and targeted treatments tailored\nfor a specific type of cancer"
+    },
+    {
+        "index": 25,
+        "start_time": 82370,
+        "end_time": 85219,
+        "text": "are sometimes used, too."
+    },
+    {
+        "index": 26,
+        "start_time": 85219,
+        "end_time": 87609,
+        "text": "In many cases, \nthese treatments are effective"
+    },
+    {
+        "index": 27,
+        "start_time": 87609,
+        "end_time": 90270,
+        "text": "and the patient becomes cancer-free."
+    },
+    {
+        "index": 28,
+        "start_time": 90270,
+        "end_time": 95809,
+        "text": "But they&#39;re very far from 100% effective\n100% of the time."
+    },
+    {
+        "index": 29,
+        "start_time": 95809,
+        "end_time": 100540,
+        "text": "So what would we have to do to find cures\nfor all the different forms of cancer?"
+    },
+    {
+        "index": 30,
+        "start_time": 100540,
+        "end_time": 103060,
+        "text": "We&#39;re beginning to understand a few\nof the problems"
+    },
+    {
+        "index": 31,
+        "start_time": 103060,
+        "end_time": 105830,
+        "text": "scientists would have to solve."
+    },
+    {
+        "index": 32,
+        "start_time": 105830,
+        "end_time": 110379,
+        "text": "First of all, we need new, better ways\nof studying cancer."
+    },
+    {
+        "index": 33,
+        "start_time": 110379,
+        "end_time": 114190,
+        "text": "Most cancer treatments are developed\nusing cell lines grown in labs"
+    },
+    {
+        "index": 34,
+        "start_time": 114190,
+        "end_time": 116950,
+        "text": "from cultures of human tumors."
+    },
+    {
+        "index": 35,
+        "start_time": 116950,
+        "end_time": 119422,
+        "text": "These cultured cells have given us\ncritical insights"
+    },
+    {
+        "index": 36,
+        "start_time": 119422,
+        "end_time": 121740,
+        "text": "about cancer genetics and biology,"
+    },
+    {
+        "index": 37,
+        "start_time": 121740,
+        "end_time": 126671,
+        "text": "but they lack much of the complexity\nof a tumor in an actual living organism."
+    },
+    {
+        "index": 38,
+        "start_time": 126671,
+        "end_time": 130871,
+        "text": "It&#39;s frequently the case that new drugs,\nwhich work on these lab-grown cells,"
+    },
+    {
+        "index": 39,
+        "start_time": 130871,
+        "end_time": 134502,
+        "text": "will fail in clinical trials \nwith real patients."
+    },
+    {
+        "index": 40,
+        "start_time": 134502,
+        "end_time": 137431,
+        "text": "One of the complexities \nof aggressive tumors"
+    },
+    {
+        "index": 41,
+        "start_time": 137431,
+        "end_time": 143296,
+        "text": "is that they can have multiple populations\nof slightly different cancerous cells."
+    },
+    {
+        "index": 42,
+        "start_time": 143296,
+        "end_time": 147067,
+        "text": "Over time, distinct genetic mutations\naccumulate in cells"
+    },
+    {
+        "index": 43,
+        "start_time": 147067,
+        "end_time": 153042,
+        "text": "in different parts of the tumor,\ngiving rise to unique subclones."
+    },
+    {
+        "index": 44,
+        "start_time": 153042,
+        "end_time": 157061,
+        "text": "For example, aggressive brain tumors\ncalled glioblastomas"
+    },
+    {
+        "index": 45,
+        "start_time": 157061,
+        "end_time": 161713,
+        "text": "can have as many as six different \nsubclones in a single patient."
+    },
+    {
+        "index": 46,
+        "start_time": 161713,
+        "end_time": 164437,
+        "text": "This is called clonal heterogeneity,"
+    },
+    {
+        "index": 47,
+        "start_time": 164437,
+        "end_time": 168232,
+        "text": "and it makes treatment difficult because\na drug that works on one subclone"
+    },
+    {
+        "index": 48,
+        "start_time": 168232,
+        "end_time": 171123,
+        "text": "may have no effect on another."
+    },
+    {
+        "index": 49,
+        "start_time": 171123,
+        "end_time": 172923,
+        "text": "Here&#39;s another challenge."
+    },
+    {
+        "index": 50,
+        "start_time": 172923,
+        "end_time": 175784,
+        "text": "A tumor is a dynamic \ninterconnected ecosystem"
+    },
+    {
+        "index": 51,
+        "start_time": 175784,
+        "end_time": 178543,
+        "text": "where cancer cells constantly \ncommunicate with each other"
+    },
+    {
+        "index": 52,
+        "start_time": 178543,
+        "end_time": 181265,
+        "text": "and with healthy cells nearby."
+    },
+    {
+        "index": 53,
+        "start_time": 181265,
+        "end_time": 185052,
+        "text": "They can induce normal cells to form\nblood vessels that feed the tumor"
+    },
+    {
+        "index": 54,
+        "start_time": 185052,
+        "end_time": 187903,
+        "text": "and remove waste products."
+    },
+    {
+        "index": 55,
+        "start_time": 187903,
+        "end_time": 190249,
+        "text": "They can also interact \nwith the immune system"
+    },
+    {
+        "index": 56,
+        "start_time": 190249,
+        "end_time": 192196,
+        "text": "to actually suppress its function,"
+    },
+    {
+        "index": 57,
+        "start_time": 192196,
+        "end_time": 196265,
+        "text": "keeping it from recognizing \nor destroying the cancer."
+    },
+    {
+        "index": 58,
+        "start_time": 196265,
+        "end_time": 199415,
+        "text": "If we could learn how to shut down\nthese lines of communication,"
+    },
+    {
+        "index": 59,
+        "start_time": 199415,
+        "end_time": 203733,
+        "text": "we&#39;d have a better shot at vanquishing \na tumor permanently."
+    },
+    {
+        "index": 60,
+        "start_time": 203733,
+        "end_time": 206024,
+        "text": "Additionally, mounting evidence suggests"
+    },
+    {
+        "index": 61,
+        "start_time": 206024,
+        "end_time": 210505,
+        "text": "we&#39;ll need to figure out how to eradicate\ncancer stem cells."
+    },
+    {
+        "index": 62,
+        "start_time": 210505,
+        "end_time": 213026,
+        "text": "These are rare but seem \nto have special properties"
+    },
+    {
+        "index": 63,
+        "start_time": 213026,
+        "end_time": 216748,
+        "text": "that make them resistant \nto chemotherapy and radiation."
+    },
+    {
+        "index": 64,
+        "start_time": 216748,
+        "end_time": 221486,
+        "text": "In theory, even if the rest of the tumor\nshrinks beyond detection during treatment,"
+    },
+    {
+        "index": 65,
+        "start_time": 221486,
+        "end_time": 227654,
+        "text": "a single residual cancer stem cell\ncould seed the growth of a new tumor."
+    },
+    {
+        "index": 66,
+        "start_time": 227654,
+        "end_time": 229957,
+        "text": "Figuring out how to target\nthese stubborn cells"
+    },
+    {
+        "index": 67,
+        "start_time": 229957,
+        "end_time": 234146,
+        "text": "might help prevent cancers \nfrom coming back."
+    },
+    {
+        "index": 68,
+        "start_time": 234146,
+        "end_time": 237536,
+        "text": "Even if we solved those problems,\nwe might face new ones."
+    },
+    {
+        "index": 69,
+        "start_time": 237536,
+        "end_time": 240667,
+        "text": "Cancer cells are masters of adaptation,"
+    },
+    {
+        "index": 70,
+        "start_time": 240667,
+        "end_time": 245938,
+        "text": "adjusting their molecular and cellular\ncharacteristics to survive under stress."
+    },
+    {
+        "index": 71,
+        "start_time": 245938,
+        "end_time": 248868,
+        "text": "When they&#39;re bombarded by radiation\nor chemotherapy,"
+    },
+    {
+        "index": 72,
+        "start_time": 248868,
+        "end_time": 252779,
+        "text": "some cancer cells can effectively\nswitch on protective shields"
+    },
+    {
+        "index": 73,
+        "start_time": 252779,
+        "end_time": 257697,
+        "text": "against whatever&#39;s attacking them\nby changing their gene expression."
+    },
+    {
+        "index": 74,
+        "start_time": 257697,
+        "end_time": 261846,
+        "text": "Malignant cancers are complex systems\nthat constantly evolve and adapt."
+    },
+    {
+        "index": 75,
+        "start_time": 261846,
+        "end_time": 265301,
+        "text": "To defeat them, we need to find\nexperimental systems"
+    },
+    {
+        "index": 76,
+        "start_time": 265301,
+        "end_time": 267333,
+        "text": "that match their complexity,"
+    },
+    {
+        "index": 77,
+        "start_time": 267333,
+        "end_time": 272767,
+        "text": "and monitoring and treatment options\nthat can adjust as the cancer changes."
+    },
+    {
+        "index": 78,
+        "start_time": 272767,
+        "end_time": 275870,
+        "text": "But the good news is \nwe&#39;re making progress."
+    },
+    {
+        "index": 79,
+        "start_time": 275870,
+        "end_time": 277280,
+        "text": "Even with all we don&#39;t know,"
+    },
+    {
+        "index": 80,
+        "start_time": 277280,
+        "end_time": 279850,
+        "text": "the average mortality rate \nfor most kinds of cancer"
+    },
+    {
+        "index": 81,
+        "start_time": 279850,
+        "end_time": 284869,
+        "text": "has dropped significantly since the 1970s\nand is still falling."
+    },
+    {
+        "index": 82,
+        "start_time": 284869,
+        "end_time": 286360,
+        "text": "We&#39;re learning more every day,"
+    },
+    {
+        "index": 83,
+        "start_time": 286360,
+        "end_time": 290729,
+        "text": "and each new piece of information gives\nus one more tool to add to our arsenal."
+    }
+]

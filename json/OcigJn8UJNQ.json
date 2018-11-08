@@ -1,0 +1,446 @@
+[
+    {
+        "index": 1,
+        "start_time": 6774,
+        "end_time": 10981,
+        "text": "The onset of cancer usually begins as\na solitary tumor"
+    },
+    {
+        "index": 2,
+        "start_time": 10981,
+        "end_time": 13559,
+        "text": "in a specific area of the body."
+    },
+    {
+        "index": 3,
+        "start_time": 13559,
+        "end_time": 15419,
+        "text": "If the tumor is not removed,"
+    },
+    {
+        "index": 4,
+        "start_time": 15419,
+        "end_time": 18528,
+        "text": "cancer has the ability to \nspread to nearby organs,"
+    },
+    {
+        "index": 5,
+        "start_time": 18528,
+        "end_time": 23271,
+        "text": "as well as places far away\nfrom the origin, such as the brain."
+    },
+    {
+        "index": 6,
+        "start_time": 23271,
+        "end_time": 25606,
+        "text": "So how does cancer move to new areas,"
+    },
+    {
+        "index": 7,
+        "start_time": 25606,
+        "end_time": 29804,
+        "text": "and why are some organs more likely\nto get infected than others?"
+    },
+    {
+        "index": 8,
+        "start_time": 29804,
+        "end_time": 34538,
+        "text": "The process of cancer spreading across the\nbody is known as metastasis."
+    },
+    {
+        "index": 9,
+        "start_time": 34538,
+        "end_time": 40151,
+        "text": "It begins when cancer cells from an initial\ntumor invade nearby normal tissue."
+    },
+    {
+        "index": 10,
+        "start_time": 40151,
+        "end_time": 41718,
+        "text": "As the cells proliferate,"
+    },
+    {
+        "index": 11,
+        "start_time": 41718,
+        "end_time": 45797,
+        "text": "they spread via one of the three \ncommon routes of metastasis:"
+    },
+    {
+        "index": 12,
+        "start_time": 45797,
+        "end_time": 49660,
+        "text": "transcoelomic, lymphatic, \nor hematogenous spread."
+    },
+    {
+        "index": 13,
+        "start_time": 49660,
+        "end_time": 54996,
+        "text": "In transcoelomic spread, malignant cells\npenetrate the covering surfaces"
+    },
+    {
+        "index": 14,
+        "start_time": 54996,
+        "end_time": 57281,
+        "text": "of cavities in our body."
+    },
+    {
+        "index": 15,
+        "start_time": 57281,
+        "end_time": 59789,
+        "text": "These surfaces are known as \nperitoneum"
+    },
+    {
+        "index": 16,
+        "start_time": 59789,
+        "end_time": 63292,
+        "text": "and serve as walls to segment \nthe body cavity."
+    },
+    {
+        "index": 17,
+        "start_time": 63292,
+        "end_time": 66015,
+        "text": "Malignant cells in ovarian cancer, \nfor example,"
+    },
+    {
+        "index": 18,
+        "start_time": 66015,
+        "end_time": 69707,
+        "text": "spread through peritoneum, \nwhich connects the ovary to the liver,"
+    },
+    {
+        "index": 19,
+        "start_time": 69707,
+        "end_time": 73242,
+        "text": "resulting in metastasis on \nthe liver surface."
+    },
+    {
+        "index": 20,
+        "start_time": 73242,
+        "end_time": 79002,
+        "text": "Next, cancerous cells invade blood vessels\nwhen they undergo hematogenous spread."
+    },
+    {
+        "index": 21,
+        "start_time": 79002,
+        "end_time": 81845,
+        "text": "As there are blood vessels almost \neverywhere in the body,"
+    },
+    {
+        "index": 22,
+        "start_time": 81845,
+        "end_time": 86476,
+        "text": "malignant cells utilize this to reach\nmore distant parts of the body."
+    },
+    {
+        "index": 23,
+        "start_time": 86476,
+        "end_time": 90946,
+        "text": "Finally, lymphatic spread occurs\nwhen the cancer invades the lymph nodes,"
+    },
+    {
+        "index": 24,
+        "start_time": 90946,
+        "end_time": 95258,
+        "text": "and travels to other parts of the body\nvia the lymphatic system."
+    },
+    {
+        "index": 25,
+        "start_time": 95258,
+        "end_time": 97588,
+        "text": "As this system drains many\nparts of the body,"
+    },
+    {
+        "index": 26,
+        "start_time": 97588,
+        "end_time": 100988,
+        "text": "it also provides a large network\nfor the cancer."
+    },
+    {
+        "index": 27,
+        "start_time": 100988,
+        "end_time": 104894,
+        "text": "In addition, the lymphatic vessels empty\ninto the blood circulation,"
+    },
+    {
+        "index": 28,
+        "start_time": 104894,
+        "end_time": 108704,
+        "text": "allowing the malignant cells to undergo\nhematogenous spread."
+    },
+    {
+        "index": 29,
+        "start_time": 108704,
+        "end_time": 112804,
+        "text": "Once at a new site, the cells once again\nundergo proliferation,"
+    },
+    {
+        "index": 30,
+        "start_time": 112804,
+        "end_time": 116708,
+        "text": "and form small tumors known as\nmicrometastases."
+    },
+    {
+        "index": 31,
+        "start_time": 116708,
+        "end_time": 119824,
+        "text": "These small tumors then grow \ninto full-fledged tumors,"
+    },
+    {
+        "index": 32,
+        "start_time": 119824,
+        "end_time": 122842,
+        "text": "and complete the metastatic process."
+    },
+    {
+        "index": 33,
+        "start_time": 122842,
+        "end_time": 126985,
+        "text": "Different cancers have been known to have\nspecific sites of metastasis."
+    },
+    {
+        "index": 34,
+        "start_time": 126985,
+        "end_time": 131043,
+        "text": "For example, prostate cancer commonly\nmetastasizes to the bone,"
+    },
+    {
+        "index": 35,
+        "start_time": 131043,
+        "end_time": 134427,
+        "text": "while colon cancer metastasizes \nto the liver."
+    },
+    {
+        "index": 36,
+        "start_time": 134427,
+        "end_time": 137892,
+        "text": "Various theories have been proposed to\nexplain the migration pattern"
+    },
+    {
+        "index": 37,
+        "start_time": 137892,
+        "end_time": 139733,
+        "text": "of malignant cells."
+    },
+    {
+        "index": 38,
+        "start_time": 139733,
+        "end_time": 143068,
+        "text": "Of particular interest are \ntwo conflicting theories."
+    },
+    {
+        "index": 39,
+        "start_time": 143068,
+        "end_time": 145043,
+        "text": "Stephen Paget, an English surgeon,"
+    },
+    {
+        "index": 40,
+        "start_time": 145043,
+        "end_time": 148708,
+        "text": "came up with the seed and soil\ntheory of metastasis."
+    },
+    {
+        "index": 41,
+        "start_time": 148708,
+        "end_time": 152458,
+        "text": "The seed and soil theory stated that\ncancer cells die easily"
+    },
+    {
+        "index": 42,
+        "start_time": 152458,
+        "end_time": 154379,
+        "text": "in the wrong microenvironment,"
+    },
+    {
+        "index": 43,
+        "start_time": 154379,
+        "end_time": 159043,
+        "text": "hence they only metastasize to a location\nwith similar characteristics."
+    },
+    {
+        "index": 44,
+        "start_time": 159043,
+        "end_time": 163837,
+        "text": "However, James Ewing, the first professor\nof pathology at Cornell University,"
+    },
+    {
+        "index": 45,
+        "start_time": 163837,
+        "end_time": 166072,
+        "text": "challenged the seed and soil theory,"
+    },
+    {
+        "index": 46,
+        "start_time": 166072,
+        "end_time": 170389,
+        "text": "and proposed that the site of metastasis\nwas determined by the location"
+    },
+    {
+        "index": 47,
+        "start_time": 170389,
+        "end_time": 175551,
+        "text": "of the vascular and lymphatic channels\nwhich drain the primary tumor."
+    },
+    {
+        "index": 48,
+        "start_time": 175551,
+        "end_time": 179841,
+        "text": "Patients with primary tumors that were\ndrained by vessels leading to the lung"
+    },
+    {
+        "index": 49,
+        "start_time": 179841,
+        "end_time": 182831,
+        "text": "would eventually develop lung metastases."
+    },
+    {
+        "index": 50,
+        "start_time": 182831,
+        "end_time": 186687,
+        "text": "Today, we know that both theories contain\nvaluable truths."
+    },
+    {
+        "index": 51,
+        "start_time": 186687,
+        "end_time": 190449,
+        "text": "Yet the full stories of metastasis is much\nmore complicated"
+    },
+    {
+        "index": 52,
+        "start_time": 190449,
+        "end_time": 192810,
+        "text": "than either of the two proposed theories."
+    },
+    {
+        "index": 53,
+        "start_time": 192810,
+        "end_time": 194880,
+        "text": "Factors like the cancer cell&#39;s properties,"
+    },
+    {
+        "index": 54,
+        "start_time": 194880,
+        "end_time": 198582,
+        "text": "and the effectiveness of the immune system\nin eliminating the cancer cells,"
+    },
+    {
+        "index": 55,
+        "start_time": 198582,
+        "end_time": 202831,
+        "text": "also play a role in determining\nthe success of metastasis."
+    },
+    {
+        "index": 56,
+        "start_time": 202831,
+        "end_time": 208098,
+        "text": "Unfortunately, many questions about \nmetastasis remain unanswered until today."
+    },
+    {
+        "index": 57,
+        "start_time": 208098,
+        "end_time": 210877,
+        "text": "Understanding the exact mechanism holds\nan important key"
+    },
+    {
+        "index": 58,
+        "start_time": 210877,
+        "end_time": 214211,
+        "text": "to finding a cure for\nadvanced stage cancers."
+    },
+    {
+        "index": 59,
+        "start_time": 214211,
+        "end_time": 217092,
+        "text": "By studying both the genetic and\nenvironmental factors,"
+    },
+    {
+        "index": 60,
+        "start_time": 217092,
+        "end_time": 219714,
+        "text": "which contribute to successful metastasis,"
+    },
+    {
+        "index": 61,
+        "start_time": 219714,
+        "end_time": 223140,
+        "text": "we can pinpoint ways to shut down\nthe process."
+    },
+    {
+        "index": 62,
+        "start_time": 223140,
+        "end_time": 225829,
+        "text": "The war against cancer is \na constant struggle,"
+    },
+    {
+        "index": 63,
+        "start_time": 225829,
+        "end_time": 230550,
+        "text": "and scientists are hard at work developing\nnew methods against metastasis."
+    },
+    {
+        "index": 64,
+        "start_time": 230550,
+        "end_time": 233238,
+        "text": "Of recent interest is immunotherapy,"
+    },
+    {
+        "index": 65,
+        "start_time": 233238,
+        "end_time": 236831,
+        "text": "a modality which involves harnessing the\npower of the immune system"
+    },
+    {
+        "index": 66,
+        "start_time": 236831,
+        "end_time": 239514,
+        "text": "to destroy the migrating cells."
+    },
+    {
+        "index": 67,
+        "start_time": 239514,
+        "end_time": 241226,
+        "text": "This can be done in different ways,"
+    },
+    {
+        "index": 68,
+        "start_time": 241226,
+        "end_time": 246767,
+        "text": "such as training immune cells to recognize\ncancerous cells via vaccines."
+    },
+    {
+        "index": 69,
+        "start_time": 246767,
+        "end_time": 248824,
+        "text": "The growth and activity\nof the immune cells"
+    },
+    {
+        "index": 70,
+        "start_time": 248824,
+        "end_time": 252911,
+        "text": "can also be stimulated by injecting\nman-made interleukins,"
+    },
+    {
+        "index": 71,
+        "start_time": 252911,
+        "end_time": 256855,
+        "text": "chemicals which are usually secreted by\nthe immune cells of the body."
+    },
+    {
+        "index": 72,
+        "start_time": 256855,
+        "end_time": 259718,
+        "text": "These two treatments are only the\ntip of the iceberg."
+    },
+    {
+        "index": 73,
+        "start_time": 259718,
+        "end_time": 263740,
+        "text": "With the collaborated research efforts of \ngovernments, companies and scientists,"
+    },
+    {
+        "index": 74,
+        "start_time": 263740,
+        "end_time": 267636,
+        "text": "perhaps the process of metastasis will\nbe stopped for good."
+    }
+]

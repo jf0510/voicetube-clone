@@ -1,0 +1,488 @@
+[
+    {
+        "index": 1,
+        "start_time": 6414,
+        "end_time": 8748,
+        "text": "The DNA in just one of your cells"
+    },
+    {
+        "index": 2,
+        "start_time": 8748,
+        "end_time": 12997,
+        "text": "gets damaged tens of thousands \nof times per day."
+    },
+    {
+        "index": 3,
+        "start_time": 12997,
+        "end_time": 16465,
+        "text": "Multiply that by your body&#39;s\nhundred trillion or so cells,"
+    },
+    {
+        "index": 4,
+        "start_time": 16465,
+        "end_time": 21575,
+        "text": "and you&#39;ve got a quintillion \nDNA errors everyday."
+    },
+    {
+        "index": 5,
+        "start_time": 21575,
+        "end_time": 23826,
+        "text": "And because DNA provides the blueprint"
+    },
+    {
+        "index": 6,
+        "start_time": 23826,
+        "end_time": 26431,
+        "text": "for the proteins \nyour cells need to function,"
+    },
+    {
+        "index": 7,
+        "start_time": 26431,
+        "end_time": 30574,
+        "text": "damage causes serious problems,\nsuch as cancer."
+    },
+    {
+        "index": 8,
+        "start_time": 30574,
+        "end_time": 32634,
+        "text": "The errors come in different forms."
+    },
+    {
+        "index": 9,
+        "start_time": 32634,
+        "end_time": 37905,
+        "text": "Sometimes nucleotides, \nDNA&#39;s building blocks, get damaged,"
+    },
+    {
+        "index": 10,
+        "start_time": 37905,
+        "end_time": 41092,
+        "text": "other times nucleotides \nget matched up incorrectly,"
+    },
+    {
+        "index": 11,
+        "start_time": 41092,
+        "end_time": 43049,
+        "text": "causing mutations,"
+    },
+    {
+        "index": 12,
+        "start_time": 43049,
+        "end_time": 48257,
+        "text": "and nicks in one or both strands\ncan interfere with DNA replication,"
+    },
+    {
+        "index": 13,
+        "start_time": 48257,
+        "end_time": 52083,
+        "text": "or even cause sections \nof DNA to get mixed up."
+    },
+    {
+        "index": 14,
+        "start_time": 52083,
+        "end_time": 56409,
+        "text": "Fortunately, your cells have ways\nof fixing most of these problems"
+    },
+    {
+        "index": 15,
+        "start_time": 56409,
+        "end_time": 58119,
+        "text": "most of the time."
+    },
+    {
+        "index": 16,
+        "start_time": 58119,
+        "end_time": 61908,
+        "text": "These repair pathways \nall rely on specialized enzymes."
+    },
+    {
+        "index": 17,
+        "start_time": 61908,
+        "end_time": 65313,
+        "text": "Different ones respond \nto different types of damage."
+    },
+    {
+        "index": 18,
+        "start_time": 65313,
+        "end_time": 67882,
+        "text": "One common error is base mismatches."
+    },
+    {
+        "index": 19,
+        "start_time": 67882,
+        "end_time": 70232,
+        "text": "Each nucleotide contains a base,"
+    },
+    {
+        "index": 20,
+        "start_time": 70232,
+        "end_time": 72262,
+        "text": "and during DNA replication,"
+    },
+    {
+        "index": 21,
+        "start_time": 72262,
+        "end_time": 76633,
+        "text": "the enzyme DNA polymerase\nis supposed to bring in the right partner"
+    },
+    {
+        "index": 22,
+        "start_time": 76633,
+        "end_time": 80582,
+        "text": "to pair with every base \non each template strand."
+    },
+    {
+        "index": 23,
+        "start_time": 80582,
+        "end_time": 84217,
+        "text": "Adenine with thymine,\nand guanine with cytosine."
+    },
+    {
+        "index": 24,
+        "start_time": 84217,
+        "end_time": 87169,
+        "text": "But about once every \nhundred thousand additions,"
+    },
+    {
+        "index": 25,
+        "start_time": 87169,
+        "end_time": 88976,
+        "text": "it makes a mistake."
+    },
+    {
+        "index": 26,
+        "start_time": 88976,
+        "end_time": 91286,
+        "text": "The enzyme catches \nmost of these right away,"
+    },
+    {
+        "index": 27,
+        "start_time": 91286,
+        "end_time": 95940,
+        "text": "and cuts off a few nucleotides\nand replaces them with the correct ones."
+    },
+    {
+        "index": 28,
+        "start_time": 95940,
+        "end_time": 97810,
+        "text": "And just in case it missed a few,"
+    },
+    {
+        "index": 29,
+        "start_time": 97810,
+        "end_time": 101369,
+        "text": "a second set of proteins \ncomes behind it to check."
+    },
+    {
+        "index": 30,
+        "start_time": 101369,
+        "end_time": 102848,
+        "text": "If they find a mismatch,"
+    },
+    {
+        "index": 31,
+        "start_time": 102848,
+        "end_time": 106257,
+        "text": "they cut out the incorrect nucleotide\nand replace it."
+    },
+    {
+        "index": 32,
+        "start_time": 106257,
+        "end_time": 108478,
+        "text": "This is called mismatch repair."
+    },
+    {
+        "index": 33,
+        "start_time": 108478,
+        "end_time": 112238,
+        "text": "Together, these two systems reduce\nthe number of base mismatch errors"
+    },
+    {
+        "index": 34,
+        "start_time": 112238,
+        "end_time": 115482,
+        "text": "to about one in one billion."
+    },
+    {
+        "index": 35,
+        "start_time": 115482,
+        "end_time": 119149,
+        "text": "But DNA can get damaged\nafter replication, too."
+    },
+    {
+        "index": 36,
+        "start_time": 119149,
+        "end_time": 122900,
+        "text": "Lots of different molecules\ncan cause chemical changes to nucleotides."
+    },
+    {
+        "index": 37,
+        "start_time": 122900,
+        "end_time": 126245,
+        "text": "Some of these come \nfrom environmental exposure,"
+    },
+    {
+        "index": 38,
+        "start_time": 126245,
+        "end_time": 129202,
+        "text": "like certain compounds in tobacco smoke."
+    },
+    {
+        "index": 39,
+        "start_time": 129202,
+        "end_time": 132349,
+        "text": "But others are molecules that are found\nin cells naturally,"
+    },
+    {
+        "index": 40,
+        "start_time": 132349,
+        "end_time": 134917,
+        "text": "like hydrogen peroxide."
+    },
+    {
+        "index": 41,
+        "start_time": 134917,
+        "end_time": 137143,
+        "text": "Certain chemical changes are so common"
+    },
+    {
+        "index": 42,
+        "start_time": 137143,
+        "end_time": 141348,
+        "text": "that they have specific enzymes assigned\nto reverse the damage."
+    },
+    {
+        "index": 43,
+        "start_time": 141348,
+        "end_time": 144885,
+        "text": "But the cell also has more general\nrepair pathways."
+    },
+    {
+        "index": 44,
+        "start_time": 144885,
+        "end_time": 147231,
+        "text": "If just one base is damaged,"
+    },
+    {
+        "index": 45,
+        "start_time": 147231,
+        "end_time": 152143,
+        "text": "it can usually be fixed by a process\ncalled base excision repair."
+    },
+    {
+        "index": 46,
+        "start_time": 152143,
+        "end_time": 154528,
+        "text": "One enzyme snips out the damaged base,"
+    },
+    {
+        "index": 47,
+        "start_time": 154528,
+        "end_time": 160410,
+        "text": "and other enzymes come in to trim around\nthe site and replace the nucleotides."
+    },
+    {
+        "index": 48,
+        "start_time": 160410,
+        "end_time": 165290,
+        "text": "UV light can cause damage \nthat&#39;s a little harder to fix."
+    },
+    {
+        "index": 49,
+        "start_time": 165290,
+        "end_time": 169274,
+        "text": "Sometimes, it causes two adjacent\nnucleotides to stick together,"
+    },
+    {
+        "index": 50,
+        "start_time": 169274,
+        "end_time": 172394,
+        "text": "distorting the DNA&#39;s double helix shape."
+    },
+    {
+        "index": 51,
+        "start_time": 172394,
+        "end_time": 175567,
+        "text": "Damage like this requires \na more complex process"
+    },
+    {
+        "index": 52,
+        "start_time": 175567,
+        "end_time": 178975,
+        "text": "called nucleotide excision repair."
+    },
+    {
+        "index": 53,
+        "start_time": 178975,
+        "end_time": 184015,
+        "text": "A team of proteins removes a long strand\nof 24 or so nucleotides,"
+    },
+    {
+        "index": 54,
+        "start_time": 184015,
+        "end_time": 186745,
+        "text": "and replaces them with fresh ones."
+    },
+    {
+        "index": 55,
+        "start_time": 186745,
+        "end_time": 190700,
+        "text": "Very high frequency radiation,\nlike gamma rays and x-rays,"
+    },
+    {
+        "index": 56,
+        "start_time": 190700,
+        "end_time": 193101,
+        "text": "cause a different kind of damage."
+    },
+    {
+        "index": 57,
+        "start_time": 193101,
+        "end_time": 198285,
+        "text": "They can actually sever one \nor both strands of the DNA backbone."
+    },
+    {
+        "index": 58,
+        "start_time": 198285,
+        "end_time": 201303,
+        "text": "Double strand breaks\nare the most dangerous."
+    },
+    {
+        "index": 59,
+        "start_time": 201303,
+        "end_time": 204066,
+        "text": "Even one can cause cell death."
+    },
+    {
+        "index": 60,
+        "start_time": 204066,
+        "end_time": 207503,
+        "text": "The two most common pathways\nfor repairing double strand breaks"
+    },
+    {
+        "index": 61,
+        "start_time": 207503,
+        "end_time": 213081,
+        "text": "are called homologous recombination\nand non-homologous end joining."
+    },
+    {
+        "index": 62,
+        "start_time": 213081,
+        "end_time": 219186,
+        "text": "Homologous recombination uses an undamaged\nsection of similar DNA as a template."
+    },
+    {
+        "index": 63,
+        "start_time": 219186,
+        "end_time": 223850,
+        "text": "Enzymes interlace the damaged\nand undamgaed strands,"
+    },
+    {
+        "index": 64,
+        "start_time": 223850,
+        "end_time": 226449,
+        "text": "get them to exchange sequences\nof nucleotides,"
+    },
+    {
+        "index": 65,
+        "start_time": 226449,
+        "end_time": 229244,
+        "text": "and finally fill in the missing gaps"
+    },
+    {
+        "index": 66,
+        "start_time": 229244,
+        "end_time": 233229,
+        "text": "to end up with two complete\ndouble-stranded segments."
+    },
+    {
+        "index": 67,
+        "start_time": 233229,
+        "end_time": 235891,
+        "text": "Non-homologous end joining,\non the other hand,"
+    },
+    {
+        "index": 68,
+        "start_time": 235891,
+        "end_time": 238108,
+        "text": "doesn&#39;t rely on a template."
+    },
+    {
+        "index": 69,
+        "start_time": 238108,
+        "end_time": 242540,
+        "text": "Instead, a series of proteins\ntrims off a few nucleotides"
+    },
+    {
+        "index": 70,
+        "start_time": 242540,
+        "end_time": 246565,
+        "text": "and then fuses the broken ends \nback together."
+    },
+    {
+        "index": 71,
+        "start_time": 246565,
+        "end_time": 248554,
+        "text": "This process isn&#39;t as accurate."
+    },
+    {
+        "index": 72,
+        "start_time": 248554,
+        "end_time": 252187,
+        "text": "It can cause genes to get mixed up,\nor moved around."
+    },
+    {
+        "index": 73,
+        "start_time": 252187,
+        "end_time": 256332,
+        "text": "But it&#39;s useful when \nsister DNA isn&#39;t available."
+    },
+    {
+        "index": 74,
+        "start_time": 256332,
+        "end_time": 260149,
+        "text": "Of course, changes to DNA \naren&#39;t always bad."
+    },
+    {
+        "index": 75,
+        "start_time": 260149,
+        "end_time": 263751,
+        "text": "Beneficial mutations \ncan allow a species to evolve."
+    },
+    {
+        "index": 76,
+        "start_time": 263751,
+        "end_time": 267663,
+        "text": "But most of the time, \nwe want DNA to stay the same."
+    },
+    {
+        "index": 77,
+        "start_time": 267663,
+        "end_time": 271776,
+        "text": "Defects in DNA repair are associated\nwith premature aging"
+    },
+    {
+        "index": 78,
+        "start_time": 271776,
+        "end_time": 274010,
+        "text": "and many kinds of cancer."
+    },
+    {
+        "index": 79,
+        "start_time": 274010,
+        "end_time": 276224,
+        "text": "So if you&#39;re looking for \na fountain of youth,"
+    },
+    {
+        "index": 80,
+        "start_time": 276224,
+        "end_time": 279160,
+        "text": "it&#39;s already operating in your cells,"
+    },
+    {
+        "index": 81,
+        "start_time": 279160,
+        "end_time": 282719,
+        "text": "billions and billions of times a day."
+    }
+]

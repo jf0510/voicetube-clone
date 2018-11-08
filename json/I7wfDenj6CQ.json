@@ -1,0 +1,650 @@
+[
+    {
+        "index": 1,
+        "start_time": 0,
+        "end_time": 7000,
+        "text": "Translator: Jessica Ruby\nReviewer: Caroline Cristal"
+    },
+    {
+        "index": 2,
+        "start_time": 6998,
+        "end_time": 10848,
+        "text": "Let&#39;s say that it would take you\nten minutes to solve this puzzle."
+    },
+    {
+        "index": 3,
+        "start_time": 10872,
+        "end_time": 12393,
+        "text": "How long would it take"
+    },
+    {
+        "index": 4,
+        "start_time": 12417,
+        "end_time": 15773,
+        "text": "if you received constant\nelectric shocks to your hands?"
+    },
+    {
+        "index": 5,
+        "start_time": 15797,
+        "end_time": 17159,
+        "text": "Longer, right?"
+    },
+    {
+        "index": 6,
+        "start_time": 17183,
+        "end_time": 19564,
+        "text": "Because the pain would distract\nyou from the task."
+    },
+    {
+        "index": 7,
+        "start_time": 19588,
+        "end_time": 21025,
+        "text": "Well, maybe not;"
+    },
+    {
+        "index": 8,
+        "start_time": 21049,
+        "end_time": 23429,
+        "text": "it depends on how you handle pain."
+    },
+    {
+        "index": 9,
+        "start_time": 23453,
+        "end_time": 25337,
+        "text": "Some people are distracted by pain."
+    },
+    {
+        "index": 10,
+        "start_time": 25361,
+        "end_time": 28908,
+        "text": "It takes them longer to complete a task,\nand they do it less well."
+    },
+    {
+        "index": 11,
+        "start_time": 28932,
+        "end_time": 32705,
+        "text": "Other people use tasks to distract\nthemselves from pain,"
+    },
+    {
+        "index": 12,
+        "start_time": 32729,
+        "end_time": 34957,
+        "text": "and those people actually do the task"
+    },
+    {
+        "index": 13,
+        "start_time": 34981,
+        "end_time": 37626,
+        "text": "faster and better when they&#39;re in pain"
+    },
+    {
+        "index": 14,
+        "start_time": 37650,
+        "end_time": 39460,
+        "text": "than when they&#39;re not."
+    },
+    {
+        "index": 15,
+        "start_time": 39484,
+        "end_time": 41675,
+        "text": "Some people can just send\ntheir mind wandering"
+    },
+    {
+        "index": 16,
+        "start_time": 41699,
+        "end_time": 43921,
+        "text": "to distract themselves from pain."
+    },
+    {
+        "index": 17,
+        "start_time": 43945,
+        "end_time": 45088,
+        "text": "How can different people"
+    },
+    {
+        "index": 18,
+        "start_time": 45112,
+        "end_time": 47971,
+        "text": "be subjected to the exact\nsame painful stimulus"
+    },
+    {
+        "index": 19,
+        "start_time": 47995,
+        "end_time": 51005,
+        "text": "and yet experience\nthe pain so differently?"
+    },
+    {
+        "index": 20,
+        "start_time": 51029,
+        "end_time": 52755,
+        "text": "And why does this matter?"
+    },
+    {
+        "index": 21,
+        "start_time": 52779,
+        "end_time": 54838,
+        "text": "First of all, what is pain?"
+    },
+    {
+        "index": 22,
+        "start_time": 54862,
+        "end_time": 58481,
+        "text": "Pain is an unpleasant sensory\nand emotional experience,"
+    },
+    {
+        "index": 23,
+        "start_time": 58505,
+        "end_time": 62108,
+        "text": "associated with actual\nor potential tissue damage."
+    },
+    {
+        "index": 24,
+        "start_time": 62132,
+        "end_time": 63820,
+        "text": "Pain is something we experience,"
+    },
+    {
+        "index": 25,
+        "start_time": 63844,
+        "end_time": 66612,
+        "text": "so it&#39;s best measured\nby what you say it is."
+    },
+    {
+        "index": 26,
+        "start_time": 66636,
+        "end_time": 68322,
+        "text": "Pain has an intensity;"
+    },
+    {
+        "index": 27,
+        "start_time": 68346,
+        "end_time": 69868,
+        "text": "you can describe it on a scale"
+    },
+    {
+        "index": 28,
+        "start_time": 69892,
+        "end_time": 73300,
+        "text": "from zero, no pain, to ten,\nthe most pain imaginable."
+    },
+    {
+        "index": 29,
+        "start_time": 74104,
+        "end_time": 76255,
+        "text": "But pain also has a character,"
+    },
+    {
+        "index": 30,
+        "start_time": 76279,
+        "end_time": 80587,
+        "text": "like sharp, dull, burning, or aching."
+    },
+    {
+        "index": 31,
+        "start_time": 80611,
+        "end_time": 83224,
+        "text": "What exactly creates these\nperceptions of pain?"
+    },
+    {
+        "index": 32,
+        "start_time": 84026,
+        "end_time": 85466,
+        "text": "Well, when you get hurt,"
+    },
+    {
+        "index": 33,
+        "start_time": 85490,
+        "end_time": 88135,
+        "text": "special tissue damage-sensing nerve cells,"
+    },
+    {
+        "index": 34,
+        "start_time": 88159,
+        "end_time": 91221,
+        "text": "called nociceptors, fire and send signals"
+    },
+    {
+        "index": 35,
+        "start_time": 91245,
+        "end_time": 94172,
+        "text": "to the spinal cord\nand then up to the brain."
+    },
+    {
+        "index": 36,
+        "start_time": 94196,
+        "end_time": 98504,
+        "text": "Processing work gets done\nby cells called neurons and glia."
+    },
+    {
+        "index": 37,
+        "start_time": 98528,
+        "end_time": 100481,
+        "text": "This is your Grey matter."
+    },
+    {
+        "index": 38,
+        "start_time": 100505,
+        "end_time": 104819,
+        "text": "And brain superhighways carry information\nas electrical impulses"
+    },
+    {
+        "index": 39,
+        "start_time": 104843,
+        "end_time": 106568,
+        "text": "from one area to another."
+    },
+    {
+        "index": 40,
+        "start_time": 106592,
+        "end_time": 108121,
+        "text": "This is your white matter."
+    },
+    {
+        "index": 41,
+        "start_time": 108145,
+        "end_time": 111423,
+        "text": "The superhighway that carries\npain information"
+    },
+    {
+        "index": 42,
+        "start_time": 111447,
+        "end_time": 113368,
+        "text": "from the spinal cord to the brain"
+    },
+    {
+        "index": 43,
+        "start_time": 113392,
+        "end_time": 115121,
+        "text": "is our sensing pathway"
+    },
+    {
+        "index": 44,
+        "start_time": 115145,
+        "end_time": 116830,
+        "text": "that ends in the cortex,"
+    },
+    {
+        "index": 45,
+        "start_time": 116854,
+        "end_time": 119107,
+        "text": "a part of the brain\nthat decides what to do"
+    },
+    {
+        "index": 46,
+        "start_time": 119131,
+        "end_time": 120193,
+        "text": "with the pain signal."
+    },
+    {
+        "index": 47,
+        "start_time": 121106,
+        "end_time": 123337,
+        "text": "Another system\nof interconnected brain cells"
+    },
+    {
+        "index": 48,
+        "start_time": 123361,
+        "end_time": 125128,
+        "text": "called the salience network"
+    },
+    {
+        "index": 49,
+        "start_time": 125152,
+        "end_time": 127588,
+        "text": "decides what to pay attention to."
+    },
+    {
+        "index": 50,
+        "start_time": 127612,
+        "end_time": 129883,
+        "text": "Since pain can have serious consequences,"
+    },
+    {
+        "index": 51,
+        "start_time": 129907,
+        "end_time": 133616,
+        "text": "the pain signal immediately activates\nthe salience network."
+    },
+    {
+        "index": 52,
+        "start_time": 134433,
+        "end_time": 136306,
+        "text": "Now, you&#39;re paying attention."
+    },
+    {
+        "index": 53,
+        "start_time": 136330,
+        "end_time": 138755,
+        "text": "The brain also responds to the pain"
+    },
+    {
+        "index": 54,
+        "start_time": 138779,
+        "end_time": 141256,
+        "text": "and has to cope with these pain signals."
+    },
+    {
+        "index": 55,
+        "start_time": 141280,
+        "end_time": 143355,
+        "text": "So, motor pathways are activated"
+    },
+    {
+        "index": 56,
+        "start_time": 143379,
+        "end_time": 145804,
+        "text": "to take your hand off\na hot stove, for example."
+    },
+    {
+        "index": 57,
+        "start_time": 146621,
+        "end_time": 149113,
+        "text": "But modulation networks are also activated"
+    },
+    {
+        "index": 58,
+        "start_time": 149137,
+        "end_time": 152006,
+        "text": "that deliver endorphins and enkephalins,"
+    },
+    {
+        "index": 59,
+        "start_time": 152030,
+        "end_time": 155952,
+        "text": "chemicals released when you&#39;re in pain\nor during extreme exercise,"
+    },
+    {
+        "index": 60,
+        "start_time": 155976,
+        "end_time": 157921,
+        "text": "creating the runner&#39;s high."
+    },
+    {
+        "index": 61,
+        "start_time": 157945,
+        "end_time": 161208,
+        "text": "These chemical systems help\nregulate and reduce pain."
+    },
+    {
+        "index": 62,
+        "start_time": 162051,
+        "end_time": 164394,
+        "text": "All these networks\nand pathways work together"
+    },
+    {
+        "index": 63,
+        "start_time": 164418,
+        "end_time": 166407,
+        "text": "to create your pain experience,"
+    },
+    {
+        "index": 64,
+        "start_time": 166431,
+        "end_time": 168213,
+        "text": "to prevent further tissue damage,"
+    },
+    {
+        "index": 65,
+        "start_time": 168237,
+        "end_time": 170255,
+        "text": "and help you to cope with pain."
+    },
+    {
+        "index": 66,
+        "start_time": 170279,
+        "end_time": 172887,
+        "text": "This system is similar for everyone,"
+    },
+    {
+        "index": 67,
+        "start_time": 172911,
+        "end_time": 176421,
+        "text": "but the sensitivity and efficacy\nof these brain circuits"
+    },
+    {
+        "index": 68,
+        "start_time": 176445,
+        "end_time": 179587,
+        "text": "determines how much\nyou feel and cope with pain."
+    },
+    {
+        "index": 69,
+        "start_time": 179611,
+        "end_time": 182589,
+        "text": "This is why some people have\ngreater pain than others"
+    },
+    {
+        "index": 70,
+        "start_time": 182613,
+        "end_time": 184589,
+        "text": "and why some develop chronic pain"
+    },
+    {
+        "index": 71,
+        "start_time": 184613,
+        "end_time": 186400,
+        "text": "that does not respond to treatment,"
+    },
+    {
+        "index": 72,
+        "start_time": 186424,
+        "end_time": 188318,
+        "text": "while others respond well."
+    },
+    {
+        "index": 73,
+        "start_time": 188342,
+        "end_time": 190422,
+        "text": "Variability in pain sensitivities"
+    },
+    {
+        "index": 74,
+        "start_time": 190446,
+        "end_time": 193156,
+        "text": "is not so different\nthan all kinds of variability"
+    },
+    {
+        "index": 75,
+        "start_time": 193180,
+        "end_time": 194836,
+        "text": "in responses to other stimuli."
+    },
+    {
+        "index": 76,
+        "start_time": 195672,
+        "end_time": 197727,
+        "text": "Like how some people love roller coasters,"
+    },
+    {
+        "index": 77,
+        "start_time": 197751,
+        "end_time": 200920,
+        "text": "but other people suffer\nfrom terrible motion sickness."
+    },
+    {
+        "index": 78,
+        "start_time": 200944,
+        "end_time": 203091,
+        "text": "Why does it matter\nthat there is variability"
+    },
+    {
+        "index": 79,
+        "start_time": 203115,
+        "end_time": 204961,
+        "text": "in our pain brain circuits?"
+    },
+    {
+        "index": 80,
+        "start_time": 204985,
+        "end_time": 207002,
+        "text": "Well, there are many treatments for pain,"
+    },
+    {
+        "index": 81,
+        "start_time": 207026,
+        "end_time": 208754,
+        "text": "targeting different systems."
+    },
+    {
+        "index": 82,
+        "start_time": 208778,
+        "end_time": 211339,
+        "text": "For mild pain,\nnon-prescription medications"
+    },
+    {
+        "index": 83,
+        "start_time": 211363,
+        "end_time": 214053,
+        "text": "can act on cells\nwhere the pain signals start."
+    },
+    {
+        "index": 84,
+        "start_time": 214077,
+        "end_time": 216921,
+        "text": "Other stronger pain\nmedicines and anesthetics"
+    },
+    {
+        "index": 85,
+        "start_time": 216945,
+        "end_time": 220506,
+        "text": "work by reducing the activity\nin pain-sensing circuits"
+    },
+    {
+        "index": 86,
+        "start_time": 220530,
+        "end_time": 224323,
+        "text": "or boosting our coping\nsystem, or endorphins."
+    },
+    {
+        "index": 87,
+        "start_time": 224347,
+        "end_time": 227172,
+        "text": "Some people can cope with pain\nusing methods that involve"
+    },
+    {
+        "index": 88,
+        "start_time": 227196,
+        "end_time": 230671,
+        "text": "distraction, relaxation, meditation, yoga,"
+    },
+    {
+        "index": 89,
+        "start_time": 230695,
+        "end_time": 234266,
+        "text": "or strategies that can be taught,\nlike cognitive behavioral therapy."
+    },
+    {
+        "index": 90,
+        "start_time": 235177,
+        "end_time": 237921,
+        "text": "For some people who suffer\nfrom severe chronic pain,"
+    },
+    {
+        "index": 91,
+        "start_time": 237945,
+        "end_time": 239619,
+        "text": "that is pain that doesn&#39;t go away"
+    },
+    {
+        "index": 92,
+        "start_time": 239643,
+        "end_time": 241755,
+        "text": "months after their injury\nshould have healed,"
+    },
+    {
+        "index": 93,
+        "start_time": 241779,
+        "end_time": 243789,
+        "text": "none of the regular treatments work."
+    },
+    {
+        "index": 94,
+        "start_time": 243813,
+        "end_time": 246088,
+        "text": "Traditionally, medical\nscience has been about"
+    },
+    {
+        "index": 95,
+        "start_time": 246112,
+        "end_time": 248084,
+        "text": "testing treatments on large groups"
+    },
+    {
+        "index": 96,
+        "start_time": 248108,
+        "end_time": 251171,
+        "text": "to determine what would help\na majority of patients."
+    },
+    {
+        "index": 97,
+        "start_time": 251195,
+        "end_time": 252881,
+        "text": "But this has usually left out"
+    },
+    {
+        "index": 98,
+        "start_time": 252905,
+        "end_time": 254905,
+        "text": "some who didn&#39;t benefit from the treatment"
+    },
+    {
+        "index": 99,
+        "start_time": 254929,
+        "end_time": 256753,
+        "text": "or experienced side effects."
+    },
+    {
+        "index": 100,
+        "start_time": 256777,
+        "end_time": 260139,
+        "text": "Now, new treatments that directly\nstimulate or block"
+    },
+    {
+        "index": 101,
+        "start_time": 260163,
+        "end_time": 264172,
+        "text": "certain pain-sensing attention\nor modulation networks"
+    },
+    {
+        "index": 102,
+        "start_time": 264196,
+        "end_time": 265838,
+        "text": "are being developed,"
+    },
+    {
+        "index": 103,
+        "start_time": 265862,
+        "end_time": 269365,
+        "text": "along with ways to tailor them\nto individual patients,"
+    },
+    {
+        "index": 104,
+        "start_time": 269389,
+        "end_time": 271818,
+        "text": "using tools like magnetic\nresonance imaging"
+    },
+    {
+        "index": 105,
+        "start_time": 271842,
+        "end_time": 273318,
+        "text": "to map brain pathways."
+    },
+    {
+        "index": 106,
+        "start_time": 274215,
+        "end_time": 276490,
+        "text": "Figuring out how your brain\nresponds to pain"
+    },
+    {
+        "index": 107,
+        "start_time": 276514,
+        "end_time": 279451,
+        "text": "is the key to finding\nthe best treatment for you."
+    },
+    {
+        "index": 108,
+        "start_time": 279475,
+        "end_time": 281557,
+        "text": "That&#39;s true personalized medicine."
+    }
+]

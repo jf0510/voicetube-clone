@@ -1,0 +1,62 @@
+[
+  {
+    "end_time": 6829,
+    "index": 1,
+    "start_time": 310,
+    "text": "Intel has announced at Intel Developer Forum\n(IDF) 2015 that it will bring its new 3D Xpoint"
+  },
+  {
+    "end_time": 11530,
+    "index": 2,
+    "start_time": 6830,
+    "text": "memory to market next year under the brand\nname Optane."
+  },
+  {
+    "end_time": 17630,
+    "index": 3,
+    "start_time": 11530,
+    "text": "Optane will be 7 times faster than today&#39;s\nsolid state drives. Optane drives will include"
+  },
+  {
+    "end_time": 24229,
+    "index": 4,
+    "start_time": 17630,
+    "text": "a specialized software stack, Intel\u2019s custom\nstorage controllers, and the 3D Xpoint memory."
+  },
+  {
+    "end_time": 31820,
+    "index": 5,
+    "start_time": 24230,
+    "text": "3D XPoint doesn\u2019t just boost speed: it increases\nstorage density, too. Its stacked design keeps"
+  },
+  {
+    "end_time": 38120,
+    "index": 6,
+    "start_time": 31820,
+    "text": "things compact, and the memory doesn\u2019t need\nto make room for transistors. 3D XPoint can"
+  },
+  {
+    "end_time": 42430,
+    "index": 7,
+    "start_time": 38120,
+    "text": "read from or write to individual memory cells\nby simply altering voltages."
+  },
+  {
+    "end_time": 49080,
+    "index": 8,
+    "start_time": 42430,
+    "text": "Intel says the technology is affordable enough\nthat Optane drives will be made available"
+  },
+  {
+    "end_time": 55510,
+    "index": 9,
+    "start_time": 49080,
+    "text": "next year for uses ranging from large corporate\ndata centers to lightweight laptops. They"
+  },
+  {
+    "end_time": 58820,
+    "index": 10,
+    "start_time": 55510,
+    "text": "would improve gaming, supercomputers, and\ndata analysis."
+  }
+]

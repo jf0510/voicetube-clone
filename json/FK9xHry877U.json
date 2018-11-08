@@ -1,0 +1,392 @@
+[
+    {
+        "index": 1,
+        "start_time": 7275,
+        "end_time": 10726,
+        "text": "The elephant is a creature\nof epic proportions,"
+    },
+    {
+        "index": 2,
+        "start_time": 10726,
+        "end_time": 16454,
+        "text": "and yet it owes its enormity to more\nthan 1,000 trillion microscopic cells,"
+    },
+    {
+        "index": 3,
+        "start_time": 16454,
+        "end_time": 18765,
+        "text": "and on the epically small end of things,"
+    },
+    {
+        "index": 4,
+        "start_time": 18765,
+        "end_time": 21966,
+        "text": "there are likely millions \nof unicellular species,"
+    },
+    {
+        "index": 5,
+        "start_time": 21966,
+        "end_time": 25476,
+        "text": "yet there are very few we can see\nwith the naked eye."
+    },
+    {
+        "index": 6,
+        "start_time": 25476,
+        "end_time": 26585,
+        "text": "Why is that?"
+    },
+    {
+        "index": 7,
+        "start_time": 26585,
+        "end_time": 28867,
+        "text": "Why don&#39;t we get unicellular elephants,"
+    },
+    {
+        "index": 8,
+        "start_time": 28867,
+        "end_time": 29997,
+        "text": "or blue whales,"
+    },
+    {
+        "index": 9,
+        "start_time": 29997,
+        "end_time": 31657,
+        "text": "or brown bears?"
+    },
+    {
+        "index": 10,
+        "start_time": 31657,
+        "end_time": 34929,
+        "text": "To find out, we have to peer into\na cell&#39;s guts."
+    },
+    {
+        "index": 11,
+        "start_time": 34929,
+        "end_time": 37986,
+        "text": "This is where most \nof the cell&#39;s functions occur,"
+    },
+    {
+        "index": 12,
+        "start_time": 37986,
+        "end_time": 40247,
+        "text": "enclosed by a cellular membrane"
+    },
+    {
+        "index": 13,
+        "start_time": 40247,
+        "end_time": 43876,
+        "text": "that acts as the doorway into \nand out of the cell."
+    },
+    {
+        "index": 14,
+        "start_time": 43876,
+        "end_time": 46037,
+        "text": "Any resources the cell needs to consume,"
+    },
+    {
+        "index": 15,
+        "start_time": 46037,
+        "end_time": 48736,
+        "text": "or waste products it needs to expel,"
+    },
+    {
+        "index": 16,
+        "start_time": 48736,
+        "end_time": 51497,
+        "text": "first have to pass through this membrane."
+    },
+    {
+        "index": 17,
+        "start_time": 51497,
+        "end_time": 54477,
+        "text": "But there&#39;s a biological quirk \nin this set up."
+    },
+    {
+        "index": 18,
+        "start_time": 54477,
+        "end_time": 58476,
+        "text": "A cell&#39;s surface and volume increase\nat different rates."
+    },
+    {
+        "index": 19,
+        "start_time": 58476,
+        "end_time": 60717,
+        "text": "Cells come in many shapes,"
+    },
+    {
+        "index": 20,
+        "start_time": 60717,
+        "end_time": 65427,
+        "text": "but imagining them as cubes will make\nthe math easy to calculate."
+    },
+    {
+        "index": 21,
+        "start_time": 65427,
+        "end_time": 67036,
+        "text": "A cube has six faces."
+    },
+    {
+        "index": 22,
+        "start_time": 67036,
+        "end_time": 71545,
+        "text": "These represent the cell membrane,\nand make up its surface area."
+    },
+    {
+        "index": 23,
+        "start_time": 71545,
+        "end_time": 74636,
+        "text": "A cube measuring one micrometer\non each side,"
+    },
+    {
+        "index": 24,
+        "start_time": 74636,
+        "end_time": 76757,
+        "text": "that&#39;s one millionth of a meter,"
+    },
+    {
+        "index": 25,
+        "start_time": 76757,
+        "end_time": 81137,
+        "text": "would have a total surface area\nof six square micrometers."
+    },
+    {
+        "index": 26,
+        "start_time": 81137,
+        "end_time": 84068,
+        "text": "And its volume would be \none cubic micrometer."
+    },
+    {
+        "index": 27,
+        "start_time": 84068,
+        "end_time": 86171,
+        "text": "This would give us six units \nof surface area"
+    },
+    {
+        "index": 28,
+        "start_time": 86171,
+        "end_time": 88601,
+        "text": "for every single unit of volume,"
+    },
+    {
+        "index": 29,
+        "start_time": 88601,
+        "end_time": 90787,
+        "text": "a six to one ratio."
+    },
+    {
+        "index": 30,
+        "start_time": 90787,
+        "end_time": 95152,
+        "text": "But things change dramatically\nif we make the cube ten times bigger,"
+    },
+    {
+        "index": 31,
+        "start_time": 95152,
+        "end_time": 98086,
+        "text": "measuring ten micrometers on each side."
+    },
+    {
+        "index": 32,
+        "start_time": 98086,
+        "end_time": 101973,
+        "text": "This cell would have a surface area\nof 600 square micrometers"
+    },
+    {
+        "index": 33,
+        "start_time": 101973,
+        "end_time": 105541,
+        "text": "and a volume of one thousand\ncubic micrometers,"
+    },
+    {
+        "index": 34,
+        "start_time": 105541,
+        "end_time": 108457,
+        "text": "a ratio of only .6 to one."
+    },
+    {
+        "index": 35,
+        "start_time": 108457,
+        "end_time": 113388,
+        "text": "That&#39;s less than one unit of surface area\nto service each unit of volume."
+    },
+    {
+        "index": 36,
+        "start_time": 113388,
+        "end_time": 118367,
+        "text": "As the cube grows, its volume increases\nmuch faster than its surface area."
+    },
+    {
+        "index": 37,
+        "start_time": 118367,
+        "end_time": 122132,
+        "text": "The interior would overtake the membrane,"
+    },
+    {
+        "index": 38,
+        "start_time": 122132,
+        "end_time": 128088,
+        "text": "leaving too little surface area for things\nto quickly move in and out of the cell."
+    },
+    {
+        "index": 39,
+        "start_time": 128088,
+        "end_time": 133900,
+        "text": "A huge cell would back up with waste\nand eventually die and disintegrate."
+    },
+    {
+        "index": 40,
+        "start_time": 133900,
+        "end_time": 138038,
+        "text": "There&#39;s another plus to having multitudes\nof smaller cells, too."
+    },
+    {
+        "index": 41,
+        "start_time": 138038,
+        "end_time": 142768,
+        "text": "It&#39;s hardly a tragedy if one gets \npunctured, infected, or destroyed."
+    },
+    {
+        "index": 42,
+        "start_time": 142768,
+        "end_time": 146320,
+        "text": "Now, there are some \nexceptionally large cells"
+    },
+    {
+        "index": 43,
+        "start_time": 146320,
+        "end_time": 148868,
+        "text": "that have adapted to cheat the system,"
+    },
+    {
+        "index": 44,
+        "start_time": 148868,
+        "end_time": 150889,
+        "text": "like the body&#39;s longest cell,"
+    },
+    {
+        "index": 45,
+        "start_time": 150889,
+        "end_time": 155090,
+        "text": "a neuron that stretches from the base\nof the spine to the foot."
+    },
+    {
+        "index": 46,
+        "start_time": 155090,
+        "end_time": 157621,
+        "text": "To compensate for its length,\nit&#39;s really thin,"
+    },
+    {
+        "index": 47,
+        "start_time": 157621,
+        "end_time": 160020,
+        "text": "just a few micrometers in diameter."
+    },
+    {
+        "index": 48,
+        "start_time": 160020,
+        "end_time": 163619,
+        "text": "Another example can be found\nin your small intestine,"
+    },
+    {
+        "index": 49,
+        "start_time": 163619,
+        "end_time": 167450,
+        "text": "where structures called villi\nfold up into little fingers."
+    },
+    {
+        "index": 50,
+        "start_time": 167450,
+        "end_time": 171860,
+        "text": "Each villus is made of cells with highly\nfolded membranes"
+    },
+    {
+        "index": 51,
+        "start_time": 171860,
+        "end_time": 176513,
+        "text": "that have tiny bumps called microvilli\nto increase their surface area."
+    },
+    {
+        "index": 52,
+        "start_time": 176513,
+        "end_time": 179690,
+        "text": "But what about single-celled organisms?"
+    },
+    {
+        "index": 53,
+        "start_time": 179690,
+        "end_time": 185450,
+        "text": "Caulerpa taxifolia, a green algae\nthat can reach 30 centimeters long,"
+    },
+    {
+        "index": 54,
+        "start_time": 185450,
+        "end_time": 190001,
+        "text": "is believed to be the largest \nsingle-celled organism in the world"
+    },
+    {
+        "index": 55,
+        "start_time": 190001,
+        "end_time": 192819,
+        "text": "thanks to its unique biological hacks."
+    },
+    {
+        "index": 56,
+        "start_time": 192819,
+        "end_time": 196222,
+        "text": "Its surface area is enhanced with\na frond-like structure."
+    },
+    {
+        "index": 57,
+        "start_time": 196222,
+        "end_time": 200513,
+        "text": "It uses photosynthesis to assemble\nits own food molecules"
+    },
+    {
+        "index": 58,
+        "start_time": 200513,
+        "end_time": 202671,
+        "text": "and it&#39;s coenocytic."
+    },
+    {
+        "index": 59,
+        "start_time": 202671,
+        "end_time": 206171,
+        "text": "That means it&#39;s a single cell\nwith multiple nuclei,"
+    },
+    {
+        "index": 60,
+        "start_time": 206171,
+        "end_time": 211471,
+        "text": "making it like a multicellular organism\nbut without the divisions between cells."
+    },
+    {
+        "index": 61,
+        "start_time": 211471,
+        "end_time": 215161,
+        "text": "Yet even the biggest unicellular organisms\nhave limits,"
+    },
+    {
+        "index": 62,
+        "start_time": 215161,
+        "end_time": 220061,
+        "text": "and none grows nearly as large\nas the elephant, whale, or bear."
+    },
+    {
+        "index": 63,
+        "start_time": 220061,
+        "end_time": 224321,
+        "text": "But within every big creature\nare trillions of minuscule cells"
+    },
+    {
+        "index": 64,
+        "start_time": 224321,
+        "end_time": 227152,
+        "text": "perfectly suited in all their tininess"
+    },
+    {
+        "index": 65,
+        "start_time": 227152,
+        "end_time": 230251,
+        "text": "to keeping the Earth&#39;s giants \nlumbering along."
+    }
+]

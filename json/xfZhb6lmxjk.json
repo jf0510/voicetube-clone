@@ -1,0 +1,440 @@
+[
+    {
+        "index": 1,
+        "start_time": 6983,
+        "end_time": 10717,
+        "text": "It&#39;s often said that despite \nhumanity&#39;s many conflicts,"
+    },
+    {
+        "index": 2,
+        "start_time": 10717,
+        "end_time": 14251,
+        "text": "we all bleed the same blood."
+    },
+    {
+        "index": 3,
+        "start_time": 14251,
+        "end_time": 17531,
+        "text": "It&#39;s a nice thought\nbut not quite accurate."
+    },
+    {
+        "index": 4,
+        "start_time": 17531,
+        "end_time": 21542,
+        "text": "In fact, our blood comes \nin a few different varieties."
+    },
+    {
+        "index": 5,
+        "start_time": 21542,
+        "end_time": 25269,
+        "text": "Our red blood cells contain\na protein called hemoglobin"
+    },
+    {
+        "index": 6,
+        "start_time": 25269,
+        "end_time": 27114,
+        "text": "that binds to oxygen,"
+    },
+    {
+        "index": 7,
+        "start_time": 27114,
+        "end_time": 30330,
+        "text": "allowing the cells to transport it\nthroughout the body."
+    },
+    {
+        "index": 8,
+        "start_time": 30330,
+        "end_time": 33251,
+        "text": "But they also have another kind\nof complex protein"
+    },
+    {
+        "index": 9,
+        "start_time": 33251,
+        "end_time": 35947,
+        "text": "on the outside of the cell membrane."
+    },
+    {
+        "index": 10,
+        "start_time": 35947,
+        "end_time": 41059,
+        "text": "These proteins, known as antigens,\ncommunicate with white blood cells,"
+    },
+    {
+        "index": 11,
+        "start_time": 41059,
+        "end_time": 44524,
+        "text": "immune cells that protect \nagainst infection."
+    },
+    {
+        "index": 12,
+        "start_time": 44524,
+        "end_time": 47095,
+        "text": "Antigens serve as identifying markers,"
+    },
+    {
+        "index": 13,
+        "start_time": 47095,
+        "end_time": 51117,
+        "text": "allowing the immune system to recognize\nyour body&#39;s own cells"
+    },
+    {
+        "index": 14,
+        "start_time": 51117,
+        "end_time": 54513,
+        "text": "without attacking them as foreign bodies."
+    },
+    {
+        "index": 15,
+        "start_time": 54513,
+        "end_time": 59528,
+        "text": "The two main kinds of antigens, A and B,\ndetermine your blood type."
+    },
+    {
+        "index": 16,
+        "start_time": 59528,
+        "end_time": 64022,
+        "text": "But how do we get four blood types\nfrom only two antigens?"
+    },
+    {
+        "index": 17,
+        "start_time": 64022,
+        "end_time": 68839,
+        "text": "Well, the antigens are coded for\nby three different alleles,"
+    },
+    {
+        "index": 18,
+        "start_time": 68839,
+        "end_time": 71534,
+        "text": "varieties of a particular gene."
+    },
+    {
+        "index": 19,
+        "start_time": 71534,
+        "end_time": 75452,
+        "text": "While the A and B alleles code\nfor A and B antigens,"
+    },
+    {
+        "index": 20,
+        "start_time": 75452,
+        "end_time": 78669,
+        "text": "the O allele codes for neither,"
+    },
+    {
+        "index": 21,
+        "start_time": 78669,
+        "end_time": 82422,
+        "text": "and because we inherit \none copy of each gene from each parent,"
+    },
+    {
+        "index": 22,
+        "start_time": 82422,
+        "end_time": 87081,
+        "text": "every individual has two alleles\ndetermining blood type."
+    },
+    {
+        "index": 23,
+        "start_time": 87081,
+        "end_time": 88847,
+        "text": "When these happen to be different,"
+    },
+    {
+        "index": 24,
+        "start_time": 88847,
+        "end_time": 93607,
+        "text": "one overrides the other \ndepending on their relative dominance."
+    },
+    {
+        "index": 25,
+        "start_time": 93607,
+        "end_time": 99832,
+        "text": "For blood types, the A and B alleles\nare both dominant, while O is recessive."
+    },
+    {
+        "index": 26,
+        "start_time": 99832,
+        "end_time": 105775,
+        "text": "So A and A gives you type A blood,\nwhile B and B gives you type B."
+    },
+    {
+        "index": 27,
+        "start_time": 105775,
+        "end_time": 107673,
+        "text": "If you inherit one of each,"
+    },
+    {
+        "index": 28,
+        "start_time": 107673,
+        "end_time": 112524,
+        "text": "the resulting codominance\nwill produce both A and B antigens,"
+    },
+    {
+        "index": 29,
+        "start_time": 112524,
+        "end_time": 114448,
+        "text": "which is type AB."
+    },
+    {
+        "index": 30,
+        "start_time": 114448,
+        "end_time": 116831,
+        "text": "The O allele is recessive,"
+    },
+    {
+        "index": 31,
+        "start_time": 116831,
+        "end_time": 120163,
+        "text": "so either of the others will override it\nwhen they&#39;re paired,"
+    },
+    {
+        "index": 32,
+        "start_time": 120163,
+        "end_time": 123315,
+        "text": "resulting in either type A or type B."
+    },
+    {
+        "index": 33,
+        "start_time": 123315,
+        "end_time": 127508,
+        "text": "But if you happen to inherit two Os,\ninstructions will be expressed"
+    },
+    {
+        "index": 34,
+        "start_time": 127508,
+        "end_time": 132849,
+        "text": "that make blood cells \nwithout the A or the B antigen."
+    },
+    {
+        "index": 35,
+        "start_time": 132849,
+        "end_time": 134940,
+        "text": "Because of these interactions,"
+    },
+    {
+        "index": 36,
+        "start_time": 134940,
+        "end_time": 136765,
+        "text": "knowing both parents&#39; blood types"
+    },
+    {
+        "index": 37,
+        "start_time": 136765,
+        "end_time": 141714,
+        "text": "lets us predict the relative probability \nof their children&#39;s blood types."
+    },
+    {
+        "index": 38,
+        "start_time": 141714,
+        "end_time": 143542,
+        "text": "Why do blood types matter?"
+    },
+    {
+        "index": 39,
+        "start_time": 143542,
+        "end_time": 145083,
+        "text": "For blood transfusions,"
+    },
+    {
+        "index": 40,
+        "start_time": 145083,
+        "end_time": 148940,
+        "text": "finding the correct one is a matter\nof life and death."
+    },
+    {
+        "index": 41,
+        "start_time": 148940,
+        "end_time": 153565,
+        "text": "If someone with type A blood\nis given type B blood, or vice versa,"
+    },
+    {
+        "index": 42,
+        "start_time": 153565,
+        "end_time": 158192,
+        "text": "their antibodies will reject \nthe foreign antigens and attack them,"
+    },
+    {
+        "index": 43,
+        "start_time": 158192,
+        "end_time": 162175,
+        "text": "potentially causing \nthe transfused blood to clot."
+    },
+    {
+        "index": 44,
+        "start_time": 162175,
+        "end_time": 166736,
+        "text": "But because people with type AB blood\nproduce both A and B antigens,"
+    },
+    {
+        "index": 45,
+        "start_time": 166736,
+        "end_time": 171868,
+        "text": "they don&#39;t make antibodies against them,\nso they will recognize either as safe,"
+    },
+    {
+        "index": 46,
+        "start_time": 171868,
+        "end_time": 174311,
+        "text": "making them universal recipients."
+    },
+    {
+        "index": 47,
+        "start_time": 174311,
+        "end_time": 175534,
+        "text": "On the other hand,"
+    },
+    {
+        "index": 48,
+        "start_time": 175534,
+        "end_time": 178999,
+        "text": "people with blood type O\ndo not produce either antigen,"
+    },
+    {
+        "index": 49,
+        "start_time": 178999,
+        "end_time": 181507,
+        "text": "which makes them universal donors,"
+    },
+    {
+        "index": 50,
+        "start_time": 181507,
+        "end_time": 184370,
+        "text": "but will cause their immune system\nto make antibodies"
+    },
+    {
+        "index": 51,
+        "start_time": 184370,
+        "end_time": 189456,
+        "text": "that reject any other blood type."
+    },
+    {
+        "index": 52,
+        "start_time": 189456,
+        "end_time": 193677,
+        "text": "Unfortunately, matching donors \nand recipients is a bit more complicated"
+    },
+    {
+        "index": 53,
+        "start_time": 193677,
+        "end_time": 196311,
+        "text": "due to additional antigen systems,"
+    },
+    {
+        "index": 54,
+        "start_time": 196311,
+        "end_time": 198308,
+        "text": "particular the Rh factor,"
+    },
+    {
+        "index": 55,
+        "start_time": 198308,
+        "end_time": 202580,
+        "text": "named after the Rhesus monkeys\nin which it was first isolated."
+    },
+    {
+        "index": 56,
+        "start_time": 202580,
+        "end_time": 209261,
+        "text": "Rh+ or Rh- refers to the presence\nor absence of the D antigen"
+    },
+    {
+        "index": 57,
+        "start_time": 209261,
+        "end_time": 211955,
+        "text": "of the Rh blood group system."
+    },
+    {
+        "index": 58,
+        "start_time": 211955,
+        "end_time": 214820,
+        "text": "And in addition to impeding \nsome blood transfusions,"
+    },
+    {
+        "index": 59,
+        "start_time": 214820,
+        "end_time": 218355,
+        "text": "it can cause severe complications\nin pregnancy."
+    },
+    {
+        "index": 60,
+        "start_time": 218355,
+        "end_time": 222853,
+        "text": "If an Rh- mother is carrying an Rh+ child,"
+    },
+    {
+        "index": 61,
+        "start_time": 222853,
+        "end_time": 227216,
+        "text": "her body will produce Rh antibodies\nthat may cross the placenta"
+    },
+    {
+        "index": 62,
+        "start_time": 227216,
+        "end_time": 229142,
+        "text": "and attack the fetus,"
+    },
+    {
+        "index": 63,
+        "start_time": 229142,
+        "end_time": 233340,
+        "text": "a condition known as \nhemolytic disease of the newborn."
+    },
+    {
+        "index": 64,
+        "start_time": 233340,
+        "end_time": 237092,
+        "text": "Some cultures believe blood type\nto be associated with personality,"
+    },
+    {
+        "index": 65,
+        "start_time": 237092,
+        "end_time": 238906,
+        "text": "though this is not \nsupported by science."
+    },
+    {
+        "index": 66,
+        "start_time": 238906,
+        "end_time": 241401,
+        "text": "And though the proportions\nof different blood types"
+    },
+    {
+        "index": 67,
+        "start_time": 241401,
+        "end_time": 243784,
+        "text": "vary between human populations,"
+    },
+    {
+        "index": 68,
+        "start_time": 243784,
+        "end_time": 246603,
+        "text": "scientists aren&#39;t sure why they evolved;"
+    },
+    {
+        "index": 69,
+        "start_time": 246603,
+        "end_time": 249143,
+        "text": "perhaps as protection \nagainst blood born diseases,"
+    },
+    {
+        "index": 70,
+        "start_time": 249143,
+        "end_time": 251874,
+        "text": "or due to random genetic drift."
+    },
+    {
+        "index": 71,
+        "start_time": 251874,
+        "end_time": 255724,
+        "text": "Finally, different species \nhave different sets of antigens."
+    },
+    {
+        "index": 72,
+        "start_time": 255724,
+        "end_time": 259676,
+        "text": "In fact, the four main blood types\nshared by us apes"
+    },
+    {
+        "index": 73,
+        "start_time": 259676,
+        "end_time": 265943,
+        "text": "seem paltry in comparison \nto the thirteen types found in dogs."
+    }
+]

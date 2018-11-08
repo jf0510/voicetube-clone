@@ -1,0 +1,62 @@
+[
+  {
+    "end_time": 11260,
+    "index": 1,
+    "start_time": 9900,
+    "text": "Hello."
+  },
+  {
+    "end_time": 13880,
+    "index": 2,
+    "start_time": 12740,
+    "text": "Hi."
+  },
+  {
+    "end_time": 17119,
+    "index": 3,
+    "start_time": 15620,
+    "text": "What\u2019s your name?"
+  },
+  {
+    "end_time": 20960,
+    "index": 4,
+    "start_time": 18760,
+    "text": "My name is Red."
+  },
+  {
+    "end_time": 24600,
+    "index": 5,
+    "start_time": 22180,
+    "text": "Nice to meet you Red."
+  },
+  {
+    "end_time": 28340,
+    "index": 6,
+    "start_time": 26260,
+    "text": "What\u2019s your name?"
+  },
+  {
+    "end_time": 31459,
+    "index": 7,
+    "start_time": 29400,
+    "text": "My name is Denim."
+  },
+  {
+    "end_time": 35100,
+    "index": 8,
+    "start_time": 32880,
+    "text": "Nice to meet you, Denim."
+  },
+  {
+    "end_time": 38739,
+    "index": 9,
+    "start_time": 36800,
+    "text": "Let\u2019s be friends."
+  },
+  {
+    "end_time": 41280,
+    "index": 10,
+    "start_time": 39860,
+    "text": "OK."
+  }
+]

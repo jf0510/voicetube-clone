@@ -1,0 +1,488 @@
+[
+    {
+        "index": 1,
+        "start_time": 6585,
+        "end_time": 8826,
+        "text": "What if I told you that all illnesses,"
+    },
+    {
+        "index": 2,
+        "start_time": 8826,
+        "end_time": 11920,
+        "text": "things like the cold, \nthe flu, strep throat,"
+    },
+    {
+        "index": 3,
+        "start_time": 11920,
+        "end_time": 15960,
+        "text": "came from wandering \nclouds of poisonous vapor?"
+    },
+    {
+        "index": 4,
+        "start_time": 15960,
+        "end_time": 19812,
+        "text": "You&#39;d probably think that absurd,\nand, don&#39;t worry, it&#39;s completely wrong."
+    },
+    {
+        "index": 5,
+        "start_time": 19812,
+        "end_time": 25083,
+        "text": "Yet that&#39;s actually what people thought\ncaused diseases for several centuries."
+    },
+    {
+        "index": 6,
+        "start_time": 25083,
+        "end_time": 26831,
+        "text": "They called it miasma theory,"
+    },
+    {
+        "index": 7,
+        "start_time": 26831,
+        "end_time": 30969,
+        "text": "and everyone from the public\nto the medical establishment accepted it."
+    },
+    {
+        "index": 8,
+        "start_time": 30969,
+        "end_time": 35785,
+        "text": "But by the 1840s, in the midst of\ndevastating cholera outbreaks in London,"
+    },
+    {
+        "index": 9,
+        "start_time": 35785,
+        "end_time": 39227,
+        "text": "a small group of scientists \nhad grown skeptical."
+    },
+    {
+        "index": 10,
+        "start_time": 39227,
+        "end_time": 43464,
+        "text": "Early microscopes had revealed\nthe existence of tiny microorganisms,"
+    },
+    {
+        "index": 11,
+        "start_time": 43464,
+        "end_time": 48513,
+        "text": "and they proposed that it was actually\nthese germs that cause diseases,"
+    },
+    {
+        "index": 12,
+        "start_time": 48513,
+        "end_time": 50877,
+        "text": "hence the name germ theory."
+    },
+    {
+        "index": 13,
+        "start_time": 50877,
+        "end_time": 53154,
+        "text": "Though most people held \nonto their assumptions"
+    },
+    {
+        "index": 14,
+        "start_time": 53154,
+        "end_time": 55316,
+        "text": "and strongly resisted this theory,"
+    },
+    {
+        "index": 15,
+        "start_time": 55316,
+        "end_time": 58169,
+        "text": "its supporters were determined \nto prove them wrong"
+    },
+    {
+        "index": 16,
+        "start_time": 58169,
+        "end_time": 60222,
+        "text": "by collecting compelling data."
+    },
+    {
+        "index": 17,
+        "start_time": 60222,
+        "end_time": 64152,
+        "text": "Leading the charge was a physician\nnamed Dr. John Snow."
+    },
+    {
+        "index": 18,
+        "start_time": 64152,
+        "end_time": 67734,
+        "text": "Dr. Snow observed that \ncholera-infected patients"
+    },
+    {
+        "index": 19,
+        "start_time": 67734,
+        "end_time": 71375,
+        "text": "experienced severe vomiting and diarrhea,"
+    },
+    {
+        "index": 20,
+        "start_time": 71375,
+        "end_time": 74514,
+        "text": "symptoms of the gut \nas opposed to the lungs,"
+    },
+    {
+        "index": 21,
+        "start_time": 74514,
+        "end_time": 78777,
+        "text": "and thought that perhaps the disease\nwas transmitted through food or drink,"
+    },
+    {
+        "index": 22,
+        "start_time": 78777,
+        "end_time": 80353,
+        "text": "not the air."
+    },
+    {
+        "index": 23,
+        "start_time": 80353,
+        "end_time": 82417,
+        "text": "After investigating previous outbreaks,"
+    },
+    {
+        "index": 24,
+        "start_time": 82417,
+        "end_time": 83602,
+        "text": "he became convinced"
+    },
+    {
+        "index": 25,
+        "start_time": 83602,
+        "end_time": 88230,
+        "text": "that cholera was spread\nthrough contaminated water sources."
+    },
+    {
+        "index": 26,
+        "start_time": 88230,
+        "end_time": 90827,
+        "text": "Then, late in the summer of 1854"
+    },
+    {
+        "index": 27,
+        "start_time": 90827,
+        "end_time": 94013,
+        "text": "when cholera suddenly struck\nthe Soho district,"
+    },
+    {
+        "index": 28,
+        "start_time": 94013,
+        "end_time": 96743,
+        "text": "a neighborhood in London\nvery close to his own,"
+    },
+    {
+        "index": 29,
+        "start_time": 96743,
+        "end_time": 99695,
+        "text": "Dr. Snow was hot on its trail."
+    },
+    {
+        "index": 30,
+        "start_time": 99695,
+        "end_time": 101879,
+        "text": "He requested the records for the deceased,"
+    },
+    {
+        "index": 31,
+        "start_time": 101879,
+        "end_time": 106730,
+        "text": "and within the first week,\nthere had already been 83 deaths."
+    },
+    {
+        "index": 32,
+        "start_time": 106730,
+        "end_time": 109369,
+        "text": "He mapped out where each \nof the deceased had lived"
+    },
+    {
+        "index": 33,
+        "start_time": 109369,
+        "end_time": 115697,
+        "text": "and found that 73 of them resided\nclose to the water pump on Broad Street."
+    },
+    {
+        "index": 34,
+        "start_time": 115697,
+        "end_time": 118649,
+        "text": "Dr. Snow strongly recommended \nshutting down the pump,"
+    },
+    {
+        "index": 35,
+        "start_time": 118649,
+        "end_time": 122242,
+        "text": "and because he knew how unpopular\ngerm theory was,"
+    },
+    {
+        "index": 36,
+        "start_time": 122242,
+        "end_time": 125839,
+        "text": "he suggested that cholera was spread\nthrough a poison in the water"
+    },
+    {
+        "index": 37,
+        "start_time": 125839,
+        "end_time": 127749,
+        "text": "instead of microorganisms,"
+    },
+    {
+        "index": 38,
+        "start_time": 127749,
+        "end_time": 131210,
+        "text": "when presenting his case\nto governmental officials."
+    },
+    {
+        "index": 39,
+        "start_time": 131210,
+        "end_time": 132552,
+        "text": "They were unconvinced,"
+    },
+    {
+        "index": 40,
+        "start_time": 132552,
+        "end_time": 136604,
+        "text": "but agreed to shut down the pump\nas an extra precaution."
+    },
+    {
+        "index": 41,
+        "start_time": 136604,
+        "end_time": 141129,
+        "text": "Almost immediately, \nnew cases of infection subsided."
+    },
+    {
+        "index": 42,
+        "start_time": 141129,
+        "end_time": 142742,
+        "text": "Bolstered by his success,"
+    },
+    {
+        "index": 43,
+        "start_time": 142742,
+        "end_time": 146363,
+        "text": "Dr. Snow was determined to connect\nthe contaminated pump water"
+    },
+    {
+        "index": 44,
+        "start_time": 146363,
+        "end_time": 148042,
+        "text": "to the disease."
+    },
+    {
+        "index": 45,
+        "start_time": 148042,
+        "end_time": 151183,
+        "text": "He found the story of a widow \nwho had died of cholera"
+    },
+    {
+        "index": 46,
+        "start_time": 151183,
+        "end_time": 153469,
+        "text": "and lived far away from Soho,"
+    },
+    {
+        "index": 47,
+        "start_time": 153469,
+        "end_time": 158209,
+        "text": "but had a servant bring her water\nfrom the Broad Street pump daily"
+    },
+    {
+        "index": 48,
+        "start_time": 158209,
+        "end_time": 160339,
+        "text": "because she liked the taste."
+    },
+    {
+        "index": 49,
+        "start_time": 160339,
+        "end_time": 161748,
+        "text": "He also discovered a workhouse"
+    },
+    {
+        "index": 50,
+        "start_time": 161748,
+        "end_time": 164803,
+        "text": "located around the corner \nfrom the Broad Street pump"
+    },
+    {
+        "index": 51,
+        "start_time": 164803,
+        "end_time": 169106,
+        "text": "that housed hundreds of people,\nbut only a handful had become infected,"
+    },
+    {
+        "index": 52,
+        "start_time": 169106,
+        "end_time": 171360,
+        "text": "which Dr. Snow attributed to the fact"
+    },
+    {
+        "index": 53,
+        "start_time": 171360,
+        "end_time": 174699,
+        "text": "that the workhouse \nhad its own private well."
+    },
+    {
+        "index": 54,
+        "start_time": 174699,
+        "end_time": 177462,
+        "text": "Finally, Dr. Snow heard of an infant"
+    },
+    {
+        "index": 55,
+        "start_time": 177462,
+        "end_time": 181255,
+        "text": "who may have been one \nof the earliest victims of the outbreak."
+    },
+    {
+        "index": 56,
+        "start_time": 181255,
+        "end_time": 183374,
+        "text": "He learned that the child&#39;s dirty diapers"
+    },
+    {
+        "index": 57,
+        "start_time": 183374,
+        "end_time": 185462,
+        "text": "had been thrown into a cesspool"
+    },
+    {
+        "index": 58,
+        "start_time": 185462,
+        "end_time": 189546,
+        "text": "right next to the public water pump\non Broad Street."
+    },
+    {
+        "index": 59,
+        "start_time": 189546,
+        "end_time": 192232,
+        "text": "Again, Dr. Snow presented his case,"
+    },
+    {
+        "index": 60,
+        "start_time": 192232,
+        "end_time": 195284,
+        "text": "but even then, \ncity officials spurned his theory,"
+    },
+    {
+        "index": 61,
+        "start_time": 195284,
+        "end_time": 200133,
+        "text": "not wanting to admit that there \nwas human waste in London&#39;s water supply,"
+    },
+    {
+        "index": 62,
+        "start_time": 200133,
+        "end_time": 202862,
+        "text": "or that they were wrong \nabout miasma theory,"
+    },
+    {
+        "index": 63,
+        "start_time": 202862,
+        "end_time": 205817,
+        "text": "which was, after all, \nhundreds of years old."
+    },
+    {
+        "index": 64,
+        "start_time": 205817,
+        "end_time": 209609,
+        "text": "It wasn&#39;t until 1884 \nthat Dr. Snow&#39;s efforts"
+    },
+    {
+        "index": 65,
+        "start_time": 209609,
+        "end_time": 212473,
+        "text": "were vindicated by Dr. Robert Koch,"
+    },
+    {
+        "index": 66,
+        "start_time": 212473,
+        "end_time": 215324,
+        "text": "who isolated \nthe cholera-causing bacterium."
+    },
+    {
+        "index": 67,
+        "start_time": 215324,
+        "end_time": 219020,
+        "text": "Koch developed a technique \nto grow pure cultures,"
+    },
+    {
+        "index": 68,
+        "start_time": 219020,
+        "end_time": 220907,
+        "text": "and through a series of experiments,"
+    },
+    {
+        "index": 69,
+        "start_time": 220907,
+        "end_time": 224125,
+        "text": "definitively proved \nthat a specific bacterium"
+    },
+    {
+        "index": 70,
+        "start_time": 224125,
+        "end_time": 226888,
+        "text": "directly cause disease."
+    },
+    {
+        "index": 71,
+        "start_time": 226888,
+        "end_time": 228620,
+        "text": "Major contributions to germ theory"
+    },
+    {
+        "index": 72,
+        "start_time": 228620,
+        "end_time": 232347,
+        "text": "also came from prolific scientist \nLouis Pasteur,"
+    },
+    {
+        "index": 73,
+        "start_time": 232347,
+        "end_time": 237453,
+        "text": "whose study of microorganisms led\nto the development of the first vaccines."
+    },
+    {
+        "index": 74,
+        "start_time": 237453,
+        "end_time": 240061,
+        "text": "By challenging assumptions \nwith data-driven research,"
+    },
+    {
+        "index": 75,
+        "start_time": 240061,
+        "end_time": 243302,
+        "text": "these scientists discredited\nan age-old theory"
+    },
+    {
+        "index": 76,
+        "start_time": 243302,
+        "end_time": 248438,
+        "text": "and sparked a revolution that was\nincredibly beneficial to public health."
+    },
+    {
+        "index": 77,
+        "start_time": 248438,
+        "end_time": 250136,
+        "text": "But all of this raises the question,"
+    },
+    {
+        "index": 78,
+        "start_time": 250136,
+        "end_time": 254242,
+        "text": "what are the widely held \nscientific beliefs of today"
+    },
+    {
+        "index": 79,
+        "start_time": 254242,
+        "end_time": 257271,
+        "text": "that our descendants will find ridiculous?"
+    },
+    {
+        "index": 80,
+        "start_time": 257271,
+        "end_time": 259724,
+        "text": "And as any scientist would tell you,"
+    },
+    {
+        "index": 81,
+        "start_time": 259724,
+        "end_time": 262924,
+        "text": "a question is an excellent place to start."
+    }
+]

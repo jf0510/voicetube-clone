@@ -1,0 +1,800 @@
+[
+    {
+        "index": 1,
+        "start_time": 11702,
+        "end_time": 13727,
+        "text": "We live in a three-dimensional world"
+    },
+    {
+        "index": 2,
+        "start_time": 13751,
+        "end_time": 14718,
+        "text": "where everything has length,"
+    },
+    {
+        "index": 3,
+        "start_time": 14742,
+        "end_time": 15345,
+        "text": "width,"
+    },
+    {
+        "index": 4,
+        "start_time": 15369,
+        "end_time": 16755,
+        "text": "and height."
+    },
+    {
+        "index": 5,
+        "start_time": 16779,
+        "end_time": 19152,
+        "text": "But what if our world\nwere two-dimensional?"
+    },
+    {
+        "index": 6,
+        "start_time": 19176,
+        "end_time": 20598,
+        "text": "We would be squashed down"
+    },
+    {
+        "index": 7,
+        "start_time": 20622,
+        "end_time": 23110,
+        "text": "to occupy a single plane of existence,"
+    },
+    {
+        "index": 8,
+        "start_time": 23134,
+        "end_time": 25124,
+        "text": "geometrically speaking, of course."
+    },
+    {
+        "index": 9,
+        "start_time": 25148,
+        "end_time": 27853,
+        "text": "And what would that world\nlook and feel like?"
+    },
+    {
+        "index": 10,
+        "start_time": 27877,
+        "end_time": 28512,
+        "text": "This is the premise"
+    },
+    {
+        "index": 11,
+        "start_time": 28536,
+        "end_time": 32031,
+        "text": "of Edwin Abbott&#39;s 1884 novella, Flatland."
+    },
+    {
+        "index": 12,
+        "start_time": 32055,
+        "end_time": 34436,
+        "text": "Flatland is a fun, mathematical\nthought experiment"
+    },
+    {
+        "index": 13,
+        "start_time": 34460,
+        "end_time": 37038,
+        "text": "that follows the trials\nand tribulations of a square"
+    },
+    {
+        "index": 14,
+        "start_time": 37062,
+        "end_time": 39579,
+        "text": "exposed to the third dimension."
+    },
+    {
+        "index": 15,
+        "start_time": 39603,
+        "end_time": 41959,
+        "text": "But what is a dimension, anyway?"
+    },
+    {
+        "index": 16,
+        "start_time": 41983,
+        "end_time": 44841,
+        "text": "For our purposes,\na dimension is a direction,"
+    },
+    {
+        "index": 17,
+        "start_time": 44865,
+        "end_time": 47103,
+        "text": "which we can picture as a line."
+    },
+    {
+        "index": 18,
+        "start_time": 47127,
+        "end_time": 49299,
+        "text": "For our direction to be a dimension,"
+    },
+    {
+        "index": 19,
+        "start_time": 49323,
+        "end_time": 53333,
+        "text": "it has to be at right angles\nto all other dimensions."
+    },
+    {
+        "index": 20,
+        "start_time": 53357,
+        "end_time": 56121,
+        "text": "So, a one-dimensional\nspace is just a line."
+    },
+    {
+        "index": 21,
+        "start_time": 56145,
+        "end_time": 57926,
+        "text": "A two-dimensional space is defined"
+    },
+    {
+        "index": 22,
+        "start_time": 57950,
+        "end_time": 60081,
+        "text": "by two perpendicular lines,"
+    },
+    {
+        "index": 23,
+        "start_time": 60105,
+        "end_time": 61651,
+        "text": "which describe a flat plane"
+    },
+    {
+        "index": 24,
+        "start_time": 61675,
+        "end_time": 63287,
+        "text": "like a piece of paper."
+    },
+    {
+        "index": 25,
+        "start_time": 63311,
+        "end_time": 64692,
+        "text": "And a three-dimensional space"
+    },
+    {
+        "index": 26,
+        "start_time": 64716,
+        "end_time": 66738,
+        "text": "adds a third perpendicular line,"
+    },
+    {
+        "index": 27,
+        "start_time": 66762,
+        "end_time": 68020,
+        "text": "which gives us height"
+    },
+    {
+        "index": 28,
+        "start_time": 68044,
+        "end_time": 70648,
+        "text": "and the world we&#39;re familiar with."
+    },
+    {
+        "index": 29,
+        "start_time": 70672,
+        "end_time": 72472,
+        "text": "So, what about four dimensions?"
+    },
+    {
+        "index": 30,
+        "start_time": 72496,
+        "end_time": 73454,
+        "text": "And five?"
+    },
+    {
+        "index": 31,
+        "start_time": 73478,
+        "end_time": 74571,
+        "text": "And eleven?"
+    },
+    {
+        "index": 32,
+        "start_time": 74595,
+        "end_time": 77281,
+        "text": "Where do we put these new\nperpendicular lines?"
+    },
+    {
+        "index": 33,
+        "start_time": 77305,
+        "end_time": 79816,
+        "text": "This is where Flatland can help us."
+    },
+    {
+        "index": 34,
+        "start_time": 79840,
+        "end_time": 82713,
+        "text": "Let&#39;s look at our square\nprotagonist&#39;s world."
+    },
+    {
+        "index": 35,
+        "start_time": 82737,
+        "end_time": 85241,
+        "text": "Flatland is populated by geometric shapes,"
+    },
+    {
+        "index": 36,
+        "start_time": 85265,
+        "end_time": 86909,
+        "text": "ranging from isosceles trianges"
+    },
+    {
+        "index": 37,
+        "start_time": 86933,
+        "end_time": 88176,
+        "text": "to equilateral triangles"
+    },
+    {
+        "index": 38,
+        "start_time": 88200,
+        "end_time": 88965,
+        "text": "to squares,"
+    },
+    {
+        "index": 39,
+        "start_time": 88989,
+        "end_time": 89494,
+        "text": "pentagons,"
+    },
+    {
+        "index": 40,
+        "start_time": 89518,
+        "end_time": 90089,
+        "text": "hexagons,"
+    },
+    {
+        "index": 41,
+        "start_time": 90113,
+        "end_time": 92244,
+        "text": "all the way up to circles."
+    },
+    {
+        "index": 42,
+        "start_time": 92268,
+        "end_time": 95007,
+        "text": "These shapes are all scurrying\naround a flat world,"
+    },
+    {
+        "index": 43,
+        "start_time": 95031,
+        "end_time": 96758,
+        "text": "living their flat lives."
+    },
+    {
+        "index": 44,
+        "start_time": 96782,
+        "end_time": 99433,
+        "text": "They have a single eye\non the front of their faces,"
+    },
+    {
+        "index": 45,
+        "start_time": 99457,
+        "end_time": 100516,
+        "text": "and let&#39;s see what the world looks like"
+    },
+    {
+        "index": 46,
+        "start_time": 100540,
+        "end_time": 102432,
+        "text": "from their perspective."
+    },
+    {
+        "index": 47,
+        "start_time": 102456,
+        "end_time": 105324,
+        "text": "What they see is essentially\none dimension,"
+    },
+    {
+        "index": 48,
+        "start_time": 105348,
+        "end_time": 106435,
+        "text": "a line."
+    },
+    {
+        "index": 49,
+        "start_time": 106459,
+        "end_time": 107822,
+        "text": "But in Abbott&#39;s Flatland,"
+    },
+    {
+        "index": 50,
+        "start_time": 107846,
+        "end_time": 109772,
+        "text": "closer objects are brighter,"
+    },
+    {
+        "index": 51,
+        "start_time": 109796,
+        "end_time": 111953,
+        "text": "and that&#39;s how they see depth."
+    },
+    {
+        "index": 52,
+        "start_time": 111977,
+        "end_time": 114285,
+        "text": "So a triangle looks\ndifferent from a square,"
+    },
+    {
+        "index": 53,
+        "start_time": 114309,
+        "end_time": 115575,
+        "text": "looks different a circle,"
+    },
+    {
+        "index": 54,
+        "start_time": 115599,
+        "end_time": 116874,
+        "text": "and so on."
+    },
+    {
+        "index": 55,
+        "start_time": 116898,
+        "end_time": 119487,
+        "text": "Their brains cannot comprehend\nthe third dimension."
+    },
+    {
+        "index": 56,
+        "start_time": 119511,
+        "end_time": 122363,
+        "text": "In fact, they vehemently\ndeny its existence"
+    },
+    {
+        "index": 57,
+        "start_time": 122387,
+        "end_time": 124534,
+        "text": "because it&#39;s simply not\npart of their world"
+    },
+    {
+        "index": 58,
+        "start_time": 124558,
+        "end_time": 126233,
+        "text": "or experience."
+    },
+    {
+        "index": 59,
+        "start_time": 126257,
+        "end_time": 127298,
+        "text": "But all they need,"
+    },
+    {
+        "index": 60,
+        "start_time": 127322,
+        "end_time": 128460,
+        "text": "as it turns out,"
+    },
+    {
+        "index": 61,
+        "start_time": 128484,
+        "end_time": 130574,
+        "text": "is a little boost."
+    },
+    {
+        "index": 62,
+        "start_time": 130598,
+        "end_time": 132492,
+        "text": "One day a sphere shows up in Flatland"
+    },
+    {
+        "index": 63,
+        "start_time": 132516,
+        "end_time": 134241,
+        "text": "to visit our square hero."
+    },
+    {
+        "index": 64,
+        "start_time": 134265,
+        "end_time": 135178,
+        "text": "Here&#39;s what it looks like"
+    },
+    {
+        "index": 65,
+        "start_time": 135202,
+        "end_time": 137325,
+        "text": "when the sphere passes through Flatland"
+    },
+    {
+        "index": 66,
+        "start_time": 137349,
+        "end_time": 139841,
+        "text": "from the square&#39;s perspective,"
+    },
+    {
+        "index": 67,
+        "start_time": 139865,
+        "end_time": 142465,
+        "text": "and this blows his little square mind."
+    },
+    {
+        "index": 68,
+        "start_time": 142489,
+        "end_time": 144351,
+        "text": "Then the sphere lifts the square"
+    },
+    {
+        "index": 69,
+        "start_time": 144375,
+        "end_time": 145889,
+        "text": "into the third dimension,"
+    },
+    {
+        "index": 70,
+        "start_time": 145913,
+        "end_time": 148938,
+        "text": "the height direction where no\nFlatlander has gone before"
+    },
+    {
+        "index": 71,
+        "start_time": 148962,
+        "end_time": 150943,
+        "text": "and shows him his world."
+    },
+    {
+        "index": 72,
+        "start_time": 150967,
+        "end_time": 153528,
+        "text": "From up here, the square\ncan see everything:"
+    },
+    {
+        "index": 73,
+        "start_time": 153552,
+        "end_time": 154608,
+        "text": "the shapes of buildings,"
+    },
+    {
+        "index": 74,
+        "start_time": 154632,
+        "end_time": 156749,
+        "text": "all the precious gems hidden in the Earth,"
+    },
+    {
+        "index": 75,
+        "start_time": 156773,
+        "end_time": 159321,
+        "text": "and even the insides of his friends,"
+    },
+    {
+        "index": 76,
+        "start_time": 159345,
+        "end_time": 161993,
+        "text": "which is probably pretty awkward."
+    },
+    {
+        "index": 77,
+        "start_time": 162017,
+        "end_time": 163115,
+        "text": "Once the hapless square"
+    },
+    {
+        "index": 78,
+        "start_time": 163139,
+        "end_time": 164868,
+        "text": "comes to terms with the third dimension,"
+    },
+    {
+        "index": 79,
+        "start_time": 164892,
+        "end_time": 166256,
+        "text": "he begs his host to help him"
+    },
+    {
+        "index": 80,
+        "start_time": 166280,
+        "end_time": 168497,
+        "text": "visit the fourth and higher dimensions,"
+    },
+    {
+        "index": 81,
+        "start_time": 168521,
+        "end_time": 170712,
+        "text": "but the sphere bristles\nat the mere suggestion"
+    },
+    {
+        "index": 82,
+        "start_time": 170736,
+        "end_time": 172330,
+        "text": "of dimensions higher than three"
+    },
+    {
+        "index": 83,
+        "start_time": 172354,
+        "end_time": 175328,
+        "text": "and exiles the square back to Flatland."
+    },
+    {
+        "index": 84,
+        "start_time": 175352,
+        "end_time": 177827,
+        "text": "Now, the sphere&#39;s indignation\nis understandable."
+    },
+    {
+        "index": 85,
+        "start_time": 177851,
+        "end_time": 179566,
+        "text": "A fourth dimension is very difficult"
+    },
+    {
+        "index": 86,
+        "start_time": 179590,
+        "end_time": 182185,
+        "text": "to reconcile with our experience\nof the world."
+    },
+    {
+        "index": 87,
+        "start_time": 182209,
+        "end_time": 184448,
+        "text": "Short of being lifted\ninto the fourth dimension"
+    },
+    {
+        "index": 88,
+        "start_time": 184472,
+        "end_time": 185558,
+        "text": "by visiting hypercube,"
+    },
+    {
+        "index": 89,
+        "start_time": 185582,
+        "end_time": 187491,
+        "text": "we can&#39;t experience it,"
+    },
+    {
+        "index": 90,
+        "start_time": 187515,
+        "end_time": 189146,
+        "text": "but we can get close."
+    },
+    {
+        "index": 91,
+        "start_time": 189170,
+        "end_time": 190521,
+        "text": "You&#39;ll recall that when the sphere"
+    },
+    {
+        "index": 92,
+        "start_time": 190545,
+        "end_time": 192440,
+        "text": "first visited the second dimension,"
+    },
+    {
+        "index": 93,
+        "start_time": 192464,
+        "end_time": 194239,
+        "text": "he looked like a series of circles"
+    },
+    {
+        "index": 94,
+        "start_time": 194263,
+        "end_time": 195439,
+        "text": "that started as a point"
+    },
+    {
+        "index": 95,
+        "start_time": 195463,
+        "end_time": 196857,
+        "text": "when he touched Flatland,"
+    },
+    {
+        "index": 96,
+        "start_time": 196881,
+        "end_time": 199165,
+        "text": "grew bigger until he was halfway through,"
+    },
+    {
+        "index": 97,
+        "start_time": 199189,
+        "end_time": 201162,
+        "text": "and then shrank smaller again."
+    },
+    {
+        "index": 98,
+        "start_time": 201186,
+        "end_time": 202492,
+        "text": "We can think of this visit"
+    },
+    {
+        "index": 99,
+        "start_time": 202516,
+        "end_time": 206658,
+        "text": "as a series of 2D\ncross-sections of a 3D object."
+    },
+    {
+        "index": 100,
+        "start_time": 206682,
+        "end_time": 208111,
+        "text": "Well, we can do the same thing"
+    },
+    {
+        "index": 101,
+        "start_time": 208135,
+        "end_time": 212196,
+        "text": "in the third dimension\nwith a four-dimensional object."
+    },
+    {
+        "index": 102,
+        "start_time": 212220,
+        "end_time": 213554,
+        "text": "Let&#39;s say that a hypersphere"
+    },
+    {
+        "index": 103,
+        "start_time": 213578,
+        "end_time": 216390,
+        "text": "is the 4D equivalent of a 3D sphere."
+    },
+    {
+        "index": 104,
+        "start_time": 216414,
+        "end_time": 219301,
+        "text": "When the 4D object passes\nthrough the third dimension,"
+    },
+    {
+        "index": 105,
+        "start_time": 219325,
+        "end_time": 221908,
+        "text": "it&#39;ll look something like this."
+    },
+    {
+        "index": 106,
+        "start_time": 221932,
+        "end_time": 223008,
+        "text": "Let&#39;s look at one more way"
+    },
+    {
+        "index": 107,
+        "start_time": 223032,
+        "end_time": 225708,
+        "text": "of representing a four-dimensional object."
+    },
+    {
+        "index": 108,
+        "start_time": 225732,
+        "end_time": 226592,
+        "text": "Let&#39;s say we have a point,"
+    },
+    {
+        "index": 109,
+        "start_time": 226616,
+        "end_time": 228670,
+        "text": "a zero-dimensional shape."
+    },
+    {
+        "index": 110,
+        "start_time": 228694,
+        "end_time": 230212,
+        "text": "Now we extend it out one inch"
+    },
+    {
+        "index": 111,
+        "start_time": 230236,
+        "end_time": 232798,
+        "text": "and we have a one-dimensional\nline segment."
+    },
+    {
+        "index": 112,
+        "start_time": 232822,
+        "end_time": 234888,
+        "text": "Extend the whole line segment by an inch,"
+    },
+    {
+        "index": 113,
+        "start_time": 234912,
+        "end_time": 237046,
+        "text": "and we get a 2D square."
+    },
+    {
+        "index": 114,
+        "start_time": 237070,
+        "end_time": 239404,
+        "text": "Take the whole square\nand extend it out one inch,"
+    },
+    {
+        "index": 115,
+        "start_time": 239428,
+        "end_time": 241341,
+        "text": "and we get a 3D cube."
+    },
+    {
+        "index": 116,
+        "start_time": 241365,
+        "end_time": 242991,
+        "text": "You can see where we&#39;re going with this."
+    },
+    {
+        "index": 117,
+        "start_time": 243015,
+        "end_time": 244153,
+        "text": "Take the whole cube"
+    },
+    {
+        "index": 118,
+        "start_time": 244177,
+        "end_time": 245509,
+        "text": "and extend it out one inch,"
+    },
+    {
+        "index": 119,
+        "start_time": 245533,
+        "end_time": 248841,
+        "text": "this time perpendicular\nto all three existing directions,"
+    },
+    {
+        "index": 120,
+        "start_time": 248865,
+        "end_time": 251234,
+        "text": "and we get a 4D hypercube,"
+    },
+    {
+        "index": 121,
+        "start_time": 251258,
+        "end_time": 253802,
+        "text": "also called a tesseract."
+    },
+    {
+        "index": 122,
+        "start_time": 253826,
+        "end_time": 254765,
+        "text": "For all we know,"
+    },
+    {
+        "index": 123,
+        "start_time": 254789,
+        "end_time": 256341,
+        "text": "there could be four-dimensional lifeforms"
+    },
+    {
+        "index": 124,
+        "start_time": 256365,
+        "end_time": 257594,
+        "text": "somewhere out there,"
+    },
+    {
+        "index": 125,
+        "start_time": 257618,
+        "end_time": 259095,
+        "text": "occasionally poking their heads"
+    },
+    {
+        "index": 126,
+        "start_time": 259119,
+        "end_time": 260934,
+        "text": "into our bustling 3D world"
+    },
+    {
+        "index": 127,
+        "start_time": 260958,
+        "end_time": 263121,
+        "text": "and wondering what all the fuss is about."
+    },
+    {
+        "index": 128,
+        "start_time": 263145,
+        "end_time": 264287,
+        "text": "In fact, there could be whole"
+    },
+    {
+        "index": 129,
+        "start_time": 264311,
+        "end_time": 266057,
+        "text": "other four-dimensional worlds"
+    },
+    {
+        "index": 130,
+        "start_time": 266081,
+        "end_time": 267542,
+        "text": "beyond our detection,"
+    },
+    {
+        "index": 131,
+        "start_time": 267566,
+        "end_time": 268545,
+        "text": "hidden from us forever"
+    },
+    {
+        "index": 132,
+        "start_time": 268569,
+        "end_time": 270927,
+        "text": "by the nature of our perception."
+    },
+    {
+        "index": 133,
+        "start_time": 270951,
+        "end_time": 274203,
+        "text": "Doesn&#39;t that blow\nyour little spherical mind?"
+    }
+]

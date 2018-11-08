@@ -1,0 +1,314 @@
+[
+  {
+    "end_time": 4920,
+    "index": 1,
+    "start_time": 0,
+    "text": "Do long Queues at checkout counters of a"
+  },
+  {
+    "end_time": 5850,
+    "index": 2,
+    "start_time": 4920,
+    "text": "grocery store"
+  },
+  {
+    "end_time": 10230,
+    "index": 3,
+    "start_time": 5850,
+    "text": "annoy you? It might change, Forever! A few days"
+  },
+  {
+    "end_time": 12840,
+    "index": 4,
+    "start_time": 10230,
+    "text": "ago Amazon opened its first Amazon Go Store"
+  },
+  {
+    "end_time": 15389,
+    "index": 5,
+    "start_time": 12840,
+    "text": "for its employees in Seattle."
+  },
+  {
+    "end_time": 18419,
+    "index": 6,
+    "start_time": 15389,
+    "text": "Amazon Go is an 1,800 square feet futuristic"
+  },
+  {
+    "end_time": 20430,
+    "index": 7,
+    "start_time": 18420,
+    "text": "store that has no cashiers, no"
+  },
+  {
+    "end_time": 22769,
+    "index": 8,
+    "start_time": 20430,
+    "text": "registers and no checkout counters!"
+  },
+  {
+    "end_time": 25889,
+    "index": 9,
+    "start_time": 22769,
+    "text": "People can simply walk into the store,"
+  },
+  {
+    "end_time": 27869,
+    "index": 10,
+    "start_time": 25890,
+    "text": "pick up the things they want and just"
+  },
+  {
+    "end_time": 30810,
+    "index": 11,
+    "start_time": 27869,
+    "text": "walk out! A virtual cart is"
+  },
+  {
+    "end_time": 32790,
+    "index": 12,
+    "start_time": 30810,
+    "text": "automatically updated as a product is"
+  },
+  {
+    "end_time": 34680,
+    "index": 13,
+    "start_time": 32790,
+    "text": "picked up and when the shopper walks out"
+  },
+  {
+    "end_time": 35430,
+    "index": 14,
+    "start_time": 34680,
+    "text": "of the store"
+  },
+  {
+    "end_time": 37410,
+    "index": 15,
+    "start_time": 35430,
+    "text": "amazon automatically charges for the"
+  },
+  {
+    "end_time": 40800,
+    "index": 16,
+    "start_time": 37410,
+    "text": "products they brought out with them. So,"
+  },
+  {
+    "end_time": 41940,
+    "index": 17,
+    "start_time": 40800,
+    "text": "How does it all work?"
+  },
+  {
+    "end_time": 45300,
+    "index": 18,
+    "start_time": 41940,
+    "text": "Amazon Go uses a variety of sensors and"
+  },
+  {
+    "end_time": 47519,
+    "index": 19,
+    "start_time": 45300,
+    "text": "Algorithms to make a seamless no-checkout"
+  },
+  {
+    "end_time": 49050,
+    "index": 20,
+    "start_time": 47520,
+    "text": "store a reality."
+  },
+  {
+    "end_time": 52400,
+    "index": 21,
+    "start_time": 49050,
+    "text": "Amazon named the JUST WALK OUT technology."
+  },
+  {
+    "end_time": 55949,
+    "index": 22,
+    "start_time": 53400,
+    "text": "To use the service, the shopper needs an"
+  },
+  {
+    "end_time": 57839,
+    "index": 23,
+    "start_time": 55949,
+    "text": "Amazon account and a smartphone with"
+  },
+  {
+    "end_time": 61109,
+    "index": 24,
+    "start_time": 57840,
+    "text": "the Amazon Go app installed on it."
+  },
+  {
+    "end_time": 63090,
+    "index": 25,
+    "start_time": 61109,
+    "text": "The entrance of the store has a scanner that"
+  },
+  {
+    "end_time": 65100,
+    "index": 26,
+    "start_time": 63090,
+    "text": "the users need to scan their unique QR"
+  },
+  {
+    "end_time": 67350,
+    "index": 27,
+    "start_time": 65099,
+    "text": "code on. This tells the system that"
+  },
+  {
+    "end_time": 70380,
+    "index": 28,
+    "start_time": 67350,
+    "text": "the shopper is inside the store. Now comes"
+  },
+  {
+    "end_time": 73140,
+    "index": 29,
+    "start_time": 70380,
+    "text": "to mindblowing part! Once inside the"
+  },
+  {
+    "end_time": 75600,
+    "index": 30,
+    "start_time": 73140,
+    "text": "store, as soon as a shopper lifts a product"
+  },
+  {
+    "end_time": 77820,
+    "index": 31,
+    "start_time": 75600,
+    "text": "off the shelf, it is automatically added to"
+  },
+  {
+    "end_time": 79919,
+    "index": 32,
+    "start_time": 77820,
+    "text": "the shopper&#39;s virtual cart. Put it back"
+  },
+  {
+    "end_time": 82650,
+    "index": 33,
+    "start_time": 79920,
+    "text": "there and the poduct is removed. This is"
+  },
+  {
+    "end_time": 84509,
+    "index": 34,
+    "start_time": 82650,
+    "text": "done using an advanced network of computer"
+  },
+  {
+    "end_time": 87090,
+    "index": 35,
+    "start_time": 84509,
+    "text": "vision, sensors, deep machine learning"
+  },
+  {
+    "end_time": 90299,
+    "index": 36,
+    "start_time": 87090,
+    "text": "and artificial intelligence. It can"
+  },
+  {
+    "end_time": 92520,
+    "index": 37,
+    "start_time": 90299,
+    "text": "detect which product is removed or put back"
+  },
+  {
+    "end_time": 94439,
+    "index": 38,
+    "start_time": 92520,
+    "text": "on the shelf and who is putting them"
+  },
+  {
+    "end_time": 96149,
+    "index": 39,
+    "start_time": 94439,
+    "text": "on or off using facial recognition"
+  },
+  {
+    "end_time": 99720,
+    "index": 40,
+    "start_time": 96150,
+    "text": "technology. Once you&#39;ve added all the"
+  },
+  {
+    "end_time": 101789,
+    "index": 41,
+    "start_time": 99720,
+    "text": "products you want, there&#39;s no need to Queue"
+  },
+  {
+    "end_time": 104070,
+    "index": 42,
+    "start_time": 101790,
+    "text": "up at a billing counter. All you need"
+  },
+  {
+    "end_time": 106229,
+    "index": 43,
+    "start_time": 104070,
+    "text": "to do is just walk out of the store!"
+  },
+  {
+    "end_time": 109080,
+    "index": 44,
+    "start_time": 106230,
+    "text": "The amount, equivalent to all the products"
+  },
+  {
+    "end_time": 110399,
+    "index": 45,
+    "start_time": 109080,
+    "text": "you took from the shelves will"
+  },
+  {
+    "end_time": 112350,
+    "index": 46,
+    "start_time": 110400,
+    "text": "automatically be deducted and transfered"
+  },
+  {
+    "end_time": 114449,
+    "index": 47,
+    "start_time": 112350,
+    "text": "to Amazon and an e- receipt will be"
+  },
+  {
+    "end_time": 116160,
+    "index": 48,
+    "start_time": 114450,
+    "text": "automatically sent to you."
+  },
+  {
+    "end_time": 118229,
+    "index": 49,
+    "start_time": 116160,
+    "text": "Amazon Go gives us a glimpse of"
+  },
+  {
+    "end_time": 120210,
+    "index": 50,
+    "start_time": 118230,
+    "text": "what the future grocery stores might"
+  },
+  {
+    "end_time": 122699,
+    "index": 51,
+    "start_time": 120210,
+    "text": "look like. The first Amazon Go store will be"
+  },
+  {
+    "end_time": 129350,
+    "index": 52,
+    "start_time": 122700,
+    "text": "open for public from early 2017."
+  }
+]

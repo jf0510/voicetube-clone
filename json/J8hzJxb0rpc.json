@@ -1,0 +1,626 @@
+[
+    {
+        "index": 1,
+        "start_time": 7135,
+        "end_time": 8802,
+        "text": "The World Wide Web,"
+    },
+    {
+        "index": 2,
+        "start_time": 8802,
+        "end_time": 10636,
+        "text": "where you&#39;re likely watching this video,"
+    },
+    {
+        "index": 3,
+        "start_time": 10636,
+        "end_time": 13251,
+        "text": "is used by millions of people every day"
+    },
+    {
+        "index": 4,
+        "start_time": 13251,
+        "end_time": 14211,
+        "text": "for everything from"
+    },
+    {
+        "index": 5,
+        "start_time": 14211,
+        "end_time": 15335,
+        "text": "checking the weather,"
+    },
+    {
+        "index": 6,
+        "start_time": 15335,
+        "end_time": 16404,
+        "text": "ordering food,"
+    },
+    {
+        "index": 7,
+        "start_time": 16404,
+        "end_time": 17218,
+        "text": "and chatting with friends"
+    },
+    {
+        "index": 8,
+        "start_time": 17218,
+        "end_time": 18305,
+        "text": "to raising funds,"
+    },
+    {
+        "index": 9,
+        "start_time": 18305,
+        "end_time": 19322,
+        "text": "sharing news,"
+    },
+    {
+        "index": 10,
+        "start_time": 19322,
+        "end_time": 21125,
+        "text": "or starting revolutions."
+    },
+    {
+        "index": 11,
+        "start_time": 21125,
+        "end_time": 24328,
+        "text": "We use it from our computers, our phones, even our cars."
+    },
+    {
+        "index": 12,
+        "start_time": 24328,
+        "end_time": 25496,
+        "text": "It&#39;s just there,"
+    },
+    {
+        "index": 13,
+        "start_time": 25496,
+        "end_time": 27050,
+        "text": "all around us, all the time."
+    },
+    {
+        "index": 14,
+        "start_time": 27050,
+        "end_time": 28717,
+        "text": "But what is it exactly?"
+    },
+    {
+        "index": 15,
+        "start_time": 28717,
+        "end_time": 32051,
+        "text": "Well first of all, the World Wide Web is not the Internet,"
+    },
+    {
+        "index": 16,
+        "start_time": 32051,
+        "end_time": 34905,
+        "text": "even though the terms are often used interchangeably."
+    },
+    {
+        "index": 17,
+        "start_time": 34905,
+        "end_time": 37607,
+        "text": "The Internet is simply the way computers connect to each other"
+    },
+    {
+        "index": 18,
+        "start_time": 37607,
+        "end_time": 39470,
+        "text": "in order to share information."
+    },
+    {
+        "index": 19,
+        "start_time": 39470,
+        "end_time": 41145,
+        "text": "When the Internet first emerged,"
+    },
+    {
+        "index": 20,
+        "start_time": 41145,
+        "end_time": 44161,
+        "text": "computers actually made direct calls to each other."
+    },
+    {
+        "index": 21,
+        "start_time": 44161,
+        "end_time": 46426,
+        "text": "Today, networks are all around us,"
+    },
+    {
+        "index": 22,
+        "start_time": 46426,
+        "end_time": 49023,
+        "text": "so computers can communicate seamlessly."
+    },
+    {
+        "index": 23,
+        "start_time": 49023,
+        "end_time": 50757,
+        "text": "The communication enabled through the Internet"
+    },
+    {
+        "index": 24,
+        "start_time": 50757,
+        "end_time": 51855,
+        "text": "has many uses,"
+    },
+    {
+        "index": 25,
+        "start_time": 51855,
+        "end_time": 54805,
+        "text": "such as email, file transfer, and conferencing."
+    },
+    {
+        "index": 26,
+        "start_time": 54805,
+        "end_time": 56192,
+        "text": "But the most common use"
+    },
+    {
+        "index": 27,
+        "start_time": 56192,
+        "end_time": 57995,
+        "text": "is accessing the World Wide Web."
+    },
+    {
+        "index": 28,
+        "start_time": 57995,
+        "end_time": 60607,
+        "text": "Think of the Web as a bunch of skyscrapers,"
+    },
+    {
+        "index": 29,
+        "start_time": 60607,
+        "end_time": 62533,
+        "text": "each representing a web server,"
+    },
+    {
+        "index": 30,
+        "start_time": 62533,
+        "end_time": 65618,
+        "text": "a computer always connected to the Internet,"
+    },
+    {
+        "index": 31,
+        "start_time": 65618,
+        "end_time": 68449,
+        "text": "specifically designed to store information and share it."
+    },
+    {
+        "index": 32,
+        "start_time": 68449,
+        "end_time": 70138,
+        "text": "When someone starts a website,"
+    },
+    {
+        "index": 33,
+        "start_time": 70138,
+        "end_time": 72694,
+        "text": "they are renting a room in this skyscraper,"
+    },
+    {
+        "index": 34,
+        "start_time": 72694,
+        "end_time": 74241,
+        "text": "filling it with information"
+    },
+    {
+        "index": 35,
+        "start_time": 74241,
+        "end_time": 75942,
+        "text": "and linking that information together"
+    },
+    {
+        "index": 36,
+        "start_time": 75942,
+        "end_time": 78869,
+        "text": "in an organized way for others to access."
+    },
+    {
+        "index": 37,
+        "start_time": 78869,
+        "end_time": 80646,
+        "text": "The people who own these skyscrapers"
+    },
+    {
+        "index": 38,
+        "start_time": 80646,
+        "end_time": 82033,
+        "text": "and rent space in them"
+    },
+    {
+        "index": 39,
+        "start_time": 82033,
+        "end_time": 83368,
+        "text": "are called web hosts,"
+    },
+    {
+        "index": 40,
+        "start_time": 83368,
+        "end_time": 84887,
+        "text": "but anyone can set up a web server"
+    },
+    {
+        "index": 41,
+        "start_time": 84887,
+        "end_time": 87200,
+        "text": "with the right equipment a bit of know-how."
+    },
+    {
+        "index": 42,
+        "start_time": 87200,
+        "end_time": 89156,
+        "text": "There&#39;s another part to having a website,"
+    },
+    {
+        "index": 43,
+        "start_time": 89156,
+        "end_time": 90992,
+        "text": "without which we would be lost in the city"
+    },
+    {
+        "index": 44,
+        "start_time": 90992,
+        "end_time": 93426,
+        "text": "with no way of finding what we need."
+    },
+    {
+        "index": 45,
+        "start_time": 93426,
+        "end_time": 95061,
+        "text": "This is the website address,"
+    },
+    {
+        "index": 46,
+        "start_time": 95061,
+        "end_time": 96664,
+        "text": "which consists of domain names."
+    },
+    {
+        "index": 47,
+        "start_time": 96664,
+        "end_time": 98397,
+        "text": "Just like with a real life address,"
+    },
+    {
+        "index": 48,
+        "start_time": 98397,
+        "end_time": 101326,
+        "text": "a website address lets you get where you want to go."
+    },
+    {
+        "index": 49,
+        "start_time": 101326,
+        "end_time": 103199,
+        "text": "The information stored in the websites"
+    },
+    {
+        "index": 50,
+        "start_time": 103199,
+        "end_time": 104737,
+        "text": "is in web languages,"
+    },
+    {
+        "index": 51,
+        "start_time": 104737,
+        "end_time": 106869,
+        "text": "such as HTML and JavaScript."
+    },
+    {
+        "index": 52,
+        "start_time": 106869,
+        "end_time": 108775,
+        "text": "When we find the website we&#39;re looking for,"
+    },
+    {
+        "index": 53,
+        "start_time": 108775,
+        "end_time": 112033,
+        "text": "our web browser is able to take all the code on the site"
+    },
+    {
+        "index": 54,
+        "start_time": 112033,
+        "end_time": 115084,
+        "text": "and turn it into words, graphics, and videos."
+    },
+    {
+        "index": 55,
+        "start_time": 115084,
+        "end_time": 117532,
+        "text": "We don&#39;t need to know any special computer languages"
+    },
+    {
+        "index": 56,
+        "start_time": 117532,
+        "end_time": 121320,
+        "text": "because the web browser creates a graphic interface for us."
+    },
+    {
+        "index": 57,
+        "start_time": 121320,
+        "end_time": 122783,
+        "text": "So, in a lot of ways,"
+    },
+    {
+        "index": 58,
+        "start_time": 122783,
+        "end_time": 125283,
+        "text": "the World Wide Web is a big virtual city"
+    },
+    {
+        "index": 59,
+        "start_time": 125283,
+        "end_time": 126893,
+        "text": "where we communicate with each other"
+    },
+    {
+        "index": 60,
+        "start_time": 126893,
+        "end_time": 128259,
+        "text": "in web languages,"
+    },
+    {
+        "index": 61,
+        "start_time": 128259,
+        "end_time": 130618,
+        "text": "with browsers acting as our translators."
+    },
+    {
+        "index": 62,
+        "start_time": 130618,
+        "end_time": 132866,
+        "text": "And just like no one owns a city,"
+    },
+    {
+        "index": 63,
+        "start_time": 132866,
+        "end_time": 134332,
+        "text": "no one owns the Web;"
+    },
+    {
+        "index": 64,
+        "start_time": 134332,
+        "end_time": 135949,
+        "text": "it belongs to all of us."
+    },
+    {
+        "index": 65,
+        "start_time": 135949,
+        "end_time": 137785,
+        "text": "Anyone can move in and set up shop."
+    },
+    {
+        "index": 66,
+        "start_time": 137785,
+        "end_time": 139840,
+        "text": "We might have to pay an Internet service provider"
+    },
+    {
+        "index": 67,
+        "start_time": 139840,
+        "end_time": 141474,
+        "text": "to gain access,"
+    },
+    {
+        "index": 68,
+        "start_time": 141474,
+        "end_time": 143368,
+        "text": "a hosting company to rent web space,"
+    },
+    {
+        "index": 69,
+        "start_time": 143368,
+        "end_time": 145865,
+        "text": "or a registrar to reserve our web address."
+    },
+    {
+        "index": 70,
+        "start_time": 145865,
+        "end_time": 147948,
+        "text": "Like utility companies in a city,"
+    },
+    {
+        "index": 71,
+        "start_time": 147948,
+        "end_time": 149984,
+        "text": "these companies provide crucial services,"
+    },
+    {
+        "index": 72,
+        "start_time": 149984,
+        "end_time": 151366,
+        "text": "but in the end,"
+    },
+    {
+        "index": 73,
+        "start_time": 151366,
+        "end_time": 152986,
+        "text": "not even they own the Web."
+    },
+    {
+        "index": 74,
+        "start_time": 152986,
+        "end_time": 154823,
+        "text": "But what really makes the Web so special"
+    },
+    {
+        "index": 75,
+        "start_time": 154823,
+        "end_time": 156617,
+        "text": "lies in its very name."
+    },
+    {
+        "index": 76,
+        "start_time": 156617,
+        "end_time": 157950,
+        "text": "Prior to the Web,"
+    },
+    {
+        "index": 77,
+        "start_time": 157950,
+        "end_time": 159533,
+        "text": "we used to consume most information"
+    },
+    {
+        "index": 78,
+        "start_time": 159533,
+        "end_time": 161027,
+        "text": "in a linear fashion."
+    },
+    {
+        "index": 79,
+        "start_time": 161027,
+        "end_time": 162863,
+        "text": "In a book or newspaper article,"
+    },
+    {
+        "index": 80,
+        "start_time": 162863,
+        "end_time": 165284,
+        "text": "each sentence was read from beginning to end,"
+    },
+    {
+        "index": 81,
+        "start_time": 165284,
+        "end_time": 166832,
+        "text": "page by page,"
+    },
+    {
+        "index": 82,
+        "start_time": 166832,
+        "end_time": 169533,
+        "text": "in a straight line until you reached the end."
+    },
+    {
+        "index": 83,
+        "start_time": 169533,
+        "end_time": 171572,
+        "text": "But that isn&#39;t how our brains actually work."
+    },
+    {
+        "index": 84,
+        "start_time": 171572,
+        "end_time": 173865,
+        "text": "Each of our thoughts is linked to other thoughts,"
+    },
+    {
+        "index": 85,
+        "start_time": 173865,
+        "end_time": 175574,
+        "text": "memories, and emotions"
+    },
+    {
+        "index": 86,
+        "start_time": 175574,
+        "end_time": 178611,
+        "text": "in a loose interconnected network, like a web."
+    },
+    {
+        "index": 87,
+        "start_time": 178611,
+        "end_time": 181315,
+        "text": "Tim Berners-Lee, the father of the World Wide Web,"
+    },
+    {
+        "index": 88,
+        "start_time": 181315,
+        "end_time": 184517,
+        "text": "understood that we needed a way to organize information"
+    },
+    {
+        "index": 89,
+        "start_time": 184517,
+        "end_time": 186852,
+        "text": "that mirrored this natural arrangement."
+    },
+    {
+        "index": 90,
+        "start_time": 186852,
+        "end_time": 189618,
+        "text": "And the Web accomplishes this through hyperlinks."
+    },
+    {
+        "index": 91,
+        "start_time": 189618,
+        "end_time": 191890,
+        "text": "By linking several pages within a website"
+    },
+    {
+        "index": 92,
+        "start_time": 191890,
+        "end_time": 194163,
+        "text": "or even redirecting you to other websites"
+    },
+    {
+        "index": 93,
+        "start_time": 194163,
+        "end_time": 196950,
+        "text": "to expand on information or ideas immediately"
+    },
+    {
+        "index": 94,
+        "start_time": 196950,
+        "end_time": 198450,
+        "text": "as you encounter them,"
+    },
+    {
+        "index": 95,
+        "start_time": 198450,
+        "end_time": 199524,
+        "text": "hyperlinks allow the Web"
+    },
+    {
+        "index": 96,
+        "start_time": 199524,
+        "end_time": 202516,
+        "text": "to operate along the same lines as our thought patterns."
+    },
+    {
+        "index": 97,
+        "start_time": 202516,
+        "end_time": 204663,
+        "text": "The Web is so much a part of our lives"
+    },
+    {
+        "index": 98,
+        "start_time": 204663,
+        "end_time": 206516,
+        "text": "because in content and structure,"
+    },
+    {
+        "index": 99,
+        "start_time": 206516,
+        "end_time": 208683,
+        "text": "it reflects both the wider society"
+    },
+    {
+        "index": 100,
+        "start_time": 208683,
+        "end_time": 210807,
+        "text": "and our individual minds."
+    },
+    {
+        "index": 101,
+        "start_time": 210807,
+        "end_time": 212571,
+        "text": "And it connects those minds"
+    },
+    {
+        "index": 102,
+        "start_time": 212571,
+        "end_time": 214266,
+        "text": "across all boundaries,"
+    },
+    {
+        "index": 103,
+        "start_time": 214266,
+        "end_time": 216182,
+        "text": "not only enthnicity, gender, and age"
+    },
+    {
+        "index": 104,
+        "start_time": 216182,
+        "end_time": 217812,
+        "text": "but even time and space."
+    }
+]

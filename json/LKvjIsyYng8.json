@@ -1,0 +1,500 @@
+[
+    {
+        "index": 1,
+        "start_time": 6994,
+        "end_time": 9445,
+        "text": "Created by logician Raymond Smullyan"
+    },
+    {
+        "index": 2,
+        "start_time": 9445,
+        "end_time": 12566,
+        "text": "and popularized by his colleague\nGeorge Boolos,"
+    },
+    {
+        "index": 3,
+        "start_time": 12566,
+        "end_time": 17176,
+        "text": "this riddle has been called the hardest\nlogic puzzle ever."
+    },
+    {
+        "index": 4,
+        "start_time": 17176,
+        "end_time": 21515,
+        "text": "You and your team have crash-landed\non an ancient planet."
+    },
+    {
+        "index": 5,
+        "start_time": 21515,
+        "end_time": 26516,
+        "text": "The only way off is to appease\nits three alien overlords,"
+    },
+    {
+        "index": 6,
+        "start_time": 26516,
+        "end_time": 29056,
+        "text": "Tee, Eff, and Arr,"
+    },
+    {
+        "index": 7,
+        "start_time": 29056,
+        "end_time": 31745,
+        "text": "by giving them the correct artifacts."
+    },
+    {
+        "index": 8,
+        "start_time": 31745,
+        "end_time": 34596,
+        "text": "Unfortunately, you don&#39;t\nknow who is who."
+    },
+    {
+        "index": 9,
+        "start_time": 34596,
+        "end_time": 39187,
+        "text": "From an inscription, you learn that you\nmay ask three yes or no questions,"
+    },
+    {
+        "index": 10,
+        "start_time": 39187,
+        "end_time": 42266,
+        "text": "each addressed to any one lord."
+    },
+    {
+        "index": 11,
+        "start_time": 42266,
+        "end_time": 44747,
+        "text": "Tee&#39;s answers are always true,"
+    },
+    {
+        "index": 12,
+        "start_time": 44747,
+        "end_time": 46776,
+        "text": "Eff&#39;s are always false,"
+    },
+    {
+        "index": 13,
+        "start_time": 46776,
+        "end_time": 50327,
+        "text": "and Arr&#39;s answer is random each time."
+    },
+    {
+        "index": 14,
+        "start_time": 50327,
+        "end_time": 51767,
+        "text": "But there&#39;s a problem."
+    },
+    {
+        "index": 15,
+        "start_time": 51767,
+        "end_time": 54839,
+        "text": "You&#39;ve deciphered the language enough\nto ask any question,"
+    },
+    {
+        "index": 16,
+        "start_time": 54839,
+        "end_time": 59927,
+        "text": "but you don&#39;t know which of the two\nwords &#39;ozo&#39; and &#39;ulu&#39; means yes"
+    },
+    {
+        "index": 17,
+        "start_time": 59927,
+        "end_time": 61628,
+        "text": "and which means no."
+    },
+    {
+        "index": 18,
+        "start_time": 61628,
+        "end_time": 65188,
+        "text": "How can you still figure out \nwhich alien is which?"
+    },
+    {
+        "index": 19,
+        "start_time": 65188,
+        "end_time": 68147,
+        "text": "Pause here if you want \nto figure it out for yourself!"
+    },
+    {
+        "index": 20,
+        "start_time": 68147,
+        "end_time": 69968,
+        "text": "Answer in: 3"
+    },
+    {
+        "index": 21,
+        "start_time": 69968,
+        "end_time": 71447,
+        "text": "2"
+    },
+    {
+        "index": 22,
+        "start_time": 71447,
+        "end_time": 72716,
+        "text": "1"
+    },
+    {
+        "index": 23,
+        "start_time": 72716,
+        "end_time": 77228,
+        "text": "At first, this puzzle seems not just hard,\nbut downright impossible."
+    },
+    {
+        "index": 24,
+        "start_time": 77228,
+        "end_time": 78797,
+        "text": "What good is asking a question"
+    },
+    {
+        "index": 25,
+        "start_time": 78797,
+        "end_time": 83227,
+        "text": "if you can neither understand the answer\nnor know if it&#39;s true?"
+    },
+    {
+        "index": 26,
+        "start_time": 83227,
+        "end_time": 84918,
+        "text": "But it can be done."
+    },
+    {
+        "index": 27,
+        "start_time": 84918,
+        "end_time": 87598,
+        "text": "The key is to carefully formulate\nour questions"
+    },
+    {
+        "index": 28,
+        "start_time": 87598,
+        "end_time": 91298,
+        "text": "so that any answer \nyields useful information."
+    },
+    {
+        "index": 29,
+        "start_time": 91298,
+        "end_time": 95827,
+        "text": "First of all, we can get around\nto not knowing what &#39;ozo&#39; and &#39;ulu&#39; mean"
+    },
+    {
+        "index": 30,
+        "start_time": 95827,
+        "end_time": 99578,
+        "text": "by including the words themselves\nin the questions,"
+    },
+    {
+        "index": 31,
+        "start_time": 99578,
+        "end_time": 103539,
+        "text": "and secondly, if we load each question\nwith a hypothetical condition,"
+    },
+    {
+        "index": 32,
+        "start_time": 103539,
+        "end_time": 107988,
+        "text": "whether an alien is lying or not\nwon&#39;t actually matter."
+    },
+    {
+        "index": 33,
+        "start_time": 107988,
+        "end_time": 109559,
+        "text": "To see how that could work,"
+    },
+    {
+        "index": 34,
+        "start_time": 109559,
+        "end_time": 113630,
+        "text": "imagine our question\nis whether two plus two is four."
+    },
+    {
+        "index": 35,
+        "start_time": 113630,
+        "end_time": 115399,
+        "text": "Instead of posing it directly,"
+    },
+    {
+        "index": 36,
+        "start_time": 115399,
+        "end_time": 119348,
+        "text": "we say, &quot;If I asked you whether\ntwo plus two is four,"
+    },
+    {
+        "index": 37,
+        "start_time": 119348,
+        "end_time": 121539,
+        "text": "would you answer &#39;ozo&#39;?&quot;"
+    },
+    {
+        "index": 38,
+        "start_time": 121539,
+        "end_time": 124619,
+        "text": "If &#39;ozo&#39; means yes \nand the overlord is Tee,"
+    },
+    {
+        "index": 39,
+        "start_time": 124619,
+        "end_time": 127359,
+        "text": "it truthfully replies, &quot;ozo.&quot;"
+    },
+    {
+        "index": 40,
+        "start_time": 127359,
+        "end_time": 129289,
+        "text": "But what if we ask Eff?"
+    },
+    {
+        "index": 41,
+        "start_time": 129289,
+        "end_time": 133459,
+        "text": "Well, it would answer &quot;ulu,&quot;\nor no to the embedded question,"
+    },
+    {
+        "index": 42,
+        "start_time": 133459,
+        "end_time": 137116,
+        "text": "so it lies and replies &#39;ozo&#39; instead."
+    },
+    {
+        "index": 43,
+        "start_time": 137116,
+        "end_time": 140049,
+        "text": "And if &#39;ozo&#39; actually means no,"
+    },
+    {
+        "index": 44,
+        "start_time": 140049,
+        "end_time": 143589,
+        "text": "then the answer to \nour embedded question is &#39;ulu,&#39;"
+    },
+    {
+        "index": 45,
+        "start_time": 143589,
+        "end_time": 147069,
+        "text": "and both Tee and Eff still reply &#39;ozo,&#39;"
+    },
+    {
+        "index": 46,
+        "start_time": 147069,
+        "end_time": 149110,
+        "text": "each for their own reasons."
+    },
+    {
+        "index": 47,
+        "start_time": 149110,
+        "end_time": 151180,
+        "text": "If you&#39;re confused about why this works,"
+    },
+    {
+        "index": 48,
+        "start_time": 151180,
+        "end_time": 153610,
+        "text": "the reason involves logical structure."
+    },
+    {
+        "index": 49,
+        "start_time": 153610,
+        "end_time": 158640,
+        "text": "A double positive and a double negative\nboth result in a positive."
+    },
+    {
+        "index": 50,
+        "start_time": 158640,
+        "end_time": 163320,
+        "text": "Now, we can be sure that asking\neither Tee or Eff a question put this way"
+    },
+    {
+        "index": 51,
+        "start_time": 163320,
+        "end_time": 167461,
+        "text": "will yield &#39;ozo&#39;\nif the hypothetical question is true"
+    },
+    {
+        "index": 52,
+        "start_time": 167461,
+        "end_time": 169630,
+        "text": "and &#39;ulu&#39; if it&#39;s false"
+    },
+    {
+        "index": 53,
+        "start_time": 169630,
+        "end_time": 173020,
+        "text": "regardless of what \neach word actually means."
+    },
+    {
+        "index": 54,
+        "start_time": 173020,
+        "end_time": 176621,
+        "text": "Unfortunately, \nthis doesn&#39;t help us with Arr."
+    },
+    {
+        "index": 55,
+        "start_time": 176621,
+        "end_time": 181231,
+        "text": "But don&#39;t worry, we can use our first\nquestion to identify one alien lord"
+    },
+    {
+        "index": 56,
+        "start_time": 181231,
+        "end_time": 183771,
+        "text": "that definitely isn&#39;t Arr."
+    },
+    {
+        "index": 57,
+        "start_time": 183771,
+        "end_time": 188112,
+        "text": "Then we can use the second to find out\nwhether its Tee or Eff."
+    },
+    {
+        "index": 58,
+        "start_time": 188112,
+        "end_time": 189371,
+        "text": "And once we know that,"
+    },
+    {
+        "index": 59,
+        "start_time": 189371,
+        "end_time": 192955,
+        "text": "we can ask it to identify \none of the others."
+    },
+    {
+        "index": 60,
+        "start_time": 192955,
+        "end_time": 194732,
+        "text": "So let&#39;s begin."
+    },
+    {
+        "index": 61,
+        "start_time": 194732,
+        "end_time": 196452,
+        "text": "Ask the alien in the middle,"
+    },
+    {
+        "index": 62,
+        "start_time": 196452,
+        "end_time": 202122,
+        "text": "&quot;If I asked you whether the overlord on\nmy left is Arr, would you answer &#39;ozo&#39;?&quot;"
+    },
+    {
+        "index": 63,
+        "start_time": 202122,
+        "end_time": 206342,
+        "text": "If the reply is &#39;ozo,&#39; \nthere are two possibilities."
+    },
+    {
+        "index": 64,
+        "start_time": 206342,
+        "end_time": 210961,
+        "text": "You could already be talking to Arr,\nin which case the answer is meaningless."
+    },
+    {
+        "index": 65,
+        "start_time": 210961,
+        "end_time": 214921,
+        "text": "But otherwise, you&#39;re talking to either\nTee or Eff,"
+    },
+    {
+        "index": 66,
+        "start_time": 214921,
+        "end_time": 216191,
+        "text": "and as we know,"
+    },
+    {
+        "index": 67,
+        "start_time": 216191,
+        "end_time": 221402,
+        "text": "getting &#39;ozo&#39; from either one means \nyour hypothetical question was correct,"
+    },
+    {
+        "index": 68,
+        "start_time": 221402,
+        "end_time": 224713,
+        "text": "and the left overlord is indeed Arr."
+    },
+    {
+        "index": 69,
+        "start_time": 224713,
+        "end_time": 229463,
+        "text": "Either way, you can be sure the alien\non the right is not Arr."
+    },
+    {
+        "index": 70,
+        "start_time": 229463,
+        "end_time": 232072,
+        "text": "Similarly, if the answer is &#39;ulu,&#39;"
+    },
+    {
+        "index": 71,
+        "start_time": 232072,
+        "end_time": 235662,
+        "text": "then you know the alien \non the left can&#39;t be Arr."
+    },
+    {
+        "index": 72,
+        "start_time": 235662,
+        "end_time": 240027,
+        "text": "Now go to the overlord you&#39;ve determined\nisn&#39;t Arr and ask,"
+    },
+    {
+        "index": 73,
+        "start_time": 240027,
+        "end_time": 244163,
+        "text": "&quot;If I asked &#39;are you Eff?&#39; \nwould you answer &#39;ozo&#39;?&quot;"
+    },
+    {
+        "index": 74,
+        "start_time": 244163,
+        "end_time": 247152,
+        "text": "Since you don&#39;t have to worry about\nthe random possibility,"
+    },
+    {
+        "index": 75,
+        "start_time": 247152,
+        "end_time": 251303,
+        "text": "either answer will \nestablish its identity."
+    },
+    {
+        "index": 76,
+        "start_time": 251303,
+        "end_time": 254373,
+        "text": "Now that you know whether its\nanswers are true or false,"
+    },
+    {
+        "index": 77,
+        "start_time": 254373,
+        "end_time": 259471,
+        "text": "ask the same alien whether the center\noverlord is Arr."
+    },
+    {
+        "index": 78,
+        "start_time": 259471,
+        "end_time": 263984,
+        "text": "The process of elimination will identify\nthe remaining one."
+    },
+    {
+        "index": 79,
+        "start_time": 263984,
+        "end_time": 266853,
+        "text": "The satisfied overlords help you\nrepair your ship"
+    },
+    {
+        "index": 80,
+        "start_time": 266853,
+        "end_time": 268863,
+        "text": "and you prepare for takeoff."
+    },
+    {
+        "index": 81,
+        "start_time": 268863,
+        "end_time": 273473,
+        "text": "Allowed one final question, you ask\nTee if it&#39;s a long way to Earth,"
+    },
+    {
+        "index": 82,
+        "start_time": 273473,
+        "end_time": 276393,
+        "text": "and he answers &quot;ozo.&quot;"
+    },
+    {
+        "index": 83,
+        "start_time": 276393,
+        "end_time": 279283,
+        "text": "Too bad you still don&#39;t know \nwhat that means."
+    }
+]

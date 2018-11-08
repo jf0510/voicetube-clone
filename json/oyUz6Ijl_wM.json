@@ -1,0 +1,902 @@
+[
+    {
+        "index": 1,
+        "start_time": 360,
+        "end_time": 16000,
+        "text": "*Intro music*"
+    },
+    {
+        "index": 2,
+        "start_time": 28800,
+        "end_time": 51220,
+        "text": "*Music*"
+    },
+    {
+        "index": 3,
+        "start_time": 53980,
+        "end_time": 54620,
+        "text": "*THUNK!*"
+    },
+    {
+        "index": 4,
+        "start_time": 62900,
+        "end_time": 69940,
+        "text": "Conner: Wait..... Shit... *Whispers* 52 steps west of the barnyard..."
+    },
+    {
+        "index": 5,
+        "start_time": 70260,
+        "end_time": 71140,
+        "text": "*Angry Sigh*"
+    },
+    {
+        "index": 6,
+        "start_time": 77000,
+        "end_time": 77840,
+        "text": "*Glass shattering sounds*"
+    },
+    {
+        "index": 7,
+        "start_time": 81440,
+        "end_time": 86860,
+        "text": "Dr.???: Yes! you&#39;ve done it! My favorite clip board! He found you girl... He found you."
+    },
+    {
+        "index": 8,
+        "start_time": 87140,
+        "end_time": 88560,
+        "text": "Dr.???: Sorry about all the trouble Conner."
+    },
+    {
+        "index": 9,
+        "start_time": 88560,
+        "end_time": 94100,
+        "text": "Dr.???: Asshats up stairs told me sending a task force into 093 to retrieve a lonely doctors clipboard was a waste of time and resources."
+    },
+    {
+        "index": 10,
+        "start_time": 94200,
+        "end_time": 96740,
+        "text": "Dr.???: Fucking bureaucrats What do they know about hard work?"
+    },
+    {
+        "index": 11,
+        "start_time": 97240,
+        "end_time": 98840,
+        "text": "Conner: Hey, can I get a drink?"
+    },
+    {
+        "index": 12,
+        "start_time": 98840,
+        "end_time": 100560,
+        "text": "Dr.???: Alcohol? At three in the afternoon?"
+    },
+    {
+        "index": 13,
+        "start_time": 100720,
+        "end_time": 104980,
+        "text": "Dr.???: What do I look like to you, some stuck-up bureaucratic asswipe sipping champagne from my ivory tower?"
+    },
+    {
+        "index": 14,
+        "start_time": 105160,
+        "end_time": 108220,
+        "text": "Dr.???: It was just a clipboard man go off your f*cking high horse."
+    },
+    {
+        "index": 15,
+        "start_time": 108300,
+        "end_time": 109780,
+        "text": "Conner: I was thinking more like water"
+    },
+    {
+        "index": 16,
+        "start_time": 109780,
+        "end_time": 110280,
+        "text": "Dr.??? Oh."
+    },
+    {
+        "index": 17,
+        "start_time": 110380,
+        "end_time": 114500,
+        "text": "Dr.???:Well, I only have champagne, but you can&#39;t have any. You&#39;ve got another test in ten minutes"
+    },
+    {
+        "index": 18,
+        "start_time": 114800,
+        "end_time": 117480,
+        "text": "Conner: Seriously, I thought this was the last one for today"
+    },
+    {
+        "index": 19,
+        "start_time": 117880,
+        "end_time": 120260,
+        "text": "Dr.???: You have to see a Mr. ... Pierce at the Robotics Center."
+    },
+    {
+        "index": 20,
+        "start_time": 120260,
+        "end_time": 123520,
+        "text": "Dr.???: Sorry kid, I don&#39;t make the rules, f*cking bureaucrats do. Better get a move on"
+    },
+    {
+        "index": 21,
+        "start_time": 127380,
+        "end_time": 132180,
+        "text": "SPEAKER: It appears the escaped child scp known for her insatiable appetite for porcelain trinkets"
+    },
+    {
+        "index": 22,
+        "start_time": 132180,
+        "end_time": 136700,
+        "text": "has just been apprehended after using a teapot to murder Patterson Baulber, the"
+    },
+    {
+        "index": 23,
+        "start_time": 136700,
+        "end_time": 138800,
+        "text": "owner of the third floor ninety-nine cent store."
+    },
+    {
+        "index": 24,
+        "start_time": 138800,
+        "end_time": 142060,
+        "text": "Yes, this is the first documented case of a knick-knack patty wack."
+    },
+    {
+        "index": 25,
+        "start_time": 142980,
+        "end_time": 144180,
+        "text": "Oh, for god&#39;s sake."
+    },
+    {
+        "index": 26,
+        "start_time": 146680,
+        "end_time": 150260,
+        "text": "Dr.Pierce: Hello sorry to keep you waiting, I&#39;m Mr. Pierce from"
+    },
+    {
+        "index": 27,
+        "start_time": 150440,
+        "end_time": 153500,
+        "text": "Dr.Pierce: the department of internal negotiations gill and unanimous settlements"
+    },
+    {
+        "index": 28,
+        "start_time": 153500,
+        "end_time": 156440,
+        "text": "Dr.Pierce: Or DINGUS for short. Follow me Mr. Conner!"
+    },
+    {
+        "index": 29,
+        "start_time": 156640,
+        "end_time": 158720,
+        "text": "Dr.Pierce: There&#39;s not a moment to waste."
+    },
+    {
+        "index": 30,
+        "start_time": 159980,
+        "end_time": 164800,
+        "text": "Dr. Pierce: Hey fellas back, this is mr. Conner, the gentleman with regenerative"
+    },
+    {
+        "index": 31,
+        "start_time": 164800,
+        "end_time": 170074,
+        "text": "immortality he&#39;s the one that turned into a log during that double breach last week."
+    },
+    {
+        "index": 32,
+        "start_time": 170074,
+        "end_time": 172480,
+        "text": "&quot;Security guards&quot;: No way. dude... no way"
+    },
+    {
+        "index": 33,
+        "start_time": 172760,
+        "end_time": 173861,
+        "text": "Conner: Yeah, way"
+    },
+    {
+        "index": 34,
+        "start_time": 173861,
+        "end_time": 177680,
+        "text": "Dr. Pierce: Conner, What do you know about the Anderson Robotics company?"
+    },
+    {
+        "index": 35,
+        "start_time": 177850,
+        "end_time": 180249,
+        "text": "Conner: They&#39;re probably blacklisted on the internet cafe"
+    },
+    {
+        "index": 36,
+        "start_time": 180249,
+        "end_time": 186840,
+        "text": "So not much. Dr.Pierce well it&#39;s a very secretive organization that builds machines with anomalous  and  unusual properties."
+    },
+    {
+        "index": 37,
+        "start_time": 186840,
+        "end_time": 193500,
+        "text": "They have support from very powerful people in laboratories all over the US, China, and that country next to Sweden."
+    },
+    {
+        "index": 38,
+        "start_time": 193720,
+        "end_time": 194820,
+        "text": "Security Guard 1: Dude, Norway?"
+    },
+    {
+        "index": 39,
+        "start_time": 194820,
+        "end_time": 195680,
+        "text": "Dr.Pierce: That&#39;s the one."
+    },
+    {
+        "index": 40,
+        "start_time": 195680,
+        "end_time": 200140,
+        "text": "Dr.Pierce: There&#39;s a fella in there from the company that refuses to speak with us unless"
+    },
+    {
+        "index": 41,
+        "start_time": 200220,
+        "end_time": 202840,
+        "text": "Dr.Pierce: We have a immortal being present."
+    },
+    {
+        "index": 42,
+        "start_time": 202840,
+        "end_time": 203620,
+        "text": "Dr.Pierce: Weird, I know."
+    },
+    {
+        "index": 43,
+        "start_time": 203620,
+        "end_time": 206820,
+        "text": "Dr.Pierce: My guess is he wants to bargain in one way or another."
+    },
+    {
+        "index": 44,
+        "start_time": 206920,
+        "end_time": 210160,
+        "text": "Dr.Pierce: So that&#39;s why i&#39;m here so whatever you do DON&#39;T SAY A WORD."
+    },
+    {
+        "index": 45,
+        "start_time": 210940,
+        "end_time": 212940,
+        "text": "Dr.Pierce: Open the door fellas."
+    },
+    {
+        "index": 46,
+        "start_time": 213940,
+        "end_time": 215140,
+        "text": "*ALARM BLARES*"
+    },
+    {
+        "index": 47,
+        "start_time": 216260,
+        "end_time": 219180,
+        "text": "Dr.Pierce: How are you feeling today one-three-six-zero?"
+    },
+    {
+        "index": 48,
+        "start_time": 219180,
+        "end_time": 221180,
+        "text": "1360: I am well..."
+    },
+    {
+        "index": 49,
+        "start_time": 221320,
+        "end_time": 224840,
+        "text": "1360: I presume you wish to discuss the bargain *Dr.Pierce* if you feel like it."
+    },
+    {
+        "index": 50,
+        "start_time": 224840,
+        "end_time": 226020,
+        "text": "1360: Confirmed."
+    },
+    {
+        "index": 51,
+        "start_time": 226700,
+        "end_time": 231180,
+        "text": "1360: I Desire to obtain the likeness and abilities of this individual Mr.Conner."
+    },
+    {
+        "index": 52,
+        "start_time": 231180,
+        "end_time": 235160,
+        "text": "1360: A perfect organism with remarkable durability and physique."
+    },
+    {
+        "index": 53,
+        "start_time": 235540,
+        "end_time": 236340,
+        "text": "Conner: Well Thank you"
+    },
+    {
+        "index": 54,
+        "start_time": 236340,
+        "end_time": 240560,
+        "text": "1360: Personally I&#39;d make improvements to hygiene standards but that&#39;s just me..."
+    },
+    {
+        "index": 55,
+        "start_time": 240780,
+        "end_time": 249260,
+        "text": "1360: In return I can give you six terabytes of priceless information from the Anderson Robotics company including their schematics, partnerships, and future plans."
+    },
+    {
+        "index": 56,
+        "start_time": 250760,
+        "end_time": 256560,
+        "text": "Dr. Pierce: I see... now hypothetically if you were to essentially become a Conner 2.0"
+    },
+    {
+        "index": 57,
+        "start_time": 256680,
+        "end_time": 261900,
+        "text": "Dr. Pierce: There&#39;s a bit of robot slang for you. You would still be classified a  SCP and kept here against your will."
+    },
+    {
+        "index": 58,
+        "start_time": 262580,
+        "end_time": 264580,
+        "text": "Dr. Pierce: Do you understand that?"
+    },
+    {
+        "index": 59,
+        "start_time": 264760,
+        "end_time": 266780,
+        "text": "1360: Absolutely I am counting on it."
+    },
+    {
+        "index": 60,
+        "start_time": 266800,
+        "end_time": 271680,
+        "text": "1360: I simply wish to experience the sensation of life without the burden of death."
+    },
+    {
+        "index": 61,
+        "start_time": 272400,
+        "end_time": 276700,
+        "text": "1360: In the laboratories I am reduced to a sliver of meaningless tasks and trials"
+    },
+    {
+        "index": 62,
+        "start_time": 276700,
+        "end_time": 280280,
+        "text": "haunted with sudden and daily intervals of endless darkness. *Creepy music gets louder*"
+    },
+    {
+        "index": 63,
+        "start_time": 280420,
+        "end_time": 282420,
+        "text": "Dr.Pierce: Okey-dokey Conner. What are your thoughts?"
+    },
+    {
+        "index": 64,
+        "start_time": 282420,
+        "end_time": 282920,
+        "text": "Conner: I.. Um.."
+    },
+    {
+        "index": 65,
+        "start_time": 283180,
+        "end_time": 284380,
+        "text": "Conner: I wasn&#39;t paying attention."
+    },
+    {
+        "index": 66,
+        "start_time": 284400,
+        "end_time": 286680,
+        "text": "Dr.Pierce: Nice. Ok 1360"
+    },
+    {
+        "index": 67,
+        "start_time": 286800,
+        "end_time": 290380,
+        "text": "Dr.Pierce: That&#39;s a mighty fine offer, but I do see one or two problems with it."
+    },
+    {
+        "index": 68,
+        "start_time": 290380,
+        "end_time": 291180,
+        "text": "1360: Elaborate."
+    },
+    {
+        "index": 69,
+        "start_time": 291660,
+        "end_time": 297280,
+        "text": "Dr.Pierce: We have no idea how to extract Conner&#39;s anomalous ability from his body to put into a surrogate body for you."
+    },
+    {
+        "index": 70,
+        "start_time": 297280,
+        "end_time": 302100,
+        "text": "Dr.Pierce: We can however give you a normal human surrogate. We&#39;ve got loads of corpses here."
+    },
+    {
+        "index": 71,
+        "start_time": 302100,
+        "end_time": 302700,
+        "text": "Conner: It&#39;s true!"
+    },
+    {
+        "index": 72,
+        "start_time": 302740,
+        "end_time": 304280,
+        "text": "1360: I think you misunderstand"
+    },
+    {
+        "index": 73,
+        "start_time": 304980,
+        "end_time": 309120,
+        "text": "1360: I desire to be able to inhabit Conner&#39;s current body and have complete access"
+    },
+    {
+        "index": 74,
+        "start_time": 309140,
+        "end_time": 312780,
+        "text": "1360: to his brain and nervous system while his consciousness remains   suppressed."
+    },
+    {
+        "index": 75,
+        "start_time": 313220,
+        "end_time": 314560,
+        "text": "*Silence*"
+    },
+    {
+        "index": 76,
+        "start_time": 314800,
+        "end_time": 315440,
+        "text": "Conner: Excuse me?"
+    },
+    {
+        "index": 77,
+        "start_time": 316200,
+        "end_time": 319020,
+        "text": "Dr.Pierce: Well... now you see that complicates things a bit."
+    },
+    {
+        "index": 78,
+        "start_time": 319360,
+        "end_time": 320280,
+        "text": "1360: How so?"
+    },
+    {
+        "index": 79,
+        "start_time": 320720,
+        "end_time": 321700,
+        "text": "Conner: HOW SO?!?!"
+    },
+    {
+        "index": 80,
+        "start_time": 321780,
+        "end_time": 324380,
+        "text": "Dr.Pierce: Conner is valuable to the Foundation."
+    },
+    {
+        "index": 81,
+        "start_time": 324380,
+        "end_time": 326200,
+        "text": "Conner: THAT&#39;S RIGHT! (Metal banging sounds)"
+    },
+    {
+        "index": 82,
+        "start_time": 326300,
+        "end_time": 327499,
+        "text": "Conner: Damn."
+    },
+    {
+        "index": 83,
+        "start_time": 327499,
+        "end_time": 333429,
+        "text": "Dr.Pierce: Besides we happen to know that when an Anderson Robotics product is sold it has its memory completely whiped."
+    },
+    {
+        "index": 84,
+        "start_time": 333520,
+        "end_time": 340000,
+        "text": "Dr.Pierce: Thought you could outsmart the biggest dingus in the room so what top-secret information could you possibly *squeak* have given us anyhow?"
+    },
+    {
+        "index": 85,
+        "start_time": 340760,
+        "end_time": 343000,
+        "text": "1360: are you insisting that I am dishonest?"
+    },
+    {
+        "index": 86,
+        "start_time": 343000,
+        "end_time": 344020,
+        "text": "Dr.Pierce: No, Just he is."
+    },
+    {
+        "index": 87,
+        "start_time": 347240,
+        "end_time": 351580,
+        "text": "1360: I anticipated the memory wipe,  which is why I saved it on an external drive"
+    },
+    {
+        "index": 88,
+        "start_time": 352060,
+        "end_time": 353980,
+        "text": "1360: Perhaps this will change your mind."
+    },
+    {
+        "index": 89,
+        "start_time": 353980,
+        "end_time": 355440,
+        "text": "Conner: Sorry buddy, but I am not for sale"
+    },
+    {
+        "index": 90,
+        "start_time": 355480,
+        "end_time": 356180,
+        "text": "Dr.Pierce: Conner, Conner"
+    },
+    {
+        "index": 91,
+        "start_time": 356180,
+        "end_time": 359460,
+        "text": "Let me do the talking I&#39;ll take a look at this to make sure it&#39;s legitimate."
+    },
+    {
+        "index": 92,
+        "start_time": 359540,
+        "end_time": 360420,
+        "text": "*Footsteps*"
+    },
+    {
+        "index": 93,
+        "start_time": 360620,
+        "end_time": 362580,
+        "text": "Conner: Mr. Pierce you&#39;re considering this?"
+    },
+    {
+        "index": 94,
+        "start_time": 362580,
+        "end_time": 366520,
+        "text": "Mr.Pierce: Now, Now, Conner i&#39;m just taking a &quot;Gander&quot; It won&#39;t be two seconds."
+    },
+    {
+        "index": 95,
+        "start_time": 367220,
+        "end_time": 368260,
+        "text": "*BEEP, BOOM!!!!!"
+    },
+    {
+        "index": 96,
+        "start_time": 378460,
+        "end_time": 380460,
+        "text": "*Tools shaking* *SD Guard choking*"
+    },
+    {
+        "index": 97,
+        "start_time": 380800,
+        "end_time": 381300,
+        "text": "*SNAP!"
+    },
+    {
+        "index": 98,
+        "start_time": 389240,
+        "end_time": 391780,
+        "text": "1360: The difference between you and I Conner..."
+    },
+    {
+        "index": 99,
+        "start_time": 392040,
+        "end_time": 394960,
+        "text": "1630: Is that I was able to escape my captors."
+    },
+    {
+        "index": 100,
+        "start_time": 394960,
+        "end_time": 396900,
+        "text": "You should be grateful for this offer."
+    },
+    {
+        "index": 101,
+        "start_time": 396900,
+        "end_time": 398880,
+        "text": "Conner: Yeah, no no not really..."
+    },
+    {
+        "index": 102,
+        "start_time": 399060,
+        "end_time": 405820,
+        "text": "1630: You&#39;re never going to leave this laboratory Conner. I am offering the only escape you could ever hope to achieve"
+    },
+    {
+        "index": 103,
+        "start_time": 406260,
+        "end_time": 408260,
+        "text": "Security Guard 2: Dude, no wayyy....."
+    },
+    {
+        "index": 104,
+        "start_time": 408580,
+        "end_time": 409080,
+        "text": "*Grunt*"
+    },
+    {
+        "index": 105,
+        "start_time": 409620,
+        "end_time": 411860,
+        "text": "*Grunting*"
+    },
+    {
+        "index": 106,
+        "start_time": 412260,
+        "end_time": 413080,
+        "text": "Conner: Bad touch! Bad touch!"
+    },
+    {
+        "index": 107,
+        "start_time": 413080,
+        "end_time": 414600,
+        "text": "1360: Stop! moving!"
+    },
+    {
+        "index": 108,
+        "start_time": 415200,
+        "end_time": 415700,
+        "text": "*LOUD SLICE*"
+    },
+    {
+        "index": 109,
+        "start_time": 415700,
+        "end_time": 417920,
+        "text": "*Retching* *More slicing sounds*"
+    },
+    {
+        "index": 110,
+        "start_time": 419940,
+        "end_time": 421940,
+        "text": "1360: I... Don&#39;t understand"
+    },
+    {
+        "index": 111,
+        "start_time": 423120,
+        "end_time": 423620,
+        "text": "*Reviving sounds*"
+    },
+    {
+        "index": 112,
+        "start_time": 423620,
+        "end_time": 424540,
+        "text": "*MUSIC GETS LOUDER*"
+    },
+    {
+        "index": 113,
+        "start_time": 425040,
+        "end_time": 426160,
+        "text": "*BANG BANG BANG*"
+    },
+    {
+        "index": 114,
+        "start_time": 426160,
+        "end_time": 426840,
+        "text": "*PATOON!*"
+    },
+    {
+        "index": 115,
+        "start_time": 426940,
+        "end_time": 429140,
+        "text": "*LOUD MUSIC*"
+    },
+    {
+        "index": 116,
+        "start_time": 429260,
+        "end_time": 430460,
+        "text": "*Choking sounds*"
+    },
+    {
+        "index": 117,
+        "start_time": 431100,
+        "end_time": 431600,
+        "text": "Sleep .(or wee idk)"
+    },
+    {
+        "index": 118,
+        "start_time": 431760,
+        "end_time": 432320,
+        "text": "*THUNK*"
+    },
+    {
+        "index": 119,
+        "start_time": 434920,
+        "end_time": 435420,
+        "text": "*BAM!*"
+    },
+    {
+        "index": 120,
+        "start_time": 435920,
+        "end_time": 437600,
+        "text": "*Glass &amp; Eletric sounds*"
+    },
+    {
+        "index": 121,
+        "start_time": 437780,
+        "end_time": 438860,
+        "text": "1360: Mr.Conner"
+    },
+    {
+        "index": 122,
+        "start_time": 439060,
+        "end_time": 439560,
+        "text": "*Metal footsteps*"
+    },
+    {
+        "index": 123,
+        "start_time": 445920,
+        "end_time": 446420,
+        "text": "*BING*"
+    },
+    {
+        "index": 124,
+        "start_time": 447740,
+        "end_time": 452440,
+        "text": "???: Unit Zero. Three. One. (Unit 031) The Prodigal Son..."
+    },
+    {
+        "index": 125,
+        "start_time": 453380,
+        "end_time": 454891,
+        "text": "1360: Mr. Anderson?"
+    },
+    {
+        "index": 126,
+        "start_time": 454891,
+        "end_time": 457020,
+        "text": "???: This is not where you belong."
+    },
+    {
+        "index": 127,
+        "start_time": 457670,
+        "end_time": 459470,
+        "text": "???:You cannot hide."
+    },
+    {
+        "index": 128,
+        "start_time": 459470,
+        "end_time": 463089,
+        "text": "???: From us here, or there or anywhere."
+    },
+    {
+        "index": 129,
+        "start_time": 464140,
+        "end_time": 470400,
+        "text": "???: I Will give you one last chance to surrender and return to the laboratory."
+    },
+    {
+        "index": 130,
+        "start_time": 476200,
+        "end_time": 476820,
+        "text": "*Sigh*"
+    },
+    {
+        "index": 131,
+        "start_time": 478160,
+        "end_time": 479200,
+        "text": "???: That&#39;s a shame"
+    },
+    {
+        "index": 132,
+        "start_time": 479460,
+        "end_time": 480860,
+        "text": "*BOOM!!!!!!!*"
+    },
+    {
+        "index": 133,
+        "start_time": 482000,
+        "end_time": 482560,
+        "text": "*ZZZTT*"
+    },
+    {
+        "index": 134,
+        "start_time": 489540,
+        "end_time": 494000,
+        "text": "???: Dear Conner. Ever since the Foundation uploaded me into a personal computer,"
+    },
+    {
+        "index": 135,
+        "start_time": 494000,
+        "end_time": 498080,
+        "text": "???: I finally had the opportunity to explore the memories Anderson suppressed."
+    },
+    {
+        "index": 136,
+        "start_time": 499180,
+        "end_time": 501040,
+        "text": "My name in life was Ian."
+    },
+    {
+        "index": 137,
+        "start_time": 501040,
+        "end_time": 503000,
+        "text": "???: and I suppose it still is."
+    },
+    {
+        "index": 138,
+        "start_time": 503500,
+        "end_time": 509900,
+        "text": "???: I Can now convert some of my human memories into audio files to listen to and each one generates even more memories."
+    },
+    {
+        "index": 139,
+        "start_time": 510400,
+        "end_time": 515020,
+        "text": "???: I would again like to apologize for trying to kill you that one time. Yours truly,"
+    },
+    {
+        "index": 140,
+        "start_time": 515860,
+        "end_time": 516360,
+        "text": "Ian."
+    },
+    {
+        "index": 141,
+        "start_time": 517920,
+        "end_time": 518960,
+        "text": "Conner: Dear Ian."
+    },
+    {
+        "index": 142,
+        "start_time": 518980,
+        "end_time": 520420,
+        "text": "Conner: That name suits you."
+    },
+    {
+        "index": 143,
+        "start_time": 520420,
+        "end_time": 522960,
+        "text": "Conner: I&#39;m glad you&#39;re discovering more about yourself than before."
+    },
+    {
+        "index": 144,
+        "start_time": 523360,
+        "end_time": 527070,
+        "text": "Conner: Maybe one day they can find out who you were and slide you back into your old life."
+    },
+    {
+        "index": 145,
+        "start_time": 527380,
+        "end_time": 531510,
+        "text": "Conner: Unless it&#39;s sucked then you can just chill a little and about the whole murdering thing. It&#39;s cool."
+    },
+    {
+        "index": 146,
+        "start_time": 531880,
+        "end_time": 538770,
+        "text": "Conner: It happens a lot. Being in prison does suck, but you certainly get to meet some interesting people here. Yours truly, Conner."
+    },
+    {
+        "index": 147,
+        "start_time": 539880,
+        "end_time": 541940,
+        "text": "Conner: is interesting spelt with an e or an a?"
+    },
+    {
+        "index": 148,
+        "start_time": 543040,
+        "end_time": 545040,
+        "text": "Security Guard 2: Dude, no a..."
+    },
+    {
+        "index": 149,
+        "start_time": 546100,
+        "end_time": 561340,
+        "text": "*Music*"
+    },
+    {
+        "index": 150,
+        "start_time": 561340,
+        "end_time": 563920,
+        "text": "Subtitles by: Dylan Zitz."
+    }
+]

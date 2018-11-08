@@ -1,0 +1,98 @@
+[
+  {
+    "end_time": 7880,
+    "index": 1,
+    "start_time": 0,
+    "text": "Nvidia has released a Video for the Demonstration\nof NVIDIA AI Car named &quot;BB8&quot;."
+  },
+  {
+    "end_time": 13899,
+    "index": 2,
+    "start_time": 8280,
+    "text": "In contrast to the usual approach to operating\nself-driving cars, Nvidia did not program"
+  },
+  {
+    "end_time": 20369,
+    "index": 3,
+    "start_time": 13900,
+    "text": "any explicit object detection, mapping, path\nplanning or control components into this car."
+  },
+  {
+    "end_time": 25849,
+    "index": 4,
+    "start_time": 20369,
+    "text": "Instead, the car learns on its own to create\nall necessary internal representations necessary"
+  },
+  {
+    "end_time": 29140,
+    "index": 5,
+    "start_time": 25849,
+    "text": "to steer, simply by observing human drivers."
+  },
+  {
+    "end_time": 34130,
+    "index": 6,
+    "start_time": 29140,
+    "text": "The car successfully navigates the construction\nsite without the need for creating specialized"
+  },
+  {
+    "end_time": 37930,
+    "index": 7,
+    "start_time": 34130,
+    "text": "detectors for cones or other objects present\nat the site."
+  },
+  {
+    "end_time": 43480,
+    "index": 8,
+    "start_time": 37930,
+    "text": "Similarly, the car can drive on the road that\nis overgrown with grass and bushes without"
+  },
+  {
+    "end_time": 46589,
+    "index": 9,
+    "start_time": 43480,
+    "text": "the need to create a vegetation detection\nsystem."
+  },
+  {
+    "end_time": 52650,
+    "index": 10,
+    "start_time": 46590,
+    "text": "All it takes is about twenty example runs\ndriven by humans at different times of the"
+  },
+  {
+    "end_time": 53650,
+    "index": 11,
+    "start_time": 52650,
+    "text": "day."
+  },
+  {
+    "end_time": 59300,
+    "index": 12,
+    "start_time": 53650,
+    "text": "Learning to drive in these complex environments\ndemonstrates new capabilities of deep neural"
+  },
+  {
+    "end_time": 60360,
+    "index": 13,
+    "start_time": 59300,
+    "text": "networks."
+  },
+  {
+    "end_time": 64440,
+    "index": 14,
+    "start_time": 60360,
+    "text": "The car also learns to generalize its driving\nbehavior."
+  },
+  {
+    "end_time": 70250,
+    "index": 15,
+    "start_time": 64440,
+    "text": "This video includes a clip that shows a car\nthat was trained only on California roads"
+  },
+  {
+    "end_time": 72689,
+    "index": 16,
+    "start_time": 70250,
+    "text": "successfully driving itself in New Jersey\n."
+  }
+]

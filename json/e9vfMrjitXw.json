@@ -1,0 +1,500 @@
+[
+    {
+        "index": 1,
+        "start_time": 8470,
+        "end_time": 11708,
+        "text": "There are over one billion cars\nin the world today,"
+    },
+    {
+        "index": 2,
+        "start_time": 11708,
+        "end_time": 13371,
+        "text": "getting people where they need to go,"
+    },
+    {
+        "index": 3,
+        "start_time": 13371,
+        "end_time": 16262,
+        "text": "but cars aren&#39;t just\na mode of transportation,"
+    },
+    {
+        "index": 4,
+        "start_time": 16262,
+        "end_time": 18781,
+        "text": "they&#39;re also a chemistry lesson\nwaiting to be taught."
+    },
+    {
+        "index": 5,
+        "start_time": 18781,
+        "end_time": 22280,
+        "text": "The process of starting your car\nbegins in the engine cylinders,"
+    },
+    {
+        "index": 6,
+        "start_time": 22280,
+        "end_time": 24793,
+        "text": "where a spritz of gasoline\nfrom the fuel injector"
+    },
+    {
+        "index": 7,
+        "start_time": 24793,
+        "end_time": 26810,
+        "text": "and a gulp of air\nfrom the intake valve"
+    },
+    {
+        "index": 8,
+        "start_time": 26810,
+        "end_time": 29844,
+        "text": "mix together before \nbeing ignited by a spark,"
+    },
+    {
+        "index": 9,
+        "start_time": 29844,
+        "end_time": 33310,
+        "text": "forming gases that expand and push the piston."
+    },
+    {
+        "index": 10,
+        "start_time": 33310,
+        "end_time": 37137,
+        "text": "But combustion is an exothermic reaction,\nmeaning it releases heat."
+    },
+    {
+        "index": 11,
+        "start_time": 37137,
+        "end_time": 38632,
+        "text": "Lots of it."
+    },
+    {
+        "index": 12,
+        "start_time": 38632,
+        "end_time": 41161,
+        "text": "And while much of this heat escapes\nthrough the tail pipe,"
+    },
+    {
+        "index": 13,
+        "start_time": 41161,
+        "end_time": 46324,
+        "text": "the heat that remains in the engine block\nneeds to be absorbed, transported, and dissipated"
+    },
+    {
+        "index": 14,
+        "start_time": 46324,
+        "end_time": 49745,
+        "text": "to protect the metal components\nfrom deforming or even melting."
+    },
+    {
+        "index": 15,
+        "start_time": 49745,
+        "end_time": 51633,
+        "text": "This is where the cooling system comes in."
+    },
+    {
+        "index": 16,
+        "start_time": 51633,
+        "end_time": 54451,
+        "text": "A liquid gets circulated\nthroughout the engine,"
+    },
+    {
+        "index": 17,
+        "start_time": 54451,
+        "end_time": 56833,
+        "text": "but what kind of liquid\ncan absorb all that heat?"
+    },
+    {
+        "index": 18,
+        "start_time": 56833,
+        "end_time": 59210,
+        "text": "Water may seem like an obvious first choice."
+    },
+    {
+        "index": 19,
+        "start_time": 59210,
+        "end_time": 60836,
+        "text": "After all, its specific heat,"
+    },
+    {
+        "index": 20,
+        "start_time": 60836,
+        "end_time": 63517,
+        "text": "the amount of energy required\nto raise the temperature"
+    },
+    {
+        "index": 21,
+        "start_time": 63517,
+        "end_time": 65959,
+        "text": "of a given amount\nby one degree Celsius,"
+    },
+    {
+        "index": 22,
+        "start_time": 65959,
+        "end_time": 68393,
+        "text": "is higher than that of\nany other common substance."
+    },
+    {
+        "index": 23,
+        "start_time": 68393,
+        "end_time": 70893,
+        "text": "And we have a lot of heat energy to absorb."
+    },
+    {
+        "index": 24,
+        "start_time": 70893,
+        "end_time": 73134,
+        "text": "But using water can get us\ninto deep trouble."
+    },
+    {
+        "index": 25,
+        "start_time": 73134,
+        "end_time": 76760,
+        "text": "For one thing, its freezing point\nis zero degrees Celsius."
+    },
+    {
+        "index": 26,
+        "start_time": 76760,
+        "end_time": 79016,
+        "text": "Since water expands\nas it freezes,"
+    },
+    {
+        "index": 27,
+        "start_time": 79016,
+        "end_time": 83102,
+        "text": "a cold winter night could mean\na cracked radiator and a damaged engine block,"
+    },
+    {
+        "index": 28,
+        "start_time": 83102,
+        "end_time": 84531,
+        "text": "a chilling prospect."
+    },
+    {
+        "index": 29,
+        "start_time": 84531,
+        "end_time": 86757,
+        "text": "And considering how hot\ncar engines can get,"
+    },
+    {
+        "index": 30,
+        "start_time": 86757,
+        "end_time": 90143,
+        "text": "the relatively low boiling point\nof 100 degrees Celsius"
+    },
+    {
+        "index": 31,
+        "start_time": 90143,
+        "end_time": 92970,
+        "text": "can lead to a situation\nthat would get anyone steamed."
+    },
+    {
+        "index": 32,
+        "start_time": 92970,
+        "end_time": 95511,
+        "text": "So, instead of water,\nwe use a solution,"
+    },
+    {
+        "index": 33,
+        "start_time": 95511,
+        "end_time": 99511,
+        "text": "a homogeneous mixture consisting\nof a solute and a solvent."
+    },
+    {
+        "index": 34,
+        "start_time": 99511,
+        "end_time": 104261,
+        "text": "Some of the solution&#39;s properties will differ\ndepending on the proportion of solute present."
+    },
+    {
+        "index": 35,
+        "start_time": 104261,
+        "end_time": 108075,
+        "text": "These are called colligative properties,\nand as luck would have it,"
+    },
+    {
+        "index": 36,
+        "start_time": 108075,
+        "end_time": 111399,
+        "text": "they include freezing point depression\nand boiling point elevation."
+    },
+    {
+        "index": 37,
+        "start_time": 111399,
+        "end_time": 116985,
+        "text": "So, solutions have both a lower freezing point\nand a higher boiling point than pure solvent,"
+    },
+    {
+        "index": 38,
+        "start_time": 116985,
+        "end_time": 120003,
+        "text": "and the more solute is present,\nthe bigger the difference."
+    },
+    {
+        "index": 39,
+        "start_time": 120003,
+        "end_time": 122369,
+        "text": "So, why do these properties change?"
+    },
+    {
+        "index": 40,
+        "start_time": 122369,
+        "end_time": 125348,
+        "text": "First of all, we need to understand that\ntemperature is a measure"
+    },
+    {
+        "index": 41,
+        "start_time": 125348,
+        "end_time": 127727,
+        "text": "of the particle&#39;s average kinetic energy."
+    },
+    {
+        "index": 42,
+        "start_time": 127727,
+        "end_time": 130305,
+        "text": "The colder the liquid,\nthe less of this energy there is,"
+    },
+    {
+        "index": 43,
+        "start_time": 130305,
+        "end_time": 132310,
+        "text": "and the slower the molecules move."
+    },
+    {
+        "index": 44,
+        "start_time": 132310,
+        "end_time": 134839,
+        "text": "When a liquid freezes,\nthe molecules slow down,"
+    },
+    {
+        "index": 45,
+        "start_time": 134839,
+        "end_time": 137222,
+        "text": "enough for their attractive forces\nto act on each other,"
+    },
+    {
+        "index": 46,
+        "start_time": 137222,
+        "end_time": 140280,
+        "text": "arranging themselves into a crystal structure."
+    },
+    {
+        "index": 47,
+        "start_time": 140280,
+        "end_time": 143543,
+        "text": "But the presence of solute particles\ngets in the way of these attractions,"
+    },
+    {
+        "index": 48,
+        "start_time": 143543,
+        "end_time": 147949,
+        "text": "requiring a solution to be cooled down further\nbefore the arrangement can occur."
+    },
+    {
+        "index": 49,
+        "start_time": 147949,
+        "end_time": 150769,
+        "text": "As for the boiling point,\nwhen a liquid boils,"
+    },
+    {
+        "index": 50,
+        "start_time": 150769,
+        "end_time": 152900,
+        "text": "it produces bubbles filled with its vapor,"
+    },
+    {
+        "index": 51,
+        "start_time": 152900,
+        "end_time": 156928,
+        "text": "but for a bubble to form,\nthe vapor pressure must become as strong"
+    },
+    {
+        "index": 52,
+        "start_time": 156928,
+        "end_time": 160312,
+        "text": "as the atmosphere constantly pushing down\non the surface of the liquid."
+    },
+    {
+        "index": 53,
+        "start_time": 160312,
+        "end_time": 163073,
+        "text": "As the liquid is heated, \nthe vapor pressure increases,"
+    },
+    {
+        "index": 54,
+        "start_time": 163073,
+        "end_time": 165688,
+        "text": "and when it becomes equal\nto the atmospheric pressure,"
+    },
+    {
+        "index": 55,
+        "start_time": 165688,
+        "end_time": 168281,
+        "text": "the bubbles form and boiling occurs."
+    },
+    {
+        "index": 56,
+        "start_time": 168281,
+        "end_time": 171400,
+        "text": "A solution&#39;s vapor pressure is lower\nthan that of pure solvent,"
+    },
+    {
+        "index": 57,
+        "start_time": 171400,
+        "end_time": 174333,
+        "text": "so it must be heated\nto an even higher temperature"
+    },
+    {
+        "index": 58,
+        "start_time": 174333,
+        "end_time": 176792,
+        "text": "before it can match \nthe strength of the atmosphere."
+    },
+    {
+        "index": 59,
+        "start_time": 176792,
+        "end_time": 179361,
+        "text": "As an added bonus,\nthe pressure in the radiator"
+    },
+    {
+        "index": 60,
+        "start_time": 179361,
+        "end_time": 181208,
+        "text": "is kept above atmospheric pressure,"
+    },
+    {
+        "index": 61,
+        "start_time": 181208,
+        "end_time": 184903,
+        "text": "raising the boiling point\nby another 25 degrees Celsius."
+    },
+    {
+        "index": 62,
+        "start_time": 184903,
+        "end_time": 187914,
+        "text": "The solution commonly used \nfor a car&#39;s cooling system"
+    },
+    {
+        "index": 63,
+        "start_time": 187914,
+        "end_time": 191389,
+        "text": "is a 50\/50 mixture of \nethylene glycol and water,"
+    },
+    {
+        "index": 64,
+        "start_time": 191389,
+        "end_time": 197532,
+        "text": "which freezes at -37 degrees Celsius\nand boils at 106 degrees Celsius."
+    },
+    {
+        "index": 65,
+        "start_time": 197532,
+        "end_time": 201225,
+        "text": "At the highest recommended proportion\nof 70 to 30,"
+    },
+    {
+        "index": 66,
+        "start_time": 201225,
+        "end_time": 205156,
+        "text": "the freezing point is even lower\nat -55 degrees Celsius,"
+    },
+    {
+        "index": 67,
+        "start_time": 205156,
+        "end_time": 209026,
+        "text": "and the boiling point rises\nto 113 degrees Celsius."
+    },
+    {
+        "index": 68,
+        "start_time": 209026,
+        "end_time": 211616,
+        "text": "As you can see,\nthe more ethylene glycol you add,"
+    },
+    {
+        "index": 69,
+        "start_time": 211616,
+        "end_time": 214705,
+        "text": "the more protection you get,\nso why not go even higher?"
+    },
+    {
+        "index": 70,
+        "start_time": 214705,
+        "end_time": 217483,
+        "text": "Well, it turns out you can have\ntoo much of a good thing"
+    },
+    {
+        "index": 71,
+        "start_time": 217483,
+        "end_time": 218754,
+        "text": "because at higher proportions,"
+    },
+    {
+        "index": 72,
+        "start_time": 218754,
+        "end_time": 221834,
+        "text": "the freezing point actually\nstarts to go back up."
+    },
+    {
+        "index": 73,
+        "start_time": 221834,
+        "end_time": 225269,
+        "text": "The properties of the solution head towards\nthe properties of ethylene glycol,"
+    },
+    {
+        "index": 74,
+        "start_time": 225269,
+        "end_time": 228264,
+        "text": "which freezes at -12.9 degrees Celsius,"
+    },
+    {
+        "index": 75,
+        "start_time": 228264,
+        "end_time": 231288,
+        "text": "a higher temperature than we \nattained with the solution."
+    },
+    {
+        "index": 76,
+        "start_time": 231288,
+        "end_time": 234978,
+        "text": "The solution flows through the engine,\nabsorbing heat along the way."
+    },
+    {
+        "index": 77,
+        "start_time": 234978,
+        "end_time": 237734,
+        "text": "When it reaches the radiator,\nit&#39;s cooled by a fan,"
+    },
+    {
+        "index": 78,
+        "start_time": 237734,
+        "end_time": 240280,
+        "text": "as well as air rushing through\nthe front of the car"
+    },
+    {
+        "index": 79,
+        "start_time": 240280,
+        "end_time": 242872,
+        "text": "before returning to the hot engine compartment."
+    },
+    {
+        "index": 80,
+        "start_time": 242872,
+        "end_time": 244840,
+        "text": "So, an effective and safe engine coolant"
+    },
+    {
+        "index": 81,
+        "start_time": 244840,
+        "end_time": 249418,
+        "text": "must have a high specific heat, \na low freezing point, and a high boiling point."
+    },
+    {
+        "index": 82,
+        "start_time": 249418,
+        "end_time": 253407,
+        "text": "But instead of searching all over the world\nfor the perfect liquid to solve our problem,"
+    },
+    {
+        "index": 83,
+        "start_time": 253407,
+        "end_time": 255844,
+        "text": "we can create our own solution."
+    }
+]

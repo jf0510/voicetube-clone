@@ -1,0 +1,488 @@
+[
+    {
+        "index": 1,
+        "start_time": 7183,
+        "end_time": 12326,
+        "text": "Let&#39;s say there&#39;s a disaster that sends\nhumanity back to the Stone Age."
+    },
+    {
+        "index": 2,
+        "start_time": 12326,
+        "end_time": 15404,
+        "text": "Can our knowledge and history survive?"
+    },
+    {
+        "index": 3,
+        "start_time": 15404,
+        "end_time": 17413,
+        "text": "The printed page will decompose."
+    },
+    {
+        "index": 4,
+        "start_time": 17413,
+        "end_time": 19754,
+        "text": "Hard drive storage will deteriorate."
+    },
+    {
+        "index": 5,
+        "start_time": 19754,
+        "end_time": 22894,
+        "text": "Even stones will eventually crumble."
+    },
+    {
+        "index": 6,
+        "start_time": 22894,
+        "end_time": 28254,
+        "text": "But we might have something inside us that\ncan outlast these physical limitations:"
+    },
+    {
+        "index": 7,
+        "start_time": 28254,
+        "end_time": 30884,
+        "text": "deoxyribonucleic acid."
+    },
+    {
+        "index": 8,
+        "start_time": 30884,
+        "end_time": 34734,
+        "text": "DNA already stores \nour biological information."
+    },
+    {
+        "index": 9,
+        "start_time": 34734,
+        "end_time": 39854,
+        "text": "From eye color to skin tone,\nit programs our entire bodies."
+    },
+    {
+        "index": 10,
+        "start_time": 39854,
+        "end_time": 42754,
+        "text": "DNA is made of four organic bases:"
+    },
+    {
+        "index": 11,
+        "start_time": 42754,
+        "end_time": 43665,
+        "text": "adenine,"
+    },
+    {
+        "index": 12,
+        "start_time": 43665,
+        "end_time": 44389,
+        "text": "guanine,"
+    },
+    {
+        "index": 13,
+        "start_time": 44389,
+        "end_time": 45195,
+        "text": "cytosine,"
+    },
+    {
+        "index": 14,
+        "start_time": 45195,
+        "end_time": 46566,
+        "text": "and thymine,"
+    },
+    {
+        "index": 15,
+        "start_time": 46566,
+        "end_time": 49366,
+        "text": "or A, G, C, and T."
+    },
+    {
+        "index": 16,
+        "start_time": 49366,
+        "end_time": 54085,
+        "text": "The specific sequence of these bases\ninto groups of three, known as codons,"
+    },
+    {
+        "index": 17,
+        "start_time": 54085,
+        "end_time": 59545,
+        "text": "gives our cells instructions to make\neach of the proteins in our bodies."
+    },
+    {
+        "index": 18,
+        "start_time": 59545,
+        "end_time": 62485,
+        "text": "But this code can \nbe used for other things, too,"
+    },
+    {
+        "index": 19,
+        "start_time": 62485,
+        "end_time": 64736,
+        "text": "like secret messages."
+    },
+    {
+        "index": 20,
+        "start_time": 64736,
+        "end_time": 68696,
+        "text": "In 1999, scientists in New York\ncreated an alphabet"
+    },
+    {
+        "index": 21,
+        "start_time": 68696,
+        "end_time": 72636,
+        "text": "in which each of the 64 \npossible DNA codons"
+    },
+    {
+        "index": 22,
+        "start_time": 72636,
+        "end_time": 78147,
+        "text": "substituted for a specific letter,\nnumber, or grammar symbol."
+    },
+    {
+        "index": 23,
+        "start_time": 78147,
+        "end_time": 83286,
+        "text": "They spliced a 22-character message\ninto a long strand of DNA"
+    },
+    {
+        "index": 24,
+        "start_time": 83286,
+        "end_time": 87006,
+        "text": "and surrounded it with specific\ngenetic markers."
+    },
+    {
+        "index": 25,
+        "start_time": 87006,
+        "end_time": 91627,
+        "text": "They then hid the DNA over a period\nin a type-written letter"
+    },
+    {
+        "index": 26,
+        "start_time": 91627,
+        "end_time": 95747,
+        "text": "with only a small smudge\nto give the location away."
+    },
+    {
+        "index": 27,
+        "start_time": 95747,
+        "end_time": 98077,
+        "text": "They mailed the letter back to themselves."
+    },
+    {
+        "index": 28,
+        "start_time": 98077,
+        "end_time": 101678,
+        "text": "Then they examined the letter\nlooking for the DNA strand."
+    },
+    {
+        "index": 29,
+        "start_time": 101678,
+        "end_time": 105557,
+        "text": "Once the DNA strand was located,\nthey found the genetic markers."
+    },
+    {
+        "index": 30,
+        "start_time": 105557,
+        "end_time": 110399,
+        "text": "Then, they sequenced the DNA\nand successfully decoded the message."
+    },
+    {
+        "index": 31,
+        "start_time": 110399,
+        "end_time": 113087,
+        "text": "It soon became obvious \nthat DNA cryptography"
+    },
+    {
+        "index": 32,
+        "start_time": 113087,
+        "end_time": 116878,
+        "text": "could code for much more\nthan simple text."
+    },
+    {
+        "index": 33,
+        "start_time": 116878,
+        "end_time": 121619,
+        "text": "By translating the 1&#39;s and 0&#39;s\nof binary code into DNA codons,"
+    },
+    {
+        "index": 34,
+        "start_time": 121619,
+        "end_time": 125618,
+        "text": "digital data could be programmed\ninto synthetic DNA,"
+    },
+    {
+        "index": 35,
+        "start_time": 125618,
+        "end_time": 129461,
+        "text": "then decoded back into its original form."
+    },
+    {
+        "index": 36,
+        "start_time": 129461,
+        "end_time": 135158,
+        "text": "In 2012, UK scientists encoded\n739 kilobytes of computer files"
+    },
+    {
+        "index": 37,
+        "start_time": 135158,
+        "end_time": 137376,
+        "text": "into DNA strands,"
+    },
+    {
+        "index": 38,
+        "start_time": 137376,
+        "end_time": 141007,
+        "text": "including all 154 Shakespeare sonnets"
+    },
+    {
+        "index": 39,
+        "start_time": 141007,
+        "end_time": 145019,
+        "text": "and an excerpt from Martin \nLuther King&#39;s &quot;I Have a Dream&quot; speech."
+    },
+    {
+        "index": 40,
+        "start_time": 145019,
+        "end_time": 149679,
+        "text": "And four years later, researchers at\nMicrosoft and the University of Washington"
+    },
+    {
+        "index": 41,
+        "start_time": 149679,
+        "end_time": 152080,
+        "text": "broke that record."
+    },
+    {
+        "index": 42,
+        "start_time": 152080,
+        "end_time": 157590,
+        "text": "They used binary coding to capture\na whopping 200 megabytes of data,"
+    },
+    {
+        "index": 43,
+        "start_time": 157590,
+        "end_time": 160501,
+        "text": "including the Universal Declaration \nof Human Rights"
+    },
+    {
+        "index": 44,
+        "start_time": 160501,
+        "end_time": 163670,
+        "text": "and a high-def OK Go music video,"
+    },
+    {
+        "index": 45,
+        "start_time": 163670,
+        "end_time": 166370,
+        "text": "all in strings of DNA."
+    },
+    {
+        "index": 46,
+        "start_time": 166370,
+        "end_time": 168951,
+        "text": "As far as storage capacity goes,"
+    },
+    {
+        "index": 47,
+        "start_time": 168951,
+        "end_time": 173360,
+        "text": "DNA stands out because of the surprising\namount of information it can hold"
+    },
+    {
+        "index": 48,
+        "start_time": 173360,
+        "end_time": 175641,
+        "text": "in so little space."
+    },
+    {
+        "index": 49,
+        "start_time": 175641,
+        "end_time": 179791,
+        "text": "The current theoretical limit \nof DNA&#39;S storage capacity is so high"
+    },
+    {
+        "index": 50,
+        "start_time": 179791,
+        "end_time": 185241,
+        "text": "that you could fit 100 million HD movies\non a pencil eraser."
+    },
+    {
+        "index": 51,
+        "start_time": 185241,
+        "end_time": 189322,
+        "text": "It&#39;s even conceivable that one day\nwe could fit all of the information"
+    },
+    {
+        "index": 52,
+        "start_time": 189322,
+        "end_time": 190801,
+        "text": "currently on the Internet"
+    },
+    {
+        "index": 53,
+        "start_time": 190801,
+        "end_time": 193722,
+        "text": "into the space of a shoe box."
+    },
+    {
+        "index": 54,
+        "start_time": 193722,
+        "end_time": 198891,
+        "text": "Also, computers and the magnetic tape and\ndiscs that their information is stored on"
+    },
+    {
+        "index": 55,
+        "start_time": 198891,
+        "end_time": 206020,
+        "text": "only last for a few decades, at most,\nbefore degrading and becoming unreliable."
+    },
+    {
+        "index": 56,
+        "start_time": 206020,
+        "end_time": 210453,
+        "text": "Meanwhile, DNA \nhas a half-life of 500 years,"
+    },
+    {
+        "index": 57,
+        "start_time": 210453,
+        "end_time": 214673,
+        "text": "meaning that&#39;s how long it takes\nfor half of its bonds to break."
+    },
+    {
+        "index": 58,
+        "start_time": 214673,
+        "end_time": 217893,
+        "text": "And if left in a cold \nand dark environment,"
+    },
+    {
+        "index": 59,
+        "start_time": 217893,
+        "end_time": 223321,
+        "text": "DNA could potentially last\nfor hundreds of thousands of years."
+    },
+    {
+        "index": 60,
+        "start_time": 223321,
+        "end_time": 224924,
+        "text": "And if that isn&#39;t long enough,"
+    },
+    {
+        "index": 61,
+        "start_time": 224924,
+        "end_time": 230753,
+        "text": "scientists experimented with having\nsynthetic DNA auto-reproduce."
+    },
+    {
+        "index": 62,
+        "start_time": 230753,
+        "end_time": 233113,
+        "text": "After creating their own strands of DNA"
+    },
+    {
+        "index": 63,
+        "start_time": 233113,
+        "end_time": 236854,
+        "text": "that spelled out the lyrics to\nthe children&#39;s song &quot;It&#39;s a Small World,&quot;"
+    },
+    {
+        "index": 64,
+        "start_time": 236854,
+        "end_time": 242690,
+        "text": "they placed them into the genome of\na microbe nicknamed Conan the Bacterium."
+    },
+    {
+        "index": 65,
+        "start_time": 242690,
+        "end_time": 246794,
+        "text": "Conan belongs to a species \nwhich can survive in a vacuum,"
+    },
+    {
+        "index": 66,
+        "start_time": 246794,
+        "end_time": 249394,
+        "text": "or without water, for six years,"
+    },
+    {
+        "index": 67,
+        "start_time": 249394,
+        "end_time": 254174,
+        "text": "or come out unscathed after being\nexposed to a dose of radiation"
+    },
+    {
+        "index": 68,
+        "start_time": 254174,
+        "end_time": 258863,
+        "text": "1,000 times that which would kill a human."
+    },
+    {
+        "index": 69,
+        "start_time": 258863,
+        "end_time": 260114,
+        "text": "According to the experiment,"
+    },
+    {
+        "index": 70,
+        "start_time": 260114,
+        "end_time": 267014,
+        "text": "the bacterium was able to reproduce at\nleast 100 generations without data loss."
+    },
+    {
+        "index": 71,
+        "start_time": 267014,
+        "end_time": 271314,
+        "text": "Theoretically, if the organism\nhad redundant copies of the information"
+    },
+    {
+        "index": 72,
+        "start_time": 271314,
+        "end_time": 274325,
+        "text": "that could be used to automatically\ncorrect mistakes,"
+    },
+    {
+        "index": 73,
+        "start_time": 274325,
+        "end_time": 278886,
+        "text": "the information could stay\npreserved even longer."
+    },
+    {
+        "index": 74,
+        "start_time": 278886,
+        "end_time": 283955,
+        "text": "So one day, you might be able to create\na living, growing, knowledge archive"
+    },
+    {
+        "index": 75,
+        "start_time": 283955,
+        "end_time": 286305,
+        "text": "in your own backyard,"
+    },
+    {
+        "index": 76,
+        "start_time": 286305,
+        "end_time": 289006,
+        "text": "and its seeds might carry\nyour family&#39;s history,"
+    },
+    {
+        "index": 77,
+        "start_time": 289006,
+        "end_time": 292475,
+        "text": "a detailed breakdown \nof the world&#39;s political upheavals,"
+    },
+    {
+        "index": 78,
+        "start_time": 292475,
+        "end_time": 298647,
+        "text": "or the sum of humanity&#39;s knowledge\ninto forests and across continents."
+    },
+    {
+        "index": 79,
+        "start_time": 298647,
+        "end_time": 302347,
+        "text": "Perhaps even into the \nfar reaches of space."
+    },
+    {
+        "index": 80,
+        "start_time": 302347,
+        "end_time": 306768,
+        "text": "Though we might one day disappear,\nperhaps our legacy can still live on,"
+    },
+    {
+        "index": 81,
+        "start_time": 306768,
+        "end_time": 309427,
+        "text": "if anyone would think to find it."
+    }
+]

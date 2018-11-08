@@ -1,0 +1,338 @@
+[
+  {
+    "end_time": 8300,
+    "index": 1,
+    "start_time": 3740,
+    "text": "The increase in solar and wind power may also make it more attractive"
+  },
+  {
+    "end_time": 12080,
+    "index": 2,
+    "start_time": 8300,
+    "text": "to continue burning fossil fuel for electricity production."
+  },
+  {
+    "end_time": 15860,
+    "index": 3,
+    "start_time": 12400,
+    "text": "That is the surprising outcome of a study by energy researchers"
+  },
+  {
+    "end_time": 19320,
+    "index": 4,
+    "start_time": 15860,
+    "text": "at Rotterdam School of Management, Erasmus University."
+  },
+  {
+    "end_time": 22020,
+    "index": 5,
+    "start_time": 19740,
+    "text": "On the way to a sustainable energy future"
+  },
+  {
+    "end_time": 24100,
+    "index": 6,
+    "start_time": 22020,
+    "text": "we need renewable energy sources."
+  },
+  {
+    "end_time": 26100,
+    "index": 7,
+    "start_time": 24100,
+    "text": "But a challenge with these sources is"
+  },
+  {
+    "end_time": 28860,
+    "index": 8,
+    "start_time": 26100,
+    "text": "that the sun is not always shining and the wind is not always blowing."
+  },
+  {
+    "end_time": 32259,
+    "index": 9,
+    "start_time": 29340,
+    "text": "In the energy world, this called &#39;the intermittency problem&#39;."
+  },
+  {
+    "end_time": 37099,
+    "index": 10,
+    "start_time": 32439,
+    "text": "We all want to increase sustainable energy, but we have to be careful."
+  },
+  {
+    "end_time": 41879,
+    "index": 11,
+    "start_time": 37260,
+    "text": "Our research has shown that if you don&#39;t add them in a careful manner."
+  },
+  {
+    "end_time": 45980,
+    "index": 12,
+    "start_time": 41880,
+    "text": "this can actually advocate the use of fossil fuel energy resources,"
+  },
+  {
+    "end_time": 47720,
+    "index": 13,
+    "start_time": 45980,
+    "text": "which we actually do not want."
+  },
+  {
+    "end_time": 55140,
+    "index": 14,
+    "start_time": 52400,
+    "text": "To understand why this happens and to understand the business motivation,"
+  },
+  {
+    "end_time": 57060,
+    "index": 15,
+    "start_time": 55140,
+    "text": "you need to understand how energy markets work,"
+  },
+  {
+    "end_time": 59580,
+    "index": 16,
+    "start_time": 57060,
+    "text": "and how producers act strategically on these markets."
+  },
+  {
+    "end_time": 62260,
+    "index": 17,
+    "start_time": 59580,
+    "text": "On energy markets, power producers need to make predictions"
+  },
+  {
+    "end_time": 64179,
+    "index": 18,
+    "start_time": 62260,
+    "text": "about their power production up to a month ahead."
+  },
+  {
+    "end_time": 66940,
+    "index": 19,
+    "start_time": 64180,
+    "text": "This allows them to make commitments on so-called forward markets."
+  },
+  {
+    "end_time": 68960,
+    "index": 20,
+    "start_time": 66940,
+    "text": "Actually, most energy is sold here."
+  },
+  {
+    "end_time": 71679,
+    "index": 21,
+    "start_time": 68960,
+    "text": "As these contracts allow both producers and retailers"
+  },
+  {
+    "end_time": 73320,
+    "index": 22,
+    "start_time": 71680,
+    "text": "to avoid uncertainties."
+  },
+  {
+    "end_time": 77039,
+    "index": 23,
+    "start_time": 73320,
+    "text": "This means that renewable energy sources, for example wind power producers,"
+  },
+  {
+    "end_time": 79620,
+    "index": 24,
+    "start_time": 77040,
+    "text": "need to make predictions about how much the wind is blowing"
+  },
+  {
+    "end_time": 82280,
+    "index": 25,
+    "start_time": 79620,
+    "text": "and solar power producers need to make predictions about how much  the sun is shining."
+  },
+  {
+    "end_time": 85360,
+    "index": 26,
+    "start_time": 82280,
+    "text": "But as the wind is not always blowing and the sun is not always shining,"
+  },
+  {
+    "end_time": 87320,
+    "index": 27,
+    "start_time": 85360,
+    "text": "sometimes these renewable power plants"
+  },
+  {
+    "end_time": 89360,
+    "index": 28,
+    "start_time": 87320,
+    "text": "fail to keep up with their prediction on the short term."
+  },
+  {
+    "end_time": 92720,
+    "index": 29,
+    "start_time": 89360,
+    "text": "Producers and retailers deal with these shortages and surpluses on the short term"
+  },
+  {
+    "end_time": 94020,
+    "index": 30,
+    "start_time": 92720,
+    "text": "on so-called spot  markets."
+  },
+  {
+    "end_time": 96700,
+    "index": 31,
+    "start_time": 94020,
+    "text": "Buying and selling electricity on the day itself"
+  },
+  {
+    "end_time": 99680,
+    "index": 32,
+    "start_time": 96700,
+    "text": "allows to balance supply and demand almost in real-time."
+  },
+  {
+    "end_time": 101460,
+    "index": 33,
+    "start_time": 99680,
+    "text": "and therefore ensure grid stability."
+  },
+  {
+    "end_time": 105899,
+    "index": 34,
+    "start_time": 101460,
+    "text": "So when intermittent renewable energy sources cannot fulfill their predictions in real-time,"
+  },
+  {
+    "end_time": 108800,
+    "index": 35,
+    "start_time": 105900,
+    "text": "conventional power plants need to compensate for this."
+  },
+  {
+    "end_time": 111140,
+    "index": 36,
+    "start_time": 108800,
+    "text": "And of course, they want the market to reward them for that."
+  },
+  {
+    "end_time": 113140,
+    "index": 37,
+    "start_time": 111140,
+    "text": "With the increase of renewable energy,"
+  },
+  {
+    "end_time": 114780,
+    "index": 38,
+    "start_time": 113140,
+    "text": "our model shows two effects."
+  },
+  {
+    "end_time": 116720,
+    "index": 39,
+    "start_time": 114780,
+    "text": "First we find the desirable effect."
+  },
+  {
+    "end_time": 119260,
+    "index": 40,
+    "start_time": 116720,
+    "text": "Increasing the share ow low-cost renewable energy sources"
+  },
+  {
+    "end_time": 121300,
+    "index": 41,
+    "start_time": 119260,
+    "text": "also drops the forward market price."
+  },
+  {
+    "end_time": 123100,
+    "index": 42,
+    "start_time": 121300,
+    "text": "However, from a certain point onwards"
+  },
+  {
+    "end_time": 125520,
+    "index": 43,
+    "start_time": 123100,
+    "text": "increasing the share of renewable energy even further,"
+  },
+  {
+    "end_time": 127800,
+    "index": 44,
+    "start_time": 125520,
+    "text": "also makes that there is more uncertainty on the short term."
+  },
+  {
+    "end_time": 131420,
+    "index": 45,
+    "start_time": 127800,
+    "text": "This makes that conventional energy sources, which are flexible,"
+  },
+  {
+    "end_time": 134579,
+    "index": 46,
+    "start_time": 131420,
+    "text": "move to the spot market and have higher expected profits there."
+  },
+  {
+    "end_time": 137140,
+    "index": 47,
+    "start_time": 134580,
+    "text": "In practice this means that building more windmills"
+  },
+  {
+    "end_time": 138500,
+    "index": 48,
+    "start_time": 137140,
+    "text": "and integrating more solar panels"
+  },
+  {
+    "end_time": 142060,
+    "index": 49,
+    "start_time": 138500,
+    "text": "actually also means more incentives for dirty energy sources."
+  },
+  {
+    "end_time": 145920,
+    "index": 50,
+    "start_time": 142420,
+    "text": "This research shows that the key to integration"
+  },
+  {
+    "end_time": 149420,
+    "index": 51,
+    "start_time": 145920,
+    "text": "of a rising shire of renewables is flexibility."
+  },
+  {
+    "end_time": 152280,
+    "index": 52,
+    "start_time": 149420,
+    "text": "Flexibility can be achieved in several different ways."
+  },
+  {
+    "end_time": 153800,
+    "index": 53,
+    "start_time": 152520,
+    "text": "One way is storage."
+  },
+  {
+    "end_time": 156140,
+    "index": 54,
+    "start_time": 153800,
+    "text": "But another way, which is very important,"
+  },
+  {
+    "end_time": 157739,
+    "index": 55,
+    "start_time": 156140,
+    "text": "is very good market design."
+  },
+  {
+    "end_time": 160300,
+    "index": 56,
+    "start_time": 157740,
+    "text": "And this is what we are working on in this center."
+  }
+]

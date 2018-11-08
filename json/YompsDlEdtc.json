@@ -1,0 +1,488 @@
+[
+    {
+        "index": 1,
+        "start_time": 9476,
+        "end_time": 11146,
+        "text": "What do Euclid,"
+    },
+    {
+        "index": 2,
+        "start_time": 11146,
+        "end_time": 12746,
+        "text": "twelve-year-old Einstein,"
+    },
+    {
+        "index": 3,
+        "start_time": 12746,
+        "end_time": 16397,
+        "text": "and American President James Garfield\nhave in common?"
+    },
+    {
+        "index": 4,
+        "start_time": 16397,
+        "end_time": 20956,
+        "text": "They all came up with elegant\nproofs for the famous Pythagorean theorem,"
+    },
+    {
+        "index": 5,
+        "start_time": 20956,
+        "end_time": 23206,
+        "text": "the rule that says for a right triangle,"
+    },
+    {
+        "index": 6,
+        "start_time": 23206,
+        "end_time": 27086,
+        "text": "the square of one side plus\nthe square of the other side"
+    },
+    {
+        "index": 7,
+        "start_time": 27086,
+        "end_time": 30086,
+        "text": "is equal to the square of the hypotenuse."
+    },
+    {
+        "index": 8,
+        "start_time": 30086,
+        "end_time": 34717,
+        "text": "In other words, a\u00b2+b\u00b2=c\u00b2."
+    },
+    {
+        "index": 9,
+        "start_time": 34717,
+        "end_time": 38297,
+        "text": "This statement is one of the most\nfundamental rules of geometry,"
+    },
+    {
+        "index": 10,
+        "start_time": 38297,
+        "end_time": 40536,
+        "text": "and the basis for practical applications,"
+    },
+    {
+        "index": 11,
+        "start_time": 40536,
+        "end_time": 45697,
+        "text": "like constructing stable buildings\nand triangulating GPS coordinates."
+    },
+    {
+        "index": 12,
+        "start_time": 45697,
+        "end_time": 48683,
+        "text": "The theorem is named for Pythagoras,"
+    },
+    {
+        "index": 13,
+        "start_time": 48683,
+        "end_time": 52758,
+        "text": "a Greek philosopher and mathematician\nin the 6th century B.C.,"
+    },
+    {
+        "index": 14,
+        "start_time": 52758,
+        "end_time": 56157,
+        "text": "but it was known more than a\nthousand years earlier."
+    },
+    {
+        "index": 15,
+        "start_time": 56157,
+        "end_time": 62186,
+        "text": "A Babylonian tablet from around 1800 B.C.\nlists 15 sets of numbers"
+    },
+    {
+        "index": 16,
+        "start_time": 62186,
+        "end_time": 64037,
+        "text": "that satisfy the theorem."
+    },
+    {
+        "index": 17,
+        "start_time": 64037,
+        "end_time": 67558,
+        "text": "Some historians speculate \nthat Ancient Egyptian surveyors"
+    },
+    {
+        "index": 18,
+        "start_time": 67558,
+        "end_time": 73698,
+        "text": "used one such set of numbers, 3, 4, 5,\nto make square corners."
+    },
+    {
+        "index": 19,
+        "start_time": 73698,
+        "end_time": 78180,
+        "text": "The theory is that surveyors could stretch\na knotted rope with twelve equal segments"
+    },
+    {
+        "index": 20,
+        "start_time": 78180,
+        "end_time": 83229,
+        "text": "to form a triangle with sides of length\n3, 4 and 5."
+    },
+    {
+        "index": 21,
+        "start_time": 83229,
+        "end_time": 85939,
+        "text": "According to the converse\nof the Pythagorean theorem,"
+    },
+    {
+        "index": 22,
+        "start_time": 85939,
+        "end_time": 88480,
+        "text": "that has to make a right triangle,"
+    },
+    {
+        "index": 23,
+        "start_time": 88480,
+        "end_time": 90639,
+        "text": "and, therefore, a square corner."
+    },
+    {
+        "index": 24,
+        "start_time": 90639,
+        "end_time": 93420,
+        "text": "And the earliest known \nIndian mathematical texts"
+    },
+    {
+        "index": 25,
+        "start_time": 93420,
+        "end_time": 96770,
+        "text": "written between 800 and 600 B.C."
+    },
+    {
+        "index": 26,
+        "start_time": 96770,
+        "end_time": 100847,
+        "text": "state that a rope stretched across\nthe diagonal of a square"
+    },
+    {
+        "index": 27,
+        "start_time": 100847,
+        "end_time": 104728,
+        "text": "produces a square twice as large\nas the original one."
+    },
+    {
+        "index": 28,
+        "start_time": 104728,
+        "end_time": 109350,
+        "text": "That relationship can be derived\nfrom the Pythagorean theorem."
+    },
+    {
+        "index": 29,
+        "start_time": 109350,
+        "end_time": 112241,
+        "text": "But how do we know \nthat the theorem is true"
+    },
+    {
+        "index": 30,
+        "start_time": 112241,
+        "end_time": 114851,
+        "text": "for every right triangle \non a flat surface,"
+    },
+    {
+        "index": 31,
+        "start_time": 114851,
+        "end_time": 118611,
+        "text": "not just the ones these mathematicians\nand surveyors knew about?"
+    },
+    {
+        "index": 32,
+        "start_time": 118611,
+        "end_time": 119951,
+        "text": "Because we can prove it."
+    },
+    {
+        "index": 33,
+        "start_time": 119951,
+        "end_time": 122896,
+        "text": "Proofs use existing mathematical rules\nand logic"
+    },
+    {
+        "index": 34,
+        "start_time": 122896,
+        "end_time": 127419,
+        "text": "to demonstrate that a theorem\nmust hold true all the time."
+    },
+    {
+        "index": 35,
+        "start_time": 127419,
+        "end_time": 131137,
+        "text": "One classic proof often attributed\nto Pythagoras himself"
+    },
+    {
+        "index": 36,
+        "start_time": 131137,
+        "end_time": 134011,
+        "text": "uses a strategy called \nproof by rearrangement."
+    },
+    {
+        "index": 37,
+        "start_time": 134011,
+        "end_time": 139650,
+        "text": "Take four identical right triangles\nwith side lengths a and b"
+    },
+    {
+        "index": 38,
+        "start_time": 139650,
+        "end_time": 142132,
+        "text": "and hypotenuse length c."
+    },
+    {
+        "index": 39,
+        "start_time": 142132,
+        "end_time": 146174,
+        "text": "Arrange them so that their hypotenuses\nform a tilted square."
+    },
+    {
+        "index": 40,
+        "start_time": 146174,
+        "end_time": 149769,
+        "text": "The area of that square is c\u00b2."
+    },
+    {
+        "index": 41,
+        "start_time": 149769,
+        "end_time": 153192,
+        "text": "Now rearrange the triangles\ninto two rectangles,"
+    },
+    {
+        "index": 42,
+        "start_time": 153192,
+        "end_time": 155992,
+        "text": "leaving smaller squares on either side."
+    },
+    {
+        "index": 43,
+        "start_time": 155992,
+        "end_time": 160512,
+        "text": "The areas of those squares\nare a\u00b2 and b\u00b2."
+    },
+    {
+        "index": 44,
+        "start_time": 160512,
+        "end_time": 161681,
+        "text": "Here&#39;s the key."
+    },
+    {
+        "index": 45,
+        "start_time": 161681,
+        "end_time": 164893,
+        "text": "The total area of \nthe figure didn&#39;t change,"
+    },
+    {
+        "index": 46,
+        "start_time": 164893,
+        "end_time": 168261,
+        "text": "and the areas of the triangles\ndidn&#39;t change."
+    },
+    {
+        "index": 47,
+        "start_time": 168261,
+        "end_time": 171379,
+        "text": "So the empty space in one, c\u00b2"
+    },
+    {
+        "index": 48,
+        "start_time": 171379,
+        "end_time": 174437,
+        "text": "must be equal to \nthe empty space in the other,"
+    },
+    {
+        "index": 49,
+        "start_time": 174437,
+        "end_time": 178329,
+        "text": "a\u00b2 + b\u00b2."
+    },
+    {
+        "index": 50,
+        "start_time": 178329,
+        "end_time": 181923,
+        "text": "Another proof comes from a fellow Greek\nmathematician Euclid"
+    },
+    {
+        "index": 51,
+        "start_time": 181923,
+        "end_time": 185153,
+        "text": "and was also stumbled upon\nalmost 2,000 years later"
+    },
+    {
+        "index": 52,
+        "start_time": 185153,
+        "end_time": 187344,
+        "text": "by twelve-year-old Einstein."
+    },
+    {
+        "index": 53,
+        "start_time": 187344,
+        "end_time": 190838,
+        "text": "This proof divides one right triangle\ninto two others"
+    },
+    {
+        "index": 54,
+        "start_time": 190838,
+        "end_time": 195153,
+        "text": "and uses the principle that if the\ncorresponding angles of two triangles"
+    },
+    {
+        "index": 55,
+        "start_time": 195153,
+        "end_time": 196334,
+        "text": "are the same,"
+    },
+    {
+        "index": 56,
+        "start_time": 196334,
+        "end_time": 199063,
+        "text": "the ratio of their sides\nis the same, too."
+    },
+    {
+        "index": 57,
+        "start_time": 199063,
+        "end_time": 201157,
+        "text": "So for these three similar triangles,"
+    },
+    {
+        "index": 58,
+        "start_time": 201157,
+        "end_time": 205074,
+        "text": "you can write these expressions\nfor their sides."
+    },
+    {
+        "index": 59,
+        "start_time": 213474,
+        "end_time": 215633,
+        "text": "Next, rearrange the terms."
+    },
+    {
+        "index": 60,
+        "start_time": 219333,
+        "end_time": 223814,
+        "text": "And finally, add the two equations\ntogether and simplify to get"
+    },
+    {
+        "index": 61,
+        "start_time": 223814,
+        "end_time": 231644,
+        "text": "ab\u00b2+ac\u00b2=bc\u00b2,"
+    },
+    {
+        "index": 62,
+        "start_time": 231644,
+        "end_time": 237744,
+        "text": "or a\u00b2+b\u00b2=c\u00b2."
+    },
+    {
+        "index": 63,
+        "start_time": 237744,
+        "end_time": 240005,
+        "text": "Here&#39;s one that uses tessellation,"
+    },
+    {
+        "index": 64,
+        "start_time": 240005,
+        "end_time": 243856,
+        "text": "a repeating geometric pattern\nfor a more visual proof."
+    },
+    {
+        "index": 65,
+        "start_time": 243856,
+        "end_time": 245605,
+        "text": "Can you see how it works?"
+    },
+    {
+        "index": 66,
+        "start_time": 245605,
+        "end_time": 248218,
+        "text": "Pause the video if you&#39;d like some time\nto think about it."
+    },
+    {
+        "index": 67,
+        "start_time": 250158,
+        "end_time": 251505,
+        "text": "Here&#39;s the answer."
+    },
+    {
+        "index": 68,
+        "start_time": 251505,
+        "end_time": 253975,
+        "text": "The dark gray square is a\u00b2"
+    },
+    {
+        "index": 69,
+        "start_time": 253975,
+        "end_time": 256576,
+        "text": "and the light gray one is b\u00b2."
+    },
+    {
+        "index": 70,
+        "start_time": 256576,
+        "end_time": 259495,
+        "text": "The one outlined in blue is c\u00b2."
+    },
+    {
+        "index": 71,
+        "start_time": 259495,
+        "end_time": 263756,
+        "text": "Each blue outlined square\ncontains the pieces of exactly one dark"
+    },
+    {
+        "index": 72,
+        "start_time": 263756,
+        "end_time": 265896,
+        "text": "and one light gray square,"
+    },
+    {
+        "index": 73,
+        "start_time": 265896,
+        "end_time": 268548,
+        "text": "proving the Pythagorean theorem again."
+    },
+    {
+        "index": 74,
+        "start_time": 268548,
+        "end_time": 270877,
+        "text": "And if you&#39;d really like \nto convince yourself,"
+    },
+    {
+        "index": 75,
+        "start_time": 270877,
+        "end_time": 274542,
+        "text": "you could build a turntable\nwith three square boxes of equal depth"
+    },
+    {
+        "index": 76,
+        "start_time": 274542,
+        "end_time": 277217,
+        "text": "connected to each other \naround a right triangle."
+    },
+    {
+        "index": 77,
+        "start_time": 277217,
+        "end_time": 280837,
+        "text": "If you fill the largest square with water\nand spin the turntable,"
+    },
+    {
+        "index": 78,
+        "start_time": 280837,
+        "end_time": 285536,
+        "text": "the water from the large square\nwill perfectly fill the two smaller ones."
+    },
+    {
+        "index": 79,
+        "start_time": 285536,
+        "end_time": 290984,
+        "text": "The Pythagorean theorem has more\nthan 350 proofs, and counting,"
+    },
+    {
+        "index": 80,
+        "start_time": 290984,
+        "end_time": 293265,
+        "text": "ranging from brilliant to obscure."
+    },
+    {
+        "index": 81,
+        "start_time": 293265,
+        "end_time": 295229,
+        "text": "Can you add your own to the mix?"
+    }
+]

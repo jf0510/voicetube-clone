@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>VoiceTube</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--debug -->
+    <meta http-equiv="refres" content="3" />
+    <!--debug -->
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/home.css">
+    <link rel="stylesheet" href="./css/responsive.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="./js/bootstrap.min.js"></script>
+    <script src="./js/moreVideo.js"></script>
+</head>
+
+<body>
+    <!--
+            <div style="text-align: left; margin-bottom: auto; background-color: #ff7849; text-shadow: none; font-size: 16px; padding: 15px">
+                orange!
+            </div>
+-->
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-inner">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                    <a class="navbar-brand" href="#"><img src="https://cdn.voicetube.com/assets/img/vt_logo-with_icon-170111-white.png"></a>
+                </div>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Channels <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="https://www.voicetube.com/channel/speech">Speeches and Presentations</a></li>
+                                <li><a href="https://www.voicetube.com/channel/educational_videos">Educational Videos</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="#">BBC Learning English</a></li>
+                                <li><a href="#">CNN Learning English</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="#">TOEIC</a></li>
+                                <li><a href="#">TOEFL</a></li>
+                                <li><a href="#">IELTS <span class="label label-danger">New</span></a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="#">Business <span class="label label-danger">New</span></a></li>
+                                <li><a href="#">Editor's Choice <span class="label label-danger">New</span></a></li>
+                                <li><a href="#">English Learning Tips</a></li>
+                                <li><a href="#">Movie &amp; TV Series</a></li>
+                                <li><a href="#">Music</a></li>
+                                <li><a href="#">Cartoon &amp; Animation</a></li>
+                                <li><a href="#">Kids</a></li>
+                                <li><a href="#">Entertainment</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Levals <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">Basic: TOEIC 250-545</a></li>
+                                <li><a href="#">Intermediate: TOEIC 550-780</a></li>
+                                <li><a href="#">Advanced: TOEIC 785-990</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Listening &amp; Speaking <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">Today's Pronunciation Challenge</a></li>
+                                <li><a href="#">Listening Quiz</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <!--
+                    <form class="navbar-form navbar-left">
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Search"> </div>
+                        <button type="submit" class="btn btn-default">Submit</button>
+                    </form>
+-->
+                    <ul class="nav navbar-nav navbar-right">
+                        <!-- trigger new video modal -->
+                        <li>
+                            <a>
+                                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#add-new-video-modal">Add New Video</button>
+                            </a>
+                        </li>
+                        <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-globe" aria-hidden="true"></span> English <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">English</a></li>
+                                <li><a href="#">日本語</a></li>
+                                <li><a href="#">中文(繁體)</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#"><img src='https://cdn.voicetube.com/assets/img/login.png' /> Sing in</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+    <!-- Intro Header -->
+    <div class="container">
+        <!-- Modal -->
+        <div class="modal fade" id="add-new-video-modal" role="dialog">
+            <div class="modal-dialog">
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title">Add a new video</h4> </div>
+                    <div class="modal-body">
+                        <div id="custom-search-input">
+                            <div class="input-group ">
+                                <input id="new-video-href" name="new-video-href" input type="text" class="  search-query form-control" placeholder="Search" /> <span class="input-group-btn">
+                                            <button id="add-new-video" class="btn btn-danger" type="button">
+                                            <span class=" glyphicon glyphicon-search"></span> </button>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- modal-body -->
+                    <div class="modal-footer">
+                        <div class="center">
+                            <p> </p>
+                        </div>
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                    <!-- modal-footer -->
+                </div>
+            </div>
+        </div>
+        <!--Modal-->
+    </div>
+    <header class="hidden-xs masthead">
+        <div class="intro-body">
+            <div class="container">
+                <div class="row">
+                    <div class="search-section col-md-offset-1 col-md-6">
+                        <h1 class="title">Learn English by watching subtitled videos, movies trailers, and music videos!</h1>
+                        <div class="col-md-10 input-group search-bar-decoration">
+                            <input type="text" class="form-control" placeholder="Search for…sports, movie, TED"> <span class="input-group-btn">
+        <button class="btn btn-default" type="button">
+            <span class="glyphicon glyphicon-search" aria-hidden="true"></span> </button>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="col-md-offset-1 col-md-3 visible-lg">
+                        <div class="demo-block">
+                            <a href="/hero?mth=hero_web_home_banner_middleright_toeictest&utm_source=web&utm_medium=banner" target="_blank"><img src="https://cdn.voicetube.com/assets/img/campaigns/engoo/201703/hero_web_home_banner_middleright_toeictest_newlogo.png" class="img-polaroid img-rounded"> </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- top ad -->
+    <section class="hidden-xs" id="top-ad">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-9">
+                    <div class="panel panel-default">
+                        <div class="panel-body">
+                            <a href="http://www.coke.com.tw/zh/home/" target="_blank"> <img class="img-responsive center-block" src="http://www.bookmice.net/darkchilde/coke/horizontal/2.jpg" alt="Pronunciation Challenge On Feeling Depressed" class="img-thumbnail"> </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">Pronunciation Challenge</h3> </div>
+                        <div class="panel-body">
+                            <p>Simon's Cat Logic</p>
+                            <a href="https://www.voicetube.com/everyday/20180414" target="_blank"> <img class="img-responsive center-block" src="http://img.youtube.com/vi/KDDM_XGNj2c/maxresdefault.jpg" alt="Pronunciation Challenge On Feeling Depressed" class="img-thumbnail"> </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    
+    
+    <!--  playlist  -->
+    <section id="playlist">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h2>Playlist</h2>
+                    <div class="panel panel-default">
+                        <div class="panel-body">
+                            <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                                <!-- Wrapper for slides -->
+                                <div class="carousel-add" role="listbox">
+                                    <div class="item active carousel-box">
+                                    </div>
+                                </div>
+                                <!-- Controls -->
+                                <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a>
+                                <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next"> <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> <span class="sr-only">Next</span> </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+<!--  new video  -->
+    <section id="new_video">
+        <div class="container">
+            <div class="row">
+                <div id="video-content" class="col-md-12">
+                    <h2>New Videos</h2>
+                    <div class="minw">
+                        <div class="carousel slide" id="myCarousel">
+                            <div class="carousel-add">
+                                <div id="thumbnail-container" class="item active"> </div>
+                            </div>
+                        </div>
+                        <button id="more-video" type="button" class="btn btn-primary btn-block">more videos</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="bottom-ad" class="visible-xs">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-9">
+                    <div class="panel panel-default">
+                        <div class="panel-body">
+                            <a href="https://www.voicetube.com/everyday/20180414"> <img class="img-responsive center-block" src="http://www.bookmice.net/darkchilde/coke/horizontal/2.jpg" alt="Pronunciation Challenge On Feeling Depressed" class="img-thumbnail"> </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">Pronunciation Challenge</h3> </div>
+                        <div class="panel-body">
+                            <p>Simon's Cat Logic</p>
+                            <a href="https://www.voicetube.com/everyday/20180414"> <img class="img-responsive center-block" src="http://img.youtube.com/vi/KDDM_XGNj2c/maxresdefault.jpg" alt="Pronunciation Challenge On Feeling Depressed" class="img-thumbnail"> </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+<script src="./js/home.js"></script>
+
+</html>

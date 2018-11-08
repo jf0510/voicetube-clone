@@ -1,0 +1,476 @@
+[
+    {
+        "index": 1,
+        "start_time": 6938,
+        "end_time": 9008,
+        "text": "Despite advances in medicine,"
+    },
+    {
+        "index": 2,
+        "start_time": 9008,
+        "end_time": 14018,
+        "text": "cancer remains one of the most frightening\ndiagnoses patients can receive."
+    },
+    {
+        "index": 3,
+        "start_time": 14018,
+        "end_time": 18188,
+        "text": "What makes it so difficult to cure\nis that it&#39;s not one illness,"
+    },
+    {
+        "index": 4,
+        "start_time": 18188,
+        "end_time": 23559,
+        "text": "but a family of over 100 diseases\noccurring in different types of cells."
+    },
+    {
+        "index": 5,
+        "start_time": 23559,
+        "end_time": 26452,
+        "text": "And one type of cancer \nhas the unfortunate distinction"
+    },
+    {
+        "index": 6,
+        "start_time": 26452,
+        "end_time": 29810,
+        "text": "of afflicting children \nmore than any other type."
+    },
+    {
+        "index": 7,
+        "start_time": 29810,
+        "end_time": 31730,
+        "text": "This is leukemia,"
+    },
+    {
+        "index": 8,
+        "start_time": 31730,
+        "end_time": 35705,
+        "text": "a cancer that begins in stem cells\nfound in the bone marrow."
+    },
+    {
+        "index": 9,
+        "start_time": 35705,
+        "end_time": 38342,
+        "text": "A stem cell is a bit like an infant,"
+    },
+    {
+        "index": 10,
+        "start_time": 38342,
+        "end_time": 41651,
+        "text": "undeveloped but possessing \ngreat potential."
+    },
+    {
+        "index": 11,
+        "start_time": 41651,
+        "end_time": 44830,
+        "text": "Many stem cells specialize\nand become cells of organs,"
+    },
+    {
+        "index": 12,
+        "start_time": 44830,
+        "end_time": 47719,
+        "text": "like the liver, brain and heart."
+    },
+    {
+        "index": 13,
+        "start_time": 47719,
+        "end_time": 49033,
+        "text": "But in some tissues,"
+    },
+    {
+        "index": 14,
+        "start_time": 49033,
+        "end_time": 52993,
+        "text": "they can continue to divide into new \nstem cells throughout development,"
+    },
+    {
+        "index": 15,
+        "start_time": 52993,
+        "end_time": 57189,
+        "text": "and into adulthood in order to frequently\ngenerate new cells"
+    },
+    {
+        "index": 16,
+        "start_time": 57189,
+        "end_time": 59342,
+        "text": "and keep up with the body&#39;s needs."
+    },
+    {
+        "index": 17,
+        "start_time": 59342,
+        "end_time": 61694,
+        "text": "One example is the bone marrow,"
+    },
+    {
+        "index": 18,
+        "start_time": 61694,
+        "end_time": 65576,
+        "text": "where stem cells differentiate\ninto many types of blood cells."
+    },
+    {
+        "index": 19,
+        "start_time": 65576,
+        "end_time": 67698,
+        "text": "That includes red blood cells,"
+    },
+    {
+        "index": 20,
+        "start_time": 67698,
+        "end_time": 70491,
+        "text": "which carry oxygen \nfrom the lungs to all tissues,"
+    },
+    {
+        "index": 21,
+        "start_time": 70491,
+        "end_time": 74532,
+        "text": "platelets, which help stop bleeding\nby sticking to damaged blood vessels,"
+    },
+    {
+        "index": 22,
+        "start_time": 74532,
+        "end_time": 76139,
+        "text": "and white blood cells,"
+    },
+    {
+        "index": 23,
+        "start_time": 76139,
+        "end_time": 80250,
+        "text": "which patrol the body,\ndestroying potentially harmful invaders."
+    },
+    {
+        "index": 24,
+        "start_time": 80250,
+        "end_time": 81636,
+        "text": "Every once in a while,"
+    },
+    {
+        "index": 25,
+        "start_time": 81636,
+        "end_time": 85196,
+        "text": "something goes wrong during \na stem cell&#39;s specialization process"
+    },
+    {
+        "index": 26,
+        "start_time": 85196,
+        "end_time": 88528,
+        "text": "and harmful mutations \noccur in the cell&#39;s DNA."
+    },
+    {
+        "index": 27,
+        "start_time": 88528,
+        "end_time": 92421,
+        "text": "Cells with compromised DNA\nare supposed to self-destruct,"
+    },
+    {
+        "index": 28,
+        "start_time": 92421,
+        "end_time": 94962,
+        "text": "but some damaged cells ignore this order,"
+    },
+    {
+        "index": 29,
+        "start_time": 94962,
+        "end_time": 99778,
+        "text": "replicating uncontrollably,\neven as they lose their original function."
+    },
+    {
+        "index": 30,
+        "start_time": 99778,
+        "end_time": 102344,
+        "text": "These are what we know as cancer cells."
+    },
+    {
+        "index": 31,
+        "start_time": 102344,
+        "end_time": 106847,
+        "text": "It is not yet clear why leukemia\nis the most common childhood cancer,"
+    },
+    {
+        "index": 32,
+        "start_time": 106847,
+        "end_time": 108668,
+        "text": "but one contributing factor may be"
+    },
+    {
+        "index": 33,
+        "start_time": 108668,
+        "end_time": 113486,
+        "text": "that leukemias are often caused\nby just one or two DNA modifications,"
+    },
+    {
+        "index": 34,
+        "start_time": 113486,
+        "end_time": 116377,
+        "text": "while most cancers require many of them,"
+    },
+    {
+        "index": 35,
+        "start_time": 116377,
+        "end_time": 120611,
+        "text": "allowing leukemias to arise faster\nthan other types of cancer."
+    },
+    {
+        "index": 36,
+        "start_time": 120611,
+        "end_time": 124815,
+        "text": "Moreover, some DNA alterations\ncan occur in white blood cells"
+    },
+    {
+        "index": 37,
+        "start_time": 124815,
+        "end_time": 126625,
+        "text": "during fetal development,"
+    },
+    {
+        "index": 38,
+        "start_time": 126625,
+        "end_time": 129331,
+        "text": "further increasing the risk \nof early leukemia."
+    },
+    {
+        "index": 39,
+        "start_time": 129331,
+        "end_time": 132110,
+        "text": "But though it affects more children\nthan any other cancer,"
+    },
+    {
+        "index": 40,
+        "start_time": 132110,
+        "end_time": 136037,
+        "text": "adults constitute the majority\nof leukemia patients overall."
+    },
+    {
+        "index": 41,
+        "start_time": 136037,
+        "end_time": 141001,
+        "text": "Once leukemia strikes, the damaged cells\nreproduce in the blood and the bone marrow"
+    },
+    {
+        "index": 42,
+        "start_time": 141001,
+        "end_time": 144531,
+        "text": "until they take up \nall available space and resources."
+    },
+    {
+        "index": 43,
+        "start_time": 144531,
+        "end_time": 146622,
+        "text": "When the bone marrow \ncan no longer produce"
+    },
+    {
+        "index": 44,
+        "start_time": 146622,
+        "end_time": 148898,
+        "text": "the required amount of functional cells,"
+    },
+    {
+        "index": 45,
+        "start_time": 148898,
+        "end_time": 150671,
+        "text": "the blood becomes depleted."
+    },
+    {
+        "index": 46,
+        "start_time": 150671,
+        "end_time": 152112,
+        "text": "The lack of red blood cells"
+    },
+    {
+        "index": 47,
+        "start_time": 152112,
+        "end_time": 154841,
+        "text": "means that muscles \ndon&#39;t get enough oxygen,"
+    },
+    {
+        "index": 48,
+        "start_time": 154841,
+        "end_time": 158661,
+        "text": "the reduced number of platelets\nis not sufficient to repair wounds,"
+    },
+    {
+        "index": 49,
+        "start_time": 158661,
+        "end_time": 162930,
+        "text": "and the dearth of functional white\nblood cells impairs the immune system,"
+    },
+    {
+        "index": 50,
+        "start_time": 162930,
+        "end_time": 165332,
+        "text": "increasing the risk of infections."
+    },
+    {
+        "index": 51,
+        "start_time": 165332,
+        "end_time": 167484,
+        "text": "To restore the normal \nfunction of the blood,"
+    },
+    {
+        "index": 52,
+        "start_time": 167484,
+        "end_time": 169739,
+        "text": "leukemic cells have to be eliminated."
+    },
+    {
+        "index": 53,
+        "start_time": 169739,
+        "end_time": 172111,
+        "text": "But because leukemias \nare not solid tumors,"
+    },
+    {
+        "index": 54,
+        "start_time": 172111,
+        "end_time": 174458,
+        "text": "they can&#39;t be removed surgically."
+    },
+    {
+        "index": 55,
+        "start_time": 174458,
+        "end_time": 178506,
+        "text": "Instead, the cells are killed\ninside the body using various treatments"
+    },
+    {
+        "index": 56,
+        "start_time": 178506,
+        "end_time": 180490,
+        "text": "that include chemotherapy,"
+    },
+    {
+        "index": 57,
+        "start_time": 180490,
+        "end_time": 184666,
+        "text": "a combination of drugs that destroys\nquickly multiplying cells."
+    },
+    {
+        "index": 58,
+        "start_time": 184666,
+        "end_time": 187972,
+        "text": "Unfortunately, this has the side effect\nof killing healthy cells,"
+    },
+    {
+        "index": 59,
+        "start_time": 187972,
+        "end_time": 191412,
+        "text": "such as those found in hair follicles\nor intestines."
+    },
+    {
+        "index": 60,
+        "start_time": 191412,
+        "end_time": 194463,
+        "text": "And in some cases, the dosage \nrequired is so high"
+    },
+    {
+        "index": 61,
+        "start_time": 194463,
+        "end_time": 196683,
+        "text": "that it kills all cells \nin the bone marrow,"
+    },
+    {
+        "index": 62,
+        "start_time": 196683,
+        "end_time": 199047,
+        "text": "including stem cells."
+    },
+    {
+        "index": 63,
+        "start_time": 199047,
+        "end_time": 204285,
+        "text": "When this happens, the body is no longer\nable to create new blood cells on its own."
+    },
+    {
+        "index": 64,
+        "start_time": 204285,
+        "end_time": 208269,
+        "text": "Fortunately, outside help can come\nin the form of stem cells"
+    },
+    {
+        "index": 65,
+        "start_time": 208269,
+        "end_time": 210354,
+        "text": "from the bone marrow of a donor."
+    },
+    {
+        "index": 66,
+        "start_time": 210354,
+        "end_time": 212993,
+        "text": "Once transplanted into the patient,"
+    },
+    {
+        "index": 67,
+        "start_time": 212993,
+        "end_time": 215915,
+        "text": "they rapidly repopulate \nthe bone marrow and the blood."
+    },
+    {
+        "index": 68,
+        "start_time": 215915,
+        "end_time": 218997,
+        "text": "However, bone marrow transplants\nare a complicated process"
+    },
+    {
+        "index": 69,
+        "start_time": 218997,
+        "end_time": 223041,
+        "text": "requiring antigen compatibility\nbetween the donor and recipient"
+    },
+    {
+        "index": 70,
+        "start_time": 223041,
+        "end_time": 226512,
+        "text": "to keep the transplanted cells from\nfrom attacking the patient&#39;s own cells"
+    },
+    {
+        "index": 71,
+        "start_time": 226512,
+        "end_time": 228352,
+        "text": "as foreign bodies."
+    },
+    {
+        "index": 72,
+        "start_time": 228352,
+        "end_time": 229836,
+        "text": "Unlike with blood transplants,"
+    },
+    {
+        "index": 73,
+        "start_time": 229836,
+        "end_time": 231964,
+        "text": "there are thousands of HLA types,"
+    },
+    {
+        "index": 74,
+        "start_time": 231964,
+        "end_time": 236529,
+        "text": "and even siblings and close relatives\nmay not have compatible bone marrow."
+    },
+    {
+        "index": 75,
+        "start_time": 236529,
+        "end_time": 240245,
+        "text": "If this is the case, the search \nis expanded to a database"
+    },
+    {
+        "index": 76,
+        "start_time": 240245,
+        "end_time": 245057,
+        "text": "containing the genetic makeup of millions\nof voluntary bone marrow donors."
+    },
+    {
+        "index": 77,
+        "start_time": 245057,
+        "end_time": 247153,
+        "text": "The more potential donors there are,"
+    },
+    {
+        "index": 78,
+        "start_time": 247153,
+        "end_time": 251652,
+        "text": "the more patients lives can be saved\nthrough successful transplants."
+    },
+    {
+        "index": 79,
+        "start_time": 251652,
+        "end_time": 256912,
+        "text": "Leukemia may be a frightening disease,\nbut there is strength and hope in numbers."
+    }
+]

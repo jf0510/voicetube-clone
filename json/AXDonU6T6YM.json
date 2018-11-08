@@ -1,0 +1,290 @@
+[
+  {
+    "end_time": 10000,
+    "index": 1,
+    "start_time": 7480,
+    "text": "Logistics free power, what\u2019s that all about?"
+  },
+  {
+    "end_time": 13200,
+    "index": 2,
+    "start_time": 10005,
+    "text": "Well VPE has really bottled that you might say"
+  },
+  {
+    "end_time": 15780,
+    "index": 3,
+    "start_time": 13200,
+    "text": "And made backup power at cell sites"
+  },
+  {
+    "end_time": 18060,
+    "index": 4,
+    "start_time": 15780,
+    "text": "A really extraordinary opportunity here "
+  },
+  {
+    "end_time": 20380,
+    "index": 5,
+    "start_time": 18060,
+    "text": "Let\u2019s talk about that with Dave Dekarske from VPE "
+  },
+  {
+    "end_time": 24979,
+    "index": 6,
+    "start_time": 20380,
+    "text": "Tell me about this, logistics free power, water is the primary fuel source"
+  },
+  {
+    "end_time": 26984,
+    "index": 7,
+    "start_time": 24984,
+    "text": "What\u2019s that all about?"
+  },
+  {
+    "end_time": 31000,
+    "index": 8,
+    "start_time": 26984,
+    "text": "We have our first regenerative fuel cell that is zero carbon footprint"
+  },
+  {
+    "end_time": 35420,
+    "index": 9,
+    "start_time": 31000,
+    "text": "So like any traditional fuel cell, the byproduct is water"
+  },
+  {
+    "end_time": 39400,
+    "index": 10,
+    "start_time": 35420,
+    "text": "So unlike other competitors that we have, we grab that water"
+  },
+  {
+    "end_time": 43234,
+    "index": 11,
+    "start_time": 39400,
+    "text": "We bottle it, and we use that as the fuel source through a secondary process"
+  },
+  {
+    "end_time": 45234,
+    "index": 12,
+    "start_time": 43234,
+    "text": "Ok, Well show me how this works"
+  },
+  {
+    "end_time": 47234,
+    "index": 13,
+    "start_time": 45234,
+    "text": "I\u2019ll explain it very quickly. "
+  },
+  {
+    "end_time": 49873,
+    "index": 14,
+    "start_time": 47240,
+    "text": "This is the main control panel for the unit, on the electro self, which monitors "
+  },
+  {
+    "end_time": 51873,
+    "index": 15,
+    "start_time": 49873,
+    "text": "As well as drives the whole system"
+  },
+  {
+    "end_time": 57120,
+    "index": 16,
+    "start_time": 51880,
+    "text": "This is our DC input, these are oxygen panels for vents"
+  },
+  {
+    "end_time": 59959,
+    "index": 17,
+    "start_time": 57120,
+    "text": "For the ingestion of the atmosphere into the system itself"
+  },
+  {
+    "end_time": 64620,
+    "index": 18,
+    "start_time": 59960,
+    "text": "This is our control panel, for the electrolyses of the water back into hydrogen."
+  },
+  {
+    "end_time": 66880,
+    "index": 19,
+    "start_time": 64620,
+    "text": "We have our rectifiers up top"
+  },
+  {
+    "end_time": 69440,
+    "index": 20,
+    "start_time": 66880,
+    "text": "Which takes the DC and converts it back to AC"
+  },
+  {
+    "end_time": 73740,
+    "index": 21,
+    "start_time": 69440,
+    "text": "We have our electrolizer right here, which actually does the chemical separation"
+  },
+  {
+    "end_time": 77660,
+    "index": 22,
+    "start_time": 73740,
+    "text": "Of the hydrogen to the oxygen, which the hydrogen will be recompressed"
+  },
+  {
+    "end_time": 79880,
+    "index": 23,
+    "start_time": 77660,
+    "text": "Back into the system, and into our storage facility"
+  },
+  {
+    "end_time": 82640,
+    "index": 24,
+    "start_time": 79880,
+    "text": "On the left hand side, we have a 6 kilowatt fuel cell"
+  },
+  {
+    "end_time": 88040,
+    "index": 25,
+    "start_time": 82640,
+    "text": "So 101 of fuel cell is we introduce hydrogen on the anode side of the cell itself"
+  },
+  {
+    "end_time": 91020,
+    "index": 26,
+    "start_time": 88040,
+    "text": "We strip away the protons and the electrons"
+  },
+  {
+    "end_time": 94060,
+    "index": 27,
+    "start_time": 91020,
+    "text": "We introduce oxygen on the cathode side"
+  },
+  {
+    "end_time": 97460,
+    "index": 28,
+    "start_time": 94060,
+    "text": "And then the combination of the oxygen back with the hydrogen"
+  },
+  {
+    "end_time": 100359,
+    "index": 29,
+    "start_time": 97460,
+    "text": "Produces water. Water. Right, H2O"
+  },
+  {
+    "end_time": 102359,
+    "index": 30,
+    "start_time": 100359,
+    "text": "That same product gets recaptured"
+  },
+  {
+    "end_time": 107575,
+    "index": 31,
+    "start_time": 102360,
+    "text": "So after I burn through the hydrogen and my AC grid comes back on again"
+  },
+  {
+    "end_time": 109575,
+    "index": 32,
+    "start_time": 107575,
+    "text": "I take that same water we have captured"
+  },
+  {
+    "end_time": 112073,
+    "index": 33,
+    "start_time": 110073,
+    "text": "I put it through a electrolysis process"
+  },
+  {
+    "end_time": 116179,
+    "index": 34,
+    "start_time": 112080,
+    "text": "To where then, what I\u2019m doing is removing the hydrogen from the oxygen"
+  },
+  {
+    "end_time": 120620,
+    "index": 35,
+    "start_time": 116180,
+    "text": "I take that hydrogen, recompress it back into my storage facility"
+  },
+  {
+    "end_time": 124240,
+    "index": 36,
+    "start_time": 120620,
+    "text": "As fuel for the fuel cell during the next event as it runs up"
+  },
+  {
+    "end_time": 128740,
+    "index": 37,
+    "start_time": 124240,
+    "text": "So what happens, or is there integration with solar here of any type"
+  },
+  {
+    "end_time": 132953,
+    "index": 38,
+    "start_time": 128740,
+    "text": "I assume with this machinery, you\u2019ve got it out in the middle of the heat"
+  },
+  {
+    "end_time": 134953,
+    "index": 39,
+    "start_time": 132953,
+    "text": "You\u2019ve got to keep it cold somehow"
+  },
+  {
+    "end_time": 139973,
+    "index": 40,
+    "start_time": 134960,
+    "text": "Absolutely, the fuel cell is a DC power source. The electrolyzer needs AC"
+  },
+  {
+    "end_time": 141973,
+    "index": 41,
+    "start_time": 139973,
+    "text": "So I need one of three things"
+  },
+  {
+    "end_time": 145799,
+    "index": 42,
+    "start_time": 141980,
+    "text": "I need either grid power, I need solar power, or I need wind power"
+  },
+  {
+    "end_time": 148320,
+    "index": 43,
+    "start_time": 145800,
+    "text": "So if you go off the grid, for some reason, a storm of some type"
+  },
+  {
+    "end_time": 153560,
+    "index": 44,
+    "start_time": 148320,
+    "text": "If you have wind or a solar component that takes care of that kind of power generation"
+  },
+  {
+    "end_time": 155660,
+    "index": 45,
+    "start_time": 153560,
+    "text": "Absolutely, we have married it with all three"
+  },
+  {
+    "end_time": 160020,
+    "index": 46,
+    "start_time": 155660,
+    "text": "I do have actual items out there that are married to solar"
+  },
+  {
+    "end_time": 163460,
+    "index": 47,
+    "start_time": 160020,
+    "text": "Primarily run on grid power and we\u2019re just introducing wind as well"
+  },
+  {
+    "end_time": 168780,
+    "index": 48,
+    "start_time": 163460,
+    "text": "So we can be totally green energy. Green energy, producing green energy."
+  }
+]

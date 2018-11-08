@@ -1,0 +1,566 @@
+[
+    {
+        "index": 1,
+        "start_time": 6791,
+        "end_time": 8525,
+        "text": "Steel and plastic."
+    },
+    {
+        "index": 2,
+        "start_time": 8525,
+        "end_time": 13423,
+        "text": "These two materials are essential to so\nmuch of our infrastructure and technology,"
+    },
+    {
+        "index": 3,
+        "start_time": 13423,
+        "end_time": 17129,
+        "text": "and they have a complementary set\nof strengths and weaknesses."
+    },
+    {
+        "index": 4,
+        "start_time": 17129,
+        "end_time": 18900,
+        "text": "Steel is strong and hard,"
+    },
+    {
+        "index": 5,
+        "start_time": 18900,
+        "end_time": 21249,
+        "text": "but difficult to shape intricately."
+    },
+    {
+        "index": 6,
+        "start_time": 21249,
+        "end_time": 23885,
+        "text": "While plastic can take on \njust about any form,"
+    },
+    {
+        "index": 7,
+        "start_time": 23885,
+        "end_time": 26072,
+        "text": "it&#39;s weak and soft."
+    },
+    {
+        "index": 8,
+        "start_time": 26072,
+        "end_time": 28424,
+        "text": "So wouldn&#39;t it be nice if there\nwere one material"
+    },
+    {
+        "index": 9,
+        "start_time": 28424,
+        "end_time": 30616,
+        "text": "as strong as the strongest steel"
+    },
+    {
+        "index": 10,
+        "start_time": 30616,
+        "end_time": 33507,
+        "text": "and as shapeable as plastic?"
+    },
+    {
+        "index": 11,
+        "start_time": 33507,
+        "end_time": 36092,
+        "text": "Well, a lot of scientists \nand technologists"
+    },
+    {
+        "index": 12,
+        "start_time": 36092,
+        "end_time": 41039,
+        "text": "are getting excited about a relatively\nrecent invention called metallic glass"
+    },
+    {
+        "index": 13,
+        "start_time": 41039,
+        "end_time": 44290,
+        "text": "with both of those properties, and more."
+    },
+    {
+        "index": 14,
+        "start_time": 44290,
+        "end_time": 47509,
+        "text": "Metallic glasses look shiny and opaque,\nlike metals,"
+    },
+    {
+        "index": 15,
+        "start_time": 47509,
+        "end_time": 51120,
+        "text": "and also like metals,\nthey conduct heat and electricity."
+    },
+    {
+        "index": 16,
+        "start_time": 51120,
+        "end_time": 53500,
+        "text": "But they&#39;re way stronger than most metals,"
+    },
+    {
+        "index": 17,
+        "start_time": 53500,
+        "end_time": 56101,
+        "text": "which means they can withstand\na lot of force"
+    },
+    {
+        "index": 18,
+        "start_time": 56101,
+        "end_time": 58449,
+        "text": "without getting bent or dented,"
+    },
+    {
+        "index": 19,
+        "start_time": 58449,
+        "end_time": 60193,
+        "text": "making ultrasharp scalpels,"
+    },
+    {
+        "index": 20,
+        "start_time": 60193,
+        "end_time": 62253,
+        "text": "and ultrastrong electronics cases,"
+    },
+    {
+        "index": 21,
+        "start_time": 62253,
+        "end_time": 63089,
+        "text": "hinges,"
+    },
+    {
+        "index": 22,
+        "start_time": 63089,
+        "end_time": 64132,
+        "text": "screws;"
+    },
+    {
+        "index": 23,
+        "start_time": 64132,
+        "end_time": 65632,
+        "text": "the list goes on."
+    },
+    {
+        "index": 24,
+        "start_time": 65632,
+        "end_time": 68019,
+        "text": "Metallic glasses also \nhave an incredible ability"
+    },
+    {
+        "index": 25,
+        "start_time": 68019,
+        "end_time": 70755,
+        "text": "to store and release elastic energy,"
+    },
+    {
+        "index": 26,
+        "start_time": 70755,
+        "end_time": 73133,
+        "text": "which makes them perfect \nfor sports equipment,"
+    },
+    {
+        "index": 27,
+        "start_time": 73133,
+        "end_time": 74258,
+        "text": "like tennis racquets,"
+    },
+    {
+        "index": 28,
+        "start_time": 74258,
+        "end_time": 75320,
+        "text": "golf clubs,"
+    },
+    {
+        "index": 29,
+        "start_time": 75320,
+        "end_time": 76700,
+        "text": "and skis."
+    },
+    {
+        "index": 30,
+        "start_time": 76700,
+        "end_time": 78219,
+        "text": "They&#39;re resistant to corrosion,"
+    },
+    {
+        "index": 31,
+        "start_time": 78219,
+        "end_time": 82375,
+        "text": "and can be cast into complex shapes\nwith mirror-like surfaces"
+    },
+    {
+        "index": 32,
+        "start_time": 82375,
+        "end_time": 84499,
+        "text": "in a single molding step."
+    },
+    {
+        "index": 33,
+        "start_time": 84499,
+        "end_time": 86812,
+        "text": "Despite their strength \nat room temperature,"
+    },
+    {
+        "index": 34,
+        "start_time": 86812,
+        "end_time": 89202,
+        "text": "if you go up a few hundred \ndegrees Celsius,"
+    },
+    {
+        "index": 35,
+        "start_time": 89202,
+        "end_time": 91062,
+        "text": "they soften significantly,"
+    },
+    {
+        "index": 36,
+        "start_time": 91062,
+        "end_time": 94474,
+        "text": "and can be deformed into\nany shape you like."
+    },
+    {
+        "index": 37,
+        "start_time": 94474,
+        "end_time": 95832,
+        "text": "Cool them back down,"
+    },
+    {
+        "index": 38,
+        "start_time": 95832,
+        "end_time": 98278,
+        "text": "and they regain the strength."
+    },
+    {
+        "index": 39,
+        "start_time": 98278,
+        "end_time": 101206,
+        "text": "So where do all of these wondrous\nattributes come from?"
+    },
+    {
+        "index": 40,
+        "start_time": 101206,
+        "end_time": 105519,
+        "text": "In essence, they have to do with\nmetallic glass&#39; unique atomic structure."
+    },
+    {
+        "index": 41,
+        "start_time": 105519,
+        "end_time": 108154,
+        "text": "Most metals are crystalline as solids."
+    },
+    {
+        "index": 42,
+        "start_time": 108154,
+        "end_time": 112278,
+        "text": "That means that if you zoomed in\nclose enough to see the individual atoms,"
+    },
+    {
+        "index": 43,
+        "start_time": 112278,
+        "end_time": 116304,
+        "text": "they&#39;d be neatly lined up\nin an orderly, repeating pattern"
+    },
+    {
+        "index": 44,
+        "start_time": 116304,
+        "end_time": 118587,
+        "text": "that extends throughout \nthe whole material."
+    },
+    {
+        "index": 45,
+        "start_time": 118587,
+        "end_time": 119871,
+        "text": "Ice is crystalline,"
+    },
+    {
+        "index": 46,
+        "start_time": 119871,
+        "end_time": 121124,
+        "text": "and so are diamonds,"
+    },
+    {
+        "index": 47,
+        "start_time": 121124,
+        "end_time": 122219,
+        "text": "and salt."
+    },
+    {
+        "index": 48,
+        "start_time": 122219,
+        "end_time": 124603,
+        "text": "If you heat these materials up enough\nand melt them,"
+    },
+    {
+        "index": 49,
+        "start_time": 124603,
+        "end_time": 127985,
+        "text": "the atoms can jiggle freely\nand move randomly,"
+    },
+    {
+        "index": 50,
+        "start_time": 127985,
+        "end_time": 129590,
+        "text": "but when you cool them back down,"
+    },
+    {
+        "index": 51,
+        "start_time": 129590,
+        "end_time": 131427,
+        "text": "the atoms reorganize themselves,"
+    },
+    {
+        "index": 52,
+        "start_time": 131427,
+        "end_time": 133841,
+        "text": "reestablishing the crystal."
+    },
+    {
+        "index": 53,
+        "start_time": 133841,
+        "end_time": 137219,
+        "text": "But what if you could cool \na molten metal so fast"
+    },
+    {
+        "index": 54,
+        "start_time": 137219,
+        "end_time": 140055,
+        "text": "that the atoms couldn&#39;t \nfind their places again,"
+    },
+    {
+        "index": 55,
+        "start_time": 140055,
+        "end_time": 141914,
+        "text": "so that the material was solid,"
+    },
+    {
+        "index": 56,
+        "start_time": 141914,
+        "end_time": 146356,
+        "text": "but with the chaotic, amorphous internal\nstructure of a liquid?"
+    },
+    {
+        "index": 57,
+        "start_time": 146356,
+        "end_time": 148096,
+        "text": "That&#39;s metallic glass."
+    },
+    {
+        "index": 58,
+        "start_time": 148096,
+        "end_time": 151579,
+        "text": "This structure has the added benefit\nof lacking the grain boundaries"
+    },
+    {
+        "index": 59,
+        "start_time": 151579,
+        "end_time": 153472,
+        "text": "that most metals have."
+    },
+    {
+        "index": 60,
+        "start_time": 153472,
+        "end_time": 156884,
+        "text": "Those are weak spots where the material\nis more susceptible to scratches"
+    },
+    {
+        "index": 61,
+        "start_time": 156884,
+        "end_time": 158783,
+        "text": "or corrosion."
+    },
+    {
+        "index": 62,
+        "start_time": 158783,
+        "end_time": 163394,
+        "text": "The first metallic glass was made\nin 1960 from gold and silicon."
+    },
+    {
+        "index": 63,
+        "start_time": 163394,
+        "end_time": 164837,
+        "text": "It wasn&#39;t easy to make."
+    },
+    {
+        "index": 64,
+        "start_time": 164837,
+        "end_time": 167505,
+        "text": "Because metal atoms \ncrystallize so rapidly,"
+    },
+    {
+        "index": 65,
+        "start_time": 167505,
+        "end_time": 171405,
+        "text": "scientists had to cool the alloy down\nincredibly fast,"
+    },
+    {
+        "index": 66,
+        "start_time": 171405,
+        "end_time": 174527,
+        "text": "a million degrees Kelvin per second,"
+    },
+    {
+        "index": 67,
+        "start_time": 174527,
+        "end_time": 177456,
+        "text": "by shooting tiny droplets\nat cold copper plates,"
+    },
+    {
+        "index": 68,
+        "start_time": 177456,
+        "end_time": 180317,
+        "text": "or spinning ultrathin ribbons."
+    },
+    {
+        "index": 69,
+        "start_time": 180317,
+        "end_time": 185440,
+        "text": "At that time, metallic glasses could\nonly be tens or hundreds of microns thick,"
+    },
+    {
+        "index": 70,
+        "start_time": 185440,
+        "end_time": 188657,
+        "text": "which was too thin \nfor most practical applications."
+    },
+    {
+        "index": 71,
+        "start_time": 188657,
+        "end_time": 190715,
+        "text": "But since then, \nscientists have figured out"
+    },
+    {
+        "index": 72,
+        "start_time": 190715,
+        "end_time": 194318,
+        "text": "that if you blend several metals\nthat mix with each other freely,"
+    },
+    {
+        "index": 73,
+        "start_time": 194318,
+        "end_time": 196899,
+        "text": "but can&#39;t easily crystallize together,"
+    },
+    {
+        "index": 74,
+        "start_time": 196899,
+        "end_time": 199701,
+        "text": "usually because they have very different\natomic sizes,"
+    },
+    {
+        "index": 75,
+        "start_time": 199701,
+        "end_time": 202945,
+        "text": "the mixture crystallizes much more slowly."
+    },
+    {
+        "index": 76,
+        "start_time": 202945,
+        "end_time": 206034,
+        "text": "That means you don&#39;t have to cool\nit down as fast,"
+    },
+    {
+        "index": 77,
+        "start_time": 206034,
+        "end_time": 207616,
+        "text": "so the material can be thicker,"
+    },
+    {
+        "index": 78,
+        "start_time": 207616,
+        "end_time": 210092,
+        "text": "centimeters instead of micrometers."
+    },
+    {
+        "index": 79,
+        "start_time": 210092,
+        "end_time": 214375,
+        "text": "These materials are called bulk\nmetallic glasses, or BMGs."
+    },
+    {
+        "index": 80,
+        "start_time": 214375,
+        "end_time": 217042,
+        "text": "Now there are hundreds of different BMGs,"
+    },
+    {
+        "index": 81,
+        "start_time": 217042,
+        "end_time": 220109,
+        "text": "so why aren&#39;t all of our bridges\nand cars made out of them?"
+    },
+    {
+        "index": 82,
+        "start_time": 220109,
+        "end_time": 224349,
+        "text": "Many of the BMGs currently available\nare made from expensive metals,"
+    },
+    {
+        "index": 83,
+        "start_time": 224349,
+        "end_time": 226537,
+        "text": "like palladium and zirconium,"
+    },
+    {
+        "index": 84,
+        "start_time": 226537,
+        "end_time": 228022,
+        "text": "and they have to be really pure"
+    },
+    {
+        "index": 85,
+        "start_time": 228022,
+        "end_time": 231374,
+        "text": "because any impurities \ncan cause crystallization."
+    },
+    {
+        "index": 86,
+        "start_time": 231374,
+        "end_time": 236386,
+        "text": "So a BMG skyscraper or space shuttle\nwould be astronomically expensive."
+    },
+    {
+        "index": 87,
+        "start_time": 236386,
+        "end_time": 237776,
+        "text": "And despite their strength,"
+    },
+    {
+        "index": 88,
+        "start_time": 237776,
+        "end_time": 242089,
+        "text": "they&#39;re not yet tough enough\nfor load-bearing applications."
+    },
+    {
+        "index": 89,
+        "start_time": 242089,
+        "end_time": 245082,
+        "text": "When the stresses get high,\nthey can fracture without warning,"
+    },
+    {
+        "index": 90,
+        "start_time": 245082,
+        "end_time": 248206,
+        "text": "which isn&#39;t ideal for, say, a bridge."
+    },
+    {
+        "index": 91,
+        "start_time": 248206,
+        "end_time": 252065,
+        "text": "But when engineers figure out\nhow to make BMGs from cheaper metals,"
+    },
+    {
+        "index": 92,
+        "start_time": 252065,
+        "end_time": 254058,
+        "text": "and how to make them even tougher,"
+    },
+    {
+        "index": 93,
+        "start_time": 254058,
+        "end_time": 255736,
+        "text": "for these super materials,"
+    },
+    {
+        "index": 94,
+        "start_time": 255736,
+        "end_time": 257309,
+        "text": "the sky&#39;s the limit."
+    }
+]

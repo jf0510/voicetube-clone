@@ -1,0 +1,416 @@
+[
+    {
+        "index": 1,
+        "start_time": 6960,
+        "end_time": 8411,
+        "text": "In the 18th century,"
+    },
+    {
+        "index": 2,
+        "start_time": 8411,
+        "end_time": 13208,
+        "text": "Swedish botanist Carolus Linnaeus\ndesigned the flower clock,"
+    },
+    {
+        "index": 3,
+        "start_time": 13208,
+        "end_time": 16466,
+        "text": "a timepiece made of flowering plants"
+    },
+    {
+        "index": 4,
+        "start_time": 16466,
+        "end_time": 20657,
+        "text": "that bloom and close \nat specific times of day."
+    },
+    {
+        "index": 5,
+        "start_time": 20657,
+        "end_time": 25029,
+        "text": "Linnaeus&#39;s plan wasn&#39;t perfect,\nbut the idea behind it was correct."
+    },
+    {
+        "index": 6,
+        "start_time": 25029,
+        "end_time": 29363,
+        "text": "Flowers can indeed sense time,\nafter a fashion."
+    },
+    {
+        "index": 7,
+        "start_time": 29363,
+        "end_time": 33762,
+        "text": "Mornings glories unfurl their petals\nlike clockwork in the early morning."
+    },
+    {
+        "index": 8,
+        "start_time": 33762,
+        "end_time": 38032,
+        "text": "A closing white water lily \nsignals that it&#39;s late afternoon,"
+    },
+    {
+        "index": 9,
+        "start_time": 38032,
+        "end_time": 43339,
+        "text": "and moon flowers, as the name suggests,\nonly bloom under the night sky."
+    },
+    {
+        "index": 10,
+        "start_time": 43339,
+        "end_time": 46776,
+        "text": "But what gives plants \nthis innate sense of time?"
+    },
+    {
+        "index": 11,
+        "start_time": 46776,
+        "end_time": 48673,
+        "text": "It&#39;s not just plants, in fact."
+    },
+    {
+        "index": 12,
+        "start_time": 48673,
+        "end_time": 51889,
+        "text": "Many organisms on Earth\nhave a seemingly inherent awareness"
+    },
+    {
+        "index": 13,
+        "start_time": 51889,
+        "end_time": 54993,
+        "text": "of where they are in the day&#39;s cycle."
+    },
+    {
+        "index": 14,
+        "start_time": 54993,
+        "end_time": 57215,
+        "text": "That&#39;s because of circadian rhythms,"
+    },
+    {
+        "index": 15,
+        "start_time": 57215,
+        "end_time": 62288,
+        "text": "the internal timekeepers\nthat tick away inside many living things."
+    },
+    {
+        "index": 16,
+        "start_time": 62288,
+        "end_time": 66750,
+        "text": "These biological clocks allow organisms\nto keep track of time"
+    },
+    {
+        "index": 17,
+        "start_time": 66750,
+        "end_time": 71024,
+        "text": "and pick up on environmental cues\nthat help them adapt."
+    },
+    {
+        "index": 18,
+        "start_time": 71024,
+        "end_time": 74230,
+        "text": "That&#39;s important, because the planet&#39;s\nrotations and revolutions"
+    },
+    {
+        "index": 19,
+        "start_time": 74230,
+        "end_time": 77257,
+        "text": "put us in a state of constant flux,"
+    },
+    {
+        "index": 20,
+        "start_time": 77257,
+        "end_time": 81011,
+        "text": "although it plays out in a repetitive,\npredictable way."
+    },
+    {
+        "index": 21,
+        "start_time": 81011,
+        "end_time": 83708,
+        "text": "Circadian rhythms incorporate various cues"
+    },
+    {
+        "index": 22,
+        "start_time": 83708,
+        "end_time": 87505,
+        "text": "to regulate when an organism \nshould wake and sleep,"
+    },
+    {
+        "index": 23,
+        "start_time": 87505,
+        "end_time": 90031,
+        "text": "and perform certain activities."
+    },
+    {
+        "index": 24,
+        "start_time": 90031,
+        "end_time": 94561,
+        "text": "For plants, light and temperature\nare the cues which trigger reactions"
+    },
+    {
+        "index": 25,
+        "start_time": 94561,
+        "end_time": 97259,
+        "text": "that play out at a molecular scale."
+    },
+    {
+        "index": 26,
+        "start_time": 97259,
+        "end_time": 102051,
+        "text": "The cells in stems, leaves, and flowers\ncontain phytochromes,"
+    },
+    {
+        "index": 27,
+        "start_time": 102051,
+        "end_time": 105039,
+        "text": "tiny molecules that detect light."
+    },
+    {
+        "index": 28,
+        "start_time": 105039,
+        "end_time": 109853,
+        "text": "When that happens, phytochromes\ninitiate a chain of chemical reactions,"
+    },
+    {
+        "index": 29,
+        "start_time": 109853,
+        "end_time": 113490,
+        "text": "passing the message down \ninto the cellular nuclei."
+    },
+    {
+        "index": 30,
+        "start_time": 113490,
+        "end_time": 117496,
+        "text": "There, transcription factors trigger\nthe manufacture of proteins"
+    },
+    {
+        "index": 31,
+        "start_time": 117496,
+        "end_time": 121256,
+        "text": "required to carry out \nlight-dependent processes,"
+    },
+    {
+        "index": 32,
+        "start_time": 121256,
+        "end_time": 123246,
+        "text": "like photosynthesis."
+    },
+    {
+        "index": 33,
+        "start_time": 123246,
+        "end_time": 127006,
+        "text": "These phytochromes not only sense\nthe amount of light the plant receives,"
+    },
+    {
+        "index": 34,
+        "start_time": 127006,
+        "end_time": 129382,
+        "text": "but can also detect tiny differences"
+    },
+    {
+        "index": 35,
+        "start_time": 129382,
+        "end_time": 133779,
+        "text": "in the distribution of wavelengths \nthe plant takes in."
+    },
+    {
+        "index": 36,
+        "start_time": 133779,
+        "end_time": 135638,
+        "text": "With this fine-tuned sensing,"
+    },
+    {
+        "index": 37,
+        "start_time": 135638,
+        "end_time": 138570,
+        "text": "phytochromes allow the plant\nto discern both time,"
+    },
+    {
+        "index": 38,
+        "start_time": 138570,
+        "end_time": 141813,
+        "text": "the difference between \nthe middle of the day and the evening,"
+    },
+    {
+        "index": 39,
+        "start_time": 141813,
+        "end_time": 146051,
+        "text": "and place, whether \nit is in direct sunlight or shade,"
+    },
+    {
+        "index": 40,
+        "start_time": 146051,
+        "end_time": 150933,
+        "text": "enabling the plant to match\nits chemical reactions to its environment."
+    },
+    {
+        "index": 41,
+        "start_time": 150933,
+        "end_time": 153086,
+        "text": "This makes for early risers."
+    },
+    {
+        "index": 42,
+        "start_time": 153086,
+        "end_time": 157203,
+        "text": "A few hours before sunrise,\na typical plant is already active,"
+    },
+    {
+        "index": 43,
+        "start_time": 157203,
+        "end_time": 162142,
+        "text": "creating mRNA templates \nfor its photosynthesizing machinery."
+    },
+    {
+        "index": 44,
+        "start_time": 162142,
+        "end_time": 164684,
+        "text": "As the phytochromes \ndetect increasing sunlight,"
+    },
+    {
+        "index": 45,
+        "start_time": 164684,
+        "end_time": 167248,
+        "text": "the plant readies \nits light-capturing molecules"
+    },
+    {
+        "index": 46,
+        "start_time": 167248,
+        "end_time": 171708,
+        "text": "so it can photosynthesize\nand grow throughout the morning."
+    },
+    {
+        "index": 47,
+        "start_time": 171708,
+        "end_time": 173579,
+        "text": "After harvesting their morning light,"
+    },
+    {
+        "index": 48,
+        "start_time": 173579,
+        "end_time": 177370,
+        "text": "plants use the rest of the day\nto build long chains of energy"
+    },
+    {
+        "index": 49,
+        "start_time": 177370,
+        "end_time": 181154,
+        "text": "in the form of glucose polymers, \nlike starch."
+    },
+    {
+        "index": 50,
+        "start_time": 181154,
+        "end_time": 184045,
+        "text": "The sun sets, and the day&#39;s work is done,"
+    },
+    {
+        "index": 51,
+        "start_time": 184045,
+        "end_time": 187580,
+        "text": "though a plant is anything \nbut inactive at night."
+    },
+    {
+        "index": 52,
+        "start_time": 187580,
+        "end_time": 189121,
+        "text": "In the absence of sunlight,"
+    },
+    {
+        "index": 53,
+        "start_time": 189121,
+        "end_time": 191176,
+        "text": "they metabolize and grow,"
+    },
+    {
+        "index": 54,
+        "start_time": 191176,
+        "end_time": 195413,
+        "text": "breaking down the starch from \nthe previous day&#39;s energy harvest."
+    },
+    {
+        "index": 55,
+        "start_time": 195413,
+        "end_time": 198240,
+        "text": "Many plants have seasonal rhythms as well."
+    },
+    {
+        "index": 56,
+        "start_time": 198240,
+        "end_time": 200336,
+        "text": "As spring melts the winter frost,"
+    },
+    {
+        "index": 57,
+        "start_time": 200336,
+        "end_time": 204414,
+        "text": "phytochromes sense the longer days\nand increasing light,"
+    },
+    {
+        "index": 58,
+        "start_time": 204414,
+        "end_time": 208684,
+        "text": "and a currently unknown mechanism\ndetects the temperature change."
+    },
+    {
+        "index": 59,
+        "start_time": 208684,
+        "end_time": 211315,
+        "text": "These systems pass the news\nthroughout the plant"
+    },
+    {
+        "index": 60,
+        "start_time": 211315,
+        "end_time": 213668,
+        "text": "and make it produce blooming flowers"
+    },
+    {
+        "index": 61,
+        "start_time": 213668,
+        "end_time": 217576,
+        "text": "in preparation for the pollinators\nbrought out by warmer weather."
+    },
+    {
+        "index": 62,
+        "start_time": 217576,
+        "end_time": 221977,
+        "text": "Circadian rhythms act as a link\nbetween a plant and its environment."
+    },
+    {
+        "index": 63,
+        "start_time": 221977,
+        "end_time": 225088,
+        "text": "These oscillations come \nfrom the plants themselves."
+    },
+    {
+        "index": 64,
+        "start_time": 225088,
+        "end_time": 227564,
+        "text": "Each one has a default rhythm."
+    },
+    {
+        "index": 65,
+        "start_time": 227564,
+        "end_time": 230809,
+        "text": "Even so, these clocks \ncan adapt their oscillations"
+    },
+    {
+        "index": 66,
+        "start_time": 230809,
+        "end_time": 233919,
+        "text": "to environmental changes and cues."
+    },
+    {
+        "index": 67,
+        "start_time": 233919,
+        "end_time": 235853,
+        "text": "On a planet that&#39;s in constant flux,"
+    },
+    {
+        "index": 68,
+        "start_time": 235853,
+        "end_time": 240764,
+        "text": "it&#39;s the circadian rhythms that enable\na plant to stay true to its schedule"
+    },
+    {
+        "index": 69,
+        "start_time": 240764,
+        "end_time": 243144,
+        "text": "and to keep its own time."
+    }
+]

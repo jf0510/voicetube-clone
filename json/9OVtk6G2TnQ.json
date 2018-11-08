@@ -1,0 +1,410 @@
+[
+    {
+        "index": 1,
+        "start_time": 6828,
+        "end_time": 8654,
+        "text": "You probably know the feeling."
+    },
+    {
+        "index": 2,
+        "start_time": 8654,
+        "end_time": 12509,
+        "text": "Your phone utters \nits final plaintive &quot;bleep&quot;"
+    },
+    {
+        "index": 3,
+        "start_time": 12509,
+        "end_time": 14917,
+        "text": "and cuts out in the middle of your call."
+    },
+    {
+        "index": 4,
+        "start_time": 14917,
+        "end_time": 18802,
+        "text": "In that moment, you may feel more\nlike throwing your battery across the room"
+    },
+    {
+        "index": 5,
+        "start_time": 18802,
+        "end_time": 20855,
+        "text": "than singing its praises,"
+    },
+    {
+        "index": 6,
+        "start_time": 20855,
+        "end_time": 24683,
+        "text": "but batteries are a triumph of science."
+    },
+    {
+        "index": 7,
+        "start_time": 24683,
+        "end_time": 28027,
+        "text": "They allow smartphones \nand other technologies to exist"
+    },
+    {
+        "index": 8,
+        "start_time": 28027,
+        "end_time": 32484,
+        "text": "without anchoring us \nto an infernal tangle of power cables."
+    },
+    {
+        "index": 9,
+        "start_time": 32484,
+        "end_time": 35769,
+        "text": "Yet even the best batteries\nwill diminish daily,"
+    },
+    {
+        "index": 10,
+        "start_time": 35769,
+        "end_time": 39717,
+        "text": "slowly losing capacity \nuntil they finally die."
+    },
+    {
+        "index": 11,
+        "start_time": 39717,
+        "end_time": 41101,
+        "text": "So why does this happen,"
+    },
+    {
+        "index": 12,
+        "start_time": 41101,
+        "end_time": 45571,
+        "text": "and how do our batteries even store\nso much charge in the first place?"
+    },
+    {
+        "index": 13,
+        "start_time": 45571,
+        "end_time": 50249,
+        "text": "It all started in the 1780s\nwith two Italian scientists,"
+    },
+    {
+        "index": 14,
+        "start_time": 50249,
+        "end_time": 53655,
+        "text": "Luigi Galvani and Alessandro Volta,"
+    },
+    {
+        "index": 15,
+        "start_time": 53655,
+        "end_time": 55356,
+        "text": "and a frog."
+    },
+    {
+        "index": 16,
+        "start_time": 55356,
+        "end_time": 58596,
+        "text": "Legend has it that as Galvani\nwas studying a frog&#39;s leg,"
+    },
+    {
+        "index": 17,
+        "start_time": 58596,
+        "end_time": 62233,
+        "text": "he brushed a metal instrument \nup against one of its nerves,"
+    },
+    {
+        "index": 18,
+        "start_time": 62233,
+        "end_time": 64674,
+        "text": "making the leg muscles jerk."
+    },
+    {
+        "index": 19,
+        "start_time": 64674,
+        "end_time": 67403,
+        "text": "Galvani called this animal electricity,"
+    },
+    {
+        "index": 20,
+        "start_time": 67403,
+        "end_time": 72225,
+        "text": "believing that a type of electricity\nwas stored in the very stuff of life."
+    },
+    {
+        "index": 21,
+        "start_time": 72225,
+        "end_time": 73854,
+        "text": "But Volta disagreed,"
+    },
+    {
+        "index": 22,
+        "start_time": 73854,
+        "end_time": 77834,
+        "text": "arguing that it was the metal itself\nthat made the leg twitch."
+    },
+    {
+        "index": 23,
+        "start_time": 77834,
+        "end_time": 82463,
+        "text": "The debate was eventually settled\nwith Volta&#39;s groundbreaking experiment."
+    },
+    {
+        "index": 24,
+        "start_time": 82463,
+        "end_time": 87858,
+        "text": "He tested his idea with a stack\nof alternating layers of zinc and copper,"
+    },
+    {
+        "index": 25,
+        "start_time": 87858,
+        "end_time": 92486,
+        "text": "separated by paper or cloth\nsoaked in a salt water solution."
+    },
+    {
+        "index": 26,
+        "start_time": 92486,
+        "end_time": 98947,
+        "text": "What happened in Volta&#39;s cell is something\nchemists now call oxidation and reduction."
+    },
+    {
+        "index": 27,
+        "start_time": 98947,
+        "end_time": 102796,
+        "text": "The zinc oxidizes,\nwhich means it loses electrons,"
+    },
+    {
+        "index": 28,
+        "start_time": 102796,
+        "end_time": 108587,
+        "text": "which are, in turn, gained by the ions in\nthe water in a process called reduction,"
+    },
+    {
+        "index": 29,
+        "start_time": 108587,
+        "end_time": 110966,
+        "text": "producing hydrogen gas."
+    },
+    {
+        "index": 30,
+        "start_time": 110966,
+        "end_time": 113736,
+        "text": "Volta would have been shocked \nto learn that last bit."
+    },
+    {
+        "index": 31,
+        "start_time": 113736,
+        "end_time": 116369,
+        "text": "He thought the reaction \nwas happening in the copper,"
+    },
+    {
+        "index": 32,
+        "start_time": 116369,
+        "end_time": 118359,
+        "text": "rather than the solution."
+    },
+    {
+        "index": 33,
+        "start_time": 118359,
+        "end_time": 121206,
+        "text": "None the less, \nwe honor Volta&#39;s discovery today"
+    },
+    {
+        "index": 34,
+        "start_time": 121206,
+        "end_time": 125967,
+        "text": "by naming our standard unit \nof electric potential &quot;the volt.&quot;"
+    },
+    {
+        "index": 35,
+        "start_time": 125967,
+        "end_time": 131680,
+        "text": "This oxidation-reduction cycle creates\na flow of electrons between two substances"
+    },
+    {
+        "index": 36,
+        "start_time": 131680,
+        "end_time": 135301,
+        "text": "and if you hook a lightbulb \nor vacuum cleaner up between the two,"
+    },
+    {
+        "index": 37,
+        "start_time": 135301,
+        "end_time": 137066,
+        "text": "you&#39;ll give it power."
+    },
+    {
+        "index": 38,
+        "start_time": 137066,
+        "end_time": 141369,
+        "text": "Since the 1700s, scientists have improved\non Volta&#39;s design."
+    },
+    {
+        "index": 39,
+        "start_time": 141369,
+        "end_time": 146621,
+        "text": "They&#39;ve replaced the chemical solution\nwith dry cells filled with chemical paste,"
+    },
+    {
+        "index": 40,
+        "start_time": 146621,
+        "end_time": 148389,
+        "text": "but the principle is the same."
+    },
+    {
+        "index": 41,
+        "start_time": 148389,
+        "end_time": 152006,
+        "text": "A metal oxidizes, \nsending electrons to do some work"
+    },
+    {
+        "index": 42,
+        "start_time": 152006,
+        "end_time": 155969,
+        "text": "before they are regained \nby a substance being reduced."
+    },
+    {
+        "index": 43,
+        "start_time": 155969,
+        "end_time": 158500,
+        "text": "But any battery has a finite \nsupply of metal,"
+    },
+    {
+        "index": 44,
+        "start_time": 158500,
+        "end_time": 162355,
+        "text": "and once most of it has oxidized, \nthe battery dies."
+    },
+    {
+        "index": 45,
+        "start_time": 162355,
+        "end_time": 166559,
+        "text": "So rechargeable batteries give us \na temporary solution to this problem"
+    },
+    {
+        "index": 46,
+        "start_time": 166559,
+        "end_time": 170823,
+        "text": "by making the oxidation-reduction \nprocess reversible."
+    },
+    {
+        "index": 47,
+        "start_time": 170823,
+        "end_time": 173683,
+        "text": "Electrons can flow back \nin the opposite direction"
+    },
+    {
+        "index": 48,
+        "start_time": 173683,
+        "end_time": 176181,
+        "text": "with the application of electricity."
+    },
+    {
+        "index": 49,
+        "start_time": 176181,
+        "end_time": 179614,
+        "text": "Plugging in a charger draws \nthe electricity from a wall outlet"
+    },
+    {
+        "index": 50,
+        "start_time": 179614,
+        "end_time": 182799,
+        "text": "that drives the reaction \nto regenerate the metal,"
+    },
+    {
+        "index": 51,
+        "start_time": 182799,
+        "end_time": 187577,
+        "text": "making more electrons available \nfor oxidation the next time you need them."
+    },
+    {
+        "index": 52,
+        "start_time": 187577,
+        "end_time": 190377,
+        "text": "But even rechargeable batteries \ndon&#39;t last forever."
+    },
+    {
+        "index": 53,
+        "start_time": 190377,
+        "end_time": 194228,
+        "text": "Over time, the repetition of this process\ncauses imperfections"
+    },
+    {
+        "index": 54,
+        "start_time": 194228,
+        "end_time": 199530,
+        "text": "and irregularities in the metal&#39;s surface\nthat prevent it from oxidizing properly."
+    },
+    {
+        "index": 55,
+        "start_time": 199530,
+        "end_time": 202940,
+        "text": "The electrons are no longer available\nto flow through a circuit"
+    },
+    {
+        "index": 56,
+        "start_time": 202940,
+        "end_time": 204836,
+        "text": "and the battery dies."
+    },
+    {
+        "index": 57,
+        "start_time": 204836,
+        "end_time": 207021,
+        "text": "Some everyday rechargeable batteries"
+    },
+    {
+        "index": 58,
+        "start_time": 207021,
+        "end_time": 211348,
+        "text": "will die after only hundreds \nof discharge-recharge cycles,"
+    },
+    {
+        "index": 59,
+        "start_time": 211348,
+        "end_time": 216687,
+        "text": "while newer, advanced batteries\ncan survive and function for thousands."
+    },
+    {
+        "index": 60,
+        "start_time": 216687,
+        "end_time": 219410,
+        "text": "Batteries of the future \nmay be light, thin sheets"
+    },
+    {
+        "index": 61,
+        "start_time": 219410,
+        "end_time": 222173,
+        "text": "that operate on the principles \nof quantum physics"
+    },
+    {
+        "index": 62,
+        "start_time": 222173,
+        "end_time": 225908,
+        "text": "and last for hundreds \nof thousands of charge cycles."
+    },
+    {
+        "index": 63,
+        "start_time": 225908,
+        "end_time": 229276,
+        "text": "But until scientists find a way \nto take advantage of motion"
+    },
+    {
+        "index": 64,
+        "start_time": 229276,
+        "end_time": 231968,
+        "text": "to recharge your cell battery,\nlike cars do,"
+    },
+    {
+        "index": 65,
+        "start_time": 231968,
+        "end_time": 234697,
+        "text": "or fit solar panels \nsomewhere on your device,"
+    },
+    {
+        "index": 66,
+        "start_time": 234697,
+        "end_time": 236815,
+        "text": "plugging your charger into the wall,"
+    },
+    {
+        "index": 67,
+        "start_time": 236815,
+        "end_time": 239798,
+        "text": "rather than expending \none battery to charge another"
+    },
+    {
+        "index": 68,
+        "start_time": 239798,
+        "end_time": 243875,
+        "text": "is your best bet to forestall \nthat fatal &quot;bleep.&quot;"
+    }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "end_time": 8040,
+    "index": 1,
+    "start_time": 4799,
+    "text": "You probably know the drill: You\u2019re handed\nan exam, and you\u2019re told you need to fill"
+  },
+  {
+    "end_time": 11690,
+    "index": 2,
+    "start_time": 8039,
+    "text": "out the bubbles completely, and then reminded\nthat -- for reasons that no one ever explains"
+  },
+  {
+    "end_time": 13629,
+    "index": 3,
+    "start_time": 11690,
+    "text": "-- you can only use a number 2 pencil!"
+  },
+  {
+    "end_time": 17470,
+    "index": 4,
+    "start_time": 13629,
+    "text": "Now, unless you\u2019re an artist, you\u2019ve probably\nnever even seen a pencil that\u2019s not number"
+  },
+  {
+    "end_time": 20320,
+    "index": 5,
+    "start_time": 17470,
+    "text": "2, also known as an HB pencil outside the\nU.S."
+  },
+  {
+    "end_time": 24570,
+    "index": 6,
+    "start_time": 20320,
+    "text": "The thing is, if you used any other kind of\npencil when you took an automatically-scored"
+  },
+  {
+    "end_time": 26230,
+    "index": 7,
+    "start_time": 24570,
+    "text": "test, you\u2019d probably be fine."
+  },
+  {
+    "end_time": 30029,
+    "index": 8,
+    "start_time": 26230,
+    "text": "However there are reasons that test instructions\nstill tell you to stick to number 2. And they"
+  },
+  {
+    "end_time": 33739,
+    "index": 9,
+    "start_time": 30029,
+    "text": "have a lot to do with how machines score your\ntests -- or at least, how they used to."
+  },
+  {
+    "end_time": 37669,
+    "index": 10,
+    "start_time": 33739,
+    "text": "In 1931, a high school physics teacher named\nReynold Johnson was grading exams when he"
+  },
+  {
+    "end_time": 41210,
+    "index": 11,
+    "start_time": 37670,
+    "text": "wondered if there might be a way to score\nthem without actually having to go through"
+  },
+  {
+    "end_time": 42379,
+    "index": 12,
+    "start_time": 41210,
+    "text": "every single answer by hand."
+  },
+  {
+    "end_time": 45780,
+    "index": 13,
+    "start_time": 42379,
+    "text": "He knew that graphite, the writing material\nin pencils, was electrically conductive. It\u2019s"
+  },
+  {
+    "end_time": 50039,
+    "index": 14,
+    "start_time": 45780,
+    "text": "made of flat sheets of carbon, and its outer\nelectrons are relatively free to move around"
+  },
+  {
+    "end_time": 51030,
+    "index": 15,
+    "start_time": 50039,
+    "text": "within the material."
+  },
+  {
+    "end_time": 55420,
+    "index": 16,
+    "start_time": 51030,
+    "text": "So Johnson devised a machine with many small\nelectrical circuits that would pass over an"
+  },
+  {
+    "end_time": 59359,
+    "index": 17,
+    "start_time": 55420,
+    "text": "answer sheet. If there was a pencil mark on\nthe sheet, it would conduct electricity through"
+  },
+  {
+    "end_time": 62030,
+    "index": 18,
+    "start_time": 59359,
+    "text": "one of the circuits, and the machine could\nrecord it as an answer."
+  },
+  {
+    "end_time": 65860,
+    "index": 19,
+    "start_time": 62030,
+    "text": "Eventually, he sold the idea to IBM, which\nproduced the first mark-sensing machines."
+  },
+  {
+    "end_time": 69760,
+    "index": 20,
+    "start_time": 65860,
+    "text": "But the number 2 thing didn\u2019t become an\nissue until the next generation of machines"
+  },
+  {
+    "end_time": 72270,
+    "index": 21,
+    "start_time": 69760,
+    "text": "were introduced in the 1960s and 70s."
+  },
+  {
+    "end_time": 76160,
+    "index": 22,
+    "start_time": 72270,
+    "text": "Those machines had light-sensing devices called\nphototubes, and if they did not detect light"
+  },
+  {
+    "end_time": 78800,
+    "index": 23,
+    "start_time": 76160,
+    "text": "in a certain spot, they recorded it as an\nanswer."
+  },
+  {
+    "end_time": 82140,
+    "index": 24,
+    "start_time": 78800,
+    "text": "That made graphite especially useful, because\nit\u2019s better at blocking light than many"
+  },
+  {
+    "end_time": 86860,
+    "index": 25,
+    "start_time": 82140,
+    "text": "inks. Graphite reflects most light -- that\u2019s\nwhy pencil marks are so shiny -- and absorbs"
+  },
+  {
+    "end_time": 88090,
+    "index": 26,
+    "start_time": 86860,
+    "text": "the rest, which is why it\u2019s black."
+  },
+  {
+    "end_time": 92640,
+    "index": 27,
+    "start_time": 88090,
+    "text": "But for a long time, these optical mark-sensing\nmachines were very picky. And that\u2019s where"
+  },
+  {
+    "end_time": 94050,
+    "index": 28,
+    "start_time": 92640,
+    "text": "the different grades of pencil came in."
+  },
+  {
+    "end_time": 98200,
+    "index": 29,
+    "start_time": 94050,
+    "text": "The graphite in pencils is held together by\nclay, so manufacturers can control how soft"
+  },
+  {
+    "end_time": 102330,
+    "index": 30,
+    "start_time": 98200,
+    "text": "or hard it is, and also how dark it is. The\nsofter the graphite, the darker the pencil\u2019s"
+  },
+  {
+    "end_time": 103720,
+    "index": 31,
+    "start_time": 102330,
+    "text": "mark. Pencils are labeled accordingly."
+  },
+  {
+    "end_time": 107429,
+    "index": 32,
+    "start_time": 103720,
+    "text": "In the United States, those labels are numbers.\nInternational manufacturers use a different"
+  },
+  {
+    "end_time": 109750,
+    "index": 33,
+    "start_time": 107430,
+    "text": "system, with HB corresponding to number 2."
+  },
+  {
+    "end_time": 114340,
+    "index": 34,
+    "start_time": 109750,
+    "text": "Number 2 pencils make marks that are just\ndark enough to be sensed by the machine, but"
+  },
+  {
+    "end_time": 117470,
+    "index": 35,
+    "start_time": 114340,
+    "text": "also light enough to be erased without leaving\na readable mark."
+  },
+  {
+    "end_time": 121100,
+    "index": 36,
+    "start_time": 117470,
+    "text": "These days, scoring machines use much more\nadvanced sensors that can detect almost any"
+  },
+  {
+    "end_time": 123789,
+    "index": 37,
+    "start_time": 121100,
+    "text": "sort of marks you make, as long as they\u2019re\nin the bubbles."
+  },
+  {
+    "end_time": 127370,
+    "index": 38,
+    "start_time": 123790,
+    "text": "So you could probably take your next exam\nwith any kind of pencil you wanted. But your"
+  },
+  {
+    "end_time": 131060,
+    "index": 39,
+    "start_time": 127370,
+    "text": "SATs probably aren\u2019t the time to test that\nhypothesis. Maybe bring a couple of number"
+  },
+  {
+    "end_time": 132200,
+    "index": 40,
+    "start_time": 131060,
+    "text": "2\u2019s just to be safe."
+  },
+  {
+    "end_time": 135130,
+    "index": 41,
+    "start_time": 132200,
+    "text": "Thanks for asking, and thanks especially to\nall of our supporters on Patreon, where, if"
+  },
+  {
+    "end_time": 137980,
+    "index": 42,
+    "start_time": 135130,
+    "text": "you support us at four dollars per month or\nmore, you can submit your questions to be"
+  },
+  {
+    "end_time": 141470,
+    "index": 43,
+    "start_time": 137980,
+    "text": "answered right here on SciShow Quick Questions.\nAnd if you want to keep getting smarter with"
+  },
+  {
+    "end_time": 148470,
+    "index": 44,
+    "start_time": 141470,
+    "text": "us, don\u2019t forget to go to youtube.com/scishow,\nand subscribe."
+  }
+]

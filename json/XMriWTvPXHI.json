@@ -1,0 +1,464 @@
+[
+    {
+        "index": 1,
+        "start_time": 7603,
+        "end_time": 11000,
+        "text": "This may look like a neatly arranged\nstack of numbers,"
+    },
+    {
+        "index": 2,
+        "start_time": 11000,
+        "end_time": 14506,
+        "text": "but it&#39;s actually\na mathematical treasure trove."
+    },
+    {
+        "index": 3,
+        "start_time": 14506,
+        "end_time": 18654,
+        "text": "Indian mathematicians called it \nthe Staircase of Mount Meru."
+    },
+    {
+        "index": 4,
+        "start_time": 18654,
+        "end_time": 21131,
+        "text": "In Iran, it&#39;s the Khayyam Triangle."
+    },
+    {
+        "index": 5,
+        "start_time": 21131,
+        "end_time": 23738,
+        "text": "And in China, it&#39;s Yang Hui&#39;s Triangle."
+    },
+    {
+        "index": 6,
+        "start_time": 23738,
+        "end_time": 28033,
+        "text": "To much of the Western world,\nit&#39;s known as Pascal&#39;s Triangle"
+    },
+    {
+        "index": 7,
+        "start_time": 28033,
+        "end_time": 31085,
+        "text": "after French mathematician Blaise Pascal,"
+    },
+    {
+        "index": 8,
+        "start_time": 31085,
+        "end_time": 35234,
+        "text": "which seems a bit unfair\nsince he was clearly late to the party,"
+    },
+    {
+        "index": 9,
+        "start_time": 35234,
+        "end_time": 37476,
+        "text": "but he still had a lot to contribute."
+    },
+    {
+        "index": 10,
+        "start_time": 37476,
+        "end_time": 42270,
+        "text": "So what is it about this that has so \nintrigued mathematicians the world over?"
+    },
+    {
+        "index": 11,
+        "start_time": 42270,
+        "end_time": 46124,
+        "text": "In short, \nit&#39;s full of patterns and secrets."
+    },
+    {
+        "index": 12,
+        "start_time": 46124,
+        "end_time": 49428,
+        "text": "First and foremost, there&#39;s the pattern\nthat generates it."
+    },
+    {
+        "index": 13,
+        "start_time": 49428,
+        "end_time": 54477,
+        "text": "Start with one and imagine invisible\nzeros on either side of it."
+    },
+    {
+        "index": 14,
+        "start_time": 54477,
+        "end_time": 58592,
+        "text": "Add them together in pairs, \nand you&#39;ll generate the next row."
+    },
+    {
+        "index": 15,
+        "start_time": 58592,
+        "end_time": 62066,
+        "text": "Now, do that again and again."
+    },
+    {
+        "index": 16,
+        "start_time": 62066,
+        "end_time": 65784,
+        "text": "Keep going and you&#39;ll wind up \nwith something like this,"
+    },
+    {
+        "index": 17,
+        "start_time": 65784,
+        "end_time": 69325,
+        "text": "though really Pascal&#39;s Triangle \ngoes on infinitely."
+    },
+    {
+        "index": 18,
+        "start_time": 69325,
+        "end_time": 74914,
+        "text": "Now, each row corresponds to what&#39;s called\nthe coefficients of a binomial expansion"
+    },
+    {
+        "index": 19,
+        "start_time": 74914,
+        "end_time": 78898,
+        "text": "of the form (x+y)^n,"
+    },
+    {
+        "index": 20,
+        "start_time": 78898,
+        "end_time": 81307,
+        "text": "where n is the number of the row,"
+    },
+    {
+        "index": 21,
+        "start_time": 81307,
+        "end_time": 83746,
+        "text": "and we start counting from zero."
+    },
+    {
+        "index": 22,
+        "start_time": 83746,
+        "end_time": 86552,
+        "text": "So if you make n=2 and expand it,"
+    },
+    {
+        "index": 23,
+        "start_time": 86552,
+        "end_time": 91107,
+        "text": "you get (x^2) + 2xy + (y^2)."
+    },
+    {
+        "index": 24,
+        "start_time": 91107,
+        "end_time": 94023,
+        "text": "The coefficients, \nor numbers in front of the variables,"
+    },
+    {
+        "index": 25,
+        "start_time": 94023,
+        "end_time": 98397,
+        "text": "are the same as the numbers in that row\nof Pascal&#39;s Triangle."
+    },
+    {
+        "index": 26,
+        "start_time": 98397,
+        "end_time": 103256,
+        "text": "You&#39;ll see the same thing with n=3,\nwhich expands to this."
+    },
+    {
+        "index": 27,
+        "start_time": 103256,
+        "end_time": 108493,
+        "text": "So the triangle is a quick and easy way\nto look up all of these coefficients."
+    },
+    {
+        "index": 28,
+        "start_time": 108493,
+        "end_time": 110037,
+        "text": "But there&#39;s much more."
+    },
+    {
+        "index": 29,
+        "start_time": 110037,
+        "end_time": 112897,
+        "text": "For example, add up \nthe numbers in each row,"
+    },
+    {
+        "index": 30,
+        "start_time": 112897,
+        "end_time": 116039,
+        "text": "and you&#39;ll get successive powers of two."
+    },
+    {
+        "index": 31,
+        "start_time": 116039,
+        "end_time": 121221,
+        "text": "Or in a given row, treat each number\nas part of a decimal expansion."
+    },
+    {
+        "index": 32,
+        "start_time": 121221,
+        "end_time": 127835,
+        "text": "In other words, row two is\n(1x1) + (2x10) + (1x100)."
+    },
+    {
+        "index": 33,
+        "start_time": 127835,
+        "end_time": 132111,
+        "text": "You get 121, which is 11^2."
+    },
+    {
+        "index": 34,
+        "start_time": 132111,
+        "end_time": 135872,
+        "text": "And take a look at what happens\nwhen you do the same thing to row six."
+    },
+    {
+        "index": 35,
+        "start_time": 135872,
+        "end_time": 145136,
+        "text": "It adds up to 1,771,561,\nwhich is 11^6, and so on."
+    },
+    {
+        "index": 36,
+        "start_time": 145136,
+        "end_time": 147890,
+        "text": "There are also geometric applications."
+    },
+    {
+        "index": 37,
+        "start_time": 147890,
+        "end_time": 149691,
+        "text": "Look at the diagonals."
+    },
+    {
+        "index": 38,
+        "start_time": 149691,
+        "end_time": 154117,
+        "text": "The first two aren&#39;t very interesting:\nall ones, and then the positive integers,"
+    },
+    {
+        "index": 39,
+        "start_time": 154117,
+        "end_time": 156656,
+        "text": "also known as natural numbers."
+    },
+    {
+        "index": 40,
+        "start_time": 156656,
+        "end_time": 160707,
+        "text": "But the numbers in the next diagonal\nare called the triangular numbers"
+    },
+    {
+        "index": 41,
+        "start_time": 160707,
+        "end_time": 162783,
+        "text": "because if you take that many dots,"
+    },
+    {
+        "index": 42,
+        "start_time": 162783,
+        "end_time": 166389,
+        "text": "you can stack them \ninto equilateral triangles."
+    },
+    {
+        "index": 43,
+        "start_time": 166389,
+        "end_time": 169307,
+        "text": "The next diagonal \nhas the tetrahedral numbers"
+    },
+    {
+        "index": 44,
+        "start_time": 169307,
+        "end_time": 174622,
+        "text": "because similarly, you can stack\nthat many spheres into tetrahedra."
+    },
+    {
+        "index": 45,
+        "start_time": 174622,
+        "end_time": 177996,
+        "text": "Or how about this:\nshade in all of the odd numbers."
+    },
+    {
+        "index": 46,
+        "start_time": 177996,
+        "end_time": 180881,
+        "text": "It doesn&#39;t look like much\nwhen the triangle&#39;s small,"
+    },
+    {
+        "index": 47,
+        "start_time": 180881,
+        "end_time": 183298,
+        "text": "but if you add thousands of rows,"
+    },
+    {
+        "index": 48,
+        "start_time": 183298,
+        "end_time": 187439,
+        "text": "you get a fractal \nknown as Sierpinski&#39;s Triangle."
+    },
+    {
+        "index": 49,
+        "start_time": 187439,
+        "end_time": 190756,
+        "text": "This triangle isn&#39;t just \na mathematical work of art."
+    },
+    {
+        "index": 50,
+        "start_time": 190756,
+        "end_time": 192742,
+        "text": "It&#39;s also quite useful,"
+    },
+    {
+        "index": 51,
+        "start_time": 192742,
+        "end_time": 195481,
+        "text": "especially when it comes \nto probability and calculations"
+    },
+    {
+        "index": 52,
+        "start_time": 195481,
+        "end_time": 198566,
+        "text": "in the domain of combinatorics."
+    },
+    {
+        "index": 53,
+        "start_time": 198566,
+        "end_time": 200454,
+        "text": "Say you want to have five children,"
+    },
+    {
+        "index": 54,
+        "start_time": 200454,
+        "end_time": 202270,
+        "text": "and would like to know the probability"
+    },
+    {
+        "index": 55,
+        "start_time": 202270,
+        "end_time": 206590,
+        "text": "of having your dream family \nof three girls and two boys."
+    },
+    {
+        "index": 56,
+        "start_time": 206590,
+        "end_time": 208388,
+        "text": "In the binomial expansion,"
+    },
+    {
+        "index": 57,
+        "start_time": 208388,
+        "end_time": 212116,
+        "text": "that corresponds \nto girl plus boy to the fifth power."
+    },
+    {
+        "index": 58,
+        "start_time": 212116,
+        "end_time": 213660,
+        "text": "So we look at the row five,"
+    },
+    {
+        "index": 59,
+        "start_time": 213660,
+        "end_time": 217131,
+        "text": "where the first number \ncorresponds to five girls,"
+    },
+    {
+        "index": 60,
+        "start_time": 217131,
+        "end_time": 219929,
+        "text": "and the last corresponds to five boys."
+    },
+    {
+        "index": 61,
+        "start_time": 219929,
+        "end_time": 222692,
+        "text": "The third number \nis what we&#39;re looking for."
+    },
+    {
+        "index": 62,
+        "start_time": 222692,
+        "end_time": 226642,
+        "text": "Ten out of the sum \nof all the possibilities in the row."
+    },
+    {
+        "index": 63,
+        "start_time": 226642,
+        "end_time": 231490,
+        "text": "so 10\/32, or 31.25%."
+    },
+    {
+        "index": 64,
+        "start_time": 231490,
+        "end_time": 235316,
+        "text": "Or, if you&#39;re randomly \npicking a five-player basketball team"
+    },
+    {
+        "index": 65,
+        "start_time": 235316,
+        "end_time": 237084,
+        "text": "out of a group of twelve friends,"
+    },
+    {
+        "index": 66,
+        "start_time": 237084,
+        "end_time": 240102,
+        "text": "how many possible groups \nof five are there?"
+    },
+    {
+        "index": 67,
+        "start_time": 240102,
+        "end_time": 245062,
+        "text": "In combinatoric terms, this problem would\nbe phrased as twelve choose five,"
+    },
+    {
+        "index": 68,
+        "start_time": 245062,
+        "end_time": 247237,
+        "text": "and could be calculated with this formula,"
+    },
+    {
+        "index": 69,
+        "start_time": 247237,
+        "end_time": 251708,
+        "text": "or you could just look at the sixth \nelement of row twelve on the triangle"
+    },
+    {
+        "index": 70,
+        "start_time": 251708,
+        "end_time": 253383,
+        "text": "and get your answer."
+    },
+    {
+        "index": 71,
+        "start_time": 253383,
+        "end_time": 255079,
+        "text": "The patterns in Pascal&#39;s Triangle"
+    },
+    {
+        "index": 72,
+        "start_time": 255079,
+        "end_time": 259387,
+        "text": "are a testament to the elegantly \ninterwoven fabric of mathematics."
+    },
+    {
+        "index": 73,
+        "start_time": 259387,
+        "end_time": 263271,
+        "text": "And it&#39;s still revealing fresh secrets\nto this day."
+    },
+    {
+        "index": 74,
+        "start_time": 263271,
+        "end_time": 267422,
+        "text": "For example, mathematicians recently \ndiscovered a way to expand it"
+    },
+    {
+        "index": 75,
+        "start_time": 267422,
+        "end_time": 270019,
+        "text": "to these kinds of polynomials."
+    },
+    {
+        "index": 76,
+        "start_time": 270019,
+        "end_time": 271758,
+        "text": "What might we find next?"
+    },
+    {
+        "index": 77,
+        "start_time": 271758,
+        "end_time": 274097,
+        "text": "Well, that&#39;s up to you."
+    }
+]

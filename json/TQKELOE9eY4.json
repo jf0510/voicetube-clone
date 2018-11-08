@@ -1,0 +1,494 @@
+[
+    {
+        "index": 1,
+        "start_time": 7255,
+        "end_time": 10812,
+        "text": "The Heisenberg Uncertainty Principle\nis one of a handful of ideas"
+    },
+    {
+        "index": 2,
+        "start_time": 10812,
+        "end_time": 14686,
+        "text": "from quantum physics to \nexpand into general pop culture."
+    },
+    {
+        "index": 3,
+        "start_time": 14686,
+        "end_time": 18112,
+        "text": "It says that you can never simultaneously\nknow the exact position"
+    },
+    {
+        "index": 4,
+        "start_time": 18112,
+        "end_time": 22893,
+        "text": "and the exact speed of an object\nand shows up as a metaphor in everything"
+    },
+    {
+        "index": 5,
+        "start_time": 22893,
+        "end_time": 26409,
+        "text": "from literary criticism\nto sports commentary."
+    },
+    {
+        "index": 6,
+        "start_time": 26409,
+        "end_time": 29429,
+        "text": "Uncertainty is often explained as a result\nof measurement,"
+    },
+    {
+        "index": 7,
+        "start_time": 29429,
+        "end_time": 34561,
+        "text": "that the act of measuring an object&#39;s\nposition changes its speed, or vice versa."
+    },
+    {
+        "index": 8,
+        "start_time": 34561,
+        "end_time": 38378,
+        "text": "The real origin is much deeper\nand more amazing."
+    },
+    {
+        "index": 9,
+        "start_time": 38378,
+        "end_time": 41759,
+        "text": "The Uncertainty Principle exists\nbecause everything in the universe"
+    },
+    {
+        "index": 10,
+        "start_time": 41759,
+        "end_time": 46318,
+        "text": "behaves like both a particle and a wave\nat the same time."
+    },
+    {
+        "index": 11,
+        "start_time": 46318,
+        "end_time": 50458,
+        "text": "In quantum mechanics, the exact position\nand exact speed of an object"
+    },
+    {
+        "index": 12,
+        "start_time": 50458,
+        "end_time": 51896,
+        "text": "have no meaning."
+    },
+    {
+        "index": 13,
+        "start_time": 51896,
+        "end_time": 53147,
+        "text": "To understand this,"
+    },
+    {
+        "index": 14,
+        "start_time": 53147,
+        "end_time": 57053,
+        "text": "we need to think about what it means\nto behave like a particle or a wave."
+    },
+    {
+        "index": 15,
+        "start_time": 57053,
+        "end_time": 61857,
+        "text": "Particles, by definition, exist in \na single place at any instant in time."
+    },
+    {
+        "index": 16,
+        "start_time": 61857,
+        "end_time": 65286,
+        "text": "We can represent this by a graph\nshowing the probability of finding"
+    },
+    {
+        "index": 17,
+        "start_time": 65286,
+        "end_time": 69030,
+        "text": "the object at a particular place,\nwhich looks like a spike,"
+    },
+    {
+        "index": 18,
+        "start_time": 69030,
+        "end_time": 73707,
+        "text": "100% at one specific position,\nand zero everywhere else."
+    },
+    {
+        "index": 19,
+        "start_time": 73707,
+        "end_time": 77621,
+        "text": "Waves, on the other hand,\nare disturbances spread out in space,"
+    },
+    {
+        "index": 20,
+        "start_time": 77621,
+        "end_time": 80338,
+        "text": "like ripples covering \nthe surface of a pond."
+    },
+    {
+        "index": 21,
+        "start_time": 80338,
+        "end_time": 83767,
+        "text": "We can clearly identify features\nof the wave pattern as a whole,"
+    },
+    {
+        "index": 22,
+        "start_time": 83767,
+        "end_time": 85933,
+        "text": "most importantly, its wavelength,"
+    },
+    {
+        "index": 23,
+        "start_time": 85933,
+        "end_time": 88640,
+        "text": "which is the distance between two \nneighboring peaks,"
+    },
+    {
+        "index": 24,
+        "start_time": 88640,
+        "end_time": 90459,
+        "text": "or two neighboring valleys."
+    },
+    {
+        "index": 25,
+        "start_time": 90459,
+        "end_time": 93017,
+        "text": "But we can&#39;t assign it a single position."
+    },
+    {
+        "index": 26,
+        "start_time": 93017,
+        "end_time": 96282,
+        "text": "It has a good probability of \nbeing in lots of different places."
+    },
+    {
+        "index": 27,
+        "start_time": 96282,
+        "end_time": 99099,
+        "text": "Wavelength is essential for\nquantum physics"
+    },
+    {
+        "index": 28,
+        "start_time": 99099,
+        "end_time": 102419,
+        "text": "because an object&#39;s wavelength\nis related to its momentum,"
+    },
+    {
+        "index": 29,
+        "start_time": 102419,
+        "end_time": 104024,
+        "text": "mass times velocity."
+    },
+    {
+        "index": 30,
+        "start_time": 104024,
+        "end_time": 106909,
+        "text": "A fast-moving object has lots of momentum,"
+    },
+    {
+        "index": 31,
+        "start_time": 106909,
+        "end_time": 110019,
+        "text": "which corresponds to \na very short wavelength."
+    },
+    {
+        "index": 32,
+        "start_time": 110019,
+        "end_time": 114559,
+        "text": "A heavy object has lots of momentum\neven if it&#39;s not moving very fast,"
+    },
+    {
+        "index": 33,
+        "start_time": 114559,
+        "end_time": 117156,
+        "text": "which again means a very short wavelength."
+    },
+    {
+        "index": 34,
+        "start_time": 117156,
+        "end_time": 120927,
+        "text": "This is why we don&#39;t notice\nthe wave nature of everyday objects."
+    },
+    {
+        "index": 35,
+        "start_time": 120927,
+        "end_time": 122644,
+        "text": "If you toss a baseball up in the air,"
+    },
+    {
+        "index": 36,
+        "start_time": 122644,
+        "end_time": 127029,
+        "text": "its wavelength is a billionth of a \ntrillionth of a trillionth of a meter,"
+    },
+    {
+        "index": 37,
+        "start_time": 127029,
+        "end_time": 129364,
+        "text": "far too tiny to ever detect."
+    },
+    {
+        "index": 38,
+        "start_time": 129364,
+        "end_time": 132324,
+        "text": "Small things, \nlike atoms or electrons though,"
+    },
+    {
+        "index": 39,
+        "start_time": 132324,
+        "end_time": 136142,
+        "text": "can have wavelengths big enough\nto measure in physics experiments."
+    },
+    {
+        "index": 40,
+        "start_time": 136142,
+        "end_time": 139475,
+        "text": "So, if we have a pure wave, \nwe can measure its wavelength,"
+    },
+    {
+        "index": 41,
+        "start_time": 139475,
+        "end_time": 143101,
+        "text": "and thus its momentum,\nbut it has no position."
+    },
+    {
+        "index": 42,
+        "start_time": 143101,
+        "end_time": 145248,
+        "text": "We can know a particles position\nvery well,"
+    },
+    {
+        "index": 43,
+        "start_time": 145248,
+        "end_time": 148489,
+        "text": "but it doesn&#39;t have a wavelength,\nso we don&#39;t know its momentum."
+    },
+    {
+        "index": 44,
+        "start_time": 148489,
+        "end_time": 151600,
+        "text": "To get a particle with both position\nand momentum,"
+    },
+    {
+        "index": 45,
+        "start_time": 151600,
+        "end_time": 153760,
+        "text": "we need to mix the two pictures"
+    },
+    {
+        "index": 46,
+        "start_time": 153760,
+        "end_time": 157163,
+        "text": "to make a graph that has waves,\nbut only in a small area."
+    },
+    {
+        "index": 47,
+        "start_time": 157163,
+        "end_time": 158800,
+        "text": "How can we do this?"
+    },
+    {
+        "index": 48,
+        "start_time": 158800,
+        "end_time": 161554,
+        "text": "By combining waves \nwith different wavelengths,"
+    },
+    {
+        "index": 49,
+        "start_time": 161554,
+        "end_time": 166528,
+        "text": "which means giving our quantum object some\npossibility of having different momenta."
+    },
+    {
+        "index": 50,
+        "start_time": 166528,
+        "end_time": 169282,
+        "text": "When we add two waves, \nwe find that there are places"
+    },
+    {
+        "index": 51,
+        "start_time": 169282,
+        "end_time": 172055,
+        "text": "where the peaks line up,\nmaking a bigger wave,"
+    },
+    {
+        "index": 52,
+        "start_time": 172055,
+        "end_time": 175821,
+        "text": "and other places where the peaks of one\nfill in the valleys of the other."
+    },
+    {
+        "index": 53,
+        "start_time": 175821,
+        "end_time": 178279,
+        "text": "The result has regions where\nwe see waves"
+    },
+    {
+        "index": 54,
+        "start_time": 178279,
+        "end_time": 181106,
+        "text": "separated by regions of nothing at all."
+    },
+    {
+        "index": 55,
+        "start_time": 181106,
+        "end_time": 182590,
+        "text": "If we add a third wave,"
+    },
+    {
+        "index": 56,
+        "start_time": 182590,
+        "end_time": 185709,
+        "text": "the regions where the waves cancel out\nget bigger,"
+    },
+    {
+        "index": 57,
+        "start_time": 185709,
+        "end_time": 189891,
+        "text": "a fourth and they get bigger still,\nwith the wavier regions becoming narrower."
+    },
+    {
+        "index": 58,
+        "start_time": 189891,
+        "end_time": 193089,
+        "text": "If we keep adding waves,\nwe can make a wave packet"
+    },
+    {
+        "index": 59,
+        "start_time": 193089,
+        "end_time": 196168,
+        "text": "with a clear wavelength\nin one small region."
+    },
+    {
+        "index": 60,
+        "start_time": 196168,
+        "end_time": 200224,
+        "text": "That&#39;s a quantum object with both\nwave and particle nature,"
+    },
+    {
+        "index": 61,
+        "start_time": 200224,
+        "end_time": 203311,
+        "text": "but to accomplish this,\nwe had to lose certainty"
+    },
+    {
+        "index": 62,
+        "start_time": 203311,
+        "end_time": 205805,
+        "text": "about both position and momentum."
+    },
+    {
+        "index": 63,
+        "start_time": 205805,
+        "end_time": 208223,
+        "text": "The positions isn&#39;t restricted \nto a single point."
+    },
+    {
+        "index": 64,
+        "start_time": 208223,
+        "end_time": 210918,
+        "text": "There&#39;s a good probability\nof finding it within some range"
+    },
+    {
+        "index": 65,
+        "start_time": 210918,
+        "end_time": 212837,
+        "text": "of the center of the wave packet,"
+    },
+    {
+        "index": 66,
+        "start_time": 212837,
+        "end_time": 215586,
+        "text": "and we made the wave packet\nby adding lots of waves,"
+    },
+    {
+        "index": 67,
+        "start_time": 215586,
+        "end_time": 218012,
+        "text": "which means there&#39;s \nsome probability of finding it"
+    },
+    {
+        "index": 68,
+        "start_time": 218012,
+        "end_time": 221291,
+        "text": "with the momentum corresponding\nto any one of those."
+    },
+    {
+        "index": 69,
+        "start_time": 221291,
+        "end_time": 224740,
+        "text": "Both position and momentum\nare now uncertain,"
+    },
+    {
+        "index": 70,
+        "start_time": 224740,
+        "end_time": 226816,
+        "text": "and the uncertainties are connected."
+    },
+    {
+        "index": 71,
+        "start_time": 226816,
+        "end_time": 229209,
+        "text": "If you want to reduce \nthe position uncertainty"
+    },
+    {
+        "index": 72,
+        "start_time": 229209,
+        "end_time": 232628,
+        "text": "by making a smaller wave packet,\nyou need to add more waves,"
+    },
+    {
+        "index": 73,
+        "start_time": 232628,
+        "end_time": 234865,
+        "text": "which means a bigger momentum uncertainty."
+    },
+    {
+        "index": 74,
+        "start_time": 234865,
+        "end_time": 238047,
+        "text": "If you want to know the momentum better,\nyou need a bigger wave packet,"
+    },
+    {
+        "index": 75,
+        "start_time": 238047,
+        "end_time": 241012,
+        "text": "which means a bigger position uncertainty."
+    },
+    {
+        "index": 76,
+        "start_time": 241012,
+        "end_time": 243221,
+        "text": "That&#39;s the Heisenberg Uncertainty Principle,"
+    },
+    {
+        "index": 77,
+        "start_time": 243221,
+        "end_time": 248207,
+        "text": "first stated by German physicist\nWerner Heisenberg back in 1927."
+    },
+    {
+        "index": 78,
+        "start_time": 248207,
+        "end_time": 252589,
+        "text": "This uncertainty isn&#39;t a matter\nof measuring well or badly,"
+    },
+    {
+        "index": 79,
+        "start_time": 252589,
+        "end_time": 257107,
+        "text": "but an inevitable result\nof combining particle and wave nature."
+    },
+    {
+        "index": 80,
+        "start_time": 257107,
+        "end_time": 260663,
+        "text": "The Uncertainty Principle isn&#39;t just \na practical limit on measurment."
+    },
+    {
+        "index": 81,
+        "start_time": 260663,
+        "end_time": 263733,
+        "text": "It&#39;s a limit on what properties \nan object can have,"
+    },
+    {
+        "index": 82,
+        "start_time": 263733,
+        "end_time": 268157,
+        "text": "built into the fundamental structure\nof the universe itself."
+    }
+]

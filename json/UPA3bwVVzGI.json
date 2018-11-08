@@ -1,0 +1,962 @@
+[
+    {
+        "index": 1,
+        "start_time": 13999,
+        "end_time": 16722,
+        "text": "When I was in fourth grade,\nmy teacher said to us one day:"
+    },
+    {
+        "index": 2,
+        "start_time": 16746,
+        "end_time": 19275,
+        "text": "&quot;There are as many even numbers\nas there are numbers.&quot;"
+    },
+    {
+        "index": 3,
+        "start_time": 19745,
+        "end_time": 21098,
+        "text": "&quot;Really?&quot;, I thought."
+    },
+    {
+        "index": 4,
+        "start_time": 21122,
+        "end_time": 23458,
+        "text": "Well, yeah, there are\ninfinitely many of both,"
+    },
+    {
+        "index": 5,
+        "start_time": 23482,
+        "end_time": 25878,
+        "text": "so I suppose there are\nthe same number of them."
+    },
+    {
+        "index": 6,
+        "start_time": 25902,
+        "end_time": 28933,
+        "text": "But even numbers are only part\nof the whole numbers,"
+    },
+    {
+        "index": 7,
+        "start_time": 28957,
+        "end_time": 30584,
+        "text": "all the odd numbers are left over,"
+    },
+    {
+        "index": 8,
+        "start_time": 30608,
+        "end_time": 33657,
+        "text": "so there&#39;s got to be more whole numbers\nthan even numbers, right?"
+    },
+    {
+        "index": 9,
+        "start_time": 33681,
+        "end_time": 35529,
+        "text": "To see what my teacher was getting at,"
+    },
+    {
+        "index": 10,
+        "start_time": 35553,
+        "end_time": 39061,
+        "text": "let&#39;s first think about what it means\nfor two sets to be the same size."
+    },
+    {
+        "index": 11,
+        "start_time": 39085,
+        "end_time": 41885,
+        "text": "What do I mean when I say\nI have the same number of fingers"
+    },
+    {
+        "index": 12,
+        "start_time": 41909,
+        "end_time": 44357,
+        "text": "on my right hand as I do on left hand?"
+    },
+    {
+        "index": 13,
+        "start_time": 44381,
+        "end_time": 48015,
+        "text": "Of course, I have five fingers on each,\nbut it&#39;s actually simpler than that."
+    },
+    {
+        "index": 14,
+        "start_time": 48039,
+        "end_time": 52490,
+        "text": "I don&#39;t have to count, I only need to see\nthat I can match them up, one to one."
+    },
+    {
+        "index": 15,
+        "start_time": 52514,
+        "end_time": 54620,
+        "text": "In fact, we think that some ancient people"
+    },
+    {
+        "index": 16,
+        "start_time": 54644,
+        "end_time": 58087,
+        "text": "who spoke languages that didn&#39;t have words\nfor numbers greater than three"
+    },
+    {
+        "index": 17,
+        "start_time": 58111,
+        "end_time": 59483,
+        "text": "used this sort of magic."
+    },
+    {
+        "index": 18,
+        "start_time": 59507,
+        "end_time": 62233,
+        "text": "For instance, if you let\nyour sheep out of a pen to graze,"
+    },
+    {
+        "index": 19,
+        "start_time": 62257,
+        "end_time": 65938,
+        "text": "you can keep track of how many went out\nby setting aside a stone for each one,"
+    },
+    {
+        "index": 20,
+        "start_time": 65962,
+        "end_time": 69092,
+        "text": "and putting those stones back\none by one when the sheep return,"
+    },
+    {
+        "index": 21,
+        "start_time": 69116,
+        "end_time": 71909,
+        "text": "so you know if any are missing\nwithout really counting."
+    },
+    {
+        "index": 22,
+        "start_time": 71933,
+        "end_time": 75172,
+        "text": "As another example of matching being\nmore fundamental than counting,"
+    },
+    {
+        "index": 23,
+        "start_time": 75196,
+        "end_time": 77339,
+        "text": "if I&#39;m speaking to a packed auditorium,"
+    },
+    {
+        "index": 24,
+        "start_time": 77363,
+        "end_time": 79667,
+        "text": "where every seat is taken\nand no one is standing,"
+    },
+    {
+        "index": 25,
+        "start_time": 79691,
+        "end_time": 83221,
+        "text": "I know that there are the same number\nof chairs as people in the audience,"
+    },
+    {
+        "index": 26,
+        "start_time": 83245,
+        "end_time": 85771,
+        "text": "even though I don&#39;t know\nhow many there are of either."
+    },
+    {
+        "index": 27,
+        "start_time": 85795,
+        "end_time": 88938,
+        "text": "So, what we really mean when we say\nthat two sets are the same size"
+    },
+    {
+        "index": 28,
+        "start_time": 88962,
+        "end_time": 90690,
+        "text": "is that the elements in those sets"
+    },
+    {
+        "index": 29,
+        "start_time": 90714,
+        "end_time": 92943,
+        "text": "can be matched up one by one in some way."
+    },
+    {
+        "index": 30,
+        "start_time": 92967,
+        "end_time": 94634,
+        "text": "My fourth grade teacher showed us"
+    },
+    {
+        "index": 31,
+        "start_time": 94658,
+        "end_time": 97999,
+        "text": "the whole numbers laid out in a row,\nand below each we have its double."
+    },
+    {
+        "index": 32,
+        "start_time": 98023,
+        "end_time": 100892,
+        "text": "As you can see, the bottom row\ncontains all the even numbers,"
+    },
+    {
+        "index": 33,
+        "start_time": 100916,
+        "end_time": 102457,
+        "text": "and we have a one-to-one match."
+    },
+    {
+        "index": 34,
+        "start_time": 102481,
+        "end_time": 105386,
+        "text": "That is, there are as many\neven numbers as there are numbers."
+    },
+    {
+        "index": 35,
+        "start_time": 105410,
+        "end_time": 107700,
+        "text": "But what still bothers us is our distress"
+    },
+    {
+        "index": 36,
+        "start_time": 107724,
+        "end_time": 111203,
+        "text": "over the fact that even numbers\nseem to be only part of the whole numbers."
+    },
+    {
+        "index": 37,
+        "start_time": 111227,
+        "end_time": 112681,
+        "text": "But does this convince you"
+    },
+    {
+        "index": 38,
+        "start_time": 112705,
+        "end_time": 114880,
+        "text": "that I don&#39;t have\nthe same number of fingers"
+    },
+    {
+        "index": 39,
+        "start_time": 114904,
+        "end_time": 116630,
+        "text": "on my right hand as I do on my left?"
+    },
+    {
+        "index": 40,
+        "start_time": 116654,
+        "end_time": 117669,
+        "text": "Of course not."
+    },
+    {
+        "index": 41,
+        "start_time": 117693,
+        "end_time": 119536,
+        "text": "It doesn&#39;t matter if you try to match"
+    },
+    {
+        "index": 42,
+        "start_time": 119560,
+        "end_time": 121729,
+        "text": "the elements in some way\nand it doesn&#39;t work,"
+    },
+    {
+        "index": 43,
+        "start_time": 121753,
+        "end_time": 123515,
+        "text": "that doesn&#39;t convince us of anything."
+    },
+    {
+        "index": 44,
+        "start_time": 123539,
+        "end_time": 124730,
+        "text": "If you can find one way"
+    },
+    {
+        "index": 45,
+        "start_time": 124754,
+        "end_time": 126978,
+        "text": "in which the elements\nof two sets do match up,"
+    },
+    {
+        "index": 46,
+        "start_time": 127002,
+        "end_time": 129895,
+        "text": "then we say those two sets have\nthe same number of elements."
+    },
+    {
+        "index": 47,
+        "start_time": 130472,
+        "end_time": 132487,
+        "text": "Can you make a list of all the fractions?"
+    },
+    {
+        "index": 48,
+        "start_time": 132511,
+        "end_time": 135170,
+        "text": "This might be hard,\nthere are a lot of fractions!"
+    },
+    {
+        "index": 49,
+        "start_time": 135194,
+        "end_time": 137071,
+        "text": "And it&#39;s not obvious what to put first,"
+    },
+    {
+        "index": 50,
+        "start_time": 137095,
+        "end_time": 139238,
+        "text": "or how to be sure\nall of them are on the list."
+    },
+    {
+        "index": 51,
+        "start_time": 139262,
+        "end_time": 141918,
+        "text": "Nevertheless, there is a very clever way"
+    },
+    {
+        "index": 52,
+        "start_time": 141942,
+        "end_time": 144115,
+        "text": "that we can make a list\nof all the fractions."
+    },
+    {
+        "index": 53,
+        "start_time": 144139,
+        "end_time": 147985,
+        "text": "This was first done by Georg Cantor,\nin the late eighteen hundreds."
+    },
+    {
+        "index": 54,
+        "start_time": 148009,
+        "end_time": 151017,
+        "text": "First, we put all\nthe fractions into a grid."
+    },
+    {
+        "index": 55,
+        "start_time": 151041,
+        "end_time": 152131,
+        "text": "They&#39;re all there."
+    },
+    {
+        "index": 56,
+        "start_time": 152155,
+        "end_time": 155912,
+        "text": "For instance, you can find, say, 117\/243,"
+    },
+    {
+        "index": 57,
+        "start_time": 155936,
+        "end_time": 158996,
+        "text": "in the 117th row and 243rd column."
+    },
+    {
+        "index": 58,
+        "start_time": 159020,
+        "end_time": 160821,
+        "text": "Now we make a list out of this"
+    },
+    {
+        "index": 59,
+        "start_time": 160845,
+        "end_time": 164245,
+        "text": "by starting at the upper left\nand sweeping back and forth diagonally,"
+    },
+    {
+        "index": 60,
+        "start_time": 164269,
+        "end_time": 166596,
+        "text": "skipping over any fraction, like 2\/2,"
+    },
+    {
+        "index": 61,
+        "start_time": 166620,
+        "end_time": 169659,
+        "text": "that represents the same number\nas one the we&#39;ve already picked."
+    },
+    {
+        "index": 62,
+        "start_time": 169683,
+        "end_time": 171561,
+        "text": "We get a list of all the fractions,"
+    },
+    {
+        "index": 63,
+        "start_time": 171585,
+        "end_time": 173698,
+        "text": "which means we&#39;ve created\na one-to-one match"
+    },
+    {
+        "index": 64,
+        "start_time": 173722,
+        "end_time": 175800,
+        "text": "between the whole numbers\nand the fractions,"
+    },
+    {
+        "index": 65,
+        "start_time": 175818,
+        "end_time": 179199,
+        "text": "despite the fact that we thought\nmaybe there ought to be more fractions."
+    },
+    {
+        "index": 66,
+        "start_time": 179223,
+        "end_time": 181330,
+        "text": "OK, here&#39;s where it gets\nreally interesting."
+    },
+    {
+        "index": 67,
+        "start_time": 181354,
+        "end_time": 183319,
+        "text": "You may know that not all real numbers"
+    },
+    {
+        "index": 68,
+        "start_time": 183343,
+        "end_time": 186491,
+        "text": "-- that is, not all the numbers\non a number line -- are fractions."
+    },
+    {
+        "index": 69,
+        "start_time": 186515,
+        "end_time": 188662,
+        "text": "The square root\nof two and pi, for instance."
+    },
+    {
+        "index": 70,
+        "start_time": 188686,
+        "end_time": 191113,
+        "text": "Any number like this is called irrational."
+    },
+    {
+        "index": 71,
+        "start_time": 191137,
+        "end_time": 193064,
+        "text": "Not because it&#39;s crazy, or anything,"
+    },
+    {
+        "index": 72,
+        "start_time": 193088,
+        "end_time": 196102,
+        "text": "but because the fractions are\nratios of whole numbers,"
+    },
+    {
+        "index": 73,
+        "start_time": 196126,
+        "end_time": 197593,
+        "text": "and so are called rationals;"
+    },
+    {
+        "index": 74,
+        "start_time": 197617,
+        "end_time": 200828,
+        "text": "meaning the rest are\nnon-rational, that is, irrational."
+    },
+    {
+        "index": 75,
+        "start_time": 200852,
+        "end_time": 204694,
+        "text": "Irrationals are represented\nby infinite, non-repeating decimals."
+    },
+    {
+        "index": 76,
+        "start_time": 204718,
+        "end_time": 206853,
+        "text": "So, can we make a one-to-one match"
+    },
+    {
+        "index": 77,
+        "start_time": 206877,
+        "end_time": 209606,
+        "text": "between the whole numbers\nand the set of all the decimals,"
+    },
+    {
+        "index": 78,
+        "start_time": 209630,
+        "end_time": 211518,
+        "text": "both the rationals and the irrationals?"
+    },
+    {
+        "index": 79,
+        "start_time": 211542,
+        "end_time": 214114,
+        "text": "That is, can we make\na list of all the decimal numbers?"
+    },
+    {
+        "index": 80,
+        "start_time": 214138,
+        "end_time": 216188,
+        "text": "Cantor showed that you can&#39;t."
+    },
+    {
+        "index": 81,
+        "start_time": 216212,
+        "end_time": 219509,
+        "text": "Not merely that we don&#39;t know how,\nbut that it can&#39;t be done."
+    },
+    {
+        "index": 82,
+        "start_time": 220045,
+        "end_time": 223900,
+        "text": "Look, suppose you claim you have made\na list of all the decimals."
+    },
+    {
+        "index": 83,
+        "start_time": 223924,
+        "end_time": 226142,
+        "text": "I&#39;m going to show you\nthat you didn&#39;t succeed,"
+    },
+    {
+        "index": 84,
+        "start_time": 226166,
+        "end_time": 228452,
+        "text": "by producing a decimal\nthat is not on your list."
+    },
+    {
+        "index": 85,
+        "start_time": 228476,
+        "end_time": 230795,
+        "text": "I&#39;ll construct my decimal\none place at a time."
+    },
+    {
+        "index": 86,
+        "start_time": 230819,
+        "end_time": 233144,
+        "text": "For the first decimal place of my number,"
+    },
+    {
+        "index": 87,
+        "start_time": 233168,
+        "end_time": 235930,
+        "text": "I&#39;ll look at the first decimal place\nof your first number."
+    },
+    {
+        "index": 88,
+        "start_time": 235954,
+        "end_time": 238408,
+        "text": "If it&#39;s a one, I&#39;ll make mine a two;"
+    },
+    {
+        "index": 89,
+        "start_time": 238432,
+        "end_time": 240388,
+        "text": "otherwise I&#39;ll make mine a one."
+    },
+    {
+        "index": 90,
+        "start_time": 240412,
+        "end_time": 242520,
+        "text": "For the second place of my number,"
+    },
+    {
+        "index": 91,
+        "start_time": 242544,
+        "end_time": 245021,
+        "text": "I&#39;ll look at the second place\nof your second number."
+    },
+    {
+        "index": 92,
+        "start_time": 245045,
+        "end_time": 247560,
+        "text": "Again, if yours is a one,\nI&#39;ll make mine a two,"
+    },
+    {
+        "index": 93,
+        "start_time": 247584,
+        "end_time": 249894,
+        "text": "and otherwise I&#39;ll make mine a one."
+    },
+    {
+        "index": 94,
+        "start_time": 249918,
+        "end_time": 251221,
+        "text": "See how this is going?"
+    },
+    {
+        "index": 95,
+        "start_time": 251245,
+        "end_time": 254220,
+        "text": "The decimal I&#39;ve produced\ncan&#39;t be on your list."
+    },
+    {
+        "index": 96,
+        "start_time": 254244,
+        "end_time": 257531,
+        "text": "Why? Could it be, say, your 143rd number?"
+    },
+    {
+        "index": 97,
+        "start_time": 257555,
+        "end_time": 260713,
+        "text": "No, because the 143rd place of my decimal"
+    },
+    {
+        "index": 98,
+        "start_time": 260737,
+        "end_time": 264374,
+        "text": "is different from the 143rd place\nof your 143rd number."
+    },
+    {
+        "index": 99,
+        "start_time": 264398,
+        "end_time": 265965,
+        "text": "I made it that way."
+    },
+    {
+        "index": 100,
+        "start_time": 265989,
+        "end_time": 267466,
+        "text": "Your list is incomplete."
+    },
+    {
+        "index": 101,
+        "start_time": 267490,
+        "end_time": 269484,
+        "text": "It doesn&#39;t contain my decimal number."
+    },
+    {
+        "index": 102,
+        "start_time": 269508,
+        "end_time": 272413,
+        "text": "And, no matter what list you give me,\nI can do the same thing,"
+    },
+    {
+        "index": 103,
+        "start_time": 272437,
+        "end_time": 274650,
+        "text": "and produce a decimal\nthat&#39;s not on that list."
+    },
+    {
+        "index": 104,
+        "start_time": 274674,
+        "end_time": 277195,
+        "text": "So we&#39;re faced with this\nastounding conclusion:"
+    },
+    {
+        "index": 105,
+        "start_time": 277219,
+        "end_time": 280084,
+        "text": "The decimal numbers\ncannot be put on a list."
+    },
+    {
+        "index": 106,
+        "start_time": 280108,
+        "end_time": 284026,
+        "text": "They represent a bigger infinity\nthat the infinity of whole numbers."
+    },
+    {
+        "index": 107,
+        "start_time": 284050,
+        "end_time": 286812,
+        "text": "So, even though we&#39;re familiar\nwith only a few irrationals,"
+    },
+    {
+        "index": 108,
+        "start_time": 286836,
+        "end_time": 288617,
+        "text": "like square root of two and pi,"
+    },
+    {
+        "index": 109,
+        "start_time": 288641,
+        "end_time": 290134,
+        "text": "the infinity of irrationals"
+    },
+    {
+        "index": 110,
+        "start_time": 290158,
+        "end_time": 292594,
+        "text": "is actually greater\nthan the infinity of fractions."
+    },
+    {
+        "index": 111,
+        "start_time": 292618,
+        "end_time": 294387,
+        "text": "Someone once said that the rationals"
+    },
+    {
+        "index": 112,
+        "start_time": 294411,
+        "end_time": 297335,
+        "text": "-- the fractions -- are\nlike the stars in the night sky."
+    },
+    {
+        "index": 113,
+        "start_time": 297998,
+        "end_time": 301119,
+        "text": "The irrationals are like the blackness."
+    },
+    {
+        "index": 114,
+        "start_time": 301143,
+        "end_time": 303664,
+        "text": "Cantor also showed that,\nfor any infinite set,"
+    },
+    {
+        "index": 115,
+        "start_time": 303688,
+        "end_time": 307094,
+        "text": "forming a new set made of\nall the subsets of the original set"
+    },
+    {
+        "index": 116,
+        "start_time": 307118,
+        "end_time": 310386,
+        "text": "represents a bigger infinity\nthan that original set."
+    },
+    {
+        "index": 117,
+        "start_time": 310410,
+        "end_time": 312459,
+        "text": "This means that,\nonce you have one infinity,"
+    },
+    {
+        "index": 118,
+        "start_time": 312483,
+        "end_time": 314041,
+        "text": "you can always make a bigger one"
+    },
+    {
+        "index": 119,
+        "start_time": 314065,
+        "end_time": 316966,
+        "text": "by making the set of all subsets\nof that first set."
+    },
+    {
+        "index": 120,
+        "start_time": 316990,
+        "end_time": 318406,
+        "text": "And then an even bigger one"
+    },
+    {
+        "index": 121,
+        "start_time": 318430,
+        "end_time": 320739,
+        "text": "by making the set\nof all the subsets of that one."
+    },
+    {
+        "index": 122,
+        "start_time": 320763,
+        "end_time": 321989,
+        "text": "And so on."
+    },
+    {
+        "index": 123,
+        "start_time": 322013,
+        "end_time": 325601,
+        "text": "And so, there are an infinite number\nof infinities of different sizes."
+    },
+    {
+        "index": 124,
+        "start_time": 325625,
+        "end_time": 329090,
+        "text": "If these ideas make you\nuncomfortable, you are not alone."
+    },
+    {
+        "index": 125,
+        "start_time": 329114,
+        "end_time": 331505,
+        "text": "Some of the greatest\nmathematicians of Cantor&#39;s day"
+    },
+    {
+        "index": 126,
+        "start_time": 331529,
+        "end_time": 333053,
+        "text": "were very upset with this stuff."
+    },
+    {
+        "index": 127,
+        "start_time": 333077,
+        "end_time": 335697,
+        "text": "They tried to make these different\ninfinities irrelevant,"
+    },
+    {
+        "index": 128,
+        "start_time": 335721,
+        "end_time": 338013,
+        "text": "to make mathematics work\nwithout them somehow."
+    },
+    {
+        "index": 129,
+        "start_time": 338037,
+        "end_time": 340070,
+        "text": "Cantor was even vilified personally,"
+    },
+    {
+        "index": 130,
+        "start_time": 340094,
+        "end_time": 342999,
+        "text": "and it got so bad for him\nthat he suffered severe depression,"
+    },
+    {
+        "index": 131,
+        "start_time": 343023,
+        "end_time": 346309,
+        "text": "and spent the last half of his life\nin and out of mental institutions."
+    },
+    {
+        "index": 132,
+        "start_time": 346333,
+        "end_time": 348662,
+        "text": "But eventually, his ideas won out."
+    },
+    {
+        "index": 133,
+        "start_time": 348686,
+        "end_time": 351644,
+        "text": "Today, they&#39;re considered\nfundamental and magnificent."
+    },
+    {
+        "index": 134,
+        "start_time": 351668,
+        "end_time": 354245,
+        "text": "All research mathematicians\naccept these ideas,"
+    },
+    {
+        "index": 135,
+        "start_time": 354269,
+        "end_time": 356064,
+        "text": "every college math major learns them,"
+    },
+    {
+        "index": 136,
+        "start_time": 356088,
+        "end_time": 358327,
+        "text": "and I&#39;ve explained them\nto you in a few minutes."
+    },
+    {
+        "index": 137,
+        "start_time": 358351,
+        "end_time": 360844,
+        "text": "Some day, perhaps,\nthey&#39;ll be common knowledge."
+    },
+    {
+        "index": 138,
+        "start_time": 360868,
+        "end_time": 362042,
+        "text": "There&#39;s more."
+    },
+    {
+        "index": 139,
+        "start_time": 362066,
+        "end_time": 364496,
+        "text": "We just pointed out\nthat the set of decimal numbers"
+    },
+    {
+        "index": 140,
+        "start_time": 364520,
+        "end_time": 366970,
+        "text": "-- that is, the real numbers --\nis a bigger infinity"
+    },
+    {
+        "index": 141,
+        "start_time": 366994,
+        "end_time": 368429,
+        "text": "than the set of whole numbers."
+    },
+    {
+        "index": 142,
+        "start_time": 368453,
+        "end_time": 370510,
+        "text": "Cantor wondered\nwhether there are infinities"
+    },
+    {
+        "index": 143,
+        "start_time": 370534,
+        "end_time": 372794,
+        "text": "of different sizes\nbetween these two infinities."
+    },
+    {
+        "index": 144,
+        "start_time": 372818,
+        "end_time": 375315,
+        "text": "He didn&#39;t believe there were,\nbut couldn&#39;t prove it."
+    },
+    {
+        "index": 145,
+        "start_time": 375339,
+        "end_time": 378250,
+        "text": "Cantor&#39;s conjecture became known\nas the continuum hypothesis."
+    },
+    {
+        "index": 146,
+        "start_time": 379402,
+        "end_time": 381859,
+        "text": "In 1900, the great\nmathematician David Hilbert"
+    },
+    {
+        "index": 147,
+        "start_time": 381883,
+        "end_time": 383634,
+        "text": "listed the continuum hypothesis"
+    },
+    {
+        "index": 148,
+        "start_time": 383658,
+        "end_time": 386417,
+        "text": "as the most important\nunsolved problem in mathematics."
+    },
+    {
+        "index": 149,
+        "start_time": 386441,
+        "end_time": 389254,
+        "text": "The 20th century saw\na resolution of this problem,"
+    },
+    {
+        "index": 150,
+        "start_time": 389278,
+        "end_time": 392236,
+        "text": "but in a completely unexpected,\nparadigm-shattering way."
+    },
+    {
+        "index": 151,
+        "start_time": 392942,
+        "end_time": 394899,
+        "text": "In the 1920s, Kurt G\u00f6del showed"
+    },
+    {
+        "index": 152,
+        "start_time": 394923,
+        "end_time": 397923,
+        "text": "that you can never prove\nthat the continuum hypothesis is false."
+    },
+    {
+        "index": 153,
+        "start_time": 397947,
+        "end_time": 401003,
+        "text": "Then, in the 1960s, Paul J. Cohen showed"
+    },
+    {
+        "index": 154,
+        "start_time": 401027,
+        "end_time": 404027,
+        "text": "that you can never prove\nthat the continuum hypothesis is true."
+    },
+    {
+        "index": 155,
+        "start_time": 404051,
+        "end_time": 406200,
+        "text": "Taken together, these results mean"
+    },
+    {
+        "index": 156,
+        "start_time": 406224,
+        "end_time": 408748,
+        "text": "that there are unanswerable\nquestions in mathematics."
+    },
+    {
+        "index": 157,
+        "start_time": 408772,
+        "end_time": 410286,
+        "text": "A very stunning conclusion."
+    },
+    {
+        "index": 158,
+        "start_time": 410310,
+        "end_time": 413435,
+        "text": "Mathematics is rightly considered\nthe pinnacle of human reasoning,"
+    },
+    {
+        "index": 159,
+        "start_time": 413459,
+        "end_time": 416568,
+        "text": "but we now know that even mathematics\nhas its limitations."
+    },
+    {
+        "index": 160,
+        "start_time": 417094,
+        "end_time": 420809,
+        "text": "Still, mathematics has some truly\namazing things for us to think about."
+    }
+]

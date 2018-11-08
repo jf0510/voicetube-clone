@@ -1,0 +1,434 @@
+[
+    {
+        "index": 1,
+        "start_time": 7014,
+        "end_time": 9948,
+        "text": "A famous Ancient Greek once said,"
+    },
+    {
+        "index": 2,
+        "start_time": 9948,
+        "end_time": 14233,
+        "text": "&quot;Give me a place to stand,\nand I shall move the Earth.&quot;"
+    },
+    {
+        "index": 3,
+        "start_time": 14233,
+        "end_time": 18354,
+        "text": "But this wasn&#39;t some wizard claiming to\nperform impossible feats."
+    },
+    {
+        "index": 4,
+        "start_time": 18354,
+        "end_time": 20779,
+        "text": "It was the mathematician Archimedes"
+    },
+    {
+        "index": 5,
+        "start_time": 20779,
+        "end_time": 25311,
+        "text": "describing the fundamental principle\nbehind the lever."
+    },
+    {
+        "index": 6,
+        "start_time": 25311,
+        "end_time": 29216,
+        "text": "The idea of a person moving such a huge\nmass on their own"
+    },
+    {
+        "index": 7,
+        "start_time": 29216,
+        "end_time": 31099,
+        "text": "might sound like magic,"
+    },
+    {
+        "index": 8,
+        "start_time": 31099,
+        "end_time": 34807,
+        "text": "but chances are you&#39;ve seen it\nin your everyday life."
+    },
+    {
+        "index": 9,
+        "start_time": 34807,
+        "end_time": 37588,
+        "text": "One of the best examples is something\nyou might recognize"
+    },
+    {
+        "index": 10,
+        "start_time": 37588,
+        "end_time": 39756,
+        "text": "from a childhood playground:"
+    },
+    {
+        "index": 11,
+        "start_time": 39756,
+        "end_time": 42399,
+        "text": "a teeter-totter, or seesaw."
+    },
+    {
+        "index": 12,
+        "start_time": 42399,
+        "end_time": 45339,
+        "text": "Let&#39;s say you and a friend \ndecide to hop on."
+    },
+    {
+        "index": 13,
+        "start_time": 45339,
+        "end_time": 47350,
+        "text": "If you both weigh about the same,"
+    },
+    {
+        "index": 14,
+        "start_time": 47350,
+        "end_time": 50569,
+        "text": "you can totter back and forth\npretty easily."
+    },
+    {
+        "index": 15,
+        "start_time": 50569,
+        "end_time": 54011,
+        "text": "But what happens if your \nfriend weighs more?"
+    },
+    {
+        "index": 16,
+        "start_time": 54011,
+        "end_time": 56407,
+        "text": "Suddenly, you&#39;re stuck up in the air."
+    },
+    {
+        "index": 17,
+        "start_time": 56407,
+        "end_time": 59489,
+        "text": "Fortunately, you probably know what to do."
+    },
+    {
+        "index": 18,
+        "start_time": 59489,
+        "end_time": 63867,
+        "text": "Just move back on the seesaw, \nand down you go."
+    },
+    {
+        "index": 19,
+        "start_time": 63867,
+        "end_time": 65946,
+        "text": "This may seem simple and intuitive,"
+    },
+    {
+        "index": 20,
+        "start_time": 65946,
+        "end_time": 70292,
+        "text": "but what you&#39;re actually doing is using a\nlever to lift a weight"
+    },
+    {
+        "index": 21,
+        "start_time": 70292,
+        "end_time": 72431,
+        "text": "that would otherwise be too heavy."
+    },
+    {
+        "index": 22,
+        "start_time": 72431,
+        "end_time": 76292,
+        "text": "This lever is one type of what we call\nsimple machines,"
+    },
+    {
+        "index": 23,
+        "start_time": 76292,
+        "end_time": 80931,
+        "text": "basic devices that reduce the amount\nof energy required for a task"
+    },
+    {
+        "index": 24,
+        "start_time": 80931,
+        "end_time": 84314,
+        "text": "by cleverly applying the basic \nlaws of physics."
+    },
+    {
+        "index": 25,
+        "start_time": 84314,
+        "end_time": 86402,
+        "text": "Let&#39;s take a look at how it works."
+    },
+    {
+        "index": 26,
+        "start_time": 86402,
+        "end_time": 90272,
+        "text": "Every lever consists of \nthree main components:"
+    },
+    {
+        "index": 27,
+        "start_time": 90272,
+        "end_time": 94391,
+        "text": "the effort arm, the resistance arm,\nand the fulcrum."
+    },
+    {
+        "index": 28,
+        "start_time": 94391,
+        "end_time": 97700,
+        "text": "In this case, \nyour weight is the effort force,"
+    },
+    {
+        "index": 29,
+        "start_time": 97700,
+        "end_time": 101257,
+        "text": "while your friend&#39;s weight provides\nthe resistance force."
+    },
+    {
+        "index": 30,
+        "start_time": 101257,
+        "end_time": 105359,
+        "text": "What Archimedes learned was that there\nis an important relationship"
+    },
+    {
+        "index": 31,
+        "start_time": 105359,
+        "end_time": 110834,
+        "text": "between the magnitudes of these forces\nand their distances from the fulcrum."
+    },
+    {
+        "index": 32,
+        "start_time": 110834,
+        "end_time": 112372,
+        "text": "The lever is balanced when"
+    },
+    {
+        "index": 33,
+        "start_time": 112372,
+        "end_time": 116179,
+        "text": "the product of the effort force\nand the length of the effort arm"
+    },
+    {
+        "index": 34,
+        "start_time": 116179,
+        "end_time": 121820,
+        "text": "equals the product of the resistance force\nand the length of the resistance arm."
+    },
+    {
+        "index": 35,
+        "start_time": 121820,
+        "end_time": 125063,
+        "text": "This relies on one of the \nbasic laws of physics,"
+    },
+    {
+        "index": 36,
+        "start_time": 125063,
+        "end_time": 131677,
+        "text": "which states that work measured in joules\nis equal to force applied over a distance."
+    },
+    {
+        "index": 37,
+        "start_time": 131677,
+        "end_time": 135633,
+        "text": "A lever can&#39;t reduce the amount of work \nneeded to lift something,"
+    },
+    {
+        "index": 38,
+        "start_time": 135633,
+        "end_time": 138275,
+        "text": "but it does give you a trade-off."
+    },
+    {
+        "index": 39,
+        "start_time": 138275,
+        "end_time": 142800,
+        "text": "Increase the distance and \nyou can apply less force."
+    },
+    {
+        "index": 40,
+        "start_time": 142800,
+        "end_time": 145937,
+        "text": "Rather than trying to lift \nan object directly,"
+    },
+    {
+        "index": 41,
+        "start_time": 145937,
+        "end_time": 149689,
+        "text": "the lever makes the job easier by \ndispersing its weight"
+    },
+    {
+        "index": 42,
+        "start_time": 149689,
+        "end_time": 154057,
+        "text": "across the entire length of the effort\nand resistance arms."
+    },
+    {
+        "index": 43,
+        "start_time": 154057,
+        "end_time": 157412,
+        "text": "So if your friend weighs \ntwice as much as you,"
+    },
+    {
+        "index": 44,
+        "start_time": 157412,
+        "end_time": 162469,
+        "text": "you&#39;d need to sit twice as far from the\ncenter as him in order to lift him."
+    },
+    {
+        "index": 45,
+        "start_time": 162469,
+        "end_time": 167154,
+        "text": "By the same token, his little sister,\nwhose weight is only a quarter of yours,"
+    },
+    {
+        "index": 46,
+        "start_time": 167154,
+        "end_time": 171283,
+        "text": "could lift you by sitting four times\nas far as you."
+    },
+    {
+        "index": 47,
+        "start_time": 171283,
+        "end_time": 176445,
+        "text": "Seesaws may be fun, but the implications\nand possible uses of levers"
+    },
+    {
+        "index": 48,
+        "start_time": 176445,
+        "end_time": 179179,
+        "text": "get much more impressive than that."
+    },
+    {
+        "index": 49,
+        "start_time": 179179,
+        "end_time": 183373,
+        "text": "With a big enough lever, \nyou can lift some pretty heavy things."
+    },
+    {
+        "index": 50,
+        "start_time": 183373,
+        "end_time": 187871,
+        "text": "A person weighing 150 pounds, \nor 68 kilograms,"
+    },
+    {
+        "index": 51,
+        "start_time": 187871,
+        "end_time": 193650,
+        "text": "could use a lever just 3.7 meters long\nto balance a smart car,"
+    },
+    {
+        "index": 52,
+        "start_time": 193650,
+        "end_time": 199326,
+        "text": "or a ten meter lever to lift \na 2.5 ton stone block,"
+    },
+    {
+        "index": 53,
+        "start_time": 199326,
+        "end_time": 202142,
+        "text": "like the ones used to build\nthe Pyramids."
+    },
+    {
+        "index": 54,
+        "start_time": 202142,
+        "end_time": 206640,
+        "text": "If you wanted to lift the Eiffel Tower,\nyour lever would have to be a bit longer,"
+    },
+    {
+        "index": 55,
+        "start_time": 206640,
+        "end_time": 209870,
+        "text": "about 40.6 kilometers."
+    },
+    {
+        "index": 56,
+        "start_time": 209870,
+        "end_time": 212504,
+        "text": "And what about Archimedes&#39; famous boast?"
+    },
+    {
+        "index": 57,
+        "start_time": 212504,
+        "end_time": 215417,
+        "text": "Sure, it&#39;s hypothetically possible."
+    },
+    {
+        "index": 58,
+        "start_time": 215417,
+        "end_time": 219771,
+        "text": "The Earth weighs 6 x 10^24 kilograms,"
+    },
+    {
+        "index": 59,
+        "start_time": 219771,
+        "end_time": 225172,
+        "text": "and the Moon that&#39;s about \n384,400 kilometers away"
+    },
+    {
+        "index": 60,
+        "start_time": 225172,
+        "end_time": 227456,
+        "text": "would make a great fulcrum."
+    },
+    {
+        "index": 61,
+        "start_time": 227456,
+        "end_time": 229847,
+        "text": "So all you&#39;d need to lift the Earth"
+    },
+    {
+        "index": 62,
+        "start_time": 229847,
+        "end_time": 234239,
+        "text": "is a lever with a length of about a\nquadrillion light years,"
+    },
+    {
+        "index": 63,
+        "start_time": 234239,
+        "end_time": 239621,
+        "text": "1.5 billion times the distance to\nthe Andromeda Galaxy."
+    },
+    {
+        "index": 64,
+        "start_time": 239621,
+        "end_time": 243197,
+        "text": "And of course a place to stand\nso you can use it."
+    },
+    {
+        "index": 65,
+        "start_time": 243197,
+        "end_time": 245293,
+        "text": "So for such a simple machine,"
+    },
+    {
+        "index": 66,
+        "start_time": 245293,
+        "end_time": 248407,
+        "text": "the lever is capable of some pretty\namazing things."
+    },
+    {
+        "index": 67,
+        "start_time": 248407,
+        "end_time": 252332,
+        "text": "And the basic elements of levers\nand other simple machines"
+    },
+    {
+        "index": 68,
+        "start_time": 252332,
+        "end_time": 255842,
+        "text": "are found all around us in the various\ninstruments and tools"
+    },
+    {
+        "index": 69,
+        "start_time": 255842,
+        "end_time": 261380,
+        "text": "that we, and even some other animals,\nuse to increase our chances of survival,"
+    },
+    {
+        "index": 70,
+        "start_time": 261380,
+        "end_time": 263821,
+        "text": "or just make our lives easier."
+    },
+    {
+        "index": 71,
+        "start_time": 263821,
+        "end_time": 267435,
+        "text": "After all, it&#39;s the mathematical \nprinciples behind these devices"
+    },
+    {
+        "index": 72,
+        "start_time": 267435,
+        "end_time": 269526,
+        "text": "that make the world go round."
+    }
+]

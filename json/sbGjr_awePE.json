@@ -1,0 +1,464 @@
+[
+    {
+        "index": 1,
+        "start_time": 6951,
+        "end_time": 8713,
+        "text": "Like many heroes of Greek myths,"
+    },
+    {
+        "index": 2,
+        "start_time": 8713,
+        "end_time": 13930,
+        "text": "the philosopher Hippasus was rumored to\nhave been mortally punished by the gods."
+    },
+    {
+        "index": 3,
+        "start_time": 13930,
+        "end_time": 15606,
+        "text": "But what was his crime?"
+    },
+    {
+        "index": 4,
+        "start_time": 15606,
+        "end_time": 16957,
+        "text": "Did he murder guests,"
+    },
+    {
+        "index": 5,
+        "start_time": 16957,
+        "end_time": 19474,
+        "text": "or disrupt a sacred ritual?"
+    },
+    {
+        "index": 6,
+        "start_time": 19474,
+        "end_time": 23524,
+        "text": "No, Hippasus&#39;s transgression was\na mathematical proof:"
+    },
+    {
+        "index": 7,
+        "start_time": 23524,
+        "end_time": 26583,
+        "text": "the discovery of irrational numbers."
+    },
+    {
+        "index": 8,
+        "start_time": 26583,
+        "end_time": 30311,
+        "text": "Hippasus belonged to a group\ncalled the Pythagorean mathematicians"
+    },
+    {
+        "index": 9,
+        "start_time": 30311,
+        "end_time": 32922,
+        "text": "who had a religious reverence for numbers."
+    },
+    {
+        "index": 10,
+        "start_time": 32922,
+        "end_time": 35463,
+        "text": "Their dictum of, &quot;All is number,&quot;"
+    },
+    {
+        "index": 11,
+        "start_time": 35463,
+        "end_time": 39013,
+        "text": "suggested that numbers \nwere the building blocks of the Universe"
+    },
+    {
+        "index": 12,
+        "start_time": 39013,
+        "end_time": 43317,
+        "text": "and part of this belief was that \neverything from cosmology and metaphysics"
+    },
+    {
+        "index": 13,
+        "start_time": 43317,
+        "end_time": 46477,
+        "text": "to music and morals followed eternal rules"
+    },
+    {
+        "index": 14,
+        "start_time": 46477,
+        "end_time": 50175,
+        "text": "describable as ratios of numbers."
+    },
+    {
+        "index": 15,
+        "start_time": 50175,
+        "end_time": 53488,
+        "text": "Thus, any number could be written\nas such a ratio."
+    },
+    {
+        "index": 16,
+        "start_time": 53488,
+        "end_time": 55995,
+        "text": "5 as 5\/1,"
+    },
+    {
+        "index": 17,
+        "start_time": 55995,
+        "end_time": 59085,
+        "text": "0.5 as 1\/2"
+    },
+    {
+        "index": 18,
+        "start_time": 59085,
+        "end_time": 60505,
+        "text": "and so on."
+    },
+    {
+        "index": 19,
+        "start_time": 60505,
+        "end_time": 67907,
+        "text": "Even an infinitely extending decimal like\nthis could be expressed exactly as 34\/45."
+    },
+    {
+        "index": 20,
+        "start_time": 67907,
+        "end_time": 71421,
+        "text": "All of these are what we now call\nrational numbers."
+    },
+    {
+        "index": 21,
+        "start_time": 71421,
+        "end_time": 76051,
+        "text": "But Hippasus found one number\nthat violated this harmonious rule,"
+    },
+    {
+        "index": 22,
+        "start_time": 76051,
+        "end_time": 78825,
+        "text": "one that was not supposed to exist."
+    },
+    {
+        "index": 23,
+        "start_time": 78825,
+        "end_time": 81395,
+        "text": "The problem began with a simple shape,"
+    },
+    {
+        "index": 24,
+        "start_time": 81395,
+        "end_time": 85105,
+        "text": "a square with each side \nmeasuring one unit."
+    },
+    {
+        "index": 25,
+        "start_time": 85105,
+        "end_time": 86898,
+        "text": "According to Pythagoras Theorem,"
+    },
+    {
+        "index": 26,
+        "start_time": 86898,
+        "end_time": 90183,
+        "text": "the diagonal length \nwould be square root of two,"
+    },
+    {
+        "index": 27,
+        "start_time": 90183,
+        "end_time": 95528,
+        "text": "but try as he might, Hippasus could not\nexpress this as a ratio of two integers."
+    },
+    {
+        "index": 28,
+        "start_time": 95528,
+        "end_time": 99839,
+        "text": "And instead of giving up, he decided\nto prove it couldn&#39;t be done."
+    },
+    {
+        "index": 29,
+        "start_time": 99839,
+        "end_time": 104196,
+        "text": "Hippasus began by assuming that the\nPythagorean worldview was true,"
+    },
+    {
+        "index": 30,
+        "start_time": 104196,
+        "end_time": 109145,
+        "text": "that root 2 could be expressed\nas a ratio of two integers."
+    },
+    {
+        "index": 31,
+        "start_time": 109145,
+        "end_time": 112981,
+        "text": "He labeled these hypothetical integers\np and q."
+    },
+    {
+        "index": 32,
+        "start_time": 112981,
+        "end_time": 116358,
+        "text": "Assuming the ratio was reduced\nto its simplest form,"
+    },
+    {
+        "index": 33,
+        "start_time": 116358,
+        "end_time": 119957,
+        "text": "p and q could not have any common factors."
+    },
+    {
+        "index": 34,
+        "start_time": 119957,
+        "end_time": 122987,
+        "text": "To prove that root 2 was not rational,"
+    },
+    {
+        "index": 35,
+        "start_time": 122987,
+        "end_time": 128074,
+        "text": "Hippasus just had to prove that\np\/q cannot exist."
+    },
+    {
+        "index": 36,
+        "start_time": 128074,
+        "end_time": 131422,
+        "text": "So he multiplied both sides \nof the equation by q"
+    },
+    {
+        "index": 37,
+        "start_time": 131422,
+        "end_time": 133291,
+        "text": "and squared both sides."
+    },
+    {
+        "index": 38,
+        "start_time": 133291,
+        "end_time": 135320,
+        "text": "which gave him this equation."
+    },
+    {
+        "index": 39,
+        "start_time": 135320,
+        "end_time": 139274,
+        "text": "Multiplying any number by 2\nresults in an even number,"
+    },
+    {
+        "index": 40,
+        "start_time": 139274,
+        "end_time": 142332,
+        "text": "so p^2 had to be even."
+    },
+    {
+        "index": 41,
+        "start_time": 142332,
+        "end_time": 144715,
+        "text": "That couldn&#39;t be true if p was odd"
+    },
+    {
+        "index": 42,
+        "start_time": 144715,
+        "end_time": 148154,
+        "text": "because an odd number times itself\nis always odd,"
+    },
+    {
+        "index": 43,
+        "start_time": 148154,
+        "end_time": 150702,
+        "text": "so p was even as well."
+    },
+    {
+        "index": 44,
+        "start_time": 150702,
+        "end_time": 156176,
+        "text": "Thus, p could be expressed as 2a,\nwhere a is an integer."
+    },
+    {
+        "index": 45,
+        "start_time": 156176,
+        "end_time": 159074,
+        "text": "Substituting this into the equation\nand simplifying"
+    },
+    {
+        "index": 46,
+        "start_time": 159074,
+        "end_time": 163248,
+        "text": "gave q^2 = 2a^2"
+    },
+    {
+        "index": 47,
+        "start_time": 163248,
+        "end_time": 167180,
+        "text": "Once again, two times any number\nproduces an even number,"
+    },
+    {
+        "index": 48,
+        "start_time": 167180,
+        "end_time": 169921,
+        "text": "so q^2 must have been even,"
+    },
+    {
+        "index": 49,
+        "start_time": 169921,
+        "end_time": 172012,
+        "text": "and q must have been even as well,"
+    },
+    {
+        "index": 50,
+        "start_time": 172012,
+        "end_time": 174393,
+        "text": "making both p and q even."
+    },
+    {
+        "index": 51,
+        "start_time": 174393,
+        "end_time": 177710,
+        "text": "But if that was true, then they had\na common factor of two,"
+    },
+    {
+        "index": 52,
+        "start_time": 177710,
+        "end_time": 180576,
+        "text": "which contradicted the initial statement,"
+    },
+    {
+        "index": 53,
+        "start_time": 180576,
+        "end_time": 184796,
+        "text": "and that&#39;s how Hippasus concluded\nthat no such ratio exists."
+    },
+    {
+        "index": 54,
+        "start_time": 184796,
+        "end_time": 186756,
+        "text": "That&#39;s called a proof by contradiction,"
+    },
+    {
+        "index": 55,
+        "start_time": 186756,
+        "end_time": 188234,
+        "text": "and according to the legend,"
+    },
+    {
+        "index": 56,
+        "start_time": 188234,
+        "end_time": 191453,
+        "text": "the gods did not appreciate \nbeing contradicted."
+    },
+    {
+        "index": 57,
+        "start_time": 191453,
+        "end_time": 194928,
+        "text": "Interestingly, even though we can&#39;t\nexpress irrational numbers"
+    },
+    {
+        "index": 58,
+        "start_time": 194928,
+        "end_time": 196802,
+        "text": "as ratios of integers,"
+    },
+    {
+        "index": 59,
+        "start_time": 196802,
+        "end_time": 200891,
+        "text": "it is possible to precisely plot\nsome of them on the number line."
+    },
+    {
+        "index": 60,
+        "start_time": 200891,
+        "end_time": 202149,
+        "text": "Take root 2."
+    },
+    {
+        "index": 61,
+        "start_time": 202149,
+        "end_time": 207844,
+        "text": "All we need to do is form a right triangle\nwith two sides each measuring one unit."
+    },
+    {
+        "index": 62,
+        "start_time": 207844,
+        "end_time": 212596,
+        "text": "The hypotenuse has a length of root 2,\nwhich can be extended along the line."
+    },
+    {
+        "index": 63,
+        "start_time": 212596,
+        "end_time": 215144,
+        "text": "We can then form another\nright triangle"
+    },
+    {
+        "index": 64,
+        "start_time": 215144,
+        "end_time": 218491,
+        "text": "with a base of that length\nand a one unit height,"
+    },
+    {
+        "index": 65,
+        "start_time": 218491,
+        "end_time": 221135,
+        "text": "and its hypotenuse would equal\nroot three,"
+    },
+    {
+        "index": 66,
+        "start_time": 221135,
+        "end_time": 223932,
+        "text": "which can be extended \nalong the line, as well."
+    },
+    {
+        "index": 67,
+        "start_time": 223932,
+        "end_time": 228953,
+        "text": "The key here is that decimals and ratios\nare only ways to express numbers."
+    },
+    {
+        "index": 68,
+        "start_time": 228953,
+        "end_time": 232948,
+        "text": "Root 2 simply is the hypotenuse\nof a right triangle"
+    },
+    {
+        "index": 69,
+        "start_time": 232948,
+        "end_time": 234875,
+        "text": "with sides of a length one."
+    },
+    {
+        "index": 70,
+        "start_time": 234875,
+        "end_time": 238259,
+        "text": "Similarly, the famous irrational number pi"
+    },
+    {
+        "index": 71,
+        "start_time": 238259,
+        "end_time": 241128,
+        "text": "is always equal \nto exactly what it represents,"
+    },
+    {
+        "index": 72,
+        "start_time": 241128,
+        "end_time": 244570,
+        "text": "the ratio of a circle&#39;s circumference\nto its diameter."
+    },
+    {
+        "index": 73,
+        "start_time": 244570,
+        "end_time": 247565,
+        "text": "Approximations like 22\/7,"
+    },
+    {
+        "index": 74,
+        "start_time": 247565,
+        "end_time": 253707,
+        "text": "or 355\/113 will never precisely equal pi."
+    },
+    {
+        "index": 75,
+        "start_time": 253707,
+        "end_time": 256218,
+        "text": "We&#39;ll never know what really happened\nto Hippasus,"
+    },
+    {
+        "index": 76,
+        "start_time": 256218,
+        "end_time": 260665,
+        "text": "but what we do know is that his discovery\nrevolutionized mathematics."
+    },
+    {
+        "index": 77,
+        "start_time": 260665,
+        "end_time": 264936,
+        "text": "So whatever the myths may say,\ndon&#39;t be afraid to explore the impossible."
+    }
+]

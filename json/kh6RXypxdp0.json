@@ -1,0 +1,572 @@
+[
+    {
+        "index": 1,
+        "start_time": 940,
+        "end_time": 4160,
+        "text": "I&#39;m a 911 operator, and"
+    },
+    {
+        "index": 2,
+        "start_time": 4620,
+        "end_time": 7120,
+        "text": "I just had the most terrifying call..."
+    },
+    {
+        "index": 3,
+        "start_time": 13880,
+        "end_time": 16000,
+        "text": "Op: 911, what is your emergency?"
+    },
+    {
+        "index": 4,
+        "start_time": 16000,
+        "end_time": 19520,
+        "text": "Yeah, hi, um...This is gonna sound kind of strange."
+    },
+    {
+        "index": 5,
+        "start_time": 19520,
+        "end_time": 24240,
+        "text": "But there&#39;s a man stumbling around\n in circles in my front yard."
+    },
+    {
+        "index": 6,
+        "start_time": 24880,
+        "end_time": 27200,
+        "text": "Op: Could you repeat that, sir?"
+    },
+    {
+        "index": 7,
+        "start_time": 27200,
+        "end_time": 32440,
+        "text": "He looks um...sick, or lost, or drunk, or something."
+    },
+    {
+        "index": 8,
+        "start_time": 32440,
+        "end_time": 35220,
+        "text": "I just woke up to get a glass of water and \nheard snow crunching outside."
+    },
+    {
+        "index": 9,
+        "start_time": 35220,
+        "end_time": 36680,
+        "text": "So I peaked out."
+    },
+    {
+        "index": 10,
+        "start_time": 36940,
+        "end_time": 40980,
+        "text": "I&#39;m looking at him right now.\nHe&#39;s about ten yards away from my window."
+    },
+    {
+        "index": 11,
+        "start_time": 41840,
+        "end_time": 43720,
+        "text": "Something&#39;s not right."
+    },
+    {
+        "index": 12,
+        "start_time": 44060,
+        "end_time": 45760,
+        "text": "Op: And sir, what is your address?"
+    },
+    {
+        "index": 13,
+        "start_time": 45800,
+        "end_time": 49060,
+        "text": "1617 Quarry Lane, in Pinella&#39;s Pass."
+    },
+    {
+        "index": 14,
+        "start_time": 50780,
+        "end_time": 54820,
+        "text": "Op: All right, I&#39;m sending a squad car your way, \nbut that&#39;s quite a ways out."
+    },
+    {
+        "index": 15,
+        "start_time": 54820,
+        "end_time": 56520,
+        "text": "Op: Are you alone in your house, sir?"
+    },
+    {
+        "index": 16,
+        "start_time": 56600,
+        "end_time": 58060,
+        "text": "Yeah, I&#39;m alone"
+    },
+    {
+        "index": 17,
+        "start_time": 58280,
+        "end_time": 61340,
+        "text": "Op: And can you confirm for me that all your doors \nand windows are locked?"
+    },
+    {
+        "index": 18,
+        "start_time": 61340,
+        "end_time": 62800,
+        "text": "Op: Stay on the phone with me please."
+    },
+    {
+        "index": 19,
+        "start_time": 62800,
+        "end_time": 67040,
+        "text": "Well, I know that my front is definitely locked,\nbut I&#39;ll go check the back door again really quick."
+    },
+    {
+        "index": 20,
+        "start_time": 70140,
+        "end_time": 74740,
+        "text": "By the way, I really appreciate this. \nI know this is kinda strange, but I really hope that..."
+    },
+    {
+        "index": 21,
+        "start_time": 76560,
+        "end_time": 79240,
+        "text": "Op: Sir? Are you still there?"
+    },
+    {
+        "index": 22,
+        "start_time": 83120,
+        "end_time": 83940,
+        "text": "He&#39;s..."
+    },
+    {
+        "index": 23,
+        "start_time": 85120,
+        "end_time": 87580,
+        "text": "He&#39;s still in the front yard, but he&#39;s..."
+    },
+    {
+        "index": 24,
+        "start_time": 88740,
+        "end_time": 90320,
+        "text": "What the fuck? He&#39;s..."
+    },
+    {
+        "index": 25,
+        "start_time": 91360,
+        "end_time": 92860,
+        "text": "He&#39;s upside down..."
+    },
+    {
+        "index": 26,
+        "start_time": 94900,
+        "end_time": 95700,
+        "text": "Op: Sir?"
+    },
+    {
+        "index": 27,
+        "start_time": 96220,
+        "end_time": 98220,
+        "text": "Op: Stay on with me, what&#39;s happening?"
+    },
+    {
+        "index": 28,
+        "start_time": 98220,
+        "end_time": 101220,
+        "text": "He&#39;s... he&#39;s staring right at me, but"
+    },
+    {
+        "index": 29,
+        "start_time": 101780,
+        "end_time": 103200,
+        "text": "but he... he&#39;s"
+    },
+    {
+        "index": 30,
+        "start_time": 103200,
+        "end_time": 105520,
+        "text": "Standing on his hands now..."
+    },
+    {
+        "index": 31,
+        "start_time": 106240,
+        "end_time": 107040,
+        "text": "He&#39;s..."
+    },
+    {
+        "index": 32,
+        "start_time": 107800,
+        "end_time": 111160,
+        "text": "Perfectly still, just staring straight at me."
+    },
+    {
+        "index": 33,
+        "start_time": 112220,
+        "end_time": 112780,
+        "text": "He&#39;s"
+    },
+    {
+        "index": 34,
+        "start_time": 113740,
+        "end_time": 116880,
+        "text": "He&#39;s doing a handstand, but he..."
+    },
+    {
+        "index": 35,
+        "start_time": 116880,
+        "end_time": 119320,
+        "text": "smiling at me and he&#39;s not moving."
+    },
+    {
+        "index": 36,
+        "start_time": 121100,
+        "end_time": 124180,
+        "text": "Op: He&#39;s...he&#39;s doing a handstand, sir?"
+    },
+    {
+        "index": 37,
+        "start_time": 125520,
+        "end_time": 127580,
+        "text": "I...I don&#39;t know he..."
+    },
+    {
+        "index": 38,
+        "start_time": 128140,
+        "end_time": 129060,
+        "text": "Yeah"
+    },
+    {
+        "index": 39,
+        "start_time": 129440,
+        "end_time": 132920,
+        "text": "He&#39;s facing me and he&#39;s standing on his hands and..."
+    },
+    {
+        "index": 40,
+        "start_time": 133500,
+        "end_time": 137180,
+        "text": "He&#39;s got this huge fucking smile on his face\nand he&#39;s perfectly still."
+    },
+    {
+        "index": 41,
+        "start_time": 138000,
+        "end_time": 138780,
+        "text": "What..."
+    },
+    {
+        "index": 42,
+        "start_time": 139460,
+        "end_time": 140760,
+        "text": "What the fuck?"
+    },
+    {
+        "index": 43,
+        "start_time": 141660,
+        "end_time": 145080,
+        "text": "Can you please send someone out here now...fast?"
+    },
+    {
+        "index": 44,
+        "start_time": 145500,
+        "end_time": 147840,
+        "text": "Op: Sir, I need you to remain calm."
+    },
+    {
+        "index": 45,
+        "start_time": 147840,
+        "end_time": 150380,
+        "text": "Op: I&#39;ve put out the call and an officer is on his way now."
+    },
+    {
+        "index": 46,
+        "start_time": 152000,
+        "end_time": 154240,
+        "text": "His teeth are so huge..."
+    },
+    {
+        "index": 47,
+        "start_time": 154760,
+        "end_time": 155440,
+        "text": "What-"
+    },
+    {
+        "index": 48,
+        "start_time": 155880,
+        "end_time": 157020,
+        "text": "What the fuck?"
+    },
+    {
+        "index": 49,
+        "start_time": 158320,
+        "end_time": 160480,
+        "text": "Please can you help me?"
+    },
+    {
+        "index": 50,
+        "start_time": 160960,
+        "end_time": 164440,
+        "text": "Op: Sir, I want you to try and calm down \nand keep an eye on him,"
+    },
+    {
+        "index": 51,
+        "start_time": 164440,
+        "end_time": 167280,
+        "text": "but make sure your back door&#39;s locked again."
+    },
+    {
+        "index": 52,
+        "start_time": 167520,
+        "end_time": 170560,
+        "text": "Op: We need to make sure \nall possible access points are secured."
+    },
+    {
+        "index": 53,
+        "start_time": 171000,
+        "end_time": 173900,
+        "text": "Op: Can you talk me through and\nconfirm that your back doors locked?"
+    },
+    {
+        "index": 54,
+        "start_time": 175180,
+        "end_time": 179840,
+        "text": "Okay, um... I&#39;m walking backwards now,\nand I&#39;m keeping my eye on him"
+    },
+    {
+        "index": 55,
+        "start_time": 183160,
+        "end_time": 185800,
+        "text": "Okay, my hand is on the doorknob now."
+    },
+    {
+        "index": 56,
+        "start_time": 186580,
+        "end_time": 187800,
+        "text": "It&#39;s locked."
+    },
+    {
+        "index": 57,
+        "start_time": 188240,
+        "end_time": 189160,
+        "text": "Okay..."
+    },
+    {
+        "index": 58,
+        "start_time": 189840,
+        "end_time": 194040,
+        "text": "I gotta check my deadbolt now \nso I gotta take my eyes off of him just for a second."
+    },
+    {
+        "index": 59,
+        "start_time": 194220,
+        "end_time": 198360,
+        "text": "Op: Alright sir. Help is on the way. Just stay on the phone\nwith me, everything&#39;s gonna be alright."
+    },
+    {
+        "index": 60,
+        "start_time": 201140,
+        "end_time": 201640,
+        "text": "*gasp*"
+    },
+    {
+        "index": 61,
+        "start_time": 202580,
+        "end_time": 203400,
+        "text": "Op: Sir?"
+    },
+    {
+        "index": 62,
+        "start_time": 206520,
+        "end_time": 207980,
+        "text": "Op: Sir? Are you still there?"
+    },
+    {
+        "index": 63,
+        "start_time": 208800,
+        "end_time": 209400,
+        "text": "He&#39;s..."
+    },
+    {
+        "index": 64,
+        "start_time": 210860,
+        "end_time": 212700,
+        "text": "His face, it&#39;s..."
+    },
+    {
+        "index": 65,
+        "start_time": 213460,
+        "end_time": 215140,
+        "text": "It&#39;s up against my window."
+    },
+    {
+        "index": 66,
+        "start_time": 216200,
+        "end_time": 219200,
+        "text": "Op: Sir, I need you to speak up. What&#39;s happening?"
+    },
+    {
+        "index": 67,
+        "start_time": 219460,
+        "end_time": 220380,
+        "text": "I- ah- I..."
+    },
+    {
+        "index": 68,
+        "start_time": 220700,
+        "end_time": 223260,
+        "text": "I looked away for a split second and now he&#39;s..."
+    },
+    {
+        "index": 69,
+        "start_time": 224320,
+        "end_time": 227680,
+        "text": "He put his face against my front window..."
+    },
+    {
+        "index": 70,
+        "start_time": 229660,
+        "end_time": 232980,
+        "text": "His teeth are so huge..."
+    },
+    {
+        "index": 71,
+        "start_time": 234060,
+        "end_time": 235880,
+        "text": "And he&#39;s still smiling."
+    },
+    {
+        "index": 72,
+        "start_time": 237240,
+        "end_time": 239680,
+        "text": "He&#39;s got no color in his eyes..."
+    },
+    {
+        "index": 73,
+        "start_time": 241920,
+        "end_time": 243420,
+        "text": "Jesus help me..."
+    },
+    {
+        "index": 74,
+        "start_time": 245920,
+        "end_time": 247820,
+        "text": "Why won&#39;t you fucking move!?"
+    },
+    {
+        "index": 75,
+        "start_time": 247820,
+        "end_time": 252060,
+        "text": "Op: Sir, I need you to go to the nearest bedroom\nor basement and lock yourself inside of it."
+    },
+    {
+        "index": 76,
+        "start_time": 252060,
+        "end_time": 254040,
+        "text": "Op: Do you have a place like that you can go?"
+    },
+    {
+        "index": 77,
+        "start_time": 255140,
+        "end_time": 257140,
+        "text": "He won&#39;t stop staring at me!"
+    },
+    {
+        "index": 78,
+        "start_time": 258380,
+        "end_time": 260040,
+        "text": "He&#39;s gonna hurt me...!"
+    },
+    {
+        "index": 79,
+        "start_time": 260040,
+        "end_time": 261880,
+        "text": "Op: Sir, I need you listen to me."
+    },
+    {
+        "index": 80,
+        "start_time": 261880,
+        "end_time": 265520,
+        "text": "Op: Lock yourself somewhere safe\nuntil the officer arrives at your house."
+    },
+    {
+        "index": 81,
+        "start_time": 265640,
+        "end_time": 267140,
+        "text": "Op: Can you understand me?"
+    },
+    {
+        "index": 82,
+        "start_time": 268020,
+        "end_time": 269800,
+        "text": "Yeah, yeah, yeah... I&#39;m..."
+    },
+    {
+        "index": 83,
+        "start_time": 270300,
+        "end_time": 272960,
+        "text": "I&#39;m gonna lock myself in my room."
+    },
+    {
+        "index": 84,
+        "start_time": 273060,
+        "end_time": 276460,
+        "text": "Op: And you&#39;re absolutely positive  you&#39;re alone in your house, correct?"
+    },
+    {
+        "index": 85,
+        "start_time": 276720,
+        "end_time": 278720,
+        "text": "Yes, I&#39;m alone in the house...!"
+    },
+    {
+        "index": 86,
+        "start_time": 279960,
+        "end_time": 281000,
+        "text": "Wait a minute..."
+    },
+    {
+        "index": 87,
+        "start_time": 284520,
+        "end_time": 285640,
+        "text": "He&#39;s moving."
+    },
+    {
+        "index": 88,
+        "start_time": 288180,
+        "end_time": 289600,
+        "text": "He&#39;s shaking his head."
+    },
+    {
+        "index": 89,
+        "start_time": 292340,
+        "end_time": 293840,
+        "text": "He&#39;s telling me no."
+    },
+    {
+        "index": 90,
+        "start_time": 294920,
+        "end_time": 296320,
+        "text": "He can hear us..."
+    },
+    {
+        "index": 91,
+        "start_time": 299560,
+        "end_time": 301260,
+        "text": "He&#39;s telling me I&#39;m not alone!!"
+    },
+    {
+        "index": 92,
+        "start_time": 307720,
+        "end_time": 308660,
+        "text": "Op: Sir...?"
+    },
+    {
+        "index": 93,
+        "start_time": 311700,
+        "end_time": 314020,
+        "text": "Op: Si- sir are you still there?"
+    },
+    {
+        "index": 94,
+        "start_time": 314520,
+        "end_time": 316900,
+        "text": "Op: Sir? I heard a loud noise,\nis everything all right?"
+    },
+    {
+        "index": 95,
+        "start_time": 320860,
+        "end_time": 322020,
+        "text": "Op: Sir...?"
+    }
+]

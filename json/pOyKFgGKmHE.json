@@ -1,0 +1,434 @@
+[
+    {
+        "index": 1,
+        "start_time": 9675,
+        "end_time": 11925,
+        "text": "Cancer is like a car crash."
+    },
+    {
+        "index": 2,
+        "start_time": 11925,
+        "end_time": 13333,
+        "text": "Your body typically regulates"
+    },
+    {
+        "index": 3,
+        "start_time": 13333,
+        "end_time": 15357,
+        "text": "the speed at which your cells divide,"
+    },
+    {
+        "index": 4,
+        "start_time": 15357,
+        "end_time": 18508,
+        "text": "but sometimes, cancer cuts the brake lines,"
+    },
+    {
+        "index": 5,
+        "start_time": 18508,
+        "end_time": 20675,
+        "text": "and your cells divide too quickly,"
+    },
+    {
+        "index": 6,
+        "start_time": 20675,
+        "end_time": 22636,
+        "text": "accumulating mutations that cause them"
+    },
+    {
+        "index": 7,
+        "start_time": 22636,
+        "end_time": 24888,
+        "text": "to veer away from their original function,"
+    },
+    {
+        "index": 8,
+        "start_time": 24888,
+        "end_time": 26471,
+        "text": "form dangerous tumors,"
+    },
+    {
+        "index": 9,
+        "start_time": 26471,
+        "end_time": 28758,
+        "text": "and land you in the hospital."
+    },
+    {
+        "index": 10,
+        "start_time": 28758,
+        "end_time": 30758,
+        "text": "Cancer is basically an inability of the body"
+    },
+    {
+        "index": 11,
+        "start_time": 30758,
+        "end_time": 33425,
+        "text": "to control the speed at which cells divide."
+    },
+    {
+        "index": 12,
+        "start_time": 33425,
+        "end_time": 35147,
+        "text": "When cells divide too quickly,"
+    },
+    {
+        "index": 13,
+        "start_time": 35147,
+        "end_time": 37233,
+        "text": "they can often accumulate mutations"
+    },
+    {
+        "index": 14,
+        "start_time": 37233,
+        "end_time": 40320,
+        "text": "that cause them to ignore their original function in the body,"
+    },
+    {
+        "index": 15,
+        "start_time": 40320,
+        "end_time": 42071,
+        "text": "forming tumors."
+    },
+    {
+        "index": 16,
+        "start_time": 42071,
+        "end_time": 44116,
+        "text": "In turn, these tumors may interfere"
+    },
+    {
+        "index": 17,
+        "start_time": 44116,
+        "end_time": 47008,
+        "text": "with the natural processes of the body,"
+    },
+    {
+        "index": 18,
+        "start_time": 47008,
+        "end_time": 49092,
+        "text": "such as digestion and respiration,"
+    },
+    {
+        "index": 19,
+        "start_time": 49092,
+        "end_time": 51092,
+        "text": "potentially leading to death."
+    },
+    {
+        "index": 20,
+        "start_time": 51092,
+        "end_time": 54083,
+        "text": "Typically, your body has a number of genetic mechanisms"
+    },
+    {
+        "index": 21,
+        "start_time": 54083,
+        "end_time": 56334,
+        "text": "to control how fast your cells divide."
+    },
+    {
+        "index": 22,
+        "start_time": 56334,
+        "end_time": 59378,
+        "text": "One of these genes is BRCA1,"
+    },
+    {
+        "index": 23,
+        "start_time": 59378,
+        "end_time": 63135,
+        "text": "which stands for breast cancer susceptibility gene 1."
+    },
+    {
+        "index": 24,
+        "start_time": 63135,
+        "end_time": 65841,
+        "text": "BRCA1 belongs to a class of genes"
+    },
+    {
+        "index": 25,
+        "start_time": 65841,
+        "end_time": 68472,
+        "text": "called tumor suppressor genes."
+    },
+    {
+        "index": 26,
+        "start_time": 68472,
+        "end_time": 70142,
+        "text": "Tumor suppressor genes are involved"
+    },
+    {
+        "index": 27,
+        "start_time": 70142,
+        "end_time": 73569,
+        "text": "in regulating how fast a cell divides."
+    },
+    {
+        "index": 28,
+        "start_time": 73569,
+        "end_time": 76341,
+        "text": "Normally, cell division follows an orderly process"
+    },
+    {
+        "index": 29,
+        "start_time": 76341,
+        "end_time": 77816,
+        "text": "called the cell cycle,"
+    },
+    {
+        "index": 30,
+        "start_time": 77816,
+        "end_time": 80110,
+        "text": "which is basically the life cycle of a cell."
+    },
+    {
+        "index": 31,
+        "start_time": 80110,
+        "end_time": 81759,
+        "text": "Within the cell cycle"
+    },
+    {
+        "index": 32,
+        "start_time": 81759,
+        "end_time": 83447,
+        "text": "is a series of checkpoints,"
+    },
+    {
+        "index": 33,
+        "start_time": 83447,
+        "end_time": 86364,
+        "text": "where proteins, such as the one produced by BRCA1,"
+    },
+    {
+        "index": 34,
+        "start_time": 86364,
+        "end_time": 89341,
+        "text": "regulate how fast the cell may proceed."
+    },
+    {
+        "index": 35,
+        "start_time": 89341,
+        "end_time": 91120,
+        "text": "How does it do this?"
+    },
+    {
+        "index": 36,
+        "start_time": 91120,
+        "end_time": 95759,
+        "text": "BRCA1 helps repair some forms of mutation in your DNA."
+    },
+    {
+        "index": 37,
+        "start_time": 95759,
+        "end_time": 97376,
+        "text": "If your DNA is damaged,"
+    },
+    {
+        "index": 38,
+        "start_time": 97376,
+        "end_time": 100010,
+        "text": "BRCA1 keeps the cell from dividing"
+    },
+    {
+        "index": 39,
+        "start_time": 100010,
+        "end_time": 101679,
+        "text": "until the mutation is repaired."
+    },
+    {
+        "index": 40,
+        "start_time": 101679,
+        "end_time": 104842,
+        "text": "You have two copies of the BRCA1 gene"
+    },
+    {
+        "index": 41,
+        "start_time": 104842,
+        "end_time": 106303,
+        "text": "in every cell of your body."
+    },
+    {
+        "index": 42,
+        "start_time": 106303,
+        "end_time": 108424,
+        "text": "One copy you inherited from Mom,"
+    },
+    {
+        "index": 43,
+        "start_time": 108424,
+        "end_time": 109973,
+        "text": "the other from Dad."
+    },
+    {
+        "index": 44,
+        "start_time": 109973,
+        "end_time": 112009,
+        "text": "This redundancy is a good a thing"
+    },
+    {
+        "index": 45,
+        "start_time": 112009,
+        "end_time": 115976,
+        "text": "because you only need one functioning BRCA1 gene in a cell"
+    },
+    {
+        "index": 46,
+        "start_time": 115976,
+        "end_time": 121400,
+        "text": "to regulate the cell cycle."
+    },
+    {
+        "index": 47,
+        "start_time": 121400,
+        "end_time": 123009,
+        "text": "But it&#39;s important to note"
+    },
+    {
+        "index": 48,
+        "start_time": 123009,
+        "end_time": 125113,
+        "text": "that while these copies have a similar function"
+    },
+    {
+        "index": 49,
+        "start_time": 125113,
+        "end_time": 127281,
+        "text": "they&#39;re not necessarily the same."
+    },
+    {
+        "index": 50,
+        "start_time": 127281,
+        "end_time": 129282,
+        "text": "In fact, there are hundreds of variations,"
+    },
+    {
+        "index": 51,
+        "start_time": 129282,
+        "end_time": 131591,
+        "text": "or alleles, of BRCA1."
+    },
+    {
+        "index": 52,
+        "start_time": 131591,
+        "end_time": 135289,
+        "text": "Some regulate the cell cycle more effectively than others."
+    },
+    {
+        "index": 53,
+        "start_time": 135289,
+        "end_time": 136540,
+        "text": "In other words,"
+    },
+    {
+        "index": 54,
+        "start_time": 136540,
+        "end_time": 137792,
+        "text": "some people are born"
+    },
+    {
+        "index": 55,
+        "start_time": 137792,
+        "end_time": 140592,
+        "text": "with better regulating and repair mechanisms than others."
+    },
+    {
+        "index": 56,
+        "start_time": 140592,
+        "end_time": 145468,
+        "text": "And in some cases, mutations may render BRCA1 ineffective."
+    },
+    {
+        "index": 57,
+        "start_time": 145468,
+        "end_time": 147050,
+        "text": "When this happens,"
+    },
+    {
+        "index": 58,
+        "start_time": 147050,
+        "end_time": 150138,
+        "text": "cells with damaged DNA are allowed to divide."
+    },
+    {
+        "index": 59,
+        "start_time": 150138,
+        "end_time": 151425,
+        "text": "As they divide,"
+    },
+    {
+        "index": 60,
+        "start_time": 151425,
+        "end_time": 154174,
+        "text": "these cells may accumulate additional mutations."
+    },
+    {
+        "index": 61,
+        "start_time": 154174,
+        "end_time": 155809,
+        "text": "These mutations may cause the cell"
+    },
+    {
+        "index": 62,
+        "start_time": 155809,
+        "end_time": 157478,
+        "text": "to become less specialized"
+    },
+    {
+        "index": 63,
+        "start_time": 157478,
+        "end_time": 160758,
+        "text": "and stop performing its original function in the tissue."
+    },
+    {
+        "index": 64,
+        "start_time": 160758,
+        "end_time": 163066,
+        "text": "If this occurs, then there&#39;s a greater chance"
+    },
+    {
+        "index": 65,
+        "start_time": 163066,
+        "end_time": 165758,
+        "text": "they&#39;ll develop into cancer cells."
+    },
+    {
+        "index": 66,
+        "start_time": 165758,
+        "end_time": 169614,
+        "text": "While we all have the gene, such as BRCA1, that can cause cancer,"
+    },
+    {
+        "index": 67,
+        "start_time": 169614,
+        "end_time": 172325,
+        "text": "it&#39;s only when these genes fail at their function"
+    },
+    {
+        "index": 68,
+        "start_time": 172325,
+        "end_time": 174175,
+        "text": "that problems develop."
+    },
+    {
+        "index": 69,
+        "start_time": 174175,
+        "end_time": 177207,
+        "text": "Having an ineffective or mutated version of BRCA1"
+    },
+    {
+        "index": 70,
+        "start_time": 177207,
+        "end_time": 179679,
+        "text": "can increase your susceptibility to cancer,"
+    },
+    {
+        "index": 71,
+        "start_time": 179679,
+        "end_time": 181795,
+        "text": "much like driving with bad brakes"
+    },
+    {
+        "index": 72,
+        "start_time": 181795,
+        "end_time": 183629,
+        "text": "increases the risk of an accident."
+    }
+]

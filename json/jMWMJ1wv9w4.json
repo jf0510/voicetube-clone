@@ -1,0 +1,164 @@
+[
+  {
+    "end_time": 10769,
+    "index": 1,
+    "start_time": 7000,
+    "text": "We are interested in animal locomotion and would like to make robots to study"
+  },
+  {
+    "end_time": 14910,
+    "index": 2,
+    "start_time": 10769,
+    "text": "animal locomotion. Because animal locomotion is a very interesting interplay between the"
+  },
+  {
+    "end_time": 19198,
+    "index": 3,
+    "start_time": 14910,
+    "text": "body, the spinal cord and the environment. \nBut to understand this interaction, we"
+  },
+  {
+    "end_time": 22500,
+    "index": 4,
+    "start_time": 19200,
+    "text": "really need a body and that&#39;s where\nthe robot is a key tool. So we designed a"
+  },
+  {
+    "end_time": 25830,
+    "index": 5,
+    "start_time": 22500,
+    "text": "salamander robot that very closely\nmimics the real motion of the real"
+  },
+  {
+    "end_time": 28619,
+    "index": 6,
+    "start_time": 25830,
+    "text": "salamander, and it can both walk and\nswim"
+  },
+  {
+    "end_time": 32668,
+    "index": 7,
+    "start_time": 28619,
+    "text": "exactly like the real salamander. It&#39;s a\nvery old animal, it&#39;s an amphibian and"
+  },
+  {
+    "end_time": 36029,
+    "index": 8,
+    "start_time": 32668,
+    "text": "it&#39;s almost a living fossil of the\nfirst terrestrial vertebrates,"
+  },
+  {
+    "end_time": 40020,
+    "index": 9,
+    "start_time": 36030,
+    "text": "so the ancestor of vertebrates like us,\nmammals. So by studying the salamander we"
+  },
+  {
+    "end_time": 44489,
+    "index": 10,
+    "start_time": 40020,
+    "text": "can study this key moment in evolution,\nthe switch from swimming to walking,"
+  },
+  {
+    "end_time": 46000,
+    "index": 11,
+    "start_time": 44489,
+    "text": "and especially how the spinal cord has"
+  },
+  {
+    "end_time": 48989,
+    "index": 12,
+    "start_time": 46100,
+    "text": "reorganized itself to allow a new mode of locomotion."
+  },
+  {
+    "end_time": 52529,
+    "index": 13,
+    "start_time": 48989,
+    "text": "So the novelty of this work is really\nthe approach we took two to try to be"
+  },
+  {
+    "end_time": 55700,
+    "index": 14,
+    "start_time": 52530,
+    "text": "as close as possible to the real physics\nof the body."
+  },
+  {
+    "end_time": 58770,
+    "index": 15,
+    "start_time": 56000,
+    "text": "The species is called Pleurodeles.  We looked at detailed"
+  },
+  {
+    "end_time": 63899,
+    "index": 16,
+    "start_time": 58770,
+    "text": "x-ray recordings from the animals so we\ncould track the bones in 3d space and"
+  },
+  {
+    "end_time": 68070,
+    "index": 17,
+    "start_time": 63899,
+    "text": "that enabled us to create a very\ndetailed model of the movements of the"
+  },
+  {
+    "end_time": 70289,
+    "index": 18,
+    "start_time": 68070,
+    "text": "bones of the animal."
+  },
+  {
+    "end_time": 74100,
+    "index": 19,
+    "start_time": 70290,
+    "text": "Neurobiologists have shown that if you\nelectrically stimulate the spinal cord,"
+  },
+  {
+    "end_time": 78960,
+    "index": 20,
+    "start_time": 74100,
+    "text": "at low level of stimulation, it will induce a\nwalking like gait. If you stimulate a bit"
+  },
+  {
+    "end_time": 82890,
+    "index": 21,
+    "start_time": 78960,
+    "text": "more, this gate accelerates, and at some\npoint there&#39;s a threshold and it switches to"
+  },
+  {
+    "end_time": 87119,
+    "index": 22,
+    "start_time": 82890,
+    "text": "swimming so just changing the global\ndrive that the brain sends to the spinal"
+  },
+  {
+    "end_time": 90299,
+    "index": 23,
+    "start_time": 87119,
+    "text": "cord makes a complete switch between\ndifferent modes of the locomotion."
+  },
+  {
+    "end_time": 93360,
+    "index": 24,
+    "start_time": 90299,
+    "text": "So understanding this is very important,\nfor instance, for neuroprosthetics."
+  },
+  {
+    "end_time": 98400,
+    "index": 25,
+    "start_time": 93360,
+    "text": "Being able to re-stimulate those\ncircuits in humans in the long term is"
+  },
+  {
+    "end_time": 101520,
+    "index": 26,
+    "start_time": 98400,
+    "text": "something very important and for that\nyou need to understand how the spinal"
+  },
+  {
+    "end_time": 102119,
+    "index": 27,
+    "start_time": 101520,
+    "text": "cord works."
+  }
+]

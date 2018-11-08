@@ -1,0 +1,422 @@
+[
+    {
+        "index": 1,
+        "start_time": 7826,
+        "end_time": 12131,
+        "text": "Just now, somewhere in the universe,\na star exploded."
+    },
+    {
+        "index": 2,
+        "start_time": 12131,
+        "end_time": 14520,
+        "text": "There goes another one."
+    },
+    {
+        "index": 3,
+        "start_time": 14520,
+        "end_time": 20694,
+        "text": "In fact, a supernova occurs every second\nor so in the observable universe,"
+    },
+    {
+        "index": 4,
+        "start_time": 20694,
+        "end_time": 23771,
+        "text": "and there is one on average\nevery 25 to 50 years"
+    },
+    {
+        "index": 5,
+        "start_time": 23771,
+        "end_time": 28106,
+        "text": "in a galaxy the size \nand age of the Milky Way."
+    },
+    {
+        "index": 6,
+        "start_time": 28106,
+        "end_time": 31351,
+        "text": "Yet we&#39;ve never actually been able\nto watch one happen"
+    },
+    {
+        "index": 7,
+        "start_time": 31351,
+        "end_time": 34784,
+        "text": "from its first violent moments."
+    },
+    {
+        "index": 8,
+        "start_time": 34784,
+        "end_time": 37104,
+        "text": "Of course, how would we?"
+    },
+    {
+        "index": 9,
+        "start_time": 37104,
+        "end_time": 39604,
+        "text": "There are hundreds of billions\nof stars close enough"
+    },
+    {
+        "index": 10,
+        "start_time": 39604,
+        "end_time": 42171,
+        "text": "that we could watch \nthe supernova explosion"
+    },
+    {
+        "index": 11,
+        "start_time": 42171,
+        "end_time": 44486,
+        "text": "break through the surface of the star."
+    },
+    {
+        "index": 12,
+        "start_time": 44486,
+        "end_time": 48274,
+        "text": "But we&#39;d have to have our best telescopes\nfocused on the right one"
+    },
+    {
+        "index": 13,
+        "start_time": 48274,
+        "end_time": 52066,
+        "text": "at precisely the right time\nto get meaningful data."
+    },
+    {
+        "index": 14,
+        "start_time": 52066,
+        "end_time": 57171,
+        "text": "Suffice it to say, the odds of that\nhappening are astronomically low."
+    },
+    {
+        "index": 15,
+        "start_time": 57171,
+        "end_time": 61886,
+        "text": "But what if we could anticipate \na supernova before its light reached us?"
+    },
+    {
+        "index": 16,
+        "start_time": 61886,
+        "end_time": 63622,
+        "text": "That may seem impossible."
+    },
+    {
+        "index": 17,
+        "start_time": 63622,
+        "end_time": 67573,
+        "text": "After all, nothing travels faster\nthan the speed of light, right?"
+    },
+    {
+        "index": 18,
+        "start_time": 67573,
+        "end_time": 70134,
+        "text": "As far as we know, yes."
+    },
+    {
+        "index": 19,
+        "start_time": 70134,
+        "end_time": 73740,
+        "text": "But in a race, fast doesn&#39;t matter\nif you take a detour"
+    },
+    {
+        "index": 20,
+        "start_time": 73740,
+        "end_time": 77300,
+        "text": "while someone else beelines it\nfor the finish line."
+    },
+    {
+        "index": 21,
+        "start_time": 77300,
+        "end_time": 79088,
+        "text": "For exactly that reason,"
+    },
+    {
+        "index": 22,
+        "start_time": 79088,
+        "end_time": 82307,
+        "text": "photons don&#39;t win \nthe supernova race to Earth."
+    },
+    {
+        "index": 23,
+        "start_time": 82307,
+        "end_time": 85162,
+        "text": "Neutrinos do."
+    },
+    {
+        "index": 24,
+        "start_time": 85162,
+        "end_time": 86665,
+        "text": "Here&#39;s why."
+    },
+    {
+        "index": 25,
+        "start_time": 86665,
+        "end_time": 89234,
+        "text": "There are two types of supernova."
+    },
+    {
+        "index": 26,
+        "start_time": 89234,
+        "end_time": 94148,
+        "text": "Type 1 is when a star accumulates\nso much matter from a neighboring star,"
+    },
+    {
+        "index": 27,
+        "start_time": 94148,
+        "end_time": 100985,
+        "text": "that a runaway nuclear reaction ignites\nand causes it to explode."
+    },
+    {
+        "index": 28,
+        "start_time": 100985,
+        "end_time": 104745,
+        "text": "In type 2, the star runs out \nof nuclear fuel,"
+    },
+    {
+        "index": 29,
+        "start_time": 104745,
+        "end_time": 107346,
+        "text": "so the gravitational forces pulling in"
+    },
+    {
+        "index": 30,
+        "start_time": 107346,
+        "end_time": 111905,
+        "text": "overwhelm the quantum mechanical \nforces pushing out,"
+    },
+    {
+        "index": 31,
+        "start_time": 111905,
+        "end_time": 117687,
+        "text": "and the stellar core collapses under\nits own weight in a hundredth of a second."
+    },
+    {
+        "index": 32,
+        "start_time": 117687,
+        "end_time": 121569,
+        "text": "While the outer reaches of the star\nare unaffected by the collapsed core,"
+    },
+    {
+        "index": 33,
+        "start_time": 121569,
+        "end_time": 124459,
+        "text": "the inner edges accelerate \nthrough the void,"
+    },
+    {
+        "index": 34,
+        "start_time": 124459,
+        "end_time": 130462,
+        "text": "smash into the core,\nand rebound to launch the explosion."
+    },
+    {
+        "index": 35,
+        "start_time": 130462,
+        "end_time": 132234,
+        "text": "In both of these scenarios,"
+    },
+    {
+        "index": 36,
+        "start_time": 132234,
+        "end_time": 136184,
+        "text": "the star expels an unparalleled\namount of energy,"
+    },
+    {
+        "index": 37,
+        "start_time": 136184,
+        "end_time": 138528,
+        "text": "as well as a great deal of matter."
+    },
+    {
+        "index": 38,
+        "start_time": 138528,
+        "end_time": 144433,
+        "text": "In fact, all atoms heavier than nickel,\nincluding elements like gold and silver,"
+    },
+    {
+        "index": 39,
+        "start_time": 144433,
+        "end_time": 148519,
+        "text": "only form in supernova reactions."
+    },
+    {
+        "index": 40,
+        "start_time": 148519,
+        "end_time": 150314,
+        "text": "In type 2 supernovae,"
+    },
+    {
+        "index": 41,
+        "start_time": 150314,
+        "end_time": 153207,
+        "text": "about 1% of the energy \nconsists of photons,"
+    },
+    {
+        "index": 42,
+        "start_time": 153207,
+        "end_time": 155353,
+        "text": "which we know of as light,"
+    },
+    {
+        "index": 43,
+        "start_time": 155353,
+        "end_time": 159501,
+        "text": "while 99% radiates out as neutrinos,"
+    },
+    {
+        "index": 44,
+        "start_time": 159501,
+        "end_time": 164961,
+        "text": "the elementary particles that are known\nfor rarely interacting with anything."
+    },
+    {
+        "index": 45,
+        "start_time": 164961,
+        "end_time": 166993,
+        "text": "Starting from the center of the star,"
+    },
+    {
+        "index": 46,
+        "start_time": 166993,
+        "end_time": 170710,
+        "text": "the exploding matter takes \ntens of minutes, or even hours,"
+    },
+    {
+        "index": 47,
+        "start_time": 170710,
+        "end_time": 178067,
+        "text": "or in rare cases, several days, to reach\nand break through the surface of the star."
+    },
+    {
+        "index": 48,
+        "start_time": 178067,
+        "end_time": 182073,
+        "text": "However, the neutrinos, \nthanks to their non-interactivity,"
+    },
+    {
+        "index": 49,
+        "start_time": 182073,
+        "end_time": 184423,
+        "text": "take a much more direct route."
+    },
+    {
+        "index": 50,
+        "start_time": 184423,
+        "end_time": 188179,
+        "text": "By the time there is any visible change\nin the star&#39;s suface,"
+    },
+    {
+        "index": 51,
+        "start_time": 188179,
+        "end_time": 193091,
+        "text": "the neutrinos typically have a several\nhour head start over the photons."
+    },
+    {
+        "index": 52,
+        "start_time": 193091,
+        "end_time": 194926,
+        "text": "That&#39;s why astronomers and physicists"
+    },
+    {
+        "index": 53,
+        "start_time": 194926,
+        "end_time": 198580,
+        "text": "have been able to set up a project\ncalled SNEWS,"
+    },
+    {
+        "index": 54,
+        "start_time": 198580,
+        "end_time": 202313,
+        "text": "the Supernova Early Warning System."
+    },
+    {
+        "index": 55,
+        "start_time": 202313,
+        "end_time": 205839,
+        "text": "When detectors around the world\npick up bursts of neutrinos,"
+    },
+    {
+        "index": 56,
+        "start_time": 205839,
+        "end_time": 209538,
+        "text": "they send messages \nto a central computer in New York."
+    },
+    {
+        "index": 57,
+        "start_time": 209538,
+        "end_time": 213423,
+        "text": "If multiple detectors receive \nsimilar signals within ten seconds,"
+    },
+    {
+        "index": 58,
+        "start_time": 213423,
+        "end_time": 217729,
+        "text": "SNEWS will trigger an alert warning\nthat a supernova is imminent."
+    },
+    {
+        "index": 59,
+        "start_time": 217729,
+        "end_time": 221876,
+        "text": "Aided by some distance and direction\ninformation from the neutrino detectors,"
+    },
+    {
+        "index": 60,
+        "start_time": 221876,
+        "end_time": 224640,
+        "text": "the amateur astronomers \nand scientists alike"
+    },
+    {
+        "index": 61,
+        "start_time": 224640,
+        "end_time": 227361,
+        "text": "will scan the skies and share information"
+    },
+    {
+        "index": 62,
+        "start_time": 227361,
+        "end_time": 230680,
+        "text": "to quickly identify \nthe new galactic supernova"
+    },
+    {
+        "index": 63,
+        "start_time": 230680,
+        "end_time": 235395,
+        "text": "and turn the world&#39;s major \ntelescopes in that direction."
+    },
+    {
+        "index": 64,
+        "start_time": 235395,
+        "end_time": 241019,
+        "text": "The last supernova that sent detectable\nneutrinos to Earth was in 1987"
+    },
+    {
+        "index": 65,
+        "start_time": 241019,
+        "end_time": 243295,
+        "text": "on the edge of the Tarantula Nebula"
+    },
+    {
+        "index": 66,
+        "start_time": 243295,
+        "end_time": 247206,
+        "text": "in the large Magellanic Cloud,\na nearby galaxy."
+    },
+    {
+        "index": 67,
+        "start_time": 247206,
+        "end_time": 252699,
+        "text": "Its neutrinos reached Earth about\nthree hours ahead of the visible light."
+    },
+    {
+        "index": 68,
+        "start_time": 252699,
+        "end_time": 255917,
+        "text": "We&#39;re due for another one any day now,\nand when that happens,"
+    },
+    {
+        "index": 69,
+        "start_time": 255917,
+        "end_time": 261305,
+        "text": "SNEWS should give you the opportunity\nto be among the first to witness something"
+    },
+    {
+        "index": 70,
+        "start_time": 261305,
+        "end_time": 265193,
+        "text": "that no human has ever seen before."
+    }
+]

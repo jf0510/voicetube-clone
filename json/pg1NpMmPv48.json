@@ -1,0 +1,464 @@
+[
+    {
+        "index": 1,
+        "start_time": 6804,
+        "end_time": 10722,
+        "text": "In Islamic culture, \ngeometry is everywhere."
+    },
+    {
+        "index": 2,
+        "start_time": 10722,
+        "end_time": 16294,
+        "text": "You can find it in mosques,\nmadrasas, palaces and private homes."
+    },
+    {
+        "index": 3,
+        "start_time": 16294,
+        "end_time": 22141,
+        "text": "This tradition began in the 8th century CE\nduring the early history of Islam,"
+    },
+    {
+        "index": 4,
+        "start_time": 22141,
+        "end_time": 26710,
+        "text": "when craftsmen took preexisting motifs\nfrom Roman and Persian cultures"
+    },
+    {
+        "index": 5,
+        "start_time": 26710,
+        "end_time": 31208,
+        "text": "and developed them into new forms\nof visual expression."
+    },
+    {
+        "index": 6,
+        "start_time": 31208,
+        "end_time": 35159,
+        "text": "This period of history was a golden age\nof Islamic culture,"
+    },
+    {
+        "index": 7,
+        "start_time": 35159,
+        "end_time": 38044,
+        "text": "during which many achievements \nof previous civilizations"
+    },
+    {
+        "index": 8,
+        "start_time": 38044,
+        "end_time": 40740,
+        "text": "were preserved and further developed,"
+    },
+    {
+        "index": 9,
+        "start_time": 40740,
+        "end_time": 46522,
+        "text": "resulting in fundamental advancements\nin scientific study and mathematics."
+    },
+    {
+        "index": 10,
+        "start_time": 46522,
+        "end_time": 50860,
+        "text": "Accompanying this was an increasingly\nsophisticated use of abstraction"
+    },
+    {
+        "index": 11,
+        "start_time": 50860,
+        "end_time": 53979,
+        "text": "and complex geometry in Islamic art,"
+    },
+    {
+        "index": 12,
+        "start_time": 53979,
+        "end_time": 57740,
+        "text": "from intricate floral motifs\nadorning carpets and textiles,"
+    },
+    {
+        "index": 13,
+        "start_time": 57740,
+        "end_time": 61887,
+        "text": "to patterns of tilework that seemed\nto repeat infinitely,"
+    },
+    {
+        "index": 14,
+        "start_time": 61887,
+        "end_time": 66340,
+        "text": "inspiring wonder \nand contemplation of eternal order."
+    },
+    {
+        "index": 15,
+        "start_time": 66340,
+        "end_time": 69135,
+        "text": "Despite the remarkable complexity\nof these designs,"
+    },
+    {
+        "index": 16,
+        "start_time": 69135,
+        "end_time": 72380,
+        "text": "they can be created \nwith just a compass to draw circles"
+    },
+    {
+        "index": 17,
+        "start_time": 72380,
+        "end_time": 74953,
+        "text": "and a ruler to make lines within them."
+    },
+    {
+        "index": 18,
+        "start_time": 74953,
+        "end_time": 80936,
+        "text": "And from these simple tools emerges \na kaleidoscope multiplicity of patterns."
+    },
+    {
+        "index": 19,
+        "start_time": 80936,
+        "end_time": 82746,
+        "text": "So how does that work?"
+    },
+    {
+        "index": 20,
+        "start_time": 82746,
+        "end_time": 85370,
+        "text": "Well, everything starts with a circle."
+    },
+    {
+        "index": 21,
+        "start_time": 85370,
+        "end_time": 88946,
+        "text": "The first major decision \nis how will you divide it up?"
+    },
+    {
+        "index": 22,
+        "start_time": 88946,
+        "end_time": 94222,
+        "text": "Most patterns split the circle\ninto four, five or six equal sections."
+    },
+    {
+        "index": 23,
+        "start_time": 94222,
+        "end_time": 97964,
+        "text": "And each division gives rise\nto distinctive patterns."
+    },
+    {
+        "index": 24,
+        "start_time": 97964,
+        "end_time": 101810,
+        "text": "There&#39;s an easy way to determine\nwhether any pattern is based on fourfold,"
+    },
+    {
+        "index": 25,
+        "start_time": 101810,
+        "end_time": 103129,
+        "text": "fivefold,"
+    },
+    {
+        "index": 26,
+        "start_time": 103129,
+        "end_time": 105001,
+        "text": "or sixfold symmetry."
+    },
+    {
+        "index": 27,
+        "start_time": 105001,
+        "end_time": 108215,
+        "text": "Most contain stars surrounded\nby petal shapes."
+    },
+    {
+        "index": 28,
+        "start_time": 108215,
+        "end_time": 111074,
+        "text": "Counting the number \nof rays on a starburst,"
+    },
+    {
+        "index": 29,
+        "start_time": 111074,
+        "end_time": 113117,
+        "text": "or the number of petals around it,"
+    },
+    {
+        "index": 30,
+        "start_time": 113117,
+        "end_time": 116626,
+        "text": "tells us what category \nthe pattern falls into."
+    },
+    {
+        "index": 31,
+        "start_time": 116626,
+        "end_time": 120315,
+        "text": "A star with six rays,\nor surrounded by six petals,"
+    },
+    {
+        "index": 32,
+        "start_time": 120315,
+        "end_time": 123468,
+        "text": "belongs in the sixfold category."
+    },
+    {
+        "index": 33,
+        "start_time": 123468,
+        "end_time": 128531,
+        "text": "One with eight petals is part\nof the fourfold category, and so on."
+    },
+    {
+        "index": 34,
+        "start_time": 128531,
+        "end_time": 131228,
+        "text": "There&#39;s another secret ingredient\nin these designs:"
+    },
+    {
+        "index": 35,
+        "start_time": 131228,
+        "end_time": 133418,
+        "text": "an underlying grid."
+    },
+    {
+        "index": 36,
+        "start_time": 133418,
+        "end_time": 136044,
+        "text": "Invisible, but essential to every pattern,"
+    },
+    {
+        "index": 37,
+        "start_time": 136044,
+        "end_time": 141190,
+        "text": "the grid helps determine the scale\nof the composition before work begins,"
+    },
+    {
+        "index": 38,
+        "start_time": 141190,
+        "end_time": 142569,
+        "text": "keeps the pattern accurate,"
+    },
+    {
+        "index": 39,
+        "start_time": 142569,
+        "end_time": 146700,
+        "text": "and facilitates the invention \nof incredible new patterns."
+    },
+    {
+        "index": 40,
+        "start_time": 146700,
+        "end_time": 150813,
+        "text": "Let&#39;s look at an example of how these\nelements come together."
+    },
+    {
+        "index": 41,
+        "start_time": 150813,
+        "end_time": 155983,
+        "text": "We&#39;ll start with a circle within a square,\nand divide it into eight equal parts."
+    },
+    {
+        "index": 42,
+        "start_time": 155983,
+        "end_time": 159161,
+        "text": "We can then draw a pair\nof criss-crossing lines"
+    },
+    {
+        "index": 43,
+        "start_time": 159161,
+        "end_time": 161895,
+        "text": "and overlay them with another two."
+    },
+    {
+        "index": 44,
+        "start_time": 161895,
+        "end_time": 164528,
+        "text": "These lines are called construction lines,"
+    },
+    {
+        "index": 45,
+        "start_time": 164528,
+        "end_time": 166902,
+        "text": "and by choosing a set of their segments,"
+    },
+    {
+        "index": 46,
+        "start_time": 166902,
+        "end_time": 170711,
+        "text": "we&#39;ll form the basis \nof our repeating pattern."
+    },
+    {
+        "index": 47,
+        "start_time": 170711,
+        "end_time": 174508,
+        "text": "Many different designs are possible\nfrom the same construction lines"
+    },
+    {
+        "index": 48,
+        "start_time": 174508,
+        "end_time": 177307,
+        "text": "just by picking different segments."
+    },
+    {
+        "index": 49,
+        "start_time": 177307,
+        "end_time": 179457,
+        "text": "And the full pattern finally emerges"
+    },
+    {
+        "index": 50,
+        "start_time": 179457,
+        "end_time": 184428,
+        "text": "when we create a grid with many\nrepetitions of this one tile"
+    },
+    {
+        "index": 51,
+        "start_time": 184428,
+        "end_time": 187330,
+        "text": "in a process called tessellation."
+    },
+    {
+        "index": 52,
+        "start_time": 187330,
+        "end_time": 189856,
+        "text": "By choosing a different set \nof construction lines,"
+    },
+    {
+        "index": 53,
+        "start_time": 189856,
+        "end_time": 192752,
+        "text": "we might have created this pattern,"
+    },
+    {
+        "index": 54,
+        "start_time": 192752,
+        "end_time": 194225,
+        "text": "or this one."
+    },
+    {
+        "index": 55,
+        "start_time": 194225,
+        "end_time": 197243,
+        "text": "The possibilities are virtually endless."
+    },
+    {
+        "index": 56,
+        "start_time": 197243,
+        "end_time": 201037,
+        "text": "We can follow the same steps\nto create sixfold patterns"
+    },
+    {
+        "index": 57,
+        "start_time": 201037,
+        "end_time": 205083,
+        "text": "by drawing construction lines\nover a circle divided into six parts,"
+    },
+    {
+        "index": 58,
+        "start_time": 205083,
+        "end_time": 209931,
+        "text": "and then tessellating it,\nwe can make something like this."
+    },
+    {
+        "index": 59,
+        "start_time": 209931,
+        "end_time": 213458,
+        "text": "Here&#39;s another sixfold pattern\nthat has appeared across the centuries"
+    },
+    {
+        "index": 60,
+        "start_time": 213458,
+        "end_time": 215531,
+        "text": "and all over the Islamic world,"
+    },
+    {
+        "index": 61,
+        "start_time": 215531,
+        "end_time": 221239,
+        "text": "including Marrakesh, Agra, Konya\nand the Alhambra."
+    },
+    {
+        "index": 62,
+        "start_time": 221239,
+        "end_time": 229437,
+        "text": "Fourfold patterns fit in a square grid,\nand sixfold patterns in a hexagonal grid."
+    },
+    {
+        "index": 63,
+        "start_time": 229437,
+        "end_time": 233282,
+        "text": "Fivefold patterns, however,\nare more challenging to tessellate"
+    },
+    {
+        "index": 64,
+        "start_time": 233282,
+        "end_time": 237487,
+        "text": "because pentagons \ndon&#39;t neatly fill a surface,"
+    },
+    {
+        "index": 65,
+        "start_time": 237487,
+        "end_time": 240421,
+        "text": "so instead of just creating \na pattern in a pentagon,"
+    },
+    {
+        "index": 66,
+        "start_time": 240421,
+        "end_time": 244084,
+        "text": "other shapes have to be added\nto make something that is repeatable,"
+    },
+    {
+        "index": 67,
+        "start_time": 244084,
+        "end_time": 248129,
+        "text": "resulting in patterns that may seem\nconfoundingly complex,"
+    },
+    {
+        "index": 68,
+        "start_time": 248129,
+        "end_time": 251881,
+        "text": "but are still relatively simple to create."
+    },
+    {
+        "index": 69,
+        "start_time": 251881,
+        "end_time": 256886,
+        "text": "Also, tessellation is not constrained\nto simple geometric shapes,"
+    },
+    {
+        "index": 70,
+        "start_time": 256886,
+        "end_time": 259681,
+        "text": "as M.C. Escher&#39;s work demonstrates."
+    },
+    {
+        "index": 71,
+        "start_time": 259681,
+        "end_time": 262189,
+        "text": "And while the Islamic \ngeometric design tradition"
+    },
+    {
+        "index": 72,
+        "start_time": 262189,
+        "end_time": 265782,
+        "text": "doesn&#39;t tend to employ elements \nlike fish and faces,"
+    },
+    {
+        "index": 73,
+        "start_time": 265782,
+        "end_time": 271912,
+        "text": "it does sometimes make use of multiple \nshapes to craft complex patterns."
+    },
+    {
+        "index": 74,
+        "start_time": 271912,
+        "end_time": 276260,
+        "text": "This more than 1,000-year-old tradition\nhas wielded basic geometry"
+    },
+    {
+        "index": 75,
+        "start_time": 276260,
+        "end_time": 281489,
+        "text": "to produce works that are intricate,\ndecorative and pleasing to the eye."
+    },
+    {
+        "index": 76,
+        "start_time": 281489,
+        "end_time": 284317,
+        "text": "And these craftsmen prove just how\nmuch is possible"
+    },
+    {
+        "index": 77,
+        "start_time": 284317,
+        "end_time": 291030,
+        "text": "with some artistic intuition, creativity,\ndedication and a great compass and ruler."
+    }
+]

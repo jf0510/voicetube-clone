@@ -1,0 +1,56 @@
+[
+  {
+    "end_time": 4000,
+    "index": 1,
+    "start_time": 120,
+    "text": "One way that the development of cancer\nis prevented is via the death of"
+  },
+  {
+    "end_time": 5300,
+    "index": 2,
+    "start_time": 4049,
+    "text": "defective cells"
+  },
+  {
+    "end_time": 10678,
+    "index": 3,
+    "start_time": 5300,
+    "text": "A cell that becomes mutated or damaged\nwill first attempt to repair the damage"
+  },
+  {
+    "end_time": 16170,
+    "index": 4,
+    "start_time": 10679,
+    "text": "If that is not possible the cells will\ncommit the cellular version of suicide"
+  },
+  {
+    "end_time": 19650,
+    "index": 5,
+    "start_time": 16170,
+    "text": "and orderly process called apoptosis"
+  },
+  {
+    "end_time": 24109,
+    "index": 6,
+    "start_time": 19650,
+    "text": "leads to the breakdown of key cell parts\nand the death of the cell"
+  },
+  {
+    "end_time": 27760,
+    "index": 7,
+    "start_time": 24109,
+    "text": "Cancer cells lose this critical\ncapability"
+  },
+  {
+    "end_time": 32969,
+    "index": 8,
+    "start_time": 27760,
+    "text": "and will continue to divide\nThis can lead to the accumulation of cells"
+  },
+  {
+    "end_time": 34900,
+    "index": 9,
+    "start_time": 32969,
+    "text": "that can become more and more abnormal."
+  }
+]

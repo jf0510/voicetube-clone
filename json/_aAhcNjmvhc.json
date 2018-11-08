@@ -1,0 +1,536 @@
+[
+    {
+        "index": 1,
+        "start_time": 6915,
+        "end_time": 8824,
+        "text": "Here&#39;s a conundrum:"
+    },
+    {
+        "index": 2,
+        "start_time": 8824,
+        "end_time": 11970,
+        "text": "identical twins originate \nfrom the same DNA,"
+    },
+    {
+        "index": 3,
+        "start_time": 11970,
+        "end_time": 14323,
+        "text": "so how can they turn out so different"
+    },
+    {
+        "index": 4,
+        "start_time": 14323,
+        "end_time": 17816,
+        "text": "even in traits that have a significant\ngenetic component?"
+    },
+    {
+        "index": 5,
+        "start_time": 17816,
+        "end_time": 21792,
+        "text": "For instance, why might one twin\nget heart disease at 55,"
+    },
+    {
+        "index": 6,
+        "start_time": 21792,
+        "end_time": 25377,
+        "text": "while her sister runs marathons\nin perfect health?"
+    },
+    {
+        "index": 7,
+        "start_time": 25377,
+        "end_time": 27889,
+        "text": "Nature versus nurture \nhas a lot to do with it,"
+    },
+    {
+        "index": 8,
+        "start_time": 27889,
+        "end_time": 33131,
+        "text": "but a deeper related answer can be found\nwithin something called epigenetics."
+    },
+    {
+        "index": 9,
+        "start_time": 33131,
+        "end_time": 35719,
+        "text": "That&#39;s the study of how DNA interacts"
+    },
+    {
+        "index": 10,
+        "start_time": 35719,
+        "end_time": 39187,
+        "text": "with the multitude of smaller molecules\nfound within cells,"
+    },
+    {
+        "index": 11,
+        "start_time": 39187,
+        "end_time": 43291,
+        "text": "which can activate and deactivate genes."
+    },
+    {
+        "index": 12,
+        "start_time": 43291,
+        "end_time": 45572,
+        "text": "If you think of DNA as a recipe book,"
+    },
+    {
+        "index": 13,
+        "start_time": 45572,
+        "end_time": 49697,
+        "text": "those molecules are largely what determine\nwhat gets cooked when."
+    },
+    {
+        "index": 14,
+        "start_time": 49697,
+        "end_time": 53692,
+        "text": "They aren&#39;t making any conscious \nchoices themselves,"
+    },
+    {
+        "index": 15,
+        "start_time": 53692,
+        "end_time": 58388,
+        "text": "rather their presence and concentration\nwithin cells makes the difference."
+    },
+    {
+        "index": 16,
+        "start_time": 58388,
+        "end_time": 60099,
+        "text": "So how does that work?"
+    },
+    {
+        "index": 17,
+        "start_time": 60099,
+        "end_time": 65645,
+        "text": "Genes in DNA are expressed when they&#39;re\nread and transcribed into RNA,"
+    },
+    {
+        "index": 18,
+        "start_time": 65645,
+        "end_time": 70579,
+        "text": "which is translated into proteins\nby structures called ribosomes."
+    },
+    {
+        "index": 19,
+        "start_time": 70579,
+        "end_time": 75256,
+        "text": "And proteins are much of what determines\na cell&#39;s characteristics and function."
+    },
+    {
+        "index": 20,
+        "start_time": 75256,
+        "end_time": 81752,
+        "text": "Epigenetic changes can boost or interfere\nwith the transcription of specific genes."
+    },
+    {
+        "index": 21,
+        "start_time": 81752,
+        "end_time": 85001,
+        "text": "The most common way interference happens\nis that DNA,"
+    },
+    {
+        "index": 22,
+        "start_time": 85001,
+        "end_time": 87252,
+        "text": "or the proteins it&#39;s wrapped around,"
+    },
+    {
+        "index": 23,
+        "start_time": 87252,
+        "end_time": 90100,
+        "text": "gets labeled with small chemical tags."
+    },
+    {
+        "index": 24,
+        "start_time": 90100,
+        "end_time": 93665,
+        "text": "The set of all of the chemical tags\nthat are attached to the genome"
+    },
+    {
+        "index": 25,
+        "start_time": 93665,
+        "end_time": 95037,
+        "text": "of a given cell"
+    },
+    {
+        "index": 26,
+        "start_time": 95037,
+        "end_time": 97442,
+        "text": "is called the epigenome."
+    },
+    {
+        "index": 27,
+        "start_time": 97442,
+        "end_time": 101508,
+        "text": "Some of these, like a methyl group,\ninhibit gene expression"
+    },
+    {
+        "index": 28,
+        "start_time": 101508,
+        "end_time": 104316,
+        "text": "by derailing the cellular \ntranscription machinery"
+    },
+    {
+        "index": 29,
+        "start_time": 104316,
+        "end_time": 108002,
+        "text": "or causing the DNA to coil more tightly,"
+    },
+    {
+        "index": 30,
+        "start_time": 108002,
+        "end_time": 109694,
+        "text": "making it inaccessible."
+    },
+    {
+        "index": 31,
+        "start_time": 109694,
+        "end_time": 112788,
+        "text": "The gene is still there, but it&#39;s silent."
+    },
+    {
+        "index": 32,
+        "start_time": 112788,
+        "end_time": 115729,
+        "text": "Boosting transcription is essentially\nthe opposite."
+    },
+    {
+        "index": 33,
+        "start_time": 115729,
+        "end_time": 120828,
+        "text": "Some chemical tags will unwind the DNA,\nmaking it easier to transcribe,"
+    },
+    {
+        "index": 34,
+        "start_time": 120828,
+        "end_time": 124507,
+        "text": "which ramps up production\nof the associated protein."
+    },
+    {
+        "index": 35,
+        "start_time": 124507,
+        "end_time": 127788,
+        "text": "Epigenetic changes can survive\ncell division,"
+    },
+    {
+        "index": 36,
+        "start_time": 127788,
+        "end_time": 131827,
+        "text": "which means they could affect\nan organism for its entire life."
+    },
+    {
+        "index": 37,
+        "start_time": 131827,
+        "end_time": 133634,
+        "text": "Sometimes that&#39;s a good thing."
+    },
+    {
+        "index": 38,
+        "start_time": 133634,
+        "end_time": 136377,
+        "text": "Epigenetic changes are part \nof normal development."
+    },
+    {
+        "index": 39,
+        "start_time": 136377,
+        "end_time": 139639,
+        "text": "The cells in an embryo start\nwith one master genome."
+    },
+    {
+        "index": 40,
+        "start_time": 139639,
+        "end_time": 142486,
+        "text": "As the cells divide,\nsome genes are activated"
+    },
+    {
+        "index": 41,
+        "start_time": 142486,
+        "end_time": 144423,
+        "text": "and others inhibited."
+    },
+    {
+        "index": 42,
+        "start_time": 144423,
+        "end_time": 147187,
+        "text": "Over time, through this epigenetic\nreprogramming,"
+    },
+    {
+        "index": 43,
+        "start_time": 147187,
+        "end_time": 149447,
+        "text": "some cells develop into heart cells,"
+    },
+    {
+        "index": 44,
+        "start_time": 149447,
+        "end_time": 151629,
+        "text": "and others into liver cells."
+    },
+    {
+        "index": 45,
+        "start_time": 151629,
+        "end_time": 154799,
+        "text": "Each of the approximately 200\ncell types in your body"
+    },
+    {
+        "index": 46,
+        "start_time": 154799,
+        "end_time": 157064,
+        "text": "has essentially the same genome"
+    },
+    {
+        "index": 47,
+        "start_time": 157064,
+        "end_time": 159866,
+        "text": "but its own distinct epigenome."
+    },
+    {
+        "index": 48,
+        "start_time": 159866,
+        "end_time": 163170,
+        "text": "The epigenome also mediates \na lifelong dialogue"
+    },
+    {
+        "index": 49,
+        "start_time": 163170,
+        "end_time": 165914,
+        "text": "between genes and the environment."
+    },
+    {
+        "index": 50,
+        "start_time": 165914,
+        "end_time": 168938,
+        "text": "The chemical tags that \nturn genes on and off"
+    },
+    {
+        "index": 51,
+        "start_time": 168938,
+        "end_time": 171598,
+        "text": "can be influenced by factors \nincluding diet,"
+    },
+    {
+        "index": 52,
+        "start_time": 171598,
+        "end_time": 172970,
+        "text": "chemical exposure,"
+    },
+    {
+        "index": 53,
+        "start_time": 172970,
+        "end_time": 174971,
+        "text": "and medication."
+    },
+    {
+        "index": 54,
+        "start_time": 174971,
+        "end_time": 178754,
+        "text": "The resulting epigenetic changes\ncan eventually lead to disease,"
+    },
+    {
+        "index": 55,
+        "start_time": 178754,
+        "end_time": 184324,
+        "text": "if, for example, they turn off a gene\nthat makes a tumor-suppressing protein."
+    },
+    {
+        "index": 56,
+        "start_time": 184324,
+        "end_time": 187846,
+        "text": "Environmentally-induced epigenetic\nchanges are part of the reason"
+    },
+    {
+        "index": 57,
+        "start_time": 187846,
+        "end_time": 193101,
+        "text": "why genetically identical twins\ncan grow up to have very different lives."
+    },
+    {
+        "index": 58,
+        "start_time": 193101,
+        "end_time": 196382,
+        "text": "As twins get older, \ntheir epigenomes diverge,"
+    },
+    {
+        "index": 59,
+        "start_time": 196382,
+        "end_time": 200820,
+        "text": "affecting the way they age\nand their susceptibility to disease."
+    },
+    {
+        "index": 60,
+        "start_time": 200820,
+        "end_time": 204628,
+        "text": "Even social experiences can cause\nepigenetic changes."
+    },
+    {
+        "index": 61,
+        "start_time": 204628,
+        "end_time": 206378,
+        "text": "In one famous experiment,"
+    },
+    {
+        "index": 62,
+        "start_time": 206378,
+        "end_time": 209578,
+        "text": "when mother rats weren&#39;t attentive\nenough to their pups,"
+    },
+    {
+        "index": 63,
+        "start_time": 209578,
+        "end_time": 214034,
+        "text": "genes in the babies that helped them\nmanage stress were methylated"
+    },
+    {
+        "index": 64,
+        "start_time": 214034,
+        "end_time": 216067,
+        "text": "and turned off."
+    },
+    {
+        "index": 65,
+        "start_time": 216067,
+        "end_time": 218565,
+        "text": "And it might not stop \nwith that generation."
+    },
+    {
+        "index": 66,
+        "start_time": 218565,
+        "end_time": 223252,
+        "text": "Most epigenetic marks are erased\nwhen egg and sperm cells are formed."
+    },
+    {
+        "index": 67,
+        "start_time": 223252,
+        "end_time": 227783,
+        "text": "But now researchers think that some\nof those imprints survive,"
+    },
+    {
+        "index": 68,
+        "start_time": 227783,
+        "end_time": 231751,
+        "text": "passing those epigenetic traits\non to the next generation."
+    },
+    {
+        "index": 69,
+        "start_time": 231751,
+        "end_time": 235098,
+        "text": "Your mother&#39;s or your father&#39;s\nexperiences as a child,"
+    },
+    {
+        "index": 70,
+        "start_time": 235098,
+        "end_time": 237064,
+        "text": "or choices as adults,"
+    },
+    {
+        "index": 71,
+        "start_time": 237064,
+        "end_time": 240073,
+        "text": "could actually shape your own epigenome."
+    },
+    {
+        "index": 72,
+        "start_time": 240073,
+        "end_time": 242573,
+        "text": "But even though epigenetic changes\nare sticky,"
+    },
+    {
+        "index": 73,
+        "start_time": 242573,
+        "end_time": 244879,
+        "text": "they&#39;re not necessarily permanent."
+    },
+    {
+        "index": 74,
+        "start_time": 244879,
+        "end_time": 247638,
+        "text": "A balanced lifestyle that includes\na healthy diet,"
+    },
+    {
+        "index": 75,
+        "start_time": 247638,
+        "end_time": 248782,
+        "text": "exercise,"
+    },
+    {
+        "index": 76,
+        "start_time": 248782,
+        "end_time": 250914,
+        "text": "and avoiding exposure to contaminants"
+    },
+    {
+        "index": 77,
+        "start_time": 250914,
+        "end_time": 254630,
+        "text": "may in the long run \ncreate a healthy epigenome."
+    },
+    {
+        "index": 78,
+        "start_time": 254630,
+        "end_time": 257696,
+        "text": "It&#39;s an exciting time to be studying this."
+    },
+    {
+        "index": 79,
+        "start_time": 257696,
+        "end_time": 259785,
+        "text": "Scientists are just beginning \nto understand"
+    },
+    {
+        "index": 80,
+        "start_time": 259785,
+        "end_time": 264632,
+        "text": "how epigenetics could explain mechanisms\nof human development and aging,"
+    },
+    {
+        "index": 81,
+        "start_time": 264632,
+        "end_time": 266469,
+        "text": "as well as the origins of cancer,"
+    },
+    {
+        "index": 82,
+        "start_time": 266469,
+        "end_time": 267599,
+        "text": "heart disease,"
+    },
+    {
+        "index": 83,
+        "start_time": 267599,
+        "end_time": 268750,
+        "text": "mental illness,"
+    },
+    {
+        "index": 84,
+        "start_time": 268750,
+        "end_time": 269721,
+        "text": "addiction,"
+    },
+    {
+        "index": 85,
+        "start_time": 269721,
+        "end_time": 271502,
+        "text": "and many other conditions."
+    },
+    {
+        "index": 86,
+        "start_time": 271502,
+        "end_time": 275632,
+        "text": "Meanwhile, new genome editing\ntechniques are making it much easier"
+    },
+    {
+        "index": 87,
+        "start_time": 275632,
+        "end_time": 280574,
+        "text": "to identify which epigenetic changes\nreally matter for health and disease."
+    },
+    {
+        "index": 88,
+        "start_time": 280574,
+        "end_time": 284218,
+        "text": "Once we understand how our epigenome\ninfluences us,"
+    },
+    {
+        "index": 89,
+        "start_time": 284218,
+        "end_time": 286915,
+        "text": "we might be able to influence it, too."
+    }
+]

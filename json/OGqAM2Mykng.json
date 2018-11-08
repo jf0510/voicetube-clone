@@ -1,0 +1,458 @@
+[
+    {
+        "index": 1,
+        "start_time": 11617,
+        "end_time": 15249,
+        "text": "Watch the center of this disk."
+    },
+    {
+        "index": 2,
+        "start_time": 15249,
+        "end_time": 18076,
+        "text": "You are getting sleepy."
+    },
+    {
+        "index": 3,
+        "start_time": 18076,
+        "end_time": 19684,
+        "text": "No, just kidding."
+    },
+    {
+        "index": 4,
+        "start_time": 19684,
+        "end_time": 21518,
+        "text": "I&#39;m not going to hypnotize you."
+    },
+    {
+        "index": 5,
+        "start_time": 21518,
+        "end_time": 25559,
+        "text": "But are you starting \nto see colors in the rings?"
+    },
+    {
+        "index": 6,
+        "start_time": 25559,
+        "end_time": 28906,
+        "text": "If so, your eyes \nare playing tricks on you."
+    },
+    {
+        "index": 7,
+        "start_time": 28906,
+        "end_time": 32021,
+        "text": "The disk was only ever black and white."
+    },
+    {
+        "index": 8,
+        "start_time": 32021,
+        "end_time": 36743,
+        "text": "You see, your eyes don&#39;t always\ncapture the world as a video camera would."
+    },
+    {
+        "index": 9,
+        "start_time": 36743,
+        "end_time": 39535,
+        "text": "In fact, there are quite \na few differences,"
+    },
+    {
+        "index": 10,
+        "start_time": 39535,
+        "end_time": 41687,
+        "text": "owing to the anatomy of your eye"
+    },
+    {
+        "index": 11,
+        "start_time": 41687,
+        "end_time": 44105,
+        "text": "and the processing \nthat takes place in your brain"
+    },
+    {
+        "index": 12,
+        "start_time": 44105,
+        "end_time": 48634,
+        "text": "and its outgrowth, the retina."
+    },
+    {
+        "index": 13,
+        "start_time": 48634,
+        "end_time": 50747,
+        "text": "Let&#39;s start with some similarities."
+    },
+    {
+        "index": 14,
+        "start_time": 50747,
+        "end_time": 54698,
+        "text": "Both have lenses to focus light\nand sensors to capture it,"
+    },
+    {
+        "index": 15,
+        "start_time": 54698,
+        "end_time": 57114,
+        "text": "but even those things behave differently."
+    },
+    {
+        "index": 16,
+        "start_time": 57114,
+        "end_time": 61938,
+        "text": "The lens in a camera moves to stay \nfocused on an object hurtling towards it,"
+    },
+    {
+        "index": 17,
+        "start_time": 61938,
+        "end_time": 66880,
+        "text": "while the one in your eye responds\nby changing shape."
+    },
+    {
+        "index": 18,
+        "start_time": 66880,
+        "end_time": 69872,
+        "text": "Most camera lenses are also achromatic,"
+    },
+    {
+        "index": 19,
+        "start_time": 69872,
+        "end_time": 74146,
+        "text": "meaning they focus both red \nand blue light to the same point."
+    },
+    {
+        "index": 20,
+        "start_time": 74146,
+        "end_time": 75941,
+        "text": "Your eye is different."
+    },
+    {
+        "index": 21,
+        "start_time": 75941,
+        "end_time": 80894,
+        "text": "When red light from an object is in focus,\nthe blue light is out of focus."
+    },
+    {
+        "index": 22,
+        "start_time": 80894,
+        "end_time": 84458,
+        "text": "So why don&#39;t things look \npartially out of focus all the time?"
+    },
+    {
+        "index": 23,
+        "start_time": 84458,
+        "end_time": 86090,
+        "text": "To answer that question,"
+    },
+    {
+        "index": 24,
+        "start_time": 86090,
+        "end_time": 90429,
+        "text": "we first need to look at how your eye\nand the camera capture light:"
+    },
+    {
+        "index": 25,
+        "start_time": 90429,
+        "end_time": 93295,
+        "text": "photoreceptors."
+    },
+    {
+        "index": 26,
+        "start_time": 93295,
+        "end_time": 98652,
+        "text": "The light-sensitive surface in a camera\nonly has one kind of photoreceptor"
+    },
+    {
+        "index": 27,
+        "start_time": 98652,
+        "end_time": 102511,
+        "text": "that is evenly distributed \nthroughout the focusing surface."
+    },
+    {
+        "index": 28,
+        "start_time": 102511,
+        "end_time": 107333,
+        "text": "An array of red, green and blue filters\non top of these photoreceptors"
+    },
+    {
+        "index": 29,
+        "start_time": 107333,
+        "end_time": 115040,
+        "text": "causes them to respond selectively to\nlong, medium and short wavelength light."
+    },
+    {
+        "index": 30,
+        "start_time": 115040,
+        "end_time": 119503,
+        "text": "Your eye&#39;s retinas, on the other hand,\nhave several types of photoreceptors,"
+    },
+    {
+        "index": 31,
+        "start_time": 119503,
+        "end_time": 124255,
+        "text": "usually three for normal light conditions,\nand only one type for lowlight,"
+    },
+    {
+        "index": 32,
+        "start_time": 124255,
+        "end_time": 126958,
+        "text": "which is why we&#39;re color blind \nin the dark."
+    },
+    {
+        "index": 33,
+        "start_time": 126958,
+        "end_time": 131653,
+        "text": "In normal light, unlike the camera,\nwe have no need for a color filter"
+    },
+    {
+        "index": 34,
+        "start_time": 131653,
+        "end_time": 135475,
+        "text": "because our photoreceptors \nalready respond selectively"
+    },
+    {
+        "index": 35,
+        "start_time": 135475,
+        "end_time": 139108,
+        "text": "to different wavelengths of light."
+    },
+    {
+        "index": 36,
+        "start_time": 139108,
+        "end_time": 141096,
+        "text": "Also in contrast to a camera,"
+    },
+    {
+        "index": 37,
+        "start_time": 141096,
+        "end_time": 144056,
+        "text": "your photoreceptors \nare unevenly distributed,"
+    },
+    {
+        "index": 38,
+        "start_time": 144056,
+        "end_time": 147686,
+        "text": "with no receptors for dim light \nin the very center."
+    },
+    {
+        "index": 39,
+        "start_time": 147686,
+        "end_time": 153053,
+        "text": "This is why faint stars seem to disappear\nwhen you look directly at them."
+    },
+    {
+        "index": 40,
+        "start_time": 153053,
+        "end_time": 157550,
+        "text": "The center also has very few receptors\nthat can detect blue light,"
+    },
+    {
+        "index": 41,
+        "start_time": 157550,
+        "end_time": 161692,
+        "text": "which is why you don&#39;t notice the blurred\nblue image from earlier."
+    },
+    {
+        "index": 42,
+        "start_time": 161692,
+        "end_time": 164551,
+        "text": "However, you still perceive blue there"
+    },
+    {
+        "index": 43,
+        "start_time": 164551,
+        "end_time": 168571,
+        "text": "because your brain \nfills it in from context."
+    },
+    {
+        "index": 44,
+        "start_time": 168571,
+        "end_time": 172520,
+        "text": "Also, the edges of our retinas \nhave relatively few receptors"
+    },
+    {
+        "index": 45,
+        "start_time": 172520,
+        "end_time": 174732,
+        "text": "for any wavelength light."
+    },
+    {
+        "index": 46,
+        "start_time": 174732,
+        "end_time": 177498,
+        "text": "So our visual acuity \nand ability to see color"
+    },
+    {
+        "index": 47,
+        "start_time": 177498,
+        "end_time": 182287,
+        "text": "falls off rapidly \nfrom the center of our vision."
+    },
+    {
+        "index": 48,
+        "start_time": 182287,
+        "end_time": 185946,
+        "text": "There is also an area in our eyes\ncalled the blind spot"
+    },
+    {
+        "index": 49,
+        "start_time": 185946,
+        "end_time": 189218,
+        "text": "where there are no \nphotoreceptors of any kind."
+    },
+    {
+        "index": 50,
+        "start_time": 189218,
+        "end_time": 191120,
+        "text": "We don&#39;t notice a lack of vision there"
+    },
+    {
+        "index": 51,
+        "start_time": 191120,
+        "end_time": 194616,
+        "text": "because once again, \nour brain fills in the gaps."
+    },
+    {
+        "index": 52,
+        "start_time": 194616,
+        "end_time": 199953,
+        "text": "In a very real sense, \nwe see with our brains, not our eyes."
+    },
+    {
+        "index": 53,
+        "start_time": 199953,
+        "end_time": 202267,
+        "text": "And because our brains, \nincluding the retinas,"
+    },
+    {
+        "index": 54,
+        "start_time": 202267,
+        "end_time": 204479,
+        "text": "are so involved in the process,"
+    },
+    {
+        "index": 55,
+        "start_time": 204479,
+        "end_time": 208431,
+        "text": "we are susceptible to visual illusions."
+    },
+    {
+        "index": 56,
+        "start_time": 208431,
+        "end_time": 211772,
+        "text": "Here&#39;s another illusion \ncaused by the eye itself."
+    },
+    {
+        "index": 57,
+        "start_time": 211772,
+        "end_time": 215152,
+        "text": "Does the center of this image\nlook like it&#39;s jittering around?"
+    },
+    {
+        "index": 58,
+        "start_time": 215152,
+        "end_time": 218648,
+        "text": "That&#39;s because your eye actually\njiggles most of the time."
+    },
+    {
+        "index": 59,
+        "start_time": 218648,
+        "end_time": 221768,
+        "text": "If it didn&#39;t, your vision \nwould eventually shut down"
+    },
+    {
+        "index": 60,
+        "start_time": 221768,
+        "end_time": 226235,
+        "text": "because the nerves on the retina\nstop responding to a stationary image"
+    },
+    {
+        "index": 61,
+        "start_time": 226235,
+        "end_time": 230018,
+        "text": "of constant intensity."
+    },
+    {
+        "index": 62,
+        "start_time": 230018,
+        "end_time": 231567,
+        "text": "And unlike a camera,"
+    },
+    {
+        "index": 63,
+        "start_time": 231567,
+        "end_time": 236162,
+        "text": "you briefly stop seeing whenever you make\na larger movement with your eyes."
+    },
+    {
+        "index": 64,
+        "start_time": 236162,
+        "end_time": 238510,
+        "text": "That&#39;s why you can&#39;t see \nyour own eyes shift"
+    },
+    {
+        "index": 65,
+        "start_time": 238510,
+        "end_time": 242806,
+        "text": "as you look from\none to the other in a mirror."
+    },
+    {
+        "index": 66,
+        "start_time": 242806,
+        "end_time": 246468,
+        "text": "Video cameras can \ncapture details our eyes miss,"
+    },
+    {
+        "index": 67,
+        "start_time": 246468,
+        "end_time": 248647,
+        "text": "magnify distant objects"
+    },
+    {
+        "index": 68,
+        "start_time": 248647,
+        "end_time": 251317,
+        "text": "and accurately record what they see."
+    },
+    {
+        "index": 69,
+        "start_time": 251317,
+        "end_time": 254916,
+        "text": "But our eyes are remarkably \nefficient adaptations,"
+    },
+    {
+        "index": 70,
+        "start_time": 254916,
+        "end_time": 257074,
+        "text": "the result of hundreds \nof millions of years"
+    },
+    {
+        "index": 71,
+        "start_time": 257074,
+        "end_time": 261801,
+        "text": "of coevolution with our brains."
+    },
+    {
+        "index": 72,
+        "start_time": 261801,
+        "end_time": 265968,
+        "text": "And so what if we don&#39;t always see\nthe world exactly as it is."
+    },
+    {
+        "index": 73,
+        "start_time": 265968,
+        "end_time": 269637,
+        "text": "There&#39;s a certain joy to be found\nwatching stationary leaves"
+    },
+    {
+        "index": 74,
+        "start_time": 269637,
+        "end_time": 273113,
+        "text": "waving on an illusive breeze,"
+    },
+    {
+        "index": 75,
+        "start_time": 273113,
+        "end_time": 278149,
+        "text": "and maybe even an evolutionary advantage."
+    },
+    {
+        "index": 76,
+        "start_time": 278149,
+        "end_time": 281194,
+        "text": "But that&#39;s a lesson for another day."
+    }
+]

@@ -1,0 +1,512 @@
+[
+    {
+        "index": 1,
+        "start_time": 7234,
+        "end_time": 10725,
+        "text": "For most jobs, it&#39;s understood\nthat you can be fired,"
+    },
+    {
+        "index": 2,
+        "start_time": 10725,
+        "end_time": 11954,
+        "text": "whether for crime,"
+    },
+    {
+        "index": 3,
+        "start_time": 11954,
+        "end_time": 13087,
+        "text": "incompetence,"
+    },
+    {
+        "index": 4,
+        "start_time": 13087,
+        "end_time": 15885,
+        "text": "or just poor performance."
+    },
+    {
+        "index": 5,
+        "start_time": 15885,
+        "end_time": 20657,
+        "text": "But what if your job happens to be\nthe most powerful position in the country,"
+    },
+    {
+        "index": 6,
+        "start_time": 20657,
+        "end_time": 22506,
+        "text": "or the world?"
+    },
+    {
+        "index": 7,
+        "start_time": 22506,
+        "end_time": 24887,
+        "text": "That&#39;s where impeachment comes in."
+    },
+    {
+        "index": 8,
+        "start_time": 24887,
+        "end_time": 29317,
+        "text": "Impeachment isn&#39;t the same\nas actually removing someone from office."
+    },
+    {
+        "index": 9,
+        "start_time": 29317,
+        "end_time": 32191,
+        "text": "Like an indictment in criminal court,"
+    },
+    {
+        "index": 10,
+        "start_time": 32191,
+        "end_time": 36357,
+        "text": "it&#39;s only the formal accusation \nthat launches a trial,"
+    },
+    {
+        "index": 11,
+        "start_time": 36357,
+        "end_time": 39826,
+        "text": "which could end in conviction\nor acquittal."
+    },
+    {
+        "index": 12,
+        "start_time": 39826,
+        "end_time": 41656,
+        "text": "Originating in the United Kingdom,"
+    },
+    {
+        "index": 13,
+        "start_time": 41656,
+        "end_time": 47887,
+        "text": "impeachment allowed Parliament to vote for\nremoving a government official from office"
+    },
+    {
+        "index": 14,
+        "start_time": 47887,
+        "end_time": 50398,
+        "text": "even without the king&#39;s consent."
+    },
+    {
+        "index": 15,
+        "start_time": 50398,
+        "end_time": 53547,
+        "text": "Although this was an important check\non royal power,"
+    },
+    {
+        "index": 16,
+        "start_time": 53547,
+        "end_time": 55867,
+        "text": "the king couldn&#39;t be impeached"
+    },
+    {
+        "index": 17,
+        "start_time": 55867,
+        "end_time": 59997,
+        "text": "because the monarch was considered\nthe source of all government power."
+    },
+    {
+        "index": 18,
+        "start_time": 59997,
+        "end_time": 62577,
+        "text": "But for the founders \nof the American Republic,"
+    },
+    {
+        "index": 19,
+        "start_time": 62577,
+        "end_time": 66927,
+        "text": "there was no higher authority\nbeyond the people themselves."
+    },
+    {
+        "index": 20,
+        "start_time": 66927,
+        "end_time": 71407,
+        "text": "And so impeachment was adopted in\nthe United States as a power of Congress"
+    },
+    {
+        "index": 21,
+        "start_time": 71407,
+        "end_time": 77028,
+        "text": "applying to any civil officers,\nup to and including the president."
+    },
+    {
+        "index": 22,
+        "start_time": 77028,
+        "end_time": 81039,
+        "text": "Although demands for impeachment\ncan come from any members of the public,"
+    },
+    {
+        "index": 23,
+        "start_time": 81039,
+        "end_time": 86539,
+        "text": "only the House of Representatives has the\npower to actually initiate the process."
+    },
+    {
+        "index": 24,
+        "start_time": 86539,
+        "end_time": 89630,
+        "text": "It begins by referring the matter\nto a committee,"
+    },
+    {
+        "index": 25,
+        "start_time": 89630,
+        "end_time": 91940,
+        "text": "usually the House Committee on Rules"
+    },
+    {
+        "index": 26,
+        "start_time": 91940,
+        "end_time": 94659,
+        "text": "and the House Committee on the Judiciary."
+    },
+    {
+        "index": 27,
+        "start_time": 94659,
+        "end_time": 96900,
+        "text": "These committees review the accusations,"
+    },
+    {
+        "index": 28,
+        "start_time": 96900,
+        "end_time": 98369,
+        "text": "examine the evidence,"
+    },
+    {
+        "index": 29,
+        "start_time": 98369,
+        "end_time": 100890,
+        "text": "and issue a recommendation."
+    },
+    {
+        "index": 30,
+        "start_time": 100890,
+        "end_time": 103410,
+        "text": "If they find sufficient \ngrounds to proceed,"
+    },
+    {
+        "index": 31,
+        "start_time": 103410,
+        "end_time": 108059,
+        "text": "the House holds a separate vote\non each of the specific charges,"
+    },
+    {
+        "index": 32,
+        "start_time": 108059,
+        "end_time": 110781,
+        "text": "known as Articles of Impeachment."
+    },
+    {
+        "index": 33,
+        "start_time": 110781,
+        "end_time": 113750,
+        "text": "If one or more passes \nby a simple majority,"
+    },
+    {
+        "index": 34,
+        "start_time": 113750,
+        "end_time": 118832,
+        "text": "the official is impeached\nand the stage is set for trial."
+    },
+    {
+        "index": 35,
+        "start_time": 118832,
+        "end_time": 123151,
+        "text": "The actual trial that follows impeachment\nis held in the Senate."
+    },
+    {
+        "index": 36,
+        "start_time": 123151,
+        "end_time": 128449,
+        "text": "Selected members of the House,\nknown as managers, act as the prosecution,"
+    },
+    {
+        "index": 37,
+        "start_time": 128449,
+        "end_time": 132650,
+        "text": "while the impeached official \nand their lawyers present their defense."
+    },
+    {
+        "index": 38,
+        "start_time": 132650,
+        "end_time": 135589,
+        "text": "The Senate acts as both judge and jury,"
+    },
+    {
+        "index": 39,
+        "start_time": 135589,
+        "end_time": 140671,
+        "text": "conducting the trial and deliberating\nafter hearing all the arguments."
+    },
+    {
+        "index": 40,
+        "start_time": 140671,
+        "end_time": 143782,
+        "text": "If it&#39;s the president or vice president\nbeing impeached,"
+    },
+    {
+        "index": 41,
+        "start_time": 143782,
+        "end_time": 147413,
+        "text": "the chief justice \nof the Supreme Court presides."
+    },
+    {
+        "index": 42,
+        "start_time": 147413,
+        "end_time": 151691,
+        "text": "A conviction requires a supermajority\nof two-thirds"
+    },
+    {
+        "index": 43,
+        "start_time": 151691,
+        "end_time": 155242,
+        "text": "and results in automatic removal \nfrom power."
+    },
+    {
+        "index": 44,
+        "start_time": 155242,
+        "end_time": 157182,
+        "text": "Depending on the original charges,"
+    },
+    {
+        "index": 45,
+        "start_time": 157182,
+        "end_time": 161373,
+        "text": "it can also disqualify them\nfrom holding office in the future"
+    },
+    {
+        "index": 46,
+        "start_time": 161373,
+        "end_time": 165213,
+        "text": "and open them to standard \ncriminal prosecution."
+    },
+    {
+        "index": 47,
+        "start_time": 165213,
+        "end_time": 168722,
+        "text": "So what exactly can get someone impeached?"
+    },
+    {
+        "index": 48,
+        "start_time": 168722,
+        "end_time": 170483,
+        "text": "That&#39;s a bit more complicated."
+    },
+    {
+        "index": 49,
+        "start_time": 170483,
+        "end_time": 172413,
+        "text": "Unlike in the United Kingdom,"
+    },
+    {
+        "index": 50,
+        "start_time": 172413,
+        "end_time": 176012,
+        "text": "impeachment in the U.S. \npits an elected legislature"
+    },
+    {
+        "index": 51,
+        "start_time": 176012,
+        "end_time": 179883,
+        "text": "against other democratically \nelected members of government."
+    },
+    {
+        "index": 52,
+        "start_time": 179883,
+        "end_time": 183947,
+        "text": "Therefore, to prevent the process\nfrom being used as a political weapon,"
+    },
+    {
+        "index": 53,
+        "start_time": 183947,
+        "end_time": 187655,
+        "text": "the Constitution specifies that \nan official can only be impeached"
+    },
+    {
+        "index": 54,
+        "start_time": 187655,
+        "end_time": 188943,
+        "text": "for treason,"
+    },
+    {
+        "index": 55,
+        "start_time": 188943,
+        "end_time": 190014,
+        "text": "bribery,"
+    },
+    {
+        "index": 56,
+        "start_time": 190014,
+        "end_time": 193423,
+        "text": "or other high crimes\nand misdemeanors."
+    },
+    {
+        "index": 57,
+        "start_time": 193423,
+        "end_time": 196444,
+        "text": "That still leaves a lot of room \nfor interpretation,"
+    },
+    {
+        "index": 58,
+        "start_time": 196444,
+        "end_time": 198064,
+        "text": "not to mention politics,"
+    },
+    {
+        "index": 59,
+        "start_time": 198064,
+        "end_time": 202833,
+        "text": "and many impeachment trials\nhave split along partisan lines."
+    },
+    {
+        "index": 60,
+        "start_time": 202833,
+        "end_time": 208734,
+        "text": "But the process is generally understood to\nbe reserved for serious abuses of power."
+    },
+    {
+        "index": 61,
+        "start_time": 208734,
+        "end_time": 214777,
+        "text": "The first official to be impeached was\nTennesse Senator William Blount in 1797"
+    },
+    {
+        "index": 62,
+        "start_time": 214777,
+        "end_time": 220625,
+        "text": "for conspiring with Britain to cease\nthe Spanish colony of Louisiana."
+    },
+    {
+        "index": 63,
+        "start_time": 220625,
+        "end_time": 225435,
+        "text": "Since then, the House has launched\nimpeachment investigations about 60 times,"
+    },
+    {
+        "index": 64,
+        "start_time": 225435,
+        "end_time": 230336,
+        "text": "but only 19 have led to actual\nimpeachment proceedings."
+    },
+    {
+        "index": 65,
+        "start_time": 230336,
+        "end_time": 233866,
+        "text": "The eight cases that ended\nin a conviction and removal from office"
+    },
+    {
+        "index": 66,
+        "start_time": 233866,
+        "end_time": 235896,
+        "text": "were all federal judges."
+    },
+    {
+        "index": 67,
+        "start_time": 235896,
+        "end_time": 239997,
+        "text": "And impeachment of a sitting president\nis even more rare."
+    },
+    {
+        "index": 68,
+        "start_time": 239997,
+        "end_time": 243217,
+        "text": "Andrew Johnson was impeached in 1868"
+    },
+    {
+        "index": 69,
+        "start_time": 243217,
+        "end_time": 247007,
+        "text": "for attempting to replace Secretary of War\nEdwin Stanton"
+    },
+    {
+        "index": 70,
+        "start_time": 247007,
+        "end_time": 249436,
+        "text": "without consulting the Senate."
+    },
+    {
+        "index": 71,
+        "start_time": 249436,
+        "end_time": 252106,
+        "text": "Over a century later, Bill Clinton \nwas impeached"
+    },
+    {
+        "index": 72,
+        "start_time": 252106,
+        "end_time": 257226,
+        "text": "for making false statements under oath\nduring a sexual harassment trial."
+    },
+    {
+        "index": 73,
+        "start_time": 257226,
+        "end_time": 261017,
+        "text": "Both were ultimately acquitted\nwhen the Senate&#39;s votes to convict"
+    },
+    {
+        "index": 74,
+        "start_time": 261017,
+        "end_time": 264416,
+        "text": "fell short of the required \ntwo-thirds majority."
+    },
+    {
+        "index": 75,
+        "start_time": 264416,
+        "end_time": 266819,
+        "text": "And contrary to popular belief,"
+    },
+    {
+        "index": 76,
+        "start_time": 266819,
+        "end_time": 271766,
+        "text": "Richard Nixon was never actually impeached\nfor the Watergate scandal."
+    },
+    {
+        "index": 77,
+        "start_time": 271766,
+        "end_time": 273658,
+        "text": "He resigned before it could happen"
+    },
+    {
+        "index": 78,
+        "start_time": 273658,
+        "end_time": 277146,
+        "text": "knowing he would almost certainly\nbe convicted."
+    },
+    {
+        "index": 79,
+        "start_time": 277146,
+        "end_time": 280209,
+        "text": "Theoretically, the U.S. government is \nalready designed"
+    },
+    {
+        "index": 80,
+        "start_time": 280209,
+        "end_time": 282017,
+        "text": "to prevent abuses of power,"
+    },
+    {
+        "index": 81,
+        "start_time": 282017,
+        "end_time": 285738,
+        "text": "limiting different branches\nthrough a system of checks and balances,"
+    },
+    {
+        "index": 82,
+        "start_time": 285738,
+        "end_time": 286688,
+        "text": "term limits,"
+    },
+    {
+        "index": 83,
+        "start_time": 286688,
+        "end_time": 288569,
+        "text": "and free elections."
+    },
+    {
+        "index": 84,
+        "start_time": 288569,
+        "end_time": 291597,
+        "text": "But impeachment can be seen\nas an emergency brake"
+    },
+    {
+        "index": 85,
+        "start_time": 291597,
+        "end_time": 294469,
+        "text": "for when these safeguards fail."
+    }
+]

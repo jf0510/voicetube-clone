@@ -1,0 +1,524 @@
+[
+    {
+        "index": 1,
+        "start_time": 7799,
+        "end_time": 10474,
+        "text": "More than a century after first emerging"
+    },
+    {
+        "index": 2,
+        "start_time": 10474,
+        "end_time": 14500,
+        "text": "into the fog-bound,\ngas-lit streets of Victorian London,"
+    },
+    {
+        "index": 3,
+        "start_time": 14500,
+        "end_time": 18231,
+        "text": "Sherlock Holmes \nis universally recognizable."
+    },
+    {
+        "index": 4,
+        "start_time": 18231,
+        "end_time": 21483,
+        "text": "Even his wardrobe and accessories\nare iconic:"
+    },
+    {
+        "index": 5,
+        "start_time": 21483,
+        "end_time": 22998,
+        "text": "the Inverness cape,"
+    },
+    {
+        "index": 6,
+        "start_time": 22998,
+        "end_time": 24445,
+        "text": "deerstalker hat,"
+    },
+    {
+        "index": 7,
+        "start_time": 24445,
+        "end_time": 26250,
+        "text": "and calabash pipe,"
+    },
+    {
+        "index": 8,
+        "start_time": 26250,
+        "end_time": 29725,
+        "text": "and figures such as his best friend\nand housemate Doctor Watson,"
+    },
+    {
+        "index": 9,
+        "start_time": 29725,
+        "end_time": 31785,
+        "text": "arch-nemesis Moriarty,"
+    },
+    {
+        "index": 10,
+        "start_time": 31785,
+        "end_time": 33974,
+        "text": "and housekeeper Mrs. Hudson"
+    },
+    {
+        "index": 11,
+        "start_time": 33974,
+        "end_time": 37161,
+        "text": "have become part of the popular\nconsciousness,"
+    },
+    {
+        "index": 12,
+        "start_time": 37161,
+        "end_time": 40860,
+        "text": "as have his extraordinary,\ninfallible powers of deduction"
+    },
+    {
+        "index": 13,
+        "start_time": 40860,
+        "end_time": 42959,
+        "text": "utilized in the name of the law,"
+    },
+    {
+        "index": 14,
+        "start_time": 42959,
+        "end_time": 44660,
+        "text": "his notorious drug use,"
+    },
+    {
+        "index": 15,
+        "start_time": 44660,
+        "end_time": 49230,
+        "text": "and his popular catchphrase,\n&quot;Elementary, my dear Watson.&quot;"
+    },
+    {
+        "index": 16,
+        "start_time": 49230,
+        "end_time": 52420,
+        "text": "And yet many of these most recognizable\nfeatures of Holmes"
+    },
+    {
+        "index": 17,
+        "start_time": 52420,
+        "end_time": 56155,
+        "text": "don&#39;t appear in Arthur Conan Doyle&#39;s\noriginal stories."
+    },
+    {
+        "index": 18,
+        "start_time": 56155,
+        "end_time": 60499,
+        "text": "Doyle&#39;s great detective solves\ncrimes in all sorts of ways,"
+    },
+    {
+        "index": 19,
+        "start_time": 60499,
+        "end_time": 62240,
+        "text": "not just using deduction."
+    },
+    {
+        "index": 20,
+        "start_time": 62240,
+        "end_time": 68162,
+        "text": "He speculates, and at times even guesses,\nand regularly makes false assumptions."
+    },
+    {
+        "index": 21,
+        "start_time": 68162,
+        "end_time": 70901,
+        "text": "Furthermore, Mrs. Hudson \nis barely mentioned,"
+    },
+    {
+        "index": 22,
+        "start_time": 70901,
+        "end_time": 73823,
+        "text": "no one says, &quot;Elementary, my dear Watson,&quot;"
+    },
+    {
+        "index": 23,
+        "start_time": 73823,
+        "end_time": 78208,
+        "text": "and the detective and his sidekick\nlive apart for much of the time."
+    },
+    {
+        "index": 24,
+        "start_time": 78208,
+        "end_time": 81707,
+        "text": "Moriarty, the grand villain, \nonly appears in two stories,"
+    },
+    {
+        "index": 25,
+        "start_time": 81707,
+        "end_time": 85508,
+        "text": "the detective&#39;s drug use is infrequent\nafter the first two novels,"
+    },
+    {
+        "index": 26,
+        "start_time": 85508,
+        "end_time": 89309,
+        "text": "and Holmes is rarely enthralled\nto the English legal system;"
+    },
+    {
+        "index": 27,
+        "start_time": 89309,
+        "end_time": 92944,
+        "text": "He much prefers enacting his own form\nof natural justice"
+    },
+    {
+        "index": 28,
+        "start_time": 92944,
+        "end_time": 95261,
+        "text": "to sticking to the letter of the law."
+    },
+    {
+        "index": 29,
+        "start_time": 95261,
+        "end_time": 98607,
+        "text": "Finally, many of the most iconic elements\nof the Holmesian legend"
+    },
+    {
+        "index": 30,
+        "start_time": 98607,
+        "end_time": 100444,
+        "text": "aren&#39;t Doyle&#39;s either."
+    },
+    {
+        "index": 31,
+        "start_time": 100444,
+        "end_time": 104500,
+        "text": "The deerstalker cap and cape\nwere first imagined by Sidney Paget,"
+    },
+    {
+        "index": 32,
+        "start_time": 104500,
+        "end_time": 107042,
+        "text": "the story&#39;s initial illustrator."
+    },
+    {
+        "index": 33,
+        "start_time": 107042,
+        "end_time": 111195,
+        "text": "the curved pipe was chosen by\nAmerican actor William Gillette"
+    },
+    {
+        "index": 34,
+        "start_time": 111195,
+        "end_time": 115094,
+        "text": "so that audiences could more clearly see\nhis face on stage,"
+    },
+    {
+        "index": 35,
+        "start_time": 115094,
+        "end_time": 117605,
+        "text": "and the phrase, \n&quot;Elementary, my dear Watson,&quot;"
+    },
+    {
+        "index": 36,
+        "start_time": 117605,
+        "end_time": 121722,
+        "text": "was coined by author and humorist\nP.G. Wodehouse."
+    },
+    {
+        "index": 37,
+        "start_time": 121722,
+        "end_time": 124487,
+        "text": "So who exactly is Sherlock Holmes?"
+    },
+    {
+        "index": 38,
+        "start_time": 124487,
+        "end_time": 127771,
+        "text": "Who&#39;s the real great detective,\nand where do we find him?"
+    },
+    {
+        "index": 39,
+        "start_time": 127771,
+        "end_time": 130356,
+        "text": "Purists might answer \nthat the original Sherlock"
+    },
+    {
+        "index": 40,
+        "start_time": 130356,
+        "end_time": 135593,
+        "text": "inspired by Arthur Conan Doyle&#39;s \nuniversity mentor Dr. Joseph Bell"
+    },
+    {
+        "index": 41,
+        "start_time": 135593,
+        "end_time": 137011,
+        "text": "is the real one."
+    },
+    {
+        "index": 42,
+        "start_time": 137011,
+        "end_time": 141768,
+        "text": "But the fact remains that that version\nof Sherlock has been largely eclipsed"
+    },
+    {
+        "index": 43,
+        "start_time": 141768,
+        "end_time": 144477,
+        "text": "by the sheer volume of interpretation,"
+    },
+    {
+        "index": 44,
+        "start_time": 144477,
+        "end_time": 148048,
+        "text": "leaving Doyle&#39;s detective \nlargely unrecognizable."
+    },
+    {
+        "index": 45,
+        "start_time": 148048,
+        "end_time": 149958,
+        "text": "So there&#39;s another, more complex,"
+    },
+    {
+        "index": 46,
+        "start_time": 149958,
+        "end_time": 153169,
+        "text": "but perhaps more satisfying\nanswer to the question,"
+    },
+    {
+        "index": 47,
+        "start_time": 153169,
+        "end_time": 157353,
+        "text": "but to get there, we must first consider\nthe vast body of interpretations"
+    },
+    {
+        "index": 48,
+        "start_time": 157353,
+        "end_time": 159159,
+        "text": "of the great detective."
+    },
+    {
+        "index": 49,
+        "start_time": 159159,
+        "end_time": 162537,
+        "text": "Since Conan Doyle&#39;s first story in 1887,"
+    },
+    {
+        "index": 50,
+        "start_time": 162537,
+        "end_time": 165825,
+        "text": "there have been thousands \nof adaptations of Holmes,"
+    },
+    {
+        "index": 51,
+        "start_time": 165825,
+        "end_time": 170939,
+        "text": "making him perhaps the most adapted\nfictional character in the world."
+    },
+    {
+        "index": 52,
+        "start_time": 170939,
+        "end_time": 174319,
+        "text": "That process began with Victorian\nstage adaptations,"
+    },
+    {
+        "index": 53,
+        "start_time": 174319,
+        "end_time": 177083,
+        "text": "and accelerated \nwith the emergence of film."
+    },
+    {
+        "index": 54,
+        "start_time": 177083,
+        "end_time": 180303,
+        "text": "There were more than 100 film adaptations\nof Holmes"
+    },
+    {
+        "index": 55,
+        "start_time": 180303,
+        "end_time": 183784,
+        "text": "in the first two decades \nof the 20th century alone."
+    },
+    {
+        "index": 56,
+        "start_time": 183784,
+        "end_time": 187097,
+        "text": "And since then, there have many thousands\nmore in print,"
+    },
+    {
+        "index": 57,
+        "start_time": 187097,
+        "end_time": 188190,
+        "text": "and on film,"
+    },
+    {
+        "index": 58,
+        "start_time": 188190,
+        "end_time": 189063,
+        "text": "television,"
+    },
+    {
+        "index": 59,
+        "start_time": 189063,
+        "end_time": 189842,
+        "text": "stage,"
+    },
+    {
+        "index": 60,
+        "start_time": 189842,
+        "end_time": 190997,
+        "text": "and radio."
+    },
+    {
+        "index": 61,
+        "start_time": 190997,
+        "end_time": 193727,
+        "text": "Holmes has been reinterpreted\nby people everywhere,"
+    },
+    {
+        "index": 62,
+        "start_time": 193727,
+        "end_time": 197203,
+        "text": "in remarkably different,\nand often contradictory ways."
+    },
+    {
+        "index": 63,
+        "start_time": 197203,
+        "end_time": 200587,
+        "text": "These adaptations demonstrate\nboth Holmes&#39;s popularity"
+    },
+    {
+        "index": 64,
+        "start_time": 200587,
+        "end_time": 202746,
+        "text": "and his malleability."
+    },
+    {
+        "index": 65,
+        "start_time": 202746,
+        "end_time": 207569,
+        "text": "For instance, he featured in a number\nof allied anti-Nazi propaganda films"
+    },
+    {
+        "index": 66,
+        "start_time": 207569,
+        "end_time": 209311,
+        "text": "during World War II."
+    },
+    {
+        "index": 67,
+        "start_time": 209311,
+        "end_time": 212074,
+        "text": "And both Winston Churchill\nand Franklin Delano Roosevelt"
+    },
+    {
+        "index": 68,
+        "start_time": 212074,
+        "end_time": 214134,
+        "text": "were avid enthusiasts,"
+    },
+    {
+        "index": 69,
+        "start_time": 214134,
+        "end_time": 217586,
+        "text": "the latter even joining \nthe Baker Street Irregulars,"
+    },
+    {
+        "index": 70,
+        "start_time": 217586,
+        "end_time": 219997,
+        "text": "a Holmesian appreciation society,"
+    },
+    {
+        "index": 71,
+        "start_time": 219997,
+        "end_time": 223567,
+        "text": "and nicknaming one secret service\nhideout Baker Street."
+    },
+    {
+        "index": 72,
+        "start_time": 223567,
+        "end_time": 225397,
+        "text": "And yet, at the very same time,"
+    },
+    {
+        "index": 73,
+        "start_time": 225397,
+        "end_time": 229399,
+        "text": "Holmes also appeared in various\nGerman-language film adaptations,"
+    },
+    {
+        "index": 74,
+        "start_time": 229399,
+        "end_time": 234385,
+        "text": "some of which were said to have been\nmuch-loved favorites of Adolf Hitler."
+    },
+    {
+        "index": 75,
+        "start_time": 234385,
+        "end_time": 236058,
+        "text": "So let&#39;s return to our question."
+    },
+    {
+        "index": 76,
+        "start_time": 236058,
+        "end_time": 239185,
+        "text": "Would the real Sherlock Holmes\nplease stand up?"
+    },
+    {
+        "index": 77,
+        "start_time": 239185,
+        "end_time": 243910,
+        "text": "The truth is that this world of adaptation\nhas made him into a palimpsest."
+    },
+    {
+        "index": 78,
+        "start_time": 243910,
+        "end_time": 246005,
+        "text": "Sherlock is a cultural text,"
+    },
+    {
+        "index": 79,
+        "start_time": 246005,
+        "end_time": 251382,
+        "text": "repeatedly altered over time as each new\ninterpretation becomes superimposed"
+    },
+    {
+        "index": 80,
+        "start_time": 251382,
+        "end_time": 253601,
+        "text": "over those that proceed it."
+    },
+    {
+        "index": 81,
+        "start_time": 253601,
+        "end_time": 256369,
+        "text": "This means that Sherlock \ncontinually evolves,"
+    },
+    {
+        "index": 82,
+        "start_time": 256369,
+        "end_time": 260323,
+        "text": "embodying ideas and values \noften far removed"
+    },
+    {
+        "index": 83,
+        "start_time": 260323,
+        "end_time": 262521,
+        "text": "from those found in Conan Doyle."
+    },
+    {
+        "index": 84,
+        "start_time": 262521,
+        "end_time": 266931,
+        "text": "And after each particular story ends,\nSherlock rises again,"
+    },
+    {
+        "index": 85,
+        "start_time": 266931,
+        "end_time": 268760,
+        "text": "a little changed, perhaps,"
+    },
+    {
+        "index": 86,
+        "start_time": 268760,
+        "end_time": 272626,
+        "text": "with a new face and fresh mannerisms\nor turns of phrase,"
+    },
+    {
+        "index": 87,
+        "start_time": 272626,
+        "end_time": 276192,
+        "text": "but still essentially Sherlock,\nour Sherlock."
+    }
+]

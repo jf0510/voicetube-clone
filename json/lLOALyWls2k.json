@@ -1,0 +1,410 @@
+[
+    {
+        "index": 1,
+        "start_time": 7692,
+        "end_time": 12652,
+        "text": "You are the cargo director on the maiden\nvoyage of the S.S. Buoyant,"
+    },
+    {
+        "index": 2,
+        "start_time": 12652,
+        "end_time": 15402,
+        "text": "and you&#39;ve agreed to transport\nseveral tanks containing"
+    },
+    {
+        "index": 3,
+        "start_time": 15402,
+        "end_time": 19451,
+        "text": "the last specimens of a critically\nendangered fish species"
+    },
+    {
+        "index": 4,
+        "start_time": 19451,
+        "end_time": 22122,
+        "text": "to their new aquarium."
+    },
+    {
+        "index": 5,
+        "start_time": 22122,
+        "end_time": 25941,
+        "text": "Unfortunately, as you&#39;re passing\nthrough shark-infested waters,"
+    },
+    {
+        "index": 6,
+        "start_time": 25941,
+        "end_time": 32732,
+        "text": "the boat is battered by a fierce storm,\nthrowing your precious cargo overboard."
+    },
+    {
+        "index": 7,
+        "start_time": 32732,
+        "end_time": 34040,
+        "text": "And to make matters worse,"
+    },
+    {
+        "index": 8,
+        "start_time": 34040,
+        "end_time": 38679,
+        "text": "no one seems certain\njust how many fish tanks are missing."
+    },
+    {
+        "index": 9,
+        "start_time": 38679,
+        "end_time": 42901,
+        "text": "Fortunately, you have a rescue sub\nat your disposal,"
+    },
+    {
+        "index": 10,
+        "start_time": 42901,
+        "end_time": 47492,
+        "text": "but only enough fuel for one trip\nto the ocean floor."
+    },
+    {
+        "index": 11,
+        "start_time": 47492,
+        "end_time": 49724,
+        "text": "You need to know where the tanks are"
+    },
+    {
+        "index": 12,
+        "start_time": 49724,
+        "end_time": 53858,
+        "text": "so you can gather them all\nin one quick pass."
+    },
+    {
+        "index": 13,
+        "start_time": 53858,
+        "end_time": 57012,
+        "text": "Not a single fish can be lost."
+    },
+    {
+        "index": 14,
+        "start_time": 57012,
+        "end_time": 60502,
+        "text": "You decide to scan the three sectors\nof the ocean floor"
+    },
+    {
+        "index": 15,
+        "start_time": 60502,
+        "end_time": 63369,
+        "text": "where the cargo could have landed."
+    },
+    {
+        "index": 16,
+        "start_time": 63369,
+        "end_time": 67289,
+        "text": "Thermal imaging shows 50 organisms\nin the area,"
+    },
+    {
+        "index": 17,
+        "start_time": 67289,
+        "end_time": 71240,
+        "text": "and you quickly realize that that number\nincludes both your fish"
+    },
+    {
+        "index": 18,
+        "start_time": 71240,
+        "end_time": 73982,
+        "text": "and some ravenous sharks."
+    },
+    {
+        "index": 19,
+        "start_time": 73982,
+        "end_time": 77520,
+        "text": "You flip on the sonar \nto get a better look."
+    },
+    {
+        "index": 20,
+        "start_time": 77520,
+        "end_time": 81840,
+        "text": "The image for Sector Alpha shows\nfour tanks and two sharks,"
+    },
+    {
+        "index": 21,
+        "start_time": 81840,
+        "end_time": 86740,
+        "text": "the image for Sector Beta shows\ntwo tanks and four sharks,"
+    },
+    {
+        "index": 22,
+        "start_time": 86740,
+        "end_time": 89940,
+        "text": "and the image for Sector Gamma\nis blank."
+    },
+    {
+        "index": 23,
+        "start_time": 89940,
+        "end_time": 93389,
+        "text": "Your sonar has malfunctioned,"
+    },
+    {
+        "index": 24,
+        "start_time": 93389,
+        "end_time": 98150,
+        "text": "and you&#39;re going to have to go\nwith the info you have."
+    },
+    {
+        "index": 25,
+        "start_time": 98150,
+        "end_time": 99560,
+        "text": "You check the shipping notes,"
+    },
+    {
+        "index": 26,
+        "start_time": 99560,
+        "end_time": 104811,
+        "text": "but all you learn is that each tank\nhad the same number of fish inside."
+    },
+    {
+        "index": 27,
+        "start_time": 104811,
+        "end_time": 110982,
+        "text": "The cargo hold had space for anywhere\nfrom 1 to 13 total tanks."
+    },
+    {
+        "index": 28,
+        "start_time": 110982,
+        "end_time": 115591,
+        "text": "And finally, the old captain tells you\nthat this area has the odd property"
+    },
+    {
+        "index": 29,
+        "start_time": 115591,
+        "end_time": 120322,
+        "text": "that no two sectors can have the same\nnumber of sharks,"
+    },
+    {
+        "index": 30,
+        "start_time": 120322,
+        "end_time": 123233,
+        "text": "but every sector will have at least one,"
+    },
+    {
+        "index": 31,
+        "start_time": 123233,
+        "end_time": 126192,
+        "text": "and no more than seven."
+    },
+    {
+        "index": 32,
+        "start_time": 126192,
+        "end_time": 127723,
+        "text": "There&#39;s no time to waste."
+    },
+    {
+        "index": 33,
+        "start_time": 127723,
+        "end_time": 132132,
+        "text": "The tanks won&#39;t withstand the pressure\nmuch longer."
+    },
+    {
+        "index": 34,
+        "start_time": 132132,
+        "end_time": 136012,
+        "text": "As you descend in the sub,\nyou review everything you know."
+    },
+    {
+        "index": 35,
+        "start_time": 136012,
+        "end_time": 139703,
+        "text": "How many fish tanks do you need\nto find in Sector Gamma?"
+    },
+    {
+        "index": 36,
+        "start_time": 139703,
+        "end_time": 143454,
+        "text": "Hurry, the fate of an entire species\ndepends on you."
+    },
+    {
+        "index": 37,
+        "start_time": 143454,
+        "end_time": 146975,
+        "text": "Pause here if you want \nto figure it out for yourself."
+    },
+    {
+        "index": 38,
+        "start_time": 146975,
+        "end_time": 148873,
+        "text": "Answer in: 3"
+    },
+    {
+        "index": 39,
+        "start_time": 148873,
+        "end_time": 150322,
+        "text": "Answer in: 2"
+    },
+    {
+        "index": 40,
+        "start_time": 150322,
+        "end_time": 152294,
+        "text": "Answer in: 1"
+    },
+    {
+        "index": 41,
+        "start_time": 152294,
+        "end_time": 156585,
+        "text": "At first, it seems like there are just\ntoo many missing pieces of information."
+    },
+    {
+        "index": 42,
+        "start_time": 156585,
+        "end_time": 160664,
+        "text": "After all, you don&#39;t know how many fish\nor how many tanks there are,"
+    },
+    {
+        "index": 43,
+        "start_time": 160664,
+        "end_time": 164694,
+        "text": "let alone how many fish are in each one."
+    },
+    {
+        "index": 44,
+        "start_time": 164694,
+        "end_time": 166390,
+        "text": "But then you remember the best way"
+    },
+    {
+        "index": 45,
+        "start_time": 166390,
+        "end_time": 171775,
+        "text": "to compare multiple pieces \nof partial information - a table."
+    },
+    {
+        "index": 46,
+        "start_time": 171775,
+        "end_time": 174536,
+        "text": "Since we know there are thirteen\ntanks at most,"
+    },
+    {
+        "index": 47,
+        "start_time": 174536,
+        "end_time": 178335,
+        "text": "and we already see six tanks\nin Sectors Alpha and Beta,"
+    },
+    {
+        "index": 48,
+        "start_time": 178335,
+        "end_time": 183716,
+        "text": "we know the total number of tanks\nmust be between 6 and 13."
+    },
+    {
+        "index": 49,
+        "start_time": 183716,
+        "end_time": 187525,
+        "text": "We also know that each sector has \na different amount of sharks"
+    },
+    {
+        "index": 50,
+        "start_time": 187525,
+        "end_time": 190565,
+        "text": "with no more than seven in each one."
+    },
+    {
+        "index": 51,
+        "start_time": 190565,
+        "end_time": 195016,
+        "text": "Since there are two in Sector Alpha\nand four in Sector Beta,"
+    },
+    {
+        "index": 52,
+        "start_time": 195016,
+        "end_time": 201065,
+        "text": "Sector Gamma can have \n1, 3, 5, 6, or 7 sharks."
+    },
+    {
+        "index": 53,
+        "start_time": 201065,
+        "end_time": 203915,
+        "text": "What about the number of endangered fish?"
+    },
+    {
+        "index": 54,
+        "start_time": 203915,
+        "end_time": 207687,
+        "text": "Out of the 50 total organisms\nin all three sectors,"
+    },
+    {
+        "index": 55,
+        "start_time": 207687,
+        "end_time": 210476,
+        "text": "we know at least seven are sharks,"
+    },
+    {
+        "index": 56,
+        "start_time": 210476,
+        "end_time": 214766,
+        "text": "leaving a maximum of 43 fish\ninside all the tanks."
+    },
+    {
+        "index": 57,
+        "start_time": 214766,
+        "end_time": 221326,
+        "text": "And the more sharks we find in Sector 3,\nthe fewer fish there are to save."
+    },
+    {
+        "index": 58,
+        "start_time": 221326,
+        "end_time": 225876,
+        "text": "Now, remember that the fish are\nequally distributed across all the tanks."
+    },
+    {
+        "index": 59,
+        "start_time": 225876,
+        "end_time": 227588,
+        "text": "Why is that important?"
+    },
+    {
+        "index": 60,
+        "start_time": 227588,
+        "end_time": 231849,
+        "text": "Because it means that one of the possible\nvalues for the total amount of fish"
+    },
+    {
+        "index": 61,
+        "start_time": 231849,
+        "end_time": 238188,
+        "text": "must be divisible by one of the possible\nvalues for the total amount of tanks."
+    },
+    {
+        "index": 62,
+        "start_time": 238188,
+        "end_time": 242118,
+        "text": "And looking at the table, we can see\nthat the only combination that works"
+    },
+    {
+        "index": 63,
+        "start_time": 242118,
+        "end_time": 249968,
+        "text": "is 39 fish divided between 13 tanks\nwith three fish in each."
+    },
+    {
+        "index": 64,
+        "start_time": 249968,
+        "end_time": 251968,
+        "text": "With sharks swarming around,"
+    },
+    {
+        "index": 65,
+        "start_time": 251968,
+        "end_time": 254769,
+        "text": "you quickly pilot the sub through\nthe first two sectors"
+    },
+    {
+        "index": 66,
+        "start_time": 254769,
+        "end_time": 259179,
+        "text": "before retrieving the remaining\nseven tanks in Sector Gamma."
+    },
+    {
+        "index": 67,
+        "start_time": 259179,
+        "end_time": 263022,
+        "text": "You&#39;ve saved the species\nand taken an impromptu dive."
+    },
+    {
+        "index": 68,
+        "start_time": 263022,
+        "end_time": 267480,
+        "text": "All in all, not a bad day,\nunless you happen to be a hungry shark."
+    }
+]

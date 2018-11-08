@@ -1,0 +1,812 @@
+[
+    {
+        "index": 1,
+        "start_time": 6531,
+        "end_time": 7691,
+        "text": "In the 1920&#39;s,"
+    },
+    {
+        "index": 2,
+        "start_time": 7715,
+        "end_time": 10184,
+        "text": "the German mathematician David Hilbert"
+    },
+    {
+        "index": 3,
+        "start_time": 10208,
+        "end_time": 12437,
+        "text": "devised a famous thought experiment"
+    },
+    {
+        "index": 4,
+        "start_time": 12461,
+        "end_time": 14191,
+        "text": "to show us just how hard it is"
+    },
+    {
+        "index": 5,
+        "start_time": 14215,
+        "end_time": 17665,
+        "text": "to wrap our minds\naround the concept of infinity."
+    },
+    {
+        "index": 6,
+        "start_time": 18353,
+        "end_time": 21659,
+        "text": "Imagine a hotel with an infinite\nnumber of rooms"
+    },
+    {
+        "index": 7,
+        "start_time": 21683,
+        "end_time": 23988,
+        "text": "and a very hardworking night manager."
+    },
+    {
+        "index": 8,
+        "start_time": 24528,
+        "end_time": 27523,
+        "text": "One night, the Infinite Hotel\nis completely full,"
+    },
+    {
+        "index": 9,
+        "start_time": 27547,
+        "end_time": 31003,
+        "text": "totally booked up\nwith an infinite number of guests."
+    },
+    {
+        "index": 10,
+        "start_time": 31027,
+        "end_time": 34161,
+        "text": "A man walks into the hotel\nand asks for a room."
+    },
+    {
+        "index": 11,
+        "start_time": 34185,
+        "end_time": 35444,
+        "text": "Rather than turn him down,"
+    },
+    {
+        "index": 12,
+        "start_time": 35468,
+        "end_time": 37907,
+        "text": "the night manager decides\nto make room for him."
+    },
+    {
+        "index": 13,
+        "start_time": 37931,
+        "end_time": 38947,
+        "text": "How?"
+    },
+    {
+        "index": 14,
+        "start_time": 38971,
+        "end_time": 41635,
+        "text": "Easy, he asks the guest in room number 1"
+    },
+    {
+        "index": 15,
+        "start_time": 41659,
+        "end_time": 43711,
+        "text": "to move to room 2,"
+    },
+    {
+        "index": 16,
+        "start_time": 43735,
+        "end_time": 46056,
+        "text": "the guest in room 2 to move to room 3,"
+    },
+    {
+        "index": 17,
+        "start_time": 46080,
+        "end_time": 47138,
+        "text": "and so on."
+    },
+    {
+        "index": 18,
+        "start_time": 47449,
+        "end_time": 49838,
+        "text": "Every guest moves from room number &quot;n&quot;"
+    },
+    {
+        "index": 19,
+        "start_time": 49862,
+        "end_time": 52179,
+        "text": "to room number &quot;n+1&quot;."
+    },
+    {
+        "index": 20,
+        "start_time": 52721,
+        "end_time": 54812,
+        "text": "Since there are an infinite\nnumber of rooms,"
+    },
+    {
+        "index": 21,
+        "start_time": 54836,
+        "end_time": 57009,
+        "text": "there is a new room\nfor each existing guest."
+    },
+    {
+        "index": 22,
+        "start_time": 57413,
+        "end_time": 59760,
+        "text": "This leaves room 1 open\nfor the new customer."
+    },
+    {
+        "index": 23,
+        "start_time": 59784,
+        "end_time": 61070,
+        "text": "The process can be repeated"
+    },
+    {
+        "index": 24,
+        "start_time": 61094,
+        "end_time": 63511,
+        "text": "for any finite number of new guests."
+    },
+    {
+        "index": 25,
+        "start_time": 63535,
+        "end_time": 67529,
+        "text": "If, say, a tour bus unloads\n40 new people looking for rooms,"
+    },
+    {
+        "index": 26,
+        "start_time": 67553,
+        "end_time": 69642,
+        "text": "then every existing guest just moves"
+    },
+    {
+        "index": 27,
+        "start_time": 69666,
+        "end_time": 70980,
+        "text": "from room number &quot;n&quot;"
+    },
+    {
+        "index": 28,
+        "start_time": 71004,
+        "end_time": 73638,
+        "text": "to room number &quot;n+40&quot;,"
+    },
+    {
+        "index": 29,
+        "start_time": 73662,
+        "end_time": 76200,
+        "text": "thus, opening up the first 40 rooms."
+    },
+    {
+        "index": 30,
+        "start_time": 77157,
+        "end_time": 79171,
+        "text": "But now an infinitely large bus"
+    },
+    {
+        "index": 31,
+        "start_time": 79195,
+        "end_time": 81744,
+        "text": "with a countably infinite\nnumber of passengers"
+    },
+    {
+        "index": 32,
+        "start_time": 81768,
+        "end_time": 83673,
+        "text": "pulls up to rent rooms."
+    },
+    {
+        "index": 33,
+        "start_time": 83697,
+        "end_time": 85686,
+        "text": "countably infinite is the key."
+    },
+    {
+        "index": 34,
+        "start_time": 86164,
+        "end_time": 88530,
+        "text": "Now, the infinite bus\nof infinite passengers"
+    },
+    {
+        "index": 35,
+        "start_time": 88554,
+        "end_time": 90518,
+        "text": "perplexes the night manager at first,"
+    },
+    {
+        "index": 36,
+        "start_time": 90542,
+        "end_time": 92010,
+        "text": "but he realizes there&#39;s a way"
+    },
+    {
+        "index": 37,
+        "start_time": 92034,
+        "end_time": 93349,
+        "text": "to place each new person."
+    },
+    {
+        "index": 38,
+        "start_time": 93373,
+        "end_time": 96391,
+        "text": "He asks the guest in room 1\nto move to room 2."
+    },
+    {
+        "index": 39,
+        "start_time": 96415,
+        "end_time": 98527,
+        "text": "He then asks the guest in room 2"
+    },
+    {
+        "index": 40,
+        "start_time": 98551,
+        "end_time": 100435,
+        "text": "to move to room 4,"
+    },
+    {
+        "index": 41,
+        "start_time": 100459,
+        "end_time": 102809,
+        "text": "the guest in room 3 to move to room 6,"
+    },
+    {
+        "index": 42,
+        "start_time": 102833,
+        "end_time": 104105,
+        "text": "and so on."
+    },
+    {
+        "index": 43,
+        "start_time": 104129,
+        "end_time": 107313,
+        "text": "Each current guest moves\nfrom room number &quot;n&quot;"
+    },
+    {
+        "index": 44,
+        "start_time": 107337,
+        "end_time": 109029,
+        "text": "to room number &quot;2n&quot; --"
+    },
+    {
+        "index": 45,
+        "start_time": 110807,
+        "end_time": 114060,
+        "text": "filling up only the infinite\neven-numbered rooms."
+    },
+    {
+        "index": 46,
+        "start_time": 114084,
+        "end_time": 115929,
+        "text": "By doing this, he has now emptied"
+    },
+    {
+        "index": 47,
+        "start_time": 115953,
+        "end_time": 118867,
+        "text": "all of the infinitely many\nodd-numbered rooms,"
+    },
+    {
+        "index": 48,
+        "start_time": 118891,
+        "end_time": 122506,
+        "text": "which are then taken by the people\nfiling off the infinite bus."
+    },
+    {
+        "index": 49,
+        "start_time": 123242,
+        "end_time": 126875,
+        "text": "Everyone&#39;s happy and the hotel&#39;s business\nis booming more than ever."
+    },
+    {
+        "index": 50,
+        "start_time": 126899,
+        "end_time": 130416,
+        "text": "Well, actually, it is booming\nexactly the same amount as ever,"
+    },
+    {
+        "index": 51,
+        "start_time": 130440,
+        "end_time": 132923,
+        "text": "banking an infinite number\nof dollars a night."
+    },
+    {
+        "index": 52,
+        "start_time": 134076,
+        "end_time": 136355,
+        "text": "Word spreads about this incredible hotel."
+    },
+    {
+        "index": 53,
+        "start_time": 136379,
+        "end_time": 138544,
+        "text": "People pour in from far and wide."
+    },
+    {
+        "index": 54,
+        "start_time": 138568,
+        "end_time": 140842,
+        "text": "One night, the unthinkable happens."
+    },
+    {
+        "index": 55,
+        "start_time": 140866,
+        "end_time": 143407,
+        "text": "The night manager looks outside"
+    },
+    {
+        "index": 56,
+        "start_time": 143431,
+        "end_time": 147517,
+        "text": "and sees an infinite line\nof infinitely large buses,"
+    },
+    {
+        "index": 57,
+        "start_time": 147541,
+        "end_time": 150329,
+        "text": "each with a countably infinite\nnumber of passengers."
+    },
+    {
+        "index": 58,
+        "start_time": 150353,
+        "end_time": 151386,
+        "text": "What can he do?"
+    },
+    {
+        "index": 59,
+        "start_time": 151410,
+        "end_time": 154207,
+        "text": "If he cannot find rooms for them,\nthe hotel will lose out"
+    },
+    {
+        "index": 60,
+        "start_time": 154231,
+        "end_time": 155958,
+        "text": "on an infinite amount of money,"
+    },
+    {
+        "index": 61,
+        "start_time": 155982,
+        "end_time": 157955,
+        "text": "and he will surely lose his job."
+    },
+    {
+        "index": 62,
+        "start_time": 157979,
+        "end_time": 161790,
+        "text": "Luckily, he remembers\nthat around the year 300 B.C.E.,"
+    },
+    {
+        "index": 63,
+        "start_time": 161814,
+        "end_time": 164726,
+        "text": "Euclid proved that there\nis an infinite quantity"
+    },
+    {
+        "index": 64,
+        "start_time": 164750,
+        "end_time": 166634,
+        "text": "of prime numbers."
+    },
+    {
+        "index": 65,
+        "start_time": 167372,
+        "end_time": 169660,
+        "text": "So, to accomplish this\nseemingly impossible task"
+    },
+    {
+        "index": 66,
+        "start_time": 169684,
+        "end_time": 172285,
+        "text": "of finding infinite beds\nfor infinite buses"
+    },
+    {
+        "index": 67,
+        "start_time": 172309,
+        "end_time": 174291,
+        "text": "of infinite weary travelers,"
+    },
+    {
+        "index": 68,
+        "start_time": 174315,
+        "end_time": 177182,
+        "text": "the night manager assigns\nevery current guest"
+    },
+    {
+        "index": 69,
+        "start_time": 177206,
+        "end_time": 179042,
+        "text": "to the first prime number, 2,"
+    },
+    {
+        "index": 70,
+        "start_time": 179066,
+        "end_time": 181867,
+        "text": "raised to the power\nof their current room number."
+    },
+    {
+        "index": 71,
+        "start_time": 181891,
+        "end_time": 184535,
+        "text": "So, the current occupant of room number 7"
+    },
+    {
+        "index": 72,
+        "start_time": 184559,
+        "end_time": 187541,
+        "text": "goes to room number 2^7,"
+    },
+    {
+        "index": 73,
+        "start_time": 187565,
+        "end_time": 189261,
+        "text": "which is room 128."
+    },
+    {
+        "index": 74,
+        "start_time": 190236,
+        "end_time": 193757,
+        "text": "The night manager then takes the people\non the first of the infinite buses"
+    },
+    {
+        "index": 75,
+        "start_time": 193781,
+        "end_time": 195806,
+        "text": "and assigns them to the room number"
+    },
+    {
+        "index": 76,
+        "start_time": 195830,
+        "end_time": 198291,
+        "text": "of the next prime, 3,"
+    },
+    {
+        "index": 77,
+        "start_time": 198315,
+        "end_time": 201728,
+        "text": "raised to the power of their seat\nnumber on the bus."
+    },
+    {
+        "index": 78,
+        "start_time": 201752,
+        "end_time": 205259,
+        "text": "So, the person in seat\nnumber 7 on the first bus"
+    },
+    {
+        "index": 79,
+        "start_time": 205283,
+        "end_time": 208360,
+        "text": "goes to room number 3^7"
+    },
+    {
+        "index": 80,
+        "start_time": 208384,
+        "end_time": 211610,
+        "text": "or room number 2,187."
+    },
+    {
+        "index": 81,
+        "start_time": 211634,
+        "end_time": 214069,
+        "text": "This continues for all of the first bus."
+    },
+    {
+        "index": 82,
+        "start_time": 214093,
+        "end_time": 215741,
+        "text": "The passengers on the second bus"
+    },
+    {
+        "index": 83,
+        "start_time": 215765,
+        "end_time": 219410,
+        "text": "are assigned powers of the next prime, 5."
+    },
+    {
+        "index": 84,
+        "start_time": 219434,
+        "end_time": 221493,
+        "text": "The following bus, powers of 7."
+    },
+    {
+        "index": 85,
+        "start_time": 221517,
+        "end_time": 222921,
+        "text": "Each bus follows:"
+    },
+    {
+        "index": 86,
+        "start_time": 222945,
+        "end_time": 224746,
+        "text": "powers of 11, powers of 13,"
+    },
+    {
+        "index": 87,
+        "start_time": 224770,
+        "end_time": 226799,
+        "text": "powers of 17, etc."
+    },
+    {
+        "index": 88,
+        "start_time": 227370,
+        "end_time": 228729,
+        "text": "Since each of these numbers"
+    },
+    {
+        "index": 89,
+        "start_time": 228753,
+        "end_time": 230968,
+        "text": "only has 1 and the natural number powers"
+    },
+    {
+        "index": 90,
+        "start_time": 230992,
+        "end_time": 233213,
+        "text": "of their prime number base as factors,"
+    },
+    {
+        "index": 91,
+        "start_time": 233237,
+        "end_time": 235386,
+        "text": "there are no overlapping room numbers."
+    },
+    {
+        "index": 92,
+        "start_time": 235410,
+        "end_time": 238339,
+        "text": "All the buses&#39; passengers\nfan out into rooms"
+    },
+    {
+        "index": 93,
+        "start_time": 238363,
+        "end_time": 240846,
+        "text": "using unique room-assignment schemes"
+    },
+    {
+        "index": 94,
+        "start_time": 240870,
+        "end_time": 243486,
+        "text": "based on unique prime numbers."
+    },
+    {
+        "index": 95,
+        "start_time": 243510,
+        "end_time": 245701,
+        "text": "In this way, the night\nmanager can accommodate"
+    },
+    {
+        "index": 96,
+        "start_time": 245725,
+        "end_time": 247846,
+        "text": "every passenger on every bus."
+    },
+    {
+        "index": 97,
+        "start_time": 247870,
+        "end_time": 251064,
+        "text": "Although, there will be\nmany rooms that go unfilled,"
+    },
+    {
+        "index": 98,
+        "start_time": 251088,
+        "end_time": 252356,
+        "text": "like room 6,"
+    },
+    {
+        "index": 99,
+        "start_time": 252380,
+        "end_time": 255095,
+        "text": "since 6 is not a power\nof any prime number."
+    },
+    {
+        "index": 100,
+        "start_time": 255119,
+        "end_time": 257512,
+        "text": "Luckily, his bosses\nweren&#39;t very good in math,"
+    },
+    {
+        "index": 101,
+        "start_time": 257536,
+        "end_time": 258875,
+        "text": "so his job is safe."
+    },
+    {
+        "index": 102,
+        "start_time": 259507,
+        "end_time": 262007,
+        "text": "The night manager&#39;s strategies\nare only possible"
+    },
+    {
+        "index": 103,
+        "start_time": 262031,
+        "end_time": 266624,
+        "text": "because while the Infinite Hotel\nis certainly a logistical nightmare,"
+    },
+    {
+        "index": 104,
+        "start_time": 266648,
+        "end_time": 269957,
+        "text": "it only deals with the lowest\nlevel of infinity,"
+    },
+    {
+        "index": 105,
+        "start_time": 269981,
+        "end_time": 273513,
+        "text": "mainly, the countable infinity\nof the natural numbers,"
+    },
+    {
+        "index": 106,
+        "start_time": 273537,
+        "end_time": 276594,
+        "text": "1, 2, 3, 4, and so on."
+    },
+    {
+        "index": 107,
+        "start_time": 276618,
+        "end_time": 280513,
+        "text": "Georg Cantor called this level\nof infinity aleph-zero."
+    },
+    {
+        "index": 108,
+        "start_time": 280945,
+        "end_time": 283042,
+        "text": "We use natural numbers\nfor the room numbers"
+    },
+    {
+        "index": 109,
+        "start_time": 283066,
+        "end_time": 285188,
+        "text": "as well as the seat numbers on the buses."
+    },
+    {
+        "index": 110,
+        "start_time": 285913,
+        "end_time": 288252,
+        "text": "If we were dealing\nwith higher orders of infinity,"
+    },
+    {
+        "index": 111,
+        "start_time": 288276,
+        "end_time": 289848,
+        "text": "such as that of the real numbers,"
+    },
+    {
+        "index": 112,
+        "start_time": 289872,
+        "end_time": 292844,
+        "text": "these structured strategies\nwould no longer be possible"
+    },
+    {
+        "index": 113,
+        "start_time": 292868,
+        "end_time": 296405,
+        "text": "as we have no way\nto systematically include every number."
+    },
+    {
+        "index": 114,
+        "start_time": 297002,
+        "end_time": 298803,
+        "text": "The Real Number Infinite Hotel"
+    },
+    {
+        "index": 115,
+        "start_time": 298827,
+        "end_time": 300905,
+        "text": "has negative number rooms in the basement,"
+    },
+    {
+        "index": 116,
+        "start_time": 300929,
+        "end_time": 302364,
+        "text": "fractional rooms,"
+    },
+    {
+        "index": 117,
+        "start_time": 302388,
+        "end_time": 304484,
+        "text": "so the guy in room 1\/2 always suspects"
+    },
+    {
+        "index": 118,
+        "start_time": 304508,
+        "end_time": 307181,
+        "text": "he has less room than the guy in room 1."
+    },
+    {
+        "index": 119,
+        "start_time": 307205,
+        "end_time": 310308,
+        "text": "Square root rooms, like room radical 2,"
+    },
+    {
+        "index": 120,
+        "start_time": 310332,
+        "end_time": 311438,
+        "text": "and room pi,"
+    },
+    {
+        "index": 121,
+        "start_time": 311462,
+        "end_time": 314325,
+        "text": "where the guests expect free dessert."
+    },
+    {
+        "index": 122,
+        "start_time": 314349,
+        "end_time": 317374,
+        "text": "What self-respecting night manager\nwould ever want to work there"
+    },
+    {
+        "index": 123,
+        "start_time": 317398,
+        "end_time": 319005,
+        "text": "even for an infinite salary?"
+    },
+    {
+        "index": 124,
+        "start_time": 319029,
+        "end_time": 320918,
+        "text": "But over at Hilbert&#39;s Infinite Hotel,"
+    },
+    {
+        "index": 125,
+        "start_time": 320942,
+        "end_time": 322420,
+        "text": "where there&#39;s never any vacancy"
+    },
+    {
+        "index": 126,
+        "start_time": 322444,
+        "end_time": 324004,
+        "text": "and always room for more,"
+    },
+    {
+        "index": 127,
+        "start_time": 324028,
+        "end_time": 326926,
+        "text": "the scenarios faced by the ever-diligent"
+    },
+    {
+        "index": 128,
+        "start_time": 326950,
+        "end_time": 328760,
+        "text": "and maybe too hospitable night manager"
+    },
+    {
+        "index": 129,
+        "start_time": 328784,
+        "end_time": 331490,
+        "text": "serve to remind us of just how hard it is"
+    },
+    {
+        "index": 130,
+        "start_time": 331514,
+        "end_time": 333905,
+        "text": "for our relatively finite minds"
+    },
+    {
+        "index": 131,
+        "start_time": 333929,
+        "end_time": 336767,
+        "text": "to grasp a concept as large as infinity."
+    },
+    {
+        "index": 132,
+        "start_time": 337132,
+        "end_time": 339083,
+        "text": "Maybe you can help tackle these problems"
+    },
+    {
+        "index": 133,
+        "start_time": 339107,
+        "end_time": 340403,
+        "text": "after a good night&#39;s sleep."
+    },
+    {
+        "index": 134,
+        "start_time": 340427,
+        "end_time": 342276,
+        "text": "But honestly, we might need you"
+    },
+    {
+        "index": 135,
+        "start_time": 342300,
+        "end_time": 344701,
+        "text": "to change rooms at 2 a.m."
+    }
+]

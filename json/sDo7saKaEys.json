@@ -1,0 +1,602 @@
+[
+    {
+        "index": 1,
+        "start_time": 8566,
+        "end_time": 15283,
+        "text": "Cloudy climate change:\nHow clouds affect Earth&#39;s temperature."
+    },
+    {
+        "index": 2,
+        "start_time": 15283,
+        "end_time": 20988,
+        "text": "Earth&#39;s average surface temperature\nhas warmed by .8 Celsius since 1750."
+    },
+    {
+        "index": 3,
+        "start_time": 20988,
+        "end_time": 24577,
+        "text": "When carbon dioxide concentrations\nin the atmosphere have doubled,"
+    },
+    {
+        "index": 4,
+        "start_time": 24577,
+        "end_time": 28253,
+        "text": "which is expected before the end\nof the 21st century,"
+    },
+    {
+        "index": 5,
+        "start_time": 28253,
+        "end_time": 30583,
+        "text": "researchers project global temperatures"
+    },
+    {
+        "index": 6,
+        "start_time": 30583,
+        "end_time": 35602,
+        "text": "will have risen by \n1.5 to 4.5 degrees Celsius."
+    },
+    {
+        "index": 7,
+        "start_time": 35602,
+        "end_time": 39623,
+        "text": "If the increase is near the low end,\n1.5 Celsius,"
+    },
+    {
+        "index": 8,
+        "start_time": 39623,
+        "end_time": 43675,
+        "text": "then we&#39;re already halfway there,\nand we should be more able to adapt"
+    },
+    {
+        "index": 9,
+        "start_time": 43675,
+        "end_time": 46491,
+        "text": "with some regions becoming drier\nand less productive,"
+    },
+    {
+        "index": 10,
+        "start_time": 46491,
+        "end_time": 50588,
+        "text": "but others becoming warmer,\nwetter and more productive."
+    },
+    {
+        "index": 11,
+        "start_time": 50588,
+        "end_time": 56062,
+        "text": "On the other hand, a rise of 4.5 degrees\nCelsius would be similar in magnitude"
+    },
+    {
+        "index": 12,
+        "start_time": 56062,
+        "end_time": 61939,
+        "text": "to the warming that&#39;s occurred since\nthe last glacial maximum 22,000 years ago,"
+    },
+    {
+        "index": 13,
+        "start_time": 61939,
+        "end_time": 66715,
+        "text": "when most of North America was under\nan ice sheet two kilometers thick."
+    },
+    {
+        "index": 14,
+        "start_time": 66715,
+        "end_time": 71040,
+        "text": "So that would represent a \ndramatic change of climate."
+    },
+    {
+        "index": 15,
+        "start_time": 71040,
+        "end_time": 74750,
+        "text": "So it&#39;s vitally important for scientists\nto predict the change in temperature"
+    },
+    {
+        "index": 16,
+        "start_time": 74750,
+        "end_time": 80294,
+        "text": "with as much precision as possible\nso that society can plan for the future."
+    },
+    {
+        "index": 17,
+        "start_time": 80294,
+        "end_time": 82778,
+        "text": "The present range of uncertainty\nis simply too large"
+    },
+    {
+        "index": 18,
+        "start_time": 82778,
+        "end_time": 87567,
+        "text": "to be confident of how best\nto respond to climate change."
+    },
+    {
+        "index": 19,
+        "start_time": 87567,
+        "end_time": 93279,
+        "text": "But this estimate of 1.5 to 4.5 Celsius\nfor a doubling of carbon dioxide"
+    },
+    {
+        "index": 20,
+        "start_time": 93279,
+        "end_time": 96575,
+        "text": "hasn&#39;t changed in 35 years."
+    },
+    {
+        "index": 21,
+        "start_time": 96575,
+        "end_time": 99707,
+        "text": "Why haven&#39;t we been able \nto narrow it down?"
+    },
+    {
+        "index": 22,
+        "start_time": 99707,
+        "end_time": 104566,
+        "text": "The answer is that we don&#39;t yet understand\naerosols and clouds well enough."
+    },
+    {
+        "index": 23,
+        "start_time": 104566,
+        "end_time": 107844,
+        "text": "But a new experiment at CERN\nis tackling the problem."
+    },
+    {
+        "index": 24,
+        "start_time": 107844,
+        "end_time": 110292,
+        "text": "In order to predict how\nthe temperature will change,"
+    },
+    {
+        "index": 25,
+        "start_time": 110292,
+        "end_time": 113947,
+        "text": "scientists need to know something\ncalled Earth&#39;s climate sensitivity,"
+    },
+    {
+        "index": 26,
+        "start_time": 113947,
+        "end_time": 117981,
+        "text": "the temperature change in response\nto a radiative forcing."
+    },
+    {
+        "index": 27,
+        "start_time": 117981,
+        "end_time": 120640,
+        "text": "A radiative forcing is \na temporary imbalance"
+    },
+    {
+        "index": 28,
+        "start_time": 120640,
+        "end_time": 126154,
+        "text": "between the energy received from the Sun\nand the energy radiated back out to space,"
+    },
+    {
+        "index": 29,
+        "start_time": 126154,
+        "end_time": 129636,
+        "text": "like the imbalance caused by an\nincrease of greenhouse gases."
+    },
+    {
+        "index": 30,
+        "start_time": 129636,
+        "end_time": 133114,
+        "text": "To correct the imbalance,\nEarth warms up or cools down."
+    },
+    {
+        "index": 31,
+        "start_time": 133114,
+        "end_time": 135663,
+        "text": "We can determine Earth&#39;s\nclimate sensitivity"
+    },
+    {
+        "index": 32,
+        "start_time": 135663,
+        "end_time": 138031,
+        "text": "from the experiment that we&#39;ve already"
+    },
+    {
+        "index": 33,
+        "start_time": 138031,
+        "end_time": 140964,
+        "text": "performed in the industrial age \nsince 1750"
+    },
+    {
+        "index": 34,
+        "start_time": 140964,
+        "end_time": 144516,
+        "text": "and then use this number to determine\nhow much more it will warm"
+    },
+    {
+        "index": 35,
+        "start_time": 144516,
+        "end_time": 149186,
+        "text": "for various projected radiative forcings\nin the 21st century."
+    },
+    {
+        "index": 36,
+        "start_time": 149186,
+        "end_time": 151590,
+        "text": "To do this, we need to know\ntwo things:"
+    },
+    {
+        "index": 37,
+        "start_time": 151590,
+        "end_time": 155560,
+        "text": "First, the global temperature rise\nsince 1750,"
+    },
+    {
+        "index": 38,
+        "start_time": 155560,
+        "end_time": 159349,
+        "text": "and second, the radiative forcing\nof the present day climate"
+    },
+    {
+        "index": 39,
+        "start_time": 159349,
+        "end_time": 162480,
+        "text": "relative to the pre-industrial climate."
+    },
+    {
+        "index": 40,
+        "start_time": 162480,
+        "end_time": 165043,
+        "text": "For the radiative forcings,\nwe know that human activities"
+    },
+    {
+        "index": 41,
+        "start_time": 165043,
+        "end_time": 167560,
+        "text": "have increased greenhouse gases\nin the atmosphere,"
+    },
+    {
+        "index": 42,
+        "start_time": 167560,
+        "end_time": 169653,
+        "text": "which have warmed the planet."
+    },
+    {
+        "index": 43,
+        "start_time": 169653,
+        "end_time": 173351,
+        "text": "But our activities have at the same time\nincreased the amount"
+    },
+    {
+        "index": 44,
+        "start_time": 173351,
+        "end_time": 177794,
+        "text": "of aerosol particles in clouds,\nwhich have cooled the planet."
+    },
+    {
+        "index": 45,
+        "start_time": 177794,
+        "end_time": 181131,
+        "text": "Pre-industrial greenhouse gas\nconcentrations are well measured"
+    },
+    {
+        "index": 46,
+        "start_time": 181131,
+        "end_time": 185435,
+        "text": "from bubbles trapped in ice cores\nobtained in Greenland and Antarctica."
+    },
+    {
+        "index": 47,
+        "start_time": 185435,
+        "end_time": 188896,
+        "text": "So the greenhouse gas forcings\nare precisely known."
+    },
+    {
+        "index": 48,
+        "start_time": 188896,
+        "end_time": 194239,
+        "text": "But we have no way of directly measuring\nhow cloudy it was in 1750."
+    },
+    {
+        "index": 49,
+        "start_time": 194239,
+        "end_time": 199223,
+        "text": "And that&#39;s the main source of uncertainty\nin Earth&#39;s climate sensitivity."
+    },
+    {
+        "index": 50,
+        "start_time": 199223,
+        "end_time": 201601,
+        "text": "To understand pre-industrial cloudiness,"
+    },
+    {
+        "index": 51,
+        "start_time": 201601,
+        "end_time": 204401,
+        "text": "we must use computer models\nthat reliably simulate"
+    },
+    {
+        "index": 52,
+        "start_time": 204401,
+        "end_time": 208398,
+        "text": "the processes responsible for \nforming aerosols in clouds."
+    },
+    {
+        "index": 53,
+        "start_time": 208398,
+        "end_time": 212038,
+        "text": "Now to most people, aerosols are the thing\nthat make your hair stick,"
+    },
+    {
+        "index": 54,
+        "start_time": 212038,
+        "end_time": 214263,
+        "text": "but that&#39;s only one type of aerosol."
+    },
+    {
+        "index": 55,
+        "start_time": 214263,
+        "end_time": 219116,
+        "text": "Atmospheric aerosols are tiny liquid\nor solid particles suspended in the air."
+    },
+    {
+        "index": 56,
+        "start_time": 219116,
+        "end_time": 220570,
+        "text": "They are either primary,"
+    },
+    {
+        "index": 57,
+        "start_time": 220570,
+        "end_time": 224389,
+        "text": "from dust, sea spray salt\nor burning biomass,"
+    },
+    {
+        "index": 58,
+        "start_time": 224389,
+        "end_time": 229188,
+        "text": "or secondary, formed by gas to\nparticle conversion in the atmosphere,"
+    },
+    {
+        "index": 59,
+        "start_time": 229188,
+        "end_time": 231940,
+        "text": "also known as particle nucleation."
+    },
+    {
+        "index": 60,
+        "start_time": 231940,
+        "end_time": 234786,
+        "text": "Aerosols are everywhere in the atmosphere,"
+    },
+    {
+        "index": 61,
+        "start_time": 234786,
+        "end_time": 238282,
+        "text": "and they can block out the sun\nin polluted urban environments,"
+    },
+    {
+        "index": 62,
+        "start_time": 238282,
+        "end_time": 241747,
+        "text": "or bathe distant mountains in a blue haze."
+    },
+    {
+        "index": 63,
+        "start_time": 241747,
+        "end_time": 247555,
+        "text": "More importantly, a cloud droplet cannot\nform without an aerosol particle seed."
+    },
+    {
+        "index": 64,
+        "start_time": 247555,
+        "end_time": 251320,
+        "text": "So without aerosol particles,\nthere&#39;d be no clouds,"
+    },
+    {
+        "index": 65,
+        "start_time": 251320,
+        "end_time": 254201,
+        "text": "and without clouds,\nthere&#39;d be no fresh water."
+    },
+    {
+        "index": 66,
+        "start_time": 254201,
+        "end_time": 258507,
+        "text": "The climate would be much hotter,\nand there would be no life."
+    },
+    {
+        "index": 67,
+        "start_time": 258507,
+        "end_time": 262645,
+        "text": "So we owe our existence\nto aerosol particles."
+    },
+    {
+        "index": 68,
+        "start_time": 262645,
+        "end_time": 264207,
+        "text": "However, despite their importance,"
+    },
+    {
+        "index": 69,
+        "start_time": 264207,
+        "end_time": 266738,
+        "text": "how aerosol particles form\nin the atmosphere"
+    },
+    {
+        "index": 70,
+        "start_time": 266738,
+        "end_time": 270334,
+        "text": "and their effect on clouds \nare poorly understood."
+    },
+    {
+        "index": 71,
+        "start_time": 270334,
+        "end_time": 273681,
+        "text": "Even the vapors responsible\nfor aerosol particle formation"
+    },
+    {
+        "index": 72,
+        "start_time": 273681,
+        "end_time": 275280,
+        "text": "are not well established"
+    },
+    {
+        "index": 73,
+        "start_time": 275280,
+        "end_time": 278197,
+        "text": "because they&#39;re present in only\nminute amounts,"
+    },
+    {
+        "index": 74,
+        "start_time": 278197,
+        "end_time": 282410,
+        "text": "near one molecule per million million\nmolecules of air."
+    },
+    {
+        "index": 75,
+        "start_time": 282410,
+        "end_time": 285303,
+        "text": "This lack of understanding\nis the main reason"
+    },
+    {
+        "index": 76,
+        "start_time": 285303,
+        "end_time": 288294,
+        "text": "for the large uncertainty \nin climate sensitivity,"
+    },
+    {
+        "index": 77,
+        "start_time": 288294,
+        "end_time": 292680,
+        "text": "and the corresponding wide range\nof future climate projections."
+    },
+    {
+        "index": 78,
+        "start_time": 292680,
+        "end_time": 298538,
+        "text": "However, an experiment underway at CERN,\nnamed, perhaps unsurprisingly, &quot;Cloud&quot;"
+    },
+    {
+        "index": 79,
+        "start_time": 298538,
+        "end_time": 301301,
+        "text": "has managed to build a steel vessel\nthat&#39;s large enough"
+    },
+    {
+        "index": 80,
+        "start_time": 301301,
+        "end_time": 305996,
+        "text": "and has a low enough contamination,\nthat aerosol formation can,"
+    },
+    {
+        "index": 81,
+        "start_time": 305996,
+        "end_time": 311231,
+        "text": "for the first time, be measured under\ntightly controlled atmospheric conditions"
+    },
+    {
+        "index": 82,
+        "start_time": 311231,
+        "end_time": 313094,
+        "text": "in the laboratory."
+    },
+    {
+        "index": 83,
+        "start_time": 313094,
+        "end_time": 317184,
+        "text": "In its first five years of operation,\nCloud has identified the vapors"
+    },
+    {
+        "index": 84,
+        "start_time": 317184,
+        "end_time": 320608,
+        "text": "responsible for aerosol particle\nformation in the atmosphere,"
+    },
+    {
+        "index": 85,
+        "start_time": 320608,
+        "end_time": 324422,
+        "text": "which include sulfuric acid,\nammonia, amines,"
+    },
+    {
+        "index": 86,
+        "start_time": 324422,
+        "end_time": 327059,
+        "text": "and biogenic vapors from trees."
+    },
+    {
+        "index": 87,
+        "start_time": 327059,
+        "end_time": 330598,
+        "text": "Using an ionizing particle beam\nfrom the CERN proton synchrotron,"
+    },
+    {
+        "index": 88,
+        "start_time": 330598,
+        "end_time": 334844,
+        "text": "Cloud is also investigating\nif galactic cosmic rays"
+    },
+    {
+        "index": 89,
+        "start_time": 334844,
+        "end_time": 338865,
+        "text": "enhance the formation of \naerosols in clouds."
+    },
+    {
+        "index": 90,
+        "start_time": 338865,
+        "end_time": 343526,
+        "text": "This has been suggested as a possible\nunaccounted natural climate forcing agent"
+    },
+    {
+        "index": 91,
+        "start_time": 343526,
+        "end_time": 347077,
+        "text": "since the flux of cosmic rays raining\ndown on the atmosphere"
+    },
+    {
+        "index": 92,
+        "start_time": 347077,
+        "end_time": 349918,
+        "text": "varies with solar activity."
+    },
+    {
+        "index": 93,
+        "start_time": 349918,
+        "end_time": 353460,
+        "text": "So Cloud is addressing two big questions:"
+    },
+    {
+        "index": 94,
+        "start_time": 353460,
+        "end_time": 357600,
+        "text": "Firstly, how cloudy was the \npre-industrial climate?"
+    },
+    {
+        "index": 95,
+        "start_time": 357600,
+        "end_time": 363069,
+        "text": "And, hence, how much have\nclouds changed due to human activities?"
+    },
+    {
+        "index": 96,
+        "start_time": 363069,
+        "end_time": 368232,
+        "text": "That knowledge will help sharpen\nclimate projections in the 21st century."
+    },
+    {
+        "index": 97,
+        "start_time": 368232,
+        "end_time": 372735,
+        "text": "And secondly, could the puzzling\nobservations of solar climate variability"
+    },
+    {
+        "index": 98,
+        "start_time": 372735,
+        "end_time": 375941,
+        "text": "in the pre-industrial climate be explained\nby an influence"
+    },
+    {
+        "index": 99,
+        "start_time": 375941,
+        "end_time": 378533,
+        "text": "of galactic cosmic rays on clouds?"
+    },
+    {
+        "index": 100,
+        "start_time": 378533,
+        "end_time": 383745,
+        "text": "Ambitious but realistic goals\nwhen your head&#39;s in the clouds."
+    }
+]

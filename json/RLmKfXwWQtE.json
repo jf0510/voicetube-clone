@@ -1,0 +1,770 @@
+[
+    {
+        "index": 1,
+        "start_time": 0,
+        "end_time": 7000,
+        "text": "Translator: Jessica Ruby\nReviewer: Caroline Cristal"
+    },
+    {
+        "index": 2,
+        "start_time": 7161,
+        "end_time": 10536,
+        "text": "Russia, with the largest territory in the world,"
+    },
+    {
+        "index": 3,
+        "start_time": 10536,
+        "end_time": 13751,
+        "text": "has roughly the same total population as Nigeria,"
+    },
+    {
+        "index": 4,
+        "start_time": 13751,
+        "end_time": 16255,
+        "text": "a country 1\/16 its size."
+    },
+    {
+        "index": 5,
+        "start_time": 16255,
+        "end_time": 18369,
+        "text": "But this similarity won&#39;t last long."
+    },
+    {
+        "index": 6,
+        "start_time": 18369,
+        "end_time": 21009,
+        "text": "One of the populations is rapidly growing,"
+    },
+    {
+        "index": 7,
+        "start_time": 21009,
+        "end_time": 23427,
+        "text": "while the other is slowly declining."
+    },
+    {
+        "index": 8,
+        "start_time": 23427,
+        "end_time": 25616,
+        "text": "What can this tell us about the two countries?"
+    },
+    {
+        "index": 9,
+        "start_time": 25616,
+        "end_time": 29641,
+        "text": "Population statistics are some of the most important data"
+    },
+    {
+        "index": 10,
+        "start_time": 29641,
+        "end_time": 33367,
+        "text": "social scientists and policy experts have to work with."
+    },
+    {
+        "index": 11,
+        "start_time": 33367,
+        "end_time": 35201,
+        "text": "But understanding a country&#39;s situation"
+    },
+    {
+        "index": 12,
+        "start_time": 35201,
+        "end_time": 37066,
+        "text": "and making accurate predictions"
+    },
+    {
+        "index": 13,
+        "start_time": 37066,
+        "end_time": 40283,
+        "text": "requires knowing not just the total size of the population"
+    },
+    {
+        "index": 14,
+        "start_time": 40283,
+        "end_time": 42403,
+        "text": "but its internal characteristics,"
+    },
+    {
+        "index": 15,
+        "start_time": 42403,
+        "end_time": 45240,
+        "text": "such as age and gender distribution."
+    },
+    {
+        "index": 16,
+        "start_time": 45240,
+        "end_time": 47044,
+        "text": "So, how can we keep track of all that data"
+    },
+    {
+        "index": 17,
+        "start_time": 47044,
+        "end_time": 49867,
+        "text": "in a way that makes it easy to comprehend?"
+    },
+    {
+        "index": 18,
+        "start_time": 49867,
+        "end_time": 51996,
+        "text": "Complex data is more easily interpreted"
+    },
+    {
+        "index": 19,
+        "start_time": 51996,
+        "end_time": 53499,
+        "text": "through visualization,"
+    },
+    {
+        "index": 20,
+        "start_time": 53499,
+        "end_time": 55375,
+        "text": "and one of the ways that demographers represent"
+    },
+    {
+        "index": 21,
+        "start_time": 55375,
+        "end_time": 57919,
+        "text": "the internal distribution of a population"
+    },
+    {
+        "index": 22,
+        "start_time": 57919,
+        "end_time": 60178,
+        "text": "is the population pyramid."
+    },
+    {
+        "index": 23,
+        "start_time": 60178,
+        "end_time": 62451,
+        "text": "Here, the data is divided by gender"
+    },
+    {
+        "index": 24,
+        "start_time": 62451,
+        "end_time": 65510,
+        "text": "with females on one side and males on the other."
+    },
+    {
+        "index": 25,
+        "start_time": 65510,
+        "end_time": 67055,
+        "text": "The population numbers are shown"
+    },
+    {
+        "index": 26,
+        "start_time": 67055,
+        "end_time": 69116,
+        "text": "for each five-year age interval,"
+    },
+    {
+        "index": 27,
+        "start_time": 69116,
+        "end_time": 70974,
+        "text": "starting from 0-4"
+    },
+    {
+        "index": 28,
+        "start_time": 70974,
+        "end_time": 72977,
+        "text": "and continuing up to 100 and up."
+    },
+    {
+        "index": 29,
+        "start_time": 72977,
+        "end_time": 74813,
+        "text": "These intervals are grouped together"
+    },
+    {
+        "index": 30,
+        "start_time": 74813,
+        "end_time": 77570,
+        "text": "into pre-reproductive (0-14),"
+    },
+    {
+        "index": 31,
+        "start_time": 77570,
+        "end_time": 80151,
+        "text": "reproductive (15-44),"
+    },
+    {
+        "index": 32,
+        "start_time": 80151,
+        "end_time": 83369,
+        "text": "and post-reproductive years (45 and up)."
+    },
+    {
+        "index": 33,
+        "start_time": 83369,
+        "end_time": 86126,
+        "text": "Such a population pyramid can be a powerful predictor"
+    },
+    {
+        "index": 34,
+        "start_time": 86126,
+        "end_time": 88117,
+        "text": "of future population trends."
+    },
+    {
+        "index": 35,
+        "start_time": 88117,
+        "end_time": 89576,
+        "text": "For example,"
+    },
+    {
+        "index": 36,
+        "start_time": 89576,
+        "end_time": 93079,
+        "text": "Rwanda&#39;s population pyramid shows it to be a fast-growing country,"
+    },
+    {
+        "index": 37,
+        "start_time": 93079,
+        "end_time": 94670,
+        "text": "with most of the population"
+    },
+    {
+        "index": 38,
+        "start_time": 94670,
+        "end_time": 97450,
+        "text": "being in the youngest age groups at the bottom of the pyramid."
+    },
+    {
+        "index": 39,
+        "start_time": 97450,
+        "end_time": 99704,
+        "text": "The number will grow rapidly in the coming years."
+    },
+    {
+        "index": 40,
+        "start_time": 99704,
+        "end_time": 102537,
+        "text": "As today&#39;s children reach their reproductive years"
+    },
+    {
+        "index": 41,
+        "start_time": 102537,
+        "end_time": 104117,
+        "text": "and have children of their own,"
+    },
+    {
+        "index": 42,
+        "start_time": 104117,
+        "end_time": 107010,
+        "text": "the total population is almost certain to double"
+    },
+    {
+        "index": 43,
+        "start_time": 107010,
+        "end_time": 108617,
+        "text": "within the next few decades."
+    },
+    {
+        "index": 44,
+        "start_time": 108617,
+        "end_time": 110366,
+        "text": "For our second example,"
+    },
+    {
+        "index": 45,
+        "start_time": 110366,
+        "end_time": 111866,
+        "text": "let&#39;s look at Canada,"
+    },
+    {
+        "index": 46,
+        "start_time": 111866,
+        "end_time": 113642,
+        "text": "where most of the population is clustered"
+    },
+    {
+        "index": 47,
+        "start_time": 113642,
+        "end_time": 115394,
+        "text": "around the middle of the graph."
+    },
+    {
+        "index": 48,
+        "start_time": 115394,
+        "end_time": 116811,
+        "text": "Because there are less people"
+    },
+    {
+        "index": 49,
+        "start_time": 116811,
+        "end_time": 118688,
+        "text": "in the pre-reproductive age groups"
+    },
+    {
+        "index": 50,
+        "start_time": 118688,
+        "end_time": 120566,
+        "text": "than there are in the reproductive ones,"
+    },
+    {
+        "index": 51,
+        "start_time": 120566,
+        "end_time": 123238,
+        "text": "the population will grow more slowly,"
+    },
+    {
+        "index": 52,
+        "start_time": 123238,
+        "end_time": 126532,
+        "text": "as the number of people reaching their reproductive years decreases."
+    },
+    {
+        "index": 53,
+        "start_time": 126532,
+        "end_time": 129161,
+        "text": "Finally, let&#39;s look at Japan."
+    },
+    {
+        "index": 54,
+        "start_time": 129161,
+        "end_time": 131158,
+        "text": "Because the majority of its population"
+    },
+    {
+        "index": 55,
+        "start_time": 131158,
+        "end_time": 133162,
+        "text": "is in its post-reproductive years"
+    },
+    {
+        "index": 56,
+        "start_time": 133162,
+        "end_time": 135368,
+        "text": "and the number of people is smaller"
+    },
+    {
+        "index": 57,
+        "start_time": 135368,
+        "end_time": 136873,
+        "text": "at each younger interval,"
+    },
+    {
+        "index": 58,
+        "start_time": 136873,
+        "end_time": 138869,
+        "text": "this means that at current rates of reproduction"
+    },
+    {
+        "index": 59,
+        "start_time": 138869,
+        "end_time": 140782,
+        "text": "the population will begin to decline"
+    },
+    {
+        "index": 60,
+        "start_time": 140782,
+        "end_time": 144590,
+        "text": "as fewer and fewer people reach reproductive age."
+    },
+    {
+        "index": 61,
+        "start_time": 144590,
+        "end_time": 146451,
+        "text": "Comparing these three population pyramids"
+    },
+    {
+        "index": 62,
+        "start_time": 146451,
+        "end_time": 147635,
+        "text": "side by side"
+    },
+    {
+        "index": 63,
+        "start_time": 147635,
+        "end_time": 149220,
+        "text": "shows us three different stages"
+    },
+    {
+        "index": 64,
+        "start_time": 149220,
+        "end_time": 150700,
+        "text": "in a demographic transition,"
+    },
+    {
+        "index": 65,
+        "start_time": 150700,
+        "end_time": 153265,
+        "text": "as a country moves from a pre-industrial society"
+    },
+    {
+        "index": 66,
+        "start_time": 153265,
+        "end_time": 154700,
+        "text": "to one with an industrial"
+    },
+    {
+        "index": 67,
+        "start_time": 154700,
+        "end_time": 156769,
+        "text": "or post-industrial economy."
+    },
+    {
+        "index": 68,
+        "start_time": 156769,
+        "end_time": 158367,
+        "text": "Countries that have only recently begun"
+    },
+    {
+        "index": 69,
+        "start_time": 158367,
+        "end_time": 160147,
+        "text": "the process of industrialization"
+    },
+    {
+        "index": 70,
+        "start_time": 160147,
+        "end_time": 162900,
+        "text": "typically see an increase in life expectancy"
+    },
+    {
+        "index": 71,
+        "start_time": 162900,
+        "end_time": 165074,
+        "text": "and a fall in child mortality rates"
+    },
+    {
+        "index": 72,
+        "start_time": 165074,
+        "end_time": 166654,
+        "text": "as a result of improvements"
+    },
+    {
+        "index": 73,
+        "start_time": 166654,
+        "end_time": 169657,
+        "text": "in medicine, sanitation, and food supply."
+    },
+    {
+        "index": 74,
+        "start_time": 169657,
+        "end_time": 171575,
+        "text": "While birth rates remain constant,"
+    },
+    {
+        "index": 75,
+        "start_time": 171575,
+        "end_time": 173492,
+        "text": "leading to a population boom."
+    },
+    {
+        "index": 76,
+        "start_time": 173492,
+        "end_time": 175370,
+        "text": "Developing countries that are farther along"
+    },
+    {
+        "index": 77,
+        "start_time": 175370,
+        "end_time": 177202,
+        "text": "in the industrialization process"
+    },
+    {
+        "index": 78,
+        "start_time": 177202,
+        "end_time": 179370,
+        "text": "begin to see a fall in birth rates,"
+    },
+    {
+        "index": 79,
+        "start_time": 179370,
+        "end_time": 180669,
+        "text": "due to factors such as"
+    },
+    {
+        "index": 80,
+        "start_time": 180669,
+        "end_time": 184449,
+        "text": "increased education and opportunities for women outside of child-rearing"
+    },
+    {
+        "index": 81,
+        "start_time": 184449,
+        "end_time": 187451,
+        "text": "and a move from rural to urban living"
+    },
+    {
+        "index": 82,
+        "start_time": 187451,
+        "end_time": 189134,
+        "text": "that makes having large families"
+    },
+    {
+        "index": 83,
+        "start_time": 189134,
+        "end_time": 191533,
+        "text": "less economically advantageous."
+    },
+    {
+        "index": 84,
+        "start_time": 191533,
+        "end_time": 194682,
+        "text": "Finally, countries in advanced stages of industrialization"
+    },
+    {
+        "index": 85,
+        "start_time": 194682,
+        "end_time": 195723,
+        "text": "reach a point"
+    },
+    {
+        "index": 86,
+        "start_time": 195723,
+        "end_time": 198451,
+        "text": "where both birth and death rates are low,"
+    },
+    {
+        "index": 87,
+        "start_time": 198451,
+        "end_time": 200229,
+        "text": "and the population remains stable"
+    },
+    {
+        "index": 88,
+        "start_time": 200229,
+        "end_time": 201980,
+        "text": "or even begins to decline."
+    },
+    {
+        "index": 89,
+        "start_time": 201980,
+        "end_time": 204650,
+        "text": "Now, let&#39;s take a look at the projected population pyramids"
+    },
+    {
+        "index": 90,
+        "start_time": 204650,
+        "end_time": 207873,
+        "text": "for the same three countries in 2050."
+    },
+    {
+        "index": 91,
+        "start_time": 207873,
+        "end_time": 209072,
+        "text": "What do these tell us"
+    },
+    {
+        "index": 92,
+        "start_time": 209072,
+        "end_time": 210616,
+        "text": "about the expected changes"
+    },
+    {
+        "index": 93,
+        "start_time": 210616,
+        "end_time": 212371,
+        "text": "in each country&#39;s population,"
+    },
+    {
+        "index": 94,
+        "start_time": 212371,
+        "end_time": 213785,
+        "text": "and what kinds of factors"
+    },
+    {
+        "index": 95,
+        "start_time": 213785,
+        "end_time": 216579,
+        "text": "can alter the shape of these future pyramids?"
+    },
+    {
+        "index": 96,
+        "start_time": 216579,
+        "end_time": 218507,
+        "text": "A population pyramid can be useful"
+    },
+    {
+        "index": 97,
+        "start_time": 218507,
+        "end_time": 220749,
+        "text": "not only as a predictor of a country&#39;s future"
+    },
+    {
+        "index": 98,
+        "start_time": 220749,
+        "end_time": 222951,
+        "text": "but as a record of its past."
+    },
+    {
+        "index": 99,
+        "start_time": 222951,
+        "end_time": 224702,
+        "text": "Russia&#39;s population pyramid"
+    },
+    {
+        "index": 100,
+        "start_time": 224702,
+        "end_time": 227449,
+        "text": "still bears the scars of World War II,"
+    },
+    {
+        "index": 101,
+        "start_time": 227449,
+        "end_time": 230343,
+        "text": "which explains both the fewer numbers of elderly men"
+    },
+    {
+        "index": 102,
+        "start_time": 230343,
+        "end_time": 232093,
+        "text": "compared to elderly women"
+    },
+    {
+        "index": 103,
+        "start_time": 232093,
+        "end_time": 234138,
+        "text": "and the relatively sudden population increase"
+    },
+    {
+        "index": 104,
+        "start_time": 234138,
+        "end_time": 236181,
+        "text": "as soldiers returned from the war"
+    },
+    {
+        "index": 105,
+        "start_time": 236181,
+        "end_time": 238142,
+        "text": "and normal life resumed."
+    },
+    {
+        "index": 106,
+        "start_time": 238142,
+        "end_time": 239783,
+        "text": "China&#39;s population pyramid"
+    },
+    {
+        "index": 107,
+        "start_time": 239783,
+        "end_time": 242784,
+        "text": "reflects the establishment of the one child policy"
+    },
+    {
+        "index": 108,
+        "start_time": 242784,
+        "end_time": 244398,
+        "text": "35 years before,"
+    },
+    {
+        "index": 109,
+        "start_time": 244398,
+        "end_time": 246284,
+        "text": "which prevented a population boom"
+    },
+    {
+        "index": 110,
+        "start_time": 246284,
+        "end_time": 247984,
+        "text": "such as that of Rwanda"
+    },
+    {
+        "index": 111,
+        "start_time": 247984,
+        "end_time": 250073,
+        "text": "but also led to sex-selective abortions,"
+    },
+    {
+        "index": 112,
+        "start_time": 250073,
+        "end_time": 253955,
+        "text": "resulting in more male children than female children."
+    },
+    {
+        "index": 113,
+        "start_time": 253955,
+        "end_time": 256241,
+        "text": "Finally, the pyramid for the United States"
+    },
+    {
+        "index": 114,
+        "start_time": 256241,
+        "end_time": 259435,
+        "text": "shows the baby boom that followed World War II."
+    },
+    {
+        "index": 115,
+        "start_time": 259435,
+        "end_time": 260704,
+        "text": "As you can see,"
+    },
+    {
+        "index": 116,
+        "start_time": 260704,
+        "end_time": 262785,
+        "text": "population pyramids tell us far more"
+    },
+    {
+        "index": 117,
+        "start_time": 262785,
+        "end_time": 263919,
+        "text": "about a country"
+    },
+    {
+        "index": 118,
+        "start_time": 263919,
+        "end_time": 265335,
+        "text": "than just a set of numbers,"
+    },
+    {
+        "index": 119,
+        "start_time": 265335,
+        "end_time": 266951,
+        "text": "by showing both where it&#39;s been"
+    },
+    {
+        "index": 120,
+        "start_time": 266951,
+        "end_time": 268255,
+        "text": "and where it&#39;s headed"
+    },
+    {
+        "index": 121,
+        "start_time": 268255,
+        "end_time": 269673,
+        "text": "within a single image."
+    },
+    {
+        "index": 122,
+        "start_time": 269673,
+        "end_time": 271951,
+        "text": "And in today&#39;s increasingly interconnected world,"
+    },
+    {
+        "index": 123,
+        "start_time": 271951,
+        "end_time": 273970,
+        "text": "facing issues such as food shortages,"
+    },
+    {
+        "index": 124,
+        "start_time": 273970,
+        "end_time": 276972,
+        "text": "ecological threats, and economic disparities,"
+    },
+    {
+        "index": 125,
+        "start_time": 276972,
+        "end_time": 278475,
+        "text": "it is increasingly important"
+    },
+    {
+        "index": 126,
+        "start_time": 278475,
+        "end_time": 280702,
+        "text": "for both scientists and policy makers"
+    },
+    {
+        "index": 127,
+        "start_time": 280702,
+        "end_time": 283145,
+        "text": "to have a rich and complex understanding"
+    },
+    {
+        "index": 128,
+        "start_time": 283145,
+        "end_time": 286903,
+        "text": "of populations and the factors affecting them."
+    }
+]

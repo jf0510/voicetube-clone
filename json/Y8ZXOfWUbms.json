@@ -1,0 +1,512 @@
+[
+    {
+        "index": 1,
+        "start_time": 6988,
+        "end_time": 11477,
+        "text": "In 1962, a cave explorer \nnamed Michel Siffre"
+    },
+    {
+        "index": 2,
+        "start_time": 11477,
+        "end_time": 17266,
+        "text": "started a series of experiments where\nhe isolated himself underground for months"
+    },
+    {
+        "index": 3,
+        "start_time": 17266,
+        "end_time": 20405,
+        "text": "without light or clocks."
+    },
+    {
+        "index": 4,
+        "start_time": 20405,
+        "end_time": 24296,
+        "text": "He attached himself to electrodes\nthat monitored his vital signs"
+    },
+    {
+        "index": 5,
+        "start_time": 24296,
+        "end_time": 28225,
+        "text": "and kept track of when he slept and ate."
+    },
+    {
+        "index": 6,
+        "start_time": 28225,
+        "end_time": 30165,
+        "text": "When Siffre finally emerged,"
+    },
+    {
+        "index": 7,
+        "start_time": 30165,
+        "end_time": 32645,
+        "text": "the results of his pioneering experiments"
+    },
+    {
+        "index": 8,
+        "start_time": 32645,
+        "end_time": 37575,
+        "text": "revealed that his body had kept\nto a regular sleeping-waking cycle."
+    },
+    {
+        "index": 9,
+        "start_time": 37575,
+        "end_time": 40654,
+        "text": "Despite having no external cues,"
+    },
+    {
+        "index": 10,
+        "start_time": 40654,
+        "end_time": 42035,
+        "text": "he fell asleep,"
+    },
+    {
+        "index": 11,
+        "start_time": 42035,
+        "end_time": 42975,
+        "text": "woke up,"
+    },
+    {
+        "index": 12,
+        "start_time": 42975,
+        "end_time": 46246,
+        "text": "and ate at fixed intervals."
+    },
+    {
+        "index": 13,
+        "start_time": 46246,
+        "end_time": 52385,
+        "text": "This became known as a circadian rhythm\nfrom the Latin for &quot;about a day.&quot;"
+    },
+    {
+        "index": 14,
+        "start_time": 52385,
+        "end_time": 56676,
+        "text": "Scientists later found these rhythms\naffect our hormone secretion,"
+    },
+    {
+        "index": 15,
+        "start_time": 56676,
+        "end_time": 58563,
+        "text": "how our bodies process food,"
+    },
+    {
+        "index": 16,
+        "start_time": 58563,
+        "end_time": 61807,
+        "text": "and even the effects \nof drugs on our bodies."
+    },
+    {
+        "index": 17,
+        "start_time": 61807,
+        "end_time": 67666,
+        "text": "The field of sciences studying\nthese changes is called chronobiology."
+    },
+    {
+        "index": 18,
+        "start_time": 67666,
+        "end_time": 72277,
+        "text": "Being able to sense time helps us do\neverything from waking and sleeping"
+    },
+    {
+        "index": 19,
+        "start_time": 72277,
+        "end_time": 77906,
+        "text": "to knowing precisely when to catch a ball\nthat&#39;s hurtling towards us."
+    },
+    {
+        "index": 20,
+        "start_time": 77906,
+        "end_time": 82107,
+        "text": "We owe all these abilities to \nan interconnected system of timekeepers"
+    },
+    {
+        "index": 21,
+        "start_time": 82107,
+        "end_time": 83627,
+        "text": "in our brains."
+    },
+    {
+        "index": 22,
+        "start_time": 83627,
+        "end_time": 88117,
+        "text": "It contains the equivalent of a stopwatch\ntelling us how many seconds elapsed,"
+    },
+    {
+        "index": 23,
+        "start_time": 88117,
+        "end_time": 90776,
+        "text": "a clock counting the hours of the day,"
+    },
+    {
+        "index": 24,
+        "start_time": 90776,
+        "end_time": 94148,
+        "text": "and a calendar notifying us \nof the seasons."
+    },
+    {
+        "index": 25,
+        "start_time": 94148,
+        "end_time": 97457,
+        "text": "Each one is located in \na different brain region."
+    },
+    {
+        "index": 26,
+        "start_time": 97457,
+        "end_time": 101917,
+        "text": "Siffre, stuck in his dark cave, relied\non the most primitive clock"
+    },
+    {
+        "index": 27,
+        "start_time": 101917,
+        "end_time": 107587,
+        "text": "in the suprachiasmatic nucleus, or SCN\nof the hypothalamus."
+    },
+    {
+        "index": 28,
+        "start_time": 107587,
+        "end_time": 112875,
+        "text": "Here&#39;s the basics of how we think it works\nbased on fruitfly and mouse studies."
+    },
+    {
+        "index": 29,
+        "start_time": 112875,
+        "end_time": 118873,
+        "text": "Proteins known as CLK, or clock,\naccumulate in the SCN throughout the day."
+    },
+    {
+        "index": 30,
+        "start_time": 118873,
+        "end_time": 122657,
+        "text": "In addition to activating genes\nthat tell us to stay awake,"
+    },
+    {
+        "index": 31,
+        "start_time": 122657,
+        "end_time": 125294,
+        "text": "they make another protein called PER."
+    },
+    {
+        "index": 32,
+        "start_time": 125294,
+        "end_time": 127174,
+        "text": "When enough PER accumulates,"
+    },
+    {
+        "index": 33,
+        "start_time": 127174,
+        "end_time": 129718,
+        "text": "it deactivates the gene that makes CLK,"
+    },
+    {
+        "index": 34,
+        "start_time": 129718,
+        "end_time": 131977,
+        "text": "eventually making us fall asleep."
+    },
+    {
+        "index": 35,
+        "start_time": 131977,
+        "end_time": 137256,
+        "text": "Then, clock falls low, so PER \nconcentrations also drop again,"
+    },
+    {
+        "index": 36,
+        "start_time": 137256,
+        "end_time": 139158,
+        "text": "allowing CLK to rise,"
+    },
+    {
+        "index": 37,
+        "start_time": 139158,
+        "end_time": 141551,
+        "text": "starting the cycle over."
+    },
+    {
+        "index": 38,
+        "start_time": 141551,
+        "end_time": 143335,
+        "text": "There are other proteins involved,"
+    },
+    {
+        "index": 39,
+        "start_time": 143335,
+        "end_time": 148318,
+        "text": "but our day and night cycle may be driven\nin part by this seesaw effect"
+    },
+    {
+        "index": 40,
+        "start_time": 148318,
+        "end_time": 152169,
+        "text": "between CLK by day and PER by night."
+    },
+    {
+        "index": 41,
+        "start_time": 152169,
+        "end_time": 154561,
+        "text": "For more precision,"
+    },
+    {
+        "index": 42,
+        "start_time": 154561,
+        "end_time": 156697,
+        "text": "our SCNs also rely \non external cues"
+    },
+    {
+        "index": 43,
+        "start_time": 156697,
+        "end_time": 157427,
+        "text": "like light,"
+    },
+    {
+        "index": 44,
+        "start_time": 157427,
+        "end_time": 158137,
+        "text": "food,"
+    },
+    {
+        "index": 45,
+        "start_time": 158137,
+        "end_time": 158861,
+        "text": "noise,"
+    },
+    {
+        "index": 46,
+        "start_time": 158861,
+        "end_time": 160027,
+        "text": "and temperature."
+    },
+    {
+        "index": 47,
+        "start_time": 160027,
+        "end_time": 161659,
+        "text": "We called these zeitgebers,"
+    },
+    {
+        "index": 48,
+        "start_time": 161659,
+        "end_time": 164268,
+        "text": "German for &quot;givers of time.&quot;"
+    },
+    {
+        "index": 49,
+        "start_time": 164268,
+        "end_time": 166827,
+        "text": "Siffre lacked many \nof these cues underground,"
+    },
+    {
+        "index": 50,
+        "start_time": 166827,
+        "end_time": 170848,
+        "text": "but in normal life, they fine tune\nour daily behavior."
+    },
+    {
+        "index": 51,
+        "start_time": 170848,
+        "end_time": 174378,
+        "text": "For instance, as natural morning light\nfilters into our eyes,"
+    },
+    {
+        "index": 52,
+        "start_time": 174378,
+        "end_time": 176209,
+        "text": "it helps wake us up."
+    },
+    {
+        "index": 53,
+        "start_time": 176209,
+        "end_time": 179083,
+        "text": "Traveling through the optic nerve\nto the SCN,"
+    },
+    {
+        "index": 54,
+        "start_time": 179083,
+        "end_time": 182398,
+        "text": "it communicates what&#39;s happening\nin the outside world."
+    },
+    {
+        "index": 55,
+        "start_time": 182398,
+        "end_time": 185668,
+        "text": "The hypothalamus then halts\nthe production of melatonin,"
+    },
+    {
+        "index": 56,
+        "start_time": 185668,
+        "end_time": 187859,
+        "text": "a hormone that triggers sleep."
+    },
+    {
+        "index": 57,
+        "start_time": 187859,
+        "end_time": 188978,
+        "text": "At the same time,"
+    },
+    {
+        "index": 58,
+        "start_time": 188978,
+        "end_time": 191639,
+        "text": "it increases the production\nof vasopressin"
+    },
+    {
+        "index": 59,
+        "start_time": 191639,
+        "end_time": 194110,
+        "text": "and noradrenaline throughout the brain,"
+    },
+    {
+        "index": 60,
+        "start_time": 194110,
+        "end_time": 196649,
+        "text": "which help control our sleep cycles."
+    },
+    {
+        "index": 61,
+        "start_time": 196649,
+        "end_time": 197989,
+        "text": "At about 10 am,"
+    },
+    {
+        "index": 62,
+        "start_time": 197989,
+        "end_time": 202060,
+        "text": "the body&#39;s rising temperature drives up\nour energy and alertness,"
+    },
+    {
+        "index": 63,
+        "start_time": 202060,
+        "end_time": 203620,
+        "text": "and later in the afternoon,"
+    },
+    {
+        "index": 64,
+        "start_time": 203620,
+        "end_time": 207448,
+        "text": "it also improves our muscle activity\nand coordination."
+    },
+    {
+        "index": 65,
+        "start_time": 207448,
+        "end_time": 210799,
+        "text": "Bright screens at night can confuse\nthese signals,"
+    },
+    {
+        "index": 66,
+        "start_time": 210799,
+        "end_time": 215829,
+        "text": "which is why binging on TV before bed\nmakes it harder to sleep."
+    },
+    {
+        "index": 67,
+        "start_time": 215829,
+        "end_time": 219550,
+        "text": "But sometimes we need to be\neven more precise when telling the time,"
+    },
+    {
+        "index": 68,
+        "start_time": 219550,
+        "end_time": 223000,
+        "text": "which is where the brain&#39;s internal \nstopwatch chimes in."
+    },
+    {
+        "index": 69,
+        "start_time": 223000,
+        "end_time": 226087,
+        "text": "One theory for how this works \ninvolves the fact"
+    },
+    {
+        "index": 70,
+        "start_time": 226087,
+        "end_time": 229069,
+        "text": "that communication between a given\npair of neurons"
+    },
+    {
+        "index": 71,
+        "start_time": 229069,
+        "end_time": 232581,
+        "text": "always takes roughly the same\namount of time."
+    },
+    {
+        "index": 72,
+        "start_time": 232581,
+        "end_time": 236080,
+        "text": "So neurons in our cortex \nand other brain areas"
+    },
+    {
+        "index": 73,
+        "start_time": 236080,
+        "end_time": 239469,
+        "text": "may communicate in scheduled,\npredictable loops"
+    },
+    {
+        "index": 74,
+        "start_time": 239469,
+        "end_time": 244670,
+        "text": "that the cortex uses to judge\nwith precision how much time has passed."
+    },
+    {
+        "index": 75,
+        "start_time": 244670,
+        "end_time": 247321,
+        "text": "That creates our perception of time."
+    },
+    {
+        "index": 76,
+        "start_time": 247321,
+        "end_time": 251882,
+        "text": "In his cave, Siffre made a fascinating\nadditional discovery about this."
+    },
+    {
+        "index": 77,
+        "start_time": 251882,
+        "end_time": 256312,
+        "text": "Every day, he challenged himself \nto count up to 120"
+    },
+    {
+        "index": 78,
+        "start_time": 256312,
+        "end_time": 259511,
+        "text": "at the rate of one digit per second."
+    },
+    {
+        "index": 79,
+        "start_time": 259511,
+        "end_time": 265439,
+        "text": "Over time, instead of taking two minutes,\nit began taking him as long as five."
+    },
+    {
+        "index": 80,
+        "start_time": 265439,
+        "end_time": 270658,
+        "text": "Life in the lonely, dark cave had warped\nSiffre&#39;s own perception of time"
+    },
+    {
+        "index": 81,
+        "start_time": 270658,
+        "end_time": 274421,
+        "text": "despite his brain&#39;s best efforts\nto keep him on track."
+    },
+    {
+        "index": 82,
+        "start_time": 274421,
+        "end_time": 278332,
+        "text": "This makes us wonder what else influences\nour sense of time."
+    },
+    {
+        "index": 83,
+        "start_time": 278332,
+        "end_time": 281482,
+        "text": "And if time isn&#39;t objective, \nwhat does that mean?"
+    },
+    {
+        "index": 84,
+        "start_time": 281482,
+        "end_time": 284421,
+        "text": "Could each of us \nbe experiencing it differently?"
+    },
+    {
+        "index": 85,
+        "start_time": 284421,
+        "end_time": 286551,
+        "text": "Only time will tell."
+    }
+]

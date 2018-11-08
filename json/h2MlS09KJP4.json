@@ -1,0 +1,512 @@
+[
+    {
+        "index": 1,
+        "start_time": 7319,
+        "end_time": 10939,
+        "text": "85% of the matter in our universe\nis a mystery."
+    },
+    {
+        "index": 2,
+        "start_time": 10939,
+        "end_time": 15159,
+        "text": "We don&#39;t know what it&#39;s made of,\nwhich is why we call it dark matter."
+    },
+    {
+        "index": 3,
+        "start_time": 15159,
+        "end_time": 19058,
+        "text": "But we know it&#39;s out there because we\ncan observe its gravitational attraction"
+    },
+    {
+        "index": 4,
+        "start_time": 19058,
+        "end_time": 22499,
+        "text": "on galaxies and other celestial objects."
+    },
+    {
+        "index": 5,
+        "start_time": 22499,
+        "end_time": 24848,
+        "text": "We&#39;ve yet to directly observe dark matter,"
+    },
+    {
+        "index": 6,
+        "start_time": 24848,
+        "end_time": 28330,
+        "text": "but scientists theorize that we may\nactually be able to create it"
+    },
+    {
+        "index": 7,
+        "start_time": 28330,
+        "end_time": 31899,
+        "text": "in the most powerful particle collider\nin the world."
+    },
+    {
+        "index": 8,
+        "start_time": 31899,
+        "end_time": 36799,
+        "text": "That&#39;s the 27 kilometer-long\nLarge Hadron Collider, or LHC,"
+    },
+    {
+        "index": 9,
+        "start_time": 36799,
+        "end_time": 38520,
+        "text": "in Geneva, Switzerland."
+    },
+    {
+        "index": 10,
+        "start_time": 38520,
+        "end_time": 40040,
+        "text": "So how would that work?"
+    },
+    {
+        "index": 11,
+        "start_time": 40040,
+        "end_time": 44169,
+        "text": "In the LHC, two proton beams\nmove in opposite directions"
+    },
+    {
+        "index": 12,
+        "start_time": 44169,
+        "end_time": 47320,
+        "text": "and are accelerated \nto near the speed of light."
+    },
+    {
+        "index": 13,
+        "start_time": 47320,
+        "end_time": 52393,
+        "text": "At four collision points, the beams cross\nand protons smash into each other."
+    },
+    {
+        "index": 14,
+        "start_time": 52393,
+        "end_time": 56692,
+        "text": "Protons are made of much smaller\ncomponents called quarks and gluons"
+    },
+    {
+        "index": 15,
+        "start_time": 56692,
+        "end_time": 61001,
+        "text": "In most ordinary collisions, the two\nprotons pass through each other"
+    },
+    {
+        "index": 16,
+        "start_time": 61001,
+        "end_time": 63543,
+        "text": "without any significant outcome."
+    },
+    {
+        "index": 17,
+        "start_time": 63543,
+        "end_time": 66273,
+        "text": "However, in about \none in a million collisions,"
+    },
+    {
+        "index": 18,
+        "start_time": 66273,
+        "end_time": 68712,
+        "text": "two components hit each other\nso violently,"
+    },
+    {
+        "index": 19,
+        "start_time": 68712,
+        "end_time": 71911,
+        "text": "that most of the collision energy\nis set free"
+    },
+    {
+        "index": 20,
+        "start_time": 71911,
+        "end_time": 74434,
+        "text": "producing thousands of new particles."
+    },
+    {
+        "index": 21,
+        "start_time": 74434,
+        "end_time": 77413,
+        "text": "It&#39;s only in these collisions that very\nmassive particles,"
+    },
+    {
+        "index": 22,
+        "start_time": 77413,
+        "end_time": 81323,
+        "text": "like the theorized dark matter,\ncan be produced."
+    },
+    {
+        "index": 23,
+        "start_time": 81323,
+        "end_time": 83993,
+        "text": "The collision points \nare surrounded by detectors"
+    },
+    {
+        "index": 24,
+        "start_time": 83993,
+        "end_time": 87175,
+        "text": "containing about 100 million sensors."
+    },
+    {
+        "index": 25,
+        "start_time": 87175,
+        "end_time": 89295,
+        "text": "Like huge three-dimensional cameras,"
+    },
+    {
+        "index": 26,
+        "start_time": 89295,
+        "end_time": 91665,
+        "text": "they gather information \non those new particles,"
+    },
+    {
+        "index": 27,
+        "start_time": 91665,
+        "end_time": 93073,
+        "text": "including their trajectory,"
+    },
+    {
+        "index": 28,
+        "start_time": 93073,
+        "end_time": 94460,
+        "text": "electrical charge,"
+    },
+    {
+        "index": 29,
+        "start_time": 94460,
+        "end_time": 96153,
+        "text": "and energy."
+    },
+    {
+        "index": 30,
+        "start_time": 96153,
+        "end_time": 99736,
+        "text": "Once processed, the computers can depict\na collision as an image."
+    },
+    {
+        "index": 31,
+        "start_time": 99736,
+        "end_time": 102945,
+        "text": "Each line is the path \nof a different particle,"
+    },
+    {
+        "index": 32,
+        "start_time": 102945,
+        "end_time": 106155,
+        "text": "and different types of particles\nare color-coded."
+    },
+    {
+        "index": 33,
+        "start_time": 106155,
+        "end_time": 109185,
+        "text": "Data from the detectors \nallows scientists to determine"
+    },
+    {
+        "index": 34,
+        "start_time": 109185,
+        "end_time": 111186,
+        "text": "what each of these particles is,"
+    },
+    {
+        "index": 35,
+        "start_time": 111186,
+        "end_time": 113936,
+        "text": "things like photons and electrons."
+    },
+    {
+        "index": 36,
+        "start_time": 113936,
+        "end_time": 118496,
+        "text": "Now, the detectors take snapshots of about\na billion of these collisions per second"
+    },
+    {
+        "index": 37,
+        "start_time": 118496,
+        "end_time": 122416,
+        "text": "to find signs of extremely rare\nmassive particles."
+    },
+    {
+        "index": 38,
+        "start_time": 122416,
+        "end_time": 123745,
+        "text": "To add to the difficulty,"
+    },
+    {
+        "index": 39,
+        "start_time": 123745,
+        "end_time": 126696,
+        "text": "the particles we&#39;re looking for \nmay be unstable"
+    },
+    {
+        "index": 40,
+        "start_time": 126696,
+        "end_time": 131817,
+        "text": "and decay into more familiar particles\nbefore reaching the sensors."
+    },
+    {
+        "index": 41,
+        "start_time": 131817,
+        "end_time": 134118,
+        "text": "Take, for example, the Higgs boson,"
+    },
+    {
+        "index": 42,
+        "start_time": 134118,
+        "end_time": 138498,
+        "text": "a long-theorized particle that wasn&#39;t\nobserved until 2012."
+    },
+    {
+        "index": 43,
+        "start_time": 138498,
+        "end_time": 144658,
+        "text": "The odds of a given collision producing\na Higgs boson are about one in 10 billion,"
+    },
+    {
+        "index": 44,
+        "start_time": 144658,
+        "end_time": 147618,
+        "text": "and it only lasts for \na tiny fraction of a second"
+    },
+    {
+        "index": 45,
+        "start_time": 147618,
+        "end_time": 149539,
+        "text": "before decaying."
+    },
+    {
+        "index": 46,
+        "start_time": 149539,
+        "end_time": 153638,
+        "text": "But scientists developed theoretical \nmodels to tell them what to look for."
+    },
+    {
+        "index": 47,
+        "start_time": 153638,
+        "end_time": 158109,
+        "text": "For the Higgs, they thought it would\nsometimes decay into two photons."
+    },
+    {
+        "index": 48,
+        "start_time": 158109,
+        "end_time": 161559,
+        "text": "So they first examined only \nthe high-energy events"
+    },
+    {
+        "index": 49,
+        "start_time": 161559,
+        "end_time": 163568,
+        "text": "that included two photons."
+    },
+    {
+        "index": 50,
+        "start_time": 163568,
+        "end_time": 165440,
+        "text": "But there&#39;s a problem here."
+    },
+    {
+        "index": 51,
+        "start_time": 165440,
+        "end_time": 167720,
+        "text": "There are innumerable \nparticle interactions"
+    },
+    {
+        "index": 52,
+        "start_time": 167720,
+        "end_time": 170180,
+        "text": "that can produce two random photons."
+    },
+    {
+        "index": 53,
+        "start_time": 170180,
+        "end_time": 173639,
+        "text": "So how do you separate out the Higgs\nfrom everything else?"
+    },
+    {
+        "index": 54,
+        "start_time": 173639,
+        "end_time": 175880,
+        "text": "The answer is mass."
+    },
+    {
+        "index": 55,
+        "start_time": 175880,
+        "end_time": 180931,
+        "text": "The information gathered by the detectors\nallows the scientists to go a step back"
+    },
+    {
+        "index": 56,
+        "start_time": 180931,
+        "end_time": 185672,
+        "text": "and determine the mass of whatever it was\nthat produced two photons."
+    },
+    {
+        "index": 57,
+        "start_time": 185672,
+        "end_time": 187791,
+        "text": "They put that mass value into a graph"
+    },
+    {
+        "index": 58,
+        "start_time": 187791,
+        "end_time": 192260,
+        "text": "and then repeat the process\nfor all events with two photons."
+    },
+    {
+        "index": 59,
+        "start_time": 192260,
+        "end_time": 196481,
+        "text": "The vast majority of these events\nare just random photon observations,"
+    },
+    {
+        "index": 60,
+        "start_time": 196481,
+        "end_time": 200102,
+        "text": "what scientists call background events."
+    },
+    {
+        "index": 61,
+        "start_time": 200102,
+        "end_time": 204032,
+        "text": "But when a Higgs boson is produced\nand decays into two photons,"
+    },
+    {
+        "index": 62,
+        "start_time": 204032,
+        "end_time": 207152,
+        "text": "the mass always comes out to be the same."
+    },
+    {
+        "index": 63,
+        "start_time": 207152,
+        "end_time": 209722,
+        "text": "Therefore, the tell-tale sign\nof the Higgs boson"
+    },
+    {
+        "index": 64,
+        "start_time": 209722,
+        "end_time": 213673,
+        "text": "would be a little bump sitting on top\nof the background."
+    },
+    {
+        "index": 65,
+        "start_time": 213673,
+        "end_time": 217363,
+        "text": "It takes billions of observations\nbefore a bump like this can appear,"
+    },
+    {
+        "index": 66,
+        "start_time": 217363,
+        "end_time": 219774,
+        "text": "and it&#39;s only considered \na meaningful result"
+    },
+    {
+        "index": 67,
+        "start_time": 219774,
+        "end_time": 224113,
+        "text": "if that bump becomes significantly \nhigher than the background."
+    },
+    {
+        "index": 68,
+        "start_time": 224113,
+        "end_time": 226094,
+        "text": "In the case of the Higgs boson,"
+    },
+    {
+        "index": 69,
+        "start_time": 226094,
+        "end_time": 229883,
+        "text": "the scientists at the LHC announced their\ngroundbreaking result"
+    },
+    {
+        "index": 70,
+        "start_time": 229883,
+        "end_time": 232975,
+        "text": "when there was only \na one in 3 million chance"
+    },
+    {
+        "index": 71,
+        "start_time": 232975,
+        "end_time": 237045,
+        "text": "this bump could have \nappeared by a statistical fluke."
+    },
+    {
+        "index": 72,
+        "start_time": 237045,
+        "end_time": 238875,
+        "text": "So back to the dark matter."
+    },
+    {
+        "index": 73,
+        "start_time": 238875,
+        "end_time": 242445,
+        "text": "If the LHC&#39;s proton beams have enough\nenergy to produce it,"
+    },
+    {
+        "index": 74,
+        "start_time": 242445,
+        "end_time": 246906,
+        "text": "that&#39;s probably an even rarer occurrence\nthan the Higgs boson."
+    },
+    {
+        "index": 75,
+        "start_time": 246906,
+        "end_time": 250926,
+        "text": "So it takes quadrillions of collisions\ncombined with theoretical models"
+    },
+    {
+        "index": 76,
+        "start_time": 250926,
+        "end_time": 253045,
+        "text": "to even start to look."
+    },
+    {
+        "index": 77,
+        "start_time": 253045,
+        "end_time": 256117,
+        "text": "That&#39;s what the LHC is currently doing."
+    },
+    {
+        "index": 78,
+        "start_time": 256117,
+        "end_time": 257886,
+        "text": "By generating a mountain of data,"
+    },
+    {
+        "index": 79,
+        "start_time": 257886,
+        "end_time": 260966,
+        "text": "we&#39;re hoping to find more tiny bumps\nin graphs"
+    },
+    {
+        "index": 80,
+        "start_time": 260966,
+        "end_time": 265816,
+        "text": "that will provide evidence for\nyet unknown particles, like dark matter."
+    },
+    {
+        "index": 81,
+        "start_time": 265816,
+        "end_time": 268287,
+        "text": "Or maybe what we&#39;ll \nfind won&#39;t be dark matter,"
+    },
+    {
+        "index": 82,
+        "start_time": 268287,
+        "end_time": 269475,
+        "text": "but something else"
+    },
+    {
+        "index": 83,
+        "start_time": 269475,
+        "end_time": 273988,
+        "text": "that would reshape our understanding \nof how the universe works entirely."
+    },
+    {
+        "index": 84,
+        "start_time": 273988,
+        "end_time": 275999,
+        "text": "That&#39;s part of the fun at this point."
+    },
+    {
+        "index": 85,
+        "start_time": 275999,
+        "end_time": 278426,
+        "text": "We have no idea what we&#39;re\ngoing to find."
+    }
+]

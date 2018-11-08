@@ -1,0 +1,302 @@
+[
+  {
+    "end_time": 6079,
+    "index": 1,
+    "start_time": 310,
+    "text": "Humans can discern between 2.3 million colors - but try staring at this picture of us bursting"
+  },
+  {
+    "end_time": 11110,
+    "index": 2,
+    "start_time": 6080,
+    "text": "through the periodic table and focus on the green dot as we invert the colors. Don&#39;t"
+  },
+  {
+    "end_time": 15230,
+    "index": 3,
+    "start_time": 11110,
+    "text": "stop staring there until I say the light is traveling as a wave to your eye, and the"
+  },
+  {
+    "end_time": 19119,
+    "index": 4,
+    "start_time": 15230,
+    "text": "frequency of these wavelengths determines the perceived color of everything in this"
+  },
+  {
+    "end_time": 24460,
+    "index": 5,
+    "start_time": 19119,
+    "text": "picture and around you. Humans have trichromatic vision, meaning we have three con cells in"
+  },
+  {
+    "end_time": 29640,
+    "index": 6,
+    "start_time": 24460,
+    "text": "our retinas, each which are sensitive to different wavelengths of light; blue, green, or red."
+  },
+  {
+    "end_time": 34370,
+    "index": 7,
+    "start_time": 29640,
+    "text": "Keep looking at the green dot and your brain will do something pretty neat.  Did the image"
+  },
+  {
+    "end_time": 39570,
+    "index": 8,
+    "start_time": 34370,
+    "text": "change back to the original color? Even though you were staring at a black and white image,"
+  },
+  {
+    "end_time": 41890,
+    "index": 9,
+    "start_time": 39570,
+    "text": "your brain perceived it to be in color."
+  },
+  {
+    "end_time": 45820,
+    "index": 10,
+    "start_time": 41890,
+    "text": "This phenomenon is known as &quot;after imaging&quot; - after staring long enough at the brightly"
+  },
+  {
+    "end_time": 51050,
+    "index": 11,
+    "start_time": 45820,
+    "text": "colored image, your cones slowly become fatigued and the supply of photo pigment in the respective"
+  },
+  {
+    "end_time": 55980,
+    "index": 12,
+    "start_time": 51050,
+    "text": "cones becomes exhausted, which ultimately stops sending signals to the brain."
+  },
+  {
+    "end_time": 60470,
+    "index": 13,
+    "start_time": 55980,
+    "text": "In case of this illusion, the part of the photo where you can see cyan, the green and blue cones"
+  },
+  {
+    "end_time": 66030,
+    "index": 14,
+    "start_time": 60470,
+    "text": "become tired and as a result, there is increased activity in the fatigued red cones."
+  },
+  {
+    "end_time": 70270,
+    "index": 15,
+    "start_time": 66030,
+    "text": "So when the image switched to black and white we see &quot;red&quot; - cyan&#39;s complimentary color."
+  },
+  {
+    "end_time": 74640,
+    "index": 16,
+    "start_time": 70270,
+    "text": "Growing up, you likely learned about the primary colors red, yellow, and blue"
+  },
+  {
+    "end_time": 78990,
+    "index": 17,
+    "start_time": 74640,
+    "text": "and their respective complimentary colors.  But things are more complicated when you consider that the primary"
+  },
+  {
+    "end_time": 83810,
+    "index": 18,
+    "start_time": 78990,
+    "text": "colors in your printer are magenta, yellow, and cyan, or that the screen you&#39;re watching"
+  },
+  {
+    "end_time": 89630,
+    "index": 19,
+    "start_time": 83810,
+    "text": "this on uses red, green, and blue.  These are different color models, where RGB is &quot;additive&quot;"
+  },
+  {
+    "end_time": 93530,
+    "index": 20,
+    "start_time": 89630,
+    "text": "meaning the mixing of different lights of color creates new colors - while the other"
+  },
+  {
+    "end_time": 97200,
+    "index": 21,
+    "start_time": 93530,
+    "text": "two are &quot;subtractive&quot; models and absorb different wavelengths of light."
+  },
+  {
+    "end_time": 100670,
+    "index": 22,
+    "start_time": 97200,
+    "text": "For example, when you hold a yellow object in real life,  it&#39;s"
+  },
+  {
+    "end_time": 105380,
+    "index": 23,
+    "start_time": 100670,
+    "text": "actually absorbing every wavelength except yellow - that yellow light bounces back and"
+  },
+  {
+    "end_time": 110949,
+    "index": 24,
+    "start_time": 105380,
+    "text": "hits your eyes. But, when you look at this yellow object through your screen, it&#39;s actually"
+  },
+  {
+    "end_time": 115840,
+    "index": 25,
+    "start_time": 110950,
+    "text": "not yellow at all!  Because your screen can only use red, green, and blue colors,"
+  },
+  {
+    "end_time": 120439,
+    "index": 26,
+    "start_time": 115840,
+    "text": "if you were to zoom in physically on anything yellow, it would actually be a combination"
+  },
+  {
+    "end_time": 125419,
+    "index": 27,
+    "start_time": 120439,
+    "text": "of red and green - and because the wavelength of yellow is between red and green, our brain"
+  },
+  {
+    "end_time": 130119,
+    "index": 28,
+    "start_time": 125420,
+    "text": "interprets this mix as yellow. So, what you&#39;re seeing here is in fact not"
+  },
+  {
+    "end_time": 134580,
+    "index": 29,
+    "start_time": 130119,
+    "text": "yellow at all, but it&#39;s stimulating a mix of your red and green cones"
+  },
+  {
+    "end_time": 136170,
+    "index": 30,
+    "start_time": 134580,
+    "text": "interprets as yellow!"
+  },
+  {
+    "end_time": 139988,
+    "index": 31,
+    "start_time": 136170,
+    "text": "While plants come in a range of colors, the predominant color is green, due to chlorophyll,"
+  },
+  {
+    "end_time": 145189,
+    "index": 32,
+    "start_time": 139989,
+    "text": "the energy absorbing pigment found in plants critical for photosynthesis. So, the effectively"
+  },
+  {
+    "end_time": 150180,
+    "index": 33,
+    "start_time": 145189,
+    "text": "attract pollinators such as bees, insects, and birds, flowers have evolved to stand out"
+  },
+  {
+    "end_time": 155489,
+    "index": 34,
+    "start_time": 150180,
+    "text": "against green. It\u2019s why you don\u2019t see many green flowers! And flowering plants have"
+  },
+  {
+    "end_time": 160370,
+    "index": 35,
+    "start_time": 155489,
+    "text": "even evolved a suite of different colors to attract specific pollinators - known as"
+  },
+  {
+    "end_time": 164650,
+    "index": 36,
+    "start_time": 160370,
+    "text": "pollinator syndrome. Bird-pollinated flowers are mostly red, potentially to discourage"
+  },
+  {
+    "end_time": 168970,
+    "index": 37,
+    "start_time": 164650,
+    "text": "visits from bees, as their visual system is different than birds, making it hard from"
+  },
+  {
+    "end_time": 171239,
+    "index": 38,
+    "start_time": 168970,
+    "text": "them to discriminate between red and green."
+  },
+  {
+    "end_time": 176720,
+    "index": 39,
+    "start_time": 171239,
+    "text": "Similarly, we all have our own favourite colors, but why? One theory suggests that color preference"
+  },
+  {
+    "end_time": 181609,
+    "index": 40,
+    "start_time": 176720,
+    "text": "is gendered, where given the choice between cyan and red, men prefer cyan colors and"
+  },
+  {
+    "end_time": 186900,
+    "index": 41,
+    "start_time": 181610,
+    "text": "women prefer redder colors. Researchers hypothesize this preference has evolved from our hunter-gatherer"
+  },
+  {
+    "end_time": 191430,
+    "index": 42,
+    "start_time": 186900,
+    "text": "societies where women&#39;s visual systems were specialized to see ripe red berries against"
+  },
+  {
+    "end_time": 196110,
+    "index": 43,
+    "start_time": 191430,
+    "text": "green foliage. Another theory suggest that we like hues that we associate with pleasant"
+  },
+  {
+    "end_time": 201579,
+    "index": 44,
+    "start_time": 196110,
+    "text": "things - however pleasant and unpleasant things are often the same color - we love blue Slurpee"
+  },
+  {
+    "end_time": 203700,
+    "index": 45,
+    "start_time": 201579,
+    "text": "but not blue mold."
+  },
+  {
+    "end_time": 207420,
+    "index": 46,
+    "start_time": 203700,
+    "text": "Investigating these questions of color had us thinking about links between science and art"
+  },
+  {
+    "end_time": 211869,
+    "index": 47,
+    "start_time": 207420,
+    "text": "So in our latest AsapTHOUGHT we asked both artists and scientists about how they"
+  },
+  {
+    "end_time": 212849,
+    "index": 48,
+    "start_time": 211870,
+    "text": "view the world."
+  },
+  {
+    "end_time": 216530,
+    "index": 49,
+    "start_time": 212849,
+    "text": "Let us know in the comments what your favorite color is, and subscribe for more weekly science"
+  },
+  {
+    "end_time": 217030,
+    "index": 50,
+    "start_time": 216530,
+    "text": "videos."
+  }
+]

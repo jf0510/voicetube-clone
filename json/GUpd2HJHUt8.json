@@ -1,0 +1,710 @@
+[
+    {
+        "index": 1,
+        "start_time": 6659,
+        "end_time": 7995,
+        "text": "Studies have shown that"
+    },
+    {
+        "index": 2,
+        "start_time": 7995,
+        "end_time": 10198,
+        "text": "taking vitamins is good for your health"
+    },
+    {
+        "index": 3,
+        "start_time": 10198,
+        "end_time": 11916,
+        "text": "and bad for your health."
+    },
+    {
+        "index": 4,
+        "start_time": 11916,
+        "end_time": 14417,
+        "text": "That newly discovered herb can improve your memory"
+    },
+    {
+        "index": 5,
+        "start_time": 14417,
+        "end_time": 16086,
+        "text": "or destroy your liver."
+    },
+    {
+        "index": 6,
+        "start_time": 16086,
+        "end_time": 18453,
+        "text": "Headlines proclaim a promising new cancer treatment"
+    },
+    {
+        "index": 7,
+        "start_time": 18453,
+        "end_time": 20450,
+        "text": "and never mention it again."
+    },
+    {
+        "index": 8,
+        "start_time": 20450,
+        "end_time": 21866,
+        "text": "On a daily basis,"
+    },
+    {
+        "index": 9,
+        "start_time": 21866,
+        "end_time": 23802,
+        "text": "we are bombarded with attention-grabbing news,"
+    },
+    {
+        "index": 10,
+        "start_time": 23802,
+        "end_time": 25722,
+        "text": "backed up by scientific studies,"
+    },
+    {
+        "index": 11,
+        "start_time": 25722,
+        "end_time": 27306,
+        "text": "but what are these studies?"
+    },
+    {
+        "index": 12,
+        "start_time": 27306,
+        "end_time": 28654,
+        "text": "How are they performed?"
+    },
+    {
+        "index": 13,
+        "start_time": 28654,
+        "end_time": 30392,
+        "text": "And how do we know whether they&#39;re reliable?"
+    },
+    {
+        "index": 14,
+        "start_time": 30392,
+        "end_time": 32949,
+        "text": "When it comes to dietary or medical information,"
+    },
+    {
+        "index": 15,
+        "start_time": 32949,
+        "end_time": 34447,
+        "text": "the first thing to remember"
+    },
+    {
+        "index": 16,
+        "start_time": 34447,
+        "end_time": 37151,
+        "text": "is that while studies on animals or individual cells"
+    },
+    {
+        "index": 17,
+        "start_time": 37151,
+        "end_time": 39526,
+        "text": "can point the way towards further research,"
+    },
+    {
+        "index": 18,
+        "start_time": 39526,
+        "end_time": 41737,
+        "text": "the only way to know how something will affect humans"
+    },
+    {
+        "index": 19,
+        "start_time": 41737,
+        "end_time": 44782,
+        "text": "is through a study involving human subjects."
+    },
+    {
+        "index": 20,
+        "start_time": 44782,
+        "end_time": 46282,
+        "text": "And when it comes to human studies,"
+    },
+    {
+        "index": 21,
+        "start_time": 46282,
+        "end_time": 48245,
+        "text": "the scientific gold standard is"
+    },
+    {
+        "index": 22,
+        "start_time": 48245,
+        "end_time": 51454,
+        "text": "the randomized clinical trial, or RCT."
+    },
+    {
+        "index": 23,
+        "start_time": 51454,
+        "end_time": 54366,
+        "text": "The key to RCTs is that the subjects are randomly assigned"
+    },
+    {
+        "index": 24,
+        "start_time": 54366,
+        "end_time": 55836,
+        "text": "to their study groups."
+    },
+    {
+        "index": 25,
+        "start_time": 55836,
+        "end_time": 57698,
+        "text": "They are often blinded to make them more rigorous."
+    },
+    {
+        "index": 26,
+        "start_time": 57698,
+        "end_time": 59365,
+        "text": "This process attempts to ensure"
+    },
+    {
+        "index": 27,
+        "start_time": 59365,
+        "end_time": 61048,
+        "text": "that the only difference between the groups"
+    },
+    {
+        "index": 28,
+        "start_time": 61048,
+        "end_time": 63760,
+        "text": "is the one the researchers are attempting to study."
+    },
+    {
+        "index": 29,
+        "start_time": 63760,
+        "end_time": 64968,
+        "text": "For example,"
+    },
+    {
+        "index": 30,
+        "start_time": 64968,
+        "end_time": 66304,
+        "text": "when testing a new headache medication,"
+    },
+    {
+        "index": 31,
+        "start_time": 66304,
+        "end_time": 68061,
+        "text": "a large pool of people with headaches"
+    },
+    {
+        "index": 32,
+        "start_time": 68061,
+        "end_time": 70224,
+        "text": "would be randomly divided into two groups,"
+    },
+    {
+        "index": 33,
+        "start_time": 70224,
+        "end_time": 72227,
+        "text": "one receiving the medication"
+    },
+    {
+        "index": 34,
+        "start_time": 72227,
+        "end_time": 74145,
+        "text": "and another receiving a placebo."
+    },
+    {
+        "index": 35,
+        "start_time": 74145,
+        "end_time": 75647,
+        "text": "With proper randomization,"
+    },
+    {
+        "index": 36,
+        "start_time": 75647,
+        "end_time": 77357,
+        "text": "the only significant overall difference"
+    },
+    {
+        "index": 37,
+        "start_time": 77357,
+        "end_time": 79023,
+        "text": "between the two groups"
+    },
+    {
+        "index": 38,
+        "start_time": 79023,
+        "end_time": 81360,
+        "text": "will be whether or not they received the medication,"
+    },
+    {
+        "index": 39,
+        "start_time": 81360,
+        "end_time": 84280,
+        "text": "rather than other differences that could affect results."
+    },
+    {
+        "index": 40,
+        "start_time": 84280,
+        "end_time": 86783,
+        "text": "Randomized clinical trials are incredible tools,"
+    },
+    {
+        "index": 41,
+        "start_time": 86783,
+        "end_time": 89365,
+        "text": "and, in fact, the US Food and Drug Administration"
+    },
+    {
+        "index": 42,
+        "start_time": 89365,
+        "end_time": 92197,
+        "text": "often requires at least two to be conducted"
+    },
+    {
+        "index": 43,
+        "start_time": 92197,
+        "end_time": 94866,
+        "text": "before a new drug can be marketed."
+    },
+    {
+        "index": 44,
+        "start_time": 94866,
+        "end_time": 97532,
+        "text": "But the problem is that an RCT is not possible"
+    },
+    {
+        "index": 45,
+        "start_time": 97532,
+        "end_time": 98783,
+        "text": "in many cases,"
+    },
+    {
+        "index": 46,
+        "start_time": 98783,
+        "end_time": 100366,
+        "text": "either because it&#39;s not practical"
+    },
+    {
+        "index": 47,
+        "start_time": 100366,
+        "end_time": 102339,
+        "text": "or would require too many volunteers."
+    },
+    {
+        "index": 48,
+        "start_time": 102339,
+        "end_time": 103699,
+        "text": "In such cases,"
+    },
+    {
+        "index": 49,
+        "start_time": 103699,
+        "end_time": 106010,
+        "text": "scientists use an epidemiological study,"
+    },
+    {
+        "index": 50,
+        "start_time": 106010,
+        "end_time": 109054,
+        "text": "which simply observes people going about their usual behavior,"
+    },
+    {
+        "index": 51,
+        "start_time": 109054,
+        "end_time": 112141,
+        "text": "rather than randomly assigning active participants"
+    },
+    {
+        "index": 52,
+        "start_time": 112141,
+        "end_time": 114436,
+        "text": "to control invariable groups."
+    },
+    {
+        "index": 53,
+        "start_time": 114436,
+        "end_time": 115728,
+        "text": "Let&#39;s say we wanted to study"
+    },
+    {
+        "index": 54,
+        "start_time": 115728,
+        "end_time": 117283,
+        "text": "whether an herbal ingredient on the market"
+    },
+    {
+        "index": 55,
+        "start_time": 117283,
+        "end_time": 118698,
+        "text": "causes nausea."
+    },
+    {
+        "index": 56,
+        "start_time": 118698,
+        "end_time": 120317,
+        "text": "Rather than deliberately giving people something"
+    },
+    {
+        "index": 57,
+        "start_time": 120317,
+        "end_time": 121817,
+        "text": "that might make them nauseated,"
+    },
+    {
+        "index": 58,
+        "start_time": 121817,
+        "end_time": 123820,
+        "text": "we would find those who already take the ingredient"
+    },
+    {
+        "index": 59,
+        "start_time": 123820,
+        "end_time": 125446,
+        "text": "in their everyday lives."
+    },
+    {
+        "index": 60,
+        "start_time": 125446,
+        "end_time": 127447,
+        "text": "This group is called the cohort."
+    },
+    {
+        "index": 61,
+        "start_time": 127447,
+        "end_time": 129155,
+        "text": "We would also need a comparison group"
+    },
+    {
+        "index": 62,
+        "start_time": 129155,
+        "end_time": 131616,
+        "text": "of people who do not have exposure to the ingredient."
+    },
+    {
+        "index": 63,
+        "start_time": 131616,
+        "end_time": 133664,
+        "text": "And we would then compare statistics."
+    },
+    {
+        "index": 64,
+        "start_time": 133664,
+        "end_time": 136283,
+        "text": "If the rate of nausea is higher in the herbal cohort,"
+    },
+    {
+        "index": 65,
+        "start_time": 136283,
+        "end_time": 138199,
+        "text": "it suggests an association"
+    },
+    {
+        "index": 66,
+        "start_time": 138199,
+        "end_time": 140448,
+        "text": "between the herbal supplement and nausea."
+    },
+    {
+        "index": 67,
+        "start_time": 140448,
+        "end_time": 142365,
+        "text": "Epidemiological studies are great tools"
+    },
+    {
+        "index": 68,
+        "start_time": 142365,
+        "end_time": 144867,
+        "text": "to study the health effects of almost anything,"
+    },
+    {
+        "index": 69,
+        "start_time": 144867,
+        "end_time": 147051,
+        "text": "without directly interfering in people&#39;s lives"
+    },
+    {
+        "index": 70,
+        "start_time": 147051,
+        "end_time": 149804,
+        "text": "or assigning them to potentially dangerous exposures."
+    },
+    {
+        "index": 71,
+        "start_time": 149804,
+        "end_time": 151556,
+        "text": "So, why can&#39;t we rely on these studies"
+    },
+    {
+        "index": 72,
+        "start_time": 151556,
+        "end_time": 153055,
+        "text": "to establish causal relationships"
+    },
+    {
+        "index": 73,
+        "start_time": 153055,
+        "end_time": 155725,
+        "text": "between substances and their effects on health?"
+    },
+    {
+        "index": 74,
+        "start_time": 155725,
+        "end_time": 156981,
+        "text": "The problem is"
+    },
+    {
+        "index": 75,
+        "start_time": 156981,
+        "end_time": 158731,
+        "text": "that even the best conducted epidemiological studies"
+    },
+    {
+        "index": 76,
+        "start_time": 158731,
+        "end_time": 160315,
+        "text": "have inherent flaws."
+    },
+    {
+        "index": 77,
+        "start_time": 160315,
+        "end_time": 162149,
+        "text": "Precisely because the test subjects"
+    },
+    {
+        "index": 78,
+        "start_time": 162149,
+        "end_time": 164476,
+        "text": "are not randomly assigned to their groups."
+    },
+    {
+        "index": 79,
+        "start_time": 164476,
+        "end_time": 167365,
+        "text": "For example, if the cohort in our herbal study"
+    },
+    {
+        "index": 80,
+        "start_time": 167365,
+        "end_time": 169239,
+        "text": "consisted of people who took the supplement"
+    },
+    {
+        "index": 81,
+        "start_time": 169239,
+        "end_time": 170699,
+        "text": "for health reasons,"
+    },
+    {
+        "index": 82,
+        "start_time": 170699,
+        "end_time": 172615,
+        "text": "they may have already had higher rates of nausea"
+    },
+    {
+        "index": 83,
+        "start_time": 172615,
+        "end_time": 174532,
+        "text": "than the other people in the sample."
+    },
+    {
+        "index": 84,
+        "start_time": 174532,
+        "end_time": 176616,
+        "text": "Or the cohort group could&#39;ve been composed of"
+    },
+    {
+        "index": 85,
+        "start_time": 176616,
+        "end_time": 178783,
+        "text": "people who shop at health food stores"
+    },
+    {
+        "index": 86,
+        "start_time": 178783,
+        "end_time": 180364,
+        "text": "and have different diets"
+    },
+    {
+        "index": 87,
+        "start_time": 180364,
+        "end_time": 182128,
+        "text": "or better access to healthcare."
+    },
+    {
+        "index": 88,
+        "start_time": 182128,
+        "end_time": 183755,
+        "text": "These factors that can affect results,"
+    },
+    {
+        "index": 89,
+        "start_time": 183755,
+        "end_time": 185449,
+        "text": "in addition to the factor being studied,"
+    },
+    {
+        "index": 90,
+        "start_time": 185449,
+        "end_time": 187757,
+        "text": "are known as confounding variables."
+    },
+    {
+        "index": 91,
+        "start_time": 187757,
+        "end_time": 189469,
+        "text": "These two major pitfalls,"
+    },
+    {
+        "index": 92,
+        "start_time": 189469,
+        "end_time": 190949,
+        "text": "combined with more general dangers,"
+    },
+    {
+        "index": 93,
+        "start_time": 190949,
+        "end_time": 193806,
+        "text": "such as conflicts of interest or selective use of data,"
+    },
+    {
+        "index": 94,
+        "start_time": 193806,
+        "end_time": 197533,
+        "text": "can make the findings of any particular epidemiological study suspect,"
+    },
+    {
+        "index": 95,
+        "start_time": 197533,
+        "end_time": 199312,
+        "text": "and a good study must go out of its way"
+    },
+    {
+        "index": 96,
+        "start_time": 199312,
+        "end_time": 201033,
+        "text": "to prove that its authors have taken steps"
+    },
+    {
+        "index": 97,
+        "start_time": 201033,
+        "end_time": 203364,
+        "text": "to eliminate these types of errors."
+    },
+    {
+        "index": 98,
+        "start_time": 203364,
+        "end_time": 205076,
+        "text": "But even when this has been done,"
+    },
+    {
+        "index": 99,
+        "start_time": 205076,
+        "end_time": 207068,
+        "text": "the very nature of epidemiological studies,"
+    },
+    {
+        "index": 100,
+        "start_time": 207068,
+        "end_time": 209572,
+        "text": "which examine differences between preexisting groups,"
+    },
+    {
+        "index": 101,
+        "start_time": 209572,
+        "end_time": 213033,
+        "text": "rather than deliberately inducing changes within the same individuals,"
+    },
+    {
+        "index": 102,
+        "start_time": 213033,
+        "end_time": 214577,
+        "text": "means that a single study"
+    },
+    {
+        "index": 103,
+        "start_time": 214577,
+        "end_time": 216365,
+        "text": "can only demonstrate a correlation"
+    },
+    {
+        "index": 104,
+        "start_time": 216365,
+        "end_time": 218459,
+        "text": "between a substance and a health outcome,"
+    },
+    {
+        "index": 105,
+        "start_time": 218459,
+        "end_time": 221531,
+        "text": "rather than a true cause and effect relationship."
+    },
+    {
+        "index": 106,
+        "start_time": 221531,
+        "end_time": 222918,
+        "text": "At the end of the day,"
+    },
+    {
+        "index": 107,
+        "start_time": 222918,
+        "end_time": 226116,
+        "text": "epidemiological studies have served as excellent guides to public health,"
+    },
+    {
+        "index": 108,
+        "start_time": 226116,
+        "end_time": 227616,
+        "text": "alerting us to critical health hazards,"
+    },
+    {
+        "index": 109,
+        "start_time": 227616,
+        "end_time": 231386,
+        "text": "such as smoking, asbestos, lead, and many more."
+    },
+    {
+        "index": 110,
+        "start_time": 231386,
+        "end_time": 233036,
+        "text": "But these were demonstrated through"
+    },
+    {
+        "index": 111,
+        "start_time": 233036,
+        "end_time": 235876,
+        "text": "multiple, well-conducted epidemiological studies,"
+    },
+    {
+        "index": 112,
+        "start_time": 235876,
+        "end_time": 237850,
+        "text": "all pointing in the same direction."
+    },
+    {
+        "index": 113,
+        "start_time": 237850,
+        "end_time": 239558,
+        "text": "So, the next time you see a headline"
+    },
+    {
+        "index": 114,
+        "start_time": 239558,
+        "end_time": 240852,
+        "text": "about a new miracle cure"
+    },
+    {
+        "index": 115,
+        "start_time": 240852,
+        "end_time": 243534,
+        "text": "or the terrible danger posed by an everyday substance,"
+    },
+    {
+        "index": 116,
+        "start_time": 243534,
+        "end_time": 245482,
+        "text": "try to learn more about the original study"
+    },
+    {
+        "index": 117,
+        "start_time": 245482,
+        "end_time": 249283,
+        "text": "and the limitations inherent in any epidemiological study or clinical trial"
+    },
+    {
+        "index": 118,
+        "start_time": 249283,
+        "end_time": 251279,
+        "text": "before jumping to conclusions."
+    }
+]

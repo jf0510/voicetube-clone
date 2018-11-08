@@ -1,0 +1,278 @@
+[
+  {
+    "end_time": 6390,
+    "index": 1,
+    "start_time": 5436,
+    "text": "Hello everyone"
+  },
+  {
+    "end_time": 11183,
+    "index": 2,
+    "start_time": 6510,
+    "text": "my name is C\u00e9dric Le Dressay and I\u2019m the CEO and Technical Director of Eugen Systems "
+  },
+  {
+    "end_time": 12117,
+    "index": 3,
+    "start_time": 11303,
+    "text": "and today,"
+  },
+  {
+    "end_time": 15754,
+    "index": 4,
+    "start_time": 12237,
+    "text": "I will present you the dynamic campaign, which is playable in solo"
+  },
+  {
+    "end_time": 17975,
+    "index": 5,
+    "start_time": 15874,
+    "text": "and in multiplayer - 1vs1"
+  },
+  {
+    "end_time": 24227,
+    "index": 6,
+    "start_time": 21163,
+    "text": "You\u2019re either going to choose to lead NATO troops"
+  },
+  {
+    "end_time": 27571,
+    "index": 7,
+    "start_time": 24274,
+    "text": "and contain the offensive from the Warsaw Pact"
+  },
+  {
+    "end_time": 30038,
+    "index": 8,
+    "start_time": 27603,
+    "text": "or you\u2019re going to command the Soviet forces"
+  },
+  {
+    "end_time": 32543,
+    "index": 9,
+    "start_time": 30069,
+    "text": "in order to conquer Scandinavia! "
+  },
+  {
+    "end_time": 34498,
+    "index": 10,
+    "start_time": 32963,
+    "text": "In the dynamic campaign "
+  },
+  {
+    "end_time": 38960,
+    "index": 11,
+    "start_time": 34509,
+    "text": "the choices you make will have an impact on upcoming events. "
+  },
+  {
+    "end_time": 40879,
+    "index": 12,
+    "start_time": 39220,
+    "text": "Your victories or defeats,"
+  },
+  {
+    "end_time": 42318,
+    "index": 13,
+    "start_time": 40940,
+    "text": "as well as random events, "
+  },
+  {
+    "end_time": 44389,
+    "index": 14,
+    "start_time": 42341,
+    "text": "will impact your political points. "
+  },
+  {
+    "end_time": 45779,
+    "index": 15,
+    "start_time": 44509,
+    "text": "Those political points"
+  },
+  {
+    "end_time": 47559,
+    "index": 16,
+    "start_time": 45807,
+    "text": "are used to order reinforcement"
+  },
+  {
+    "end_time": 48936,
+    "index": 17,
+    "start_time": 47587,
+    "text": "and strategic support,"
+  },
+  {
+    "end_time": 50561,
+    "index": 18,
+    "start_time": 49022,
+    "text": " such as new combat groups, "
+  },
+  {
+    "end_time": 52218,
+    "index": 19,
+    "start_time": 50742,
+    "text": "missile strikes,"
+  },
+  {
+    "end_time": 53961,
+    "index": 20,
+    "start_time": 52273,
+    "text": "intelligence missions,"
+  },
+  {
+    "end_time": 55464,
+    "index": 21,
+    "start_time": 54081,
+    "text": "Special Forces,"
+  },
+  {
+    "end_time": 57692,
+    "index": 22,
+    "start_time": 55584,
+    "text": "tactical nuclear weapons"
+  },
+  {
+    "end_time": 59314,
+    "index": 23,
+    "start_time": 57812,
+    "text": "and many more..."
+  },
+  {
+    "end_time": 61495,
+    "index": 24,
+    "start_time": 59885,
+    "text": "When two enemy combat groups"
+  },
+  {
+    "end_time": 63926,
+    "index": 25,
+    "start_time": 61511,
+    "text": "confront each other on a strategic level,"
+  },
+  {
+    "end_time": 66539,
+    "index": 26,
+    "start_time": 63994,
+    "text": "the battle begins in the tactical view,"
+  },
+  {
+    "end_time": 70181,
+    "index": 27,
+    "start_time": 66569,
+    "text": "and you have to win the battle in real time."
+  },
+  {
+    "end_time": 72991,
+    "index": 28,
+    "start_time": 70821,
+    "text": "  Your army is composed of Combat Groups"
+  },
+  {
+    "end_time": 75491,
+    "index": 29,
+    "start_time": 73014,
+    "text": "that persist through the entire campaign."
+  },
+  {
+    "end_time": 79723,
+    "index": 30,
+    "start_time": 75780,
+    "text": "These units gain experience and get stronger after each battle."
+  },
+  {
+    "end_time": 80656,
+    "index": 31,
+    "start_time": 79786,
+    "text": "However, "
+  },
+  {
+    "end_time": 83167,
+    "index": 32,
+    "start_time": 80776,
+    "text": "remember that any loss is permanent,"
+  },
+  {
+    "end_time": 85569,
+    "index": 33,
+    "start_time": 83288,
+    "text": "so do your best to protect your troops."
+  },
+  {
+    "end_time": 89488,
+    "index": 34,
+    "start_time": 85854,
+    "text": "Different zones of the map bear different levels of importance. "
+  },
+  {
+    "end_time": 91815,
+    "index": 35,
+    "start_time": 89608,
+    "text": "For example, capturing a capital city"
+  },
+  {
+    "end_time": 93533,
+    "index": 36,
+    "start_time": 91935,
+    "text": "will have a political impact, "
+  },
+  {
+    "end_time": 97295,
+    "index": 37,
+    "start_time": 93612,
+    "text": "but it will not directly affect military operations."
+  },
+  {
+    "end_time": 98727,
+    "index": 38,
+    "start_time": 97555,
+    "text": "On the contrary,"
+  },
+  {
+    "end_time": 100904,
+    "index": 39,
+    "start_time": 98814,
+    "text": "controlling sea harbors and airports"
+  },
+  {
+    "end_time": 103394,
+    "index": 40,
+    "start_time": 100932,
+    "text": "will enable you to intensify deployment"
+  },
+  {
+    "end_time": 105889,
+    "index": 41,
+    "start_time": 103439,
+    "text": "and will give you new strategic opportunities."
+  },
+  {
+    "end_time": 109298,
+    "index": 42,
+    "start_time": 106198,
+    "text": "Various combat groups, such as marines, paratroopers,"
+  },
+  {
+    "end_time": 110369,
+    "index": 43,
+    "start_time": 109328,
+    "text": "airborne troops,"
+  },
+  {
+    "end_time": 112201,
+    "index": 44,
+    "start_time": 110433,
+    "text": "mechanized and armored"
+  },
+  {
+    "end_time": 114695,
+    "index": 45,
+    "start_time": 112485,
+    "text": "have different set-ups and capabilities,"
+  },
+  {
+    "end_time": 117517,
+    "index": 46,
+    "start_time": 114815,
+    "text": "hence the tremendous strategic possibilities."
+  }
+]

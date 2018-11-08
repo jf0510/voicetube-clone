@@ -1,0 +1,542 @@
+[
+    {
+        "index": 1,
+        "start_time": 8460,
+        "end_time": 11090,
+        "text": "Communicating underwater is challenging."
+    },
+    {
+        "index": 2,
+        "start_time": 11090,
+        "end_time": 16650,
+        "text": "Light and odors don&#39;t travel well,\nso it&#39;s hard for animals to see or smell."
+    },
+    {
+        "index": 3,
+        "start_time": 16650,
+        "end_time": 21840,
+        "text": "But sound moves about four times\nfaster in water than in air,"
+    },
+    {
+        "index": 4,
+        "start_time": 21840,
+        "end_time": 23440,
+        "text": "so in this dark environment,"
+    },
+    {
+        "index": 5,
+        "start_time": 23440,
+        "end_time": 28351,
+        "text": "marine mammals often rely\non vocalization to communicate."
+    },
+    {
+        "index": 6,
+        "start_time": 28351,
+        "end_time": 32057,
+        "text": "That&#39;s why a chorus of sounds fills\nthe ocean."
+    },
+    {
+        "index": 7,
+        "start_time": 32057,
+        "end_time": 32822,
+        "text": "Clicks,"
+    },
+    {
+        "index": 8,
+        "start_time": 32822,
+        "end_time": 33522,
+        "text": "pulses,"
+    },
+    {
+        "index": 9,
+        "start_time": 33522,
+        "end_time": 34544,
+        "text": "whistles,"
+    },
+    {
+        "index": 10,
+        "start_time": 34544,
+        "end_time": 35431,
+        "text": "groans,"
+    },
+    {
+        "index": 11,
+        "start_time": 35431,
+        "end_time": 36281,
+        "text": "boings,"
+    },
+    {
+        "index": 12,
+        "start_time": 36281,
+        "end_time": 37080,
+        "text": "cries,"
+    },
+    {
+        "index": 13,
+        "start_time": 37080,
+        "end_time": 39791,
+        "text": "and trills, to name a few."
+    },
+    {
+        "index": 14,
+        "start_time": 39791,
+        "end_time": 42291,
+        "text": "But the most famous parts of this\nunderwater symphony"
+    },
+    {
+        "index": 15,
+        "start_time": 42291,
+        "end_time": 48111,
+        "text": "are the evocative melodies, or songs,\ncomposed by the world&#39;s largest mammals,"
+    },
+    {
+        "index": 16,
+        "start_time": 48111,
+        "end_time": 50741,
+        "text": "whales."
+    },
+    {
+        "index": 17,
+        "start_time": 50741,
+        "end_time": 54602,
+        "text": "Whale songs are one of the most\nsophisticated communication systems"
+    },
+    {
+        "index": 18,
+        "start_time": 54602,
+        "end_time": 56472,
+        "text": "in the animal kingdom."
+    },
+    {
+        "index": 19,
+        "start_time": 56472,
+        "end_time": 59181,
+        "text": "Only a few species are known to sing."
+    },
+    {
+        "index": 20,
+        "start_time": 59181,
+        "end_time": 59924,
+        "text": "Blue,"
+    },
+    {
+        "index": 21,
+        "start_time": 59924,
+        "end_time": 60832,
+        "text": "fin,"
+    },
+    {
+        "index": 22,
+        "start_time": 60832,
+        "end_time": 61701,
+        "text": "bowhead"
+    },
+    {
+        "index": 23,
+        "start_time": 61701,
+        "end_time": 63181,
+        "text": "minke whales,"
+    },
+    {
+        "index": 24,
+        "start_time": 63181,
+        "end_time": 66282,
+        "text": "and of course humpback whales."
+    },
+    {
+        "index": 25,
+        "start_time": 66282,
+        "end_time": 68032,
+        "text": "These are all baleen whales"
+    },
+    {
+        "index": 26,
+        "start_time": 68032,
+        "end_time": 72921,
+        "text": "which use hairy baleen plates\ninstead of teeth to trap their prey."
+    },
+    {
+        "index": 27,
+        "start_time": 72921,
+        "end_time": 76322,
+        "text": "Meanwhile, toothed whales do use\necholocation,"
+    },
+    {
+        "index": 28,
+        "start_time": 76322,
+        "end_time": 79182,
+        "text": "and they and other species\nof baleen whales"
+    },
+    {
+        "index": 29,
+        "start_time": 79182,
+        "end_time": 83871,
+        "text": "make social sounds, such as \ncries and whistles, to communicate."
+    },
+    {
+        "index": 30,
+        "start_time": 83871,
+        "end_time": 88292,
+        "text": "But those vocalizations \nlack the complexity of songs."
+    },
+    {
+        "index": 31,
+        "start_time": 88292,
+        "end_time": 89992,
+        "text": "So how do they do it?"
+    },
+    {
+        "index": 32,
+        "start_time": 89992,
+        "end_time": 94988,
+        "text": "Land mammals like us generate sound\nby moving air over our vocal cords"
+    },
+    {
+        "index": 33,
+        "start_time": 94988,
+        "end_time": 98114,
+        "text": "when we exhale,\ncausing them to vibrate."
+    },
+    {
+        "index": 34,
+        "start_time": 98114,
+        "end_time": 102262,
+        "text": "Baleen whales have a U-shaped fold\nof tissue between their lungs"
+    },
+    {
+        "index": 35,
+        "start_time": 102262,
+        "end_time": 107492,
+        "text": "and their large inflatable organs\ncalled laryngeal sacs."
+    },
+    {
+        "index": 36,
+        "start_time": 107492,
+        "end_time": 109705,
+        "text": "We don&#39;t know this for sure"
+    },
+    {
+        "index": 37,
+        "start_time": 109705,
+        "end_time": 113115,
+        "text": "because it&#39;s essentially impossible\nto observe the internal organs"
+    },
+    {
+        "index": 38,
+        "start_time": 113115,
+        "end_time": 115104,
+        "text": "of a living, singing whale,"
+    },
+    {
+        "index": 39,
+        "start_time": 115104,
+        "end_time": 117333,
+        "text": "but we think that when a whale sings,"
+    },
+    {
+        "index": 40,
+        "start_time": 117333,
+        "end_time": 120113,
+        "text": "muscular contractions in the throat\nand chest"
+    },
+    {
+        "index": 41,
+        "start_time": 120113,
+        "end_time": 126023,
+        "text": "move air from the lungs across\nthe U-fold and into the laryngeal sacs,"
+    },
+    {
+        "index": 42,
+        "start_time": 126023,
+        "end_time": 128483,
+        "text": "causing the U-fold to vibrate."
+    },
+    {
+        "index": 43,
+        "start_time": 128483,
+        "end_time": 134163,
+        "text": "The resulting sound resonates in the sacs\nlike a choir singing in a cathedral"
+    },
+    {
+        "index": 44,
+        "start_time": 134163,
+        "end_time": 139194,
+        "text": "making songs loud enough to propagate\nup to thousands of kilometers away."
+    },
+    {
+        "index": 45,
+        "start_time": 139194,
+        "end_time": 141765,
+        "text": "Whales don&#39;t have to exhale to sing."
+    },
+    {
+        "index": 46,
+        "start_time": 141765,
+        "end_time": 145334,
+        "text": "Instead, the air is recycled \nback into the lungs,"
+    },
+    {
+        "index": 47,
+        "start_time": 145334,
+        "end_time": 147984,
+        "text": "creating sound once more."
+    },
+    {
+        "index": 48,
+        "start_time": 147984,
+        "end_time": 151763,
+        "text": "One reason whale songs are so fascinating\nis their pattern."
+    },
+    {
+        "index": 49,
+        "start_time": 151763,
+        "end_time": 156615,
+        "text": "Units, like moans, cries, and chirps\nare arranged in phrases."
+    },
+    {
+        "index": 50,
+        "start_time": 156615,
+        "end_time": 159674,
+        "text": "Repeated phrases \nare assembled into themes."
+    },
+    {
+        "index": 51,
+        "start_time": 159674,
+        "end_time": 164553,
+        "text": "Multiple themes repeated in a predictable\npattern create a song."
+    },
+    {
+        "index": 52,
+        "start_time": 164553,
+        "end_time": 167115,
+        "text": "This hierarchical structure \nis a kind of grammar."
+    },
+    {
+        "index": 53,
+        "start_time": 167115,
+        "end_time": 170842,
+        "text": "Whale songs are extremely variable\nin duration,"
+    },
+    {
+        "index": 54,
+        "start_time": 170842,
+        "end_time": 174135,
+        "text": "and whales can repeat them over and over."
+    },
+    {
+        "index": 55,
+        "start_time": 174135,
+        "end_time": 179954,
+        "text": "In one recorded session,\na humpback whale sang for 22 hours."
+    },
+    {
+        "index": 56,
+        "start_time": 179954,
+        "end_time": 181564,
+        "text": "And why do they do it?"
+    },
+    {
+        "index": 57,
+        "start_time": 181564,
+        "end_time": 185155,
+        "text": "We don&#39;t yet know the exact purpose,\nbut we can speculate."
+    },
+    {
+        "index": 58,
+        "start_time": 185155,
+        "end_time": 189315,
+        "text": "Given that the singers are males and \nthey mostly sing during the mating season,"
+    },
+    {
+        "index": 59,
+        "start_time": 189315,
+        "end_time": 192266,
+        "text": "songs might be used to attract females."
+    },
+    {
+        "index": 60,
+        "start_time": 192266,
+        "end_time": 197036,
+        "text": "Or perhaps they&#39;re territorial,\nused to deter other males."
+    },
+    {
+        "index": 61,
+        "start_time": 197036,
+        "end_time": 201155,
+        "text": "Whales return to the same feeding\nand breeding grounds annually,"
+    },
+    {
+        "index": 62,
+        "start_time": 201155,
+        "end_time": 204966,
+        "text": "and each discrete population has\na different song."
+    },
+    {
+        "index": 63,
+        "start_time": 204966,
+        "end_time": 211196,
+        "text": "Songs evolve over time as units\nor phrases are added, changed, or dropped."
+    },
+    {
+        "index": 64,
+        "start_time": 211196,
+        "end_time": 215020,
+        "text": "And when males from different populations\nare feeding within earshot,"
+    },
+    {
+        "index": 65,
+        "start_time": 215020,
+        "end_time": 217300,
+        "text": "phrases are often exchanged,"
+    },
+    {
+        "index": 66,
+        "start_time": 217300,
+        "end_time": 221855,
+        "text": "maybe because new songs make them more\nattractive to breeding females."
+    },
+    {
+        "index": 67,
+        "start_time": 221855,
+        "end_time": 225586,
+        "text": "This is one of the fastest examples\nof cultural transmission,"
+    },
+    {
+        "index": 68,
+        "start_time": 225586,
+        "end_time": 229470,
+        "text": "where learned behaviors are passed\nbetween unrelated individuals"
+    },
+    {
+        "index": 69,
+        "start_time": 229470,
+        "end_time": 231520,
+        "text": "of the same species."
+    },
+    {
+        "index": 70,
+        "start_time": 231520,
+        "end_time": 234507,
+        "text": "We can eavesdrop on these songs\nusing underwater microphones"
+    },
+    {
+        "index": 71,
+        "start_time": 234507,
+        "end_time": 236406,
+        "text": "called hydrophones."
+    },
+    {
+        "index": 72,
+        "start_time": 236406,
+        "end_time": 242007,
+        "text": "These help us track species when sightings\nor genetic samples are rare."
+    },
+    {
+        "index": 73,
+        "start_time": 242007,
+        "end_time": 244897,
+        "text": "For example, scientists have been able\nto differentiate"
+    },
+    {
+        "index": 74,
+        "start_time": 244897,
+        "end_time": 250335,
+        "text": "the elusive blue whale&#39;s populations\nworldwide based on their songs."
+    },
+    {
+        "index": 75,
+        "start_time": 250335,
+        "end_time": 254946,
+        "text": "But the oceans are getting noisier\nas a result of human activity."
+    },
+    {
+        "index": 76,
+        "start_time": 254946,
+        "end_time": 255676,
+        "text": "Boating,"
+    },
+    {
+        "index": 77,
+        "start_time": 255676,
+        "end_time": 256756,
+        "text": "military sonar,"
+    },
+    {
+        "index": 78,
+        "start_time": 256756,
+        "end_time": 258127,
+        "text": "underwater construction,"
+    },
+    {
+        "index": 79,
+        "start_time": 258127,
+        "end_time": 262156,
+        "text": "and seismic surveys for oil\nare occurring more often"
+    },
+    {
+        "index": 80,
+        "start_time": 262156,
+        "end_time": 265347,
+        "text": "which may interfere \nwith whale&#39;s communication."
+    },
+    {
+        "index": 81,
+        "start_time": 265347,
+        "end_time": 268667,
+        "text": "Some whales will avoid key feeding\nor breeding grounds"
+    },
+    {
+        "index": 82,
+        "start_time": 268667,
+        "end_time": 271298,
+        "text": "if human noise is too loud."
+    },
+    {
+        "index": 83,
+        "start_time": 271298,
+        "end_time": 274557,
+        "text": "And humpback whales have been observed\nto reduce their singing"
+    },
+    {
+        "index": 84,
+        "start_time": 274557,
+        "end_time": 278898,
+        "text": "in response to noise 200 kilometers away."
+    },
+    {
+        "index": 85,
+        "start_time": 278898,
+        "end_time": 281557,
+        "text": "Limiting human activity\nalong migratory routes"
+    },
+    {
+        "index": 86,
+        "start_time": 281557,
+        "end_time": 283617,
+        "text": "and in other critical habitats,"
+    },
+    {
+        "index": 87,
+        "start_time": 283617,
+        "end_time": 286437,
+        "text": "and reducing noise pollution\nthroughout the ocean"
+    },
+    {
+        "index": 88,
+        "start_time": 286437,
+        "end_time": 289987,
+        "text": "would help ensure \nwhales continued survival."
+    },
+    {
+        "index": 89,
+        "start_time": 289987,
+        "end_time": 292838,
+        "text": "If the whales can keep singing\nand we can keep listening,"
+    },
+    {
+        "index": 90,
+        "start_time": 292838,
+        "end_time": 296537,
+        "text": "maybe one day we&#39;ll truly understand\nwhat they&#39;re saying."
+    }
+]

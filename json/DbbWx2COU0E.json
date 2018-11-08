@@ -1,0 +1,518 @@
+[
+    {
+        "index": 1,
+        "start_time": 6457,
+        "end_time": 10186,
+        "text": "Albert Einstein played a key role\nin launching quantum mechanics"
+    },
+    {
+        "index": 2,
+        "start_time": 10186,
+        "end_time": 12585,
+        "text": "through his theory of the\nphotoelectric effect"
+    },
+    {
+        "index": 3,
+        "start_time": 12585,
+        "end_time": 16987,
+        "text": "but remained deeply bothered by its\nphilosophical implications."
+    },
+    {
+        "index": 4,
+        "start_time": 16987,
+        "end_time": 21325,
+        "text": "And though most of us still remember\nhim for deriving E=MC^2,"
+    },
+    {
+        "index": 5,
+        "start_time": 21325,
+        "end_time": 26681,
+        "text": "his last great contribution to physics\nwas actually a 1935 paper,"
+    },
+    {
+        "index": 6,
+        "start_time": 26681,
+        "end_time": 31635,
+        "text": "coauthored with his young colleagues\nBoris Podolsky and Nathan Rosen."
+    },
+    {
+        "index": 7,
+        "start_time": 31635,
+        "end_time": 35925,
+        "text": "Regarded as an odd philosophical\nfootnote well into the 1980s,"
+    },
+    {
+        "index": 8,
+        "start_time": 35925,
+        "end_time": 41871,
+        "text": "this EPR paper has recently become central\nto a new understanding of quantum physics,"
+    },
+    {
+        "index": 9,
+        "start_time": 41871,
+        "end_time": 44160,
+        "text": "with its description \nof a strange phenomenon"
+    },
+    {
+        "index": 10,
+        "start_time": 44160,
+        "end_time": 47842,
+        "text": "now known as entangled states."
+    },
+    {
+        "index": 11,
+        "start_time": 47842,
+        "end_time": 52023,
+        "text": "The paper begins by considering a\nsource that spits out pairs of particles,"
+    },
+    {
+        "index": 12,
+        "start_time": 52023,
+        "end_time": 54922,
+        "text": "each with two measurable properties."
+    },
+    {
+        "index": 13,
+        "start_time": 54922,
+        "end_time": 57537,
+        "text": "Each of these measurements has\ntwo possible results"
+    },
+    {
+        "index": 14,
+        "start_time": 57537,
+        "end_time": 59108,
+        "text": "of equal probability."
+    },
+    {
+        "index": 15,
+        "start_time": 59108,
+        "end_time": 61748,
+        "text": "Let&#39;s say zero or one\nfor the first property,"
+    },
+    {
+        "index": 16,
+        "start_time": 61748,
+        "end_time": 63950,
+        "text": "and A or B for the second."
+    },
+    {
+        "index": 17,
+        "start_time": 63950,
+        "end_time": 65492,
+        "text": "Once a measurement is performed,"
+    },
+    {
+        "index": 18,
+        "start_time": 65492,
+        "end_time": 69040,
+        "text": "subsequent measurements of the same\nproperty in the same particle"
+    },
+    {
+        "index": 19,
+        "start_time": 69040,
+        "end_time": 71557,
+        "text": "will yield the same result."
+    },
+    {
+        "index": 20,
+        "start_time": 71557,
+        "end_time": 73512,
+        "text": "The strange implication of this scenario"
+    },
+    {
+        "index": 21,
+        "start_time": 73512,
+        "end_time": 75765,
+        "text": "is not only that the state \nof a single particle"
+    },
+    {
+        "index": 22,
+        "start_time": 75765,
+        "end_time": 78381,
+        "text": "is indeterminate until it&#39;s measured,"
+    },
+    {
+        "index": 23,
+        "start_time": 78381,
+        "end_time": 81194,
+        "text": "but that the measurement then\ndetermines the state."
+    },
+    {
+        "index": 24,
+        "start_time": 81194,
+        "end_time": 84114,
+        "text": "What&#39;s more, the measurements \naffect each other."
+    },
+    {
+        "index": 25,
+        "start_time": 84114,
+        "end_time": 86624,
+        "text": "If you measure a particle \nas being in state 1,"
+    },
+    {
+        "index": 26,
+        "start_time": 86624,
+        "end_time": 89118,
+        "text": "and follow it up with the second\ntype of measurement,"
+    },
+    {
+        "index": 27,
+        "start_time": 89118,
+        "end_time": 92472,
+        "text": "you&#39;ll have a 50% chance of\ngetting either A or B,"
+    },
+    {
+        "index": 28,
+        "start_time": 92472,
+        "end_time": 94668,
+        "text": "but if you then repeat \nthe first measurement,"
+    },
+    {
+        "index": 29,
+        "start_time": 94668,
+        "end_time": 97673,
+        "text": "you&#39;ll have a a 50% chance of getting zero"
+    },
+    {
+        "index": 30,
+        "start_time": 97673,
+        "end_time": 101207,
+        "text": "even though the particle had already\nbeen measured at one."
+    },
+    {
+        "index": 31,
+        "start_time": 101207,
+        "end_time": 104887,
+        "text": "So switching the property being measured\nscrambles the original result,"
+    },
+    {
+        "index": 32,
+        "start_time": 104887,
+        "end_time": 107426,
+        "text": "allowing for a new, random value."
+    },
+    {
+        "index": 33,
+        "start_time": 107426,
+        "end_time": 111077,
+        "text": "Things get even stranger when you\nlook at both particles."
+    },
+    {
+        "index": 34,
+        "start_time": 111077,
+        "end_time": 113934,
+        "text": "Each of the particles will produce\nrandom results,"
+    },
+    {
+        "index": 35,
+        "start_time": 113934,
+        "end_time": 115266,
+        "text": "but if you compare the two,"
+    },
+    {
+        "index": 36,
+        "start_time": 115266,
+        "end_time": 119386,
+        "text": "you will find that they are\nalways perfectly correlated."
+    },
+    {
+        "index": 37,
+        "start_time": 119386,
+        "end_time": 122293,
+        "text": "For example, if both particles\nare measured at zero,"
+    },
+    {
+        "index": 38,
+        "start_time": 122293,
+        "end_time": 124428,
+        "text": "the relationship will always hold."
+    },
+    {
+        "index": 39,
+        "start_time": 124428,
+        "end_time": 126946,
+        "text": "The states of the two are entangled."
+    },
+    {
+        "index": 40,
+        "start_time": 126946,
+        "end_time": 131143,
+        "text": "Measuring one will tell you the other\nwith absolute certainty."
+    },
+    {
+        "index": 41,
+        "start_time": 131143,
+        "end_time": 135984,
+        "text": "But this entanglement seems to defy\nEinstein&#39;s famous theory of relativity"
+    },
+    {
+        "index": 42,
+        "start_time": 135984,
+        "end_time": 139027,
+        "text": "because there is nothing to limit the\ndistance between particles."
+    },
+    {
+        "index": 43,
+        "start_time": 139027,
+        "end_time": 141219,
+        "text": "If you measure one in New York at noon,"
+    },
+    {
+        "index": 44,
+        "start_time": 141219,
+        "end_time": 144448,
+        "text": "and the other in San Francisco \na nanosecond later,"
+    },
+    {
+        "index": 45,
+        "start_time": 144448,
+        "end_time": 147593,
+        "text": "they still give exactly the same result."
+    },
+    {
+        "index": 46,
+        "start_time": 147593,
+        "end_time": 149932,
+        "text": "But if the measurement \ndoes determine the value,"
+    },
+    {
+        "index": 47,
+        "start_time": 149932,
+        "end_time": 154544,
+        "text": "then this would require one particle\nsending some sort of signal to the other"
+    },
+    {
+        "index": 48,
+        "start_time": 154544,
+        "end_time": 157390,
+        "text": "at 13,000,000 times the speed of light,"
+    },
+    {
+        "index": 49,
+        "start_time": 157390,
+        "end_time": 160741,
+        "text": "which according to relativity,\nis impossible."
+    },
+    {
+        "index": 50,
+        "start_time": 160741,
+        "end_time": 165812,
+        "text": "For this reason, Einstein dismissed\nentanglement as &quot;spuckafte ferwirklung,&quot;"
+    },
+    {
+        "index": 51,
+        "start_time": 165812,
+        "end_time": 168508,
+        "text": "or spooky action at a distance."
+    },
+    {
+        "index": 52,
+        "start_time": 168508,
+        "end_time": 171176,
+        "text": "He decided that quantum mechanics\nmust be incomplete,"
+    },
+    {
+        "index": 53,
+        "start_time": 171176,
+        "end_time": 175703,
+        "text": "a mere approximation of a deeper reality\nin which both particles"
+    },
+    {
+        "index": 54,
+        "start_time": 175703,
+        "end_time": 179527,
+        "text": "have predetermined states that \nare hidden from us."
+    },
+    {
+        "index": 55,
+        "start_time": 179527,
+        "end_time": 183109,
+        "text": "Supporters of orthodox quantum theory\nlead by Niels Bohr"
+    },
+    {
+        "index": 56,
+        "start_time": 183109,
+        "end_time": 187359,
+        "text": "maintained that quantum states\nreally are fundamentally indeterminate,"
+    },
+    {
+        "index": 57,
+        "start_time": 187359,
+        "end_time": 189960,
+        "text": "and entanglement allows \nthe state of one particle"
+    },
+    {
+        "index": 58,
+        "start_time": 189960,
+        "end_time": 192827,
+        "text": "to depend on that of its distant partner."
+    },
+    {
+        "index": 59,
+        "start_time": 192827,
+        "end_time": 195648,
+        "text": "For 30 years, physics remained \nat an impasse,"
+    },
+    {
+        "index": 60,
+        "start_time": 195648,
+        "end_time": 200194,
+        "text": "until John Bell figured out that the key\nto testing the EPR argument"
+    },
+    {
+        "index": 61,
+        "start_time": 200194,
+        "end_time": 204368,
+        "text": "was to look at cases involving different\nmeasurements on the two particles."
+    },
+    {
+        "index": 62,
+        "start_time": 204368,
+        "end_time": 209050,
+        "text": "The local hidden variable theories\nfavored by Einstein, Podolsky and Rosen,"
+    },
+    {
+        "index": 63,
+        "start_time": 209050,
+        "end_time": 213439,
+        "text": "strictly limited how often you could\nget results like 1A or B0"
+    },
+    {
+        "index": 64,
+        "start_time": 213439,
+        "end_time": 217245,
+        "text": "because the outcomes would have to be\ndefined in advanced."
+    },
+    {
+        "index": 65,
+        "start_time": 217245,
+        "end_time": 219613,
+        "text": "Bell showed that the purely \nquantum approach,"
+    },
+    {
+        "index": 66,
+        "start_time": 219613,
+        "end_time": 222765,
+        "text": "where the state is truly \nindeterminate until measured,"
+    },
+    {
+        "index": 67,
+        "start_time": 222765,
+        "end_time": 225853,
+        "text": "has different limits\nand predicts mixed measurement results"
+    },
+    {
+        "index": 68,
+        "start_time": 225853,
+        "end_time": 229040,
+        "text": "that are impossible in the\npredetermined scenario."
+    },
+    {
+        "index": 69,
+        "start_time": 229040,
+        "end_time": 232709,
+        "text": "Once Bell had worked out how to test\nthe EPR argument,"
+    },
+    {
+        "index": 70,
+        "start_time": 232709,
+        "end_time": 235259,
+        "text": "physicists went out and did it."
+    },
+    {
+        "index": 71,
+        "start_time": 235259,
+        "end_time": 239483,
+        "text": "Beginning with John Clauster in the 70s\nand Alain Aspect in the early 80s,"
+    },
+    {
+        "index": 72,
+        "start_time": 239483,
+        "end_time": 243106,
+        "text": "dozens of experiments have tested \nthe EPR prediction,"
+    },
+    {
+        "index": 73,
+        "start_time": 243106,
+        "end_time": 245214,
+        "text": "and all have found the same thing:"
+    },
+    {
+        "index": 74,
+        "start_time": 245214,
+        "end_time": 247603,
+        "text": "quantum mechanics is correct."
+    },
+    {
+        "index": 75,
+        "start_time": 247603,
+        "end_time": 252220,
+        "text": "The correlations between the indeterminate\nstates of entangled particles are real"
+    },
+    {
+        "index": 76,
+        "start_time": 252220,
+        "end_time": 255365,
+        "text": "and cannot be explained by any \ndeeper variable."
+    },
+    {
+        "index": 77,
+        "start_time": 255365,
+        "end_time": 259991,
+        "text": "The EPR paper turned out to be wrong\nbut brilliantly so."
+    },
+    {
+        "index": 78,
+        "start_time": 259991,
+        "end_time": 263976,
+        "text": "By leading physicists to think deeply\nabout the foundations of quantum physics,"
+    },
+    {
+        "index": 79,
+        "start_time": 263976,
+        "end_time": 266702,
+        "text": "it led to further elaboration \nof the theory"
+    },
+    {
+        "index": 80,
+        "start_time": 266702,
+        "end_time": 270798,
+        "text": "and helped launch research into\nsubjects like quantum information,"
+    },
+    {
+        "index": 81,
+        "start_time": 270798,
+        "end_time": 276774,
+        "text": "now a thriving field with the potential to\ndevelop computers of unparalleled power."
+    },
+    {
+        "index": 82,
+        "start_time": 276774,
+        "end_time": 279602,
+        "text": "Unfortunately, the randomness of\nthe measured results"
+    },
+    {
+        "index": 83,
+        "start_time": 279602,
+        "end_time": 281716,
+        "text": "prevents science fiction scenarios,"
+    },
+    {
+        "index": 84,
+        "start_time": 281716,
+        "end_time": 286127,
+        "text": "like using entangled particles\nto send messages faster than light."
+    },
+    {
+        "index": 85,
+        "start_time": 286127,
+        "end_time": 289025,
+        "text": "So relativity is safe, for now."
+    },
+    {
+        "index": 86,
+        "start_time": 289025,
+        "end_time": 293534,
+        "text": "But the quantum universe is far stranger\nthan Einstein wanted to believe."
+    }
+]

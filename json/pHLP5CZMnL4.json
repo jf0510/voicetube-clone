@@ -1,0 +1,572 @@
+[
+    {
+        "index": 1,
+        "start_time": 6949,
+        "end_time": 9244,
+        "text": "As we walk through our daily environments,"
+    },
+    {
+        "index": 2,
+        "start_time": 9244,
+        "end_time": 11478,
+        "text": "we&#39;re surrounded by exotic creatures"
+    },
+    {
+        "index": 3,
+        "start_time": 11478,
+        "end_time": 14431,
+        "text": "that are too small to see \nwith the naked eye."
+    },
+    {
+        "index": 4,
+        "start_time": 14431,
+        "end_time": 18237,
+        "text": "We usually imagine these \nmicroscopic organisms, or microbes,"
+    },
+    {
+        "index": 5,
+        "start_time": 18237,
+        "end_time": 22329,
+        "text": "as asocial cells that float around\nby themselves."
+    },
+    {
+        "index": 6,
+        "start_time": 22329,
+        "end_time": 25470,
+        "text": "But in reality, \nmicrobes gather by the millions"
+    },
+    {
+        "index": 7,
+        "start_time": 25470,
+        "end_time": 30114,
+        "text": "to form vast communities \nknown as biofilms."
+    },
+    {
+        "index": 8,
+        "start_time": 30114,
+        "end_time": 33109,
+        "text": "Natural biofilms are like \nminiature jungles"
+    },
+    {
+        "index": 9,
+        "start_time": 33109,
+        "end_time": 37582,
+        "text": "filled with many kinds of microbes\nfrom across the web of life."
+    },
+    {
+        "index": 10,
+        "start_time": 37582,
+        "end_time": 40702,
+        "text": "Bacteria and archaea mingle with\nother microbes"
+    },
+    {
+        "index": 11,
+        "start_time": 40702,
+        "end_time": 43438,
+        "text": "like algae, fungi, and protozoa,"
+    },
+    {
+        "index": 12,
+        "start_time": 43438,
+        "end_time": 48915,
+        "text": "forming dense, organized structures\nthat grow on almost any surface."
+    },
+    {
+        "index": 13,
+        "start_time": 48915,
+        "end_time": 50677,
+        "text": "When you pad across a river bottom,"
+    },
+    {
+        "index": 14,
+        "start_time": 50677,
+        "end_time": 52939,
+        "text": "touch the rind of an aged cheese,"
+    },
+    {
+        "index": 15,
+        "start_time": 52939,
+        "end_time": 54483,
+        "text": "tend your garden soil,"
+    },
+    {
+        "index": 16,
+        "start_time": 54483,
+        "end_time": 56255,
+        "text": "or brush your teeth,"
+    },
+    {
+        "index": 17,
+        "start_time": 56255,
+        "end_time": 60561,
+        "text": "you&#39;re coming into contact with these\ninvisible ecosystems."
+    },
+    {
+        "index": 18,
+        "start_time": 60561,
+        "end_time": 63043,
+        "text": "To see how biofilms come about,"
+    },
+    {
+        "index": 19,
+        "start_time": 63043,
+        "end_time": 67190,
+        "text": "let&#39;s watch one as it develops\non a submerged river rock."
+    },
+    {
+        "index": 20,
+        "start_time": 67190,
+        "end_time": 70799,
+        "text": "This type of biofilm might begin\nwith a few bacteria"
+    },
+    {
+        "index": 21,
+        "start_time": 70799,
+        "end_time": 73147,
+        "text": "swimming through their liquid environment."
+    },
+    {
+        "index": 22,
+        "start_time": 73147,
+        "end_time": 78076,
+        "text": "The cells use rotating flagella\nto propel towards the surface of the rock,"
+    },
+    {
+        "index": 23,
+        "start_time": 78076,
+        "end_time": 82165,
+        "text": "which they attach to with the help\nof sticky appendages."
+    },
+    {
+        "index": 24,
+        "start_time": 82165,
+        "end_time": 85703,
+        "text": "Then, they start producing an\nextracellular matrix"
+    },
+    {
+        "index": 25,
+        "start_time": 85703,
+        "end_time": 89474,
+        "text": "that holds them together as they divide\nand reproduce."
+    },
+    {
+        "index": 26,
+        "start_time": 89474,
+        "end_time": 92495,
+        "text": "Before long, microcolonies arise,"
+    },
+    {
+        "index": 27,
+        "start_time": 92495,
+        "end_time": 96939,
+        "text": "clusters of cells sheathed in this slimy,\nglue-like material."
+    },
+    {
+        "index": 28,
+        "start_time": 96939,
+        "end_time": 100055,
+        "text": "Microcolonies grow to become towers,"
+    },
+    {
+        "index": 29,
+        "start_time": 100055,
+        "end_time": 102632,
+        "text": "while water channels flow around them,"
+    },
+    {
+        "index": 30,
+        "start_time": 102632,
+        "end_time": 105207,
+        "text": "functioning like a basic \ncirculatory system."
+    },
+    {
+        "index": 31,
+        "start_time": 105207,
+        "end_time": 109143,
+        "text": "But why do microbes build \nsuch complex communities"
+    },
+    {
+        "index": 32,
+        "start_time": 109143,
+        "end_time": 111129,
+        "text": "when they could live alone?"
+    },
+    {
+        "index": 33,
+        "start_time": 111129,
+        "end_time": 113739,
+        "text": "For one thing, microbes \nliving in a biofilm"
+    },
+    {
+        "index": 34,
+        "start_time": 113739,
+        "end_time": 117026,
+        "text": "are rooted in a relatively \nstable microenvironment"
+    },
+    {
+        "index": 35,
+        "start_time": 117026,
+        "end_time": 119793,
+        "text": "where they may have access \nto a nutrient source."
+    },
+    {
+        "index": 36,
+        "start_time": 119793,
+        "end_time": 122303,
+        "text": "There&#39;s also safety in numbers."
+    },
+    {
+        "index": 37,
+        "start_time": 122303,
+        "end_time": 125745,
+        "text": "Out in the deep, dark wilderness\nof the microbial world,"
+    },
+    {
+        "index": 38,
+        "start_time": 125745,
+        "end_time": 128644,
+        "text": "isolated microbes face serious risks."
+    },
+    {
+        "index": 39,
+        "start_time": 128644,
+        "end_time": 130191,
+        "text": "Predators want to eat them,"
+    },
+    {
+        "index": 40,
+        "start_time": 130191,
+        "end_time": 132509,
+        "text": "immune systems seek to destroy them,"
+    },
+    {
+        "index": 41,
+        "start_time": 132509,
+        "end_time": 134697,
+        "text": "and there are physical dangers, too,"
+    },
+    {
+        "index": 42,
+        "start_time": 134697,
+        "end_time": 137110,
+        "text": "like running out of water\nand drying up."
+    },
+    {
+        "index": 43,
+        "start_time": 137110,
+        "end_time": 140682,
+        "text": "However, in a biofilm, \nthe extracellular matrix"
+    },
+    {
+        "index": 44,
+        "start_time": 140682,
+        "end_time": 143328,
+        "text": "shields microbes from external threats."
+    },
+    {
+        "index": 45,
+        "start_time": 143328,
+        "end_time": 147926,
+        "text": "Biofilms also enable interactions\nbetween individual cells."
+    },
+    {
+        "index": 46,
+        "start_time": 147926,
+        "end_time": 151600,
+        "text": "When microbes are packed against \neach other in close proximity,"
+    },
+    {
+        "index": 47,
+        "start_time": 151600,
+        "end_time": 152653,
+        "text": "they can communicate,"
+    },
+    {
+        "index": 48,
+        "start_time": 152653,
+        "end_time": 154521,
+        "text": "exchange genetic information,"
+    },
+    {
+        "index": 49,
+        "start_time": 154521,
+        "end_time": 158714,
+        "text": "and engage in cooperative\nand competitive social behaviors."
+    },
+    {
+        "index": 50,
+        "start_time": 158714,
+        "end_time": 160640,
+        "text": "Take the soil in your garden,"
+    },
+    {
+        "index": 51,
+        "start_time": 160640,
+        "end_time": 163283,
+        "text": "home to thousands of bacterial species."
+    },
+    {
+        "index": 52,
+        "start_time": 163283,
+        "end_time": 165855,
+        "text": "As one species colonizes a plant root,"
+    },
+    {
+        "index": 53,
+        "start_time": 165855,
+        "end_time": 170647,
+        "text": "its individual cells might differentiate\ninto various subpopulations,"
+    },
+    {
+        "index": 54,
+        "start_time": 170647,
+        "end_time": 173350,
+        "text": "each carrying out a specific task."
+    },
+    {
+        "index": 55,
+        "start_time": 173350,
+        "end_time": 177445,
+        "text": "Matrix producers pump out \nthe extracellular goo,"
+    },
+    {
+        "index": 56,
+        "start_time": 177445,
+        "end_time": 182082,
+        "text": "swimmers assemble flagella\nand are free to move about or migrate,"
+    },
+    {
+        "index": 57,
+        "start_time": 182082,
+        "end_time": 186708,
+        "text": "and spore-formers produce dormant,\ntough endospores"
+    },
+    {
+        "index": 58,
+        "start_time": 186708,
+        "end_time": 188187,
+        "text": "that survive starvation,"
+    },
+    {
+        "index": 59,
+        "start_time": 188187,
+        "end_time": 189607,
+        "text": "temperature extremes,"
+    },
+    {
+        "index": 60,
+        "start_time": 189607,
+        "end_time": 192057,
+        "text": "and harmful radiation."
+    },
+    {
+        "index": 61,
+        "start_time": 192057,
+        "end_time": 194380,
+        "text": "This phenomenon is called \ndivision of labor."
+    },
+    {
+        "index": 62,
+        "start_time": 194380,
+        "end_time": 199300,
+        "text": "Ultimately, it gives rise to \na sophisticated system of cooperation"
+    },
+    {
+        "index": 63,
+        "start_time": 199300,
+        "end_time": 203932,
+        "text": "that&#39;s somewhat like \na multicellular organism in itself."
+    },
+    {
+        "index": 64,
+        "start_time": 203932,
+        "end_time": 208253,
+        "text": "But because biofilms often contain\nmany different microbes"
+    },
+    {
+        "index": 65,
+        "start_time": 208253,
+        "end_time": 210365,
+        "text": "that aren&#39;t closely related to each other,"
+    },
+    {
+        "index": 66,
+        "start_time": 210365,
+        "end_time": 213490,
+        "text": "interactions can also be competitive."
+    },
+    {
+        "index": 67,
+        "start_time": 213490,
+        "end_time": 216908,
+        "text": "Bacteria launch vicious attacks \non their competitors"
+    },
+    {
+        "index": 68,
+        "start_time": 216908,
+        "end_time": 219775,
+        "text": "by secreting chemicals \ninto the environment,"
+    },
+    {
+        "index": 69,
+        "start_time": 219775,
+        "end_time": 225176,
+        "text": "or by deploying molecular spears\nto inject nearby cells with toxins"
+    },
+    {
+        "index": 70,
+        "start_time": 225176,
+        "end_time": 227981,
+        "text": "that literally blow them up."
+    },
+    {
+        "index": 71,
+        "start_time": 227981,
+        "end_time": 231201,
+        "text": "In the end, competition \nis all about resources."
+    },
+    {
+        "index": 72,
+        "start_time": 231201,
+        "end_time": 233354,
+        "text": "If one species eliminates another,"
+    },
+    {
+        "index": 73,
+        "start_time": 233354,
+        "end_time": 237120,
+        "text": "it keeps more space and food for itself."
+    },
+    {
+        "index": 74,
+        "start_time": 237120,
+        "end_time": 240850,
+        "text": "Although this dramatic life cycle\noccurs beyond the limits of our vision,"
+    },
+    {
+        "index": 75,
+        "start_time": 240850,
+        "end_time": 245743,
+        "text": "microbial communities provide humans\nand other species with tangible,"
+    },
+    {
+        "index": 76,
+        "start_time": 245743,
+        "end_time": 248646,
+        "text": "and sometimes even delicious, benefits."
+    },
+    {
+        "index": 77,
+        "start_time": 248646,
+        "end_time": 252442,
+        "text": "Microbes make up a major fraction\nof the biomass on Earth"
+    },
+    {
+        "index": 78,
+        "start_time": 252442,
+        "end_time": 255881,
+        "text": "and play a critical role \nwithin the global ecosystem"
+    },
+    {
+        "index": 79,
+        "start_time": 255881,
+        "end_time": 258555,
+        "text": "that supports all larger organisms,"
+    },
+    {
+        "index": 80,
+        "start_time": 258555,
+        "end_time": 259945,
+        "text": "including us."
+    },
+    {
+        "index": 81,
+        "start_time": 259945,
+        "end_time": 262167,
+        "text": "They produce much of the oxygen we breath,"
+    },
+    {
+        "index": 82,
+        "start_time": 262167,
+        "end_time": 266765,
+        "text": "and are recruited to clean up\nenvironmental pollution, like oil spills,"
+    },
+    {
+        "index": 83,
+        "start_time": 266765,
+        "end_time": 268796,
+        "text": "or to treat our waste water."
+    },
+    {
+        "index": 84,
+        "start_time": 268796,
+        "end_time": 272814,
+        "text": "Not to mention, biofilms are normal\nand flavor enhancing parts"
+    },
+    {
+        "index": 85,
+        "start_time": 272814,
+        "end_time": 274945,
+        "text": "of many of the foods we enjoy,"
+    },
+    {
+        "index": 86,
+        "start_time": 274945,
+        "end_time": 276232,
+        "text": "including cheese,"
+    },
+    {
+        "index": 87,
+        "start_time": 276232,
+        "end_time": 277286,
+        "text": "salami,"
+    },
+    {
+        "index": 88,
+        "start_time": 277286,
+        "end_time": 279257,
+        "text": "and kombucha."
+    },
+    {
+        "index": 89,
+        "start_time": 279257,
+        "end_time": 281116,
+        "text": "So the next time you brush your teeth,"
+    },
+    {
+        "index": 90,
+        "start_time": 281116,
+        "end_time": 282798,
+        "text": "bite into that cheese rind,"
+    },
+    {
+        "index": 91,
+        "start_time": 282798,
+        "end_time": 284442,
+        "text": "sift through garden soil,"
+    },
+    {
+        "index": 92,
+        "start_time": 284442,
+        "end_time": 286471,
+        "text": "or skip a river stone,"
+    },
+    {
+        "index": 93,
+        "start_time": 286471,
+        "end_time": 288269,
+        "text": "look as close as you can."
+    },
+    {
+        "index": 94,
+        "start_time": 288269,
+        "end_time": 291680,
+        "text": "Imagine the microbial jungles \nall around you"
+    },
+    {
+        "index": 95,
+        "start_time": 291680,
+        "end_time": 294409,
+        "text": "waiting to be discovered and explored."
+    }
+]

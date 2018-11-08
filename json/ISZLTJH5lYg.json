@@ -1,0 +1,476 @@
+[
+    {
+        "index": 1,
+        "start_time": 6828,
+        "end_time": 11292,
+        "text": "A, C, E, D, B, K."
+    },
+    {
+        "index": 2,
+        "start_time": 11292,
+        "end_time": 14600,
+        "text": "No, this isn&#39;t some random,\nout of order alphabet."
+    },
+    {
+        "index": 3,
+        "start_time": 14600,
+        "end_time": 18092,
+        "text": "These are vitamins,\nand just like letters build words,"
+    },
+    {
+        "index": 4,
+        "start_time": 18092,
+        "end_time": 21903,
+        "text": "they&#39;re the building blocks\nthat keep the body running."
+    },
+    {
+        "index": 5,
+        "start_time": 21903,
+        "end_time": 25519,
+        "text": "Vitamins are organic compounds we need\nto ingest in small amounts"
+    },
+    {
+        "index": 6,
+        "start_time": 25519,
+        "end_time": 27598,
+        "text": "to keep functioning."
+    },
+    {
+        "index": 7,
+        "start_time": 27598,
+        "end_time": 31010,
+        "text": "They&#39;re the body&#39;s builders, defenders\nand maintenance workers,"
+    },
+    {
+        "index": 8,
+        "start_time": 31010,
+        "end_time": 34200,
+        "text": "helping it to build muscle and bone,\nmake use of nutrients,"
+    },
+    {
+        "index": 9,
+        "start_time": 34200,
+        "end_time": 37820,
+        "text": "capture and use energy\nand heal wounds."
+    },
+    {
+        "index": 10,
+        "start_time": 37820,
+        "end_time": 40243,
+        "text": "If you need convincing about\nvitamin value,"
+    },
+    {
+        "index": 11,
+        "start_time": 40243,
+        "end_time": 43279,
+        "text": "just consider the plight of \nolden day sailors,"
+    },
+    {
+        "index": 12,
+        "start_time": 43279,
+        "end_time": 46599,
+        "text": "who had no access to vitamin-rich\nfresh produce."
+    },
+    {
+        "index": 13,
+        "start_time": 46599,
+        "end_time": 48018,
+        "text": "They got scurvy."
+    },
+    {
+        "index": 14,
+        "start_time": 48018,
+        "end_time": 50691,
+        "text": "But vitamin C,\nabundant in fruits and vegetables,"
+    },
+    {
+        "index": 15,
+        "start_time": 50691,
+        "end_time": 53504,
+        "text": "was the simple antidote to this disease."
+    },
+    {
+        "index": 16,
+        "start_time": 53504,
+        "end_time": 57062,
+        "text": "While bacteria, fungi and plants\nproduce their own vitamins,"
+    },
+    {
+        "index": 17,
+        "start_time": 57062,
+        "end_time": 61468,
+        "text": "our bodies can&#39;t, so we have to get\nthem from other sources."
+    },
+    {
+        "index": 18,
+        "start_time": 61468,
+        "end_time": 65131,
+        "text": "So how does the body get\nvitamins from out there into here?"
+    },
+    {
+        "index": 19,
+        "start_time": 65131,
+        "end_time": 68379,
+        "text": "That&#39;s dependent on the form\nthese compounds take."
+    },
+    {
+        "index": 20,
+        "start_time": 68379,
+        "end_time": 69920,
+        "text": "Vitamins come in two types:"
+    },
+    {
+        "index": 21,
+        "start_time": 69920,
+        "end_time": 72371,
+        "text": "lipid-soluble and \nwater-soluble,"
+    },
+    {
+        "index": 22,
+        "start_time": 72371,
+        "end_time": 74933,
+        "text": "and the difference between them \ndetermines how the body"
+    },
+    {
+        "index": 23,
+        "start_time": 74933,
+        "end_time": 79252,
+        "text": "transports and stores vitamins, \nand gets rid of the excess."
+    },
+    {
+        "index": 24,
+        "start_time": 79252,
+        "end_time": 81739,
+        "text": "The water-solubles are vitamin C"
+    },
+    {
+        "index": 25,
+        "start_time": 81739,
+        "end_time": 85615,
+        "text": "and B Complex vitamins that are made up of\neight different types"
+    },
+    {
+        "index": 26,
+        "start_time": 85615,
+        "end_time": 87410,
+        "text": "that each do something unique."
+    },
+    {
+        "index": 27,
+        "start_time": 87410,
+        "end_time": 91532,
+        "text": "These are dissolved in the watery parts\nof fruits, vegetables and grains,"
+    },
+    {
+        "index": 28,
+        "start_time": 91532,
+        "end_time": 95090,
+        "text": "meaning their passage through the body\nis relatively straightforward."
+    },
+    {
+        "index": 29,
+        "start_time": 95090,
+        "end_time": 97659,
+        "text": "Once inside the system,\nthese foods are digested"
+    },
+    {
+        "index": 30,
+        "start_time": 97659,
+        "end_time": 101626,
+        "text": "and the vitamins within them are\ntaken up directly by the bloodstream."
+    },
+    {
+        "index": 31,
+        "start_time": 101626,
+        "end_time": 103876,
+        "text": "Because blood plasma is water-based,"
+    },
+    {
+        "index": 32,
+        "start_time": 103876,
+        "end_time": 108194,
+        "text": "water-soluble vitamins C and B have their\ntransport cut out for them"
+    },
+    {
+        "index": 33,
+        "start_time": 108194,
+        "end_time": 110867,
+        "text": "and can move around freely \nwithin the body."
+    },
+    {
+        "index": 34,
+        "start_time": 110867,
+        "end_time": 113668,
+        "text": "For lipid-soluble vitamins,\ndissolved in fat"
+    },
+    {
+        "index": 35,
+        "start_time": 113668,
+        "end_time": 116933,
+        "text": "and found in foods like diary,\nbutter and oils,"
+    },
+    {
+        "index": 36,
+        "start_time": 116933,
+        "end_time": 119951,
+        "text": "this trip into the blood is a little\nmore adventurous."
+    },
+    {
+        "index": 37,
+        "start_time": 119951,
+        "end_time": 122938,
+        "text": "These vitamins make it through\nthe stomach and the intestine,"
+    },
+    {
+        "index": 38,
+        "start_time": 122938,
+        "end_time": 126423,
+        "text": "where an acidic substance\ncalled bile flows in from the liver,"
+    },
+    {
+        "index": 39,
+        "start_time": 126423,
+        "end_time": 131133,
+        "text": "breaking up the fat and preparing it for\nabsorption through the intestinal wall."
+    },
+    {
+        "index": 40,
+        "start_time": 131133,
+        "end_time": 134943,
+        "text": "Because fat-soluble vitamins can&#39;t make\nuse of the blood&#39;s watery nature,"
+    },
+    {
+        "index": 41,
+        "start_time": 134943,
+        "end_time": 137338,
+        "text": "they need something else \nto move them around,"
+    },
+    {
+        "index": 42,
+        "start_time": 137338,
+        "end_time": 141740,
+        "text": "and that comes from proteins that attach\nto the vitamins and act like couriers,"
+    },
+    {
+        "index": 43,
+        "start_time": 141740,
+        "end_time": 146314,
+        "text": "transporting fat-solubles into the blood\nand around the body."
+    },
+    {
+        "index": 44,
+        "start_time": 146314,
+        "end_time": 149708,
+        "text": "So, this difference between water-\nor fat-soluble vitamins"
+    },
+    {
+        "index": 45,
+        "start_time": 149708,
+        "end_time": 151913,
+        "text": "determines how they get into the blood,"
+    },
+    {
+        "index": 46,
+        "start_time": 151913,
+        "end_time": 155401,
+        "text": "but also how they&#39;re stored \nor rejected from the body."
+    },
+    {
+        "index": 47,
+        "start_time": 155401,
+        "end_time": 158443,
+        "text": "The system&#39;s ability to circulate\nwater-soluble vitamins"
+    },
+    {
+        "index": 48,
+        "start_time": 158443,
+        "end_time": 160100,
+        "text": "in the bloodstream so easily"
+    },
+    {
+        "index": 49,
+        "start_time": 160100,
+        "end_time": 165156,
+        "text": "means that most of them can be passed\nout equally easily via the kidneys."
+    },
+    {
+        "index": 50,
+        "start_time": 165156,
+        "end_time": 167725,
+        "text": "Because of that, \nmost water-soluble vitamins"
+    },
+    {
+        "index": 51,
+        "start_time": 167725,
+        "end_time": 171897,
+        "text": "need to be replenished on a daily basis\nthrough the food we eat."
+    },
+    {
+        "index": 52,
+        "start_time": 171897,
+        "end_time": 174636,
+        "text": "But fat-soluble vitamins have\nstaying power"
+    },
+    {
+        "index": 53,
+        "start_time": 174636,
+        "end_time": 178464,
+        "text": "because they can be packed into the liver\nand in fat cells."
+    },
+    {
+        "index": 54,
+        "start_time": 178464,
+        "end_time": 180642,
+        "text": "The body treats these parts like a pantry,"
+    },
+    {
+        "index": 55,
+        "start_time": 180642,
+        "end_time": 184274,
+        "text": "storing the vitamins there and rationing\nthem out when needed,"
+    },
+    {
+        "index": 56,
+        "start_time": 184274,
+        "end_time": 186772,
+        "text": "meaning we shouldn&#39;t overload\non this type of vitamin"
+    },
+    {
+        "index": 57,
+        "start_time": 186772,
+        "end_time": 189674,
+        "text": "because the body is generally \nwell stocked."
+    },
+    {
+        "index": 58,
+        "start_time": 189674,
+        "end_time": 192642,
+        "text": "Once we figured the logistics\nof transport and storage,"
+    },
+    {
+        "index": 59,
+        "start_time": 192642,
+        "end_time": 196513,
+        "text": "the vitamins are left to do the work\nthey came here to do in the first place."
+    },
+    {
+        "index": 60,
+        "start_time": 196513,
+        "end_time": 200510,
+        "text": "Some, like many of the B Complex vitamins,\nmake up coenzymes,"
+    },
+    {
+        "index": 61,
+        "start_time": 200510,
+        "end_time": 204848,
+        "text": "whose job it is to help enzymes \nrelease the energy from food."
+    },
+    {
+        "index": 62,
+        "start_time": 204848,
+        "end_time": 208271,
+        "text": "Other B vitamins then help the body\nto use that energy."
+    },
+    {
+        "index": 63,
+        "start_time": 208271,
+        "end_time": 212793,
+        "text": "From vitamin C, you get the ability to\nfight infection and make collagen,"
+    },
+    {
+        "index": 64,
+        "start_time": 212793,
+        "end_time": 217568,
+        "text": "a kind of tissue that forms \nbones and teeth and heals wounds."
+    },
+    {
+        "index": 65,
+        "start_time": 217568,
+        "end_time": 221767,
+        "text": "Vitamin A helps make white blood cells,\nkey in the body&#39;s defense,"
+    },
+    {
+        "index": 66,
+        "start_time": 221767,
+        "end_time": 227666,
+        "text": "helps shape bones and improves vision \nby keeping the cells of the eye in check."
+    },
+    {
+        "index": 67,
+        "start_time": 227666,
+        "end_time": 231549,
+        "text": "Vitamin D gathers calcium and phosphorus \nso we can make bones,"
+    },
+    {
+        "index": 68,
+        "start_time": 231549,
+        "end_time": 234429,
+        "text": "and vitamin E works as an antioxidant,"
+    },
+    {
+        "index": 69,
+        "start_time": 234429,
+        "end_time": 237767,
+        "text": "getting rid of elements in the body\nthat can damage cells."
+    },
+    {
+        "index": 70,
+        "start_time": 237767,
+        "end_time": 241568,
+        "text": "Finally, from Vitamin K, we score\nthe ability to clot blood,"
+    },
+    {
+        "index": 71,
+        "start_time": 241568,
+        "end_time": 244369,
+        "text": "since it helps make the proteins\nthat do this job."
+    },
+    {
+        "index": 72,
+        "start_time": 244369,
+        "end_time": 246338,
+        "text": "Without this vitamin variety,"
+    },
+    {
+        "index": 73,
+        "start_time": 246338,
+        "end_time": 250147,
+        "text": "humans face deficiencies that \ncause a range of problems,"
+    },
+    {
+        "index": 74,
+        "start_time": 250147,
+        "end_time": 253036,
+        "text": "like fatigue, nerve damage, \nheart disorders,"
+    },
+    {
+        "index": 75,
+        "start_time": 253036,
+        "end_time": 255956,
+        "text": "or diseases like rickets and scurvy."
+    },
+    {
+        "index": 76,
+        "start_time": 255956,
+        "end_time": 259489,
+        "text": "On the other hand, too much of any\nvitamin can cause toxicity in the body,"
+    },
+    {
+        "index": 77,
+        "start_time": 259489,
+        "end_time": 263841,
+        "text": "so there goes the myth that loading\nyourself with supplements is a great idea."
+    },
+    {
+        "index": 78,
+        "start_time": 263841,
+        "end_time": 266431,
+        "text": "In reality, it&#39;s all about getting the\nbalance right,"
+    },
+    {
+        "index": 79,
+        "start_time": 266431,
+        "end_time": 268814,
+        "text": "and hitting that vitamin jackpot."
+    }
+]

@@ -1,0 +1,566 @@
+[
+    {
+        "index": 1,
+        "start_time": 8046,
+        "end_time": 10696,
+        "text": "This is a crystal of sugar."
+    },
+    {
+        "index": 2,
+        "start_time": 10696,
+        "end_time": 14486,
+        "text": "If you press on it, it will actually\ngenerate its own electricity."
+    },
+    {
+        "index": 3,
+        "start_time": 14486,
+        "end_time": 17796,
+        "text": "How can this simple crystal \nact like a tiny power source?"
+    },
+    {
+        "index": 4,
+        "start_time": 17796,
+        "end_time": 20386,
+        "text": "Because sugar is piezoelectric."
+    },
+    {
+        "index": 5,
+        "start_time": 20386,
+        "end_time": 23147,
+        "text": "Piezoelectric materials \nturn mechanical stress,"
+    },
+    {
+        "index": 6,
+        "start_time": 23147,
+        "end_time": 24327,
+        "text": "like pressure,"
+    },
+    {
+        "index": 7,
+        "start_time": 24327,
+        "end_time": 25190,
+        "text": "sound waves,"
+    },
+    {
+        "index": 8,
+        "start_time": 25190,
+        "end_time": 26247,
+        "text": "and other vibrations"
+    },
+    {
+        "index": 9,
+        "start_time": 26247,
+        "end_time": 28746,
+        "text": "into electricity and vice versa."
+    },
+    {
+        "index": 10,
+        "start_time": 28746,
+        "end_time": 30647,
+        "text": "This odd phenomenon was first\ndiscovered"
+    },
+    {
+        "index": 11,
+        "start_time": 30647,
+        "end_time": 34966,
+        "text": "by the physicist Pierre Curie \nand his brother Jacques in 1880."
+    },
+    {
+        "index": 12,
+        "start_time": 34966,
+        "end_time": 38417,
+        "text": "They discovered that if they compressed\nthin slices of certain crystals,"
+    },
+    {
+        "index": 13,
+        "start_time": 38417,
+        "end_time": 43018,
+        "text": "positive and negative charges would appear\non opposite faces."
+    },
+    {
+        "index": 14,
+        "start_time": 43018,
+        "end_time": 45156,
+        "text": "This difference in charge, or voltage,"
+    },
+    {
+        "index": 15,
+        "start_time": 45156,
+        "end_time": 48927,
+        "text": "meant that the compressed crystal\ncould drive current through a circuit,"
+    },
+    {
+        "index": 16,
+        "start_time": 48927,
+        "end_time": 50487,
+        "text": "like a battery."
+    },
+    {
+        "index": 17,
+        "start_time": 50487,
+        "end_time": 52718,
+        "text": "And it worked the other way around, too."
+    },
+    {
+        "index": 18,
+        "start_time": 52718,
+        "end_time": 56877,
+        "text": "Running electricity through these crystals\nmade them change shape."
+    },
+    {
+        "index": 19,
+        "start_time": 56877,
+        "end_time": 57978,
+        "text": "Both of these results,"
+    },
+    {
+        "index": 20,
+        "start_time": 57978,
+        "end_time": 60769,
+        "text": "turning mechanical energy into electrical,"
+    },
+    {
+        "index": 21,
+        "start_time": 60769,
+        "end_time": 63157,
+        "text": "and electrical energy into mechanical,"
+    },
+    {
+        "index": 22,
+        "start_time": 63157,
+        "end_time": 64699,
+        "text": "were remarkable."
+    },
+    {
+        "index": 23,
+        "start_time": 64699,
+        "end_time": 68146,
+        "text": "But the discovery went uncelebrated\nfor several decades."
+    },
+    {
+        "index": 24,
+        "start_time": 68146,
+        "end_time": 71148,
+        "text": "The first practical application\nwas in sonar instruments"
+    },
+    {
+        "index": 25,
+        "start_time": 71148,
+        "end_time": 74648,
+        "text": "used to detect German submarines\nduring World War I."
+    },
+    {
+        "index": 26,
+        "start_time": 74648,
+        "end_time": 77460,
+        "text": "Piezoelectric quartz crystals \nin the sonar&#39;s transmitter"
+    },
+    {
+        "index": 27,
+        "start_time": 77460,
+        "end_time": 81459,
+        "text": "vibrated when they were subjected\nto alternating voltage."
+    },
+    {
+        "index": 28,
+        "start_time": 81459,
+        "end_time": 83949,
+        "text": "That sent ultrasound waves\nthrough the water."
+    },
+    {
+        "index": 29,
+        "start_time": 83949,
+        "end_time": 87179,
+        "text": "Measuring how long it took these waves\nto bounce back from an object"
+    },
+    {
+        "index": 30,
+        "start_time": 87179,
+        "end_time": 89850,
+        "text": "revealed how far away it was."
+    },
+    {
+        "index": 31,
+        "start_time": 89850,
+        "end_time": 91528,
+        "text": "For the opposite transformation,"
+    },
+    {
+        "index": 32,
+        "start_time": 91528,
+        "end_time": 94009,
+        "text": "converting mechanical energy \nto electrical,"
+    },
+    {
+        "index": 33,
+        "start_time": 94009,
+        "end_time": 96829,
+        "text": "consider the lights that turn on\nwhen you clap."
+    },
+    {
+        "index": 34,
+        "start_time": 96829,
+        "end_time": 99539,
+        "text": "Clapping your hands send sound vibrations\nthrough the air"
+    },
+    {
+        "index": 35,
+        "start_time": 99539,
+        "end_time": 103188,
+        "text": "and causes the piezo element to bend\nback and forth."
+    },
+    {
+        "index": 36,
+        "start_time": 103188,
+        "end_time": 106880,
+        "text": "This creates a voltage that can drive\nenough current to light up the LEDs,"
+    },
+    {
+        "index": 37,
+        "start_time": 106880,
+        "end_time": 110420,
+        "text": "though it&#39;s conventional sources \nof electricity that keep them on."
+    },
+    {
+        "index": 38,
+        "start_time": 110420,
+        "end_time": 113629,
+        "text": "So what makes a material piezoelectric?"
+    },
+    {
+        "index": 39,
+        "start_time": 113629,
+        "end_time": 115750,
+        "text": "The answer depends on two factors:"
+    },
+    {
+        "index": 40,
+        "start_time": 115750,
+        "end_time": 117590,
+        "text": "the materials atomic structure,"
+    },
+    {
+        "index": 41,
+        "start_time": 117590,
+        "end_time": 120970,
+        "text": "and how electric charge\nis distributed within it."
+    },
+    {
+        "index": 42,
+        "start_time": 120970,
+        "end_time": 122690,
+        "text": "Many materials are crystalline,"
+    },
+    {
+        "index": 43,
+        "start_time": 122690,
+        "end_time": 124499,
+        "text": "meaning they&#39;re made of atoms or ions"
+    },
+    {
+        "index": 44,
+        "start_time": 124499,
+        "end_time": 127630,
+        "text": "arranged in an orderly \nthree-dimensional pattern."
+    },
+    {
+        "index": 45,
+        "start_time": 127630,
+        "end_time": 130270,
+        "text": "That pattern has a building block\ncalled a unit cell"
+    },
+    {
+        "index": 46,
+        "start_time": 130270,
+        "end_time": 132730,
+        "text": "that repeats over and over."
+    },
+    {
+        "index": 47,
+        "start_time": 132730,
+        "end_time": 135561,
+        "text": "In most non-piezoelectric \ncrystalline materials,"
+    },
+    {
+        "index": 48,
+        "start_time": 135561,
+        "end_time": 138611,
+        "text": "the atoms in their unit cells\nare distributed symmetrically"
+    },
+    {
+        "index": 49,
+        "start_time": 138611,
+        "end_time": 140474,
+        "text": "around a central point."
+    },
+    {
+        "index": 50,
+        "start_time": 140474,
+        "end_time": 143953,
+        "text": "But some crystalline materials\ndon&#39;t possess a center of symmetry"
+    },
+    {
+        "index": 51,
+        "start_time": 143953,
+        "end_time": 147102,
+        "text": "making them candidates \nfor piezoelectricity."
+    },
+    {
+        "index": 52,
+        "start_time": 147102,
+        "end_time": 148515,
+        "text": "Let&#39;s look at quartz,"
+    },
+    {
+        "index": 53,
+        "start_time": 148515,
+        "end_time": 151982,
+        "text": "a piezoelectric material \nmade of silicon and oxygen."
+    },
+    {
+        "index": 54,
+        "start_time": 151982,
+        "end_time": 156721,
+        "text": "The oxygens have a slight negative charge\nand silicons have a slight positive,"
+    },
+    {
+        "index": 55,
+        "start_time": 156721,
+        "end_time": 158252,
+        "text": "creating a separation of charge,"
+    },
+    {
+        "index": 56,
+        "start_time": 158252,
+        "end_time": 161142,
+        "text": "or a dipole along each bond."
+    },
+    {
+        "index": 57,
+        "start_time": 161142,
+        "end_time": 163572,
+        "text": "Normally, these dipoles \ncancel each other out,"
+    },
+    {
+        "index": 58,
+        "start_time": 163572,
+        "end_time": 166593,
+        "text": "so there&#39;s no net separation of charge\nin the unit cell."
+    },
+    {
+        "index": 59,
+        "start_time": 166593,
+        "end_time": 169574,
+        "text": "But if a quartz crystal is squeezed\nalong a certain direction,"
+    },
+    {
+        "index": 60,
+        "start_time": 169574,
+        "end_time": 171383,
+        "text": "the atoms shift."
+    },
+    {
+        "index": 61,
+        "start_time": 171383,
+        "end_time": 174134,
+        "text": "Because of the resulting asymmetry\nin charge distribution,"
+    },
+    {
+        "index": 62,
+        "start_time": 174134,
+        "end_time": 176626,
+        "text": "the dipoles no longer cancel\neach other out."
+    },
+    {
+        "index": 63,
+        "start_time": 176626,
+        "end_time": 180457,
+        "text": "The stretched cell ends up\nwith a net negative charge on one side"
+    },
+    {
+        "index": 64,
+        "start_time": 180457,
+        "end_time": 183133,
+        "text": "and a net positive on the other."
+    },
+    {
+        "index": 65,
+        "start_time": 183133,
+        "end_time": 186283,
+        "text": "This charge imbalance is repeated\nall the way through the material,"
+    },
+    {
+        "index": 66,
+        "start_time": 186283,
+        "end_time": 189937,
+        "text": "and opposite charges collect\non opposite faces of the crystal."
+    },
+    {
+        "index": 67,
+        "start_time": 189937,
+        "end_time": 193874,
+        "text": "This results in a voltage that can\ndrive electricity through a circuit."
+    },
+    {
+        "index": 68,
+        "start_time": 193874,
+        "end_time": 196914,
+        "text": "Piezoelectric materials can \nhave different structures."
+    },
+    {
+        "index": 69,
+        "start_time": 196914,
+        "end_time": 201517,
+        "text": "But what they all have in common is unit\ncells which lack a center of symmetry."
+    },
+    {
+        "index": 70,
+        "start_time": 201517,
+        "end_time": 204354,
+        "text": "And the stronger the compression\non piezoelectric materials,"
+    },
+    {
+        "index": 71,
+        "start_time": 204354,
+        "end_time": 206744,
+        "text": "the larger the voltage generated."
+    },
+    {
+        "index": 72,
+        "start_time": 206744,
+        "end_time": 209964,
+        "text": "Stretch the crystal, instead,\nand the voltage will switch,"
+    },
+    {
+        "index": 73,
+        "start_time": 209964,
+        "end_time": 212244,
+        "text": "making current flow the other way."
+    },
+    {
+        "index": 74,
+        "start_time": 212244,
+        "end_time": 215725,
+        "text": "More materials are piezoelectric\nthan you might think."
+    },
+    {
+        "index": 75,
+        "start_time": 215725,
+        "end_time": 216664,
+        "text": "DNA,"
+    },
+    {
+        "index": 76,
+        "start_time": 216664,
+        "end_time": 217395,
+        "text": "bone,"
+    },
+    {
+        "index": 77,
+        "start_time": 217395,
+        "end_time": 218274,
+        "text": "and silk"
+    },
+    {
+        "index": 78,
+        "start_time": 218274,
+        "end_time": 222426,
+        "text": "all have this ability to turn\nmechanical energy into electrical."
+    },
+    {
+        "index": 79,
+        "start_time": 222426,
+        "end_time": 225896,
+        "text": "Scientists have created a variety\nof synthetic piezoelectric materials"
+    },
+    {
+        "index": 80,
+        "start_time": 225896,
+        "end_time": 229334,
+        "text": "and found applications for them\nin everything from medical imaging"
+    },
+    {
+        "index": 81,
+        "start_time": 229334,
+        "end_time": 231536,
+        "text": "to ink jet printers."
+    },
+    {
+        "index": 82,
+        "start_time": 231536,
+        "end_time": 234845,
+        "text": "Piezoelectricity is responsible for \nthe rhythmic oscillations"
+    },
+    {
+        "index": 83,
+        "start_time": 234845,
+        "end_time": 237985,
+        "text": "of the quartz crystals\nthat keep watches running on time,"
+    },
+    {
+        "index": 84,
+        "start_time": 237985,
+        "end_time": 239846,
+        "text": "the speakers of musical birthday cards,"
+    },
+    {
+        "index": 85,
+        "start_time": 239846,
+        "end_time": 243005,
+        "text": "and the spark that ignites the gas \nin some barbecue grill lighters"
+    },
+    {
+        "index": 86,
+        "start_time": 243005,
+        "end_time": 245116,
+        "text": "when you flick the switch."
+    },
+    {
+        "index": 87,
+        "start_time": 245116,
+        "end_time": 248347,
+        "text": "And piezoelectric devices may become\neven more common"
+    },
+    {
+        "index": 88,
+        "start_time": 248347,
+        "end_time": 252987,
+        "text": "since electricity is in high demand\nand mechanical energy is abundant."
+    },
+    {
+        "index": 89,
+        "start_time": 252987,
+        "end_time": 255936,
+        "text": "There are already train stations\nthat use passengers&#39; footsteps"
+    },
+    {
+        "index": 90,
+        "start_time": 255936,
+        "end_time": 258478,
+        "text": "to power the ticket gates and displays"
+    },
+    {
+        "index": 91,
+        "start_time": 258478,
+        "end_time": 262097,
+        "text": "and a dance club where piezoelectricity\nhelps power the lights."
+    },
+    {
+        "index": 92,
+        "start_time": 262097,
+        "end_time": 265348,
+        "text": "Could basketball players running back\nand forth power the scoreboard?"
+    },
+    {
+        "index": 93,
+        "start_time": 265348,
+        "end_time": 268668,
+        "text": "Or might walking down the street\ncharge your electronic devices?"
+    },
+    {
+        "index": 94,
+        "start_time": 268668,
+        "end_time": 271236,
+        "text": "What&#39;s next for piezoelectricity?"
+    }
+]

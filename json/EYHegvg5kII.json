@@ -1,0 +1,422 @@
+[
+  {
+    "end_time": 3779,
+    "index": 1,
+    "start_time": 821,
+    "text": "Online advertising has a language all its own"
+  },
+  {
+    "end_time": 5946,
+    "index": 2,
+    "start_time": 3779,
+    "text": "and if it sounds like a foreign language to you"
+  },
+  {
+    "end_time": 7744,
+    "index": 3,
+    "start_time": 5946,
+    "text": "you&#39;re not alone."
+  },
+  {
+    "end_time": 10006,
+    "index": 4,
+    "start_time": 7745,
+    "text": "But it&#39;s important to get comfortable with the terms"
+  },
+  {
+    "end_time": 14089,
+    "index": 5,
+    "start_time": 10006,
+    "text": "so that you can make the most out of your AdWords investment."
+  },
+  {
+    "end_time": 16674,
+    "index": 6,
+    "start_time": 14089,
+    "text": "To help make sense of it all, here&#39;s a scenario:"
+  },
+  {
+    "end_time": 18745,
+    "index": 7,
+    "start_time": 16674,
+    "text": "Owen is planning a wedding"
+  },
+  {
+    "end_time": 21165,
+    "index": 8,
+    "start_time": 18745,
+    "text": "and Brenda is a photographer."
+  },
+  {
+    "end_time": 23585,
+    "index": 9,
+    "start_time": 21165,
+    "text": "Brenda uses AdWords to advertise online"
+  },
+  {
+    "end_time": 26006,
+    "index": 10,
+    "start_time": 23585,
+    "text": "to people who are looking for a photographer."
+  },
+  {
+    "end_time": 28216,
+    "index": 11,
+    "start_time": 26006,
+    "text": "This is one of her ads."
+  },
+  {
+    "end_time": 30947,
+    "index": 12,
+    "start_time": 28216,
+    "text": "Brenda takes three types of photos:"
+  },
+  {
+    "end_time": 32006,
+    "index": 13,
+    "start_time": 30947,
+    "text": "Babies,"
+  },
+  {
+    "end_time": 32980,
+    "index": 14,
+    "start_time": 32006,
+    "text": "real estate,"
+  },
+  {
+    "end_time": 34547,
+    "index": 15,
+    "start_time": 32980,
+    "text": "and weddings."
+  },
+  {
+    "end_time": 37477,
+    "index": 16,
+    "start_time": 34547,
+    "text": "She uses different ads for each area of her business."
+  },
+  {
+    "end_time": 41262,
+    "index": 17,
+    "start_time": 37478,
+    "text": "Each collection of ads makes up an ad group."
+  },
+  {
+    "end_time": 43904,
+    "index": 18,
+    "start_time": 41262,
+    "text": "Brenda assigns to each ad group"
+  },
+  {
+    "end_time": 47211,
+    "index": 19,
+    "start_time": 43904,
+    "text": "the words and phrases that are relevant to that part of her business."
+  },
+  {
+    "end_time": 50173,
+    "index": 20,
+    "start_time": 47211,
+    "text": "These are keywords."
+  },
+  {
+    "end_time": 53146,
+    "index": 21,
+    "start_time": 50173,
+    "text": "AdWords uses keywords to help decide which ads"
+  },
+  {
+    "end_time": 56800,
+    "index": 22,
+    "start_time": 53146,
+    "text": "to show to people searching for things online."
+  },
+  {
+    "end_time": 59949,
+    "index": 23,
+    "start_time": 56800,
+    "text": "Brenda&#39;s three ad groups make up a campaign."
+  },
+  {
+    "end_time": 63046,
+    "index": 24,
+    "start_time": 59949,
+    "text": "The campaign is where Brenda decides big picture things,"
+  },
+  {
+    "end_time": 66714,
+    "index": 25,
+    "start_time": 63046,
+    "text": "like her preferences for the devices her ads will show up on,"
+  },
+  {
+    "end_time": 70631,
+    "index": 26,
+    "start_time": 66714,
+    "text": "and how much she spends."
+  },
+  {
+    "end_time": 75997,
+    "index": 27,
+    "start_time": 70646,
+    "text": "Owen types &quot;experienced wedding photographer&quot; into Google.com."
+  },
+  {
+    "end_time": 80213,
+    "index": 28,
+    "start_time": 75997,
+    "text": "The phrase &quot;experienced wedding photographer&quot; is his search term."
+  },
+  {
+    "end_time": 82672,
+    "index": 29,
+    "start_time": 80213,
+    "text": "He sees two types of search results:"
+  },
+  {
+    "end_time": 86646,
+    "index": 30,
+    "start_time": 82673,
+    "text": "organic search results located in the middle of the page"
+  },
+  {
+    "end_time": 90173,
+    "index": 31,
+    "start_time": 86646,
+    "text": "are the websites that match Owen&#39;s search term."
+  },
+  {
+    "end_time": 93646,
+    "index": 32,
+    "start_time": 90173,
+    "text": "No one can pay to appear in these results."
+  },
+  {
+    "end_time": 97006,
+    "index": 33,
+    "start_time": 93646,
+    "text": "The second type of results, paid results, are usually located"
+  },
+  {
+    "end_time": 98312,
+    "index": 34,
+    "start_time": 97006,
+    "text": "at the top,"
+  },
+  {
+    "end_time": 99173,
+    "index": 35,
+    "start_time": 98312,
+    "text": "bottom,"
+  },
+  {
+    "end_time": 101646,
+    "index": 36,
+    "start_time": 99174,
+    "text": "or right side of the page."
+  },
+  {
+    "end_time": 105341,
+    "index": 37,
+    "start_time": 101646,
+    "text": "These are ads from businesses that are using AdWords."
+  },
+  {
+    "end_time": 108613,
+    "index": 38,
+    "start_time": 105341,
+    "text": "In most cases, an advertiser is charged when someone like Owen"
+  },
+  {
+    "end_time": 110686,
+    "index": 39,
+    "start_time": 108614,
+    "text": "clicks one of these ads."
+  },
+  {
+    "end_time": 114378,
+    "index": 40,
+    "start_time": 110686,
+    "text": "Does Brenda&#39;s ad appear when Owen makes his search?"
+  },
+  {
+    "end_time": 115590,
+    "index": 41,
+    "start_time": 114378,
+    "text": "That depends."
+  },
+  {
+    "end_time": 118215,
+    "index": 42,
+    "start_time": 115590,
+    "text": "Whenever someone uses Google to search"
+  },
+  {
+    "end_time": 122423,
+    "index": 43,
+    "start_time": 118215,
+    "text": "there&#39;s an auction that determines which ads appear and in which order."
+  },
+  {
+    "end_time": 125460,
+    "index": 44,
+    "start_time": 122423,
+    "text": "Two main factors determine the outcome:"
+  },
+  {
+    "end_time": 128674,
+    "index": 45,
+    "start_time": 125460,
+    "text": "How much an advertiser is willing to pay for a click,"
+  },
+  {
+    "end_time": 130332,
+    "index": 46,
+    "start_time": 128675,
+    "text": "which is a bid,"
+  },
+  {
+    "end_time": 133339,
+    "index": 47,
+    "start_time": 130332,
+    "text": "and something called &quot;Quality Score.&quot;"
+  },
+  {
+    "end_time": 136713,
+    "index": 48,
+    "start_time": 133339,
+    "text": "Quality Score is an estimate of how relevant and useful your ad"
+  },
+  {
+    "end_time": 139279,
+    "index": 49,
+    "start_time": 136713,
+    "text": "and the page on your website it links to"
+  },
+  {
+    "end_time": 141981,
+    "index": 50,
+    "start_time": 139279,
+    "text": "are to someone seeing your ad."
+  },
+  {
+    "end_time": 144612,
+    "index": 51,
+    "start_time": 141981,
+    "text": "Together, bid and Quality Score determine"
+  },
+  {
+    "end_time": 150713,
+    "index": 52,
+    "start_time": 144612,
+    "text": "where and if Brenda&#39;s ad appears on Owen&#39;s search results page."
+  },
+  {
+    "end_time": 153319,
+    "index": 53,
+    "start_time": 150713,
+    "text": "Bids and budget are different."
+  },
+  {
+    "end_time": 155234,
+    "index": 54,
+    "start_time": 153319,
+    "text": "Your bids affect how much you&#39;ll spend"
+  },
+  {
+    "end_time": 158121,
+    "index": 55,
+    "start_time": 155235,
+    "text": "each time someone clicks one of your ads."
+  },
+  {
+    "end_time": 160437,
+    "index": 56,
+    "start_time": 158121,
+    "text": "Your budget affects how much you&#39;ll spend"
+  },
+  {
+    "end_time": 162863,
+    "index": 57,
+    "start_time": 160437,
+    "text": "each day on your entire campaign,"
+  },
+  {
+    "end_time": 165812,
+    "index": 58,
+    "start_time": 162863,
+    "text": "which influences how often your ads are shown."
+  },
+  {
+    "end_time": 169713,
+    "index": 59,
+    "start_time": 165812,
+    "text": "As it turns out, Brenda&#39;s ad appears on Owen&#39;s search results page."
+  },
+  {
+    "end_time": 171878,
+    "index": 60,
+    "start_time": 169713,
+    "text": "This is an impression."
+  },
+  {
+    "end_time": 175311,
+    "index": 61,
+    "start_time": 171878,
+    "text": "Owen clicks Brenda&#39;s ad to find out more on her website."
+  },
+  {
+    "end_time": 177198,
+    "index": 62,
+    "start_time": 175312,
+    "text": "This is a click."
+  },
+  {
+    "end_time": 179340,
+    "index": 63,
+    "start_time": 177198,
+    "text": "Owen likes what he sees on Brenda&#39;s website"
+  },
+  {
+    "end_time": 182104,
+    "index": 64,
+    "start_time": 179340,
+    "text": "and hires her to photograph his wedding."
+  },
+  {
+    "end_time": 185746,
+    "index": 65,
+    "start_time": 182104,
+    "text": "Brenda&#39;s ad has gotten Owen to do something valuable."
+  },
+  {
+    "end_time": 187214,
+    "index": 66,
+    "start_time": 185746,
+    "text": "Hire her for an event."
+  },
+  {
+    "end_time": 189840,
+    "index": 67,
+    "start_time": 187214,
+    "text": "This is a conversion."
+  },
+  {
+    "end_time": 191554,
+    "index": 68,
+    "start_time": 189840,
+    "text": "Owen is a satisfied customer."
+  },
+  {
+    "end_time": 194173,
+    "index": 69,
+    "start_time": 191554,
+    "text": "Brenda is a happy advertiser."
+  },
+  {
+    "end_time": 196146,
+    "index": 70,
+    "start_time": 194173,
+    "text": "These are results."
+  }
+]

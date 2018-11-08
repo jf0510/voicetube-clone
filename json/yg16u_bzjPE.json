@@ -1,0 +1,464 @@
+[
+    {
+        "index": 1,
+        "start_time": 6949,
+        "end_time": 11521,
+        "text": "Imagine you&#39;re watching a runaway trolley\nbarreling down the tracks"
+    },
+    {
+        "index": 2,
+        "start_time": 11521,
+        "end_time": 15961,
+        "text": "straight towards five workers\nwho can&#39;t escape."
+    },
+    {
+        "index": 3,
+        "start_time": 15961,
+        "end_time": 18179,
+        "text": "You happen to be standing next to a switch"
+    },
+    {
+        "index": 4,
+        "start_time": 18179,
+        "end_time": 21680,
+        "text": "that will divert the trolley\nonto a second track."
+    },
+    {
+        "index": 5,
+        "start_time": 21680,
+        "end_time": 22980,
+        "text": "Here&#39;s the problem."
+    },
+    {
+        "index": 6,
+        "start_time": 22980,
+        "end_time": 28069,
+        "text": "That track has a worker on it, too,\nbut just one."
+    },
+    {
+        "index": 7,
+        "start_time": 28069,
+        "end_time": 29390,
+        "text": "What do you do?"
+    },
+    {
+        "index": 8,
+        "start_time": 29390,
+        "end_time": 32685,
+        "text": "Do you sacrifice one person to save five?"
+    },
+    {
+        "index": 9,
+        "start_time": 32685,
+        "end_time": 35414,
+        "text": "This is the trolley problem,"
+    },
+    {
+        "index": 10,
+        "start_time": 35414,
+        "end_time": 42103,
+        "text": "a version of an ethical dilemma that\nphilosopher Philippa Foot devised in 1967."
+    },
+    {
+        "index": 11,
+        "start_time": 42103,
+        "end_time": 45371,
+        "text": "It&#39;s popular because it forces us\nto think about how to choose"
+    },
+    {
+        "index": 12,
+        "start_time": 45371,
+        "end_time": 48060,
+        "text": "when there are no good choices."
+    },
+    {
+        "index": 13,
+        "start_time": 48060,
+        "end_time": 50200,
+        "text": "Do we pick the action \nwith the best outcome"
+    },
+    {
+        "index": 14,
+        "start_time": 50200,
+        "end_time": 55400,
+        "text": "or stick to a moral code that prohibits\ncausing someone&#39;s death?"
+    },
+    {
+        "index": 15,
+        "start_time": 55400,
+        "end_time": 60837,
+        "text": "In one survey, about 90% of respondents\nsaid that it&#39;s okay to flip the switch,"
+    },
+    {
+        "index": 16,
+        "start_time": 60837,
+        "end_time": 64250,
+        "text": "letting one worker die to save five,"
+    },
+    {
+        "index": 17,
+        "start_time": 64250,
+        "end_time": 68600,
+        "text": "and other studies, including a virtual\nreality simulation of the dilemma,"
+    },
+    {
+        "index": 18,
+        "start_time": 68600,
+        "end_time": 71040,
+        "text": "have found similar results."
+    },
+    {
+        "index": 19,
+        "start_time": 71040,
+        "end_time": 76061,
+        "text": "These judgments are consistent with the\nphilosophical principle of utilitarianism"
+    },
+    {
+        "index": 20,
+        "start_time": 76061,
+        "end_time": 78521,
+        "text": "which argues that \nthe morally correct decision"
+    },
+    {
+        "index": 21,
+        "start_time": 78521,
+        "end_time": 83351,
+        "text": "is the one that maximizes well-being\nfor the greatest number of people."
+    },
+    {
+        "index": 22,
+        "start_time": 83351,
+        "end_time": 85481,
+        "text": "The five lives outweigh one,"
+    },
+    {
+        "index": 23,
+        "start_time": 85481,
+        "end_time": 90562,
+        "text": "even if achieving that outcome requires\ncondemning someone to death."
+    },
+    {
+        "index": 24,
+        "start_time": 90562,
+        "end_time": 93471,
+        "text": "But people don&#39;t always take\nthe utilitarian view,"
+    },
+    {
+        "index": 25,
+        "start_time": 93471,
+        "end_time": 97062,
+        "text": "which we can see by changing\nthe trolley problem a bit."
+    },
+    {
+        "index": 26,
+        "start_time": 97062,
+        "end_time": 100303,
+        "text": "This time, you&#39;re standing on a bridge\nover the track"
+    },
+    {
+        "index": 27,
+        "start_time": 100303,
+        "end_time": 103192,
+        "text": "as the runaway trolley approaches."
+    },
+    {
+        "index": 28,
+        "start_time": 103192,
+        "end_time": 104873,
+        "text": "Now there&#39;s no second track,"
+    },
+    {
+        "index": 29,
+        "start_time": 104873,
+        "end_time": 108794,
+        "text": "but there is a very large man \non the bridge next to you."
+    },
+    {
+        "index": 30,
+        "start_time": 108794,
+        "end_time": 112492,
+        "text": "If you push him over, \nhis body will stop the trolley,"
+    },
+    {
+        "index": 31,
+        "start_time": 112492,
+        "end_time": 114243,
+        "text": "saving the five workers,"
+    },
+    {
+        "index": 32,
+        "start_time": 114243,
+        "end_time": 116033,
+        "text": "but he&#39;ll die."
+    },
+    {
+        "index": 33,
+        "start_time": 116033,
+        "end_time": 119432,
+        "text": "To utilitarians, \nthe decision is exactly the same,"
+    },
+    {
+        "index": 34,
+        "start_time": 119432,
+        "end_time": 121982,
+        "text": "lose one life to save five."
+    },
+    {
+        "index": 35,
+        "start_time": 121982,
+        "end_time": 124584,
+        "text": "But in this case, only about 10% of people"
+    },
+    {
+        "index": 36,
+        "start_time": 124584,
+        "end_time": 128453,
+        "text": "say that it&#39;s OK to throw the man\nonto the tracks."
+    },
+    {
+        "index": 37,
+        "start_time": 128453,
+        "end_time": 131914,
+        "text": "Our instincts tell us that deliberately\ncausing someone&#39;s death"
+    },
+    {
+        "index": 38,
+        "start_time": 131914,
+        "end_time": 136303,
+        "text": "is different than allowing them to die\nas collateral damage."
+    },
+    {
+        "index": 39,
+        "start_time": 136303,
+        "end_time": 140953,
+        "text": "It just feels wrong for reasons\nthat are hard to explain."
+    },
+    {
+        "index": 40,
+        "start_time": 140953,
+        "end_time": 143473,
+        "text": "This intersection between ethics\nand psychology"
+    },
+    {
+        "index": 41,
+        "start_time": 143473,
+        "end_time": 146604,
+        "text": "is what&#39;s so interesting \nabout the trolley problem."
+    },
+    {
+        "index": 42,
+        "start_time": 146604,
+        "end_time": 150984,
+        "text": "The dilemma in its many variations reveal\nthat what we think is right or wrong"
+    },
+    {
+        "index": 43,
+        "start_time": 150984,
+        "end_time": 156345,
+        "text": "depends on factors other than \na logical weighing of the pros and cons."
+    },
+    {
+        "index": 44,
+        "start_time": 156345,
+        "end_time": 158835,
+        "text": "For example, men are more likely\nthan women"
+    },
+    {
+        "index": 45,
+        "start_time": 158835,
+        "end_time": 162504,
+        "text": "to say it&#39;s okay to push the man\nover the bridge."
+    },
+    {
+        "index": 46,
+        "start_time": 162504,
+        "end_time": 166994,
+        "text": "So are people who watch a comedy clip\nbefore doing the thought experiment."
+    },
+    {
+        "index": 47,
+        "start_time": 166994,
+        "end_time": 169165,
+        "text": "And in one virtual reality study,"
+    },
+    {
+        "index": 48,
+        "start_time": 169165,
+        "end_time": 172944,
+        "text": "people were more willing \nto sacrifice men than women."
+    },
+    {
+        "index": 49,
+        "start_time": 172944,
+        "end_time": 175214,
+        "text": "Researchers have studied \nthe brain activity"
+    },
+    {
+        "index": 50,
+        "start_time": 175214,
+        "end_time": 179535,
+        "text": "of people thinking through the classic\nand bridge versions."
+    },
+    {
+        "index": 51,
+        "start_time": 179535,
+        "end_time": 184054,
+        "text": "Both scenarios activate areas of the brain\ninvolved in conscious decision-making"
+    },
+    {
+        "index": 52,
+        "start_time": 184054,
+        "end_time": 186514,
+        "text": "and emotional responses."
+    },
+    {
+        "index": 53,
+        "start_time": 186514,
+        "end_time": 190975,
+        "text": "But in the bridge version,\nthe emotional response is much stronger."
+    },
+    {
+        "index": 54,
+        "start_time": 190975,
+        "end_time": 193194,
+        "text": "So is activity in an area of the brain"
+    },
+    {
+        "index": 55,
+        "start_time": 193194,
+        "end_time": 196884,
+        "text": "associated with processing \ninternal conflict."
+    },
+    {
+        "index": 56,
+        "start_time": 196884,
+        "end_time": 198145,
+        "text": "Why the difference?"
+    },
+    {
+        "index": 57,
+        "start_time": 198145,
+        "end_time": 202912,
+        "text": "One explanation is that pushing someone\nto their death feels more personal,"
+    },
+    {
+        "index": 58,
+        "start_time": 202912,
+        "end_time": 206925,
+        "text": "activating an emotional aversion\nto killing another person,"
+    },
+    {
+        "index": 59,
+        "start_time": 206925,
+        "end_time": 211424,
+        "text": "but we feel conflicted because we know\nit&#39;s still the logical choice."
+    },
+    {
+        "index": 60,
+        "start_time": 211424,
+        "end_time": 216405,
+        "text": "&quot;Trolleyology&quot; has been criticized by some\nphilosophers and psychologists."
+    },
+    {
+        "index": 61,
+        "start_time": 216405,
+        "end_time": 221266,
+        "text": "They argue that it doesn&#39;t reveal anything\nbecause its premise is so unrealistic"
+    },
+    {
+        "index": 62,
+        "start_time": 221266,
+        "end_time": 225425,
+        "text": "that study participants \ndon&#39;t take it seriously."
+    },
+    {
+        "index": 63,
+        "start_time": 225425,
+        "end_time": 228556,
+        "text": "But new technology is making this kind\nof ethical analysis"
+    },
+    {
+        "index": 64,
+        "start_time": 228556,
+        "end_time": 230698,
+        "text": "more important than ever."
+    },
+    {
+        "index": 65,
+        "start_time": 230698,
+        "end_time": 234036,
+        "text": "For example, driver-less cars \nmay have to handle choices"
+    },
+    {
+        "index": 66,
+        "start_time": 234036,
+        "end_time": 238007,
+        "text": "like causing a small accident\nto prevent a larger one."
+    },
+    {
+        "index": 67,
+        "start_time": 238007,
+        "end_time": 241626,
+        "text": "Meanwhile, governments are researching\nautonomous military drones"
+    },
+    {
+        "index": 68,
+        "start_time": 241626,
+        "end_time": 245976,
+        "text": "that could wind up making decisions of\nwhether they&#39;ll risk civilian casualties"
+    },
+    {
+        "index": 69,
+        "start_time": 245976,
+        "end_time": 249276,
+        "text": "to attack a high-value target."
+    },
+    {
+        "index": 70,
+        "start_time": 249276,
+        "end_time": 251197,
+        "text": "If we want these actions to be ethical,"
+    },
+    {
+        "index": 71,
+        "start_time": 251197,
+        "end_time": 255397,
+        "text": "we have to decide in advance\nhow to value human life"
+    },
+    {
+        "index": 72,
+        "start_time": 255397,
+        "end_time": 257667,
+        "text": "and judge the greater good."
+    },
+    {
+        "index": 73,
+        "start_time": 257667,
+        "end_time": 260107,
+        "text": "So researchers who study \nautonomous systems"
+    },
+    {
+        "index": 74,
+        "start_time": 260107,
+        "end_time": 262207,
+        "text": "are collaborating with philosophers"
+    },
+    {
+        "index": 75,
+        "start_time": 262207,
+        "end_time": 267628,
+        "text": "to address the complex problem\nof programming ethics into machines,"
+    },
+    {
+        "index": 76,
+        "start_time": 267628,
+        "end_time": 270957,
+        "text": "which goes to show that \neven hypothetical dilemmas"
+    },
+    {
+        "index": 77,
+        "start_time": 270957,
+        "end_time": 275058,
+        "text": "can wind up on a collision course\nwith the real world."
+    }
+]

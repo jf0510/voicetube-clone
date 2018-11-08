@@ -1,0 +1,488 @@
+[
+    {
+        "index": 1,
+        "start_time": 6407,
+        "end_time": 10201,
+        "text": "Your dog loves to curl up on the couch,\nbut so do you,"
+    },
+    {
+        "index": 2,
+        "start_time": 10201,
+        "end_time": 13703,
+        "text": "so you shoo him off\nand settle in for a cozy evening."
+    },
+    {
+        "index": 3,
+        "start_time": 13703,
+        "end_time": 15918,
+        "text": "After all, you&#39;re the human around here."
+    },
+    {
+        "index": 4,
+        "start_time": 15918,
+        "end_time": 19481,
+        "text": "You&#39;re an intelligent being,\nnot a simple creature of instinct."
+    },
+    {
+        "index": 5,
+        "start_time": 19481,
+        "end_time": 22591,
+        "text": "You can plan and dream, and oh-"
+    },
+    {
+        "index": 6,
+        "start_time": 22591,
+        "end_time": 25814,
+        "text": "Did your dog just outsmart you\nand feel happy about it?"
+    },
+    {
+        "index": 7,
+        "start_time": 25814,
+        "end_time": 28190,
+        "text": "Or was he just following his instincts?"
+    },
+    {
+        "index": 8,
+        "start_time": 28190,
+        "end_time": 29858,
+        "text": "Is there even a difference?"
+    },
+    {
+        "index": 9,
+        "start_time": 29858,
+        "end_time": 31687,
+        "text": "What is he thinking?"
+    },
+    {
+        "index": 10,
+        "start_time": 31687,
+        "end_time": 34452,
+        "text": "Well, it depends on \nwhat we mean by &quot;thinking&quot;"
+    },
+    {
+        "index": 11,
+        "start_time": 34452,
+        "end_time": 37603,
+        "text": "and the criteria we use to evaluate it."
+    },
+    {
+        "index": 12,
+        "start_time": 37603,
+        "end_time": 42165,
+        "text": "Aristotle and Descartes both use \nthe criteria of instinct and intelligence"
+    },
+    {
+        "index": 13,
+        "start_time": 42165,
+        "end_time": 44889,
+        "text": "to divide animals from humans."
+    },
+    {
+        "index": 14,
+        "start_time": 44889,
+        "end_time": 47714,
+        "text": "Aristotle believed \nthat humans possess reason,"
+    },
+    {
+        "index": 15,
+        "start_time": 47714,
+        "end_time": 53220,
+        "text": "while animals could only follow brute\ninstincts for survival and reproduction."
+    },
+    {
+        "index": 16,
+        "start_time": 53220,
+        "end_time": 55294,
+        "text": "Almost 2000 years later,"
+    },
+    {
+        "index": 17,
+        "start_time": 55294,
+        "end_time": 59565,
+        "text": "Descartes suggested \na more extreme version of that idea,"
+    },
+    {
+        "index": 18,
+        "start_time": 59565,
+        "end_time": 63714,
+        "text": "arguing that animals following instincts\nwere indistinguishable"
+    },
+    {
+        "index": 19,
+        "start_time": 63714,
+        "end_time": 69098,
+        "text": "from robots responding mechanically \nto stimuli in their environments."
+    },
+    {
+        "index": 20,
+        "start_time": 69098,
+        "end_time": 73058,
+        "text": "But the consensus against animal \nintelligence began to unravel"
+    },
+    {
+        "index": 21,
+        "start_time": 73058,
+        "end_time": 75852,
+        "text": "with Darwin&#39;s Theory of Evolution."
+    },
+    {
+        "index": 22,
+        "start_time": 75852,
+        "end_time": 80827,
+        "text": "Darwin hypothesized that intelligence\ncould evolve from simpler instincts."
+    },
+    {
+        "index": 23,
+        "start_time": 80827,
+        "end_time": 85875,
+        "text": "He had observed earthworms making choices\nabout how to drag oddly shaped leaves"
+    },
+    {
+        "index": 24,
+        "start_time": 85875,
+        "end_time": 87441,
+        "text": "into their boroughs,"
+    },
+    {
+        "index": 25,
+        "start_time": 87441,
+        "end_time": 92580,
+        "text": "and was struck that a human might employ\nsimilar means to solve a similar problem."
+    },
+    {
+        "index": 26,
+        "start_time": 92580,
+        "end_time": 97139,
+        "text": "And if, as he thought, humans \nare descended from simpler creatures,"
+    },
+    {
+        "index": 27,
+        "start_time": 97139,
+        "end_time": 101869,
+        "text": "then perhaps our minds lie\nat the far end of a continuum,"
+    },
+    {
+        "index": 28,
+        "start_time": 101869,
+        "end_time": 106647,
+        "text": "differing from theirs in degree,\nbut not in kind."
+    },
+    {
+        "index": 29,
+        "start_time": 106647,
+        "end_time": 110632,
+        "text": "Recent experiments showing that many\nspecies can solve complex problems"
+    },
+    {
+        "index": 30,
+        "start_time": 110632,
+        "end_time": 113907,
+        "text": "confirm Darwin&#39;s initial hypothesis."
+    },
+    {
+        "index": 31,
+        "start_time": 113907,
+        "end_time": 117371,
+        "text": "Elephants use objects to reach\ninaccessible places."
+    },
+    {
+        "index": 32,
+        "start_time": 117371,
+        "end_time": 119497,
+        "text": "Crows make their own tools,"
+    },
+    {
+        "index": 33,
+        "start_time": 119497,
+        "end_time": 122835,
+        "text": "and can use water displacement \nto get a reward."
+    },
+    {
+        "index": 34,
+        "start_time": 122835,
+        "end_time": 126713,
+        "text": "Octopuses can open jars \nafter watching others do so,"
+    },
+    {
+        "index": 35,
+        "start_time": 126713,
+        "end_time": 130022,
+        "text": "and can even remember \nthe process months later."
+    },
+    {
+        "index": 36,
+        "start_time": 130022,
+        "end_time": 133438,
+        "text": "Such tasks involve considering \naspects of a problem"
+    },
+    {
+        "index": 37,
+        "start_time": 133438,
+        "end_time": 138822,
+        "text": "separately from the immediate situation,\nand retaining the strategy for later use."
+    },
+    {
+        "index": 38,
+        "start_time": 138822,
+        "end_time": 142390,
+        "text": "Still, while animals \ncan solve complex problems,"
+    },
+    {
+        "index": 39,
+        "start_time": 142390,
+        "end_time": 145922,
+        "text": "how do we know what, or even that, \nthey are thinking?"
+    },
+    {
+        "index": 40,
+        "start_time": 145922,
+        "end_time": 149649,
+        "text": "Behaviorists, such as Pavlov\nand Thorndike, argue"
+    },
+    {
+        "index": 41,
+        "start_time": 149649,
+        "end_time": 151828,
+        "text": "that animals that appear to think"
+    },
+    {
+        "index": 42,
+        "start_time": 151828,
+        "end_time": 155528,
+        "text": "are usually only responding \nto reward or punishment."
+    },
+    {
+        "index": 43,
+        "start_time": 155528,
+        "end_time": 158254,
+        "text": "This was the case with Clever Hans,"
+    },
+    {
+        "index": 44,
+        "start_time": 158254,
+        "end_time": 163324,
+        "text": "a horse with the amazing ability\nto tap out answers to math problems."
+    },
+    {
+        "index": 45,
+        "start_time": 163324,
+        "end_time": 166953,
+        "text": "But it turns out Hans \nwasn&#39;t especially good at math,"
+    },
+    {
+        "index": 46,
+        "start_time": 166953,
+        "end_time": 171991,
+        "text": "but at reading his unwitting \ntrainer&#39;s subtle nonverbal cues"
+    },
+    {
+        "index": 47,
+        "start_time": 171991,
+        "end_time": 174567,
+        "text": "for when to stop tapping."
+    },
+    {
+        "index": 48,
+        "start_time": 174567,
+        "end_time": 178838,
+        "text": "So Hans couldn&#39;t count,\nbut does that mean he wasn&#39;t thinking?"
+    },
+    {
+        "index": 49,
+        "start_time": 178838,
+        "end_time": 182109,
+        "text": "After all, he could interpret \nnuanced social messages,"
+    },
+    {
+        "index": 50,
+        "start_time": 182109,
+        "end_time": 186389,
+        "text": "a quality he shared with many other\nnon-human animals."
+    },
+    {
+        "index": 51,
+        "start_time": 186389,
+        "end_time": 189690,
+        "text": "Elephants recognize each other\nafter years apart,"
+    },
+    {
+        "index": 52,
+        "start_time": 189690,
+        "end_time": 192674,
+        "text": "and even seem to mourn their dead."
+    },
+    {
+        "index": 53,
+        "start_time": 192674,
+        "end_time": 195759,
+        "text": "Bees communicate \nusing a special waggle dance"
+    },
+    {
+        "index": 54,
+        "start_time": 195759,
+        "end_time": 200575,
+        "text": "to indicate the location and quality \nof a food source to other bees."
+    },
+    {
+        "index": 55,
+        "start_time": 200575,
+        "end_time": 204707,
+        "text": "Chimpanzees engage \nin complex deception schemes,"
+    },
+    {
+        "index": 56,
+        "start_time": 204707,
+        "end_time": 209689,
+        "text": "suggesting not only do they think,\nbut they understand that others do, too."
+    },
+    {
+        "index": 57,
+        "start_time": 209689,
+        "end_time": 212398,
+        "text": "And then there is Alex the Grey Parrot,"
+    },
+    {
+        "index": 58,
+        "start_time": 212398,
+        "end_time": 213902,
+        "text": "who could use human language"
+    },
+    {
+        "index": 59,
+        "start_time": 213902,
+        "end_time": 217491,
+        "text": "to distinguish the colors \nand shapes of absent objects,"
+    },
+    {
+        "index": 60,
+        "start_time": 217491,
+        "end_time": 222672,
+        "text": "and even understand abstract concepts,\nlike bigger and smaller."
+    },
+    {
+        "index": 61,
+        "start_time": 222672,
+        "end_time": 224660,
+        "text": "That sounds a lot like intelligence,"
+    },
+    {
+        "index": 62,
+        "start_time": 224660,
+        "end_time": 227649,
+        "text": "and not just the work \nof mindless machines."
+    },
+    {
+        "index": 63,
+        "start_time": 227649,
+        "end_time": 232338,
+        "text": "But while a non-human animal can solve\nproblems and even communicate,"
+    },
+    {
+        "index": 64,
+        "start_time": 232338,
+        "end_time": 236252,
+        "text": "for humans, thinking \nalso involves consciousness,"
+    },
+    {
+        "index": 65,
+        "start_time": 236252,
+        "end_time": 241105,
+        "text": "the ability to reflect on our actions,\nnot simply to perform them."
+    },
+    {
+        "index": 66,
+        "start_time": 241105,
+        "end_time": 246370,
+        "text": "So far, none of our studies tell us\nif having the intelligence to outsmart us"
+    },
+    {
+        "index": 67,
+        "start_time": 246370,
+        "end_time": 250959,
+        "text": "means that our dog \ncan also feel good about doing so."
+    },
+    {
+        "index": 68,
+        "start_time": 250959,
+        "end_time": 254596,
+        "text": "What we really want to know is\nwhat is it like to be a dog,"
+    },
+    {
+        "index": 69,
+        "start_time": 254596,
+        "end_time": 256006,
+        "text": "or an octopus,"
+    },
+    {
+        "index": 70,
+        "start_time": 256006,
+        "end_time": 257519,
+        "text": "or a crow?"
+    },
+    {
+        "index": 71,
+        "start_time": 257519,
+        "end_time": 260602,
+        "text": "Philosophers of mind call this\nThe Hard Problem,"
+    },
+    {
+        "index": 72,
+        "start_time": 260602,
+        "end_time": 264351,
+        "text": "because while you and I can report\nwhat it feels like to be a human,"
+    },
+    {
+        "index": 73,
+        "start_time": 264351,
+        "end_time": 266316,
+        "text": "nobody speaks horse."
+    },
+    {
+        "index": 74,
+        "start_time": 266316,
+        "end_time": 268496,
+        "text": "Even a talking parrot, like Alex,"
+    },
+    {
+        "index": 75,
+        "start_time": 268496,
+        "end_time": 272989,
+        "text": "couldn&#39;t tell us how he feels \nabout the colors he could name."
+    },
+    {
+        "index": 76,
+        "start_time": 272989,
+        "end_time": 275493,
+        "text": "And what if consciousness \ncomes in different forms?"
+    },
+    {
+        "index": 77,
+        "start_time": 275493,
+        "end_time": 278769,
+        "text": "Would we even recognize \nthe consciousness of bees?"
+    },
+    {
+        "index": 78,
+        "start_time": 278769,
+        "end_time": 283530,
+        "text": "For that matter, how can we know for sure\nthat other people have consciouness?"
+    },
+    {
+        "index": 79,
+        "start_time": 283530,
+        "end_time": 286580,
+        "text": "Perhaps they&#39;re just \nwell-functioning zombies."
+    },
+    {
+        "index": 80,
+        "start_time": 286580,
+        "end_time": 291231,
+        "text": "Regardless, animal minds continue to test\nthe limits of our understanding"
+    },
+    {
+        "index": 81,
+        "start_time": 291231,
+        "end_time": 296524,
+        "text": "and how we frame them may reveal more\nabout our minds than theirs."
+    }
+]

@@ -1,0 +1,380 @@
+[
+    {
+        "index": 1,
+        "start_time": 6783,
+        "end_time": 8988,
+        "text": "You know how sometimes\nyou go to bake a cake"
+    },
+    {
+        "index": 2,
+        "start_time": 8988,
+        "end_time": 10959,
+        "text": "but your bananas have all gone rotten,"
+    },
+    {
+        "index": 3,
+        "start_time": 10959,
+        "end_time": 12437,
+        "text": "your utensils have rusted,"
+    },
+    {
+        "index": 4,
+        "start_time": 12437,
+        "end_time": 15968,
+        "text": "you trip and pour all of your baking soda\ninto the vinegar jug,"
+    },
+    {
+        "index": 5,
+        "start_time": 15968,
+        "end_time": 18019,
+        "text": "and then your oven explodes?"
+    },
+    {
+        "index": 6,
+        "start_time": 18019,
+        "end_time": 23873,
+        "text": "My friend, you and your chemical reactions\nhave fallen victim to enthalpy and entropy"
+    },
+    {
+        "index": 7,
+        "start_time": 23873,
+        "end_time": 26379,
+        "text": "and, boy, are they forces \nto be reckoned with."
+    },
+    {
+        "index": 8,
+        "start_time": 26379,
+        "end_time": 28656,
+        "text": "Now, your reactants are all products."
+    },
+    {
+        "index": 9,
+        "start_time": 28656,
+        "end_time": 33066,
+        "text": "So, what are these &quot;E&quot; words,\nand what&#39;s their big idea?"
+    },
+    {
+        "index": 10,
+        "start_time": 33066,
+        "end_time": 34585,
+        "text": "Let&#39;s start with enthalpy,"
+    },
+    {
+        "index": 11,
+        "start_time": 34585,
+        "end_time": 39360,
+        "text": "an increase or decrease of energy\nduring a chemical reaction."
+    },
+    {
+        "index": 12,
+        "start_time": 39360,
+        "end_time": 42834,
+        "text": "Every molecule has a certain amount\nof chemical potential energy"
+    },
+    {
+        "index": 13,
+        "start_time": 42834,
+        "end_time": 45627,
+        "text": "stored within the bonds between its atoms."
+    },
+    {
+        "index": 14,
+        "start_time": 45627,
+        "end_time": 49036,
+        "text": "Chemicals with more energy \nare less stable,"
+    },
+    {
+        "index": 15,
+        "start_time": 49036,
+        "end_time": 52311,
+        "text": "and thus, more likely to react."
+    },
+    {
+        "index": 16,
+        "start_time": 52311,
+        "end_time": 55043,
+        "text": "Let&#39;s visualize the energy flow \nin a reaction,"
+    },
+    {
+        "index": 17,
+        "start_time": 55043,
+        "end_time": 60896,
+        "text": "the combustion of hydrogen and oxygen,\nby playing a round of crazy golf."
+    },
+    {
+        "index": 18,
+        "start_time": 60896,
+        "end_time": 64943,
+        "text": "Our goal is to get a ball, the reactant,\nup a small rise"
+    },
+    {
+        "index": 19,
+        "start_time": 64943,
+        "end_time": 68016,
+        "text": "and down the other much steeper slope."
+    },
+    {
+        "index": 20,
+        "start_time": 68016,
+        "end_time": 71439,
+        "text": "Where the hill goes up,\nwe need to add energy to the ball,"
+    },
+    {
+        "index": 21,
+        "start_time": 71439,
+        "end_time": 76220,
+        "text": "and where it goes down, the ball releases\nenergy into its surroundings."
+    },
+    {
+        "index": 22,
+        "start_time": 76220,
+        "end_time": 80400,
+        "text": "The hole represents the product,\nor result of the reaction."
+    },
+    {
+        "index": 23,
+        "start_time": 80400,
+        "end_time": 84126,
+        "text": "When the reaction period ends,\nthe ball is inside the hole,"
+    },
+    {
+        "index": 24,
+        "start_time": 84126,
+        "end_time": 86573,
+        "text": "and we have our product: water."
+    },
+    {
+        "index": 25,
+        "start_time": 86573,
+        "end_time": 90587,
+        "text": "This, like when our oven exploded,\nis an exothermic reaction,"
+    },
+    {
+        "index": 26,
+        "start_time": 90587,
+        "end_time": 95307,
+        "text": "meaning that the chemical&#39;s final energy\nis less than its starting energy,"
+    },
+    {
+        "index": 27,
+        "start_time": 95307,
+        "end_time": 98325,
+        "text": "and the difference has been added\nto the surrounding environment"
+    },
+    {
+        "index": 28,
+        "start_time": 98325,
+        "end_time": 100514,
+        "text": "as light and heat."
+    },
+    {
+        "index": 29,
+        "start_time": 100514,
+        "end_time": 103116,
+        "text": "We can also play out\nthe opposite type of reaction,"
+    },
+    {
+        "index": 30,
+        "start_time": 103116,
+        "end_time": 104851,
+        "text": "an endothermic reaction,"
+    },
+    {
+        "index": 31,
+        "start_time": 104851,
+        "end_time": 108483,
+        "text": "where the final energy is greater \nthan the starting energy."
+    },
+    {
+        "index": 32,
+        "start_time": 108483,
+        "end_time": 111632,
+        "text": "That&#39;s what we were trying \nto achieve by baking our cake."
+    },
+    {
+        "index": 33,
+        "start_time": 111632,
+        "end_time": 114752,
+        "text": "The added heat from the oven would \nchange the chemical structure"
+    },
+    {
+        "index": 34,
+        "start_time": 114752,
+        "end_time": 119119,
+        "text": "of the proteins in the eggs\nand various compounds in the butter."
+    },
+    {
+        "index": 35,
+        "start_time": 119119,
+        "end_time": 121235,
+        "text": "So that&#39;s enthalpy."
+    },
+    {
+        "index": 36,
+        "start_time": 121235,
+        "end_time": 122498,
+        "text": "As you might suspect,"
+    },
+    {
+        "index": 37,
+        "start_time": 122498,
+        "end_time": 126866,
+        "text": "exothermic reactions are more likely \nto happen than endothermic ones"
+    },
+    {
+        "index": 38,
+        "start_time": 126866,
+        "end_time": 130429,
+        "text": "because they require less energy to occur."
+    },
+    {
+        "index": 39,
+        "start_time": 130429,
+        "end_time": 133647,
+        "text": "But there&#39;s another independent factor\nthat can make reactions happen:"
+    },
+    {
+        "index": 40,
+        "start_time": 133647,
+        "end_time": 135250,
+        "text": "entropy."
+    },
+    {
+        "index": 41,
+        "start_time": 135250,
+        "end_time": 138652,
+        "text": "Entropy measures a chemical&#39;s randomness."
+    },
+    {
+        "index": 42,
+        "start_time": 138652,
+        "end_time": 141514,
+        "text": "Here&#39;s an enormous pyramid of golf balls."
+    },
+    {
+        "index": 43,
+        "start_time": 141514,
+        "end_time": 144533,
+        "text": "Its ordered structure \nmeans it has low entropy."
+    },
+    {
+        "index": 44,
+        "start_time": 144533,
+        "end_time": 148228,
+        "text": "However, when it collapses, \nwe have chaos everywhere,"
+    },
+    {
+        "index": 45,
+        "start_time": 148228,
+        "end_time": 150351,
+        "text": "balls bouncing high and wide."
+    },
+    {
+        "index": 46,
+        "start_time": 150351,
+        "end_time": 154202,
+        "text": "So much so that some \neven go over the hill."
+    },
+    {
+        "index": 47,
+        "start_time": 154202,
+        "end_time": 157332,
+        "text": "This shift to instability, \nor higher entropy,"
+    },
+    {
+        "index": 48,
+        "start_time": 157332,
+        "end_time": 160046,
+        "text": "can allow reactions to happen."
+    },
+    {
+        "index": 49,
+        "start_time": 160046,
+        "end_time": 162745,
+        "text": "As with the golf balls, \nin actual chemicals"
+    },
+    {
+        "index": 50,
+        "start_time": 162745,
+        "end_time": 168239,
+        "text": "this transition from structure to disorder\ngets some reactants past the hump"
+    },
+    {
+        "index": 51,
+        "start_time": 168239,
+        "end_time": 170723,
+        "text": "and lets them start a reaction."
+    },
+    {
+        "index": 52,
+        "start_time": 170723,
+        "end_time": 173671,
+        "text": "You can see both enthalpy\nand entropy at play"
+    },
+    {
+        "index": 53,
+        "start_time": 173671,
+        "end_time": 176784,
+        "text": "when you go to light \na campfire to cook dinner."
+    },
+    {
+        "index": 54,
+        "start_time": 176784,
+        "end_time": 178433,
+        "text": "Your match adds enough energy"
+    },
+    {
+        "index": 55,
+        "start_time": 178433,
+        "end_time": 181930,
+        "text": "to activate the exothermic reaction\nof combustion,"
+    },
+    {
+        "index": 56,
+        "start_time": 181930,
+        "end_time": 185616,
+        "text": "converting the high-energy \ncombustible material in the wood"
+    },
+    {
+        "index": 57,
+        "start_time": 185616,
+        "end_time": 189377,
+        "text": "to lower energy carbon dioxide and water."
+    },
+    {
+        "index": 58,
+        "start_time": 189377,
+        "end_time": 193780,
+        "text": "Entropy also increases\nand helps the reaction along"
+    },
+    {
+        "index": 59,
+        "start_time": 193780,
+        "end_time": 196484,
+        "text": "because the neat, organized log of wood"
+    },
+    {
+        "index": 60,
+        "start_time": 196484,
+        "end_time": 201589,
+        "text": "is now converted into randomly moving\nwater vapor and carbon dioxide."
+    },
+    {
+        "index": 61,
+        "start_time": 201589,
+        "end_time": 204012,
+        "text": "The energy shed by this \nexothermic reaction"
+    },
+    {
+        "index": 62,
+        "start_time": 204012,
+        "end_time": 207889,
+        "text": "powers the endothermic reaction\nof cooking your dinner."
+    },
+    {
+        "index": 63,
+        "start_time": 207889,
+        "end_time": 209557,
+        "text": "Bon app\u00e9tit!"
+    }
+]

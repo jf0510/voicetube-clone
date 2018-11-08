@@ -1,0 +1,476 @@
+[
+    {
+        "index": 1,
+        "start_time": 6681,
+        "end_time": 8873,
+        "text": "Let&#39;s say you&#39;re on a game show."
+    },
+    {
+        "index": 2,
+        "start_time": 8873,
+        "end_time": 12375,
+        "text": "You&#39;ve already earned $1000 \nin the first round"
+    },
+    {
+        "index": 3,
+        "start_time": 12375,
+        "end_time": 14851,
+        "text": "when you land on the bonus space."
+    },
+    {
+        "index": 4,
+        "start_time": 14851,
+        "end_time": 16657,
+        "text": "Now, you have a choice."
+    },
+    {
+        "index": 5,
+        "start_time": 16657,
+        "end_time": 20131,
+        "text": "You can either take \na $500 bonus guaranteed"
+    },
+    {
+        "index": 6,
+        "start_time": 20131,
+        "end_time": 22537,
+        "text": "or you can flip a coin."
+    },
+    {
+        "index": 7,
+        "start_time": 22537,
+        "end_time": 25857,
+        "text": "If it&#39;s heads, you win $1000 bonus."
+    },
+    {
+        "index": 8,
+        "start_time": 25857,
+        "end_time": 29246,
+        "text": "If it&#39;s tails, you get no bonus at all."
+    },
+    {
+        "index": 9,
+        "start_time": 29246,
+        "end_time": 34269,
+        "text": "In the second round, you&#39;ve earned $2000\nwhen you land on the penalty space."
+    },
+    {
+        "index": 10,
+        "start_time": 34269,
+        "end_time": 36384,
+        "text": "Now you have another choice."
+    },
+    {
+        "index": 11,
+        "start_time": 36384,
+        "end_time": 39220,
+        "text": "You can either take a $500 loss,"
+    },
+    {
+        "index": 12,
+        "start_time": 39220,
+        "end_time": 42171,
+        "text": "or try your luck at the coin flip."
+    },
+    {
+        "index": 13,
+        "start_time": 42171,
+        "end_time": 44372,
+        "text": "If it&#39;s heads, you lose nothing,"
+    },
+    {
+        "index": 14,
+        "start_time": 44372,
+        "end_time": 49069,
+        "text": "but if it&#39;s tails, you lose $1000 instead."
+    },
+    {
+        "index": 15,
+        "start_time": 49069,
+        "end_time": 50493,
+        "text": "If you&#39;re like most people,"
+    },
+    {
+        "index": 16,
+        "start_time": 50493,
+        "end_time": 54284,
+        "text": "you probably chose to take\nthe guaranteed bonus in the first round"
+    },
+    {
+        "index": 17,
+        "start_time": 54284,
+        "end_time": 57254,
+        "text": "and flip the coin in the second round."
+    },
+    {
+        "index": 18,
+        "start_time": 57254,
+        "end_time": 60113,
+        "text": "But if you think about it,\nthis makes no sense."
+    },
+    {
+        "index": 19,
+        "start_time": 60113,
+        "end_time": 64205,
+        "text": "The odds and outcomes in both rounds\nare exactly the same."
+    },
+    {
+        "index": 20,
+        "start_time": 64205,
+        "end_time": 68704,
+        "text": "So why does the second round\nseem much scarier?"
+    },
+    {
+        "index": 21,
+        "start_time": 68704,
+        "end_time": 73214,
+        "text": "The answer lies in a phenomenon\nknown as loss aversion."
+    },
+    {
+        "index": 22,
+        "start_time": 73214,
+        "end_time": 75106,
+        "text": "Under rational economic theory,"
+    },
+    {
+        "index": 23,
+        "start_time": 75106,
+        "end_time": 78846,
+        "text": "our decisions should follow a simple\nmathematical equation"
+    },
+    {
+        "index": 24,
+        "start_time": 78846,
+        "end_time": 83055,
+        "text": "that weighs the level of risk\nagainst the amount at stake."
+    },
+    {
+        "index": 25,
+        "start_time": 83055,
+        "end_time": 85317,
+        "text": "But studies have found \nthat for many people,"
+    },
+    {
+        "index": 26,
+        "start_time": 85317,
+        "end_time": 89120,
+        "text": "the negative psychological impact\nwe feel from losing something"
+    },
+    {
+        "index": 27,
+        "start_time": 89120,
+        "end_time": 94972,
+        "text": "is about twice as strong as the positive\nimpact of gaining the same thing."
+    },
+    {
+        "index": 28,
+        "start_time": 94972,
+        "end_time": 99765,
+        "text": "Loss aversion is one cognitive bias\nthat arises from heuristics,"
+    },
+    {
+        "index": 29,
+        "start_time": 99765,
+        "end_time": 103884,
+        "text": "problem-solving approaches based on\nprevious experience and intuition"
+    },
+    {
+        "index": 30,
+        "start_time": 103884,
+        "end_time": 106529,
+        "text": "rather than careful analysis."
+    },
+    {
+        "index": 31,
+        "start_time": 106529,
+        "end_time": 110165,
+        "text": "And these mental shortcuts can lead\nto irrational decisions,"
+    },
+    {
+        "index": 32,
+        "start_time": 110165,
+        "end_time": 111459,
+        "text": "not like falling in love"
+    },
+    {
+        "index": 33,
+        "start_time": 111459,
+        "end_time": 113414,
+        "text": "or bungee jumping off a cliff,"
+    },
+    {
+        "index": 34,
+        "start_time": 113414,
+        "end_time": 117834,
+        "text": "but logical fallacies that can easily\nbe proven wrong."
+    },
+    {
+        "index": 35,
+        "start_time": 117834,
+        "end_time": 123591,
+        "text": "Situations involving probability are\nnotoriously bad for applying heuristics."
+    },
+    {
+        "index": 36,
+        "start_time": 123591,
+        "end_time": 129053,
+        "text": "For instance, say you were to roll a die\nwith four green faces and two red faces"
+    },
+    {
+        "index": 37,
+        "start_time": 129053,
+        "end_time": 130736,
+        "text": "twenty times."
+    },
+    {
+        "index": 38,
+        "start_time": 130736,
+        "end_time": 133694,
+        "text": "You can choose one of \nthe following sequences of rolls,"
+    },
+    {
+        "index": 39,
+        "start_time": 133694,
+        "end_time": 137018,
+        "text": "and if it shows up, \nyou&#39;ll win $25."
+    },
+    {
+        "index": 40,
+        "start_time": 137018,
+        "end_time": 138909,
+        "text": "Which would you pick?"
+    },
+    {
+        "index": 41,
+        "start_time": 138909,
+        "end_time": 143838,
+        "text": "In one study, 65% of the participants\nwho were all college students"
+    },
+    {
+        "index": 42,
+        "start_time": 143838,
+        "end_time": 146290,
+        "text": "chose sequence B"
+    },
+    {
+        "index": 43,
+        "start_time": 146290,
+        "end_time": 149885,
+        "text": "even though A is shorter\nand contained within B,"
+    },
+    {
+        "index": 44,
+        "start_time": 149885,
+        "end_time": 151884,
+        "text": "in other words, more likely."
+    },
+    {
+        "index": 45,
+        "start_time": 151884,
+        "end_time": 155132,
+        "text": "This is what&#39;s called \na conjunction fallacy."
+    },
+    {
+        "index": 46,
+        "start_time": 155132,
+        "end_time": 157425,
+        "text": "Here, we expect to see more green rolls,"
+    },
+    {
+        "index": 47,
+        "start_time": 157425,
+        "end_time": 161607,
+        "text": "so our brains can trick us into picking\nthe less likely option."
+    },
+    {
+        "index": 48,
+        "start_time": 161607,
+        "end_time": 165822,
+        "text": "Heuristics are also terrible \nat dealing with numbers in general."
+    },
+    {
+        "index": 49,
+        "start_time": 165822,
+        "end_time": 169393,
+        "text": "In one example, students were split\ninto two groups."
+    },
+    {
+        "index": 50,
+        "start_time": 169393,
+        "end_time": 174742,
+        "text": "The first group was asked whether\nMahatma Gandhi died before or after age 9,"
+    },
+    {
+        "index": 51,
+        "start_time": 174742,
+        "end_time": 180279,
+        "text": "while the second was asked whether\nhe died before or after age 140."
+    },
+    {
+        "index": 52,
+        "start_time": 180279,
+        "end_time": 182719,
+        "text": "Both numbers were obviously way off,"
+    },
+    {
+        "index": 53,
+        "start_time": 182719,
+        "end_time": 187257,
+        "text": "but when the students were then asked\nto guess the actual age at which he died,"
+    },
+    {
+        "index": 54,
+        "start_time": 187257,
+        "end_time": 189996,
+        "text": "the first group&#39;s answers averaged to 50"
+    },
+    {
+        "index": 55,
+        "start_time": 189996,
+        "end_time": 193536,
+        "text": "while the second group&#39;s averaged to 67."
+    },
+    {
+        "index": 56,
+        "start_time": 193536,
+        "end_time": 196817,
+        "text": "Even though the clearly wrong information\nin the initial questions"
+    },
+    {
+        "index": 57,
+        "start_time": 196817,
+        "end_time": 198848,
+        "text": "should have been irrelevant,"
+    },
+    {
+        "index": 58,
+        "start_time": 198848,
+        "end_time": 201746,
+        "text": "it still affected the students&#39; estimates."
+    },
+    {
+        "index": 59,
+        "start_time": 201746,
+        "end_time": 204615,
+        "text": "This is an example \nof the anchoring effect,"
+    },
+    {
+        "index": 60,
+        "start_time": 204615,
+        "end_time": 207539,
+        "text": "and it&#39;s often used in marketing\nand negotiations"
+    },
+    {
+        "index": 61,
+        "start_time": 207539,
+        "end_time": 211111,
+        "text": "to raise the prices \nthat people are willing to pay."
+    },
+    {
+        "index": 62,
+        "start_time": 211111,
+        "end_time": 214559,
+        "text": "So, if heuristics lead to \nall these wrong decisions,"
+    },
+    {
+        "index": 63,
+        "start_time": 214559,
+        "end_time": 216998,
+        "text": "why do we even have them?"
+    },
+    {
+        "index": 64,
+        "start_time": 216998,
+        "end_time": 219772,
+        "text": "Well, because they can be quite effective."
+    },
+    {
+        "index": 65,
+        "start_time": 219772,
+        "end_time": 221444,
+        "text": "For most of human history,"
+    },
+    {
+        "index": 66,
+        "start_time": 221444,
+        "end_time": 225724,
+        "text": "survival depended on making quick\ndecisions with limited information."
+    },
+    {
+        "index": 67,
+        "start_time": 225724,
+        "end_time": 229751,
+        "text": "When there&#39;s no time to logically\nanalyze all the possibilities,"
+    },
+    {
+        "index": 68,
+        "start_time": 229751,
+        "end_time": 232775,
+        "text": "heuristics can sometimes save our lives."
+    },
+    {
+        "index": 69,
+        "start_time": 232775,
+        "end_time": 236605,
+        "text": "But today&#39;s environment requires\nfar more complex decision-making,"
+    },
+    {
+        "index": 70,
+        "start_time": 236605,
+        "end_time": 241180,
+        "text": "and these decisions are more biased\nby unconscious factors than we think,"
+    },
+    {
+        "index": 71,
+        "start_time": 241180,
+        "end_time": 243558,
+        "text": "affecting everything from health \nand education"
+    },
+    {
+        "index": 72,
+        "start_time": 243558,
+        "end_time": 246172,
+        "text": "to finance and criminal justice."
+    },
+    {
+        "index": 73,
+        "start_time": 246172,
+        "end_time": 248482,
+        "text": "We can&#39;t just shut off \nour brain&#39;s heuristics,"
+    },
+    {
+        "index": 74,
+        "start_time": 248482,
+        "end_time": 251187,
+        "text": "but we can learn to be aware of them."
+    },
+    {
+        "index": 75,
+        "start_time": 251187,
+        "end_time": 253629,
+        "text": "When you come to \na situation involving numbers,"
+    },
+    {
+        "index": 76,
+        "start_time": 253629,
+        "end_time": 254859,
+        "text": "probability,"
+    },
+    {
+        "index": 77,
+        "start_time": 254859,
+        "end_time": 256723,
+        "text": "or multiple details,"
+    },
+    {
+        "index": 78,
+        "start_time": 256723,
+        "end_time": 258040,
+        "text": "pause for a second"
+    },
+    {
+        "index": 79,
+        "start_time": 258040,
+        "end_time": 263348,
+        "text": "and consider that the intuitive answer\nmight not be the right one after all."
+    }
+]

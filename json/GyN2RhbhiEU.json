@@ -1,0 +1,506 @@
+[
+    {
+        "index": 1,
+        "start_time": 8121,
+        "end_time": 11452,
+        "text": "Chat with a friend about\nan established scientific theory"
+    },
+    {
+        "index": 2,
+        "start_time": 11452,
+        "end_time": 15690,
+        "text": "and she might reply,\n&quot;Well, that&#39;s just a theory.&quot;"
+    },
+    {
+        "index": 3,
+        "start_time": 15690,
+        "end_time": 18997,
+        "text": "But a conversation about\nan established scientific law"
+    },
+    {
+        "index": 4,
+        "start_time": 18997,
+        "end_time": 22994,
+        "text": "rarely ends with,\n&quot;Well, that&#39;s just a law.&quot;"
+    },
+    {
+        "index": 5,
+        "start_time": 22994,
+        "end_time": 24346,
+        "text": "Why is that?"
+    },
+    {
+        "index": 6,
+        "start_time": 24346,
+        "end_time": 27499,
+        "text": "What is the difference \nbetween a theory and a law,"
+    },
+    {
+        "index": 7,
+        "start_time": 27499,
+        "end_time": 29721,
+        "text": "and is one better?"
+    },
+    {
+        "index": 8,
+        "start_time": 29721,
+        "end_time": 32919,
+        "text": "Scientific laws and theories\nhave different jobs to do."
+    },
+    {
+        "index": 9,
+        "start_time": 32919,
+        "end_time": 37191,
+        "text": "A scientific law predicts\nthe results of certain initial conditions."
+    },
+    {
+        "index": 10,
+        "start_time": 37191,
+        "end_time": 40917,
+        "text": "It might predict your unborn \nchild&#39;s possible hair colors,"
+    },
+    {
+        "index": 11,
+        "start_time": 40917,
+        "end_time": 45888,
+        "text": "or how far a baseball travels\nwhen launched at a certain angle."
+    },
+    {
+        "index": 12,
+        "start_time": 45888,
+        "end_time": 50421,
+        "text": "In contrast, a theory tries to provide\nthe most logical explanation"
+    },
+    {
+        "index": 13,
+        "start_time": 50421,
+        "end_time": 53695,
+        "text": "about why things happen as they do."
+    },
+    {
+        "index": 14,
+        "start_time": 53695,
+        "end_time": 56746,
+        "text": "A theory might invoke\ndominant and recessive genes"
+    },
+    {
+        "index": 15,
+        "start_time": 56746,
+        "end_time": 61722,
+        "text": "to explain how brown-haired parents\nended up with a red-headed child,"
+    },
+    {
+        "index": 16,
+        "start_time": 61722,
+        "end_time": 67075,
+        "text": "or use gravity to shed light \non the parabolic trajectory of a baseball."
+    },
+    {
+        "index": 17,
+        "start_time": 67075,
+        "end_time": 68273,
+        "text": "In simplest terms,"
+    },
+    {
+        "index": 18,
+        "start_time": 68273,
+        "end_time": 73378,
+        "text": "a law predicts what happens\nwhile a theory proposes why."
+    },
+    {
+        "index": 19,
+        "start_time": 73378,
+        "end_time": 76328,
+        "text": "A theory will never grow up into a law,"
+    },
+    {
+        "index": 20,
+        "start_time": 76328,
+        "end_time": 80413,
+        "text": "though the development of one\noften triggers progress on the other."
+    },
+    {
+        "index": 21,
+        "start_time": 80413,
+        "end_time": 85736,
+        "text": "In the 17th century, Johannes Kepler\ntheorized cosmic musical harmonies"
+    },
+    {
+        "index": 22,
+        "start_time": 85736,
+        "end_time": 89459,
+        "text": "to explain the nature of planetary orbits."
+    },
+    {
+        "index": 23,
+        "start_time": 89459,
+        "end_time": 93183,
+        "text": "He developed three brilliant laws\nof planetary motion"
+    },
+    {
+        "index": 24,
+        "start_time": 93183,
+        "end_time": 96874,
+        "text": "while he was studying decades \nof precise astronomical data"
+    },
+    {
+        "index": 25,
+        "start_time": 96874,
+        "end_time": 100756,
+        "text": "in an effort to find support \nfor his theory."
+    },
+    {
+        "index": 26,
+        "start_time": 100756,
+        "end_time": 103488,
+        "text": "While his three laws \nare still in use today,"
+    },
+    {
+        "index": 27,
+        "start_time": 103488,
+        "end_time": 108915,
+        "text": "gravity replaced his theory of harmonics\nto explain the planets&#39; motions."
+    },
+    {
+        "index": 28,
+        "start_time": 108915,
+        "end_time": 111167,
+        "text": "How did Kepler get part of it wrong?"
+    },
+    {
+        "index": 29,
+        "start_time": 111167,
+        "end_time": 114569,
+        "text": "Well, we weren&#39;t handed \na universal instruction manual."
+    },
+    {
+        "index": 30,
+        "start_time": 114569,
+        "end_time": 119623,
+        "text": "Instead, we continually propose,\nchallenge, revise, or even replace"
+    },
+    {
+        "index": 31,
+        "start_time": 119623,
+        "end_time": 123563,
+        "text": "our scientific ideas \nas a work in progress."
+    },
+    {
+        "index": 32,
+        "start_time": 123563,
+        "end_time": 125493,
+        "text": "Laws usually resist change"
+    },
+    {
+        "index": 33,
+        "start_time": 125493,
+        "end_time": 129152,
+        "text": "since they wouldn&#39;t have been adopted\nif they didn&#39;t fit the data,"
+    },
+    {
+        "index": 34,
+        "start_time": 129152,
+        "end_time": 134767,
+        "text": "though we occasionally revise laws \nin the face of new unexpected information."
+    },
+    {
+        "index": 35,
+        "start_time": 134767,
+        "end_time": 138842,
+        "text": "A theory&#39;s acceptance, however,\nis often gladiatorial."
+    },
+    {
+        "index": 36,
+        "start_time": 138842,
+        "end_time": 142599,
+        "text": "Multiple theories may compete\nto supply the best explanation"
+    },
+    {
+        "index": 37,
+        "start_time": 142599,
+        "end_time": 144978,
+        "text": "of a new scientific discovery."
+    },
+    {
+        "index": 38,
+        "start_time": 144978,
+        "end_time": 146390,
+        "text": "Upon further research,"
+    },
+    {
+        "index": 39,
+        "start_time": 146390,
+        "end_time": 151350,
+        "text": "scientists tend to favor the theory \nthat can explain most of the data,"
+    },
+    {
+        "index": 40,
+        "start_time": 151350,
+        "end_time": 154522,
+        "text": "though there may still \nbe gaps in our understanding."
+    },
+    {
+        "index": 41,
+        "start_time": 154522,
+        "end_time": 157963,
+        "text": "Scientists also like \nwhen a new theory successfully predicts"
+    },
+    {
+        "index": 42,
+        "start_time": 157963,
+        "end_time": 160834,
+        "text": "previously unobserved phenomena,"
+    },
+    {
+        "index": 43,
+        "start_time": 160834,
+        "end_time": 164543,
+        "text": "like when Dmitri Mendeleev&#39;s theory\nabout the periodic table"
+    },
+    {
+        "index": 44,
+        "start_time": 164543,
+        "end_time": 168040,
+        "text": "predicted several undiscovered elements."
+    },
+    {
+        "index": 45,
+        "start_time": 168040,
+        "end_time": 171220,
+        "text": "The term scientific theory\ncovers a broad swath."
+    },
+    {
+        "index": 46,
+        "start_time": 171220,
+        "end_time": 175363,
+        "text": "Some theories are new ideas \nwith little experimental evidence"
+    },
+    {
+        "index": 47,
+        "start_time": 175363,
+        "end_time": 178000,
+        "text": "that scientists eye with suspicion,"
+    },
+    {
+        "index": 48,
+        "start_time": 178000,
+        "end_time": 179666,
+        "text": "or even ridicule."
+    },
+    {
+        "index": 49,
+        "start_time": 179666,
+        "end_time": 180976,
+        "text": "Other theories,"
+    },
+    {
+        "index": 50,
+        "start_time": 180976,
+        "end_time": 184860,
+        "text": "like those involving the Big Bang, \nevolution, and climate change,"
+    },
+    {
+        "index": 51,
+        "start_time": 184860,
+        "end_time": 188156,
+        "text": "have endured years \nof experimental confirmation"
+    },
+    {
+        "index": 52,
+        "start_time": 188156,
+        "end_time": 193136,
+        "text": "before earning acceptance by the majority \nof the scientific community."
+    },
+    {
+        "index": 53,
+        "start_time": 193136,
+        "end_time": 196374,
+        "text": "You would need to learn more about\na specific explanation"
+    },
+    {
+        "index": 54,
+        "start_time": 196374,
+        "end_time": 199934,
+        "text": "before you&#39;d know how well \nscientists perceive it."
+    },
+    {
+        "index": 55,
+        "start_time": 199934,
+        "end_time": 203686,
+        "text": "The word theory\nalone doesn&#39;t tell you."
+    },
+    {
+        "index": 56,
+        "start_time": 203686,
+        "end_time": 204842,
+        "text": "In full disclosure,"
+    },
+    {
+        "index": 57,
+        "start_time": 204842,
+        "end_time": 208339,
+        "text": "the scientific community has bet\non the wrong horse before:"
+    },
+    {
+        "index": 58,
+        "start_time": 208339,
+        "end_time": 209244,
+        "text": "alchemy,"
+    },
+    {
+        "index": 59,
+        "start_time": 209244,
+        "end_time": 210786,
+        "text": "the geocentric model,"
+    },
+    {
+        "index": 60,
+        "start_time": 210786,
+        "end_time": 212478,
+        "text": "spontaneous generation,"
+    },
+    {
+        "index": 61,
+        "start_time": 212478,
+        "end_time": 214143,
+        "text": "and the interstellar aether"
+    },
+    {
+        "index": 62,
+        "start_time": 214143,
+        "end_time": 219414,
+        "text": "are just a few of many theories \ndiscarded in favor of better ones."
+    },
+    {
+        "index": 63,
+        "start_time": 219414,
+        "end_time": 222118,
+        "text": "But even incorrect theories \nhave their value."
+    },
+    {
+        "index": 64,
+        "start_time": 222118,
+        "end_time": 226411,
+        "text": "Discredited alchemy was the birthplace\nof modern chemistry,"
+    },
+    {
+        "index": 65,
+        "start_time": 226411,
+        "end_time": 228078,
+        "text": "and medicine made great strides"
+    },
+    {
+        "index": 66,
+        "start_time": 228078,
+        "end_time": 233184,
+        "text": "long before we understood the roles\nof bacteria and viruses."
+    },
+    {
+        "index": 67,
+        "start_time": 233184,
+        "end_time": 237379,
+        "text": "That said, better theories often lead\nto exciting new discoveries"
+    },
+    {
+        "index": 68,
+        "start_time": 237379,
+        "end_time": 241343,
+        "text": "that were unimaginable \nunder the old way of thinking."
+    },
+    {
+        "index": 69,
+        "start_time": 241343,
+        "end_time": 244262,
+        "text": "Nor should we assume \nall of our current scientific theories"
+    },
+    {
+        "index": 70,
+        "start_time": 244262,
+        "end_time": 246596,
+        "text": "will stand the test of time."
+    },
+    {
+        "index": 71,
+        "start_time": 246596,
+        "end_time": 251052,
+        "text": "A single unexpected result is enough\nto challenge the status quo."
+    },
+    {
+        "index": 72,
+        "start_time": 251052,
+        "end_time": 254962,
+        "text": "However, vulnerability to some potentially\nbetter explanation"
+    },
+    {
+        "index": 73,
+        "start_time": 254962,
+        "end_time": 258236,
+        "text": "doesn&#39;t weaken \na current scientific theory."
+    },
+    {
+        "index": 74,
+        "start_time": 258236,
+        "end_time": 263119,
+        "text": "Instead, it shields science from becoming\nunchallenged dogma."
+    },
+    {
+        "index": 75,
+        "start_time": 263119,
+        "end_time": 266744,
+        "text": "A good scientific law \nis a finely-tuned machine,"
+    },
+    {
+        "index": 76,
+        "start_time": 266744,
+        "end_time": 268763,
+        "text": "accomplishing its task brilliantly"
+    },
+    {
+        "index": 77,
+        "start_time": 268763,
+        "end_time": 271749,
+        "text": "but ignorant of why it works\nas well as it does."
+    },
+    {
+        "index": 78,
+        "start_time": 271749,
+        "end_time": 276565,
+        "text": "A good scientific theory is a bruised,\nbut unbowed, fighter"
+    },
+    {
+        "index": 79,
+        "start_time": 276565,
+        "end_time": 281808,
+        "text": "who risks defeat if unable to overpower\nor adapt to the next challenger."
+    },
+    {
+        "index": 80,
+        "start_time": 281808,
+        "end_time": 283061,
+        "text": "Though different,"
+    },
+    {
+        "index": 81,
+        "start_time": 283061,
+        "end_time": 287854,
+        "text": "science needs both laws and theories \nto understand the whole picture."
+    },
+    {
+        "index": 82,
+        "start_time": 287854,
+        "end_time": 291086,
+        "text": "So next time someone comments that\nit&#39;s just a theory,"
+    },
+    {
+        "index": 83,
+        "start_time": 291086,
+        "end_time": 293948,
+        "text": "challenge them to go nine rounds\nwith the champ"
+    },
+    {
+        "index": 84,
+        "start_time": 293948,
+        "end_time": 295891,
+        "text": "and see if they can do any better."
+    }
+]

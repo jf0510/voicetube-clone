@@ -1,0 +1,68 @@
+[
+  {
+    "end_time": 10000,
+    "index": 1,
+    "start_time": 7040,
+    "text": "Hello I\u2019m Denim."
+  },
+  {
+    "end_time": 22000,
+    "index": 2,
+    "start_time": 20640,
+    "text": "Hello."
+  },
+  {
+    "end_time": 24880,
+    "index": 3,
+    "start_time": 23660,
+    "text": "Hi."
+  },
+  {
+    "end_time": 28160,
+    "index": 4,
+    "start_time": 26660,
+    "text": "What\u2019s your name?"
+  },
+  {
+    "end_time": 31800,
+    "index": 5,
+    "start_time": 29960,
+    "text": "My name is Denim."
+  },
+  {
+    "end_time": 35280,
+    "index": 6,
+    "start_time": 33320,
+    "text": "Nice to meet you, Denim."
+  },
+  {
+    "end_time": 38880,
+    "index": 7,
+    "start_time": 37280,
+    "text": "What\u2019s your name?"
+  },
+  {
+    "end_time": 42520,
+    "index": 8,
+    "start_time": 40380,
+    "text": "My name is Yellow."
+  },
+  {
+    "end_time": 46019,
+    "index": 9,
+    "start_time": 43540,
+    "text": "Nice to meet you, Yellow."
+  },
+  {
+    "end_time": 49620,
+    "index": 10,
+    "start_time": 47680,
+    "text": "Let\u2019s be friends."
+  },
+  {
+    "end_time": 52280,
+    "index": 11,
+    "start_time": 51020,
+    "text": "OK."
+  }
+]

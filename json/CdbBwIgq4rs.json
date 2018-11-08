@@ -1,0 +1,548 @@
+[
+    {
+        "index": 1,
+        "start_time": 7966,
+        "end_time": 10982,
+        "text": "On July 26, 1943,"
+    },
+    {
+        "index": 2,
+        "start_time": 10982,
+        "end_time": 14567,
+        "text": "Los Angeles was blanketed by a thick\ngas that stung people&#39;s eyes"
+    },
+    {
+        "index": 3,
+        "start_time": 14567,
+        "end_time": 16582,
+        "text": "and blocked out the Sun."
+    },
+    {
+        "index": 4,
+        "start_time": 16582,
+        "end_time": 21451,
+        "text": "Panicked residents believed their city\nhad been attacked using chemical warfare."
+    },
+    {
+        "index": 5,
+        "start_time": 21451,
+        "end_time": 23912,
+        "text": "But the cloud wasn&#39;t an act of war."
+    },
+    {
+        "index": 6,
+        "start_time": 23912,
+        "end_time": 25599,
+        "text": "It was smog."
+    },
+    {
+        "index": 7,
+        "start_time": 25599,
+        "end_time": 28079,
+        "text": "A portmanteau \nof smoke and fog,"
+    },
+    {
+        "index": 8,
+        "start_time": 28079,
+        "end_time": 31957,
+        "text": "the word &quot;smog&quot; was coined at the beginning\nof the 20th century"
+    },
+    {
+        "index": 9,
+        "start_time": 31957,
+        "end_time": 34678,
+        "text": "to describe the thick gray \nhaze that covered cities"
+    },
+    {
+        "index": 10,
+        "start_time": 34678,
+        "end_time": 35684,
+        "text": "such as London,"
+    },
+    {
+        "index": 11,
+        "start_time": 35684,
+        "end_time": 36393,
+        "text": "Glasgow,"
+    },
+    {
+        "index": 12,
+        "start_time": 36393,
+        "end_time": 38768,
+        "text": "and Edinburgh."
+    },
+    {
+        "index": 13,
+        "start_time": 38768,
+        "end_time": 40888,
+        "text": "This industrial smog was known to form"
+    },
+    {
+        "index": 14,
+        "start_time": 40888,
+        "end_time": 44359,
+        "text": "when smoke from coal-burning \nhome stoves and factories"
+    },
+    {
+        "index": 15,
+        "start_time": 44359,
+        "end_time": 47118,
+        "text": "combined with moisture in the air."
+    },
+    {
+        "index": 16,
+        "start_time": 47118,
+        "end_time": 50288,
+        "text": "But the smog behind \nthe LA panic was different."
+    },
+    {
+        "index": 17,
+        "start_time": 50288,
+        "end_time": 53540,
+        "text": "It was yellowish with a chemical odor."
+    },
+    {
+        "index": 18,
+        "start_time": 53540,
+        "end_time": 57319,
+        "text": "Since the city didn&#39;t burn much coal,\nits cause would remain a mystery"
+    },
+    {
+        "index": 19,
+        "start_time": 57319,
+        "end_time": 62258,
+        "text": "until a chemist named Arie Haagen-Smit\nidentified two culprits:"
+    },
+    {
+        "index": 20,
+        "start_time": 62258,
+        "end_time": 65758,
+        "text": "volatile organic compounds, or VOCs,"
+    },
+    {
+        "index": 21,
+        "start_time": 65758,
+        "end_time": 68701,
+        "text": "and nitrogen oxides."
+    },
+    {
+        "index": 22,
+        "start_time": 68701,
+        "end_time": 71510,
+        "text": "VOCs are compounds that easily\nbecome vapors"
+    },
+    {
+        "index": 23,
+        "start_time": 71510,
+        "end_time": 73709,
+        "text": "and may contain elements, such as carbon,"
+    },
+    {
+        "index": 24,
+        "start_time": 73709,
+        "end_time": 74740,
+        "text": "oxygen,"
+    },
+    {
+        "index": 25,
+        "start_time": 74740,
+        "end_time": 75740,
+        "text": "hydrogen,"
+    },
+    {
+        "index": 26,
+        "start_time": 75740,
+        "end_time": 76651,
+        "text": "chlorine,"
+    },
+    {
+        "index": 27,
+        "start_time": 76651,
+        "end_time": 78299,
+        "text": "and sulfur."
+    },
+    {
+        "index": 28,
+        "start_time": 78299,
+        "end_time": 80989,
+        "text": "Some are naturally produced \nby plants and animals,"
+    },
+    {
+        "index": 29,
+        "start_time": 80989,
+        "end_time": 83120,
+        "text": "but others come from manmade sources,"
+    },
+    {
+        "index": 30,
+        "start_time": 83120,
+        "end_time": 84130,
+        "text": "like solvents,"
+    },
+    {
+        "index": 31,
+        "start_time": 84130,
+        "end_time": 85181,
+        "text": "paints,"
+    },
+    {
+        "index": 32,
+        "start_time": 85181,
+        "end_time": 85979,
+        "text": "glues,"
+    },
+    {
+        "index": 33,
+        "start_time": 85979,
+        "end_time": 87681,
+        "text": "and petroleum."
+    },
+    {
+        "index": 34,
+        "start_time": 87681,
+        "end_time": 91421,
+        "text": "Meanwhile, the incomplete combustion\nof gas in motor vehicles"
+    },
+    {
+        "index": 35,
+        "start_time": 91421,
+        "end_time": 94041,
+        "text": "releases nitrogen oxide."
+    },
+    {
+        "index": 36,
+        "start_time": 94041,
+        "end_time": 98040,
+        "text": "That&#39;s what gives this type of smog\nits yellowish color."
+    },
+    {
+        "index": 37,
+        "start_time": 98040,
+        "end_time": 101722,
+        "text": "VOCs and nitrogen oxide react with sunlight"
+    },
+    {
+        "index": 38,
+        "start_time": 101722,
+        "end_time": 106212,
+        "text": "to produce secondary pollutants called\nPANs and tropospheric,"
+    },
+    {
+        "index": 39,
+        "start_time": 106212,
+        "end_time": 109131,
+        "text": "or ground-level, ozone."
+    },
+    {
+        "index": 40,
+        "start_time": 109131,
+        "end_time": 113922,
+        "text": "PANs and ozone cause eye irritation\nand damage lung tissue."
+    },
+    {
+        "index": 41,
+        "start_time": 113922,
+        "end_time": 117022,
+        "text": "Both are key ingredients \nin photochemical smog,"
+    },
+    {
+        "index": 42,
+        "start_time": 117022,
+        "end_time": 120073,
+        "text": "which is what had been plaguing LA."
+    },
+    {
+        "index": 43,
+        "start_time": 120073,
+        "end_time": 123662,
+        "text": "So why does smog affect some cities\nbut not others?"
+    },
+    {
+        "index": 44,
+        "start_time": 123662,
+        "end_time": 128332,
+        "text": "Both industrial and photochemical smog\ncombine manmade pollution"
+    },
+    {
+        "index": 45,
+        "start_time": 128332,
+        "end_time": 130983,
+        "text": "with local weather and geography."
+    },
+    {
+        "index": 46,
+        "start_time": 130983,
+        "end_time": 135933,
+        "text": "London&#39;s high humidity made it a prime\nlocation for industrial smog."
+    },
+    {
+        "index": 47,
+        "start_time": 135933,
+        "end_time": 139634,
+        "text": "Photochemical smog is strongest in\nurban areas with calm winds"
+    },
+    {
+        "index": 48,
+        "start_time": 139634,
+        "end_time": 142384,
+        "text": "and dry, warm, sunny weather."
+    },
+    {
+        "index": 49,
+        "start_time": 142384,
+        "end_time": 145933,
+        "text": "The ultraviolet radiation from sunlight\nprovides the energy necessary"
+    },
+    {
+        "index": 50,
+        "start_time": 145933,
+        "end_time": 150084,
+        "text": "to breakdown molecules that contribute\nto smog formation."
+    },
+    {
+        "index": 51,
+        "start_time": 150084,
+        "end_time": 152743,
+        "text": "Cities surrounded by mountains, like LA,"
+    },
+    {
+        "index": 52,
+        "start_time": 152743,
+        "end_time": 155043,
+        "text": "or lying in a basin, like Beijing,"
+    },
+    {
+        "index": 53,
+        "start_time": 155043,
+        "end_time": 160613,
+        "text": "are also especially vulnerable to smog\nsince there&#39;s nowhere for it to dissipate."
+    },
+    {
+        "index": 54,
+        "start_time": 160613,
+        "end_time": 164814,
+        "text": "That&#39;s also partially due to a phenomenon\nknown as temperature inversion,"
+    },
+    {
+        "index": 55,
+        "start_time": 164814,
+        "end_time": 167894,
+        "text": "where instead of warm air \ncontinuously rising upward,"
+    },
+    {
+        "index": 56,
+        "start_time": 167894,
+        "end_time": 172135,
+        "text": "a pollution-filled layer of air remains \ntrapped near the Earth&#39;s surface"
+    },
+    {
+        "index": 57,
+        "start_time": 172135,
+        "end_time": 175144,
+        "text": "by a slightly warmer layer above."
+    },
+    {
+        "index": 58,
+        "start_time": 175144,
+        "end_time": 178034,
+        "text": "Smog isn&#39;t just an aesthetic eyesore."
+    },
+    {
+        "index": 59,
+        "start_time": 178034,
+        "end_time": 180186,
+        "text": "Both forms of smog irritate the eyes,"
+    },
+    {
+        "index": 60,
+        "start_time": 180186,
+        "end_time": 180955,
+        "text": "nose,"
+    },
+    {
+        "index": 61,
+        "start_time": 180955,
+        "end_time": 181825,
+        "text": "and throat,"
+    },
+    {
+        "index": 62,
+        "start_time": 181825,
+        "end_time": 184727,
+        "text": "exacerbate conditions like asthma\nand emphysema,"
+    },
+    {
+        "index": 63,
+        "start_time": 184727,
+        "end_time": 189296,
+        "text": "and increase the risk \nof respiratory infections like bronchitis."
+    },
+    {
+        "index": 64,
+        "start_time": 189296,
+        "end_time": 192845,
+        "text": "Smog can be especially harmful \nto young children and older people"
+    },
+    {
+        "index": 65,
+        "start_time": 192845,
+        "end_time": 196064,
+        "text": "and exposure in pregnant women has been\nlinked to low birth weight"
+    },
+    {
+        "index": 66,
+        "start_time": 196064,
+        "end_time": 198505,
+        "text": "and potential birth defects."
+    },
+    {
+        "index": 67,
+        "start_time": 198505,
+        "end_time": 201356,
+        "text": "Secondary pollutants found \nin photochemical smog"
+    },
+    {
+        "index": 68,
+        "start_time": 201356,
+        "end_time": 204755,
+        "text": "can damage and weaken crops\nand decrease yield,"
+    },
+    {
+        "index": 69,
+        "start_time": 204755,
+        "end_time": 207825,
+        "text": "making them more susceptible to insects."
+    },
+    {
+        "index": 70,
+        "start_time": 207825,
+        "end_time": 212487,
+        "text": "Yet for decades, smog was seen\nas the inevitable price of civilization."
+    },
+    {
+        "index": 71,
+        "start_time": 212487,
+        "end_time": 216627,
+        "text": "Londoners had become accustomed to \nthe notorious pea soup fog"
+    },
+    {
+        "index": 72,
+        "start_time": 216627,
+        "end_time": 219727,
+        "text": "swirling over their streets until 1952,"
+    },
+    {
+        "index": 73,
+        "start_time": 219727,
+        "end_time": 224575,
+        "text": "when the Great Smog of London shut down\nall transportation in the city for days"
+    },
+    {
+        "index": 74,
+        "start_time": 224575,
+        "end_time": 228929,
+        "text": "and caused more \nthan 4,000 respiratory deaths."
+    },
+    {
+        "index": 75,
+        "start_time": 228929,
+        "end_time": 232387,
+        "text": "As a result, the Clean Air Act of 1956"
+    },
+    {
+        "index": 76,
+        "start_time": 232387,
+        "end_time": 235586,
+        "text": "banned burning coal in \ncertain areas of the city,"
+    },
+    {
+        "index": 77,
+        "start_time": 235586,
+        "end_time": 238554,
+        "text": "leading to a massive reduction in smog."
+    },
+    {
+        "index": 78,
+        "start_time": 238554,
+        "end_time": 242847,
+        "text": "Similarly, regulations on vehicle \nemissions and gas content in the US"
+    },
+    {
+        "index": 79,
+        "start_time": 242847,
+        "end_time": 247838,
+        "text": "reduced the volatile compounds in the air\nand smog levels along with them."
+    },
+    {
+        "index": 80,
+        "start_time": 247838,
+        "end_time": 251538,
+        "text": "Smog remains a major problem\naround the world."
+    },
+    {
+        "index": 81,
+        "start_time": 251538,
+        "end_time": 254968,
+        "text": "Countries like China and Poland that\ndepend on coal for energy"
+    },
+    {
+        "index": 82,
+        "start_time": 254968,
+        "end_time": 258178,
+        "text": "experience high levels of industrial smog."
+    },
+    {
+        "index": 83,
+        "start_time": 258178,
+        "end_time": 261617,
+        "text": "Photochemical smog and airborne particles\nfrom vehicle emissions"
+    },
+    {
+        "index": 84,
+        "start_time": 261617,
+        "end_time": 263989,
+        "text": "affect many rapidly developing cities,"
+    },
+    {
+        "index": 85,
+        "start_time": 263989,
+        "end_time": 266359,
+        "text": "from Mexico City and Santiago"
+    },
+    {
+        "index": 86,
+        "start_time": 266359,
+        "end_time": 269339,
+        "text": "to New Delhi and Tehran."
+    },
+    {
+        "index": 87,
+        "start_time": 269339,
+        "end_time": 271658,
+        "text": "Governments have tried many methods\nto tackle it,"
+    },
+    {
+        "index": 88,
+        "start_time": 271658,
+        "end_time": 276784,
+        "text": "such as banning cars from driving\nfor days at a time."
+    },
+    {
+        "index": 89,
+        "start_time": 276784,
+        "end_time": 280159,
+        "text": "As more than half of the world&#39;s \npopulation crowds into cities,"
+    },
+    {
+        "index": 90,
+        "start_time": 280159,
+        "end_time": 284110,
+        "text": "considering a shift to mass transit\nand away from fossil fuels"
+    },
+    {
+        "index": 91,
+        "start_time": 284110,
+        "end_time": 285990,
+        "text": "may allow us to breathe easier."
+    }
+]

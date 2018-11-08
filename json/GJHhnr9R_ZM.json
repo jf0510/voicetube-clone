@@ -1,0 +1,482 @@
+[
+    {
+        "index": 1,
+        "start_time": 7460,
+        "end_time": 11795,
+        "text": "What if electricity could travel forever\nwithout being diminished?"
+    },
+    {
+        "index": 2,
+        "start_time": 11795,
+        "end_time": 16708,
+        "text": "What if a computer could run exponentially\nfaster with perfect accuracy?"
+    },
+    {
+        "index": 3,
+        "start_time": 16708,
+        "end_time": 20821,
+        "text": "What technology could \nthose abilities build?"
+    },
+    {
+        "index": 4,
+        "start_time": 20821,
+        "end_time": 24401,
+        "text": "We may be able to find out thanks \nto the work of the three scientists"
+    },
+    {
+        "index": 5,
+        "start_time": 24401,
+        "end_time": 28993,
+        "text": "who won the Nobel Prize \nin Physics in 2016."
+    },
+    {
+        "index": 6,
+        "start_time": 28993,
+        "end_time": 29981,
+        "text": "David Thouless,"
+    },
+    {
+        "index": 7,
+        "start_time": 29981,
+        "end_time": 31022,
+        "text": "Duncan Haldane,"
+    },
+    {
+        "index": 8,
+        "start_time": 31022,
+        "end_time": 34210,
+        "text": "and Michael Kosterlitz won the award\nfor discovering"
+    },
+    {
+        "index": 9,
+        "start_time": 34210,
+        "end_time": 37594,
+        "text": "that even microscopic matter\nat the smallest scale"
+    },
+    {
+        "index": 10,
+        "start_time": 37594,
+        "end_time": 42842,
+        "text": "can exhibit macroscopic properties\nand phases that are topological."
+    },
+    {
+        "index": 11,
+        "start_time": 42842,
+        "end_time": 46132,
+        "text": "But what does that mean?"
+    },
+    {
+        "index": 12,
+        "start_time": 46132,
+        "end_time": 48912,
+        "text": "First of all, topology is a branch\nof mathematics"
+    },
+    {
+        "index": 13,
+        "start_time": 48912,
+        "end_time": 53093,
+        "text": "that focuses on fundamental properties\nof objects."
+    },
+    {
+        "index": 14,
+        "start_time": 53093,
+        "end_time": 58812,
+        "text": "Topological properties don&#39;t change when\nan object is gradually stretched or bent."
+    },
+    {
+        "index": 15,
+        "start_time": 58812,
+        "end_time": 63003,
+        "text": "The object has to be torn or attached\nin new places."
+    },
+    {
+        "index": 16,
+        "start_time": 63003,
+        "end_time": 66973,
+        "text": "A donut and a coffee cup look the same\nto a topologist"
+    },
+    {
+        "index": 17,
+        "start_time": 66973,
+        "end_time": 69860,
+        "text": "because they both have one hole."
+    },
+    {
+        "index": 18,
+        "start_time": 69860,
+        "end_time": 72323,
+        "text": "You could reshape a donut \ninto a coffee cup"
+    },
+    {
+        "index": 19,
+        "start_time": 72323,
+        "end_time": 74672,
+        "text": "and it would still have just one."
+    },
+    {
+        "index": 20,
+        "start_time": 74672,
+        "end_time": 78134,
+        "text": "That topological property is stable."
+    },
+    {
+        "index": 21,
+        "start_time": 78134,
+        "end_time": 81344,
+        "text": "On the other hand, \na pretzel has three holes."
+    },
+    {
+        "index": 22,
+        "start_time": 81344,
+        "end_time": 85844,
+        "text": "There are no smooth incremental changes\nthat will turn a donut into a pretzel."
+    },
+    {
+        "index": 23,
+        "start_time": 85844,
+        "end_time": 89875,
+        "text": "You&#39;d have to tear two new holes."
+    },
+    {
+        "index": 24,
+        "start_time": 89875,
+        "end_time": 93665,
+        "text": "For a long time, it wasn&#39;t clear\nwhether topology was useful"
+    },
+    {
+        "index": 25,
+        "start_time": 93665,
+        "end_time": 97164,
+        "text": "for describing the behaviors\nof subatomic particles."
+    },
+    {
+        "index": 26,
+        "start_time": 97164,
+        "end_time": 100424,
+        "text": "That&#39;s because particles,\nlike electrons and photons,"
+    },
+    {
+        "index": 27,
+        "start_time": 100424,
+        "end_time": 104225,
+        "text": "are subject to the strange laws\nof quantum physics,"
+    },
+    {
+        "index": 28,
+        "start_time": 104225,
+        "end_time": 106512,
+        "text": "which involve a great deal of uncertainty"
+    },
+    {
+        "index": 29,
+        "start_time": 106512,
+        "end_time": 111392,
+        "text": "that we don&#39;t see \nat the scale of coffee cups."
+    },
+    {
+        "index": 30,
+        "start_time": 111392,
+        "end_time": 114733,
+        "text": "But the Nobel Laureates discovered\nthat topological properties"
+    },
+    {
+        "index": 31,
+        "start_time": 114733,
+        "end_time": 117722,
+        "text": "do exist at the quantum level."
+    },
+    {
+        "index": 32,
+        "start_time": 117722,
+        "end_time": 120993,
+        "text": "And that discovery may revolutionize\nmaterials science,"
+    },
+    {
+        "index": 33,
+        "start_time": 120993,
+        "end_time": 122723,
+        "text": "electronic engineering,"
+    },
+    {
+        "index": 34,
+        "start_time": 122723,
+        "end_time": 125073,
+        "text": "and computer science."
+    },
+    {
+        "index": 35,
+        "start_time": 125073,
+        "end_time": 128372,
+        "text": "That&#39;s because these properties\nlend surprising stability"
+    },
+    {
+        "index": 36,
+        "start_time": 128372,
+        "end_time": 132694,
+        "text": "and remarkable characteristics\nto some exotic phases of matter"
+    },
+    {
+        "index": 37,
+        "start_time": 132694,
+        "end_time": 136903,
+        "text": "in the delicate quantum world."
+    },
+    {
+        "index": 38,
+        "start_time": 136903,
+        "end_time": 140033,
+        "text": "One example is called \na topological insulator."
+    },
+    {
+        "index": 39,
+        "start_time": 140033,
+        "end_time": 142365,
+        "text": "Imagine a film of electrons."
+    },
+    {
+        "index": 40,
+        "start_time": 142365,
+        "end_time": 145244,
+        "text": "If a strong enough magnetic field\npasses through them,"
+    },
+    {
+        "index": 41,
+        "start_time": 145244,
+        "end_time": 148695,
+        "text": "each electron will start traveling\nin a circle,"
+    },
+    {
+        "index": 42,
+        "start_time": 148695,
+        "end_time": 151316,
+        "text": "which is called\na closed orbit."
+    },
+    {
+        "index": 43,
+        "start_time": 151316,
+        "end_time": 153905,
+        "text": "Because the electrons are stuck\nin these loops,"
+    },
+    {
+        "index": 44,
+        "start_time": 153905,
+        "end_time": 156753,
+        "text": "they&#39;re not conducting electricity."
+    },
+    {
+        "index": 45,
+        "start_time": 156753,
+        "end_time": 158303,
+        "text": "But at the edge of the material,"
+    },
+    {
+        "index": 46,
+        "start_time": 158303,
+        "end_time": 163765,
+        "text": "the orbits become open, connected,\nand they all point in the same direction."
+    },
+    {
+        "index": 47,
+        "start_time": 163765,
+        "end_time": 167285,
+        "text": "So electrons can jump\nfrom one orbit to the next"
+    },
+    {
+        "index": 48,
+        "start_time": 167285,
+        "end_time": 170735,
+        "text": "and travel all the way around the edge."
+    },
+    {
+        "index": 49,
+        "start_time": 170735,
+        "end_time": 174265,
+        "text": "This means that the material\nconducts electricity around the edge"
+    },
+    {
+        "index": 50,
+        "start_time": 174265,
+        "end_time": 176186,
+        "text": "but not in the middle."
+    },
+    {
+        "index": 51,
+        "start_time": 176186,
+        "end_time": 178465,
+        "text": "Here&#39;s where topology comes in."
+    },
+    {
+        "index": 52,
+        "start_time": 178465,
+        "end_time": 182814,
+        "text": "This conductivity isn&#39;t affected\nby small changes in the material,"
+    },
+    {
+        "index": 53,
+        "start_time": 182814,
+        "end_time": 185775,
+        "text": "like impurities or imperfections."
+    },
+    {
+        "index": 54,
+        "start_time": 185775,
+        "end_time": 188345,
+        "text": "That&#39;s just like how the hole\nin the coffee cup"
+    },
+    {
+        "index": 55,
+        "start_time": 188345,
+        "end_time": 191615,
+        "text": "isn&#39;t changed by stretching it out."
+    },
+    {
+        "index": 56,
+        "start_time": 191615,
+        "end_time": 196335,
+        "text": "The edge of such a topological insulator\nhas perfect electron transport:"
+    },
+    {
+        "index": 57,
+        "start_time": 196335,
+        "end_time": 198366,
+        "text": "no electrons travel backward,"
+    },
+    {
+        "index": 58,
+        "start_time": 198366,
+        "end_time": 200635,
+        "text": "no energy is lost as heat,"
+    },
+    {
+        "index": 59,
+        "start_time": 200635,
+        "end_time": 205273,
+        "text": "and the number of conducting pathways\ncan even be controlled."
+    },
+    {
+        "index": 60,
+        "start_time": 205273,
+        "end_time": 207864,
+        "text": "The electronics of the future \ncould be built"
+    },
+    {
+        "index": 61,
+        "start_time": 207864,
+        "end_time": 213015,
+        "text": "to use this perfectly efficient\nelectron highway."
+    },
+    {
+        "index": 62,
+        "start_time": 213015,
+        "end_time": 215896,
+        "text": "The topological properties \nof subatomic particles"
+    },
+    {
+        "index": 63,
+        "start_time": 215896,
+        "end_time": 219676,
+        "text": "could also transform quantum computing."
+    },
+    {
+        "index": 64,
+        "start_time": 219676,
+        "end_time": 221697,
+        "text": "Quantum computers \ntake advantage of the fact"
+    },
+    {
+        "index": 65,
+        "start_time": 221697,
+        "end_time": 226396,
+        "text": "that subatomic particles can be \nin different states at the same time"
+    },
+    {
+        "index": 66,
+        "start_time": 226396,
+        "end_time": 230108,
+        "text": "to store information in something\ncalled qubits."
+    },
+    {
+        "index": 67,
+        "start_time": 230108,
+        "end_time": 233257,
+        "text": "These qubits can solve problems\nexponentially faster"
+    },
+    {
+        "index": 68,
+        "start_time": 233257,
+        "end_time": 236487,
+        "text": "than classical digital computers."
+    },
+    {
+        "index": 69,
+        "start_time": 236487,
+        "end_time": 239027,
+        "text": "The problem is that this data\nis so delicate"
+    },
+    {
+        "index": 70,
+        "start_time": 239027,
+        "end_time": 242523,
+        "text": "that interaction with the environment\ncan destroy it."
+    },
+    {
+        "index": 71,
+        "start_time": 242523,
+        "end_time": 245285,
+        "text": "But in some exotic topological phases,"
+    },
+    {
+        "index": 72,
+        "start_time": 245285,
+        "end_time": 248733,
+        "text": "the subatomic particles \ncan become protected."
+    },
+    {
+        "index": 73,
+        "start_time": 248733,
+        "end_time": 251013,
+        "text": "In other words, the qubits formed by them"
+    },
+    {
+        "index": 74,
+        "start_time": 251013,
+        "end_time": 254762,
+        "text": "can&#39;t be changed by small \nor local disturbances."
+    },
+    {
+        "index": 75,
+        "start_time": 254762,
+        "end_time": 258378,
+        "text": "These topological qubits \nwould be more stable,"
+    },
+    {
+        "index": 76,
+        "start_time": 258378,
+        "end_time": 263447,
+        "text": "leading to more accurate computation\nand a better quantum computer."
+    },
+    {
+        "index": 77,
+        "start_time": 263447,
+        "end_time": 269547,
+        "text": "Topology was originally studied as\na branch of purely abstract mathematics."
+    },
+    {
+        "index": 78,
+        "start_time": 269547,
+        "end_time": 274068,
+        "text": "Thanks to the pioneering work\nof Thouless, Haldane, and Kosterlitz,"
+    },
+    {
+        "index": 79,
+        "start_time": 274068,
+        "end_time": 277908,
+        "text": "we now know it can be used to understand\nthe riddles of nature"
+    },
+    {
+        "index": 80,
+        "start_time": 277908,
+        "end_time": 281178,
+        "text": "and to revolutionize \nthe future of technologies."
+    }
+]

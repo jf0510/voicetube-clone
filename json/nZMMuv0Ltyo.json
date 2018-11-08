@@ -1,0 +1,350 @@
+[
+  {
+    "end_time": 3540,
+    "index": 1,
+    "start_time": 1200,
+    "text": "In the Northern Hemisphere, December has the fewest"
+  },
+  {
+    "end_time": 6120,
+    "index": 2,
+    "start_time": 3540,
+    "text": "hours of daylight and the most darkness because at that"
+  },
+  {
+    "end_time": 8260,
+    "index": 3,
+    "start_time": 6120,
+    "text": "time the tilt of the Earth&#39;s axis is pointing the Northern"
+  },
+  {
+    "end_time": 10500,
+    "index": 4,
+    "start_time": 8260,
+    "text": "Hemisphere away from the Sun. However, as"
+  },
+  {
+    "end_time": 12900,
+    "index": 5,
+    "start_time": 10500,
+    "text": "counter-intuitive as it might sound, December actually"
+  },
+  {
+    "end_time": 16060,
+    "index": 6,
+    "start_time": 12900,
+    "text": "has the longest days of the year. Modern clocks,"
+  },
+  {
+    "end_time": 19680,
+    "index": 7,
+    "start_time": 16059,
+    "text": "of course, think every day is 86,400 seconds long,"
+  },
+  {
+    "end_time": 22400,
+    "index": 8,
+    "start_time": 19680,
+    "text": "but that just the average length of a solar day over the"
+  },
+  {
+    "end_time": 24799,
+    "index": 9,
+    "start_time": 22400,
+    "text": "course of the year. A solar day is what you actually"
+  },
+  {
+    "end_time": 27140,
+    "index": 10,
+    "start_time": 24800,
+    "text": "measure with a sundial, or equivalently it&#39;s the time it"
+  },
+  {
+    "end_time": 29600,
+    "index": 11,
+    "start_time": 27140,
+    "text": "takes for a line of longitude on the Earth to rotate back"
+  },
+  {
+    "end_time": 32180,
+    "index": 12,
+    "start_time": 29600,
+    "text": "to face the Sun again. This actually requires slightly"
+  },
+  {
+    "end_time": 34840,
+    "index": 13,
+    "start_time": 32180,
+    "text": "more than 360 degrees of rotation because the Earth"
+  },
+  {
+    "end_time": 37360,
+    "index": 14,
+    "start_time": 34840,
+    "text": "isn&#39;t just sitting in space rotating, it&#39;s also moving"
+  },
+  {
+    "end_time": 41019,
+    "index": 15,
+    "start_time": 37360,
+    "text": "around the Sun so it has to rotate roughly 361 degrees"
+  },
+  {
+    "end_time": 43140,
+    "index": 16,
+    "start_time": 41020,
+    "text": "before the Sun comes back perfectly overhead a"
+  },
+  {
+    "end_time": 46220,
+    "index": 17,
+    "start_time": 43140,
+    "text": "particular place on consecutive days. If the Earth&#39;s orbit"
+  },
+  {
+    "end_time": 48460,
+    "index": 18,
+    "start_time": 46220,
+    "text": "were perfectly circular and its axis were perfectly"
+  },
+  {
+    "end_time": 51020,
+    "index": 19,
+    "start_time": 48460,
+    "text": "upright, that would be the end of the story. However, the"
+  },
+  {
+    "end_time": 53560,
+    "index": 20,
+    "start_time": 51020,
+    "text": "Earth&#39;s orbit is elliptical, so sometimes the Earth is"
+  },
+  {
+    "end_time": 56780,
+    "index": 21,
+    "start_time": 53560,
+    "text": "slightly closer to the Sun, and the peculiarities of gravity"
+  },
+  {
+    "end_time": 59400,
+    "index": 22,
+    "start_time": 56780,
+    "text": "mean it moves faster when it&#39;s closer to the Sun, so it"
+  },
+  {
+    "end_time": 63160,
+    "index": 23,
+    "start_time": 59400,
+    "text": "goes farther around the Sun in 24 hours so the Earth has"
+  },
+  {
+    "end_time": 65800,
+    "index": 24,
+    "start_time": 63160,
+    "text": "to rotate slightly farther before the Sun comes back"
+  },
+  {
+    "end_time": 69880,
+    "index": 25,
+    "start_time": 65800,
+    "text": "right overhead. 0.033 degrees farther, to be precise."
+  },
+  {
+    "end_time": 73240,
+    "index": 26,
+    "start_time": 69880,
+    "text": "More rotation takes more time, so when the Earth is"
+  },
+  {
+    "end_time": 76140,
+    "index": 27,
+    "start_time": 73240,
+    "text": "closest to the Sun, the real sundail measured day length"
+  },
+  {
+    "end_time": 78720,
+    "index": 28,
+    "start_time": 76140,
+    "text": "is lengthened by about eight seconds. Plus the Earth&#39;s"
+  },
+  {
+    "end_time": 81260,
+    "index": 29,
+    "start_time": 78720,
+    "text": "axis is tilted, which is what gives rise to the seasons,"
+  },
+  {
+    "end_time": 83500,
+    "index": 30,
+    "start_time": 81260,
+    "text": "but also means that at the time of year when the tilt"
+  },
+  {
+    "end_time": 86700,
+    "index": 31,
+    "start_time": 83500,
+    "text": "points towards or away from the sun, narrower slices of"
+  },
+  {
+    "end_time": 89760,
+    "index": 32,
+    "start_time": 86700,
+    "text": "longitude are aimed directly at the sun. So as the Earth"
+  },
+  {
+    "end_time": 92840,
+    "index": 33,
+    "start_time": 89760,
+    "text": "moves in its orbit, it has to rotate slightly farther in order"
+  },
+  {
+    "end_time": 95300,
+    "index": 34,
+    "start_time": 92840,
+    "text": "for a particular line of longitude to catch up with the"
+  },
+  {
+    "end_time": 99520,
+    "index": 35,
+    "start_time": 95300,
+    "text": "changing direction to the Sun. 0.088 degrees farther, to"
+  },
+  {
+    "end_time": 103200,
+    "index": 36,
+    "start_time": 99520,
+    "text": "be precise. And again more rotation takes more time, so"
+  },
+  {
+    "end_time": 106240,
+    "index": 37,
+    "start_time": 103200,
+    "text": "when the Earth is tilted towards the Sun, the real sundial"
+  },
+  {
+    "end_time": 108539,
+    "index": 38,
+    "start_time": 106240,
+    "text": "measured day length is lengthened by about 21"
+  },
+  {
+    "end_time": 111680,
+    "index": 39,
+    "start_time": 108540,
+    "text": "seconds. Now by a strange coincidence, we live during"
+  },
+  {
+    "end_time": 113960,
+    "index": 40,
+    "start_time": 111680,
+    "text": "a time in geologic history when the Earth&#39;s closest"
+  },
+  {
+    "end_time": 116080,
+    "index": 41,
+    "start_time": 113960,
+    "text": "approach to the Sun happens almost perfectly to"
+  },
+  {
+    "end_time": 118140,
+    "index": 42,
+    "start_time": 116080,
+    "text": "coincide with one of the two times of year when the"
+  },
+  {
+    "end_time": 120940,
+    "index": 43,
+    "start_time": 118140,
+    "text": "Earth&#39;s tilt is oriented directly towards the Sun. So these"
+  },
+  {
+    "end_time": 123860,
+    "index": 44,
+    "start_time": 120940,
+    "text": "two day lengthening effects add up. And on December"
+  },
+  {
+    "end_time": 127000,
+    "index": 45,
+    "start_time": 123860,
+    "text": "22nd, the length of a solar day as measured by a sundial"
+  },
+  {
+    "end_time": 131760,
+    "index": 46,
+    "start_time": 127000,
+    "text": "will be the longest it is all year. 8643 seconds, for a"
+  },
+  {
+    "end_time": 134620,
+    "index": 47,
+    "start_time": 131760,
+    "text": "grand total of 30 extra seconds."
+  },
+  {
+    "end_time": 138980,
+    "index": 48,
+    "start_time": 136820,
+    "text": "Oh, and in case you&#39;re wondering where those 30 extra"
+  },
+  {
+    "end_time": 141720,
+    "index": 49,
+    "start_time": 138980,
+    "text": "extra seconds on December 22nd go, well they get"
+  },
+  {
+    "end_time": 144400,
+    "index": 50,
+    "start_time": 141720,
+    "text": "pushed into December 23rd, and the extra seconds from"
+  },
+  {
+    "end_time": 147280,
+    "index": 51,
+    "start_time": 144400,
+    "text": "the 23rd get pushed into the 24th, and so on which is"
+  },
+  {
+    "end_time": 149800,
+    "index": 52,
+    "start_time": 147280,
+    "text": "why solar noon, or the time which the Sun is directly"
+  },
+  {
+    "end_time": 152520,
+    "index": 53,
+    "start_time": 149800,
+    "text": "overhead, shifts about 30 seconds later every day"
+  },
+  {
+    "end_time": 155380,
+    "index": 54,
+    "start_time": 152520,
+    "text": "around the solstice. This increasing disparity between"
+  },
+  {
+    "end_time": 158500,
+    "index": 55,
+    "start_time": 155380,
+    "text": "solar time and clock time is also why, in the Northern"
+  },
+  {
+    "end_time": 161000,
+    "index": 56,
+    "start_time": 158500,
+    "text": "Hemisphere, the earliest sunset happens a few weeks"
+  },
+  {
+    "end_time": 163580,
+    "index": 57,
+    "start_time": 161000,
+    "text": "before the solstice, and the latest sunrise happens a"
+  },
+  {
+    "end_time": 164620,
+    "index": 58,
+    "start_time": 163580,
+    "text": "few weeks after."
+  }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "index": 1,
+        "start_time": 17479,
+        "end_time": 20063,
+        "text": "&quot;Hey, another atom.\nI&#39;m hydrogen, nice to meet you."
+    },
+    {
+        "index": 2,
+        "start_time": 20063,
+        "end_time": 22033,
+        "text": "How are you feeling about the jump?&quot;"
+    },
+    {
+        "index": 3,
+        "start_time": 22033,
+        "end_time": 24955,
+        "text": "&quot;Hi there, I&#39;m antihydrogen,\nyour antiatom,"
+    },
+    {
+        "index": 4,
+        "start_time": 24955,
+        "end_time": 27119,
+        "text": "and to be honest, I&#39;m feeling\nkind of neutral."
+    },
+    {
+        "index": 5,
+        "start_time": 27119,
+        "end_time": 31509,
+        "text": "My positron and antiproton balance out,\njust like your electron and proton, right?&quot;"
+    },
+    {
+        "index": 6,
+        "start_time": 31509,
+        "end_time": 34504,
+        "text": "&quot;Hey, yeah! You look just like me,\nbut different somehow.&quot;"
+    },
+    {
+        "index": 7,
+        "start_time": 34504,
+        "end_time": 38498,
+        "text": "&quot;Whoa, be careful! If we get too close,\nwe&#39;ll disappear in a spark of energy."
+    },
+    {
+        "index": 8,
+        "start_time": 38498,
+        "end_time": 40256,
+        "text": "I&#39;d like to stay in one piece.&quot;"
+    },
+    {
+        "index": 9,
+        "start_time": 40256,
+        "end_time": 41403,
+        "text": "&quot;Oh wow, sorry.&quot;"
+    },
+    {
+        "index": 10,
+        "start_time": 41403,
+        "end_time": 43102,
+        "text": "&quot;It&#39;s okay. I was just thinking,"
+    },
+    {
+        "index": 11,
+        "start_time": 43102,
+        "end_time": 44081,
+        "text": "it&#39;s kind of weird for us to be"
+    },
+    {
+        "index": 12,
+        "start_time": 44081,
+        "end_time": 46502,
+        "text": "chatting like this before our \njump above CERN.&quot;"
+    },
+    {
+        "index": 13,
+        "start_time": 46502,
+        "end_time": 47486,
+        "text": "&quot;Why&#39;s that?&quot;"
+    },
+    {
+        "index": 14,
+        "start_time": 47486,
+        "end_time": 50010,
+        "text": "&quot;Well, for starters, how do we know\nwe&#39;ll both fall?&quot;"
+    },
+    {
+        "index": 15,
+        "start_time": 50010,
+        "end_time": 51821,
+        "text": "&quot;Of course we&#39;ll fall. It&#39;s gravity,"
+    },
+    {
+        "index": 16,
+        "start_time": 51821,
+        "end_time": 54224,
+        "text": "you know, the force of attraction \nbetween masses."
+    },
+    {
+        "index": 17,
+        "start_time": 54224,
+        "end_time": 56012,
+        "text": "I even know how fast we should fall."
+    },
+    {
+        "index": 18,
+        "start_time": 56012,
+        "end_time": 58350,
+        "text": "Galileo showed in that tower experiment"
+    },
+    {
+        "index": 19,
+        "start_time": 58350,
+        "end_time": 62736,
+        "text": "that all falling objects accelerate \nat the same rate, regardless of mass.&quot;"
+    },
+    {
+        "index": 20,
+        "start_time": 62736,
+        "end_time": 64535,
+        "text": "&quot;That&#39;s for bigger objects."
+    },
+    {
+        "index": 21,
+        "start_time": 64535,
+        "end_time": 67682,
+        "text": "It&#39;s a different story \nfor small particles like us."
+    },
+    {
+        "index": 22,
+        "start_time": 67682,
+        "end_time": 71818,
+        "text": "Our mass is so tiny that the gravitational\nforce we experience is miniscule,"
+    },
+    {
+        "index": 23,
+        "start_time": 71818,
+        "end_time": 76526,
+        "text": "and if the particles are charged, \nlike my antiproton or your proton,"
+    },
+    {
+        "index": 24,
+        "start_time": 76526,
+        "end_time": 78697,
+        "text": "then it becomes impossible to detect"
+    },
+    {
+        "index": 25,
+        "start_time": 78697,
+        "end_time": 82199,
+        "text": "compared to the much greater\nelectromagnetic force acting on them.&quot;"
+    },
+    {
+        "index": 26,
+        "start_time": 82199,
+        "end_time": 85468,
+        "text": "&quot;But that&#39;s only for charged particles.\nYou and I are both neutral."
+    },
+    {
+        "index": 27,
+        "start_time": 85468,
+        "end_time": 89029,
+        "text": "Our charges balance out,\nso the electromagnetic force is small"
+    },
+    {
+        "index": 28,
+        "start_time": 89029,
+        "end_time": 91368,
+        "text": "and the gravitational force\nshould be detectable."
+    },
+    {
+        "index": 29,
+        "start_time": 91368,
+        "end_time": 92921,
+        "text": "I know mine&#39;s been measured.&quot;"
+    },
+    {
+        "index": 30,
+        "start_time": 92921,
+        "end_time": 96019,
+        "text": "&quot;Because you&#39;re everywhere, \nbut I&#39;m kind of hard to find.&quot;"
+    },
+    {
+        "index": 31,
+        "start_time": 96019,
+        "end_time": 97757,
+        "text": "&quot;Why is that, anyway?"
+    },
+    {
+        "index": 32,
+        "start_time": 97757,
+        "end_time": 98977,
+        "text": "Shouldn&#39;t there have been an equal amount"
+    },
+    {
+        "index": 33,
+        "start_time": 98977,
+        "end_time": 101359,
+        "text": "of matter and antimatter created\nin the Big Bang?&quot;"
+    },
+    {
+        "index": 34,
+        "start_time": 101359,
+        "end_time": 103845,
+        "text": "&quot;You&#39;d think so, but then all of\nthose particles"
+    },
+    {
+        "index": 35,
+        "start_time": 103845,
+        "end_time": 106833,
+        "text": "would have annihilated \neach other into energy, remember?"
+    },
+    {
+        "index": 36,
+        "start_time": 106833,
+        "end_time": 109284,
+        "text": "And the Universe is obviously\nfull of matter."
+    },
+    {
+        "index": 37,
+        "start_time": 109284,
+        "end_time": 112304,
+        "text": "No one knows why there is more matter\nthan antimatter,"
+    },
+    {
+        "index": 38,
+        "start_time": 112304,
+        "end_time": 115088,
+        "text": "which is why scientists\nare so interested in studying me.&quot;"
+    },
+    {
+        "index": 39,
+        "start_time": 115088,
+        "end_time": 116924,
+        "text": "&quot;So where do they find you anyway?&quot;"
+    },
+    {
+        "index": 40,
+        "start_time": 116924,
+        "end_time": 119200,
+        "text": "&quot;Actually, I was made in that \nlab down there."
+    },
+    {
+        "index": 41,
+        "start_time": 119200,
+        "end_time": 123875,
+        "text": "They needed an accelerator to make\nmy antiproton because it&#39;s so heavy,"
+    },
+    {
+        "index": 42,
+        "start_time": 123875,
+        "end_time": 125487,
+        "text": "just as heavy as your proton."
+    },
+    {
+        "index": 43,
+        "start_time": 125487,
+        "end_time": 127329,
+        "text": "Getting my positron was easier."
+    },
+    {
+        "index": 44,
+        "start_time": 127329,
+        "end_time": 130230,
+        "text": "It&#39;s much lighter, like your electron,\nand there are materials"
+    },
+    {
+        "index": 45,
+        "start_time": 130230,
+        "end_time": 132732,
+        "text": "that naturally decay by emitting one."
+    },
+    {
+        "index": 46,
+        "start_time": 132732,
+        "end_time": 135494,
+        "text": "Then they just had to put the two together\nand they got me."
+    },
+    {
+        "index": 47,
+        "start_time": 135494,
+        "end_time": 136558,
+        "text": "But it&#39;s only recently"
+    },
+    {
+        "index": 48,
+        "start_time": 136558,
+        "end_time": 138042,
+        "text": "that they&#39;ve been able to keep me"
+    },
+    {
+        "index": 49,
+        "start_time": 138042,
+        "end_time": 140306,
+        "text": "around long enough\nto study my properties.&quot;"
+    },
+    {
+        "index": 50,
+        "start_time": 140306,
+        "end_time": 144305,
+        "text": "&quot;And now they&#39;ve sent you on this\njump with me. Hey, wait a minute.&quot;"
+    },
+    {
+        "index": 51,
+        "start_time": 144305,
+        "end_time": 148041,
+        "text": "&quot;That&#39;s right. We&#39;re reenacting\nGalileo&#39;s experiment,"
+    },
+    {
+        "index": 52,
+        "start_time": 148041,
+        "end_time": 151901,
+        "text": "but with matter and antimatter\ninstead of two objects made of matter.&quot;"
+    },
+    {
+        "index": 53,
+        "start_time": 151901,
+        "end_time": 153356,
+        "text": "&quot;So what&#39;s going to happen?"
+    },
+    {
+        "index": 54,
+        "start_time": 153356,
+        "end_time": 155101,
+        "text": "Are you going to fall \nupwards or something?&quot;"
+    },
+    {
+        "index": 55,
+        "start_time": 155101,
+        "end_time": 156578,
+        "text": "&quot;Only one way to find out!&quot;"
+    }
+]

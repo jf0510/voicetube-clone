@@ -1,0 +1,200 @@
+[
+  {
+    "end_time": 8040,
+    "index": 1,
+    "start_time": 2560,
+    "text": "So, I have this problem. When I plug my laptop\ncharger into an outlet, that weird box between"
+  },
+  {
+    "end_time": 12469,
+    "index": 2,
+    "start_time": 8039,
+    "text": "the plug and the part where it connects to\nmy computer, it gets super hot, like I can\u2019t"
+  },
+  {
+    "end_time": 16268,
+    "index": 3,
+    "start_time": 12469,
+    "text": "even touch it.\nSo, I\u2019ve invited Audrey Quinn from NPR\u2019s"
+  },
+  {
+    "end_time": 20819,
+    "index": 4,
+    "start_time": 16268,
+    "text": "Planet Money team to help explain what\u2019s\ngoing on with my super-hot laptop charger."
+  },
+  {
+    "end_time": 24619,
+    "index": 5,
+    "start_time": 20819,
+    "text": "So, Audrey, what\u2019s the deal?\nQUINN: &quot;The first thing you have to understand is"
+  },
+  {
+    "end_time": 29509,
+    "index": 6,
+    "start_time": 24619,
+    "text": "that the kind of power that comes out of your\nwall is actually different from the kind of"
+  },
+  {
+    "end_time": 34280,
+    "index": 7,
+    "start_time": 29509,
+    "text": "power that your electronics want.\nIt comes out in the form of alternating current"
+  },
+  {
+    "end_time": 38899,
+    "index": 8,
+    "start_time": 34280,
+    "text": "electricity. That means the electrons are pulsing\nback and forth"
+  },
+  {
+    "end_time": 43649,
+    "index": 9,
+    "start_time": 38899,
+    "text": "And your electronics want what\u2019s called\ndirect current power, that\u2019s where the electrons"
+  },
+  {
+    "end_time": 47550,
+    "index": 10,
+    "start_time": 43649,
+    "text": "are flowing straight like a river\nSo, they have to convert it. And \u00a0when they"
+  },
+  {
+    "end_time": 52800,
+    "index": 11,
+    "start_time": 47550,
+    "text": "do that conversion is energy is wasted, so\nwhat you\u2019re feeling is energy lost in the"
+  },
+  {
+    "end_time": 57980,
+    "index": 12,
+    "start_time": 52800,
+    "text": "form of heat.&quot;\nOkay, so, why can\u2019t I just alternating current?"
+  },
+  {
+    "end_time": 61699,
+    "index": 13,
+    "start_time": 57980,
+    "text": "If that\u2019s coming out of the wall?\nQUINN: &quot;Yeah, that works just fine for things like"
+  },
+  {
+    "end_time": 65149,
+    "index": 14,
+    "start_time": 61699,
+    "text": "lightbulbs or a hairdryer, but electronics\nare a little more complicated.----"
+  },
+  {
+    "end_time": 70070,
+    "index": 15,
+    "start_time": 65149,
+    "text": "If you were to send that alternating current\ndirectly to your laptop, you\u2019d probably"
+  },
+  {
+    "end_time": 73210,
+    "index": 16,
+    "start_time": 70070,
+    "text": "see a puff of blue smoke.&quot; \nOh god, that sounds bad."
+  },
+  {
+    "end_time": 78679,
+    "index": 17,
+    "start_time": 73210,
+    "text": "Okay, so, if DC power is so great, why don\u2019t\nwe just have it in our houses in the first"
+  },
+  {
+    "end_time": 82670,
+    "index": 18,
+    "start_time": 78680,
+    "text": "place? \u00a0\nThis goes back to the late 1800s. There were"
+  },
+  {
+    "end_time": 85490,
+    "index": 19,
+    "start_time": 82670,
+    "text": "two guys who represented the two different\nkinds of power."
+  },
+  {
+    "end_time": 91509,
+    "index": 20,
+    "start_time": 85490,
+    "text": "There was Thomas Edison, he was all about\nDC power, and then there\u2019s Nikola Tesla,"
+  },
+  {
+    "end_time": 95530,
+    "index": 21,
+    "start_time": 91509,
+    "text": "he\u2019s your AC guy.\nThey\u2019re totally duking it out. Every time"
+  },
+  {
+    "end_time": 99689,
+    "index": 22,
+    "start_time": 95530,
+    "text": "a new building goes in, it\u2019s kind of this\n&#39;oh, what\u2019s going to happen? Are they"
+  },
+  {
+    "end_time": 104490,
+    "index": 23,
+    "start_time": 99689,
+    "text": "going to use AC or DC?&#39;\nWhat happens eventually is that AC power is"
+  },
+  {
+    "end_time": 110359,
+    "index": 24,
+    "start_time": 104490,
+    "text": "much better at traveling long distances.\nSo, ultimately, the entire power grid gets"
+  },
+  {
+    "end_time": 114500,
+    "index": 25,
+    "start_time": 110360,
+    "text": "set up to spread AC power.&quot;\nBut today we have all of these devices."
+  },
+  {
+    "end_time": 118840,
+    "index": 26,
+    "start_time": 115000,
+    "text": "We have smartphones, we have electric cars, we have tablets, we have computers,"
+  },
+  {
+    "end_time": 124140,
+    "index": 27,
+    "start_time": 118900,
+    "text": "and all these things are hungry for DC power. Do you think we could ever switch back"
+  },
+  {
+    "end_time": 125840,
+    "index": 28,
+    "start_time": 124140,
+    "text": "and maybe realize Edison\u2019s original dream"
+  },
+  {
+    "end_time": 129920,
+    "index": 29,
+    "start_time": 125840,
+    "text": "of DC power in every home?\nQUINN: &quot;The US has one of the best, most reliable"
+  },
+  {
+    "end_time": 134519,
+    "index": 30,
+    "start_time": 129919,
+    "text": "power grids in the world, so people aren\u2019t\nsaying &#39;let\u2019s knock out this entire grid.&#39;"
+  },
+  {
+    "end_time": 138860,
+    "index": 31,
+    "start_time": 134520,
+    "text": "You could just have one converter box in your\nhouse, and that way you\u2019re not converting"
+  },
+  {
+    "end_time": 144580,
+    "index": 32,
+    "start_time": 138860,
+    "text": "AC to DC at the level of every single device.&quot;\nSo, if we can reduce the number of conversions"
+  },
+  {
+    "end_time": 149279,
+    "index": 33,
+    "start_time": 144640,
+    "text": "from AC power to DC power, even a little bit, we\u2019re going to save a lot of energy."
+  }
+]

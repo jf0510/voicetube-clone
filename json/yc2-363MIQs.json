@@ -1,0 +1,380 @@
+[
+    {
+        "index": 1,
+        "start_time": 9301,
+        "end_time": 12791,
+        "text": "It can strike without warning,\nat any moment."
+    },
+    {
+        "index": 2,
+        "start_time": 12791,
+        "end_time": 16144,
+        "text": "You may be walking across a soft carpet\nand reaching for the door knob"
+    },
+    {
+        "index": 3,
+        "start_time": 16144,
+        "end_time": 18746,
+        "text": "when suddenly...zap!"
+    },
+    {
+        "index": 4,
+        "start_time": 18746,
+        "end_time": 20831,
+        "text": "To understand static electricity,"
+    },
+    {
+        "index": 5,
+        "start_time": 20831,
+        "end_time": 24049,
+        "text": "we first need to know a bit\nabout the nature of matter."
+    },
+    {
+        "index": 6,
+        "start_time": 24049,
+        "end_time": 25846,
+        "text": "All matter is made up of atoms"
+    },
+    {
+        "index": 7,
+        "start_time": 25846,
+        "end_time": 28897,
+        "text": "that consist of three \ntypes of smaller particles:"
+    },
+    {
+        "index": 8,
+        "start_time": 28897,
+        "end_time": 31085,
+        "text": "negatively charged electrons,"
+    },
+    {
+        "index": 9,
+        "start_time": 31085,
+        "end_time": 33433,
+        "text": "positively charged protons,"
+    },
+    {
+        "index": 10,
+        "start_time": 33433,
+        "end_time": 35589,
+        "text": "and neutral neutrons."
+    },
+    {
+        "index": 11,
+        "start_time": 35589,
+        "end_time": 39694,
+        "text": "Normally, the electrons and protons\nin an atom balance out,"
+    },
+    {
+        "index": 12,
+        "start_time": 39694,
+        "end_time": 44261,
+        "text": "which is why most matter you come across\nis electrically neutral."
+    },
+    {
+        "index": 13,
+        "start_time": 44261,
+        "end_time": 48092,
+        "text": "But electrons are tiny \nand almost insignificant in mass,"
+    },
+    {
+        "index": 14,
+        "start_time": 48092,
+        "end_time": 51425,
+        "text": "and rubbing or friction can give\nloosely bound electrons"
+    },
+    {
+        "index": 15,
+        "start_time": 51425,
+        "end_time": 55059,
+        "text": "enough energy to leave their atoms\nand attach to others,"
+    },
+    {
+        "index": 16,
+        "start_time": 55059,
+        "end_time": 57598,
+        "text": "migrating between different surfaces."
+    },
+    {
+        "index": 17,
+        "start_time": 57598,
+        "end_time": 58791,
+        "text": "When this happens,"
+    },
+    {
+        "index": 18,
+        "start_time": 58791,
+        "end_time": 62384,
+        "text": "the first object is left \nwith more protons than electrons"
+    },
+    {
+        "index": 19,
+        "start_time": 62384,
+        "end_time": 65213,
+        "text": "and becomes positively charged,"
+    },
+    {
+        "index": 20,
+        "start_time": 65213,
+        "end_time": 69386,
+        "text": "while the one with more electrons\naccumulates a negative charge."
+    },
+    {
+        "index": 21,
+        "start_time": 69386,
+        "end_time": 72285,
+        "text": "This situation is called\na charge imbalance,"
+    },
+    {
+        "index": 22,
+        "start_time": 72285,
+        "end_time": 75239,
+        "text": "or net charge separation."
+    },
+    {
+        "index": 23,
+        "start_time": 75239,
+        "end_time": 77611,
+        "text": "But nature tends towards balance,"
+    },
+    {
+        "index": 24,
+        "start_time": 77611,
+        "end_time": 82915,
+        "text": "so when one of these newly charged bodies\ncomes into contact with another material,"
+    },
+    {
+        "index": 25,
+        "start_time": 82915,
+        "end_time": 86123,
+        "text": "the mobile electrons \nwill take the first chance they get"
+    },
+    {
+        "index": 26,
+        "start_time": 86123,
+        "end_time": 88119,
+        "text": "to go where they&#39;re most needed,"
+    },
+    {
+        "index": 27,
+        "start_time": 88119,
+        "end_time": 90564,
+        "text": "either jumping off the negatively\ncharged object,"
+    },
+    {
+        "index": 28,
+        "start_time": 90564,
+        "end_time": 93734,
+        "text": "or jumping onto \nthe positively charged one"
+    },
+    {
+        "index": 29,
+        "start_time": 93734,
+        "end_time": 97654,
+        "text": "in an attempt to restore \nthe neutral charge equilibrium."
+    },
+    {
+        "index": 30,
+        "start_time": 97654,
+        "end_time": 101734,
+        "text": "And this quick movement of electrons,\ncalled static discharge,"
+    },
+    {
+        "index": 31,
+        "start_time": 101734,
+        "end_time": 105082,
+        "text": "is what we recognize as that sudden spark."
+    },
+    {
+        "index": 32,
+        "start_time": 105082,
+        "end_time": 108314,
+        "text": "This process doesn&#39;t happen \nwith just any objects."
+    },
+    {
+        "index": 33,
+        "start_time": 108314,
+        "end_time": 111220,
+        "text": "Otherwise you&#39;d be getting \nzapped all the time."
+    },
+    {
+        "index": 34,
+        "start_time": 111220,
+        "end_time": 113392,
+        "text": "Conductors like metals and salt water"
+    },
+    {
+        "index": 35,
+        "start_time": 113392,
+        "end_time": 116507,
+        "text": "tend to have loosely \nbound outer electrons,"
+    },
+    {
+        "index": 36,
+        "start_time": 116507,
+        "end_time": 119781,
+        "text": "which can easily flow between molecules."
+    },
+    {
+        "index": 37,
+        "start_time": 119781,
+        "end_time": 123798,
+        "text": "On the other hand, insulators \nlike plastics, rubber and glass"
+    },
+    {
+        "index": 38,
+        "start_time": 123798,
+        "end_time": 128780,
+        "text": "have tightly bound electrons\nthat won&#39;t readily jump to other atoms."
+    },
+    {
+        "index": 39,
+        "start_time": 128780,
+        "end_time": 131186,
+        "text": "Static build-up is most likely to occur"
+    },
+    {
+        "index": 40,
+        "start_time": 131186,
+        "end_time": 134947,
+        "text": "when one of the materials involved\nis an insulator."
+    },
+    {
+        "index": 41,
+        "start_time": 134947,
+        "end_time": 136499,
+        "text": "When you walk across a rug,"
+    },
+    {
+        "index": 42,
+        "start_time": 136499,
+        "end_time": 139675,
+        "text": "electrons from your body\nwill rub off onto it,"
+    },
+    {
+        "index": 43,
+        "start_time": 139675,
+        "end_time": 144364,
+        "text": "while the rug&#39;s insulating wool\nwill resist losing its own electrons."
+    },
+    {
+        "index": 44,
+        "start_time": 144364,
+        "end_time": 148452,
+        "text": "Although your body and the rug\ntogether are still electrically neutral,"
+    },
+    {
+        "index": 45,
+        "start_time": 148452,
+        "end_time": 151461,
+        "text": "there is now a charge polarization\nbetween the two."
+    },
+    {
+        "index": 46,
+        "start_time": 151461,
+        "end_time": 153522,
+        "text": "And when you reach to touch the door knob,"
+    },
+    {
+        "index": 47,
+        "start_time": 153522,
+        "end_time": 154456,
+        "text": "zap!"
+    },
+    {
+        "index": 48,
+        "start_time": 154456,
+        "end_time": 157925,
+        "text": "The metal door knob&#39;s loosely \nbound electrons hop to your hand"
+    },
+    {
+        "index": 49,
+        "start_time": 157925,
+        "end_time": 160879,
+        "text": "to replace the electrons \nyour body has lost."
+    },
+    {
+        "index": 50,
+        "start_time": 160879,
+        "end_time": 164098,
+        "text": "When it happens in your bedroom,\nit&#39;s a minor nuisance."
+    },
+    {
+        "index": 51,
+        "start_time": 164098,
+        "end_time": 166212,
+        "text": "But in the great outdoors,"
+    },
+    {
+        "index": 52,
+        "start_time": 166212,
+        "end_time": 170751,
+        "text": "static electricity can be a terrifying,\ndestructive force of nature."
+    },
+    {
+        "index": 53,
+        "start_time": 170751,
+        "end_time": 174532,
+        "text": "In certain conditions,\ncharge separation will occur in clouds."
+    },
+    {
+        "index": 54,
+        "start_time": 174532,
+        "end_time": 176977,
+        "text": "We don&#39;t know exactly how this happens."
+    },
+    {
+        "index": 55,
+        "start_time": 176977,
+        "end_time": 179741,
+        "text": "It may have to do with the circulation\nof water droplets"
+    },
+    {
+        "index": 56,
+        "start_time": 179741,
+        "end_time": 182342,
+        "text": "and ice particles within them."
+    },
+    {
+        "index": 57,
+        "start_time": 182342,
+        "end_time": 185169,
+        "text": "Regardless, the charge \nimbalance is neutralized"
+    },
+    {
+        "index": 58,
+        "start_time": 185169,
+        "end_time": 187931,
+        "text": "by being released towards another body,"
+    },
+    {
+        "index": 59,
+        "start_time": 187931,
+        "end_time": 189083,
+        "text": "such as a building,"
+    },
+    {
+        "index": 60,
+        "start_time": 189083,
+        "end_time": 190210,
+        "text": "the Earth,"
+    },
+    {
+        "index": 61,
+        "start_time": 190210,
+        "end_time": 194292,
+        "text": "or another cloud in a giant spark\nthat we know as lightning."
+    },
+    {
+        "index": 62,
+        "start_time": 194292,
+        "end_time": 197859,
+        "text": "And just as your fingers can be zapped\nover and over in the same spot,"
+    },
+    {
+        "index": 63,
+        "start_time": 197859,
+        "end_time": 201940,
+        "text": "you better believe that lightning \ncan strike the same place more than once."
+    }
+]

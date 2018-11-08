@@ -1,0 +1,746 @@
+[
+  {
+    "end_time": 6370,
+    "index": 1,
+    "start_time": 260,
+    "text": "At the heart of your phone, tablet and computer\nlies the microprocessor, a tiny chip home"
+  },
+  {
+    "end_time": 11890,
+    "index": 2,
+    "start_time": 6370,
+    "text": "to billions of transistors capable of processing\nan immense amount of information."
+  },
+  {
+    "end_time": 17020,
+    "index": 3,
+    "start_time": 11890,
+    "text": "Without the microprocessor, modern technology\ncould not exist, which is why this week we\u2019ll"
+  },
+  {
+    "end_time": 27980,
+    "index": 4,
+    "start_time": 17020,
+    "text": "be looking at the company that started \nit all, Intel."
+  },
+  {
+    "end_time": 29070,
+    "index": 5,
+    "start_time": 27980,
+    "text": "December 23, 1947."
+  },
+  {
+    "end_time": 34219,
+    "index": 6,
+    "start_time": 29070,
+    "text": "After two years of restless labor at Bell\nLaboratories, these three men stood in awe"
+  },
+  {
+    "end_time": 37559,
+    "index": 7,
+    "start_time": 34219,
+    "text": "of the transistor, their greatest invention."
+  },
+  {
+    "end_time": 42550,
+    "index": 8,
+    "start_time": 37559,
+    "text": "The man in the middle was William Shockley,\nan entrepreneurial fellow who realized what"
+  },
+  {
+    "end_time": 45440,
+    "index": 9,
+    "start_time": 42550,
+    "text": "a fortune he could make from this new technology."
+  },
+  {
+    "end_time": 51739,
+    "index": 10,
+    "start_time": 45440,
+    "text": "In 1956 he moved to the west coast, establishing\nthe first silicon device company in what came"
+  },
+  {
+    "end_time": 54129,
+    "index": 11,
+    "start_time": 51739,
+    "text": "to be known as Silicon Valley."
+  },
+  {
+    "end_time": 59510,
+    "index": 12,
+    "start_time": 54129,
+    "text": "He couldn\u2019t convince any of his former colleagues\nat Bell Labs to leave with him and so he resorted"
+  },
+  {
+    "end_time": 62318,
+    "index": 13,
+    "start_time": 59510,
+    "text": "to hiring fresh university graduates."
+  },
+  {
+    "end_time": 67210,
+    "index": 14,
+    "start_time": 62319,
+    "text": "In an ironic twist of fate, just one year\nlater eight of his brightest employees got"
+  },
+  {
+    "end_time": 72190,
+    "index": 15,
+    "start_time": 67210,
+    "text": "together and left the company in the same\nway that he had left Bell Laboratories."
+  },
+  {
+    "end_time": 76970,
+    "index": 16,
+    "start_time": 72190,
+    "text": "Under the patronage of industrialist Sherman\nFairchild, the \u201cTraitorous Eight\u201d, as"
+  },
+  {
+    "end_time": 80429,
+    "index": 17,
+    "start_time": 76970,
+    "text": "they were called, founded Fairchild Semiconductor."
+  },
+  {
+    "end_time": 84940,
+    "index": 18,
+    "start_time": 80430,
+    "text": "Much to Shockley\u2019s dismay, Fairchild became\none of the leaders of the industry while his"
+  },
+  {
+    "end_time": 86590,
+    "index": 19,
+    "start_time": 84940,
+    "text": "own venture failed."
+  },
+  {
+    "end_time": 91750,
+    "index": 20,
+    "start_time": 86590,
+    "text": "In 1959 one of the original \u201cTraitorous\nEight\u201d, Robert Noyce, created the first"
+  },
+  {
+    "end_time": 93350,
+    "index": 21,
+    "start_time": 91750,
+    "text": "integrated circuit."
+  },
+  {
+    "end_time": 98399,
+    "index": 22,
+    "start_time": 93350,
+    "text": "Like the transistor before, the integrated\ncircuit was a technology with huge potential,"
+  },
+  {
+    "end_time": 99730,
+    "index": 23,
+    "start_time": 98400,
+    "text": "and he knew that."
+  },
+  {
+    "end_time": 104980,
+    "index": 24,
+    "start_time": 99730,
+    "text": "In 1968 he left Fairchild to start his own\ncompany and he was joined by his colleague"
+  },
+  {
+    "end_time": 109730,
+    "index": 25,
+    "start_time": 104980,
+    "text": "and fellow \u2018traitor\u2019 Gordon Moore, who\nhad famously postulated Moore\u2019s law."
+  },
+  {
+    "end_time": 114480,
+    "index": 26,
+    "start_time": 109730,
+    "text": "To fund their venture they went to Arthur\nRock, the acclaimed investor who had arranged"
+  },
+  {
+    "end_time": 117990,
+    "index": 27,
+    "start_time": 114480,
+    "text": "their original deal with Sherman Fairchild\na decade earlier."
+  },
+  {
+    "end_time": 123259,
+    "index": 28,
+    "start_time": 117990,
+    "text": "With $3 million of initial capital and the\ncreative portmanteau of integrated electronics,"
+  },
+  {
+    "end_time": 128030,
+    "index": 29,
+    "start_time": 123260,
+    "text": "Noyce and Moore founded Intel on July 18,\n1968."
+  },
+  {
+    "end_time": 132900,
+    "index": 30,
+    "start_time": 128030,
+    "text": "Behind their venture was the ambitious plan\nto build large-scale integrated semiconductor"
+  },
+  {
+    "end_time": 134150,
+    "index": 31,
+    "start_time": 132900,
+    "text": "memories."
+  },
+  {
+    "end_time": 138849,
+    "index": 32,
+    "start_time": 134150,
+    "text": "Back then, they were ten times more expensive\nthan standard magnetic core memories, which"
+  },
+  {
+    "end_time": 141420,
+    "index": 33,
+    "start_time": 138849,
+    "text": "were much slower and less efficient."
+  },
+  {
+    "end_time": 146829,
+    "index": 34,
+    "start_time": 141420,
+    "text": "Nine months after its creation, Intel had\ndeveloped its first product: the 3101 Schottky"
+  },
+  {
+    "end_time": 148450,
+    "index": 35,
+    "start_time": 146830,
+    "text": "bipolar memory."
+  },
+  {
+    "end_time": 154069,
+    "index": 36,
+    "start_time": 148450,
+    "text": "It was the world\u2019s first solid state memory\ndevice and it was capable of storing a whopping"
+  },
+  {
+    "end_time": 155760,
+    "index": 37,
+    "start_time": 154069,
+    "text": "64 bits."
+  },
+  {
+    "end_time": 161709,
+    "index": 38,
+    "start_time": 155760,
+    "text": "One year later, Intel became pioneers in dynamic\nrandom access memory, or DRAM, by creating"
+  },
+  {
+    "end_time": 166340,
+    "index": 39,
+    "start_time": 161709,
+    "text": "the first commercially available DRAM chip,\nthe 1103."
+  },
+  {
+    "end_time": 170910,
+    "index": 40,
+    "start_time": 166340,
+    "text": "Its success marked the beginning of the end\nfor magnetic memory and established DRAM as"
+  },
+  {
+    "end_time": 173680,
+    "index": 41,
+    "start_time": 170910,
+    "text": "the primary storage medium of modern computers."
+  },
+  {
+    "end_time": 177890,
+    "index": 42,
+    "start_time": 173680,
+    "text": "Intel\u2019s reputation grew quickly, and not\njust in the United States."
+  },
+  {
+    "end_time": 184480,
+    "index": 43,
+    "start_time": 177890,
+    "text": "A Japanese calculator company called Busicom\nhad reached out to Intel in 1969 with a request"
+  },
+  {
+    "end_time": 187510,
+    "index": 44,
+    "start_time": 184480,
+    "text": "to build integrated circuits for their calculators."
+  },
+  {
+    "end_time": 192459,
+    "index": 45,
+    "start_time": 187510,
+    "text": "While working on this project, Intel engineer\nTed Hoff figured out a way to build a central"
+  },
+  {
+    "end_time": 194969,
+    "index": 46,
+    "start_time": 192459,
+    "text": "processing unit onto a single chip."
+  },
+  {
+    "end_time": 201409,
+    "index": 47,
+    "start_time": 194969,
+    "text": "By cramming 2,300 transistors onto a one-eighth-\nby one-sixth-inch chip, Hoff\u2019s invention"
+  },
+  {
+    "end_time": 204439,
+    "index": 48,
+    "start_time": 201409,
+    "text": "had the same power as the ENIAC computer that\nwas the size of a room."
+  },
+  {
+    "end_time": 209799,
+    "index": 49,
+    "start_time": 204439,
+    "text": "Intel had unwittingly stumbled upon the foundation\nof modern computing, the microprocessor."
+  },
+  {
+    "end_time": 214889,
+    "index": 50,
+    "start_time": 209800,
+    "text": "They called it the 4004 and started selling\nit in 1971."
+  },
+  {
+    "end_time": 220269,
+    "index": 51,
+    "start_time": 214889,
+    "text": "A year later, Intel unveiled the 8008, an\n8-bit microprocessor."
+  },
+  {
+    "end_time": 226840,
+    "index": 52,
+    "start_time": 220269,
+    "text": "Intel\u2019s first general-purpose microprocessor,\nthe 8080, came in 1974 and it essentially"
+  },
+  {
+    "end_time": 231950,
+    "index": 53,
+    "start_time": 226840,
+    "text": "became the industry standard, finding its\nway into almost every cash register, calculator"
+  },
+  {
+    "end_time": 234439,
+    "index": 54,
+    "start_time": 231950,
+    "text": "and traffic light of its day."
+  },
+  {
+    "end_time": 239388,
+    "index": 55,
+    "start_time": 234439,
+    "text": "Interestingly enough, the 8080 was designed\nfor almost everything except computers."
+  },
+  {
+    "end_time": 244590,
+    "index": 56,
+    "start_time": 239389,
+    "text": "At the time, computers were manufactured entirely\nin-house, with a single company building its"
+  },
+  {
+    "end_time": 248299,
+    "index": 57,
+    "start_time": 244590,
+    "text": "own terminals, compilers, and operating systems."
+  },
+  {
+    "end_time": 253870,
+    "index": 58,
+    "start_time": 248299,
+    "text": "The 8080, however, became so popular that\nthe manufacturers, starting with Hewlett Packard,"
+  },
+  {
+    "end_time": 256840,
+    "index": 59,
+    "start_time": 253870,
+    "text": "eventually began designing their systems around\nit."
+  },
+  {
+    "end_time": 263520,
+    "index": 60,
+    "start_time": 256839,
+    "text": "In 1978 Intel released the 8086, a 16-bit\nprocessor that would eventually become Intel\u2019s"
+  },
+  {
+    "end_time": 264780,
+    "index": 61,
+    "start_time": 263520,
+    "text": "saving grace."
+  },
+  {
+    "end_time": 270039,
+    "index": 62,
+    "start_time": 264780,
+    "text": "Up until that point Intel\u2019s revenues were\ncoming almost entirely from their DRAM division,"
+  },
+  {
+    "end_time": 275150,
+    "index": 63,
+    "start_time": 270040,
+    "text": "but Japan\u2019s rising semiconductor industry\nwas quickly eating away at their profits."
+  },
+  {
+    "end_time": 280669,
+    "index": 64,
+    "start_time": 275150,
+    "text": "Intel\u2019s only way forward was microprocessors,\nand they went all in by partnering up with"
+  },
+  {
+    "end_time": 281670,
+    "index": 65,
+    "start_time": 280670,
+    "text": "IBM."
+  },
+  {
+    "end_time": 286830,
+    "index": 66,
+    "start_time": 281670,
+    "text": "We\u2019ve already covered IBM in a previous\nvideo, but just to recap, in the early 1980s"
+  },
+  {
+    "end_time": 291180,
+    "index": 67,
+    "start_time": 286830,
+    "text": "IBM were struggling to catch up with the rise\nof the personal computer."
+  },
+  {
+    "end_time": 295800,
+    "index": 68,
+    "start_time": 291180,
+    "text": "At first, IBM didn\u2019t think PCs would be\nworth it to the average person, but once that"
+  },
+  {
+    "end_time": 301280,
+    "index": 69,
+    "start_time": 295800,
+    "text": "started happening anyway, IBM\u2019s bureaucracy\nmade developing their own PC a nightmare."
+  },
+  {
+    "end_time": 306130,
+    "index": 70,
+    "start_time": 301280,
+    "text": "They ended up partnering with Intel for their\nprocessor and with Microsoft for their operating"
+  },
+  {
+    "end_time": 310810,
+    "index": 71,
+    "start_time": 306130,
+    "text": "system, which allowed them to develop their\nIBM PC in just under a year."
+  },
+  {
+    "end_time": 316720,
+    "index": 72,
+    "start_time": 310810,
+    "text": "It was released in 1981 and it became the\ndominant personal computer of its time, establishing"
+  },
+  {
+    "end_time": 320040,
+    "index": 73,
+    "start_time": 316720,
+    "text": "Intel as the chief supplier of processors."
+  },
+  {
+    "end_time": 326280,
+    "index": 74,
+    "start_time": 320040,
+    "text": "The IBM PC used a modified 8086 processor,\nand although IBM eventually lost the personal"
+  },
+  {
+    "end_time": 331969,
+    "index": 75,
+    "start_time": 326280,
+    "text": "computer market to cheap compatible copycats,\nIntel remained at the heart of every personal"
+  },
+  {
+    "end_time": 334750,
+    "index": 76,
+    "start_time": 331970,
+    "text": "computer made over the next decade."
+  },
+  {
+    "end_time": 340220,
+    "index": 77,
+    "start_time": 334750,
+    "text": "The legacy of the 8086 remains to this day,\nas the vast majority of modern computers are"
+  },
+  {
+    "end_time": 343580,
+    "index": 78,
+    "start_time": 340220,
+    "text": "based on its derivative x86 architecture."
+  },
+  {
+    "end_time": 349090,
+    "index": 79,
+    "start_time": 343580,
+    "text": "During the 1980s Intel emerged as the most\nprofitable hardware supplier to the rising"
+  },
+  {
+    "end_time": 350250,
+    "index": 80,
+    "start_time": 349090,
+    "text": "PC industry."
+  },
+  {
+    "end_time": 356710,
+    "index": 81,
+    "start_time": 350250,
+    "text": "They reached $1 billion of revenue in 1983,\nand the same amount as net income just nine"
+  },
+  {
+    "end_time": 357789,
+    "index": 82,
+    "start_time": 356710,
+    "text": "years later."
+  },
+  {
+    "end_time": 363670,
+    "index": 83,
+    "start_time": 357790,
+    "text": "In 1993 Intel released the Pentium line, their\nfifth generation of processors."
+  },
+  {
+    "end_time": 368880,
+    "index": 84,
+    "start_time": 363670,
+    "text": "For this generation Intel started building\ndedicated motherboards alongside its processors,"
+  },
+  {
+    "end_time": 373630,
+    "index": 85,
+    "start_time": 368880,
+    "text": "a move that kept them ahead of their competition\nand doubled their net income that year to"
+  },
+  {
+    "end_time": 376030,
+    "index": 86,
+    "start_time": 373630,
+    "text": "$2.3 billion."
+  },
+  {
+    "end_time": 381090,
+    "index": 87,
+    "start_time": 376030,
+    "text": "Throughout the 90s Intel continued to develop\nmore powerful processors, more or less in"
+  },
+  {
+    "end_time": 383099,
+    "index": 88,
+    "start_time": 381090,
+    "text": "accordance with Moore\u2019s law."
+  },
+  {
+    "end_time": 389310,
+    "index": 89,
+    "start_time": 383100,
+    "text": "In 1998 Intel branched out into the value-PC\nmarket by releasing the cheap, low-performance"
+  },
+  {
+    "end_time": 390960,
+    "index": 90,
+    "start_time": 389310,
+    "text": "Celeron line."
+  },
+  {
+    "end_time": 395370,
+    "index": 91,
+    "start_time": 390960,
+    "text": "The new millennium, however, would be a much\nmore difficult time for Intel."
+  },
+  {
+    "end_time": 401400,
+    "index": 92,
+    "start_time": 395370,
+    "text": "The dot-com crash and fierce competition from\nAMD saw Intel fall below 80% market share"
+  },
+  {
+    "end_time": 403669,
+    "index": 93,
+    "start_time": 401400,
+    "text": "for the first time in decades."
+  },
+  {
+    "end_time": 411560,
+    "index": 94,
+    "start_time": 403670,
+    "text": "The situation became so bad that in 2001 Intel\u2019s\nprofits had slumped by a stunning 87%."
+  },
+  {
+    "end_time": 416630,
+    "index": 95,
+    "start_time": 411560,
+    "text": "By that point it became clear that racing\nto build faster and faster processors wasn\u2019t"
+  },
+  {
+    "end_time": 421100,
+    "index": 96,
+    "start_time": 416630,
+    "text": "the way to go, especially when most people\nwere using their computers just to read their"
+  },
+  {
+    "end_time": 423200,
+    "index": 97,
+    "start_time": 421100,
+    "text": "email or browse the web."
+  },
+  {
+    "end_time": 428700,
+    "index": 98,
+    "start_time": 423200,
+    "text": "Intel shifted their focus accordingly, building\na more efficient, less power-hungry line called"
+  },
+  {
+    "end_time": 429950,
+    "index": 99,
+    "start_time": 428700,
+    "text": "Centrino."
+  },
+  {
+    "end_time": 435670,
+    "index": 100,
+    "start_time": 429950,
+    "text": "Released in 2003, the Centrino wasn\u2019t actually\na processor but a fully functional platform,"
+  },
+  {
+    "end_time": 438380,
+    "index": 101,
+    "start_time": 435670,
+    "text": "complete with a chipset and wireless network."
+  },
+  {
+    "end_time": 443230,
+    "index": 102,
+    "start_time": 438380,
+    "text": "It worked extremely well on portable computers\njust around the time when laptops were finally"
+  },
+  {
+    "end_time": 447480,
+    "index": 103,
+    "start_time": 443230,
+    "text": "starting to take off, lifting Intel back to\nthe top of the industry."
+  },
+  {
+    "end_time": 452650,
+    "index": 104,
+    "start_time": 447480,
+    "text": "In line with their new philosophy, Intel began\ndeveloping multi-core processors, releasing"
+  },
+  {
+    "end_time": 454219,
+    "index": 105,
+    "start_time": 452650,
+    "text": "their first dual-core in 2005."
+  },
+  {
+    "end_time": 460450,
+    "index": 106,
+    "start_time": 454220,
+    "text": "In general, the past few generations have\nbeen split into three main categories based"
+  },
+  {
+    "end_time": 464880,
+    "index": 107,
+    "start_time": 460450,
+    "text": "on processing power: i3, i5, and i7."
+  },
+  {
+    "end_time": 469070,
+    "index": 108,
+    "start_time": 464880,
+    "text": "Up until last year, Intel were operating on\na \u201cTick-Tock\u201d model, where they either"
+  },
+  {
+    "end_time": 474190,
+    "index": 109,
+    "start_time": 469070,
+    "text": "shrink the size of the current microarchitecture\nto make it more efficient or release an entirely"
+  },
+  {
+    "end_time": 476630,
+    "index": 110,
+    "start_time": 474190,
+    "text": "new one every 18 months."
+  },
+  {
+    "end_time": 481490,
+    "index": 111,
+    "start_time": 476630,
+    "text": "The performance of the last two generations\nhasn\u2019t improved that much though, and Intel"
+  },
+  {
+    "end_time": 484260,
+    "index": 112,
+    "start_time": 481490,
+    "text": "have also attracted a lot of antitrust litigation."
+  },
+  {
+    "end_time": 490710,
+    "index": 113,
+    "start_time": 484260,
+    "text": "In 2009 the European Union fined Intel more\nthan one and a half billion dollars for bribing"
+  },
+  {
+    "end_time": 494180,
+    "index": 114,
+    "start_time": 490710,
+    "text": "computer manufacturers to use their processors."
+  },
+  {
+    "end_time": 498960,
+    "index": 115,
+    "start_time": 494180,
+    "text": "Similar accusations have sprung up in the\nUS, Japan and South Korea."
+  },
+  {
+    "end_time": 503260,
+    "index": 116,
+    "start_time": 498960,
+    "text": "Despite the lawsuits, Intel\u2019s business has\nbeen going great, and they\u2019ve been able"
+  },
+  {
+    "end_time": 507740,
+    "index": 117,
+    "start_time": 503260,
+    "text": "to branch out into various other tech markets,\nusually through acquisitions."
+  },
+  {
+    "end_time": 513419,
+    "index": 118,
+    "start_time": 507740,
+    "text": "Among other things they\u2019re working on solid-state\ndrives, machine learning and autonomous vehicles."
+  },
+  {
+    "end_time": 517610,
+    "index": 119,
+    "start_time": 513419,
+    "text": "Some of these projects are more successful\nthan others, but it\u2019s unlikely that they\u2019ll"
+  },
+  {
+    "end_time": 522830,
+    "index": 120,
+    "start_time": 517610,
+    "text": "be replacing Intel\u2019s main microprocessor\nbusiness any time soon."
+  },
+  {
+    "end_time": 527200,
+    "index": 121,
+    "start_time": 522830,
+    "text": "Thanks for watching and a big thank you to\nall of our patrons for supporting this video!"
+  },
+  {
+    "end_time": 531340,
+    "index": 122,
+    "start_time": 527200,
+    "text": "Be sure to subscribe if you haven\u2019t already\nand to check out the full Behind the Business"
+  },
+  {
+    "end_time": 534190,
+    "index": 123,
+    "start_time": 531340,
+    "text": "playlist for the interesting stories of other\ncompanies."
+  },
+  {
+    "end_time": 538460,
+    "index": 124,
+    "start_time": 534190,
+    "text": "Once again, thanks a lot for watching, and\nas always: stay smart."
+  }
+]

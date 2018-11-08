@@ -1,0 +1,494 @@
+[
+    {
+        "index": 1,
+        "start_time": 7092,
+        "end_time": 10192,
+        "text": "Are you as good at things \nas you think you are?"
+    },
+    {
+        "index": 2,
+        "start_time": 10192,
+        "end_time": 13902,
+        "text": "How good are you at managing money?"
+    },
+    {
+        "index": 3,
+        "start_time": 13902,
+        "end_time": 16732,
+        "text": "What about reading people&#39;s emotions?"
+    },
+    {
+        "index": 4,
+        "start_time": 16732,
+        "end_time": 20172,
+        "text": "How healthy are you \ncompared to other people you know?"
+    },
+    {
+        "index": 5,
+        "start_time": 20172,
+        "end_time": 23114,
+        "text": "Are you better than average at grammar?"
+    },
+    {
+        "index": 6,
+        "start_time": 23114,
+        "end_time": 24701,
+        "text": "Knowing how competent we are"
+    },
+    {
+        "index": 7,
+        "start_time": 24701,
+        "end_time": 27993,
+        "text": "and how are skill stack up \nagainst other people&#39;s"
+    },
+    {
+        "index": 8,
+        "start_time": 27993,
+        "end_time": 30172,
+        "text": "is more than a self-esteem boost."
+    },
+    {
+        "index": 9,
+        "start_time": 30172,
+        "end_time": 34714,
+        "text": "It helps us figure out when we can forge\nahead on our own decisions and instincts"
+    },
+    {
+        "index": 10,
+        "start_time": 34714,
+        "end_time": 39393,
+        "text": "and when we need, instead, \nto seek out advice."
+    },
+    {
+        "index": 11,
+        "start_time": 39393,
+        "end_time": 42705,
+        "text": "But psychological research suggests\nthat we&#39;re not very good"
+    },
+    {
+        "index": 12,
+        "start_time": 42705,
+        "end_time": 45664,
+        "text": "at evaluating ourselves accurately."
+    },
+    {
+        "index": 13,
+        "start_time": 45664,
+        "end_time": 50001,
+        "text": "In fact, we frequently overestimate\nour own abilities."
+    },
+    {
+        "index": 14,
+        "start_time": 50001,
+        "end_time": 52293,
+        "text": "Researchers have a name \nfor this phenomena,"
+    },
+    {
+        "index": 15,
+        "start_time": 52293,
+        "end_time": 55626,
+        "text": "the Dunning-Kruger effect."
+    },
+    {
+        "index": 16,
+        "start_time": 55626,
+        "end_time": 58204,
+        "text": "This effect explains \nwhy more than 100 studies"
+    },
+    {
+        "index": 17,
+        "start_time": 58204,
+        "end_time": 62465,
+        "text": "have shown that people display \nillusory superiority."
+    },
+    {
+        "index": 18,
+        "start_time": 62465,
+        "end_time": 64544,
+        "text": "We judge ourselves as better than others"
+    },
+    {
+        "index": 19,
+        "start_time": 64544,
+        "end_time": 68134,
+        "text": "to a degree that violates \nthe laws of math."
+    },
+    {
+        "index": 20,
+        "start_time": 68134,
+        "end_time": 72665,
+        "text": "When software engineers at two companies\nwere asked to rate their performance,"
+    },
+    {
+        "index": 21,
+        "start_time": 72665,
+        "end_time": 77637,
+        "text": "32% of the engineers at one company\nand 42% at the other"
+    },
+    {
+        "index": 22,
+        "start_time": 77637,
+        "end_time": 81224,
+        "text": "put themselves in the top 5%."
+    },
+    {
+        "index": 23,
+        "start_time": 81224,
+        "end_time": 85195,
+        "text": "In another study, 88% of American drivers"
+    },
+    {
+        "index": 24,
+        "start_time": 85195,
+        "end_time": 89465,
+        "text": "described themselves \nas having above average driving skills."
+    },
+    {
+        "index": 25,
+        "start_time": 89465,
+        "end_time": 91606,
+        "text": "These aren&#39;t isolated findings."
+    },
+    {
+        "index": 26,
+        "start_time": 91606,
+        "end_time": 94945,
+        "text": "On average, people tend to rate\nthemselves better than most"
+    },
+    {
+        "index": 27,
+        "start_time": 94945,
+        "end_time": 102095,
+        "text": "in disciplines ranging from health,\nleadership skills, ethics, and beyond."
+    },
+    {
+        "index": 28,
+        "start_time": 102095,
+        "end_time": 105756,
+        "text": "What&#39;s particularly interesting\nis that those with the least ability"
+    },
+    {
+        "index": 29,
+        "start_time": 105756,
+        "end_time": 110636,
+        "text": "are often the most likely to overrate\ntheir skills to the greatest extent."
+    },
+    {
+        "index": 30,
+        "start_time": 110636,
+        "end_time": 113367,
+        "text": "People measurably poor \nat logical reasoning,"
+    },
+    {
+        "index": 31,
+        "start_time": 113367,
+        "end_time": 114070,
+        "text": "grammar,"
+    },
+    {
+        "index": 32,
+        "start_time": 114070,
+        "end_time": 115117,
+        "text": "financial knowledge,"
+    },
+    {
+        "index": 33,
+        "start_time": 115117,
+        "end_time": 115983,
+        "text": "math,"
+    },
+    {
+        "index": 34,
+        "start_time": 115983,
+        "end_time": 117361,
+        "text": "emotional intelligence,"
+    },
+    {
+        "index": 35,
+        "start_time": 117361,
+        "end_time": 119357,
+        "text": "running medical lab tests,"
+    },
+    {
+        "index": 36,
+        "start_time": 119357,
+        "end_time": 120637,
+        "text": "and chess"
+    },
+    {
+        "index": 37,
+        "start_time": 120637,
+        "end_time": 128238,
+        "text": "all tend to rate their expertise almost\nas favorably as actual experts do."
+    },
+    {
+        "index": 38,
+        "start_time": 128238,
+        "end_time": 131397,
+        "text": "So who&#39;s most vulnerable to this delusion?"
+    },
+    {
+        "index": 39,
+        "start_time": 131397,
+        "end_time": 135718,
+        "text": "Sadly, all of us because we all have\npockets of incompetence"
+    },
+    {
+        "index": 40,
+        "start_time": 135718,
+        "end_time": 138638,
+        "text": "we don&#39;t recognize."
+    },
+    {
+        "index": 41,
+        "start_time": 138638,
+        "end_time": 139820,
+        "text": "But why?"
+    },
+    {
+        "index": 42,
+        "start_time": 139820,
+        "end_time": 144719,
+        "text": "When psychologists Dunning and Kruger\nfirst described the effect in 1999,"
+    },
+    {
+        "index": 43,
+        "start_time": 144719,
+        "end_time": 148873,
+        "text": "they argued that people lacking\nknowledge and skill in particular areas"
+    },
+    {
+        "index": 44,
+        "start_time": 148873,
+        "end_time": 151329,
+        "text": "suffer a double curse."
+    },
+    {
+        "index": 45,
+        "start_time": 151329,
+        "end_time": 155148,
+        "text": "First, they make mistakes\nand reach poor decisions."
+    },
+    {
+        "index": 46,
+        "start_time": 155148,
+        "end_time": 160581,
+        "text": "But second, those same knowledge gaps also\nprevent them from catching their errors."
+    },
+    {
+        "index": 47,
+        "start_time": 160581,
+        "end_time": 164449,
+        "text": "In other words, poor performers lack\nthe very expertise needed"
+    },
+    {
+        "index": 48,
+        "start_time": 164449,
+        "end_time": 167419,
+        "text": "to recognize how badly they&#39;re doing."
+    },
+    {
+        "index": 49,
+        "start_time": 167419,
+        "end_time": 169419,
+        "text": "For example, when the researchers studied"
+    },
+    {
+        "index": 50,
+        "start_time": 169419,
+        "end_time": 171979,
+        "text": "participants in \na college debate tournament,"
+    },
+    {
+        "index": 51,
+        "start_time": 171979,
+        "end_time": 175569,
+        "text": "the bottom 25% of teams \nin preliminary rounds"
+    },
+    {
+        "index": 52,
+        "start_time": 175569,
+        "end_time": 179623,
+        "text": "lost nearly four \nout of every five matches."
+    },
+    {
+        "index": 53,
+        "start_time": 179623,
+        "end_time": 183229,
+        "text": "But they thought they were winning\nalmost 60%."
+    },
+    {
+        "index": 54,
+        "start_time": 183229,
+        "end_time": 186001,
+        "text": "WIthout a strong grasp \nof the rules of debate,"
+    },
+    {
+        "index": 55,
+        "start_time": 186001,
+        "end_time": 189550,
+        "text": "the students simply couldn&#39;t recognize\nwhen or how often"
+    },
+    {
+        "index": 56,
+        "start_time": 189550,
+        "end_time": 192491,
+        "text": "their arguments broke down."
+    },
+    {
+        "index": 57,
+        "start_time": 192491,
+        "end_time": 197440,
+        "text": "The Dunning-Kruger effect isn&#39;t a question\nof ego blinding us to our weaknesses."
+    },
+    {
+        "index": 58,
+        "start_time": 197440,
+        "end_time": 201541,
+        "text": "People usually do admit their deficits\nonce they can spot them."
+    },
+    {
+        "index": 59,
+        "start_time": 201541,
+        "end_time": 205651,
+        "text": "In one study, students who had initially\ndone badly on a logic quiz"
+    },
+    {
+        "index": 60,
+        "start_time": 205651,
+        "end_time": 208040,
+        "text": "and then took a mini course on logic"
+    },
+    {
+        "index": 61,
+        "start_time": 208040,
+        "end_time": 214081,
+        "text": "were quite willing to label\ntheir original performances as awful."
+    },
+    {
+        "index": 62,
+        "start_time": 214081,
+        "end_time": 218071,
+        "text": "That may be why people with a moderate\namount of experience or expertise"
+    },
+    {
+        "index": 63,
+        "start_time": 218071,
+        "end_time": 221291,
+        "text": "often have less confidence\nin their abilities."
+    },
+    {
+        "index": 64,
+        "start_time": 221291,
+        "end_time": 224691,
+        "text": "They know enough to know that \nthere&#39;s a lot they don&#39;t know."
+    },
+    {
+        "index": 65,
+        "start_time": 224691,
+        "end_time": 229241,
+        "text": "Meanwhile, experts tend to be aware\nof just how knowledgeable they are."
+    },
+    {
+        "index": 66,
+        "start_time": 229241,
+        "end_time": 231201,
+        "text": "But they often make a different mistake:"
+    },
+    {
+        "index": 67,
+        "start_time": 231201,
+        "end_time": 236432,
+        "text": "they assume that everyone else \nis knowledgeable, too."
+    },
+    {
+        "index": 68,
+        "start_time": 236432,
+        "end_time": 240083,
+        "text": "The result is that people, \nwhether they&#39;re inept or highly skilled,"
+    },
+    {
+        "index": 69,
+        "start_time": 240083,
+        "end_time": 244352,
+        "text": "are often caught in a bubble\nof inaccurate self-perception."
+    },
+    {
+        "index": 70,
+        "start_time": 244352,
+        "end_time": 247673,
+        "text": "When they&#39;re unskilled, \nthey can&#39;t see their own faults."
+    },
+    {
+        "index": 71,
+        "start_time": 247673,
+        "end_time": 249461,
+        "text": "When they&#39;re exceptionally competent,"
+    },
+    {
+        "index": 72,
+        "start_time": 249461,
+        "end_time": 254303,
+        "text": "they don&#39;t perceive how unusual \ntheir abilities are."
+    },
+    {
+        "index": 73,
+        "start_time": 254303,
+        "end_time": 258493,
+        "text": "So if the Dunning-Kruger effect \nis invisible to those experiencing it,"
+    },
+    {
+        "index": 74,
+        "start_time": 258493,
+        "end_time": 264873,
+        "text": "what can you do to find out how good\nyou actually are at various things?"
+    },
+    {
+        "index": 75,
+        "start_time": 264873,
+        "end_time": 267524,
+        "text": "First, ask for feedback from other people,"
+    },
+    {
+        "index": 76,
+        "start_time": 267524,
+        "end_time": 270584,
+        "text": "and consider it, \neven if it&#39;s hard to hear."
+    },
+    {
+        "index": 77,
+        "start_time": 270584,
+        "end_time": 273235,
+        "text": "Second, and more important, keep learning."
+    },
+    {
+        "index": 78,
+        "start_time": 273235,
+        "end_time": 274935,
+        "text": "The more knowledgeable we become,"
+    },
+    {
+        "index": 79,
+        "start_time": 274935,
+        "end_time": 280454,
+        "text": "the less likely we are to have\ninvisible holes in our competence."
+    },
+    {
+        "index": 80,
+        "start_time": 280454,
+        "end_time": 283333,
+        "text": "Perhaps it all boils down \nto that old proverb:"
+    },
+    {
+        "index": 81,
+        "start_time": 283333,
+        "end_time": 284835,
+        "text": "When arguing with a fool,"
+    },
+    {
+        "index": 82,
+        "start_time": 284835,
+        "end_time": 289115,
+        "text": "first make sure the other person\nisn&#39;t doing the same thing."
+    }
+]

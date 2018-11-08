@@ -1,0 +1,614 @@
+[
+    {
+        "index": 1,
+        "start_time": 8064,
+        "end_time": 10611,
+        "text": "Take a look at the water in this glass."
+    },
+    {
+        "index": 2,
+        "start_time": 10611,
+        "end_time": 14355,
+        "text": "Refreshing, hydrating, and invaluable\nto your survival."
+    },
+    {
+        "index": 3,
+        "start_time": 14355,
+        "end_time": 15929,
+        "text": "Before you take a sip, though,"
+    },
+    {
+        "index": 4,
+        "start_time": 15929,
+        "end_time": 20926,
+        "text": "how do you know that the water inside\nis free from disease-causing organisms"
+    },
+    {
+        "index": 5,
+        "start_time": 20926,
+        "end_time": 22589,
+        "text": "and pollutants?"
+    },
+    {
+        "index": 6,
+        "start_time": 22589,
+        "end_time": 25591,
+        "text": "One out of ten people in the world\ncan&#39;t actually be sure"
+    },
+    {
+        "index": 7,
+        "start_time": 25591,
+        "end_time": 28431,
+        "text": "that their water is clean \nand safe to drink."
+    },
+    {
+        "index": 8,
+        "start_time": 28431,
+        "end_time": 31386,
+        "text": "Why is that?"
+    },
+    {
+        "index": 9,
+        "start_time": 31386,
+        "end_time": 32806,
+        "text": "Inadequate sanitation,"
+    },
+    {
+        "index": 10,
+        "start_time": 32806,
+        "end_time": 34916,
+        "text": "poor protection of drinking water sources,"
+    },
+    {
+        "index": 11,
+        "start_time": 34916,
+        "end_time": 36655,
+        "text": "and improper hygiene"
+    },
+    {
+        "index": 12,
+        "start_time": 36655,
+        "end_time": 40377,
+        "text": "often lead to sewage \nand feces-contaminated water."
+    },
+    {
+        "index": 13,
+        "start_time": 40377,
+        "end_time": 43198,
+        "text": "That&#39;s the ideal breeding ground\nfor dangerous bacteria,"
+    },
+    {
+        "index": 14,
+        "start_time": 43198,
+        "end_time": 44258,
+        "text": "viruses,"
+    },
+    {
+        "index": 15,
+        "start_time": 44258,
+        "end_time": 45989,
+        "text": "and parasites."
+    },
+    {
+        "index": 16,
+        "start_time": 45989,
+        "end_time": 49078,
+        "text": "And the effects of these pathogens\nare staggering."
+    },
+    {
+        "index": 17,
+        "start_time": 49078,
+        "end_time": 52904,
+        "text": "Diarrheal disease from unsafe water is one\nof the leading causes of death"
+    },
+    {
+        "index": 18,
+        "start_time": 52904,
+        "end_time": 56187,
+        "text": "around the world for children under five."
+    },
+    {
+        "index": 19,
+        "start_time": 56187,
+        "end_time": 58588,
+        "text": "And according to a U.N. report from 2010,"
+    },
+    {
+        "index": 20,
+        "start_time": 58588,
+        "end_time": 65739,
+        "text": "microbial water-borne illnesses killed\nmore people per year than war."
+    },
+    {
+        "index": 21,
+        "start_time": 65739,
+        "end_time": 69808,
+        "text": "Proper treatment processes, though,\ncan address these threats."
+    },
+    {
+        "index": 22,
+        "start_time": 69808,
+        "end_time": 71538,
+        "text": "They usually have three parts:"
+    },
+    {
+        "index": 23,
+        "start_time": 71538,
+        "end_time": 72607,
+        "text": "sedimentation,"
+    },
+    {
+        "index": 24,
+        "start_time": 72607,
+        "end_time": 73739,
+        "text": "filtration,"
+    },
+    {
+        "index": 25,
+        "start_time": 73739,
+        "end_time": 75329,
+        "text": "and disinfection."
+    },
+    {
+        "index": 26,
+        "start_time": 75329,
+        "end_time": 77857,
+        "text": "Once water has been collected\nin a treatment facility,"
+    },
+    {
+        "index": 27,
+        "start_time": 77857,
+        "end_time": 79598,
+        "text": "it&#39;s ready for cleaning."
+    },
+    {
+        "index": 28,
+        "start_time": 79598,
+        "end_time": 83139,
+        "text": "The first step, sedimentation,\njust takes time."
+    },
+    {
+        "index": 29,
+        "start_time": 83139,
+        "end_time": 88339,
+        "text": "The water sits undisturbed, allowing\nheavier particles to sink to the bottom."
+    },
+    {
+        "index": 30,
+        "start_time": 88339,
+        "end_time": 91040,
+        "text": "Often, though, particles \nare just too small"
+    },
+    {
+        "index": 31,
+        "start_time": 91040,
+        "end_time": 93244,
+        "text": "to be removed by sedimentation alone"
+    },
+    {
+        "index": 32,
+        "start_time": 93244,
+        "end_time": 95189,
+        "text": "and need to be filtered."
+    },
+    {
+        "index": 33,
+        "start_time": 95189,
+        "end_time": 98379,
+        "text": "Gravity pulls the water downward through\nlayers of sand"
+    },
+    {
+        "index": 34,
+        "start_time": 98379,
+        "end_time": 101250,
+        "text": "that catch leftover particles \nin their pores,"
+    },
+    {
+        "index": 35,
+        "start_time": 101250,
+        "end_time": 103750,
+        "text": "prepping the water \nfor its final treatment,"
+    },
+    {
+        "index": 36,
+        "start_time": 103750,
+        "end_time": 105811,
+        "text": "a dose of disinfectant."
+    },
+    {
+        "index": 37,
+        "start_time": 105811,
+        "end_time": 109087,
+        "text": "Chemicals, primarily forms \nof chlorine and ozone,"
+    },
+    {
+        "index": 38,
+        "start_time": 109087,
+        "end_time": 111750,
+        "text": "are mixed in to kill off any pathogens"
+    },
+    {
+        "index": 39,
+        "start_time": 111750,
+        "end_time": 115279,
+        "text": "and to disinfect pipes \nand storage systems."
+    },
+    {
+        "index": 40,
+        "start_time": 115279,
+        "end_time": 119112,
+        "text": "Chlorine is highly effective in destroying\nwater&#39;s living organisms,"
+    },
+    {
+        "index": 41,
+        "start_time": 119112,
+        "end_time": 121482,
+        "text": "but its use remains government-regulated"
+    },
+    {
+        "index": 42,
+        "start_time": 121482,
+        "end_time": 124801,
+        "text": "because it has potentially harmful\nchemical byproducts."
+    },
+    {
+        "index": 43,
+        "start_time": 124801,
+        "end_time": 129040,
+        "text": "And if an imbalance of chlorine occurs\nduring the disinfection process,"
+    },
+    {
+        "index": 44,
+        "start_time": 129040,
+        "end_time": 132091,
+        "text": "it can trigger other chemical reactions."
+    },
+    {
+        "index": 45,
+        "start_time": 132091,
+        "end_time": 134603,
+        "text": "For example, \nlevels of chlorine byproducts,"
+    },
+    {
+        "index": 46,
+        "start_time": 134603,
+        "end_time": 138881,
+        "text": "like trihalomethanes, could skyrocket,\nleading to pipe corrosion"
+    },
+    {
+        "index": 47,
+        "start_time": 138881,
+        "end_time": 145492,
+        "text": "and the release of iron, copper,\nand lead into drinking water."
+    },
+    {
+        "index": 48,
+        "start_time": 145492,
+        "end_time": 147892,
+        "text": "Water contamination from these\nand other sources"
+    },
+    {
+        "index": 49,
+        "start_time": 147892,
+        "end_time": 149042,
+        "text": "including leaching,"
+    },
+    {
+        "index": 50,
+        "start_time": 149042,
+        "end_time": 150392,
+        "text": "chemical spills,"
+    },
+    {
+        "index": 51,
+        "start_time": 150392,
+        "end_time": 151592,
+        "text": "and runoffs,"
+    },
+    {
+        "index": 52,
+        "start_time": 151592,
+        "end_time": 153814,
+        "text": "has been linked \nto long-term health effects,"
+    },
+    {
+        "index": 53,
+        "start_time": 153814,
+        "end_time": 154620,
+        "text": "like cancer,"
+    },
+    {
+        "index": 54,
+        "start_time": 154620,
+        "end_time": 157343,
+        "text": "cardiovascular and neurological diseases,"
+    },
+    {
+        "index": 55,
+        "start_time": 157343,
+        "end_time": 159493,
+        "text": "and miscarriage."
+    },
+    {
+        "index": 56,
+        "start_time": 159493,
+        "end_time": 161704,
+        "text": "Unfortunately, analyzing the exact risks"
+    },
+    {
+        "index": 57,
+        "start_time": 161704,
+        "end_time": 165091,
+        "text": "of chemically contaminated \nwater is difficult."
+    },
+    {
+        "index": 58,
+        "start_time": 165091,
+        "end_time": 167651,
+        "text": "So while it&#39;s clear that disinfectants\nmake us safer"
+    },
+    {
+        "index": 59,
+        "start_time": 167651,
+        "end_time": 169954,
+        "text": "by removing disease-causing pathogens,"
+    },
+    {
+        "index": 60,
+        "start_time": 169954,
+        "end_time": 172234,
+        "text": "experts have yet \nto determine the full scope"
+    },
+    {
+        "index": 61,
+        "start_time": 172234,
+        "end_time": 175035,
+        "text": "of how the chemical cocktail \nin our drinking water"
+    },
+    {
+        "index": 62,
+        "start_time": 175035,
+        "end_time": 178013,
+        "text": "really impacts human health."
+    },
+    {
+        "index": 63,
+        "start_time": 178013,
+        "end_time": 181566,
+        "text": "So how can you tell whether the water\nyou have access to,"
+    },
+    {
+        "index": 64,
+        "start_time": 181566,
+        "end_time": 183585,
+        "text": "whether from a tap or otherwise,"
+    },
+    {
+        "index": 65,
+        "start_time": 183585,
+        "end_time": 185365,
+        "text": "is drinkable?"
+    },
+    {
+        "index": 66,
+        "start_time": 185365,
+        "end_time": 187185,
+        "text": "Firstly, too much turbidity,"
+    },
+    {
+        "index": 67,
+        "start_time": 187185,
+        "end_time": 188935,
+        "text": "trace organic compounds,"
+    },
+    {
+        "index": 68,
+        "start_time": 188935,
+        "end_time": 193776,
+        "text": "or high-density heavy metals like arsenic,\nchromium, or lead,"
+    },
+    {
+        "index": 69,
+        "start_time": 193776,
+        "end_time": 197215,
+        "text": "mean that the water \nis unsuitable for consumption."
+    },
+    {
+        "index": 70,
+        "start_time": 197215,
+        "end_time": 199805,
+        "text": "A lot of contaminants, \nlike lead or arsenic,"
+    },
+    {
+        "index": 71,
+        "start_time": 199805,
+        "end_time": 201867,
+        "text": "won&#39;t be obvious without tests,"
+    },
+    {
+        "index": 72,
+        "start_time": 201867,
+        "end_time": 203805,
+        "text": "but some clues, like cloudiness,"
+    },
+    {
+        "index": 73,
+        "start_time": 203805,
+        "end_time": 205816,
+        "text": "brown or yellow coloration,"
+    },
+    {
+        "index": 74,
+        "start_time": 205816,
+        "end_time": 207073,
+        "text": "a foul odor,"
+    },
+    {
+        "index": 75,
+        "start_time": 207073,
+        "end_time": 209687,
+        "text": "or an excessive chlorine smell"
+    },
+    {
+        "index": 76,
+        "start_time": 209687,
+        "end_time": 212518,
+        "text": "can indicate the need \nto investigate further."
+    },
+    {
+        "index": 77,
+        "start_time": 212518,
+        "end_time": 214666,
+        "text": "Water testing kits can go a step further"
+    },
+    {
+        "index": 78,
+        "start_time": 214666,
+        "end_time": 219887,
+        "text": "and confirm the presence of many different\ncontaminants and chemicals."
+    },
+    {
+        "index": 79,
+        "start_time": 219887,
+        "end_time": 221520,
+        "text": "With many types of contamination,"
+    },
+    {
+        "index": 80,
+        "start_time": 221520,
+        "end_time": 225941,
+        "text": "there are ways of treating water where \nit&#39;s used instead of close to its source."
+    },
+    {
+        "index": 81,
+        "start_time": 225941,
+        "end_time": 230127,
+        "text": "Point-of-use treatment has actually\nbeen around for thousands of years."
+    },
+    {
+        "index": 82,
+        "start_time": 230127,
+        "end_time": 235598,
+        "text": "Ancient Egyptians boiled away many\norganic contaminants with the sun&#39;s heat."
+    },
+    {
+        "index": 83,
+        "start_time": 235598,
+        "end_time": 238522,
+        "text": "And in Ancient Greece, Hippocrates\ndesigned a bag"
+    },
+    {
+        "index": 84,
+        "start_time": 238522,
+        "end_time": 242287,
+        "text": "that trapped bad tasting \nsediments from water."
+    },
+    {
+        "index": 85,
+        "start_time": 242287,
+        "end_time": 245857,
+        "text": "Today, point-of-use processes usually\ninvolve ionization"
+    },
+    {
+        "index": 86,
+        "start_time": 245857,
+        "end_time": 247579,
+        "text": "to lower mineral content."
+    },
+    {
+        "index": 87,
+        "start_time": 247579,
+        "end_time": 250389,
+        "text": "They also use adsorption filtration,"
+    },
+    {
+        "index": 88,
+        "start_time": 250389,
+        "end_time": 253347,
+        "text": "where a porous material\ncalled activated carbon"
+    },
+    {
+        "index": 89,
+        "start_time": 253347,
+        "end_time": 257870,
+        "text": "strains the water to remove contaminants\nand chemical byproducts."
+    },
+    {
+        "index": 90,
+        "start_time": 257870,
+        "end_time": 260819,
+        "text": "While it&#39;s not always an effective\nlong-term solution,"
+    },
+    {
+        "index": 91,
+        "start_time": 260819,
+        "end_time": 265499,
+        "text": "point-of-use treatment is portable,\neasy to install, and adaptable."
+    },
+    {
+        "index": 92,
+        "start_time": 265499,
+        "end_time": 268698,
+        "text": "And in regions where large-scale\nsystems are unavailable,"
+    },
+    {
+        "index": 93,
+        "start_time": 268698,
+        "end_time": 272131,
+        "text": "or where water has been contaminated\nfurther along its journey,"
+    },
+    {
+        "index": 94,
+        "start_time": 272131,
+        "end_time": 276569,
+        "text": "these systems can mean the difference\nbetween life and death."
+    },
+    {
+        "index": 95,
+        "start_time": 276569,
+        "end_time": 280099,
+        "text": "Clean water remains a precious\nand often scarce commodity."
+    },
+    {
+        "index": 96,
+        "start_time": 280099,
+        "end_time": 284982,
+        "text": "There are nearly 800 million of us who\nstill don&#39;t have regular access to it."
+    },
+    {
+        "index": 97,
+        "start_time": 284982,
+        "end_time": 288061,
+        "text": "The good news is that continued\ndevelopments in water treatment,"
+    },
+    {
+        "index": 98,
+        "start_time": 288061,
+        "end_time": 290301,
+        "text": "both on a large and small scale,"
+    },
+    {
+        "index": 99,
+        "start_time": 290301,
+        "end_time": 292811,
+        "text": "can alleviate a lot of unsafe conditions."
+    },
+    {
+        "index": 100,
+        "start_time": 292811,
+        "end_time": 295111,
+        "text": "Implementing proper systems where\nthey&#39;re needed"
+    },
+    {
+        "index": 101,
+        "start_time": 295111,
+        "end_time": 298489,
+        "text": "and paying careful attention\nto the ones already in place"
+    },
+    {
+        "index": 102,
+        "start_time": 298489,
+        "end_time": 301870,
+        "text": "will fulfill one of the most basic\nof our human needs."
+    }
+]

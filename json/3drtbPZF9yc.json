@@ -1,0 +1,644 @@
+[
+    {
+        "index": 1,
+        "start_time": 7313,
+        "end_time": 9327,
+        "text": "When you hear the word symmetry,"
+    },
+    {
+        "index": 2,
+        "start_time": 9327,
+        "end_time": 11627,
+        "text": "maybe you picture a simple geometric shape"
+    },
+    {
+        "index": 3,
+        "start_time": 11627,
+        "end_time": 13138,
+        "text": "like a square or a triangle,"
+    },
+    {
+        "index": 4,
+        "start_time": 13138,
+        "end_time": 16148,
+        "text": "or the complex pattern on a butterfly&#39;s wings."
+    },
+    {
+        "index": 5,
+        "start_time": 16148,
+        "end_time": 17731,
+        "text": "If you are artistically inclined,"
+    },
+    {
+        "index": 6,
+        "start_time": 17731,
+        "end_time": 20516,
+        "text": "you might think of the subtle modulations of a Mozart concerto,"
+    },
+    {
+        "index": 7,
+        "start_time": 20516,
+        "end_time": 23836,
+        "text": "or the effortless poise of a prima ballerina."
+    },
+    {
+        "index": 8,
+        "start_time": 23836,
+        "end_time": 25093,
+        "text": "When used in every day life,"
+    },
+    {
+        "index": 9,
+        "start_time": 25093,
+        "end_time": 27450,
+        "text": "the word symmetry represents vague notions of"
+    },
+    {
+        "index": 10,
+        "start_time": 27450,
+        "end_time": 29860,
+        "text": "beauty, harmony and balance."
+    },
+    {
+        "index": 11,
+        "start_time": 29860,
+        "end_time": 33004,
+        "text": "In math and science, symmetry has a different,"
+    },
+    {
+        "index": 12,
+        "start_time": 33004,
+        "end_time": 35165,
+        "text": "and very specific, meaning."
+    },
+    {
+        "index": 13,
+        "start_time": 35165,
+        "end_time": 36294,
+        "text": "In this technical sense,"
+    },
+    {
+        "index": 14,
+        "start_time": 36294,
+        "end_time": 39397,
+        "text": "a symmetry is the property of an object."
+    },
+    {
+        "index": 15,
+        "start_time": 39397,
+        "end_time": 42058,
+        "text": "Pretty much any type of object can have symmetry,"
+    },
+    {
+        "index": 16,
+        "start_time": 42058,
+        "end_time": 44234,
+        "text": "from tangible things like butterflies,"
+    },
+    {
+        "index": 17,
+        "start_time": 44234,
+        "end_time": 46994,
+        "text": "to abstract entities like geometric shapes."
+    },
+    {
+        "index": 18,
+        "start_time": 46994,
+        "end_time": 50390,
+        "text": "So, what does it mean for an object to be symmetric?"
+    },
+    {
+        "index": 19,
+        "start_time": 50390,
+        "end_time": 51794,
+        "text": "Here&#39;s the definition:"
+    },
+    {
+        "index": 20,
+        "start_time": 51794,
+        "end_time": 56842,
+        "text": "a symmetry is a transformation that leaves that object unchanged."
+    },
+    {
+        "index": 21,
+        "start_time": 56842,
+        "end_time": 60261,
+        "text": "Okay, that sounds a bit abstract, so let&#39;s unpack it."
+    },
+    {
+        "index": 22,
+        "start_time": 60261,
+        "end_time": 62344,
+        "text": "It will help to look at a particular example,"
+    },
+    {
+        "index": 23,
+        "start_time": 62344,
+        "end_time": 64827,
+        "text": "like this equilateral triangle."
+    },
+    {
+        "index": 24,
+        "start_time": 64827,
+        "end_time": 67874,
+        "text": "If we rotate our triangle through 120 degrees,"
+    },
+    {
+        "index": 25,
+        "start_time": 67874,
+        "end_time": 69723,
+        "text": "around an access through its center,"
+    },
+    {
+        "index": 26,
+        "start_time": 69723,
+        "end_time": 72808,
+        "text": "we end up with a triangle that&#39;s identical to the original."
+    },
+    {
+        "index": 27,
+        "start_time": 72808,
+        "end_time": 75354,
+        "text": "In this case, the object is the triangle,"
+    },
+    {
+        "index": 28,
+        "start_time": 75354,
+        "end_time": 77797,
+        "text": "and the transformation that leaves the object unchanged"
+    },
+    {
+        "index": 29,
+        "start_time": 77797,
+        "end_time": 80513,
+        "text": "is rotation through 120 degrees."
+    },
+    {
+        "index": 30,
+        "start_time": 80513,
+        "end_time": 83633,
+        "text": "So we can say an equilateral triangle is symmetric"
+    },
+    {
+        "index": 31,
+        "start_time": 83633,
+        "end_time": 88254,
+        "text": "with respect to rotations of 120 degrees around its center."
+    },
+    {
+        "index": 32,
+        "start_time": 88254,
+        "end_time": 92208,
+        "text": "If we rotated the triangle by, say, 90 degrees instead,"
+    },
+    {
+        "index": 33,
+        "start_time": 92208,
+        "end_time": 95157,
+        "text": "the rotated triangle would look different to the original."
+    },
+    {
+        "index": 34,
+        "start_time": 95157,
+        "end_time": 98324,
+        "text": "In other words, an equilateral triangle is not symmetric"
+    },
+    {
+        "index": 35,
+        "start_time": 98324,
+        "end_time": 101993,
+        "text": "with respect to rotations of 90 degrees around its center."
+    },
+    {
+        "index": 36,
+        "start_time": 101993,
+        "end_time": 105639,
+        "text": "But why do mathematicians and scientists care about symmetries?"
+    },
+    {
+        "index": 37,
+        "start_time": 105639,
+        "end_time": 108924,
+        "text": "Turns out, they&#39;re essential in many fields of math and science."
+    },
+    {
+        "index": 38,
+        "start_time": 108924,
+        "end_time": 112350,
+        "text": "Let&#39;s take a close look at one example: symmetry in biology."
+    },
+    {
+        "index": 39,
+        "start_time": 112350,
+        "end_time": 115622,
+        "text": "You might have noticed that there&#39;s a very familiar kind of symmetry"
+    },
+    {
+        "index": 40,
+        "start_time": 115622,
+        "end_time": 116908,
+        "text": "we haven&#39;t mentioned yet:"
+    },
+    {
+        "index": 41,
+        "start_time": 116908,
+        "end_time": 119573,
+        "text": "the symmetry of the right and left sides of the human body."
+    },
+    {
+        "index": 42,
+        "start_time": 119573,
+        "end_time": 122545,
+        "text": "The transformation that gives this symmetry is reflection"
+    },
+    {
+        "index": 43,
+        "start_time": 122545,
+        "end_time": 126235,
+        "text": "by an imaginary mirror that slices vertically through the body."
+    },
+    {
+        "index": 44,
+        "start_time": 126235,
+        "end_time": 129991,
+        "text": "Biologists call this bilateral symmetry."
+    },
+    {
+        "index": 45,
+        "start_time": 129991,
+        "end_time": 131996,
+        "text": "As with all symmetries found in living things,"
+    },
+    {
+        "index": 46,
+        "start_time": 131996,
+        "end_time": 133157,
+        "text": "it&#39;s only approximate,"
+    },
+    {
+        "index": 47,
+        "start_time": 133157,
+        "end_time": 136639,
+        "text": "but still a striking feature of the human body."
+    },
+    {
+        "index": 48,
+        "start_time": 136639,
+        "end_time": 140121,
+        "text": "We humans aren&#39;t the only bilaterally symmetric organisms."
+    },
+    {
+        "index": 49,
+        "start_time": 140121,
+        "end_time": 142784,
+        "text": "Many other animals, foxes, sharks, beetles,"
+    },
+    {
+        "index": 50,
+        "start_time": 142784,
+        "end_time": 144830,
+        "text": "that butterfly we mentioned earlier,"
+    },
+    {
+        "index": 51,
+        "start_time": 144830,
+        "end_time": 146286,
+        "text": "have this kind of symmetry,"
+    },
+    {
+        "index": 52,
+        "start_time": 146286,
+        "end_time": 149190,
+        "text": "as do some plants like orchid flowers."
+    },
+    {
+        "index": 53,
+        "start_time": 149190,
+        "end_time": 151239,
+        "text": "Other organisms have different symmetries,"
+    },
+    {
+        "index": 54,
+        "start_time": 151239,
+        "end_time": 152395,
+        "text": "ones that only become apparent"
+    },
+    {
+        "index": 55,
+        "start_time": 152395,
+        "end_time": 155601,
+        "text": "when you rotate the organism around its center point."
+    },
+    {
+        "index": 56,
+        "start_time": 155601,
+        "end_time": 158833,
+        "text": "It&#39;s a lot like the rotational symmetry of the triangle we watched earlier."
+    },
+    {
+        "index": 57,
+        "start_time": 158833,
+        "end_time": 160136,
+        "text": "But when it occurs in animals,"
+    },
+    {
+        "index": 58,
+        "start_time": 160136,
+        "end_time": 163397,
+        "text": "this kind of symmetry is known as radial symmetry."
+    },
+    {
+        "index": 59,
+        "start_time": 163397,
+        "end_time": 165889,
+        "text": "For instance, some sea urchins and starfish"
+    },
+    {
+        "index": 60,
+        "start_time": 165889,
+        "end_time": 168417,
+        "text": "have pentaradial or five-fold symmetry,"
+    },
+    {
+        "index": 61,
+        "start_time": 168417,
+        "end_time": 173110,
+        "text": "that is, symmetry with respect to rotations of 72 degrees around their center."
+    },
+    {
+        "index": 62,
+        "start_time": 173110,
+        "end_time": 175194,
+        "text": "This symmetry also appears in plants,"
+    },
+    {
+        "index": 63,
+        "start_time": 175194,
+        "end_time": 178954,
+        "text": "as you can see for yourself by slicing through an apple horizontally."
+    },
+    {
+        "index": 64,
+        "start_time": 178954,
+        "end_time": 182069,
+        "text": "Some jellyfish are symmetric with respect to rotations of 90 degrees,"
+    },
+    {
+        "index": 65,
+        "start_time": 182069,
+        "end_time": 185767,
+        "text": "while sea anemones are symmetric when you rotate them at any angle."
+    },
+    {
+        "index": 66,
+        "start_time": 185767,
+        "end_time": 188406,
+        "text": "Some corals, on the other hand, have no symmetry at all."
+    },
+    {
+        "index": 67,
+        "start_time": 188406,
+        "end_time": 190568,
+        "text": "They are completely asymmetric."
+    },
+    {
+        "index": 68,
+        "start_time": 190568,
+        "end_time": 193796,
+        "text": "But why do organisms exhibit these different symmetries?"
+    },
+    {
+        "index": 69,
+        "start_time": 193796,
+        "end_time": 197284,
+        "text": "Does body symmetry tell us anything about an animal&#39;s lifestyle?"
+    },
+    {
+        "index": 70,
+        "start_time": 197284,
+        "end_time": 198882,
+        "text": "Let&#39;s look at one particular group:"
+    },
+    {
+        "index": 71,
+        "start_time": 198882,
+        "end_time": 200729,
+        "text": "bilaterally symmetric animals."
+    },
+    {
+        "index": 72,
+        "start_time": 200729,
+        "end_time": 204354,
+        "text": "In this camp, we have foxes, beetles, sharks, butterflies,"
+    },
+    {
+        "index": 73,
+        "start_time": 204354,
+        "end_time": 206706,
+        "text": "and, of course, humans."
+    },
+    {
+        "index": 74,
+        "start_time": 206706,
+        "end_time": 209473,
+        "text": "The thing that unites bilaterally symmetric animals"
+    },
+    {
+        "index": 75,
+        "start_time": 209473,
+        "end_time": 212489,
+        "text": "is that their bodies are designed around movement."
+    },
+    {
+        "index": 76,
+        "start_time": 212489,
+        "end_time": 214613,
+        "text": "If you want to pick one direction and move that way,"
+    },
+    {
+        "index": 77,
+        "start_time": 214613,
+        "end_time": 216368,
+        "text": "it helps to have a front end"
+    },
+    {
+        "index": 78,
+        "start_time": 216368,
+        "end_time": 218155,
+        "text": "where you can group your sensory organs--"
+    },
+    {
+        "index": 79,
+        "start_time": 218155,
+        "end_time": 220449,
+        "text": "your eyes, ears and nose."
+    },
+    {
+        "index": 80,
+        "start_time": 220449,
+        "end_time": 222272,
+        "text": "It helps to have your mouth there too"
+    },
+    {
+        "index": 81,
+        "start_time": 222272,
+        "end_time": 224187,
+        "text": "since you&#39;re more likely to run into food"
+    },
+    {
+        "index": 82,
+        "start_time": 224187,
+        "end_time": 226217,
+        "text": "or enemies from this end."
+    },
+    {
+        "index": 83,
+        "start_time": 226217,
+        "end_time": 228720,
+        "text": "You&#39;re probably familiar with a name for a group of organs,"
+    },
+    {
+        "index": 84,
+        "start_time": 228720,
+        "end_time": 231699,
+        "text": "plus a mouth, mounted on the front of an animal&#39;s body."
+    },
+    {
+        "index": 85,
+        "start_time": 231699,
+        "end_time": 233526,
+        "text": "It&#39;s called a head."
+    },
+    {
+        "index": 86,
+        "start_time": 233526,
+        "end_time": 237257,
+        "text": "Having a head leads naturally to the development of bilateral symmetry."
+    },
+    {
+        "index": 87,
+        "start_time": 237257,
+        "end_time": 240378,
+        "text": "And it also helps you build streamlined fins if you&#39;re a fish,"
+    },
+    {
+        "index": 88,
+        "start_time": 240378,
+        "end_time": 242313,
+        "text": "aerodynamic wings if you&#39;re a bird,"
+    },
+    {
+        "index": 89,
+        "start_time": 242313,
+        "end_time": 245953,
+        "text": "or well coordinated legs for running if you&#39;re a fox."
+    },
+    {
+        "index": 90,
+        "start_time": 245953,
+        "end_time": 248730,
+        "text": "But, what does this all have to do with evolution?"
+    },
+    {
+        "index": 91,
+        "start_time": 248730,
+        "end_time": 251514,
+        "text": "Turns out, biologists can use these various body symmetries"
+    },
+    {
+        "index": 92,
+        "start_time": 251514,
+        "end_time": 254193,
+        "text": "to figure out which animals are related to which."
+    },
+    {
+        "index": 93,
+        "start_time": 254193,
+        "end_time": 258037,
+        "text": "For instance, we saw that starfish and sea urchins have five-fold symmetry."
+    },
+    {
+        "index": 94,
+        "start_time": 258037,
+        "end_time": 260157,
+        "text": "But really what we should have said was"
+    },
+    {
+        "index": 95,
+        "start_time": 260157,
+        "end_time": 261880,
+        "text": "adult starfish and sea urchins."
+    },
+    {
+        "index": 96,
+        "start_time": 261880,
+        "end_time": 265772,
+        "text": "In their larval stage, they&#39;re bilateral, just like us humans."
+    },
+    {
+        "index": 97,
+        "start_time": 265772,
+        "end_time": 267817,
+        "text": "For biologists, this is strong evidence"
+    },
+    {
+        "index": 98,
+        "start_time": 267817,
+        "end_time": 269836,
+        "text": "that we&#39;re more closely related to starfish"
+    },
+    {
+        "index": 99,
+        "start_time": 269836,
+        "end_time": 271620,
+        "text": "than we are, to say, corals,"
+    },
+    {
+        "index": 100,
+        "start_time": 271620,
+        "end_time": 273876,
+        "text": "or other animals that don&#39;t exhibit bilateral symmetry"
+    },
+    {
+        "index": 101,
+        "start_time": 273876,
+        "end_time": 275938,
+        "text": "at any stage in their development."
+    },
+    {
+        "index": 102,
+        "start_time": 275938,
+        "end_time": 278782,
+        "text": "One of the most fascinating and important problems in biology"
+    },
+    {
+        "index": 103,
+        "start_time": 278782,
+        "end_time": 280793,
+        "text": "is reconstructing the tree of life,"
+    },
+    {
+        "index": 104,
+        "start_time": 280793,
+        "end_time": 284210,
+        "text": "discovering when and how the different branches diverged."
+    },
+    {
+        "index": 105,
+        "start_time": 284210,
+        "end_time": 286529,
+        "text": "Thinking about something as simple as body symmetry"
+    },
+    {
+        "index": 106,
+        "start_time": 286529,
+        "end_time": 289128,
+        "text": "can help us dig far into our evolutionary past"
+    },
+    {
+        "index": 107,
+        "start_time": 289128,
+        "end_time": 292531,
+        "text": "and understand where we, as a species, have come from."
+    }
+]

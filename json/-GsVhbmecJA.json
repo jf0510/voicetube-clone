@@ -1,0 +1,494 @@
+[
+    {
+        "index": 1,
+        "start_time": 7433,
+        "end_time": 12010,
+        "text": "Language is an essential part of our lives\nthat we often take for granted."
+    },
+    {
+        "index": 2,
+        "start_time": 12010,
+        "end_time": 15389,
+        "text": "With it, we can communicate our thoughts\nand feelings,"
+    },
+    {
+        "index": 3,
+        "start_time": 15389,
+        "end_time": 17370,
+        "text": "lose ourselves in novels,"
+    },
+    {
+        "index": 4,
+        "start_time": 17370,
+        "end_time": 18938,
+        "text": "send text messages,"
+    },
+    {
+        "index": 5,
+        "start_time": 18938,
+        "end_time": 21124,
+        "text": "and greet friends."
+    },
+    {
+        "index": 6,
+        "start_time": 21124,
+        "end_time": 25468,
+        "text": "It&#39;s hard to imagine being unable\nto turn thoughts into words."
+    },
+    {
+        "index": 7,
+        "start_time": 25468,
+        "end_time": 29304,
+        "text": "But if the delicate web of language\nnetworks in your brain"
+    },
+    {
+        "index": 8,
+        "start_time": 29304,
+        "end_time": 33556,
+        "text": "became disrupted by stroke,\nillness, or trauma,"
+    },
+    {
+        "index": 9,
+        "start_time": 33556,
+        "end_time": 37484,
+        "text": "you could find yourself truly\nat a loss for words."
+    },
+    {
+        "index": 10,
+        "start_time": 37484,
+        "end_time": 43505,
+        "text": "This disorder, called aphasia,\ncan impair all aspects of communication."
+    },
+    {
+        "index": 11,
+        "start_time": 43505,
+        "end_time": 47035,
+        "text": "People who have aphasia remain\nas intelligent as ever."
+    },
+    {
+        "index": 12,
+        "start_time": 47035,
+        "end_time": 48985,
+        "text": "They know what they want to say,"
+    },
+    {
+        "index": 13,
+        "start_time": 48985,
+        "end_time": 52246,
+        "text": "but can&#39;t always get their words\nto come out correctly."
+    },
+    {
+        "index": 14,
+        "start_time": 52246,
+        "end_time": 56559,
+        "text": "They may unintentionally use\nsubstitutions called paraphasias,"
+    },
+    {
+        "index": 15,
+        "start_time": 56559,
+        "end_time": 59684,
+        "text": "switching related words,\nlike saying &quot;dog&quot; for &quot;cat,&quot;"
+    },
+    {
+        "index": 16,
+        "start_time": 59684,
+        "end_time": 66055,
+        "text": "or words that sound similar,\nsuch as &quot;house&quot; for &quot;horse.&quot;"
+    },
+    {
+        "index": 17,
+        "start_time": 66055,
+        "end_time": 69254,
+        "text": "Sometimes, their words may even be\nunrecognizable."
+    },
+    {
+        "index": 18,
+        "start_time": 69254,
+        "end_time": 73995,
+        "text": "There are several types of aphasia\ngrouped into two categories:"
+    },
+    {
+        "index": 19,
+        "start_time": 73995,
+        "end_time": 76325,
+        "text": "fluent, or receptive, aphasia"
+    },
+    {
+        "index": 20,
+        "start_time": 76325,
+        "end_time": 79966,
+        "text": "and non-fluent, or expressive, aphasia."
+    },
+    {
+        "index": 21,
+        "start_time": 79966,
+        "end_time": 83776,
+        "text": "People with fluent aphasia may have\nnormal vocal inflection"
+    },
+    {
+        "index": 22,
+        "start_time": 83776,
+        "end_time": 86457,
+        "text": "but use words that lack meaning."
+    },
+    {
+        "index": 23,
+        "start_time": 86457,
+        "end_time": 89526,
+        "text": "They have difficulty comprehending\nthe speech of others"
+    },
+    {
+        "index": 24,
+        "start_time": 89526,
+        "end_time": 93535,
+        "text": "and are frequently unable to recognize\ntheir own speech errors."
+    },
+    {
+        "index": 25,
+        "start_time": 93535,
+        "end_time": 96305,
+        "text": "People with non-fluent aphasia,\non the other hand,"
+    },
+    {
+        "index": 26,
+        "start_time": 96305,
+        "end_time": 98206,
+        "text": "may have good comprehension"
+    },
+    {
+        "index": 27,
+        "start_time": 98206,
+        "end_time": 103367,
+        "text": "but will experience long hesitations\nbetween words and make grammatical errors."
+    },
+    {
+        "index": 28,
+        "start_time": 103367,
+        "end_time": 106607,
+        "text": "We all have that tip-of-the-tongue feeling\nfrom time to time"
+    },
+    {
+        "index": 29,
+        "start_time": 106607,
+        "end_time": 108488,
+        "text": "when we can&#39;t think of a word,"
+    },
+    {
+        "index": 30,
+        "start_time": 108488,
+        "end_time": 112818,
+        "text": "but having aphasia can make it hard\nto name simple, everyday objects."
+    },
+    {
+        "index": 31,
+        "start_time": 112818,
+        "end_time": 116518,
+        "text": "Even reading and writing can be difficult\nand frustrating."
+    },
+    {
+        "index": 32,
+        "start_time": 116518,
+        "end_time": 119308,
+        "text": "So how does this language loss happen?"
+    },
+    {
+        "index": 33,
+        "start_time": 119308,
+        "end_time": 121807,
+        "text": "The human brain has two hemispheres."
+    },
+    {
+        "index": 34,
+        "start_time": 121807,
+        "end_time": 125567,
+        "text": "In most people, the left hemisphere\ngoverns language."
+    },
+    {
+        "index": 35,
+        "start_time": 125567,
+        "end_time": 127978,
+        "text": "We know this because in 1861,"
+    },
+    {
+        "index": 36,
+        "start_time": 127978,
+        "end_time": 130677,
+        "text": "the physician Paul Broca studied a patient"
+    },
+    {
+        "index": 37,
+        "start_time": 130677,
+        "end_time": 135506,
+        "text": "who lost the ability to use all \nbut a single word, &quot;tan.&quot;"
+    },
+    {
+        "index": 38,
+        "start_time": 135506,
+        "end_time": 137998,
+        "text": "During a postmortem study\nof that patient&#39;s brain,"
+    },
+    {
+        "index": 39,
+        "start_time": 137998,
+        "end_time": 141338,
+        "text": "Broca discovered a large lesion\nin the left hemisphere"
+    },
+    {
+        "index": 40,
+        "start_time": 141338,
+        "end_time": 143727,
+        "text": "now known as Broca&#39;s area."
+    },
+    {
+        "index": 41,
+        "start_time": 143727,
+        "end_time": 148158,
+        "text": "Scientists today believe that Broca&#39;s area\nis responsible in part for naming objects"
+    },
+    {
+        "index": 42,
+        "start_time": 148158,
+        "end_time": 151078,
+        "text": "and coordinating the muscles\ninvolved in speech."
+    },
+    {
+        "index": 43,
+        "start_time": 151078,
+        "end_time": 155878,
+        "text": "Behind Broca&#39;s area is Wernicke&#39;s area\nnear the auditory cortex."
+    },
+    {
+        "index": 44,
+        "start_time": 155878,
+        "end_time": 159008,
+        "text": "That&#39;s where the brain attaches\nmeaning to speech sounds."
+    },
+    {
+        "index": 45,
+        "start_time": 159008,
+        "end_time": 163338,
+        "text": "Damage to Wernicke&#39;s area impairs the\nbrain&#39;s ability to comprehend language."
+    },
+    {
+        "index": 46,
+        "start_time": 163338,
+        "end_time": 168489,
+        "text": "Aphasia is caused by injury to one or\nboth of these specialized language areas."
+    },
+    {
+        "index": 47,
+        "start_time": 168489,
+        "end_time": 170829,
+        "text": "Fortunately, there are other areas\nof the brain"
+    },
+    {
+        "index": 48,
+        "start_time": 170829,
+        "end_time": 172779,
+        "text": "which support these language centers"
+    },
+    {
+        "index": 49,
+        "start_time": 172779,
+        "end_time": 175218,
+        "text": "and can assist with communication."
+    },
+    {
+        "index": 50,
+        "start_time": 175218,
+        "end_time": 179078,
+        "text": "Even brain areas that control movement\nare connected to language."
+    },
+    {
+        "index": 51,
+        "start_time": 179078,
+        "end_time": 184478,
+        "text": "FMRI studies found that when we hear\naction words, like &quot;run&quot; or &quot;dance,&quot;"
+    },
+    {
+        "index": 52,
+        "start_time": 184478,
+        "end_time": 187600,
+        "text": "parts of the brain responsible\nfor movement light up"
+    },
+    {
+        "index": 53,
+        "start_time": 187600,
+        "end_time": 190969,
+        "text": "as if the body was actually running\nor dancing."
+    },
+    {
+        "index": 54,
+        "start_time": 190969,
+        "end_time": 193929,
+        "text": "Our other hemisphere contributes\nto language, too,"
+    },
+    {
+        "index": 55,
+        "start_time": 193929,
+        "end_time": 197369,
+        "text": "enhancing the rhythm and intonation\nof our speech."
+    },
+    {
+        "index": 56,
+        "start_time": 197369,
+        "end_time": 201099,
+        "text": "These non-language areas sometimes\nassist people with aphasia"
+    },
+    {
+        "index": 57,
+        "start_time": 201099,
+        "end_time": 203469,
+        "text": "when communication is difficult."
+    },
+    {
+        "index": 58,
+        "start_time": 203469,
+        "end_time": 205668,
+        "text": "So how common is aphasia?"
+    },
+    {
+        "index": 59,
+        "start_time": 205668,
+        "end_time": 208913,
+        "text": "Approximately 1 million people\nin the U.S. alone have it,"
+    },
+    {
+        "index": 60,
+        "start_time": 208913,
+        "end_time": 212530,
+        "text": "with an estimated 80,000 new cases\nper year."
+    },
+    {
+        "index": 61,
+        "start_time": 212530,
+        "end_time": 215669,
+        "text": "About one-third of stroke survivors\nsuffer from aphasia"
+    },
+    {
+        "index": 62,
+        "start_time": 215669,
+        "end_time": 218260,
+        "text": "making it more prevalent \nthan Parkinson&#39;s disease"
+    },
+    {
+        "index": 63,
+        "start_time": 218260,
+        "end_time": 220180,
+        "text": "or multiple sclerosis,"
+    },
+    {
+        "index": 64,
+        "start_time": 220180,
+        "end_time": 222469,
+        "text": "yet less widely known."
+    },
+    {
+        "index": 65,
+        "start_time": 222469,
+        "end_time": 227880,
+        "text": "There is one rare form of aphasia called\nprimary progressive aphasia, or PPA,"
+    },
+    {
+        "index": 66,
+        "start_time": 227880,
+        "end_time": 230771,
+        "text": "which is not caused by stroke\nor brain injury,"
+    },
+    {
+        "index": 67,
+        "start_time": 230771,
+        "end_time": 233209,
+        "text": "but is actually a form of dementia"
+    },
+    {
+        "index": 68,
+        "start_time": 233209,
+        "end_time": 236061,
+        "text": "in which language loss \nis the first symptom."
+    },
+    {
+        "index": 69,
+        "start_time": 236061,
+        "end_time": 241232,
+        "text": "The goal in treating PPA is to maintain\nlanguage function for as long as possible"
+    },
+    {
+        "index": 70,
+        "start_time": 241232,
+        "end_time": 244560,
+        "text": "before other symptoms of dementia\neventually occur."
+    },
+    {
+        "index": 71,
+        "start_time": 244560,
+        "end_time": 248330,
+        "text": "However, when aphasia is acquired\nfrom a stroke or brain trauma,"
+    },
+    {
+        "index": 72,
+        "start_time": 248330,
+        "end_time": 252041,
+        "text": "language improvement may be achieved\nthrough speech therapy."
+    },
+    {
+        "index": 73,
+        "start_time": 252041,
+        "end_time": 255911,
+        "text": "Our brain&#39;s ability to repair itself,\nknown as brain plasticity,"
+    },
+    {
+        "index": 74,
+        "start_time": 255911,
+        "end_time": 258480,
+        "text": "permits areas surrounding\na brain lesion"
+    },
+    {
+        "index": 75,
+        "start_time": 258480,
+        "end_time": 261994,
+        "text": "to take over some functions during\nthe recovery process."
+    },
+    {
+        "index": 76,
+        "start_time": 261994,
+        "end_time": 266405,
+        "text": "Scientists have been conducting\nexperiments using new forms of technology,"
+    },
+    {
+        "index": 77,
+        "start_time": 266405,
+        "end_time": 271340,
+        "text": "which they believe may encourage brain\nplasticity in people with aphasia."
+    },
+    {
+        "index": 78,
+        "start_time": 271340,
+        "end_time": 275254,
+        "text": "Meanwhile, many people with aphasia\nremain isolated,"
+    },
+    {
+        "index": 79,
+        "start_time": 275254,
+        "end_time": 279941,
+        "text": "afraid that others won&#39;t understand\nthem or give them extra time to speak."
+    },
+    {
+        "index": 80,
+        "start_time": 279941,
+        "end_time": 284311,
+        "text": "By offering them the time and flexibility\nto communicate in whatever way they can,"
+    },
+    {
+        "index": 81,
+        "start_time": 284311,
+        "end_time": 287105,
+        "text": "you can help open the door \nto language again,"
+    },
+    {
+        "index": 82,
+        "start_time": 287105,
+        "end_time": 290034,
+        "text": "moving beyond the limitations of aphasia."
+    }
+]

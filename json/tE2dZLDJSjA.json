@@ -1,0 +1,482 @@
+[
+    {
+        "index": 1,
+        "start_time": 7507,
+        "end_time": 9944,
+        "text": "You&#39;re the realm&#39;s greatest mathematician,"
+    },
+    {
+        "index": 2,
+        "start_time": 9944,
+        "end_time": 13348,
+        "text": "but ever since you criticized \nthe Emperor&#39;s tax laws,"
+    },
+    {
+        "index": 3,
+        "start_time": 13348,
+        "end_time": 15249,
+        "text": "you&#39;ve been locked in the dungeon"
+    },
+    {
+        "index": 4,
+        "start_time": 15249,
+        "end_time": 18198,
+        "text": "with only a marker to count the days."
+    },
+    {
+        "index": 5,
+        "start_time": 18198,
+        "end_time": 21358,
+        "text": "But one day, you&#39;re suddenly brought\nbefore the Emperor"
+    },
+    {
+        "index": 6,
+        "start_time": 21358,
+        "end_time": 24149,
+        "text": "who looks even angrier than usual."
+    },
+    {
+        "index": 7,
+        "start_time": 24149,
+        "end_time": 27938,
+        "text": "One of his twelve governors has been\nconvicted of paying his taxes"
+    },
+    {
+        "index": 8,
+        "start_time": 27938,
+        "end_time": 29945,
+        "text": "with a counterfeit coin"
+    },
+    {
+        "index": 9,
+        "start_time": 29945,
+        "end_time": 33239,
+        "text": "which has already made its way\ninto the treasury."
+    },
+    {
+        "index": 10,
+        "start_time": 33239,
+        "end_time": 35160,
+        "text": "As the kingdom&#39;s greatest mathematician,"
+    },
+    {
+        "index": 11,
+        "start_time": 35160,
+        "end_time": 40930,
+        "text": "you&#39;ve been granted a chance to earn\nyour freedom by identifying the fake."
+    },
+    {
+        "index": 12,
+        "start_time": 40930,
+        "end_time": 46099,
+        "text": "Before you are the twelve identical\nlooking coins and a balance scale."
+    },
+    {
+        "index": 13,
+        "start_time": 46099,
+        "end_time": 50300,
+        "text": "You know that the false coin\nwill be very slightly lighter or heavier"
+    },
+    {
+        "index": 14,
+        "start_time": 50300,
+        "end_time": 51868,
+        "text": "than the rest."
+    },
+    {
+        "index": 15,
+        "start_time": 51868,
+        "end_time": 54489,
+        "text": "But the Emperor&#39;s not a patient man."
+    },
+    {
+        "index": 16,
+        "start_time": 54489,
+        "end_time": 56979,
+        "text": "You may only use the scale three times"
+    },
+    {
+        "index": 17,
+        "start_time": 56979,
+        "end_time": 60640,
+        "text": "before you&#39;ll be thrown back \ninto the dungeon."
+    },
+    {
+        "index": 18,
+        "start_time": 60640,
+        "end_time": 62829,
+        "text": "You look around for anything else\nyou can use,"
+    },
+    {
+        "index": 19,
+        "start_time": 62829,
+        "end_time": 64650,
+        "text": "but there&#39;s nothing in the room -"
+    },
+    {
+        "index": 20,
+        "start_time": 64650,
+        "end_time": 65681,
+        "text": "just the coins,"
+    },
+    {
+        "index": 21,
+        "start_time": 65681,
+        "end_time": 66921,
+        "text": "the scale,"
+    },
+    {
+        "index": 22,
+        "start_time": 66921,
+        "end_time": 68952,
+        "text": "and your trusty marker."
+    },
+    {
+        "index": 23,
+        "start_time": 68952,
+        "end_time": 71317,
+        "text": "How do you identify the counterfeit?"
+    },
+    {
+        "index": 24,
+        "start_time": 71317,
+        "end_time": 74379,
+        "text": "Pause here if you want \nto figure it out for yourself!"
+    },
+    {
+        "index": 25,
+        "start_time": 74379,
+        "end_time": 75849,
+        "text": "Answer in: 3"
+    },
+    {
+        "index": 26,
+        "start_time": 75849,
+        "end_time": 77350,
+        "text": "Answer in: 2"
+    },
+    {
+        "index": 27,
+        "start_time": 77350,
+        "end_time": 79107,
+        "text": "Answer in: 1"
+    },
+    {
+        "index": 28,
+        "start_time": 79107,
+        "end_time": 83309,
+        "text": "Obviously you can&#39;t weigh each coin\nagainst all of the others,"
+    },
+    {
+        "index": 29,
+        "start_time": 83309,
+        "end_time": 85941,
+        "text": "so you&#39;ll have to weigh several coins\nat the same time"
+    },
+    {
+        "index": 30,
+        "start_time": 85941,
+        "end_time": 89070,
+        "text": "by splitting the stack \ninto multiple piles"
+    },
+    {
+        "index": 31,
+        "start_time": 89070,
+        "end_time": 92648,
+        "text": "then narrowing down \nwhere the false coin is."
+    },
+    {
+        "index": 32,
+        "start_time": 92648,
+        "end_time": 97361,
+        "text": "Start by dividing the twelve coins\ninto three equal piles of four."
+    },
+    {
+        "index": 33,
+        "start_time": 97361,
+        "end_time": 102201,
+        "text": "Placing two of these on the scale\ngives us two possible outcomes."
+    },
+    {
+        "index": 34,
+        "start_time": 102201,
+        "end_time": 107212,
+        "text": "If the two sides balance,\nall eight coins on the scale are real,"
+    },
+    {
+        "index": 35,
+        "start_time": 107212,
+        "end_time": 110392,
+        "text": "and the fake must be among \nthe remaining four."
+    },
+    {
+        "index": 36,
+        "start_time": 110392,
+        "end_time": 112672,
+        "text": "So how do you keep track of these results?"
+    },
+    {
+        "index": 37,
+        "start_time": 112672,
+        "end_time": 114660,
+        "text": "That&#39;s where the marker comes in."
+    },
+    {
+        "index": 38,
+        "start_time": 114660,
+        "end_time": 118170,
+        "text": "Mark the eight authentic coins\nwith a zero."
+    },
+    {
+        "index": 39,
+        "start_time": 118170,
+        "end_time": 122822,
+        "text": "Now, take three of them and weigh them\nagainst three unmarked coins."
+    },
+    {
+        "index": 40,
+        "start_time": 122822,
+        "end_time": 127333,
+        "text": "If they balance, the remaining \nunmarked coin must be the fake."
+    },
+    {
+        "index": 41,
+        "start_time": 127333,
+        "end_time": 132181,
+        "text": "If they don&#39;t, draw a plus on the three\nunmarked coins if they&#39;re heavier"
+    },
+    {
+        "index": 42,
+        "start_time": 132181,
+        "end_time": 135152,
+        "text": "or a minus if they&#39;re lighter."
+    },
+    {
+        "index": 43,
+        "start_time": 135152,
+        "end_time": 139662,
+        "text": "Now, take two of the newly marked coins\nand weigh them against each other."
+    },
+    {
+        "index": 44,
+        "start_time": 139662,
+        "end_time": 142701,
+        "text": "If they balance, the third coin is fake."
+    },
+    {
+        "index": 45,
+        "start_time": 142701,
+        "end_time": 144612,
+        "text": "Otherwise, look at their marks."
+    },
+    {
+        "index": 46,
+        "start_time": 144612,
+        "end_time": 148553,
+        "text": "If they are plus coins, \nthe heavier one is the imposter."
+    },
+    {
+        "index": 47,
+        "start_time": 148553,
+        "end_time": 151753,
+        "text": "If they are marked with minus,\nit&#39;s the lighter one."
+    },
+    {
+        "index": 48,
+        "start_time": 151753,
+        "end_time": 156232,
+        "text": "But what if the first two piles you weigh\ndon&#39;t balance?"
+    },
+    {
+        "index": 49,
+        "start_time": 156232,
+        "end_time": 159082,
+        "text": "Mark the coins on the heavier side\nwith a plus"
+    },
+    {
+        "index": 50,
+        "start_time": 159082,
+        "end_time": 162974,
+        "text": "and those on the lighter side \nwith a minus."
+    },
+    {
+        "index": 51,
+        "start_time": 162974,
+        "end_time": 166173,
+        "text": "You can also mark the remaining four coins\nwith zeros"
+    },
+    {
+        "index": 52,
+        "start_time": 166173,
+        "end_time": 171524,
+        "text": "since you know the fake one\nis already somewhere on the scale."
+    },
+    {
+        "index": 53,
+        "start_time": 171524,
+        "end_time": 173414,
+        "text": "Now, you&#39;ll need to think strategically"
+    },
+    {
+        "index": 54,
+        "start_time": 173414,
+        "end_time": 178475,
+        "text": "so you can remove all remaining ambiguity\nin just two more weighings."
+    },
+    {
+        "index": 55,
+        "start_time": 178475,
+        "end_time": 181944,
+        "text": "To do this, you&#39;ll need \nto reassemble the piles."
+    },
+    {
+        "index": 56,
+        "start_time": 181944,
+        "end_time": 184786,
+        "text": "One method is to replace \nthree of the plus coins"
+    },
+    {
+        "index": 57,
+        "start_time": 184786,
+        "end_time": 187113,
+        "text": "with three of the minus coins,"
+    },
+    {
+        "index": 58,
+        "start_time": 187113,
+        "end_time": 190953,
+        "text": "and replace those \nwith three of the zero coins."
+    },
+    {
+        "index": 59,
+        "start_time": 190953,
+        "end_time": 193423,
+        "text": "&gt;From here, you have three possibilities."
+    },
+    {
+        "index": 60,
+        "start_time": 193423,
+        "end_time": 197475,
+        "text": "If the previously heavier side of\nthe scale is still heavier,"
+    },
+    {
+        "index": 61,
+        "start_time": 197475,
+        "end_time": 200725,
+        "text": "that means either the remaining\nplus coin on that side"
+    },
+    {
+        "index": 62,
+        "start_time": 200725,
+        "end_time": 202826,
+        "text": "is actually the heavier one,"
+    },
+    {
+        "index": 63,
+        "start_time": 202826,
+        "end_time": 205756,
+        "text": "or the remaining\nminus coin on the lighter side"
+    },
+    {
+        "index": 64,
+        "start_time": 205756,
+        "end_time": 208235,
+        "text": "is actually the lighter one."
+    },
+    {
+        "index": 65,
+        "start_time": 208235,
+        "end_time": 211915,
+        "text": "Choose either one of them, and weigh\nit against one of the regular coins"
+    },
+    {
+        "index": 66,
+        "start_time": 211915,
+        "end_time": 213735,
+        "text": "to see which is true."
+    },
+    {
+        "index": 67,
+        "start_time": 213735,
+        "end_time": 216466,
+        "text": "If the previously heavier side\nbecame lighter,"
+    },
+    {
+        "index": 68,
+        "start_time": 216466,
+        "end_time": 219236,
+        "text": "that means one of the three minus\ncoins you moved"
+    },
+    {
+        "index": 69,
+        "start_time": 219236,
+        "end_time": 221507,
+        "text": "is actually the lighter one."
+    },
+    {
+        "index": 70,
+        "start_time": 221507,
+        "end_time": 223706,
+        "text": "Weigh two of them against each other."
+    },
+    {
+        "index": 71,
+        "start_time": 223706,
+        "end_time": 226666,
+        "text": "If they balance, the third is counterfeit."
+    },
+    {
+        "index": 72,
+        "start_time": 226666,
+        "end_time": 229765,
+        "text": "If not, the lighter one is."
+    },
+    {
+        "index": 73,
+        "start_time": 229765,
+        "end_time": 233596,
+        "text": "Similarly, if the two sides balanced\nafter your substitution,"
+    },
+    {
+        "index": 74,
+        "start_time": 233596,
+        "end_time": 236546,
+        "text": "then one of the three plus coins\nyou removed"
+    },
+    {
+        "index": 75,
+        "start_time": 236546,
+        "end_time": 238526,
+        "text": "must be the heavier one."
+    },
+    {
+        "index": 76,
+        "start_time": 238526,
+        "end_time": 240527,
+        "text": "Weigh two of them against each other."
+    },
+    {
+        "index": 77,
+        "start_time": 240527,
+        "end_time": 243588,
+        "text": "If they balance, the third one is fake."
+    },
+    {
+        "index": 78,
+        "start_time": 243588,
+        "end_time": 247068,
+        "text": "If not, then it&#39;s the heavier one."
+    },
+    {
+        "index": 79,
+        "start_time": 247068,
+        "end_time": 250076,
+        "text": "The Emperor nods approvingly\nat your finding,"
+    },
+    {
+        "index": 80,
+        "start_time": 250076,
+        "end_time": 253476,
+        "text": "and the counterfeiting Lord\ntakes your place in the dungeon."
+    }
+]

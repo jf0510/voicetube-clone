@@ -1,0 +1,410 @@
+[
+    {
+        "index": 1,
+        "start_time": 9218,
+        "end_time": 12554,
+        "text": "This is the microraptor,"
+    },
+    {
+        "index": 2,
+        "start_time": 12554,
+        "end_time": 17060,
+        "text": "a carnivorous four-winged dinosaur\nthat was almost two-feet long,"
+    },
+    {
+        "index": 3,
+        "start_time": 17060,
+        "end_time": 18271,
+        "text": "ate fish,"
+    },
+    {
+        "index": 4,
+        "start_time": 18271,
+        "end_time": 21209,
+        "text": "and lived about 120 million years ago."
+    },
+    {
+        "index": 5,
+        "start_time": 21209,
+        "end_time": 26176,
+        "text": "Most of what we know about it\ncomes from fossils that look like this."
+    },
+    {
+        "index": 6,
+        "start_time": 26176,
+        "end_time": 29970,
+        "text": "So, is its coloration here \njust an artist&#39;s best guess?"
+    },
+    {
+        "index": 7,
+        "start_time": 29970,
+        "end_time": 32286,
+        "text": "The answer is no."
+    },
+    {
+        "index": 8,
+        "start_time": 32286,
+        "end_time": 35414,
+        "text": "We know this shimmering \nblack color is accurate"
+    },
+    {
+        "index": 9,
+        "start_time": 35414,
+        "end_time": 40608,
+        "text": "because paleontologists have analyzed\nclues contained within the fossil."
+    },
+    {
+        "index": 10,
+        "start_time": 40608,
+        "end_time": 44828,
+        "text": "But making sense of the evidence\nrequires careful examination of the fossil"
+    },
+    {
+        "index": 11,
+        "start_time": 44828,
+        "end_time": 50031,
+        "text": "and a good understanding of the physics\nof light and color."
+    },
+    {
+        "index": 12,
+        "start_time": 50031,
+        "end_time": 53692,
+        "text": "First of all, here&#39;s what we actually see\non the fossil:"
+    },
+    {
+        "index": 13,
+        "start_time": 53692,
+        "end_time": 58386,
+        "text": "imprints of bones and feathers that have\nleft telltale mineral deposits."
+    },
+    {
+        "index": 14,
+        "start_time": 58386,
+        "end_time": 59830,
+        "text": "And from those imprints,"
+    },
+    {
+        "index": 15,
+        "start_time": 59830,
+        "end_time": 62436,
+        "text": "we can determine that these \nmicroraptor feathers"
+    },
+    {
+        "index": 16,
+        "start_time": 62436,
+        "end_time": 67572,
+        "text": "were similar to modern dinosaur,\nas in bird, feathers."
+    },
+    {
+        "index": 17,
+        "start_time": 67572,
+        "end_time": 71237,
+        "text": "But what gives birds their signature\ndiverse colorations?"
+    },
+    {
+        "index": 18,
+        "start_time": 71237,
+        "end_time": 75827,
+        "text": "Most feathers contain just one\nor two dye-like pigments."
+    },
+    {
+        "index": 19,
+        "start_time": 75827,
+        "end_time": 78403,
+        "text": "The cardinal&#39;s bright red\ncomes from carotenoids,"
+    },
+    {
+        "index": 20,
+        "start_time": 78403,
+        "end_time": 81409,
+        "text": "the same pigments \nthat make carrots orange,"
+    },
+    {
+        "index": 21,
+        "start_time": 81409,
+        "end_time": 83745,
+        "text": "while the black of its face\nis from melanin,"
+    },
+    {
+        "index": 22,
+        "start_time": 83745,
+        "end_time": 87028,
+        "text": "the pigment that colors our hair and skin."
+    },
+    {
+        "index": 23,
+        "start_time": 87028,
+        "end_time": 90462,
+        "text": "But in bird feathers,\nmelanin isn&#39;t simply a dye."
+    },
+    {
+        "index": 24,
+        "start_time": 90462,
+        "end_time": 94154,
+        "text": "It forms hollow nanostructures\ncalled melanosomes"
+    },
+    {
+        "index": 25,
+        "start_time": 94154,
+        "end_time": 97267,
+        "text": "which can shine in all the colors\nof the rainbow."
+    },
+    {
+        "index": 26,
+        "start_time": 97267,
+        "end_time": 99188,
+        "text": "To understand how that works,"
+    },
+    {
+        "index": 27,
+        "start_time": 99188,
+        "end_time": 101666,
+        "text": "it helps to remember \nsome things about light."
+    },
+    {
+        "index": 28,
+        "start_time": 101666,
+        "end_time": 106935,
+        "text": "Light is basically a tiny electromagnetic\nwave traveling through space."
+    },
+    {
+        "index": 29,
+        "start_time": 106935,
+        "end_time": 109323,
+        "text": "The top of a wave is called its crest"
+    },
+    {
+        "index": 30,
+        "start_time": 109323,
+        "end_time": 113485,
+        "text": "and the distance between two crests\nis called the wavelength."
+    },
+    {
+        "index": 31,
+        "start_time": 113485,
+        "end_time": 118235,
+        "text": "The crests in red light are about\n700 billionths of a meter apart"
+    },
+    {
+        "index": 32,
+        "start_time": 118235,
+        "end_time": 121481,
+        "text": "and the wavelength of purple light\nis even shorter,"
+    },
+    {
+        "index": 33,
+        "start_time": 121481,
+        "end_time": 126160,
+        "text": "about 400 billionths of a meter,\nor 400 nanometers."
+    },
+    {
+        "index": 34,
+        "start_time": 126160,
+        "end_time": 130241,
+        "text": "When light hits the thin front surface\nof a bird&#39;s hollow melanosome,"
+    },
+    {
+        "index": 35,
+        "start_time": 130241,
+        "end_time": 133747,
+        "text": "some is reflected and some passes through."
+    },
+    {
+        "index": 36,
+        "start_time": 133747,
+        "end_time": 138110,
+        "text": "A portion of the transmitted light\nthen reflects off the back surface."
+    },
+    {
+        "index": 37,
+        "start_time": 138110,
+        "end_time": 140553,
+        "text": "The two reflected waves interact."
+    },
+    {
+        "index": 38,
+        "start_time": 140553,
+        "end_time": 142487,
+        "text": "Usually they cancel each other out,"
+    },
+    {
+        "index": 39,
+        "start_time": 142487,
+        "end_time": 144667,
+        "text": "but when the wavelength\nof the reflected light"
+    },
+    {
+        "index": 40,
+        "start_time": 144667,
+        "end_time": 147839,
+        "text": "matches the distance between\nthe two reflections,"
+    },
+    {
+        "index": 41,
+        "start_time": 147839,
+        "end_time": 149762,
+        "text": "they reinforce each other."
+    },
+    {
+        "index": 42,
+        "start_time": 149762,
+        "end_time": 153044,
+        "text": "Green light has a wavelength\nof about 500 nanometers,"
+    },
+    {
+        "index": 43,
+        "start_time": 153044,
+        "end_time": 156328,
+        "text": "so melanosomes that are \nabout 500 nanometers across"
+    },
+    {
+        "index": 44,
+        "start_time": 156328,
+        "end_time": 158283,
+        "text": "give off green light,"
+    },
+    {
+        "index": 45,
+        "start_time": 158283,
+        "end_time": 160758,
+        "text": "thinner melanosomes give off purple light,"
+    },
+    {
+        "index": 46,
+        "start_time": 160758,
+        "end_time": 163551,
+        "text": "and thicker ones give off red light."
+    },
+    {
+        "index": 47,
+        "start_time": 163551,
+        "end_time": 165987,
+        "text": "Of course, it&#39;s more complex than this."
+    },
+    {
+        "index": 48,
+        "start_time": 165987,
+        "end_time": 169711,
+        "text": "The melanosomes are packed together\ninside cells, and other factors,"
+    },
+    {
+        "index": 49,
+        "start_time": 169711,
+        "end_time": 174371,
+        "text": "like how the melanosomes are arranged \nwithin the feather, also matter."
+    },
+    {
+        "index": 50,
+        "start_time": 174371,
+        "end_time": 176824,
+        "text": "Let&#39;s return to the microraptor fossil."
+    },
+    {
+        "index": 51,
+        "start_time": 176824,
+        "end_time": 181033,
+        "text": "When scientists examined its feather \nimprints under a powerful microscope,"
+    },
+    {
+        "index": 52,
+        "start_time": 181033,
+        "end_time": 184307,
+        "text": "they found nanostructures \nthat look like melanosomes."
+    },
+    {
+        "index": 53,
+        "start_time": 184307,
+        "end_time": 189156,
+        "text": "X-ray analysis of the melanosomes\nfurther supported that theory."
+    },
+    {
+        "index": 54,
+        "start_time": 189156,
+        "end_time": 193384,
+        "text": "They contained minerals that would\nresult from the decay of melanin."
+    },
+    {
+        "index": 55,
+        "start_time": 193384,
+        "end_time": 196784,
+        "text": "The scientists then chose 20 feathers\nfrom one fossil"
+    },
+    {
+        "index": 56,
+        "start_time": 196784,
+        "end_time": 200961,
+        "text": "and found that \nthe melanosomes in all 20 looked alike,"
+    },
+    {
+        "index": 57,
+        "start_time": 200961,
+        "end_time": 205041,
+        "text": "so they became pretty sure this dinosaur\nwas one solid color."
+    },
+    {
+        "index": 58,
+        "start_time": 205041,
+        "end_time": 209369,
+        "text": "They compared these microraptor\nmelanosomes to those of modern birds"
+    },
+    {
+        "index": 59,
+        "start_time": 209369,
+        "end_time": 212938,
+        "text": "and found a close similarity,\nthough not a perfect match,"
+    },
+    {
+        "index": 60,
+        "start_time": 212938,
+        "end_time": 217115,
+        "text": "to the iridescent teal feathers\nfound on duck wings."
+    },
+    {
+        "index": 61,
+        "start_time": 217115,
+        "end_time": 220998,
+        "text": "And by examining the exact size\nand arrangement of the melanosomes,"
+    },
+    {
+        "index": 62,
+        "start_time": 220998,
+        "end_time": 225880,
+        "text": "scientists determined that the feathers\nwere iridescent black."
+    },
+    {
+        "index": 63,
+        "start_time": 225880,
+        "end_time": 228897,
+        "text": "Now that we can determine\na fossilized feather&#39;s color,"
+    },
+    {
+        "index": 64,
+        "start_time": 228897,
+        "end_time": 234060,
+        "text": "paleontologists are looking for more\nfossils with well-preserved melanosomes."
+    },
+    {
+        "index": 65,
+        "start_time": 234060,
+        "end_time": 237853,
+        "text": "They&#39;ve found that a lot of dinosaurs,\nincluding velociraptor,"
+    },
+    {
+        "index": 66,
+        "start_time": 237853,
+        "end_time": 239522,
+        "text": "probably had feathers,"
+    },
+    {
+        "index": 67,
+        "start_time": 239522,
+        "end_time": 244857,
+        "text": "meaning that certain films might not be\nso biologically accurate."
+    },
+    {
+        "index": 68,
+        "start_time": 244857,
+        "end_time": 246557,
+        "text": "Clever girls."
+    }
+]

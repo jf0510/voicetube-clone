@@ -1,0 +1,494 @@
+[
+    {
+        "index": 1,
+        "start_time": 12486,
+        "end_time": 15730,
+        "text": "Would mathematics exist if people didn&#39;t?"
+    },
+    {
+        "index": 2,
+        "start_time": 15730,
+        "end_time": 19057,
+        "text": "Since ancient times, \nmankind has hotly debated"
+    },
+    {
+        "index": 3,
+        "start_time": 19057,
+        "end_time": 22712,
+        "text": "whether mathematics \nwas discovered or invented."
+    },
+    {
+        "index": 4,
+        "start_time": 22712,
+        "end_time": 27374,
+        "text": "Did we create mathematical concepts to\nhelp us understand the universe around us,"
+    },
+    {
+        "index": 5,
+        "start_time": 27374,
+        "end_time": 31521,
+        "text": "or is math the native language of\nthe universe itself,"
+    },
+    {
+        "index": 6,
+        "start_time": 31521,
+        "end_time": 34734,
+        "text": "existing whether we find \nits truths or not?"
+    },
+    {
+        "index": 7,
+        "start_time": 34734,
+        "end_time": 38102,
+        "text": "Are numbers, polygons \nand equations truly real,"
+    },
+    {
+        "index": 8,
+        "start_time": 38102,
+        "end_time": 42676,
+        "text": "or merely ethereal representations\nof some theoretical ideal?"
+    },
+    {
+        "index": 9,
+        "start_time": 42676,
+        "end_time": 46235,
+        "text": "The independent reality of math has\nsome ancient advocates."
+    },
+    {
+        "index": 10,
+        "start_time": 46235,
+        "end_time": 49796,
+        "text": "The Pythagoreans of 5th Century Greece\nbelieved numbers were both"
+    },
+    {
+        "index": 11,
+        "start_time": 49796,
+        "end_time": 53261,
+        "text": "living entities and universal principles."
+    },
+    {
+        "index": 12,
+        "start_time": 53261,
+        "end_time": 57568,
+        "text": "They called the number one, &quot;the monad,&quot;\nthe generator of all other numbers"
+    },
+    {
+        "index": 13,
+        "start_time": 57568,
+        "end_time": 59829,
+        "text": "and source of all creation."
+    },
+    {
+        "index": 14,
+        "start_time": 59829,
+        "end_time": 62644,
+        "text": "Numbers were active agents in nature."
+    },
+    {
+        "index": 15,
+        "start_time": 62644,
+        "end_time": 65499,
+        "text": "Plato argued mathematical \nconcepts were concrete"
+    },
+    {
+        "index": 16,
+        "start_time": 65499,
+        "end_time": 70444,
+        "text": "and as real as the universe itself,\nregardless of our knowledge of them."
+    },
+    {
+        "index": 17,
+        "start_time": 70444,
+        "end_time": 73897,
+        "text": "Euclid, the father of geometry, believed\nnature itself"
+    },
+    {
+        "index": 18,
+        "start_time": 73897,
+        "end_time": 77702,
+        "text": "was the physical manifestation\nof mathematical laws."
+    },
+    {
+        "index": 19,
+        "start_time": 77702,
+        "end_time": 81926,
+        "text": "Others argue that while numbers may\nor may not exist physically,"
+    },
+    {
+        "index": 20,
+        "start_time": 81926,
+        "end_time": 85047,
+        "text": "mathematical statements definitely don&#39;t."
+    },
+    {
+        "index": 21,
+        "start_time": 85047,
+        "end_time": 89586,
+        "text": "Their truth values are based on rules\nthat humans created."
+    },
+    {
+        "index": 22,
+        "start_time": 89586,
+        "end_time": 92613,
+        "text": "Mathematics is thus an invented\nlogic exercise,"
+    },
+    {
+        "index": 23,
+        "start_time": 92613,
+        "end_time": 96356,
+        "text": "with no existence outside mankind&#39;s\nconscious thought,"
+    },
+    {
+        "index": 24,
+        "start_time": 96356,
+        "end_time": 100997,
+        "text": "a language of abstract relationships\nbased on patterns discerned by brains,"
+    },
+    {
+        "index": 25,
+        "start_time": 100997,
+        "end_time": 106694,
+        "text": "built to use those patterns to invent\nuseful but artificial order from chaos."
+    },
+    {
+        "index": 26,
+        "start_time": 106694,
+        "end_time": 110373,
+        "text": "One proponent of this sort of idea\nwas Leopold Kronecker,"
+    },
+    {
+        "index": 27,
+        "start_time": 110373,
+        "end_time": 113997,
+        "text": "a professor of mathematics in \n19th century Germany."
+    },
+    {
+        "index": 28,
+        "start_time": 113997,
+        "end_time": 116451,
+        "text": "His belief is summed up in \nhis famous statement:"
+    },
+    {
+        "index": 29,
+        "start_time": 116451,
+        "end_time": 120960,
+        "text": "&quot;God created the natural numbers,\nall else is the work of man.&quot;"
+    },
+    {
+        "index": 30,
+        "start_time": 120960,
+        "end_time": 123533,
+        "text": "During mathematician\nDavid Hilbert&#39;s lifetime,"
+    },
+    {
+        "index": 31,
+        "start_time": 123533,
+        "end_time": 127131,
+        "text": "there was a push to establish mathematics\nas a logical construct."
+    },
+    {
+        "index": 32,
+        "start_time": 127131,
+        "end_time": 130501,
+        "text": "Hilbert attempted to axiomatize all\nof mathematics,"
+    },
+    {
+        "index": 33,
+        "start_time": 130501,
+        "end_time": 132969,
+        "text": "as Euclid had done with geometry."
+    },
+    {
+        "index": 34,
+        "start_time": 132969,
+        "end_time": 137525,
+        "text": "He and others who attempted this saw\nmathematics as a deeply philosophical game"
+    },
+    {
+        "index": 35,
+        "start_time": 137525,
+        "end_time": 139700,
+        "text": "but a game nonetheless."
+    },
+    {
+        "index": 36,
+        "start_time": 139700,
+        "end_time": 143231,
+        "text": "Henri Poincar\u00e9, one of the father&#39;s of\nnon-Euclidean geometry,"
+    },
+    {
+        "index": 37,
+        "start_time": 143231,
+        "end_time": 146238,
+        "text": "believed that the existence of \nnon-Euclidean geometry,"
+    },
+    {
+        "index": 38,
+        "start_time": 146238,
+        "end_time": 150535,
+        "text": "dealing with the non-flat surfaces of \nhyperbolic and elliptical curvatures,"
+    },
+    {
+        "index": 39,
+        "start_time": 150535,
+        "end_time": 155001,
+        "text": "proved that Euclidean geometry, the\nlong standing geometry of flat surfaces,"
+    },
+    {
+        "index": 40,
+        "start_time": 155001,
+        "end_time": 157363,
+        "text": "was not a universal truth,"
+    },
+    {
+        "index": 41,
+        "start_time": 157363,
+        "end_time": 162051,
+        "text": "but rather one outcome of using one\nparticular set of game rules."
+    },
+    {
+        "index": 42,
+        "start_time": 162051,
+        "end_time": 165865,
+        "text": "But in 1960, Nobel Physics laureate\nEugene Wigner"
+    },
+    {
+        "index": 43,
+        "start_time": 165865,
+        "end_time": 170173,
+        "text": "coined the phrase, &quot;the unreasonable \neffectiveness of mathematics,&quot;"
+    },
+    {
+        "index": 44,
+        "start_time": 170173,
+        "end_time": 173283,
+        "text": "pushing strongly for the idea that\nmathematics is real"
+    },
+    {
+        "index": 45,
+        "start_time": 173283,
+        "end_time": 175482,
+        "text": "and discovered by people."
+    },
+    {
+        "index": 46,
+        "start_time": 175482,
+        "end_time": 178388,
+        "text": "Wigner pointed out that many purely\nmathematical theories"
+    },
+    {
+        "index": 47,
+        "start_time": 178388,
+        "end_time": 183379,
+        "text": "developed in a vacuum, often with no view\ntowards describing any physical phenomena,"
+    },
+    {
+        "index": 48,
+        "start_time": 183379,
+        "end_time": 185873,
+        "text": "have proven decades \nor even centuries later,"
+    },
+    {
+        "index": 49,
+        "start_time": 185873,
+        "end_time": 188337,
+        "text": "to be the framework necessary to explain"
+    },
+    {
+        "index": 50,
+        "start_time": 188337,
+        "end_time": 191440,
+        "text": "how the universe\nhas been working all along."
+    },
+    {
+        "index": 51,
+        "start_time": 191440,
+        "end_time": 195688,
+        "text": "For instance, the number theory of British\nmathematician Gottfried Hardy,"
+    },
+    {
+        "index": 52,
+        "start_time": 195688,
+        "end_time": 199377,
+        "text": "who had boasted that none of his work\nwould ever be found useful"
+    },
+    {
+        "index": 53,
+        "start_time": 199377,
+        "end_time": 201918,
+        "text": "in describing any phenomena\nin the real world,"
+    },
+    {
+        "index": 54,
+        "start_time": 201918,
+        "end_time": 204660,
+        "text": "helped establish cryptography."
+    },
+    {
+        "index": 55,
+        "start_time": 204660,
+        "end_time": 206938,
+        "text": "Another piece of his purely\ntheoretical work"
+    },
+    {
+        "index": 56,
+        "start_time": 206938,
+        "end_time": 210095,
+        "text": "became known as the Hardy-Weinberg\nlaw in genetics,"
+    },
+    {
+        "index": 57,
+        "start_time": 210095,
+        "end_time": 211834,
+        "text": "and won a Nobel prize."
+    },
+    {
+        "index": 58,
+        "start_time": 211834,
+        "end_time": 214426,
+        "text": "And Fibonacci stumbled \nupon his famous sequence"
+    },
+    {
+        "index": 59,
+        "start_time": 214426,
+        "end_time": 218040,
+        "text": "while looking at the growth of an \nidealized rabbit population."
+    },
+    {
+        "index": 60,
+        "start_time": 218040,
+        "end_time": 221548,
+        "text": "Mankind later found the sequence\neverywhere in nature,"
+    },
+    {
+        "index": 61,
+        "start_time": 221548,
+        "end_time": 224036,
+        "text": "from sunflower seeds\nand flower petal arrangements,"
+    },
+    {
+        "index": 62,
+        "start_time": 224036,
+        "end_time": 225857,
+        "text": "to the structure of a pineapple,"
+    },
+    {
+        "index": 63,
+        "start_time": 225857,
+        "end_time": 228497,
+        "text": "even the branching of bronchi\nin the lungs."
+    },
+    {
+        "index": 64,
+        "start_time": 228497,
+        "end_time": 232704,
+        "text": "Or there&#39;s the non-Euclidean work of\nBernhard Riemann in the 1850s,"
+    },
+    {
+        "index": 65,
+        "start_time": 232704,
+        "end_time": 237291,
+        "text": "which Einstein used in the model for\ngeneral relativity a century later."
+    },
+    {
+        "index": 66,
+        "start_time": 237291,
+        "end_time": 238707,
+        "text": "Here&#39;s an even bigger jump:"
+    },
+    {
+        "index": 67,
+        "start_time": 238707,
+        "end_time": 242933,
+        "text": "mathematical knot theory, first developed\naround 1771"
+    },
+    {
+        "index": 68,
+        "start_time": 242933,
+        "end_time": 245185,
+        "text": "to describe the geometry of position,"
+    },
+    {
+        "index": 69,
+        "start_time": 245185,
+        "end_time": 250033,
+        "text": "was used in the late 20th century\nto explain how DNA unravels itself"
+    },
+    {
+        "index": 70,
+        "start_time": 250033,
+        "end_time": 252212,
+        "text": "during the replication process."
+    },
+    {
+        "index": 71,
+        "start_time": 252212,
+        "end_time": 256161,
+        "text": "It may even provide key explanations\nfor string theory."
+    },
+    {
+        "index": 72,
+        "start_time": 256161,
+        "end_time": 258791,
+        "text": "Some of the most influential \nmathematicians and scientists"
+    },
+    {
+        "index": 73,
+        "start_time": 258791,
+        "end_time": 262472,
+        "text": "of all of human history\nhave chimed in on the issue as well,"
+    },
+    {
+        "index": 74,
+        "start_time": 262472,
+        "end_time": 264093,
+        "text": "often in surprising ways."
+    },
+    {
+        "index": 75,
+        "start_time": 264093,
+        "end_time": 266904,
+        "text": "So, is mathematics an \ninvention or a discovery?"
+    },
+    {
+        "index": 76,
+        "start_time": 266904,
+        "end_time": 269851,
+        "text": "Artificial construct or\nuniversal truth?"
+    },
+    {
+        "index": 77,
+        "start_time": 269851,
+        "end_time": 274017,
+        "text": "Human product or\nnatural, possibly divine, creation?"
+    },
+    {
+        "index": 78,
+        "start_time": 274017,
+        "end_time": 278458,
+        "text": "These questions are so deep the debate\noften becomes spiritual in nature."
+    },
+    {
+        "index": 79,
+        "start_time": 278458,
+        "end_time": 281550,
+        "text": "The answer might depend on the specific\nconcept being looked at,"
+    },
+    {
+        "index": 80,
+        "start_time": 281550,
+        "end_time": 285177,
+        "text": "but it can all feel like a\ndistorted zen koan."
+    },
+    {
+        "index": 81,
+        "start_time": 285177,
+        "end_time": 288806,
+        "text": "If there&#39;s a number of trees in a forest,\nbut no one&#39;s there to count them,"
+    },
+    {
+        "index": 82,
+        "start_time": 288806,
+        "end_time": 290726,
+        "text": "does that number exist?"
+    }
+]

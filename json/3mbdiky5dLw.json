@@ -1,0 +1,488 @@
+[
+    {
+        "index": 1,
+        "start_time": 6966,
+        "end_time": 8741,
+        "text": "As your country&#39;s top spy,"
+    },
+    {
+        "index": 2,
+        "start_time": 8741,
+        "end_time": 12087,
+        "text": "you must infiltrate the headquarters\nof the evil syndicate,"
+    },
+    {
+        "index": 3,
+        "start_time": 12087,
+        "end_time": 13828,
+        "text": "find the secret control panel,"
+    },
+    {
+        "index": 4,
+        "start_time": 13828,
+        "end_time": 16435,
+        "text": "and deactivate their death ray."
+    },
+    {
+        "index": 5,
+        "start_time": 16435,
+        "end_time": 19205,
+        "text": "But all you have to go on \nis the following information"
+    },
+    {
+        "index": 6,
+        "start_time": 19205,
+        "end_time": 21334,
+        "text": "picked up by your surveillance team."
+    },
+    {
+        "index": 7,
+        "start_time": 21334,
+        "end_time": 26481,
+        "text": "The headquarters is a massive pyramid\nwith a single room at the top level,"
+    },
+    {
+        "index": 8,
+        "start_time": 26481,
+        "end_time": 27990,
+        "text": "two rooms on the next,"
+    },
+    {
+        "index": 9,
+        "start_time": 27990,
+        "end_time": 29700,
+        "text": "and so on."
+    },
+    {
+        "index": 10,
+        "start_time": 29700,
+        "end_time": 32141,
+        "text": "The control panel is hidden\nbehind a painting"
+    },
+    {
+        "index": 11,
+        "start_time": 32141,
+        "end_time": 36048,
+        "text": "on the highest floor that can satisfy\nthe following conditions:"
+    },
+    {
+        "index": 12,
+        "start_time": 36048,
+        "end_time": 40772,
+        "text": "Each room has exactly three doors\nto other rooms on that floor,"
+    },
+    {
+        "index": 13,
+        "start_time": 40772,
+        "end_time": 42672,
+        "text": "except the control panel room,"
+    },
+    {
+        "index": 14,
+        "start_time": 42672,
+        "end_time": 44589,
+        "text": "which connects to only one,"
+    },
+    {
+        "index": 15,
+        "start_time": 44589,
+        "end_time": 45794,
+        "text": "there are no hallways,"
+    },
+    {
+        "index": 16,
+        "start_time": 45794,
+        "end_time": 47857,
+        "text": "and you can ignore stairs."
+    },
+    {
+        "index": 17,
+        "start_time": 47857,
+        "end_time": 50460,
+        "text": "Unfortunately, \nyou don&#39;t have a floor plan,"
+    },
+    {
+        "index": 18,
+        "start_time": 50460,
+        "end_time": 53140,
+        "text": "and you&#39;ll only have enough time\nto search a single floor"
+    },
+    {
+        "index": 19,
+        "start_time": 53140,
+        "end_time": 56163,
+        "text": "before the alarm system reactivates."
+    },
+    {
+        "index": 20,
+        "start_time": 56163,
+        "end_time": 58892,
+        "text": "Can you figure out which floor\nthe control room is on?"
+    },
+    {
+        "index": 21,
+        "start_time": 58892,
+        "end_time": 60986,
+        "text": "Pause now to solve the riddle yourself."
+    },
+    {
+        "index": 22,
+        "start_time": 60986,
+        "end_time": 61824,
+        "text": "Answer in: 3"
+    },
+    {
+        "index": 23,
+        "start_time": 61824,
+        "end_time": 62762,
+        "text": "Answer in: 2"
+    },
+    {
+        "index": 24,
+        "start_time": 62762,
+        "end_time": 65132,
+        "text": "Answer in: 1"
+    },
+    {
+        "index": 25,
+        "start_time": 65132,
+        "end_time": 68618,
+        "text": "To solve this problem, \nwe need to visualize it."
+    },
+    {
+        "index": 26,
+        "start_time": 68618,
+        "end_time": 70995,
+        "text": "For starters, we know \nthat on the correct floor"
+    },
+    {
+        "index": 27,
+        "start_time": 70995,
+        "end_time": 72154,
+        "text": "there&#39;s one room,"
+    },
+    {
+        "index": 28,
+        "start_time": 72154,
+        "end_time": 73798,
+        "text": "let&#39;s call it room A,"
+    },
+    {
+        "index": 29,
+        "start_time": 73798,
+        "end_time": 76017,
+        "text": "with one door to the control panel room,"
+    },
+    {
+        "index": 30,
+        "start_time": 76017,
+        "end_time": 77878,
+        "text": "plus one door to room B,"
+    },
+    {
+        "index": 31,
+        "start_time": 77878,
+        "end_time": 79236,
+        "text": "and one to C."
+    },
+    {
+        "index": 32,
+        "start_time": 79236,
+        "end_time": 81785,
+        "text": "So there must be at least four rooms,"
+    },
+    {
+        "index": 33,
+        "start_time": 81785,
+        "end_time": 83904,
+        "text": "which we can represent as circles,"
+    },
+    {
+        "index": 34,
+        "start_time": 83904,
+        "end_time": 86578,
+        "text": "drawing lines between them\nfor the doorways."
+    },
+    {
+        "index": 35,
+        "start_time": 86578,
+        "end_time": 88764,
+        "text": "But once we connect rooms B and C,"
+    },
+    {
+        "index": 36,
+        "start_time": 88764,
+        "end_time": 90763,
+        "text": "there are no other connections possible,"
+    },
+    {
+        "index": 37,
+        "start_time": 90763,
+        "end_time": 94558,
+        "text": "so the fourth floor down \nfrom the top is out."
+    },
+    {
+        "index": 38,
+        "start_time": 94558,
+        "end_time": 97743,
+        "text": "We know the control panel has to be\nas high up as possible,"
+    },
+    {
+        "index": 39,
+        "start_time": 97743,
+        "end_time": 100025,
+        "text": "so let&#39;s make our way down the pyramid."
+    },
+    {
+        "index": 40,
+        "start_time": 100025,
+        "end_time": 103223,
+        "text": "The fifth highest floor \ndoesn&#39;t work either."
+    },
+    {
+        "index": 41,
+        "start_time": 103223,
+        "end_time": 105399,
+        "text": "We can figure that out by drawing it,"
+    },
+    {
+        "index": 42,
+        "start_time": 105399,
+        "end_time": 107821,
+        "text": "but to be sure we haven&#39;t missed\nany possibilities,"
+    },
+    {
+        "index": 43,
+        "start_time": 107821,
+        "end_time": 109364,
+        "text": "here&#39;s another way."
+    },
+    {
+        "index": 44,
+        "start_time": 109364,
+        "end_time": 112616,
+        "text": "Every door corresponds to a line\nin our graph"
+    },
+    {
+        "index": 45,
+        "start_time": 112616,
+        "end_time": 115314,
+        "text": "that makes two rooms into neighbors."
+    },
+    {
+        "index": 46,
+        "start_time": 115314,
+        "end_time": 119311,
+        "text": "So in the end, there have to be\nan even number of neighbors"
+    },
+    {
+        "index": 47,
+        "start_time": 119311,
+        "end_time": 121762,
+        "text": "no matter how many connections we make."
+    },
+    {
+        "index": 48,
+        "start_time": 121762,
+        "end_time": 125818,
+        "text": "On the fifth highest floor,\nto fulfill our starting conditions,"
+    },
+    {
+        "index": 49,
+        "start_time": 125818,
+        "end_time": 128871,
+        "text": "we&#39;d need four rooms \nwith three neighbors each,"
+    },
+    {
+        "index": 50,
+        "start_time": 128871,
+        "end_time": 131769,
+        "text": "plus the control panel room\nwith one neighbor,"
+    },
+    {
+        "index": 51,
+        "start_time": 131769,
+        "end_time": 134081,
+        "text": "which makes 13 total neighbors."
+    },
+    {
+        "index": 52,
+        "start_time": 134081,
+        "end_time": 136336,
+        "text": "Since that&#39;s an odd number,\nit&#39;s not possible,"
+    },
+    {
+        "index": 53,
+        "start_time": 136336,
+        "end_time": 141754,
+        "text": "and, in fact, this also rules out every\nfloor that has an odd number of rooms."
+    },
+    {
+        "index": 54,
+        "start_time": 141754,
+        "end_time": 143975,
+        "text": "So let&#39;s go one more floor down."
+    },
+    {
+        "index": 55,
+        "start_time": 143975,
+        "end_time": 145866,
+        "text": "When we draw out the rooms,"
+    },
+    {
+        "index": 56,
+        "start_time": 145866,
+        "end_time": 150637,
+        "text": "low and behold, we can find an arrangement\nthat works like this."
+    },
+    {
+        "index": 57,
+        "start_time": 150637,
+        "end_time": 153824,
+        "text": "Incidentally, the study \nof such visual models"
+    },
+    {
+        "index": 58,
+        "start_time": 153824,
+        "end_time": 157520,
+        "text": "that show the connections and\nrelationships between different objects"
+    },
+    {
+        "index": 59,
+        "start_time": 157520,
+        "end_time": 159327,
+        "text": "is known as graph theory."
+    },
+    {
+        "index": 60,
+        "start_time": 159327,
+        "end_time": 164345,
+        "text": "In a basic graph, the circles representing\nthe objects are known as nodes,"
+    },
+    {
+        "index": 61,
+        "start_time": 164345,
+        "end_time": 167274,
+        "text": "while the connecting lines \nare called edges."
+    },
+    {
+        "index": 62,
+        "start_time": 167274,
+        "end_time": 170693,
+        "text": "Researchers studying such graphs\nask questions like,"
+    },
+    {
+        "index": 63,
+        "start_time": 170693,
+        "end_time": 173135,
+        "text": "&quot;How far is this node from that one?&quot;"
+    },
+    {
+        "index": 64,
+        "start_time": 173135,
+        "end_time": 176737,
+        "text": "&quot;How many edges does \nthe most popular node have?&quot;"
+    },
+    {
+        "index": 65,
+        "start_time": 176737,
+        "end_time": 181571,
+        "text": "&quot;Is there a route between these two nodes,\nand if so, how long is it?&quot;"
+    },
+    {
+        "index": 66,
+        "start_time": 181571,
+        "end_time": 185491,
+        "text": "Graphs like this are often used\nto map communication networks,"
+    },
+    {
+        "index": 67,
+        "start_time": 185491,
+        "end_time": 188327,
+        "text": "but they can represent almost\nany kind of network,"
+    },
+    {
+        "index": 68,
+        "start_time": 188327,
+        "end_time": 190322,
+        "text": "from transport connections within a city"
+    },
+    {
+        "index": 69,
+        "start_time": 190322,
+        "end_time": 192353,
+        "text": "and social relationships among people,"
+    },
+    {
+        "index": 70,
+        "start_time": 192353,
+        "end_time": 195116,
+        "text": "to chemical interactions between proteins"
+    },
+    {
+        "index": 71,
+        "start_time": 195116,
+        "end_time": 198536,
+        "text": "or the spread of an epidemic\nthrough different locations."
+    },
+    {
+        "index": 72,
+        "start_time": 198536,
+        "end_time": 202361,
+        "text": "So, armed with these techniques,\nback to the pyramid."
+    },
+    {
+        "index": 73,
+        "start_time": 202361,
+        "end_time": 204709,
+        "text": "You avoid the guards and security cameras,"
+    },
+    {
+        "index": 74,
+        "start_time": 204709,
+        "end_time": 206773,
+        "text": "infiltrate the sixth floor from the top,"
+    },
+    {
+        "index": 75,
+        "start_time": 206773,
+        "end_time": 208148,
+        "text": "find the hidden panel,"
+    },
+    {
+        "index": 76,
+        "start_time": 208148,
+        "end_time": 210148,
+        "text": "pull some conspicuous levers,"
+    },
+    {
+        "index": 77,
+        "start_time": 210148,
+        "end_time": 213494,
+        "text": "and send the death ray crashing\ninto the ocean."
+    },
+    {
+        "index": 78,
+        "start_time": 213494,
+        "end_time": 215274,
+        "text": "Now, time to solve the mystery"
+    },
+    {
+        "index": 79,
+        "start_time": 215274,
+        "end_time": 220326,
+        "text": "of why your surveillance team\nalways gives you cryptic information."
+    },
+    {
+        "index": 80,
+        "start_time": 220326,
+        "end_time": 221323,
+        "text": "Hi everybody."
+    },
+    {
+        "index": 81,
+        "start_time": 221323,
+        "end_time": 224084,
+        "text": "If you liked this riddle, \ntry solving these two."
+    }
+]

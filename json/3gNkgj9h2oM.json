@@ -1,0 +1,140 @@
+[
+  {
+    "end_time": 3300,
+    "index": 1,
+    "start_time": 1400,
+    "text": "The Earth spins once per day."
+  },
+  {
+    "end_time": 4820,
+    "index": 2,
+    "start_time": 3300,
+    "text": "Which means that if you live at the Equator,"
+  },
+  {
+    "end_time": 6400,
+    "index": 3,
+    "start_time": 4820,
+    "text": "The surface of the Earth with you on it,"
+  },
+  {
+    "end_time": 9420,
+    "index": 4,
+    "start_time": 6400,
+    "text": "is moving around a thousand miles per hour to the East,"
+  },
+  {
+    "end_time": 11200,
+    "index": 5,
+    "start_time": 9420,
+    "text": "relative to the centre of the Earth."
+  },
+  {
+    "end_time": 13200,
+    "index": 6,
+    "start_time": 11200,
+    "text": "Even at 45\u00ba latitude,"
+  },
+  {
+    "end_time": 16540,
+    "index": 7,
+    "start_time": 13200,
+    "text": "the Earth&#39;s surface is moving 700 miles per hour to the East."
+  },
+  {
+    "end_time": 20180,
+    "index": 8,
+    "start_time": 16540,
+    "text": "So it kinda seems like it should be faster for airplanes to fly west."
+  },
+  {
+    "end_time": 23100,
+    "index": 9,
+    "start_time": 20180,
+    "text": "I mean, their destination is literally spinning towards them."
+  },
+  {
+    "end_time": 27100,
+    "index": 10,
+    "start_time": 23100,
+    "text": "At the same time however, they are spinning away from their destination."
+  },
+  {
+    "end_time": 30340,
+    "index": 11,
+    "start_time": 27100,
+    "text": "When we say the earth is going 1000 mph to the east,"
+  },
+  {
+    "end_time": 37540,
+    "index": 12,
+    "start_time": 30340,
+    "text": "that means that the ground, and airplanes on the ground, and even the air above the ground are all also moving 1000 mph to the east."
+  },
+  {
+    "end_time": 42180,
+    "index": 13,
+    "start_time": 37540,
+    "text": "For an airplane to get anywhere, it has to start moving relative to the ground and through the air"
+  },
+  {
+    "end_time": 44980,
+    "index": 14,
+    "start_time": 42180,
+    "text": "at something like 100 or so mph."
+  },
+  {
+    "end_time": 49779,
+    "index": 15,
+    "start_time": 44980,
+    "text": "So when it flies east, it&#39;s actually moving 1000 plus 100 mph to the east,"
+  },
+  {
+    "end_time": 55440,
+    "index": 16,
+    "start_time": 49920,
+    "text": "and when it flies west, it&#39;s actually moving 1000 minus 100 mph, to the east."
+  },
+  {
+    "end_time": 59240,
+    "index": 17,
+    "start_time": 55460,
+    "text": "Yes, to go west you go east, just slower than the Earth is going east."
+  },
+  {
+    "end_time": 65560,
+    "index": 18,
+    "start_time": 59240,
+    "text": "Unless you&#39;re within ten or so miles of the poles, in which case a brisk westward walk will take you legitimately west."
+  },
+  {
+    "end_time": 70840,
+    "index": 19,
+    "start_time": 65560,
+    "text": "That said, planes do often take different amounts of time to fly the same route in different directions,"
+  },
+  {
+    "end_time": 76160,
+    "index": 20,
+    "start_time": 70880,
+    "text": "because of winds in the upper atmosphere like the jetstream that they either have at their tail, or have to fly into."
+  },
+  {
+    "end_time": 80160,
+    "index": 21,
+    "start_time": 76160,
+    "text": "The prevailing direction of these winds is largely caused by the Coriolis effect,"
+  },
+  {
+    "end_time": 87440,
+    "index": 22,
+    "start_time": 80160,
+    "text": "which is caused by the fact that different parts of the Earth are moving east at different speeds, which happens because the Earth is round and spinning."
+  },
+  {
+    "end_time": 95440,
+    "index": 23,
+    "start_time": 87440,
+    "text": "So, airplane travel times are influenced by the rotation of the Earth, just not in a straightforward way."
+  }
+]

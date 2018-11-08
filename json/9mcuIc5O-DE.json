@@ -1,0 +1,524 @@
+[
+  {
+    "end_time": 7000,
+    "index": 1,
+    "start_time": 0,
+    "text": "Translator: Ido Dekkers\nReviewer: Ariana Bleau Lugo"
+  },
+  {
+    "end_time": 16826,
+    "index": 2,
+    "start_time": 14239,
+    "text": "Say you&#39;re at the beach,\nand you get sand in your eyes."
+  },
+  {
+    "end_time": 18484,
+    "index": 3,
+    "start_time": 16850,
+    "text": "How do you know the sand is there?"
+  },
+  {
+    "end_time": 22125,
+    "index": 4,
+    "start_time": 18508,
+    "text": "You obviously can&#39;t see it,\nbut if you are a normal, healthy human,"
+  },
+  {
+    "end_time": 23152,
+    "index": 5,
+    "start_time": 22149,
+    "text": "you can feel it,"
+  },
+  {
+    "end_time": 26976,
+    "index": 6,
+    "start_time": 23176,
+    "text": "that sensation of extreme discomfort,\nalso known as pain."
+  },
+  {
+    "end_time": 28976,
+    "index": 7,
+    "start_time": 27000,
+    "text": "Now, pain makes you do something,"
+  },
+  {
+    "end_time": 31976,
+    "index": 8,
+    "start_time": 29000,
+    "text": "in this case, rinse your eyes\nuntil the sand is gone."
+  },
+  {
+    "end_time": 33789,
+    "index": 9,
+    "start_time": 32000,
+    "text": "And how do you know the sand is gone?"
+  },
+  {
+    "end_time": 35631,
+    "index": 10,
+    "start_time": 33813,
+    "text": "Exactly. Because there&#39;s no more pain."
+  },
+  {
+    "end_time": 37898,
+    "index": 11,
+    "start_time": 35655,
+    "text": "There are people who don&#39;t feel pain."
+  },
+  {
+    "end_time": 40468,
+    "index": 12,
+    "start_time": 37922,
+    "text": "Now, that might sound cool, but it&#39;s not."
+  },
+  {
+    "end_time": 43976,
+    "index": 13,
+    "start_time": 40492,
+    "text": "If you can&#39;t feel pain, you could\nget hurt, or even hurt yourself"
+  },
+  {
+    "end_time": 45654,
+    "index": 14,
+    "start_time": 44000,
+    "text": "and never know it."
+  },
+  {
+    "end_time": 47815,
+    "index": 15,
+    "start_time": 45678,
+    "text": "Pain is your body&#39;s early warning system."
+  },
+  {
+    "end_time": 50891,
+    "index": 16,
+    "start_time": 47840,
+    "text": "It protects you from the world\naround you, and from yourself."
+  },
+  {
+    "end_time": 55929,
+    "index": 17,
+    "start_time": 52103,
+    "text": "As we grow, we install pain detectors\nin most areas of our body."
+  },
+  {
+    "end_time": 58268,
+    "index": 18,
+    "start_time": 55953,
+    "text": "These detectors\nare specialized nerve cells"
+  },
+  {
+    "end_time": 59775,
+    "index": 19,
+    "start_time": 58292,
+    "text": "called nociceptors"
+  },
+  {
+    "end_time": 63371,
+    "index": 20,
+    "start_time": 59799,
+    "text": "that stretch from your spinal cord\nto your skin, your muscles, your joints,"
+  },
+  {
+    "end_time": 65447,
+    "index": 21,
+    "start_time": 63395,
+    "text": "your teeth and some\nof your internal organs."
+  },
+  {
+    "end_time": 69420,
+    "index": 22,
+    "start_time": 66431,
+    "text": "Just like all nerve cells,\nthey conduct electrical signals,"
+  },
+  {
+    "end_time": 73192,
+    "index": 23,
+    "start_time": 69444,
+    "text": "sending information from wherever\nthey&#39;re located back to your brain."
+  },
+  {
+    "end_time": 75822,
+    "index": 24,
+    "start_time": 73656,
+    "text": "But, unlike other nerve cells,"
+  },
+  {
+    "end_time": 79305,
+    "index": 25,
+    "start_time": 75846,
+    "text": "nociceptors only fire if something\nhappens that could cause"
+  },
+  {
+    "end_time": 80684,
+    "index": 26,
+    "start_time": 79329,
+    "text": "or is causing damage."
+  },
+  {
+    "end_time": 84098,
+    "index": 27,
+    "start_time": 81717,
+    "text": "So, gently touch the tip of a needle."
+  },
+  {
+    "end_time": 87075,
+    "index": 28,
+    "start_time": 84122,
+    "text": "You&#39;ll feel the metal,\nand those are your regular nerve cells."
+  },
+  {
+    "end_time": 88668,
+    "index": 29,
+    "start_time": 87099,
+    "text": "But you won&#39;t feel any pain."
+  },
+  {
+    "end_time": 90851,
+    "index": 30,
+    "start_time": 88692,
+    "text": "Now, the harder you push\nagainst the needle,"
+  },
+  {
+    "end_time": 93776,
+    "index": 31,
+    "start_time": 90876,
+    "text": "the closer you get\nto the nociceptor threshold."
+  },
+  {
+    "end_time": 96134,
+    "index": 32,
+    "start_time": 93800,
+    "text": "Push hard enough,\nand you&#39;ll cross that threshold"
+  },
+  {
+    "end_time": 97520,
+    "index": 33,
+    "start_time": 96158,
+    "text": "and the nociceptors fire,"
+  },
+  {
+    "end_time": 100402,
+    "index": 34,
+    "start_time": 97544,
+    "text": "telling your body to stop doing\nwhatever you&#39;re doing."
+  },
+  {
+    "end_time": 103221,
+    "index": 35,
+    "start_time": 100426,
+    "text": "But the pain threshold isn&#39;t set in stone."
+  },
+  {
+    "end_time": 107976,
+    "index": 36,
+    "start_time": 103245,
+    "text": "Certain chemicals can tune nociceptors,\nlowering their threshold for pain."
+  },
+  {
+    "end_time": 110976,
+    "index": 37,
+    "start_time": 108400,
+    "text": "When cells are damaged,\nthey and other nearby cells"
+  },
+  {
+    "end_time": 113976,
+    "index": 38,
+    "start_time": 111000,
+    "text": "start producing these tuning\nchemicals like crazy,"
+  },
+  {
+    "end_time": 116976,
+    "index": 39,
+    "start_time": 114000,
+    "text": "lowering the nociceptors&#39;\nthreshold to the point"
+  },
+  {
+    "end_time": 118623,
+    "index": 40,
+    "start_time": 117000,
+    "text": "where just touch can cause pain."
+  },
+  {
+    "end_time": 121960,
+    "index": 41,
+    "start_time": 119306,
+    "text": "And this is where over-the-counter\npainkillers come in."
+  },
+  {
+    "end_time": 123576,
+    "index": 42,
+    "start_time": 121984,
+    "text": "Aspirin and ibuprofen"
+  },
+  {
+    "end_time": 126267,
+    "index": 43,
+    "start_time": 123600,
+    "text": "block production of one class\nof these tuning chemicals,"
+  },
+  {
+    "end_time": 127976,
+    "index": 44,
+    "start_time": 126291,
+    "text": "called prostaglandins."
+  },
+  {
+    "end_time": 129967,
+    "index": 45,
+    "start_time": 128000,
+    "text": "Let&#39;s take a look at how they do that."
+  },
+  {
+    "end_time": 134022,
+    "index": 46,
+    "start_time": 129991,
+    "text": "When cells are damaged, they release\na chemical called arachidonic acid."
+  },
+  {
+    "end_time": 136837,
+    "index": 47,
+    "start_time": 134046,
+    "text": "And two enzymes called COX-1 and COX-2"
+  },
+  {
+    "end_time": 140596,
+    "index": 48,
+    "start_time": 136861,
+    "text": "convert this arachidonic acid\ninto prostaglandin H2,"
+  },
+  {
+    "end_time": 143344,
+    "index": 49,
+    "start_time": 140620,
+    "text": "which is then converted\ninto a bunch of other chemicals"
+  },
+  {
+    "end_time": 144748,
+    "index": 50,
+    "start_time": 143368,
+    "text": "that do a bunch of things,"
+  },
+  {
+    "end_time": 147440,
+    "index": 51,
+    "start_time": 144772,
+    "text": "including raise your body temperature,\ncause inflammation"
+  },
+  {
+    "end_time": 149584,
+    "index": 52,
+    "start_time": 147464,
+    "text": "and lower the pain threshold."
+  },
+  {
+    "end_time": 152567,
+    "index": 53,
+    "start_time": 150147,
+    "text": "Now, all enzymes have an active site."
+  },
+  {
+    "end_time": 155404,
+    "index": 54,
+    "start_time": 152592,
+    "text": "That&#39;s the place in the enzyme\nwhere the reaction happens."
+  },
+  {
+    "end_time": 157976,
+    "index": 55,
+    "start_time": 155428,
+    "text": "The active sites of COX-1 and COX-2"
+  },
+  {
+    "end_time": 160869,
+    "index": 56,
+    "start_time": 158000,
+    "text": "fit arachidonic acid very cozily."
+  },
+  {
+    "end_time": 162976,
+    "index": 57,
+    "start_time": 160893,
+    "text": "As you can see, there is no room to spare."
+  },
+  {
+    "end_time": 166976,
+    "index": 58,
+    "start_time": 163000,
+    "text": "Now, it&#39;s in this active site\nthat aspirin and ibuprofen do their work."
+  },
+  {
+    "end_time": 169257,
+    "index": 59,
+    "start_time": 167924,
+    "text": "So, they work differently."
+  },
+  {
+    "end_time": 171905,
+    "index": 60,
+    "start_time": 169281,
+    "text": "Aspirin acts like a spine\nfrom a porcupine."
+  },
+  {
+    "end_time": 174072,
+    "index": 61,
+    "start_time": 171929,
+    "text": "It enters the active site\nand then breaks off,"
+  },
+  {
+    "end_time": 175976,
+    "index": 62,
+    "start_time": 174096,
+    "text": "leaving half of itself in there,"
+  },
+  {
+    "end_time": 178576,
+    "index": 63,
+    "start_time": 176000,
+    "text": "totally blocking that channel\nand making it impossible"
+  },
+  {
+    "end_time": 181126,
+    "index": 64,
+    "start_time": 178600,
+    "text": "for the arachidonic acid to fit."
+  },
+  {
+    "end_time": 184204,
+    "index": 65,
+    "start_time": 181150,
+    "text": "This permanently deactivates\nCOX-1 and COX-2."
+  },
+  {
+    "end_time": 186656,
+    "index": 66,
+    "start_time": 185050,
+    "text": "Ibuprofen, on the other hand,"
+  },
+  {
+    "end_time": 187972,
+    "index": 67,
+    "start_time": 186680,
+    "text": "enters the active site,"
+  },
+  {
+    "end_time": 190788,
+    "index": 68,
+    "start_time": 187996,
+    "text": "but doesn&#39;t break apart\nor change the enzyme."
+  },
+  {
+    "end_time": 193587,
+    "index": 69,
+    "start_time": 190812,
+    "text": "COX-1 and COX-2 are free\nto spit it out again,"
+  },
+  {
+    "end_time": 195976,
+    "index": 70,
+    "start_time": 193611,
+    "text": "but for the time\nthat that ibuprofen is in there,"
+  },
+  {
+    "end_time": 200465,
+    "index": 71,
+    "start_time": 196000,
+    "text": "the enzyme can&#39;t bind arachidonic acid,\nand can&#39;t do its normal chemistry."
+  },
+  {
+    "end_time": 204610,
+    "index": 72,
+    "start_time": 201241,
+    "text": "But how do aspirin and ibuprofen\nknow where the pain is?"
+  },
+  {
+    "end_time": 205976,
+    "index": 73,
+    "start_time": 204634,
+    "text": "Well, they don&#39;t."
+  },
+  {
+    "end_time": 207976,
+    "index": 74,
+    "start_time": 206000,
+    "text": "Once the drugs are in your bloodstream,"
+  },
+  {
+    "end_time": 209850,
+    "index": 75,
+    "start_time": 208000,
+    "text": "they are carried throughout your body,"
+  },
+  {
+    "end_time": 212976,
+    "index": 76,
+    "start_time": 209874,
+    "text": "and they go to painful areas\njust the same as normal ones."
+  },
+  {
+    "end_time": 216521,
+    "index": 77,
+    "start_time": 214210,
+    "text": "So that&#39;s how aspirin and ibuprofen work."
+  },
+  {
+    "end_time": 218500,
+    "index": 78,
+    "start_time": 216545,
+    "text": "But there are other dimensions to pain."
+  },
+  {
+    "end_time": 219976,
+    "index": 79,
+    "start_time": 218525,
+    "text": "Neuropathic pain, for example,"
+  },
+  {
+    "end_time": 223642,
+    "index": 80,
+    "start_time": 220000,
+    "text": "is pain caused by damage\nto our nervous system itself;"
+  },
+  {
+    "end_time": 226190,
+    "index": 81,
+    "start_time": 223666,
+    "text": "there doesn&#39;t need to be\nany sort of outside stimulus."
+  },
+  {
+    "end_time": 228976,
+    "index": 82,
+    "start_time": 226214,
+    "text": "And scientists are discovering\nthat the brain controls"
+  },
+  {
+    "end_time": 230976,
+    "index": 83,
+    "start_time": 229000,
+    "text": "how we respond to pain signals."
+  },
+  {
+    "end_time": 233335,
+    "index": 84,
+    "start_time": 231000,
+    "text": "For example, how much pain\nyou feel can depend on"
+  },
+  {
+    "end_time": 237096,
+    "index": 85,
+    "start_time": 233359,
+    "text": "whether you&#39;re paying attention\nto the pain, or even your mood."
+  },
+  {
+    "end_time": 238977,
+    "index": 86,
+    "start_time": 237120,
+    "text": "Pain is an area of active research."
+  },
+  {
+    "end_time": 242549,
+    "index": 87,
+    "start_time": 239001,
+    "text": "If we can understand it better, maybe\nwe can help people manage it better."
+  }
+]

@@ -1,0 +1,458 @@
+[
+    {
+        "index": 1,
+        "start_time": 7176,
+        "end_time": 11960,
+        "text": "Austrian physicist Erwin Schr\u00f6dinger is\none of the founders of quantum mechanics,"
+    },
+    {
+        "index": 2,
+        "start_time": 11960,
+        "end_time": 15237,
+        "text": "but he&#39;s most famous for something he\nnever actually did:"
+    },
+    {
+        "index": 3,
+        "start_time": 15237,
+        "end_time": 17937,
+        "text": "a thought experiment involving a cat."
+    },
+    {
+        "index": 4,
+        "start_time": 17937,
+        "end_time": 21282,
+        "text": "He imagined taking a cat and\nplacing it in a sealed box"
+    },
+    {
+        "index": 5,
+        "start_time": 21282,
+        "end_time": 26572,
+        "text": "with a device that had a 50% chance\nof killing the cat in the next hour."
+    },
+    {
+        "index": 6,
+        "start_time": 26572,
+        "end_time": 30418,
+        "text": "At the end of that hour, he asked,\n&quot;What is the state of the cat?&quot;"
+    },
+    {
+        "index": 7,
+        "start_time": 30418,
+        "end_time": 33788,
+        "text": "Common sense suggests that the cat\nis either alive or dead,"
+    },
+    {
+        "index": 8,
+        "start_time": 33788,
+        "end_time": 36791,
+        "text": "but Schr\u00f6dinger pointed out that according\nto quantum physics,"
+    },
+    {
+        "index": 9,
+        "start_time": 36791,
+        "end_time": 42421,
+        "text": "at the instant before the box is opened,\nthe cat is equal parts alive and dead,"
+    },
+    {
+        "index": 10,
+        "start_time": 42421,
+        "end_time": 44338,
+        "text": "at the same time."
+    },
+    {
+        "index": 11,
+        "start_time": 44338,
+        "end_time": 48302,
+        "text": "It&#39;s only when the box is opened\nthat we see a single definite state."
+    },
+    {
+        "index": 12,
+        "start_time": 48302,
+        "end_time": 51561,
+        "text": "Until then, the cat is \na blur of probability,"
+    },
+    {
+        "index": 13,
+        "start_time": 51561,
+        "end_time": 54230,
+        "text": "half one thing and half the other."
+    },
+    {
+        "index": 14,
+        "start_time": 54230,
+        "end_time": 56965,
+        "text": "This seems absurd, \nwhich was Schr\u00f6dinger&#39;s point."
+    },
+    {
+        "index": 15,
+        "start_time": 56965,
+        "end_time": 59956,
+        "text": "He found quantum physics so \nphilosophically disturbing,"
+    },
+    {
+        "index": 16,
+        "start_time": 59956,
+        "end_time": 62768,
+        "text": "that he abandoned the theory\nhe had helped make"
+    },
+    {
+        "index": 17,
+        "start_time": 62768,
+        "end_time": 64995,
+        "text": "and turned to writing about biology."
+    },
+    {
+        "index": 18,
+        "start_time": 64995,
+        "end_time": 68949,
+        "text": "As absurd as it may seem, though,\nSchr\u00f6dinger&#39;s cat is very real."
+    },
+    {
+        "index": 19,
+        "start_time": 68949,
+        "end_time": 70610,
+        "text": "In fact, it&#39;s essential."
+    },
+    {
+        "index": 20,
+        "start_time": 70610,
+        "end_time": 74328,
+        "text": "If it weren&#39;t possible for quantum objects\nto be in two states at once,"
+    },
+    {
+        "index": 21,
+        "start_time": 74328,
+        "end_time": 78575,
+        "text": "the computer you&#39;re using to watch this\ncouldn&#39;t exist."
+    },
+    {
+        "index": 22,
+        "start_time": 78575,
+        "end_time": 80657,
+        "text": "The quantum phenomenon of \nsuperposition"
+    },
+    {
+        "index": 23,
+        "start_time": 80657,
+        "end_time": 85708,
+        "text": "is a consequence of the dual\nparticle and wave nature of everything."
+    },
+    {
+        "index": 24,
+        "start_time": 85708,
+        "end_time": 87844,
+        "text": "In order for an object to have\na wavelength,"
+    },
+    {
+        "index": 25,
+        "start_time": 87844,
+        "end_time": 90299,
+        "text": "it must extend over some region of space,"
+    },
+    {
+        "index": 26,
+        "start_time": 90299,
+        "end_time": 94049,
+        "text": "which means it occupies many positions\nat the same time."
+    },
+    {
+        "index": 27,
+        "start_time": 94049,
+        "end_time": 97070,
+        "text": "The wavelength of an object limited\nto a small region of space"
+    },
+    {
+        "index": 28,
+        "start_time": 97070,
+        "end_time": 99425,
+        "text": "can&#39;t be perfectly defined, though."
+    },
+    {
+        "index": 29,
+        "start_time": 99425,
+        "end_time": 103425,
+        "text": "So it exists in many different wavelengths\nat the same time."
+    },
+    {
+        "index": 30,
+        "start_time": 103425,
+        "end_time": 106459,
+        "text": "We don&#39;t see these wave properties\nfor everyday objects"
+    },
+    {
+        "index": 31,
+        "start_time": 106459,
+        "end_time": 110212,
+        "text": "because the wavelength decreases\nas the momentum increases."
+    },
+    {
+        "index": 32,
+        "start_time": 110212,
+        "end_time": 112910,
+        "text": "And a cat is relatively big and heavy."
+    },
+    {
+        "index": 33,
+        "start_time": 112910,
+        "end_time": 117129,
+        "text": "If we took a single atom and blew\nit up to the size of the Solar System,"
+    },
+    {
+        "index": 34,
+        "start_time": 117129,
+        "end_time": 119653,
+        "text": "the wavelength of a cat \nrunning from a physicist"
+    },
+    {
+        "index": 35,
+        "start_time": 119653,
+        "end_time": 123319,
+        "text": "would be as small as an atom \nwithin that Solar System."
+    },
+    {
+        "index": 36,
+        "start_time": 123319,
+        "end_time": 128044,
+        "text": "That&#39;s far too small to detect, so we&#39;ll\nnever see wave behavior from a cat."
+    },
+    {
+        "index": 37,
+        "start_time": 128044,
+        "end_time": 130061,
+        "text": "A tiny particle, like an electron, though,"
+    },
+    {
+        "index": 38,
+        "start_time": 130061,
+        "end_time": 133398,
+        "text": "can show dramatic evidence\nof its dual nature."
+    },
+    {
+        "index": 39,
+        "start_time": 133398,
+        "end_time": 138602,
+        "text": "If we shoot electrons one at a time at a\nset of two narrow slits cut in a barrier,"
+    },
+    {
+        "index": 40,
+        "start_time": 138602,
+        "end_time": 143912,
+        "text": "each electron on the far side is detected\nat a single place at a specific instant,"
+    },
+    {
+        "index": 41,
+        "start_time": 143912,
+        "end_time": 145295,
+        "text": "like a particle."
+    },
+    {
+        "index": 42,
+        "start_time": 145295,
+        "end_time": 147533,
+        "text": "But if you repeat this \nexperiment many times,"
+    },
+    {
+        "index": 43,
+        "start_time": 147533,
+        "end_time": 150360,
+        "text": "keeping track of all the \nindividual detections,"
+    },
+    {
+        "index": 44,
+        "start_time": 150360,
+        "end_time": 154643,
+        "text": "you&#39;ll see them trace out a pattern that&#39;s\ncharacteristic of wave behavior:"
+    },
+    {
+        "index": 45,
+        "start_time": 154643,
+        "end_time": 157373,
+        "text": "a set of stripes - regions with many\nelectrons"
+    },
+    {
+        "index": 46,
+        "start_time": 157373,
+        "end_time": 160061,
+        "text": "separated by regions\nwhere there are none at all."
+    },
+    {
+        "index": 47,
+        "start_time": 160061,
+        "end_time": 162867,
+        "text": "Block one of the slits \nand the stripes go away."
+    },
+    {
+        "index": 48,
+        "start_time": 162867,
+        "end_time": 167692,
+        "text": "This shows that the pattern is a result of\neach electron going through both slits"
+    },
+    {
+        "index": 49,
+        "start_time": 167692,
+        "end_time": 169790,
+        "text": "at the same time."
+    },
+    {
+        "index": 50,
+        "start_time": 169790,
+        "end_time": 172672,
+        "text": "A single electron isn&#39;t choosing \nto go left or right"
+    },
+    {
+        "index": 51,
+        "start_time": 172672,
+        "end_time": 176076,
+        "text": "but left and right simultaneously."
+    },
+    {
+        "index": 52,
+        "start_time": 176076,
+        "end_time": 180029,
+        "text": "This superposition of states also leads\nto modern technology."
+    },
+    {
+        "index": 53,
+        "start_time": 180029,
+        "end_time": 185491,
+        "text": "An electron near the nucleus of an atom\nexists in a spread out, wave-like orbit."
+    },
+    {
+        "index": 54,
+        "start_time": 185491,
+        "end_time": 187135,
+        "text": "Bring two atoms close together,"
+    },
+    {
+        "index": 55,
+        "start_time": 187135,
+        "end_time": 190416,
+        "text": "and the electrons don&#39;t need to \nchoose just one atom"
+    },
+    {
+        "index": 56,
+        "start_time": 190416,
+        "end_time": 192203,
+        "text": "but are shared between them."
+    },
+    {
+        "index": 57,
+        "start_time": 192203,
+        "end_time": 194676,
+        "text": "This is how some chemical bonds form."
+    },
+    {
+        "index": 58,
+        "start_time": 194676,
+        "end_time": 201059,
+        "text": "An electron in a molecule isn&#39;t on\njust atom A or atom B, but A+ B."
+    },
+    {
+        "index": 59,
+        "start_time": 201059,
+        "end_time": 203875,
+        "text": "As you add more atoms,\nthe electrons spread out more,"
+    },
+    {
+        "index": 60,
+        "start_time": 203875,
+        "end_time": 207342,
+        "text": "shared between vast numbers of atoms\nat the same time."
+    },
+    {
+        "index": 61,
+        "start_time": 207342,
+        "end_time": 210643,
+        "text": "The electrons in a solid aren&#39;t \nbound to a particular atom"
+    },
+    {
+        "index": 62,
+        "start_time": 210643,
+        "end_time": 215344,
+        "text": "but shared among all of them,\nextending over a large range of space."
+    },
+    {
+        "index": 63,
+        "start_time": 215344,
+        "end_time": 217860,
+        "text": "This gigantic superposition of states"
+    },
+    {
+        "index": 64,
+        "start_time": 217860,
+        "end_time": 221607,
+        "text": "determines the ways electrons move\nthrough the material,"
+    },
+    {
+        "index": 65,
+        "start_time": 221607,
+        "end_time": 225625,
+        "text": "whether it&#39;s a conductor or an insulator\nor a semiconductor."
+    },
+    {
+        "index": 66,
+        "start_time": 225625,
+        "end_time": 228461,
+        "text": "Understanding how electrons are shared\namong atoms"
+    },
+    {
+        "index": 67,
+        "start_time": 228461,
+        "end_time": 231947,
+        "text": "allows us to precisely control the\nproperties of semiconductor materials,"
+    },
+    {
+        "index": 68,
+        "start_time": 231947,
+        "end_time": 233508,
+        "text": "like silicon."
+    },
+    {
+        "index": 69,
+        "start_time": 233508,
+        "end_time": 235919,
+        "text": "Combining different semiconductors\nin the right way"
+    },
+    {
+        "index": 70,
+        "start_time": 235919,
+        "end_time": 239501,
+        "text": "allows us to make transistors \non a tiny scale,"
+    },
+    {
+        "index": 71,
+        "start_time": 239501,
+        "end_time": 241863,
+        "text": "millions on a single computer chip."
+    },
+    {
+        "index": 72,
+        "start_time": 241863,
+        "end_time": 244065,
+        "text": "Those chips and their spread out electrons"
+    },
+    {
+        "index": 73,
+        "start_time": 244065,
+        "end_time": 247494,
+        "text": "power the computer you&#39;re using to\nwatch this video."
+    },
+    {
+        "index": 74,
+        "start_time": 247494,
+        "end_time": 252185,
+        "text": "An old joke says that the Internet \nexists to allow the sharing of cat videos."
+    },
+    {
+        "index": 75,
+        "start_time": 252185,
+        "end_time": 255431,
+        "text": "At a very deep level, though,\nthe Internet owes its existance"
+    },
+    {
+        "index": 76,
+        "start_time": 255431,
+        "end_time": 259310,
+        "text": "to an Austrian physicist\nand his imaginary cat."
+    }
+]

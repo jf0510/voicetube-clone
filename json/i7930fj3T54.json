@@ -1,0 +1,488 @@
+[
+    {
+        "index": 1,
+        "start_time": 6926,
+        "end_time": 9938,
+        "text": "The city sky is, frankly, rather boring."
+    },
+    {
+        "index": 2,
+        "start_time": 9938,
+        "end_time": 12988,
+        "text": "If you look up at the patches of\nmurk between buildings,"
+    },
+    {
+        "index": 3,
+        "start_time": 12988,
+        "end_time": 15248,
+        "text": "you might be able to pick out\nThe Big Dipper,"
+    },
+    {
+        "index": 4,
+        "start_time": 15248,
+        "end_time": 17392,
+        "text": "or perhaps, Orion&#39;s Belt."
+    },
+    {
+        "index": 5,
+        "start_time": 17392,
+        "end_time": 18131,
+        "text": "But hold on. "
+    },
+    {
+        "index": 6,
+        "start_time": 18131,
+        "end_time": 21419,
+        "text": "Look at that murky patch again\nand hold our your thumb."
+    },
+    {
+        "index": 7,
+        "start_time": 21419,
+        "end_time": 24059,
+        "text": "How many stars do you think\nare behind it?"
+    },
+    {
+        "index": 8,
+        "start_time": 24059,
+        "end_time": 26603,
+        "text": "Ten, twenty? Guess again."
+    },
+    {
+        "index": 9,
+        "start_time": 26603,
+        "end_time": 29305,
+        "text": "If you looked at that\nthumbnail-sized patch of sky"
+    },
+    {
+        "index": 10,
+        "start_time": 29305,
+        "end_time": 31406,
+        "text": "with the Hubble Space Telescope,"
+    },
+    {
+        "index": 11,
+        "start_time": 31406,
+        "end_time": 34318,
+        "text": "instead of points of light,\nyou&#39;d see smudges."
+    },
+    {
+        "index": 12,
+        "start_time": 34318,
+        "end_time": 35873,
+        "text": "These aren&#39;t stars."
+    },
+    {
+        "index": 13,
+        "start_time": 35873,
+        "end_time": 38857,
+        "text": "They&#39;re galaxies, just like our Milky Way."
+    },
+    {
+        "index": 14,
+        "start_time": 38857,
+        "end_time": 41119,
+        "text": "Cities of billions of stars,"
+    },
+    {
+        "index": 15,
+        "start_time": 41119,
+        "end_time": 46472,
+        "text": "and more than 1,000 of them\nare hidden behind your thumb."
+    },
+    {
+        "index": 16,
+        "start_time": 46472,
+        "end_time": 49592,
+        "text": "The universe is bigger than\nyou can see from the city,"
+    },
+    {
+        "index": 17,
+        "start_time": 49592,
+        "end_time": 53941,
+        "text": "and even bigger than the starry sky\nyou can see from the countryside."
+    },
+    {
+        "index": 18,
+        "start_time": 53941,
+        "end_time": 57776,
+        "text": "This is the universe as \nastrophysicists see it,"
+    },
+    {
+        "index": 19,
+        "start_time": 57776,
+        "end_time": 63461,
+        "text": "with more stars than all the grains\nof sand on Earth."
+    },
+    {
+        "index": 20,
+        "start_time": 63461,
+        "end_time": 65397,
+        "text": "By staring up at the stars at night,"
+    },
+    {
+        "index": 21,
+        "start_time": 65397,
+        "end_time": 68808,
+        "text": "you&#39;ve taken part in the oldest science\nin human history."
+    },
+    {
+        "index": 22,
+        "start_time": 68808,
+        "end_time": 70749,
+        "text": "The study of the heavens is older than"
+    },
+    {
+        "index": 23,
+        "start_time": 70749,
+        "end_time": 74843,
+        "text": "navigation, agriculture, perhaps\neven language itself."
+    },
+    {
+        "index": 24,
+        "start_time": 74843,
+        "end_time": 79499,
+        "text": "Yet unlike other sciences,\nastronomy is purely observational."
+    },
+    {
+        "index": 25,
+        "start_time": 79499,
+        "end_time": 83164,
+        "text": "We cannot control the parameters\nof our experiments from lab benches."
+    },
+    {
+        "index": 26,
+        "start_time": 83164,
+        "end_time": 86150,
+        "text": "Our best technology can send\nman to the moon,"
+    },
+    {
+        "index": 27,
+        "start_time": 86150,
+        "end_time": 89149,
+        "text": "and probes to the edge of \nthe solar system."
+    },
+    {
+        "index": 28,
+        "start_time": 89149,
+        "end_time": 91508,
+        "text": "But these distances are vanishingly small"
+    },
+    {
+        "index": 29,
+        "start_time": 91508,
+        "end_time": 94811,
+        "text": "compared to the yawning gulfs \nbetween stars."
+    },
+    {
+        "index": 30,
+        "start_time": 94811,
+        "end_time": 97264,
+        "text": "So how can we know so much\nabout other galaxies,"
+    },
+    {
+        "index": 31,
+        "start_time": 97264,
+        "end_time": 101871,
+        "text": "what they&#39;re made of, how many there are,\nor that they&#39;re even there at all?"
+    },
+    {
+        "index": 32,
+        "start_time": 101871,
+        "end_time": 105924,
+        "text": "Well, we can start with the first thing we\nsee when we look up at night: the stars."
+    },
+    {
+        "index": 33,
+        "start_time": 105924,
+        "end_time": 109161,
+        "text": "What we are trying to learn\nis their properties."
+    },
+    {
+        "index": 34,
+        "start_time": 109161,
+        "end_time": 113504,
+        "text": "What are they made of? How hot are they?\nHow massive? How old?"
+    },
+    {
+        "index": 35,
+        "start_time": 113504,
+        "end_time": 115882,
+        "text": "How far are they from Earth?"
+    },
+    {
+        "index": 36,
+        "start_time": 115882,
+        "end_time": 117144,
+        "text": "And believe it or not,"
+    },
+    {
+        "index": 37,
+        "start_time": 117144,
+        "end_time": 122225,
+        "text": "we can learn all of these things\nsimply from the light shining in the sky."
+    },
+    {
+        "index": 38,
+        "start_time": 122225,
+        "end_time": 127114,
+        "text": "We can decipher one kind of stellar message\nby turning starlight into rainbows."
+    },
+    {
+        "index": 39,
+        "start_time": 127114,
+        "end_time": 128859,
+        "text": "When you look at a rainbow on Earth,"
+    },
+    {
+        "index": 40,
+        "start_time": 128859,
+        "end_time": 131008,
+        "text": "you&#39;re really looking at light\nfrom our Sun"
+    },
+    {
+        "index": 41,
+        "start_time": 131008,
+        "end_time": 134309,
+        "text": "being scattered through water droplets\nin the atmosphere"
+    },
+    {
+        "index": 42,
+        "start_time": 134309,
+        "end_time": 137520,
+        "text": "into all the different wavelengths\nthat make it up."
+    },
+    {
+        "index": 43,
+        "start_time": 137520,
+        "end_time": 139653,
+        "text": "And we study the light from other stars,"
+    },
+    {
+        "index": 44,
+        "start_time": 139653,
+        "end_time": 143685,
+        "text": "we can create rainbows on demand\nusing not water droplets,"
+    },
+    {
+        "index": 45,
+        "start_time": 143685,
+        "end_time": 147503,
+        "text": "but other specific instruments that\ndisperse light."
+    },
+    {
+        "index": 46,
+        "start_time": 147503,
+        "end_time": 150005,
+        "text": "When we look at the scattered\nlight from our sun,"
+    },
+    {
+        "index": 47,
+        "start_time": 150005,
+        "end_time": 153466,
+        "text": "we see something strange:\ndark lines in our rainbow."
+    },
+    {
+        "index": 48,
+        "start_time": 153466,
+        "end_time": 157090,
+        "text": "These lines are the characteristic\nfingerprints of atoms."
+    },
+    {
+        "index": 49,
+        "start_time": 157090,
+        "end_time": 162087,
+        "text": "Each type of atom in the solar atmosphere\nsoaks up light at specific wavelengths,"
+    },
+    {
+        "index": 50,
+        "start_time": 162087,
+        "end_time": 166576,
+        "text": "and the amount of absorption depends on\nhow many of these atoms there are."
+    },
+    {
+        "index": 51,
+        "start_time": 166576,
+        "end_time": 170598,
+        "text": "So by observing how much light is missing\nat these characteristic wavelengths,"
+    },
+    {
+        "index": 52,
+        "start_time": 170598,
+        "end_time": 173912,
+        "text": "we can tell not only what elements are\nin the Sun&#39;s atmosphere,"
+    },
+    {
+        "index": 53,
+        "start_time": 173912,
+        "end_time": 176620,
+        "text": "but even their concentrations."
+    },
+    {
+        "index": 54,
+        "start_time": 176620,
+        "end_time": 179769,
+        "text": "And the same idea can be applied to\nstudy other stars."
+    },
+    {
+        "index": 55,
+        "start_time": 179769,
+        "end_time": 182276,
+        "text": "Make a spectral rainbow, \nsee what&#39;s missing,"
+    },
+    {
+        "index": 56,
+        "start_time": 182276,
+        "end_time": 184719,
+        "text": "and figure out which elements are present."
+    },
+    {
+        "index": 57,
+        "start_time": 184719,
+        "end_time": 188354,
+        "text": "Bingo. Now you know what stars\nare made of."
+    },
+    {
+        "index": 58,
+        "start_time": 188354,
+        "end_time": 191999,
+        "text": "But we aren&#39;t restricted to just\nthe wavelengths that our eyes perceive."
+    },
+    {
+        "index": 59,
+        "start_time": 191999,
+        "end_time": 194051,
+        "text": "Consider radio waves."
+    },
+    {
+        "index": 60,
+        "start_time": 194051,
+        "end_time": 197123,
+        "text": "Yes, they can bring the Billboard Top 100\nto your car,"
+    },
+    {
+        "index": 61,
+        "start_time": 197123,
+        "end_time": 201314,
+        "text": "but they can also travel almost\nunimpeded through space."
+    },
+    {
+        "index": 62,
+        "start_time": 201314,
+        "end_time": 202828,
+        "text": "Because they&#39;ve come so far,"
+    },
+    {
+        "index": 63,
+        "start_time": 202828,
+        "end_time": 206487,
+        "text": "radio waves can tell us the very\nearly history of the universe,"
+    },
+    {
+        "index": 64,
+        "start_time": 206487,
+        "end_time": 210457,
+        "text": "from just a few thousand years\nafter The Big Bang."
+    },
+    {
+        "index": 65,
+        "start_time": 210457,
+        "end_time": 214321,
+        "text": "We can also study the infrared light,\nemitted by colder objects,"
+    },
+    {
+        "index": 66,
+        "start_time": 214321,
+        "end_time": 217041,
+        "text": "like the gas and dust clouds in space,"
+    },
+    {
+        "index": 67,
+        "start_time": 217041,
+        "end_time": 222199,
+        "text": "and the ultraviolet light from the hot\nstars recently born from those clouds."
+    },
+    {
+        "index": 68,
+        "start_time": 222199,
+        "end_time": 224871,
+        "text": "Studying different wavelengths \nnot only gives us"
+    },
+    {
+        "index": 69,
+        "start_time": 224871,
+        "end_time": 227245,
+        "text": "a more complete picture\nof any single object"
+    },
+    {
+        "index": 70,
+        "start_time": 227245,
+        "end_time": 229942,
+        "text": "but also different views of the universe."
+    },
+    {
+        "index": 71,
+        "start_time": 229942,
+        "end_time": 234290,
+        "text": "For this reason, astrophysicists use\nseveral different kinds of telescopes"
+    },
+    {
+        "index": 72,
+        "start_time": 234290,
+        "end_time": 238911,
+        "text": "covering the spectrum from the infrared\nto the ultraviolet to the X-ray,"
+    },
+    {
+        "index": 73,
+        "start_time": 238911,
+        "end_time": 243141,
+        "text": "from giant radio dishes to giant\nsilver mirrors to space satellites,"
+    },
+    {
+        "index": 74,
+        "start_time": 243141,
+        "end_time": 248018,
+        "text": "detecting light that would be otherwise\nblocked by the Earth&#39;s atmosphere."
+    },
+    {
+        "index": 75,
+        "start_time": 248018,
+        "end_time": 249973,
+        "text": "Astrophysicists don&#39;t just see"
+    },
+    {
+        "index": 76,
+        "start_time": 249973,
+        "end_time": 253385,
+        "text": "the billions of stars among\nthe billions of galaxies in the universe."
+    },
+    {
+        "index": 77,
+        "start_time": 253385,
+        "end_time": 257223,
+        "text": "They hear, feel and sense them\nthrough many channels,"
+    },
+    {
+        "index": 78,
+        "start_time": 257223,
+        "end_time": 259387,
+        "text": "each revealing a different story."
+    },
+    {
+        "index": 79,
+        "start_time": 259387,
+        "end_time": 264055,
+        "text": "But it all begins with light,\nthe kind we can see and the kind we can&#39;t."
+    },
+    {
+        "index": 80,
+        "start_time": 264055,
+        "end_time": 266697,
+        "text": "Want to know the secrets of the Universe?"
+    },
+    {
+        "index": 81,
+        "start_time": 266697,
+        "end_time": 268314,
+        "text": "Just follow the light."
+    }
+]

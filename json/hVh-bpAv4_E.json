@@ -1,0 +1,440 @@
+[
+    {
+        "index": 1,
+        "start_time": 8597,
+        "end_time": 13789,
+        "text": "So you just strained a muscle\nand the inflammation is unbearable."
+    },
+    {
+        "index": 2,
+        "start_time": 13789,
+        "end_time": 16807,
+        "text": "You wish you had something \nice-cold to dull the pain,"
+    },
+    {
+        "index": 3,
+        "start_time": 16807,
+        "end_time": 21305,
+        "text": "but to use an ice pack, you would have had\nto put it in the freezer hours ago."
+    },
+    {
+        "index": 4,
+        "start_time": 21305,
+        "end_time": 23420,
+        "text": "Fortunately, there&#39;s another option."
+    },
+    {
+        "index": 5,
+        "start_time": 23420,
+        "end_time": 28057,
+        "text": "A cold pack can be left at room temperature\nuntil the moment you need it,"
+    },
+    {
+        "index": 6,
+        "start_time": 28057,
+        "end_time": 33834,
+        "text": "then just snap it as instructed\nand within seconds you&#39;ll feel the chill."
+    },
+    {
+        "index": 7,
+        "start_time": 33834,
+        "end_time": 37141,
+        "text": "But how can something go from \nroom temperature to near freezing"
+    },
+    {
+        "index": 8,
+        "start_time": 37141,
+        "end_time": 38927,
+        "text": "in such a short time?"
+    },
+    {
+        "index": 9,
+        "start_time": 38927,
+        "end_time": 41434,
+        "text": "The answer lies in chemistry."
+    },
+    {
+        "index": 10,
+        "start_time": 41434,
+        "end_time": 44404,
+        "text": "Your cold pack contains water\nand a solid compound,"
+    },
+    {
+        "index": 11,
+        "start_time": 44404,
+        "end_time": 49657,
+        "text": "usually ammonium nitrate, in different\ncompartments separated by a barrier."
+    },
+    {
+        "index": 12,
+        "start_time": 49657,
+        "end_time": 52588,
+        "text": "When the barrier is broken,\nthe solid dissolves"
+    },
+    {
+        "index": 13,
+        "start_time": 52588,
+        "end_time": 55644,
+        "text": "causing what&#39;s known as an \nendothermic reaction,"
+    },
+    {
+        "index": 14,
+        "start_time": 55644,
+        "end_time": 58521,
+        "text": "one that absorbs heat from its surroundings."
+    },
+    {
+        "index": 15,
+        "start_time": 58521,
+        "end_time": 60598,
+        "text": "To understand how this works,"
+    },
+    {
+        "index": 16,
+        "start_time": 60598,
+        "end_time": 64538,
+        "text": "we need to look at the two driving forces\nbehind chemical processes:"
+    },
+    {
+        "index": 17,
+        "start_time": 64538,
+        "end_time": 67186,
+        "text": "energetics and entropy."
+    },
+    {
+        "index": 18,
+        "start_time": 67186,
+        "end_time": 73027,
+        "text": "These determine whether a change occurs in\na system and how energy flows if it does."
+    },
+    {
+        "index": 19,
+        "start_time": 73027,
+        "end_time": 77380,
+        "text": "In chemistry, energetics deals with\nthe attractive and repulsive forces"
+    },
+    {
+        "index": 20,
+        "start_time": 77380,
+        "end_time": 80317,
+        "text": "between particles at the molecular level."
+    },
+    {
+        "index": 21,
+        "start_time": 80317,
+        "end_time": 86184,
+        "text": "This scale is so small that there are\nmore water molecules in a single glass"
+    },
+    {
+        "index": 22,
+        "start_time": 86184,
+        "end_time": 89454,
+        "text": "than there are known stars in the universe."
+    },
+    {
+        "index": 23,
+        "start_time": 89454,
+        "end_time": 91527,
+        "text": "And all of these trillions \nof molecules are"
+    },
+    {
+        "index": 24,
+        "start_time": 91527,
+        "end_time": 96181,
+        "text": "constantly moving, vibrating \nand rotating at different rates."
+    },
+    {
+        "index": 25,
+        "start_time": 96181,
+        "end_time": 99785,
+        "text": "We can think of temperature as\na measurement of the average motion,"
+    },
+    {
+        "index": 26,
+        "start_time": 99785,
+        "end_time": 102800,
+        "text": "or kinetic energy, of all these particles,"
+    },
+    {
+        "index": 27,
+        "start_time": 102800,
+        "end_time": 106906,
+        "text": "with an increase in movement\nmeaning an increase in temperature,"
+    },
+    {
+        "index": 28,
+        "start_time": 106906,
+        "end_time": 108732,
+        "text": "and vice versa."
+    },
+    {
+        "index": 29,
+        "start_time": 108732,
+        "end_time": 111596,
+        "text": "The flow of heat in any \nchemical transformation"
+    },
+    {
+        "index": 30,
+        "start_time": 111596,
+        "end_time": 114836,
+        "text": "depends on the relative strength\nof particle interactions"
+    },
+    {
+        "index": 31,
+        "start_time": 114836,
+        "end_time": 117910,
+        "text": "in each of a substance&#39;s chemical states."
+    },
+    {
+        "index": 32,
+        "start_time": 117910,
+        "end_time": 120761,
+        "text": "When particles have a strong mutual\nattractive force,"
+    },
+    {
+        "index": 33,
+        "start_time": 120761,
+        "end_time": 123843,
+        "text": "they move rapidly towards one another,\nuntil they get so close,"
+    },
+    {
+        "index": 34,
+        "start_time": 123843,
+        "end_time": 127614,
+        "text": "that repulsive forces push them away."
+    },
+    {
+        "index": 35,
+        "start_time": 127614,
+        "end_time": 129694,
+        "text": "If the initial attraction was \nstrong enough,"
+    },
+    {
+        "index": 36,
+        "start_time": 129694,
+        "end_time": 133286,
+        "text": "the particles will keep vibrating back\nand forth in this way."
+    },
+    {
+        "index": 37,
+        "start_time": 133286,
+        "end_time": 136384,
+        "text": "The stronger the attraction,\nthe faster their movement,"
+    },
+    {
+        "index": 38,
+        "start_time": 136384,
+        "end_time": 138764,
+        "text": "and since heat is essentially motion,"
+    },
+    {
+        "index": 39,
+        "start_time": 138764,
+        "end_time": 142463,
+        "text": "when a substance changes to a state\nin which these interactions are stronger,"
+    },
+    {
+        "index": 40,
+        "start_time": 142463,
+        "end_time": 144150,
+        "text": "the system heats up."
+    },
+    {
+        "index": 41,
+        "start_time": 144150,
+        "end_time": 146437,
+        "text": "But our cold packs do the opposite,"
+    },
+    {
+        "index": 42,
+        "start_time": 146437,
+        "end_time": 149209,
+        "text": "which means that when \nthe solid dissolves in the water,"
+    },
+    {
+        "index": 43,
+        "start_time": 149209,
+        "end_time": 153336,
+        "text": "the new interactions of solid particles \nand water molecules with each other"
+    },
+    {
+        "index": 44,
+        "start_time": 153336,
+        "end_time": 157363,
+        "text": "are weaker than the separate interactions\nthat existed before."
+    },
+    {
+        "index": 45,
+        "start_time": 157363,
+        "end_time": 160741,
+        "text": "This makes both types of particles \nslow down on average,"
+    },
+    {
+        "index": 46,
+        "start_time": 160741,
+        "end_time": 162492,
+        "text": "cooling the whole solution."
+    },
+    {
+        "index": 47,
+        "start_time": 162492,
+        "end_time": 167051,
+        "text": "But why would a substance change to a\nstate where the interactions were weaker?"
+    },
+    {
+        "index": 48,
+        "start_time": 167051,
+        "end_time": 171228,
+        "text": "Wouldn&#39;t the stronger preexisting\ninteractions keep the solid from dissolving?"
+    },
+    {
+        "index": 49,
+        "start_time": 171228,
+        "end_time": 173380,
+        "text": "This is where entropy comes in."
+    },
+    {
+        "index": 50,
+        "start_time": 173380,
+        "end_time": 176271,
+        "text": "Entropy basically describes \nhow objects and energy"
+    },
+    {
+        "index": 51,
+        "start_time": 176271,
+        "end_time": 179825,
+        "text": "are distributed based on random motion."
+    },
+    {
+        "index": 52,
+        "start_time": 179825,
+        "end_time": 183535,
+        "text": "If you think of the air in a room,\nthere are many different possible arrangements"
+    },
+    {
+        "index": 53,
+        "start_time": 183535,
+        "end_time": 185902,
+        "text": "for the trillions of particles \nthat compose it."
+    },
+    {
+        "index": 54,
+        "start_time": 185902,
+        "end_time": 189317,
+        "text": "Some of these will have all \nthe oxygen molecules in one area,"
+    },
+    {
+        "index": 55,
+        "start_time": 189317,
+        "end_time": 191898,
+        "text": "and all the nitrogen molecules in another."
+    },
+    {
+        "index": 56,
+        "start_time": 191898,
+        "end_time": 194513,
+        "text": "But far more will have them \nmixed together,"
+    },
+    {
+        "index": 57,
+        "start_time": 194513,
+        "end_time": 197700,
+        "text": "which is why air is always\nfound in this state."
+    },
+    {
+        "index": 58,
+        "start_time": 197700,
+        "end_time": 200976,
+        "text": "Now, if there are strong\nattractive forces between particles,"
+    },
+    {
+        "index": 59,
+        "start_time": 200976,
+        "end_time": 204209,
+        "text": "the probability of some configurations\ncan change"
+    },
+    {
+        "index": 60,
+        "start_time": 204209,
+        "end_time": 208290,
+        "text": "even to the point where the odds\ndon&#39;t favor certain substances mixing."
+    },
+    {
+        "index": 61,
+        "start_time": 208290,
+        "end_time": 211250,
+        "text": "Oil and water not mixing is an example."
+    },
+    {
+        "index": 62,
+        "start_time": 211250,
+        "end_time": 215196,
+        "text": "But in the case of the ammonium nitrate,\nor other substance in your cold pack,"
+    },
+    {
+        "index": 63,
+        "start_time": 215196,
+        "end_time": 218619,
+        "text": "the attractive forces are not \nstrong enough to change the odds,"
+    },
+    {
+        "index": 64,
+        "start_time": 218619,
+        "end_time": 222625,
+        "text": "and random motion makes the particles\ncomposing the solid separate"
+    },
+    {
+        "index": 65,
+        "start_time": 222625,
+        "end_time": 227313,
+        "text": "by dissolving into the water\nand never returning to their solid state."
+    },
+    {
+        "index": 66,
+        "start_time": 227313,
+        "end_time": 230895,
+        "text": "To put it simply, your cold pack gets \ncold because random motion"
+    },
+    {
+        "index": 67,
+        "start_time": 230895,
+        "end_time": 235470,
+        "text": "creates more configurations where \nthe solid and water mix together"
+    },
+    {
+        "index": 68,
+        "start_time": 235470,
+        "end_time": 239220,
+        "text": "and all of these have even weaker\nparticle interaction,"
+    },
+    {
+        "index": 69,
+        "start_time": 239220,
+        "end_time": 240700,
+        "text": "less overall particle movement,"
+    },
+    {
+        "index": 70,
+        "start_time": 240700,
+        "end_time": 245193,
+        "text": "and less heat than there was \ninside the unused pack."
+    },
+    {
+        "index": 71,
+        "start_time": 245193,
+        "end_time": 248122,
+        "text": "So while the disorder that can result\nfrom entropy"
+    },
+    {
+        "index": 72,
+        "start_time": 248122,
+        "end_time": 250513,
+        "text": "may have caused your injury\nin the first place,"
+    },
+    {
+        "index": 73,
+        "start_time": 250513,
+        "end_time": 254948,
+        "text": "its also responsible for that\ncomforting cold that soothes your pain."
+    }
+]

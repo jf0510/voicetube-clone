@@ -1,0 +1,446 @@
+[
+    {
+        "index": 1,
+        "start_time": 9339,
+        "end_time": 12025,
+        "text": "The human eye is an amazing mechanism,"
+    },
+    {
+        "index": 2,
+        "start_time": 12025,
+        "end_time": 16465,
+        "text": "able to detect anywhere \nfrom a few photons to direct sunlight,"
+    },
+    {
+        "index": 3,
+        "start_time": 16465,
+        "end_time": 19081,
+        "text": "or switch focus from \nthe screen in front of you"
+    },
+    {
+        "index": 4,
+        "start_time": 19081,
+        "end_time": 22631,
+        "text": "to the distant horizon \nin a third of a second."
+    },
+    {
+        "index": 5,
+        "start_time": 22631,
+        "end_time": 26359,
+        "text": "In fact, the structures required\nfor such incredible flexibility"
+    },
+    {
+        "index": 6,
+        "start_time": 26359,
+        "end_time": 28368,
+        "text": "were once considered so complex"
+    },
+    {
+        "index": 7,
+        "start_time": 28368,
+        "end_time": 33499,
+        "text": "that Charles Darwin himself acknowledged\nthat the idea of there having evolved"
+    },
+    {
+        "index": 8,
+        "start_time": 33499,
+        "end_time": 37456,
+        "text": "seemed absurd in the \nhighest possible degree."
+    },
+    {
+        "index": 9,
+        "start_time": 37456,
+        "end_time": 42981,
+        "text": "And yet, that is exactly what happened,\nstarting more than 500 million years ago."
+    },
+    {
+        "index": 10,
+        "start_time": 42981,
+        "end_time": 46762,
+        "text": "The story of the human eye begins\nwith a simple light spot,"
+    },
+    {
+        "index": 11,
+        "start_time": 46762,
+        "end_time": 49815,
+        "text": "such as the one found \nin single-celled organisms,"
+    },
+    {
+        "index": 12,
+        "start_time": 49815,
+        "end_time": 51622,
+        "text": "like euglena."
+    },
+    {
+        "index": 13,
+        "start_time": 51622,
+        "end_time": 53843,
+        "text": "This is a cluster \nof light-sensitive proteins"
+    },
+    {
+        "index": 14,
+        "start_time": 53843,
+        "end_time": 56412,
+        "text": "linked to the organism&#39;s flagellum,"
+    },
+    {
+        "index": 15,
+        "start_time": 56412,
+        "end_time": 60022,
+        "text": "activating when it finds light\nand, therefore, food."
+    },
+    {
+        "index": 16,
+        "start_time": 60022,
+        "end_time": 65037,
+        "text": "A more complex version of this light spot\ncan be found in the flat worm, planaria."
+    },
+    {
+        "index": 17,
+        "start_time": 65037,
+        "end_time": 67512,
+        "text": "Being cupped, rather than flat,"
+    },
+    {
+        "index": 18,
+        "start_time": 67512,
+        "end_time": 72035,
+        "text": "enables it to better sense\nthe direction of the incoming light."
+    },
+    {
+        "index": 19,
+        "start_time": 72035,
+        "end_time": 73768,
+        "text": "Among its other uses,"
+    },
+    {
+        "index": 20,
+        "start_time": 73768,
+        "end_time": 79488,
+        "text": "this ability allows an organism\nto seek out shade and hide from predators."
+    },
+    {
+        "index": 21,
+        "start_time": 79488,
+        "end_time": 80602,
+        "text": "Over the millenia,"
+    },
+    {
+        "index": 22,
+        "start_time": 80602,
+        "end_time": 83429,
+        "text": "as such light cups grew deeper\nin some organisms,"
+    },
+    {
+        "index": 23,
+        "start_time": 83429,
+        "end_time": 86453,
+        "text": "the opening at the front grew smaller."
+    },
+    {
+        "index": 24,
+        "start_time": 86453,
+        "end_time": 91187,
+        "text": "The result was a pinhole effect,\nwhich increased resolution dramatically,"
+    },
+    {
+        "index": 25,
+        "start_time": 91187,
+        "end_time": 96464,
+        "text": "reducing distortion by only allowing\na thin beam of light into the eye."
+    },
+    {
+        "index": 26,
+        "start_time": 96464,
+        "end_time": 99083,
+        "text": "The nautilus, \nan ancestor of the octopus,"
+    },
+    {
+        "index": 27,
+        "start_time": 99083,
+        "end_time": 105148,
+        "text": "uses this pinhole eye for improved \nresolution and directional sensing."
+    },
+    {
+        "index": 28,
+        "start_time": 105148,
+        "end_time": 108559,
+        "text": "Although the pinhole eye allows\nfor simple images,"
+    },
+    {
+        "index": 29,
+        "start_time": 108559,
+        "end_time": 112487,
+        "text": "the key step towards the eye \nas we know it is a lens."
+    },
+    {
+        "index": 30,
+        "start_time": 112487,
+        "end_time": 114109,
+        "text": "This is thought to have evolved"
+    },
+    {
+        "index": 31,
+        "start_time": 114109,
+        "end_time": 118556,
+        "text": "through transparent cells covering \nthe opening to prevent infection,"
+    },
+    {
+        "index": 32,
+        "start_time": 118556,
+        "end_time": 121617,
+        "text": "allowing the inside of the eye\nto fill with fluid"
+    },
+    {
+        "index": 33,
+        "start_time": 121617,
+        "end_time": 125235,
+        "text": "that optimizes light sensitivity\nand processing."
+    },
+    {
+        "index": 34,
+        "start_time": 125235,
+        "end_time": 127435,
+        "text": "Crystalline proteins \nforming at the surface"
+    },
+    {
+        "index": 35,
+        "start_time": 127435,
+        "end_time": 129905,
+        "text": "created a structure that proved useful"
+    },
+    {
+        "index": 36,
+        "start_time": 129905,
+        "end_time": 133135,
+        "text": "in focusing light \nat a single point on the retina."
+    },
+    {
+        "index": 37,
+        "start_time": 133135,
+        "end_time": 137480,
+        "text": "It is this lens that is the key\nto the eye&#39;s adaptability,"
+    },
+    {
+        "index": 38,
+        "start_time": 137480,
+        "end_time": 141789,
+        "text": "changing its curvature to adapt\nto near and far vision."
+    },
+    {
+        "index": 39,
+        "start_time": 141789,
+        "end_time": 144681,
+        "text": "This structure of the pinhole camera\nwith a lens"
+    },
+    {
+        "index": 40,
+        "start_time": 144681,
+        "end_time": 149784,
+        "text": "served as the basis for what would \neventually evolve into the human eye."
+    },
+    {
+        "index": 41,
+        "start_time": 149784,
+        "end_time": 153193,
+        "text": "Further refinements would include\na colored ring, called the iris,"
+    },
+    {
+        "index": 42,
+        "start_time": 153193,
+        "end_time": 156694,
+        "text": "that controls the amount \nof light entering the eye,"
+    },
+    {
+        "index": 43,
+        "start_time": 156694,
+        "end_time": 159982,
+        "text": "a tough white outer layer,\nknown as the sclera,"
+    },
+    {
+        "index": 44,
+        "start_time": 159982,
+        "end_time": 161910,
+        "text": "to maintain its structure,"
+    },
+    {
+        "index": 45,
+        "start_time": 161910,
+        "end_time": 165469,
+        "text": "and tear glands that secrete \na protective film."
+    },
+    {
+        "index": 46,
+        "start_time": 165469,
+        "end_time": 166909,
+        "text": "But equally important"
+    },
+    {
+        "index": 47,
+        "start_time": 166909,
+        "end_time": 169489,
+        "text": "was the accompanying evolution\nof the brain,"
+    },
+    {
+        "index": 48,
+        "start_time": 169489,
+        "end_time": 171501,
+        "text": "with its expansion of the visual cortex"
+    },
+    {
+        "index": 49,
+        "start_time": 171501,
+        "end_time": 176157,
+        "text": "to process the sharper\nand more colorful images it was receiving."
+    },
+    {
+        "index": 50,
+        "start_time": 176157,
+        "end_time": 180242,
+        "text": "We now know that far from being\nan ideal masterpiece of design,"
+    },
+    {
+        "index": 51,
+        "start_time": 180242,
+        "end_time": 184342,
+        "text": "our eye bares traces\nof its step by step evolution."
+    },
+    {
+        "index": 52,
+        "start_time": 184342,
+        "end_time": 187561,
+        "text": "For example,\nthe human retina is inverted,"
+    },
+    {
+        "index": 53,
+        "start_time": 187561,
+        "end_time": 191249,
+        "text": "with light-detecting cells facing away\nfrom the eye opening."
+    },
+    {
+        "index": 54,
+        "start_time": 191249,
+        "end_time": 192904,
+        "text": "This results in a blind spot,"
+    },
+    {
+        "index": 55,
+        "start_time": 192904,
+        "end_time": 195626,
+        "text": "where the optic nerve\nmust pierce the retina"
+    },
+    {
+        "index": 56,
+        "start_time": 195626,
+        "end_time": 198382,
+        "text": "to reach the photosensitive \nlayer in the back."
+    },
+    {
+        "index": 57,
+        "start_time": 198382,
+        "end_time": 201528,
+        "text": "The similar looking eyes \nof cephalopods,"
+    },
+    {
+        "index": 58,
+        "start_time": 201528,
+        "end_time": 203187,
+        "text": "which evolved independently,"
+    },
+    {
+        "index": 59,
+        "start_time": 203187,
+        "end_time": 207970,
+        "text": "have a front-facing retina,\nallowing them to see without a blind spot."
+    },
+    {
+        "index": 60,
+        "start_time": 207970,
+        "end_time": 210794,
+        "text": "Other creatures&#39; eyes display\ndifferent adaptations."
+    },
+    {
+        "index": 61,
+        "start_time": 210794,
+        "end_time": 213732,
+        "text": "Anableps, the so called four-eyed fish,"
+    },
+    {
+        "index": 62,
+        "start_time": 213732,
+        "end_time": 218802,
+        "text": "have eyes divided in two sections\nfor looking above and under water,"
+    },
+    {
+        "index": 63,
+        "start_time": 218802,
+        "end_time": 222258,
+        "text": "perfect for spotting \nboth predators and prey."
+    },
+    {
+        "index": 64,
+        "start_time": 222258,
+        "end_time": 227465,
+        "text": "Cats, classically nighttime hunters,\nhave evolved with a reflective layer"
+    },
+    {
+        "index": 65,
+        "start_time": 227465,
+        "end_time": 231185,
+        "text": "maximizing the amount of light\nthe eye can detect,"
+    },
+    {
+        "index": 66,
+        "start_time": 231185,
+        "end_time": 235715,
+        "text": "granting them excellent night vision,\nas well as their signature glow."
+    },
+    {
+        "index": 67,
+        "start_time": 235715,
+        "end_time": 240468,
+        "text": "These are just a few examples of the huge \ndiversity of eyes in the animal kingdom."
+    },
+    {
+        "index": 68,
+        "start_time": 240468,
+        "end_time": 244869,
+        "text": "So if you could design an eye, \nwould you do it any differently?"
+    },
+    {
+        "index": 69,
+        "start_time": 244869,
+        "end_time": 247632,
+        "text": "This question isn&#39;t as strange \nas it might sound."
+    },
+    {
+        "index": 70,
+        "start_time": 247632,
+        "end_time": 251285,
+        "text": "Today, doctors and scientists are looking\nat different eye structures"
+    },
+    {
+        "index": 71,
+        "start_time": 251285,
+        "end_time": 255662,
+        "text": "to help design biomechanical implants\nfor the vision impaired."
+    },
+    {
+        "index": 72,
+        "start_time": 255662,
+        "end_time": 258279,
+        "text": "And in the not so distant future,"
+    },
+    {
+        "index": 73,
+        "start_time": 258279,
+        "end_time": 262200,
+        "text": "the machines built with the precision\nand flexibilty of the human eye"
+    },
+    {
+        "index": 74,
+        "start_time": 262200,
+        "end_time": 266283,
+        "text": "may even enable it to surpass\nits own evolution."
+    }
+]

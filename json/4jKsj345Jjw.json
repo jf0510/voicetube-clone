@@ -1,0 +1,944 @@
+[
+  {
+    "end_time": 4880,
+    "index": 1,
+    "start_time": 380,
+    "text": "In the US we&#39;re wrestling with a number of very\ndivisive issues as we try to understand"
+  },
+  {
+    "end_time": 7279,
+    "index": 2,
+    "start_time": 4880,
+    "text": "who we wanna be going in to the 21st century."
+  },
+  {
+    "end_time": 12460,
+    "index": 3,
+    "start_time": 7400,
+    "text": "Among them are: police violence, vigilantism, and the question of just how much the US government"
+  },
+  {
+    "end_time": 15340,
+    "index": 4,
+    "start_time": 12480,
+    "text": "can do to a citizen in the name of\nprotecting the rest of us."
+  },
+  {
+    "end_time": 20360,
+    "index": 5,
+    "start_time": 15520,
+    "text": "And these questions are at the heart of The Division, except the game doesn&#39;t seem to realize it."
+  },
+  {
+    "end_time": 25780,
+    "index": 6,
+    "start_time": 20500,
+    "text": "[Extra Credits - Intro music]"
+  },
+  {
+    "end_time": 30180,
+    "index": 7,
+    "start_time": 25960,
+    "text": "The Division is a game where you&#39;re shooting real people in a real city in the United States."
+  },
+  {
+    "end_time": 32839,
+    "index": 8,
+    "start_time": 30360,
+    "text": "It&#39;s not like X-COM where you&#39;re mowing down aliens,"
+  },
+  {
+    "end_time": 36820,
+    "index": 9,
+    "start_time": 32840,
+    "text": "or even where the people you fight are the standard\ngo to of plague zombies or something."
+  },
+  {
+    "end_time": 40620,
+    "index": 10,
+    "start_time": 37000,
+    "text": "You&#39;re not even at war, so we can&#39;t get away with calling the enemies combatants."
+  },
+  {
+    "end_time": 44480,
+    "index": 11,
+    "start_time": 40760,
+    "text": "Because there&#39;s no hand wave to be found, and because these are supposed to be"
+  },
+  {
+    "end_time": 48519,
+    "index": 12,
+    "start_time": 44500,
+    "text": "citizens of the United States who you gun down relentlessly without stop,"
+  },
+  {
+    "end_time": 51780,
+    "index": 13,
+    "start_time": 48520,
+    "text": "the game cannot help but make a statement,\nand that&#39;s problematic."
+  },
+  {
+    "end_time": 55120,
+    "index": 14,
+    "start_time": 51940,
+    "text": "Because in a real world setting the player&#39;s actions have meaning."
+  },
+  {
+    "end_time": 59459,
+    "index": 15,
+    "start_time": 55120,
+    "text": "They comment on our society, whether or not the developer intends them to. It&#39;s unavoidable."
+  },
+  {
+    "end_time": 64099,
+    "index": 16,
+    "start_time": 59460,
+    "text": "It&#39;s like if somebody makes a film about college students in which all of the minority kids drop out"
+  },
+  {
+    "end_time": 68640,
+    "index": 17,
+    "start_time": 64099,
+    "text": "while all of the the white kids get A&#39;s.\nThat communicates a world view, intentional or not."
+  },
+  {
+    "end_time": 71100,
+    "index": 18,
+    "start_time": 68820,
+    "text": "The film makers might not have meant anything by it,"
+  },
+  {
+    "end_time": 73220,
+    "index": 19,
+    "start_time": 71100,
+    "text": "they might not have been thinking about it\nwhen they made the film."
+  },
+  {
+    "end_time": 77000,
+    "index": 20,
+    "start_time": 73400,
+    "text": "It might not even be that essential to what\nthey intended the plot of the film to be."
+  },
+  {
+    "end_time": 81820,
+    "index": 21,
+    "start_time": 77200,
+    "text": "But they can&#39;t then just insist to everybody that\n&quot;It&#39;s just a movie, stop overthinking it,&quot;"
+  },
+  {
+    "end_time": 84580,
+    "index": 22,
+    "start_time": 81980,
+    "text": "something we still hear way too often with games."
+  },
+  {
+    "end_time": 88620,
+    "index": 23,
+    "start_time": 84760,
+    "text": "So let&#39;s talk about the problematic elements of this game, honestly and openly."
+  },
+  {
+    "end_time": 93679,
+    "index": 24,
+    "start_time": 88800,
+    "text": "Not about the quality of the gameplay, only what that gameplay means, what it says about issues"
+  },
+  {
+    "end_time": 98500,
+    "index": 25,
+    "start_time": 93680,
+    "text": "we&#39;re facing today and why we need to think about these things when we&#39;re placing our games in the real world."
+  },
+  {
+    "end_time": 104300,
+    "index": 26,
+    "start_time": 98680,
+    "text": "Because in The Division, you&#39;re a government agent killing US citizens on US soil by government order"
+  },
+  {
+    "end_time": 108420,
+    "index": 27,
+    "start_time": 104300,
+    "text": "without due process of law and those actions are portrayed as heroic."
+  },
+  {
+    "end_time": 109800,
+    "index": 28,
+    "start_time": 108560,
+    "text": "That&#39;s terrifying."
+  },
+  {
+    "end_time": 113699,
+    "index": 29,
+    "start_time": 109960,
+    "text": "This game world is a totalitarian wasteland\nand it glorifies it."
+  },
+  {
+    "end_time": 119580,
+    "index": 30,
+    "start_time": 113880,
+    "text": "Our entire society is based around the idea,  true or not, that the government serves the people and that"
+  },
+  {
+    "end_time": 123720,
+    "index": 31,
+    "start_time": 119580,
+    "text": "in a democracy the government doesn&#39;t use violence against its citizens to get them in line."
+  },
+  {
+    "end_time": 129300,
+    "index": 32,
+    "start_time": 123900,
+    "text": "Lately though with things like the Patriot Act or even Directive 51, on which this game is loosely based,"
+  },
+  {
+    "end_time": 133560,
+    "index": 33,
+    "start_time": 129300,
+    "text": "we as a nation have been struggling to preserve those liberties and come to a consensus about"
+  },
+  {
+    "end_time": 134900,
+    "index": 34,
+    "start_time": 133560,
+    "text": "how much power the state has."
+  },
+  {
+    "end_time": 139380,
+    "index": 35,
+    "start_time": 135080,
+    "text": "About how many of those freedoms we&#39;re willing to let the state take away in the name of protecting us."
+  },
+  {
+    "end_time": 144780,
+    "index": 36,
+    "start_time": 139560,
+    "text": "This is a very complex, nuanced issue and how we talk about it is essential to what we become."
+  },
+  {
+    "end_time": 150480,
+    "index": 37,
+    "start_time": 144960,
+    "text": "And yet, without really thinking, this game lauds being an unquestioning participant in a brutal dictatorship."
+  },
+  {
+    "end_time": 155420,
+    "index": 38,
+    "start_time": 150620,
+    "text": "In The Division, you play as part of a sleeper cell which the president has planted in the US civilian population,"
+  },
+  {
+    "end_time": 160040,
+    "index": 39,
+    "start_time": 155440,
+    "text": "answerable only to him, and usable as a military force against US citizens."
+  },
+  {
+    "end_time": 161460,
+    "index": 40,
+    "start_time": 160500,
+    "text": "That is nuts."
+  },
+  {
+    "end_time": 165340,
+    "index": 41,
+    "start_time": 161460,
+    "text": "The Head of State having a private army to be used against his own populace"
+  },
+  {
+    "end_time": 168080,
+    "index": 42,
+    "start_time": 165340,
+    "text": "is basically the very definition of a totalitarian state."
+  },
+  {
+    "end_time": 170620,
+    "index": 43,
+    "start_time": 168080,
+    "text": "What&#39;s more, these agents have total discretion."
+  },
+  {
+    "end_time": 174880,
+    "index": 44,
+    "start_time": 170780,
+    "text": "They don&#39;t have to answer to the police, and they even have the authority to order the police to help them"
+  },
+  {
+    "end_time": 179040,
+    "index": 45,
+    "start_time": 174880,
+    "text": "as they execute any citizen who is acting against what they feel is right for the state."
+  },
+  {
+    "end_time": 182820,
+    "index": 46,
+    "start_time": 179160,
+    "text": "The more I played, the more it really felt like I was controlling an S.S. agent,"
+  },
+  {
+    "end_time": 187420,
+    "index": 47,
+    "start_time": 183000,
+    "text": "only instead of the game presenting my actions as the horrific stain on humanity&#39;s history it was,"
+  },
+  {
+    "end_time": 190799,
+    "index": 48,
+    "start_time": 187420,
+    "text": "it was giving me the S.S. agent&#39;s perspective where everything I was doing was"
+  },
+  {
+    "end_time": 193060,
+    "index": 49,
+    "start_time": 190800,
+    "text": "necessary and for the good of the state."
+  },
+  {
+    "end_time": 197620,
+    "index": 50,
+    "start_time": 193060,
+    "text": "And all through the experience you hear your ally characters talking about how they&#39;re fighting to"
+  },
+  {
+    "end_time": 198920,
+    "index": 51,
+    "start_time": 197620,
+    "text": "&quot;Preserve what&#39;s left.&quot;"
+  },
+  {
+    "end_time": 202079,
+    "index": 52,
+    "start_time": 199160,
+    "text": "Which...Look, America is our liberties."
+  },
+  {
+    "end_time": 203260,
+    "index": 53,
+    "start_time": 202320,
+    "text": "It&#39;s the Bill of Rights."
+  },
+  {
+    "end_time": 206660,
+    "index": 54,
+    "start_time": 203620,
+    "text": "It&#39;s not about some arbitrary lines on a map, or even a flag."
+  },
+  {
+    "end_time": 211240,
+    "index": 55,
+    "start_time": 206800,
+    "text": "The characters in this game use the same sort of logic that has actually been used time and again"
+  },
+  {
+    "end_time": 214240,
+    "index": 56,
+    "start_time": 211240,
+    "text": "to justify taking away citizens&#39; rights in the real world:"
+  },
+  {
+    "end_time": 216960,
+    "index": 57,
+    "start_time": 214240,
+    "text": "the idea that it&#39;s the only way to preserve America."
+  },
+  {
+    "end_time": 219140,
+    "index": 58,
+    "start_time": 217180,
+    "text": "And yet, the game doesn&#39;t examine this."
+  },
+  {
+    "end_time": 222220,
+    "index": 59,
+    "start_time": 219320,
+    "text": "Instead, it&#39;s just accepted it as the most normal thing in the world,"
+  },
+  {
+    "end_time": 225380,
+    "index": 60,
+    "start_time": 222220,
+    "text": "which is pretty dangerous in a nation where this is really happening."
+  },
+  {
+    "end_time": 228840,
+    "index": 61,
+    "start_time": 225540,
+    "text": "And then there&#39;s the fact that the people you&#39;re shooting are disaster survivors."
+  },
+  {
+    "end_time": 234020,
+    "index": 62,
+    "start_time": 228840,
+    "text": "They&#39;re ordinary people who have lived through a horrific event, and without due process, without acknowledging"
+  },
+  {
+    "end_time": 238280,
+    "index": 63,
+    "start_time": 234020,
+    "text": "their Fourth Amendment rights, you just gun down any of them who appear to be acting out of line."
+  },
+  {
+    "end_time": 243340,
+    "index": 64,
+    "start_time": 238720,
+    "text": "Early on, there&#39;s a sequence where you&#39;re sent to hunt down and kill some people who stole some opiates."
+  },
+  {
+    "end_time": 247520,
+    "index": 65,
+    "start_time": 243500,
+    "text": "When I arrived at the mission site, I found a small group of people just standing there and talking."
+  },
+  {
+    "end_time": 252720,
+    "index": 66,
+    "start_time": 247740,
+    "text": "They weren&#39;t currently committing a crime, they posed no immediate threat to my agent, and I can&#39;t really say"
+  },
+  {
+    "end_time": 255260,
+    "index": 67,
+    "start_time": 252720,
+    "text": "that I had any good evidence that they had ever committed a crime,"
+  },
+  {
+    "end_time": 258079,
+    "index": 68,
+    "start_time": 255260,
+    "text": "other than the word of my superior who told me to go execute them."
+  },
+  {
+    "end_time": 261560,
+    "index": 69,
+    "start_time": 258339,
+    "text": "And yet, the game encouraged me to gun them down from the back."
+  },
+  {
+    "end_time": 266900,
+    "index": 70,
+    "start_time": 261760,
+    "text": "In a world where we&#39;re struggling with police shootings and justified use of force, this mirrors"
+  },
+  {
+    "end_time": 271960,
+    "index": 71,
+    "start_time": 266920,
+    "text": "far too closely what&#39;s actually been going on, what is actually causing incredible outcry in the State."
+  },
+  {
+    "end_time": 276700,
+    "index": 72,
+    "start_time": 271960,
+    "text": "We&#39;ve seen our national unity fragment and riots break out around instances of cops shooting"
+  },
+  {
+    "end_time": 279920,
+    "index": 73,
+    "start_time": 276700,
+    "text": "unarmed citizens over misdemeanors, or because of misunderstandings."
+  },
+  {
+    "end_time": 283020,
+    "index": 74,
+    "start_time": 280200,
+    "text": "And just to be clear, I believe in the need for police."
+  },
+  {
+    "end_time": 288500,
+    "index": 75,
+    "start_time": 283040,
+    "text": "I will absolutely and unequivocally tell anybody who asks that society is better with them than without them."
+  },
+  {
+    "end_time": 292980,
+    "index": 76,
+    "start_time": 288500,
+    "text": "It&#39;s a broader discussion, but I think we actually have more liberty because of the police."
+  },
+  {
+    "end_time": 296140,
+    "index": 77,
+    "start_time": 292980,
+    "text": "But, in a democratic nation there must be accountability."
+  },
+  {
+    "end_time": 301340,
+    "index": 78,
+    "start_time": 296240,
+    "text": "Where that line of accountability lies, and how we may deal with even unconscious prejudices in those"
+  },
+  {
+    "end_time": 305659,
+    "index": 79,
+    "start_time": 301340,
+    "text": "sworn not to merely uphold the law but to serve the people and the Constitution,"
+  },
+  {
+    "end_time": 308000,
+    "index": 80,
+    "start_time": 305660,
+    "text": "is one of the defining questions of the moment for us."
+  },
+  {
+    "end_time": 312320,
+    "index": 81,
+    "start_time": 308200,
+    "text": "And to have a game be so blas\u00e9 about these things does a disservice to everybody."
+  },
+  {
+    "end_time": 316940,
+    "index": 82,
+    "start_time": 312500,
+    "text": "By having someone who is essentially in a law enforcement role gun down minor criminals"
+  },
+  {
+    "end_time": 321440,
+    "index": 83,
+    "start_time": 316940,
+    "text": "without any process of law, it essentially says that this is what to expect from law enforcement."
+  },
+  {
+    "end_time": 326100,
+    "index": 84,
+    "start_time": 321440,
+    "text": "And that dishonors many law enforcement professionals who really are out there to protect and serve."
+  },
+  {
+    "end_time": 329820,
+    "index": 85,
+    "start_time": 326180,
+    "text": "And at the same time, by celebrating and encouraging this behavior through gameplay,"
+  },
+  {
+    "end_time": 333960,
+    "index": 86,
+    "start_time": 329840,
+    "text": "it also dishonors the real people who have died and the families that have suffered."
+  },
+  {
+    "end_time": 336680,
+    "index": 87,
+    "start_time": 334200,
+    "text": "It trivializes a very complicated issue."
+  },
+  {
+    "end_time": 339599,
+    "index": 88,
+    "start_time": 336840,
+    "text": "But this isn&#39;t just a vague parallel I&#39;m drawing here."
+  },
+  {
+    "end_time": 344740,
+    "index": 89,
+    "start_time": 339660,
+    "text": "Those minor criminals you&#39;re tasked with exterminating early in the game are simply called &quot;Rioters.&quot;"
+  },
+  {
+    "end_time": 348020,
+    "index": 90,
+    "start_time": 344740,
+    "text": "And it&#39;s easy to identify Rioters because they all wear hoodies."
+  },
+  {
+    "end_time": 353180,
+    "index": 91,
+    "start_time": 348180,
+    "text": "I kid you not, the vast majority of the low-level generic enemies are &quot;Person In Hoodie&quot;."
+  },
+  {
+    "end_time": 358700,
+    "index": 92,
+    "start_time": 353180,
+    "text": "Literally everyone you find on the street wearing a hoodie is a thug to be gunned down on sight in this game."
+  },
+  {
+    "end_time": 362680,
+    "index": 93,
+    "start_time": 358700,
+    "text": "At a time where the hoodie has become a national symbol of racial violence for us."
+  },
+  {
+    "end_time": 367700,
+    "index": 94,
+    "start_time": 362860,
+    "text": "Geraldo Rivera ludicrously said that the hoodie was as much responsible for the death of Trayvon Martin"
+  },
+  {
+    "end_time": 372039,
+    "index": 95,
+    "start_time": 367700,
+    "text": "as George Zimmerman was, and then basically went on to tell black and Latino families"
+  },
+  {
+    "end_time": 375980,
+    "index": 96,
+    "start_time": 372040,
+    "text": "to not let their children wear hoodies if they don&#39;t want them getting shot by frightened white people."
+  },
+  {
+    "end_time": 380900,
+    "index": 97,
+    "start_time": 376160,
+    "text": "Famous athletes have since used the hoodie to show their solidarity with the black community, and enormous"
+  },
+  {
+    "end_time": 385599,
+    "index": 98,
+    "start_time": 380900,
+    "text": "protests have been organized using this as a symbol of the racial problems that were being protested."
+  },
+  {
+    "end_time": 388159,
+    "index": 99,
+    "start_time": 385760,
+    "text": "Given the magnitude of the problem,"
+  },
+  {
+    "end_time": 391220,
+    "index": 100,
+    "start_time": 388160,
+    "text": "the horrific labelling of an entire racial group based on one garment,"
+  },
+  {
+    "end_time": 395340,
+    "index": 101,
+    "start_time": 391220,
+    "text": "and the use of that garment as a codeword to call an entire group of people &quot;thugs,&quot;"
+  },
+  {
+    "end_time": 398000,
+    "index": 102,
+    "start_time": 395340,
+    "text": "this is an area where you have to tread with care."
+  },
+  {
+    "end_time": 400659,
+    "index": 103,
+    "start_time": 398020,
+    "text": "And The Division utterly fails to do so."
+  },
+  {
+    "end_time": 404680,
+    "index": 104,
+    "start_time": 400660,
+    "text": "Not only does it make use of that &quot;thug in hoodie&quot; stereotype without thinking,"
+  },
+  {
+    "end_time": 407560,
+    "index": 105,
+    "start_time": 404680,
+    "text": "and reinforce it by having everyone wearing a hoodie be a criminal,"
+  },
+  {
+    "end_time": 410920,
+    "index": 106,
+    "start_time": 407560,
+    "text": "but the NPC is even shouting out lines like, &quot;Lowlife scum!&quot;"
+  },
+  {
+    "end_time": 413580,
+    "index": 107,
+    "start_time": 410920,
+    "text": "as they mow these hoodie-clad disaster survivors down."
+  },
+  {
+    "end_time": 415960,
+    "index": 108,
+    "start_time": 413580,
+    "text": "Reinforcing the dehumanization of these people."
+  },
+  {
+    "end_time": 419760,
+    "index": 109,
+    "start_time": 415960,
+    "text": "And there&#39;s not only a race divide, but also a class divide going on here."
+  },
+  {
+    "end_time": 424219,
+    "index": 110,
+    "start_time": 419760,
+    "text": "As most of the stories that you hear from these individuals fit the working class story mold."
+  },
+  {
+    "end_time": 427900,
+    "index": 111,
+    "start_time": 424220,
+    "text": "And the second faction of enemies you encounter is the Sanitation Workers Union,"
+  },
+  {
+    "end_time": 431020,
+    "index": 112,
+    "start_time": 427900,
+    "text": "who are depicted as having gone crazy from the strain of the outbreak."
+  },
+  {
+    "end_time": 434460,
+    "index": 113,
+    "start_time": 431020,
+    "text": "And I should note that while they are depicted as having gone crazy,"
+  },
+  {
+    "end_time": 437880,
+    "index": 114,
+    "start_time": 434460,
+    "text": "and so must be stopped with the unquestioned application of lethal force."
+  },
+  {
+    "end_time": 440600,
+    "index": 115,
+    "start_time": 437880,
+    "text": "They&#39;re basically doing the same thing the player character is."
+  },
+  {
+    "end_time": 443900,
+    "index": 116,
+    "start_time": 440600,
+    "text": "They&#39;re going around the city, burning whatever they feel is contaminated,"
+  },
+  {
+    "end_time": 446419,
+    "index": 117,
+    "start_time": 443900,
+    "text": "in order to wipe out the infection, and help restore the city."
+  },
+  {
+    "end_time": 449480,
+    "index": 118,
+    "start_time": 446420,
+    "text": "Which isn&#39;t really that unlike wondering around the city"
+  },
+  {
+    "end_time": 452480,
+    "index": 119,
+    "start_time": 449480,
+    "text": "shooting whatever you think is contributing to the breakdown of society."
+  },
+  {
+    "end_time": 457960,
+    "index": 120,
+    "start_time": 452480,
+    "text": "And truth is, this game also promotes the type of fear mongering that has so divided our society;"
+  },
+  {
+    "end_time": 461900,
+    "index": 121,
+    "start_time": 457960,
+    "text": "claiming that one terror attack would take down the entire United States government,"
+  },
+  {
+    "end_time": 464120,
+    "index": 122,
+    "start_time": 461900,
+    "text": "and justifying anything in response."
+  },
+  {
+    "end_time": 466580,
+    "index": 123,
+    "start_time": 464120,
+    "text": "But this just isn&#39;t true, and we know it."
+  },
+  {
+    "end_time": 470460,
+    "index": 124,
+    "start_time": 466580,
+    "text": "Now, yes, there was one theoretic simulation which was played in the Bush era,"
+  },
+  {
+    "end_time": 471960,
+    "index": 125,
+    "start_time": 470460,
+    "text": "Called &quot;Operation: Dark Winter,&quot;"
+  },
+  {
+    "end_time": 475680,
+    "index": 126,
+    "start_time": 471960,
+    "text": "which essentially said that we were highly vulnerable to a biological attack."
+  },
+  {
+    "end_time": 478220,
+    "index": 127,
+    "start_time": 475680,
+    "text": "A simulation which basically the whole game is based on."
+  },
+  {
+    "end_time": 480940,
+    "index": 128,
+    "start_time": 478220,
+    "text": "But this simulation&#39;s results have not only been criticized,"
+  },
+  {
+    "end_time": 483940,
+    "index": 129,
+    "start_time": 481060,
+    "text": "but are also based on data from 15 years ago."
+  },
+  {
+    "end_time": 487760,
+    "index": 130,
+    "start_time": 483940,
+    "text": "Perhaps, more importantly, during none of the epidemics of the 20th century"
+  },
+  {
+    "end_time": 492440,
+    "index": 131,
+    "start_time": 487760,
+    "text": "did a major country collapse into anarchy, or face widespread lawlessness and riots."
+  },
+  {
+    "end_time": 497719,
+    "index": 132,
+    "start_time": 492440,
+    "text": "And in the 21st century, even virulent disease like SARS and ebola have been shown to be containable."
+  },
+  {
+    "end_time": 499940,
+    "index": 133,
+    "start_time": 497720,
+    "text": "And it just kills me to say all this"
+  },
+  {
+    "end_time": 503540,
+    "index": 134,
+    "start_time": 499940,
+    "text": "because I know this isn&#39;t what the game&#39;s developers intended for their game to say."
+  },
+  {
+    "end_time": 505320,
+    "index": 135,
+    "start_time": 503540,
+    "text": "In fact, as I played through it,"
+  },
+  {
+    "end_time": 508820,
+    "index": 136,
+    "start_time": 505320,
+    "text": "I could see instances where some of the team was clearly trying, where they could,"
+  },
+  {
+    "end_time": 510900,
+    "index": 137,
+    "start_time": 508820,
+    "text": "to squeeze in small moments of self awareness."
+  },
+  {
+    "end_time": 514760,
+    "index": 138,
+    "start_time": 510900,
+    "text": "And the developers as a whole were clearly making a serious effort to be concious"
+  },
+  {
+    "end_time": 516400,
+    "index": 139,
+    "start_time": 514760,
+    "text": "about issue of race and gender."
+  },
+  {
+    "end_time": 520880,
+    "index": 140,
+    "start_time": 516400,
+    "text": "The Division itself is played by a diverse cast, and not just playing token parts either."
+  },
+  {
+    "end_time": 523080,
+    "index": 141,
+    "start_time": 520880,
+    "text": "Honestly, that&#39;s more than most games do."
+  },
+  {
+    "end_time": 528180,
+    "index": 142,
+    "start_time": 523080,
+    "text": "And yet, unfortunately, they took the wrong lessons from our struggles with diversity in the game industry."
+  },
+  {
+    "end_time": 532839,
+    "index": 143,
+    "start_time": 528180,
+    "text": "Because being concious of race doesn&#39;t mean simply having characters of varying skin tone."
+  },
+  {
+    "end_time": 537120,
+    "index": 144,
+    "start_time": 532840,
+    "text": "It means being aware, and not tone deaf to the racial issues that affect us today."
+  },
+  {
+    "end_time": 542680,
+    "index": 145,
+    "start_time": 537120,
+    "text": "The Division should serve as an object lesson for all of us about being concious of what a game is really saying"
+  },
+  {
+    "end_time": 544199,
+    "index": 146,
+    "start_time": 542680,
+    "text": "With its world and its mechanics."
+  },
+  {
+    "end_time": 547460,
+    "index": 147,
+    "start_time": 544200,
+    "text": "Because despite what I&#39;m sure was never the intention of the developers,"
+  },
+  {
+    "end_time": 553080,
+    "index": 148,
+    "start_time": 547460,
+    "text": "they managed to present to us a game which glorifies totalitarianism and the unrestricted use of force."
+  },
+  {
+    "end_time": 557520,
+    "index": 149,
+    "start_time": 553080,
+    "text": "Plays light with issues like police brutality, and succumbs to sweeping generalizations,"
+  },
+  {
+    "end_time": 559800,
+    "index": 150,
+    "start_time": 557520,
+    "text": "pigeonholing people based on what they wear."
+  },
+  {
+    "end_time": 562520,
+    "index": 151,
+    "start_time": 559800,
+    "text": "It&#39;s an example of classism and paranoia mongering,"
+  },
+  {
+    "end_time": 565100,
+    "index": 152,
+    "start_time": 562520,
+    "text": "at a time when our society is wrestling with these issues."
+  },
+  {
+    "end_time": 569600,
+    "index": 153,
+    "start_time": 565100,
+    "text": "And for some, without even thinking about it, what this game glorifies will affect them."
+  },
+  {
+    "end_time": 573079,
+    "index": 154,
+    "start_time": 569800,
+    "text": "Because culture matters, and games are culture."
+  },
+  {
+    "end_time": 574640,
+    "index": 155,
+    "start_time": 573520,
+    "text": "We can do better."
+  },
+  {
+    "end_time": 575900,
+    "index": 156,
+    "start_time": 574700,
+    "text": "See you next week."
+  },
+  {
+    "end_time": 582000,
+    "index": 157,
+    "start_time": 577000,
+    "text": "[Extra Credits - Outro Music]"
+  }
+]

@@ -1,0 +1,500 @@
+[
+    {
+        "index": 1,
+        "start_time": 6605,
+        "end_time": 11018,
+        "text": "In 1996, 56 volunteers took part\nin a study"
+    },
+    {
+        "index": 2,
+        "start_time": 11018,
+        "end_time": 14653,
+        "text": "to test a new painkiller called\nTrivaricaine."
+    },
+    {
+        "index": 3,
+        "start_time": 14653,
+        "end_time": 18773,
+        "text": "On each subject, one index finger\nwas covered in the new painkiller"
+    },
+    {
+        "index": 4,
+        "start_time": 18773,
+        "end_time": 21569,
+        "text": "while the other remained untouched."
+    },
+    {
+        "index": 5,
+        "start_time": 21569,
+        "end_time": 25211,
+        "text": "Then, both were squeezed\nin painful clamps."
+    },
+    {
+        "index": 6,
+        "start_time": 25211,
+        "end_time": 29526,
+        "text": "The subjects reported that the treated\nfinger hurt less than the untreated one."
+    },
+    {
+        "index": 7,
+        "start_time": 29526,
+        "end_time": 31386,
+        "text": "This shouldn&#39;t be surprising,"
+    },
+    {
+        "index": 8,
+        "start_time": 31386,
+        "end_time": 34843,
+        "text": "except Trivaricaine wasn&#39;t actually\na painkiller,"
+    },
+    {
+        "index": 9,
+        "start_time": 34843,
+        "end_time": 39066,
+        "text": "just a fake concotion \nwith no pain-easing properties at all."
+    },
+    {
+        "index": 10,
+        "start_time": 39066,
+        "end_time": 43073,
+        "text": "What made the students so sure\nthis dummy drug had worked?"
+    },
+    {
+        "index": 11,
+        "start_time": 43073,
+        "end_time": 45842,
+        "text": "The answer lies in the placebo effect,"
+    },
+    {
+        "index": 12,
+        "start_time": 45842,
+        "end_time": 47286,
+        "text": "an unexplained phenomenon"
+    },
+    {
+        "index": 13,
+        "start_time": 47286,
+        "end_time": 51840,
+        "text": "wherein drugs, treatments, and therapies\nthat aren&#39;t supposed to have an effect,"
+    },
+    {
+        "index": 14,
+        "start_time": 51840,
+        "end_time": 53405,
+        "text": "and are often fake,"
+    },
+    {
+        "index": 15,
+        "start_time": 53405,
+        "end_time": 56465,
+        "text": "miraculously make people feel better."
+    },
+    {
+        "index": 16,
+        "start_time": 56465,
+        "end_time": 60496,
+        "text": "Doctors have used the term placebo\nsince the 1700s"
+    },
+    {
+        "index": 17,
+        "start_time": 60496,
+        "end_time": 65175,
+        "text": "when they realized the power of\nfake drugs to improve people&#39;s symptoms."
+    },
+    {
+        "index": 18,
+        "start_time": 65175,
+        "end_time": 68086,
+        "text": "These were administered when proper drugs\nweren&#39;t available,"
+    },
+    {
+        "index": 19,
+        "start_time": 68086,
+        "end_time": 71371,
+        "text": "or if someone imagined they were ill."
+    },
+    {
+        "index": 20,
+        "start_time": 71371,
+        "end_time": 75522,
+        "text": "In fact, the word placebo\nmeans &quot;I shall please&quot; in Latin,"
+    },
+    {
+        "index": 21,
+        "start_time": 75522,
+        "end_time": 79127,
+        "text": "hinting at a history of placating\ntroubled patients."
+    },
+    {
+        "index": 22,
+        "start_time": 79127,
+        "end_time": 83026,
+        "text": "Placebos had to mimic the real treatments\nin order to be convincing,"
+    },
+    {
+        "index": 23,
+        "start_time": 83026,
+        "end_time": 85270,
+        "text": "so they took the form of sugar pills,"
+    },
+    {
+        "index": 24,
+        "start_time": 85270,
+        "end_time": 86625,
+        "text": "water-filled injections,"
+    },
+    {
+        "index": 25,
+        "start_time": 86625,
+        "end_time": 89492,
+        "text": "and even sham surgeries."
+    },
+    {
+        "index": 26,
+        "start_time": 89492,
+        "end_time": 93871,
+        "text": "Soon, doctors realized that duping people\nin this way had another use:"
+    },
+    {
+        "index": 27,
+        "start_time": 93871,
+        "end_time": 95743,
+        "text": "in clinical trials."
+    },
+    {
+        "index": 28,
+        "start_time": 95743,
+        "end_time": 99894,
+        "text": "By the 1950s, researchers were using\nplacebos as a standard tool"
+    },
+    {
+        "index": 29,
+        "start_time": 99894,
+        "end_time": 101847,
+        "text": "to test new treatments."
+    },
+    {
+        "index": 30,
+        "start_time": 101847,
+        "end_time": 103687,
+        "text": "To evaluate a new drug, for instance,"
+    },
+    {
+        "index": 31,
+        "start_time": 103687,
+        "end_time": 106553,
+        "text": "half the patients in a trial might receive\nthe real pill."
+    },
+    {
+        "index": 32,
+        "start_time": 106553,
+        "end_time": 109902,
+        "text": "The other half would get a placebo\nthat looked the same."
+    },
+    {
+        "index": 33,
+        "start_time": 109902,
+        "end_time": 114213,
+        "text": "Since patients wouldn&#39;t know whether\nthey&#39;d received the real thing or a dud,"
+    },
+    {
+        "index": 34,
+        "start_time": 114213,
+        "end_time": 116242,
+        "text": "the results wouldn&#39;t be biased,"
+    },
+    {
+        "index": 35,
+        "start_time": 116242,
+        "end_time": 117879,
+        "text": "researchers believed."
+    },
+    {
+        "index": 36,
+        "start_time": 117879,
+        "end_time": 122001,
+        "text": "Then, if the new drug showed a significant\nbenefit compared to the placebo,"
+    },
+    {
+        "index": 37,
+        "start_time": 122001,
+        "end_time": 123998,
+        "text": "it was proved effective."
+    },
+    {
+        "index": 38,
+        "start_time": 123998,
+        "end_time": 129501,
+        "text": "Nowadays, it&#39;s less common to use placebos\nthis way because of ethical concerns."
+    },
+    {
+        "index": 39,
+        "start_time": 129501,
+        "end_time": 133038,
+        "text": "If it&#39;s possible to compare a new drug\nagainst an older version,"
+    },
+    {
+        "index": 40,
+        "start_time": 133038,
+        "end_time": 134908,
+        "text": "or another existing drug,"
+    },
+    {
+        "index": 41,
+        "start_time": 134908,
+        "end_time": 138645,
+        "text": "that&#39;s preferable to simply giving\nsomeone no treatment at all,"
+    },
+    {
+        "index": 42,
+        "start_time": 138645,
+        "end_time": 141190,
+        "text": "especially if they have a serious ailment."
+    },
+    {
+        "index": 43,
+        "start_time": 141190,
+        "end_time": 146243,
+        "text": "In these cases, placebos are often used\nas a control to fine-tune the trial"
+    },
+    {
+        "index": 44,
+        "start_time": 146243,
+        "end_time": 149811,
+        "text": "so that the effects of the new versus\nthe old or alternative drug"
+    },
+    {
+        "index": 45,
+        "start_time": 149811,
+        "end_time": 153096,
+        "text": "can be precisely compared."
+    },
+    {
+        "index": 46,
+        "start_time": 153096,
+        "end_time": 157503,
+        "text": "But of course, we know the placebos\nexert their own influence, too."
+    },
+    {
+        "index": 47,
+        "start_time": 157503,
+        "end_time": 158952,
+        "text": "Thanks to the placebo effect,"
+    },
+    {
+        "index": 48,
+        "start_time": 158952,
+        "end_time": 161954,
+        "text": "patients have experienced relief \nfrom a range of ailments,"
+    },
+    {
+        "index": 49,
+        "start_time": 161954,
+        "end_time": 163273,
+        "text": "including heart problems,"
+    },
+    {
+        "index": 50,
+        "start_time": 163273,
+        "end_time": 164422,
+        "text": "asthma,"
+    },
+    {
+        "index": 51,
+        "start_time": 164422,
+        "end_time": 166130,
+        "text": "and severe pain,"
+    },
+    {
+        "index": 52,
+        "start_time": 166130,
+        "end_time": 170126,
+        "text": "even though all they&#39;d received\nwas a fake drug or sham surgery."
+    },
+    {
+        "index": 53,
+        "start_time": 170126,
+        "end_time": 172766,
+        "text": "We&#39;re still trying to understand how."
+    },
+    {
+        "index": 54,
+        "start_time": 172766,
+        "end_time": 174765,
+        "text": "Some believe that instead of being real,"
+    },
+    {
+        "index": 55,
+        "start_time": 174765,
+        "end_time": 178625,
+        "text": "the placebo effect is merely confused\nwith other factors,"
+    },
+    {
+        "index": 56,
+        "start_time": 178625,
+        "end_time": 183129,
+        "text": "like patients trying to please doctors\nby falsely reporting improvements."
+    },
+    {
+        "index": 57,
+        "start_time": 183129,
+        "end_time": 184123,
+        "text": "On the other hand,"
+    },
+    {
+        "index": 58,
+        "start_time": 184123,
+        "end_time": 187539,
+        "text": "researchers think that if a person \nbelieves a fake treatment is real,"
+    },
+    {
+        "index": 59,
+        "start_time": 187539,
+        "end_time": 192208,
+        "text": "their expectations of recovery actually\ndo trigger physiological factors"
+    },
+    {
+        "index": 60,
+        "start_time": 192208,
+        "end_time": 194241,
+        "text": "that improve their symptoms."
+    },
+    {
+        "index": 61,
+        "start_time": 194241,
+        "end_time": 198487,
+        "text": "Placebos seem to be capable of causing\nmeasurable change in blood pressure,"
+    },
+    {
+        "index": 62,
+        "start_time": 198487,
+        "end_time": 199361,
+        "text": "heart rate,"
+    },
+    {
+        "index": 63,
+        "start_time": 199361,
+        "end_time": 203280,
+        "text": "and the release of pain-reducing\nchemicals, like endorphins."
+    },
+    {
+        "index": 64,
+        "start_time": 203280,
+        "end_time": 208914,
+        "text": "That explains why subjects in pain studies\noften say placebos ease their discomfort."
+    },
+    {
+        "index": 65,
+        "start_time": 208914,
+        "end_time": 211493,
+        "text": "Placebos may even reduce levels\nof stress hormones,"
+    },
+    {
+        "index": 66,
+        "start_time": 211493,
+        "end_time": 212974,
+        "text": "like adrenaline,"
+    },
+    {
+        "index": 67,
+        "start_time": 212974,
+        "end_time": 215995,
+        "text": "which can slow the harmful effects\nof an ailment."
+    },
+    {
+        "index": 68,
+        "start_time": 215995,
+        "end_time": 219954,
+        "text": "So shouldn&#39;t we celebrate\nthe placebo&#39;s bizarre benefits?"
+    },
+    {
+        "index": 69,
+        "start_time": 219954,
+        "end_time": 221439,
+        "text": "Not necessarily."
+    },
+    {
+        "index": 70,
+        "start_time": 221439,
+        "end_time": 223975,
+        "text": "If somebody believes a fake treatment\nhas cured them,"
+    },
+    {
+        "index": 71,
+        "start_time": 223975,
+        "end_time": 228586,
+        "text": "they may miss out on drugs\nor therapies that are proven to work."
+    },
+    {
+        "index": 72,
+        "start_time": 228586,
+        "end_time": 231774,
+        "text": "Plus, the positive effects \nmay fade over time,"
+    },
+    {
+        "index": 73,
+        "start_time": 231774,
+        "end_time": 233503,
+        "text": "and often do."
+    },
+    {
+        "index": 74,
+        "start_time": 233503,
+        "end_time": 235735,
+        "text": "Placebos also cloud clinical results,"
+    },
+    {
+        "index": 75,
+        "start_time": 235735,
+        "end_time": 238821,
+        "text": "making scientists even \nmore motivated to discover"
+    },
+    {
+        "index": 76,
+        "start_time": 238821,
+        "end_time": 241491,
+        "text": "how they wield such power over us."
+    },
+    {
+        "index": 77,
+        "start_time": 241491,
+        "end_time": 244424,
+        "text": "Despite everything we know about\nthe human body,"
+    },
+    {
+        "index": 78,
+        "start_time": 244424,
+        "end_time": 247450,
+        "text": "there are still some strange\nand enduring mysteries,"
+    },
+    {
+        "index": 79,
+        "start_time": 247450,
+        "end_time": 249184,
+        "text": "like the placebo effect."
+    },
+    {
+        "index": 80,
+        "start_time": 249184,
+        "end_time": 253404,
+        "text": "So what other undiscovered marvels\nmight we contain?"
+    },
+    {
+        "index": 81,
+        "start_time": 253404,
+        "end_time": 255622,
+        "text": "It&#39;s easy to investigate the world\naround us"
+    },
+    {
+        "index": 82,
+        "start_time": 255622,
+        "end_time": 258746,
+        "text": "and forget that one of its most \nfascinating subjects"
+    },
+    {
+        "index": 83,
+        "start_time": 258746,
+        "end_time": 261026,
+        "text": "lies right behind our eyes."
+    }
+]

@@ -1,0 +1,488 @@
+[
+    {
+        "index": 1,
+        "start_time": 7073,
+        "end_time": 10273,
+        "text": "Grammatical tense \nis how languages talk about time"
+    },
+    {
+        "index": 2,
+        "start_time": 10273,
+        "end_time": 12734,
+        "text": "without explicitly naming time periods"
+    },
+    {
+        "index": 3,
+        "start_time": 12734,
+        "end_time": 17014,
+        "text": "by, instead, modifying verbs \nto specify when action occurs."
+    },
+    {
+        "index": 4,
+        "start_time": 17014,
+        "end_time": 20484,
+        "text": "So how many different tenses are there\nin a language like English?"
+    },
+    {
+        "index": 5,
+        "start_time": 20484,
+        "end_time": 22685,
+        "text": "At first, the answer seems obvious:"
+    },
+    {
+        "index": 6,
+        "start_time": 22685,
+        "end_time": 23584,
+        "text": "there&#39;s past,"
+    },
+    {
+        "index": 7,
+        "start_time": 23584,
+        "end_time": 24385,
+        "text": "present,"
+    },
+    {
+        "index": 8,
+        "start_time": 24385,
+        "end_time": 25805,
+        "text": "and future."
+    },
+    {
+        "index": 9,
+        "start_time": 25805,
+        "end_time": 28365,
+        "text": "But thanks to something called\ngrammatical aspect,"
+    },
+    {
+        "index": 10,
+        "start_time": 28365,
+        "end_time": 32034,
+        "text": "each of those time periods \nactually divides further."
+    },
+    {
+        "index": 11,
+        "start_time": 32034,
+        "end_time": 34144,
+        "text": "There are four kinds of aspect."
+    },
+    {
+        "index": 12,
+        "start_time": 34144,
+        "end_time": 36555,
+        "text": "In the continuous or progressive aspect,"
+    },
+    {
+        "index": 13,
+        "start_time": 36555,
+        "end_time": 39885,
+        "text": "the actions are still happening \nat the time of reference."
+    },
+    {
+        "index": 14,
+        "start_time": 39885,
+        "end_time": 43905,
+        "text": "The perfect aspect describes actions\nthat are finished."
+    },
+    {
+        "index": 15,
+        "start_time": 43905,
+        "end_time": 46437,
+        "text": "The perfect progressive aspect \nis a combination,"
+    },
+    {
+        "index": 16,
+        "start_time": 46437,
+        "end_time": 49967,
+        "text": "describing a completed part \nof a continuous action."
+    },
+    {
+        "index": 17,
+        "start_time": 49967,
+        "end_time": 52446,
+        "text": "And finally, there&#39;s the simple aspect,"
+    },
+    {
+        "index": 18,
+        "start_time": 52446,
+        "end_time": 55945,
+        "text": "the basic form of the past, \npresent, and future tense,"
+    },
+    {
+        "index": 19,
+        "start_time": 55945,
+        "end_time": 59936,
+        "text": "where an action is not specified\nas continuous or discrete."
+    },
+    {
+        "index": 20,
+        "start_time": 59936,
+        "end_time": 63616,
+        "text": "That&#39;s all a little hard to follow,\nso let&#39;s see how it works in action."
+    },
+    {
+        "index": 21,
+        "start_time": 63616,
+        "end_time": 66827,
+        "text": "Let&#39;s say your friends tell you\nthey went on a secret naval mission"
+    },
+    {
+        "index": 22,
+        "start_time": 66827,
+        "end_time": 69567,
+        "text": "to collect evidence \nof a mysterious sea creature."
+    },
+    {
+        "index": 23,
+        "start_time": 69567,
+        "end_time": 72587,
+        "text": "The tense sets the overall frame\nof reference in the past,"
+    },
+    {
+        "index": 24,
+        "start_time": 72587,
+        "end_time": 75066,
+        "text": "but within that, there are many options."
+    },
+    {
+        "index": 25,
+        "start_time": 75066,
+        "end_time": 77658,
+        "text": "Your friends might say a creature\nattacked their boat,"
+    },
+    {
+        "index": 26,
+        "start_time": 77658,
+        "end_time": 80617,
+        "text": "that&#39;s the past simple,\nthe most general aspect,"
+    },
+    {
+        "index": 27,
+        "start_time": 80617,
+        "end_time": 83287,
+        "text": "which gives no further clarification."
+    },
+    {
+        "index": 28,
+        "start_time": 83287,
+        "end_time": 85577,
+        "text": "They were sleeping when it happened,"
+    },
+    {
+        "index": 29,
+        "start_time": 85577,
+        "end_time": 89009,
+        "text": "a continuous process \nunderway at that point."
+    },
+    {
+        "index": 30,
+        "start_time": 89009,
+        "end_time": 92387,
+        "text": "They might also tell you they had departed\nfrom Nantucket"
+    },
+    {
+        "index": 31,
+        "start_time": 92387,
+        "end_time": 95338,
+        "text": "to describe an action \ncompleted even earlier."
+    },
+    {
+        "index": 32,
+        "start_time": 95338,
+        "end_time": 98088,
+        "text": "That&#39;s an example of the past perfect."
+    },
+    {
+        "index": 33,
+        "start_time": 98088,
+        "end_time": 101198,
+        "text": "Or that they had been sailing \nfor three weeks,"
+    },
+    {
+        "index": 34,
+        "start_time": 101198,
+        "end_time": 104389,
+        "text": "something that was ongoing \nup until that point."
+    },
+    {
+        "index": 35,
+        "start_time": 104389,
+        "end_time": 108558,
+        "text": "In the present, they tell you that \nthey still search for the creature today,"
+    },
+    {
+        "index": 36,
+        "start_time": 108558,
+        "end_time": 110840,
+        "text": "their present simple activity."
+    },
+    {
+        "index": 37,
+        "start_time": 110840,
+        "end_time": 115708,
+        "text": "Perhaps they are preparing for their\nnext mission continuously as they speak."
+    },
+    {
+        "index": 38,
+        "start_time": 115708,
+        "end_time": 120158,
+        "text": "And they have built a special \nsubmarine for it, a completed achievement."
+    },
+    {
+        "index": 39,
+        "start_time": 120158,
+        "end_time": 124803,
+        "text": "Plus, if they have been researching\npossible sightings of the creature,"
+    },
+    {
+        "index": 40,
+        "start_time": 124803,
+        "end_time": 128267,
+        "text": "it&#39;s something they&#39;ve been doing \nfor a while and are still doing now"
+    },
+    {
+        "index": 41,
+        "start_time": 128267,
+        "end_time": 131469,
+        "text": "making it present perfect progressive."
+    },
+    {
+        "index": 42,
+        "start_time": 131469,
+        "end_time": 133722,
+        "text": "So what does this next mission hold?"
+    },
+    {
+        "index": 43,
+        "start_time": 133722,
+        "end_time": 138138,
+        "text": "You know it still hasn&#39;t happened\nbecause they will depart next week,"
+    },
+    {
+        "index": 44,
+        "start_time": 138138,
+        "end_time": 139596,
+        "text": "the future simple."
+    },
+    {
+        "index": 45,
+        "start_time": 139596,
+        "end_time": 142730,
+        "text": "Your friends will be searching \nfor the elusive creature,"
+    },
+    {
+        "index": 46,
+        "start_time": 142730,
+        "end_time": 145899,
+        "text": "an extended continuous undertaking."
+    },
+    {
+        "index": 47,
+        "start_time": 145899,
+        "end_time": 150517,
+        "text": "They tell you the submarine will have\nreached uncharted depths a month from now."
+    },
+    {
+        "index": 48,
+        "start_time": 150517,
+        "end_time": 151989,
+        "text": "That&#39;s a confident prediction"
+    },
+    {
+        "index": 49,
+        "start_time": 151989,
+        "end_time": 155719,
+        "text": "about what will be achieved \nby a specific point in the future,"
+    },
+    {
+        "index": 50,
+        "start_time": 155719,
+        "end_time": 159059,
+        "text": "a point at which they \nwill have been voyaging for three weeks"
+    },
+    {
+        "index": 51,
+        "start_time": 159059,
+        "end_time": 161409,
+        "text": "in the future perfect progressive."
+    },
+    {
+        "index": 52,
+        "start_time": 161409,
+        "end_time": 164009,
+        "text": "The key insight to all these \ndifferent tenses"
+    },
+    {
+        "index": 53,
+        "start_time": 164009,
+        "end_time": 167631,
+        "text": "is that each sentence takes place\nin a specific moment,"
+    },
+    {
+        "index": 54,
+        "start_time": 167631,
+        "end_time": 170900,
+        "text": "whether it&#39;s past, present, or future."
+    },
+    {
+        "index": 55,
+        "start_time": 170900,
+        "end_time": 174159,
+        "text": "The point of aspects is that they tell you\nas of that moment"
+    },
+    {
+        "index": 56,
+        "start_time": 174159,
+        "end_time": 176369,
+        "text": "the status of the action."
+    },
+    {
+        "index": 57,
+        "start_time": 176369,
+        "end_time": 180059,
+        "text": "In total, they give us twelve \npossibilities in English."
+    },
+    {
+        "index": 58,
+        "start_time": 180059,
+        "end_time": 181940,
+        "text": "What about other languages?"
+    },
+    {
+        "index": 59,
+        "start_time": 181940,
+        "end_time": 183219,
+        "text": "Some, like French,"
+    },
+    {
+        "index": 60,
+        "start_time": 183219,
+        "end_time": 184080,
+        "text": "Swahili,"
+    },
+    {
+        "index": 61,
+        "start_time": 184080,
+        "end_time": 187069,
+        "text": "and Russian\ntake a similar approach to English."
+    },
+    {
+        "index": 62,
+        "start_time": 187069,
+        "end_time": 189811,
+        "text": "Others describe \nand divide time differently."
+    },
+    {
+        "index": 63,
+        "start_time": 189811,
+        "end_time": 192979,
+        "text": "Some have fewer grammatical tenses,\nlike Japanese,"
+    },
+    {
+        "index": 64,
+        "start_time": 192979,
+        "end_time": 196730,
+        "text": "which only distinguishes past \nfrom non-past,"
+    },
+    {
+        "index": 65,
+        "start_time": 196730,
+        "end_time": 198482,
+        "text": "Buli and Tukang Basi,"
+    },
+    {
+        "index": 66,
+        "start_time": 198482,
+        "end_time": 201742,
+        "text": "which only distinguish future \nfrom non-future,"
+    },
+    {
+        "index": 67,
+        "start_time": 201742,
+        "end_time": 206192,
+        "text": "and Mandarin Chinese \nwith no verb tenses at all, only aspect."
+    },
+    {
+        "index": 68,
+        "start_time": 206192,
+        "end_time": 211622,
+        "text": "On the other hand, languages like Yagwa\nsplit past tense into multiple degrees,"
+    },
+    {
+        "index": 69,
+        "start_time": 211622,
+        "end_time": 215602,
+        "text": "like whether something happened hours, \nweeks, or years ago."
+    },
+    {
+        "index": 70,
+        "start_time": 215602,
+        "end_time": 219592,
+        "text": "In others, tenses are intertwined\nwith moods that can convey urgency,"
+    },
+    {
+        "index": 71,
+        "start_time": 219592,
+        "end_time": 220706,
+        "text": "necessity,"
+    },
+    {
+        "index": 72,
+        "start_time": 220706,
+        "end_time": 222902,
+        "text": "or probability of events."
+    },
+    {
+        "index": 73,
+        "start_time": 222902,
+        "end_time": 225966,
+        "text": "This makes translation difficult\nbut not impossible."
+    },
+    {
+        "index": 74,
+        "start_time": 225966,
+        "end_time": 230215,
+        "text": "Speakers of most languages without certain\ntenses can express the same ideas"
+    },
+    {
+        "index": 75,
+        "start_time": 230215,
+        "end_time": 233767,
+        "text": "with auxiliary words, \nlike would or did,"
+    },
+    {
+        "index": 76,
+        "start_time": 233767,
+        "end_time": 235876,
+        "text": "or by specifying the time they mean."
+    },
+    {
+        "index": 77,
+        "start_time": 235876,
+        "end_time": 238085,
+        "text": "Are the variations \nfrom language to language"
+    },
+    {
+        "index": 78,
+        "start_time": 238085,
+        "end_time": 241992,
+        "text": "just differents ways of describing\nthe same fundamental reality?"
+    },
+    {
+        "index": 79,
+        "start_time": 241992,
+        "end_time": 246616,
+        "text": "Or do their diverse structures reflect\ndifferent ways of thinking about the world"
+    },
+    {
+        "index": 80,
+        "start_time": 246616,
+        "end_time": 248337,
+        "text": "and even time itself?"
+    },
+    {
+        "index": 81,
+        "start_time": 248337,
+        "end_time": 252086,
+        "text": "And if so, what other ways \nof conceiving time may be out there?"
+    }
+]

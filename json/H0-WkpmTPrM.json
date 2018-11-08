@@ -1,0 +1,626 @@
+[
+    {
+        "index": 1,
+        "start_time": 9205,
+        "end_time": 11171,
+        "text": "&quot;Sorry, my phone died.&quot;"
+    },
+    {
+        "index": 2,
+        "start_time": 11195,
+        "end_time": 13471,
+        "text": "&quot;It&#39;s nothing. I&#39;m fine.&quot;"
+    },
+    {
+        "index": 3,
+        "start_time": 13495,
+        "end_time": 16723,
+        "text": "&quot;These allegations\nare completely unfounded.&quot;"
+    },
+    {
+        "index": 4,
+        "start_time": 16747,
+        "end_time": 20100,
+        "text": "&quot;The company was not aware\nof any wrongdoing.&quot;"
+    },
+    {
+        "index": 5,
+        "start_time": 21210,
+        "end_time": 23519,
+        "text": "&quot;I love you.&quot;"
+    },
+    {
+        "index": 6,
+        "start_time": 23543,
+        "end_time": 26387,
+        "text": "We hear anywhere\nfrom 10 to 200 lies a day,"
+    },
+    {
+        "index": 7,
+        "start_time": 26411,
+        "end_time": 29754,
+        "text": "and we spent much of our history\ncoming up with ways to detect them,"
+    },
+    {
+        "index": 8,
+        "start_time": 29778,
+        "end_time": 32676,
+        "text": "from medieval torture\ndevices to polygraphs,"
+    },
+    {
+        "index": 9,
+        "start_time": 32700,
+        "end_time": 36018,
+        "text": "blood-pressure and breathing monitors,\nvoice-stress analyzers,"
+    },
+    {
+        "index": 10,
+        "start_time": 36042,
+        "end_time": 38701,
+        "text": "eye trackers, infrared brain scanners,"
+    },
+    {
+        "index": 11,
+        "start_time": 38725,
+        "end_time": 41907,
+        "text": "and even the 400-pound\nelectroencephalogram."
+    },
+    {
+        "index": 12,
+        "start_time": 41931,
+        "end_time": 45066,
+        "text": "But although such tools have worked\nunder certain circumstances,"
+    },
+    {
+        "index": 13,
+        "start_time": 45090,
+        "end_time": 48045,
+        "text": "most can be fooled\nwith enough preparation,"
+    },
+    {
+        "index": 14,
+        "start_time": 48069,
+        "end_time": 52097,
+        "text": "and none are considered reliable enough\nto even be admissible in court."
+    },
+    {
+        "index": 15,
+        "start_time": 52121,
+        "end_time": 54641,
+        "text": "But, what if the problem\nis not with the techniques,"
+    },
+    {
+        "index": 16,
+        "start_time": 54665,
+        "end_time": 59042,
+        "text": "but the underlying assumption\nthat lying spurs physiological changes?"
+    },
+    {
+        "index": 17,
+        "start_time": 59066,
+        "end_time": 61047,
+        "text": "What if we took a more direct approach,"
+    },
+    {
+        "index": 18,
+        "start_time": 61071,
+        "end_time": 64239,
+        "text": "using communication science\nto analyze the lies themselves?"
+    },
+    {
+        "index": 19,
+        "start_time": 65146,
+        "end_time": 69959,
+        "text": "On a psychological level, we lie partly\nto paint a better picture of ourselves,"
+    },
+    {
+        "index": 20,
+        "start_time": 69983,
+        "end_time": 72835,
+        "text": "connecting our fantasies\nto the person we wish we were"
+    },
+    {
+        "index": 21,
+        "start_time": 72859,
+        "end_time": 75157,
+        "text": "rather than the person we are."
+    },
+    {
+        "index": 22,
+        "start_time": 75181,
+        "end_time": 79545,
+        "text": "But while our brain is busy dreaming,\nit&#39;s letting plenty of signals slip by."
+    },
+    {
+        "index": 23,
+        "start_time": 79569,
+        "end_time": 83704,
+        "text": "Our conscious mind only controls\nabout 5% of our cognitive function,"
+    },
+    {
+        "index": 24,
+        "start_time": 83728,
+        "end_time": 85264,
+        "text": "including communication,"
+    },
+    {
+        "index": 25,
+        "start_time": 85288,
+        "end_time": 88664,
+        "text": "while the other 95% occurs\nbeyond our awareness,"
+    },
+    {
+        "index": 26,
+        "start_time": 88688,
+        "end_time": 91850,
+        "text": "and according to the literature\non reality monitoring,"
+    },
+    {
+        "index": 27,
+        "start_time": 91874,
+        "end_time": 94212,
+        "text": "stories based on imagined experiences"
+    },
+    {
+        "index": 28,
+        "start_time": 94236,
+        "end_time": 98093,
+        "text": "are qualitatively different\nfrom those based on real experiences."
+    },
+    {
+        "index": 29,
+        "start_time": 98117,
+        "end_time": 102119,
+        "text": "This suggests that creating a false story\nabout a personal topic takes work"
+    },
+    {
+        "index": 30,
+        "start_time": 102143,
+        "end_time": 105036,
+        "text": "and results in a different\npattern of language use."
+    },
+    {
+        "index": 31,
+        "start_time": 105060,
+        "end_time": 108207,
+        "text": "A technology known\nas linguistic text analysis"
+    },
+    {
+        "index": 32,
+        "start_time": 108231,
+        "end_time": 110931,
+        "text": "has helped to identify\nfour such common patterns"
+    },
+    {
+        "index": 33,
+        "start_time": 110955,
+        "end_time": 113161,
+        "text": "in the subconscious language of deception."
+    },
+    {
+        "index": 34,
+        "start_time": 114153,
+        "end_time": 118473,
+        "text": "First, liars reference themselves less,\nwhen making deceptive statements."
+    },
+    {
+        "index": 35,
+        "start_time": 118497,
+        "end_time": 122224,
+        "text": "They write or talk more about others,\noften using the third person"
+    },
+    {
+        "index": 36,
+        "start_time": 122248,
+        "end_time": 125216,
+        "text": "to distance and disassociate\nthemselves from their lie,"
+    },
+    {
+        "index": 37,
+        "start_time": 125240,
+        "end_time": 127134,
+        "text": "which sounds more false:"
+    },
+    {
+        "index": 38,
+        "start_time": 127158,
+        "end_time": 129966,
+        "text": "&quot;Absolutely no party took\nplace at this house,&quot;"
+    },
+    {
+        "index": 39,
+        "start_time": 129990,
+        "end_time": 131845,
+        "text": "or &quot;I didn&#39;t host a party here.&quot;"
+    },
+    {
+        "index": 40,
+        "start_time": 133178,
+        "end_time": 135733,
+        "text": "Second, liars tend to be more negative,"
+    },
+    {
+        "index": 41,
+        "start_time": 135757,
+        "end_time": 139238,
+        "text": "because on a subconscious level,\nthey feel guilty about lying."
+    },
+    {
+        "index": 42,
+        "start_time": 139262,
+        "end_time": 141398,
+        "text": "For example, a liar\nmight say something like,"
+    },
+    {
+        "index": 43,
+        "start_time": 141422,
+        "end_time": 145589,
+        "text": "&quot;Sorry, my stupid phone battery died.\nI hate that thing.&quot;"
+    },
+    {
+        "index": 44,
+        "start_time": 145613,
+        "end_time": 148853,
+        "text": "Third, liars typically explain\nevents in simple terms"
+    },
+    {
+        "index": 45,
+        "start_time": 148877,
+        "end_time": 151976,
+        "text": "since our brains struggle\nto build a complex lie."
+    },
+    {
+        "index": 46,
+        "start_time": 152000,
+        "end_time": 153305,
+        "text": "Judgment and evaluation"
+    },
+    {
+        "index": 47,
+        "start_time": 153329,
+        "end_time": 156159,
+        "text": "are complex things\nfor our brains to compute."
+    },
+    {
+        "index": 48,
+        "start_time": 156183,
+        "end_time": 158654,
+        "text": "As a U.S. President once\nfamously insisted:"
+    },
+    {
+        "index": 49,
+        "start_time": 158678,
+        "end_time": 161766,
+        "text": "&quot;I did not have sexual relations\nwith that woman.&quot;"
+    },
+    {
+        "index": 50,
+        "start_time": 161790,
+        "end_time": 164659,
+        "text": "And finally, even though liars\nkeep descriptions simple,"
+    },
+    {
+        "index": 51,
+        "start_time": 164683,
+        "end_time": 168134,
+        "text": "they tend to use longer\nand more convoluted sentence structure,"
+    },
+    {
+        "index": 52,
+        "start_time": 168158,
+        "end_time": 169740,
+        "text": "inserting unnecessary words"
+    },
+    {
+        "index": 53,
+        "start_time": 169764,
+        "end_time": 173476,
+        "text": "and irrelevant but factual\nsounding details in order to pad the lie."
+    },
+    {
+        "index": 54,
+        "start_time": 173500,
+        "end_time": 176140,
+        "text": "Another President confronted\nwith a scandal proclaimed:"
+    },
+    {
+        "index": 55,
+        "start_time": 176164,
+        "end_time": 179510,
+        "text": "&quot;I can say, categorically,\nthat this investigation indicates"
+    },
+    {
+        "index": 56,
+        "start_time": 179534,
+        "end_time": 181297,
+        "text": "that no one on the White House staff,"
+    },
+    {
+        "index": 57,
+        "start_time": 181321,
+        "end_time": 183676,
+        "text": "no one in this administration\npresently employed"
+    },
+    {
+        "index": 58,
+        "start_time": 183700,
+        "end_time": 186600,
+        "text": "was involved\nin this very bizarre incident.&quot;"
+    },
+    {
+        "index": 59,
+        "start_time": 186624,
+        "end_time": 190164,
+        "text": "Let&#39;s apply linguistic analysis\nto some famous examples."
+    },
+    {
+        "index": 60,
+        "start_time": 190188,
+        "end_time": 193213,
+        "text": "Take seven-time Tour de France\nwinner Lance Armstrong."
+    },
+    {
+        "index": 61,
+        "start_time": 193237,
+        "end_time": 195373,
+        "text": "When comparing a 2005 interview,"
+    },
+    {
+        "index": 62,
+        "start_time": 195397,
+        "end_time": 198250,
+        "text": "in which he had denied taking\nperformance-enhancing drugs"
+    },
+    {
+        "index": 63,
+        "start_time": 198274,
+        "end_time": 201188,
+        "text": "to a 2013 interview,\nin which he admitted it,"
+    },
+    {
+        "index": 64,
+        "start_time": 201212,
+        "end_time": 205168,
+        "text": "his use of personal pronouns\nincreased by nearly 3\/4."
+    },
+    {
+        "index": 65,
+        "start_time": 205192,
+        "end_time": 207835,
+        "text": "Note the contrast\nbetween the following two quotes."
+    },
+    {
+        "index": 66,
+        "start_time": 207859,
+        "end_time": 212146,
+        "text": "First: &quot;Okay, you know, a guy\nin a French, in a Parisian laboratory"
+    },
+    {
+        "index": 67,
+        "start_time": 212170,
+        "end_time": 216107,
+        "text": "opens up your sample, you know,\nJean-Francis so-and-so, and he tests it."
+    },
+    {
+        "index": 68,
+        "start_time": 216131,
+        "end_time": 218828,
+        "text": "And then you get a phone call\nfrom a newspaper that says:"
+    },
+    {
+        "index": 69,
+        "start_time": 218853,
+        "end_time": 221634,
+        "text": "&#39;We found you to be positive\nsix times for EPO.&quot;"
+    },
+    {
+        "index": 70,
+        "start_time": 223129,
+        "end_time": 225004,
+        "text": "Second: &quot;I lost myself in all of that."
+    },
+    {
+        "index": 71,
+        "start_time": 225028,
+        "end_time": 227923,
+        "text": "I&#39;m sure there would be other people\nthat couldn&#39;t handle it,"
+    },
+    {
+        "index": 72,
+        "start_time": 227947,
+        "end_time": 229704,
+        "text": "but I certainly couldn&#39;t handle it,"
+    },
+    {
+        "index": 73,
+        "start_time": 229728,
+        "end_time": 232726,
+        "text": "and I was used to controlling\neverything in my life."
+    },
+    {
+        "index": 74,
+        "start_time": 232750,
+        "end_time": 235388,
+        "text": "I controlled every outcome in my life.&quot;"
+    },
+    {
+        "index": 75,
+        "start_time": 235412,
+        "end_time": 238294,
+        "text": "In his denial, Armstrong described\na hypothetical situation"
+    },
+    {
+        "index": 76,
+        "start_time": 238318,
+        "end_time": 240297,
+        "text": "focused on someone else,"
+    },
+    {
+        "index": 77,
+        "start_time": 240321,
+        "end_time": 242979,
+        "text": "removing himself\nfrom the situation entirely."
+    },
+    {
+        "index": 78,
+        "start_time": 243003,
+        "end_time": 244956,
+        "text": "In his admission, he owns his statements,"
+    },
+    {
+        "index": 79,
+        "start_time": 244980,
+        "end_time": 248585,
+        "text": "delving into his personal emotions\nand motivations."
+    },
+    {
+        "index": 80,
+        "start_time": 248609,
+        "end_time": 252552,
+        "text": "But the use of personal pronouns\nis just one indicator of deception."
+    },
+    {
+        "index": 81,
+        "start_time": 252576,
+        "end_time": 254885,
+        "text": "Let&#39;s look at another example\nfrom former Senator"
+    },
+    {
+        "index": 82,
+        "start_time": 254909,
+        "end_time": 258137,
+        "text": "and U.S. Presidential candidate\nJohn Edwards:"
+    },
+    {
+        "index": 83,
+        "start_time": 258161,
+        "end_time": 260740,
+        "text": "&quot;I only know that the apparent\nfather has said publicly"
+    },
+    {
+        "index": 84,
+        "start_time": 260764,
+        "end_time": 262654,
+        "text": "that he is the father of the baby."
+    },
+    {
+        "index": 85,
+        "start_time": 262678,
+        "end_time": 265690,
+        "text": "I also have not been engaged\nin any activity of any description"
+    },
+    {
+        "index": 86,
+        "start_time": 265714,
+        "end_time": 269148,
+        "text": "that requested, agreed to,\nor supported payments of any kind"
+    },
+    {
+        "index": 87,
+        "start_time": 269172,
+        "end_time": 272353,
+        "text": "to the woman or to the apparent\nfather of the baby.&quot;"
+    },
+    {
+        "index": 88,
+        "start_time": 272377,
+        "end_time": 276396,
+        "text": "Not only is that a pretty long-winded way\nto say, &quot;The baby isn&#39;t mine,&quot;"
+    },
+    {
+        "index": 89,
+        "start_time": 276420,
+        "end_time": 279306,
+        "text": "but Edwards never calls\nthe other parties by name,"
+    },
+    {
+        "index": 90,
+        "start_time": 279330,
+        "end_time": 283139,
+        "text": "instead saying &quot;that baby,&quot; &quot;the woman,&quot;\nand &quot;the apparent father.&quot;"
+    },
+    {
+        "index": 91,
+        "start_time": 283163,
+        "end_time": 286192,
+        "text": "Now let&#39;s see what he had to say\nwhen later admitting paternity:"
+    },
+    {
+        "index": 92,
+        "start_time": 286216,
+        "end_time": 287743,
+        "text": "&quot;I am Quinn&#39;s father."
+    },
+    {
+        "index": 93,
+        "start_time": 287767,
+        "end_time": 290024,
+        "text": "I will do everything\nin my power to provide her"
+    },
+    {
+        "index": 94,
+        "start_time": 290048,
+        "end_time": 292141,
+        "text": "with the love and support she deserves.&quot;"
+    },
+    {
+        "index": 95,
+        "start_time": 293066,
+        "end_time": 294744,
+        "text": "The statement is short and direct,"
+    },
+    {
+        "index": 96,
+        "start_time": 294768,
+        "end_time": 298303,
+        "text": "calling the child by name\nand addressing his role in her life."
+    },
+    {
+        "index": 97,
+        "start_time": 298327,
+        "end_time": 301534,
+        "text": "So how can you apply these\nlie-spotting techniques to your life?"
+    },
+    {
+        "index": 98,
+        "start_time": 301558,
+        "end_time": 305195,
+        "text": "First, remember that many of the lies\nwe encounter on a daily basis"
+    },
+    {
+        "index": 99,
+        "start_time": 305219,
+        "end_time": 309820,
+        "text": "are far less serious that these examples,\nand may even be harmless."
+    },
+    {
+        "index": 100,
+        "start_time": 309844,
+        "end_time": 312504,
+        "text": "But it&#39;s still worthwhile\nto be aware of telltale clues,"
+    },
+    {
+        "index": 101,
+        "start_time": 312528,
+        "end_time": 316216,
+        "text": "like minimal self-references,\nnegative language,"
+    },
+    {
+        "index": 102,
+        "start_time": 316240,
+        "end_time": 318643,
+        "text": "simple explanations\nand convoluted phrasing."
+    },
+    {
+        "index": 103,
+        "start_time": 319759,
+        "end_time": 322819,
+        "text": "It just might help you avoid\nan overvalued stock,"
+    },
+    {
+        "index": 104,
+        "start_time": 322843,
+        "end_time": 325758,
+        "text": "an ineffective product,\nor even a terrible relationship."
+    }
+]

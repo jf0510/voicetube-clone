@@ -1,0 +1,434 @@
+[
+  {
+    "end_time": 3200,
+    "index": 1,
+    "start_time": 760,
+    "text": "Hey there, welcome to Life Noggin."
+  },
+  {
+    "end_time": 3740,
+    "index": 2,
+    "start_time": 3200,
+    "text": "Kale?"
+  },
+  {
+    "end_time": 4500,
+    "index": 3,
+    "start_time": 3940,
+    "text": "No, thank you."
+  },
+  {
+    "end_time": 5280,
+    "index": 4,
+    "start_time": 4780,
+    "text": "Bananas?"
+  },
+  {
+    "end_time": 6040,
+    "index": 5,
+    "start_time": 5460,
+    "text": "Hard pass."
+  },
+  {
+    "end_time": 8100,
+    "index": 6,
+    "start_time": 6440,
+    "text": "It\u2019s fine to not like some foods."
+  },
+  {
+    "end_time": 12440,
+    "index": 7,
+    "start_time": 8380,
+    "text": "As a little kid, you probably pouted about\neating the healthy things on your plate."
+  },
+  {
+    "end_time": 15600,
+    "index": 8,
+    "start_time": 12620,
+    "text": "Now that you\u2019ve grown up, you\u2019ve hopefully\ngotten over your hatred of things"
+  },
+  {
+    "end_time": 17220,
+    "index": 9,
+    "start_time": 15740,
+    "text": "like this giant salad monster."
+  },
+  {
+    "end_time": 20820,
+    "index": 10,
+    "start_time": 17660,
+    "text": "but what if you never ate fruits or vegetables?"
+  },
+  {
+    "end_time": 24660,
+    "index": 11,
+    "start_time": 21060,
+    "text": "Fruits and veggies are full of many vitamins,\nminerals and nutrients but for the sake of"
+  },
+  {
+    "end_time": 30340,
+    "index": 12,
+    "start_time": 24760,
+    "text": "time, we\u2019re going to focus on some main\nones, Vitamins A, B6, and C, Folic Acid (or"
+  },
+  {
+    "end_time": 34190,
+    "index": 13,
+    "start_time": 30350,
+    "text": "Folate), Potassium, Magnesium and antioxidants\nall found in produce."
+  },
+  {
+    "end_time": 38140,
+    "index": 14,
+    "start_time": 34190,
+    "text": "What would happen to your body if you cut\nall those out and became deficient?"
+  },
+  {
+    "end_time": 40899,
+    "index": 15,
+    "start_time": 38140,
+    "text": "Let\u2019s go from the top down, starting at\nyour head."
+  },
+  {
+    "end_time": 44909,
+    "index": 16,
+    "start_time": 40899,
+    "text": "Your hair would be dry and frayed. Your\neyesight may get worse and you could even"
+  },
+  {
+    "end_time": 46660,
+    "index": 17,
+    "start_time": 44909,
+    "text": "lose your nighttime vision!"
+  },
+  {
+    "end_time": 50929,
+    "index": 18,
+    "start_time": 46660,
+    "text": "Vitamin C deficiency can cause your gums to\nturn purple and you may lose some teeth."
+  },
+  {
+    "end_time": 55199,
+    "index": 19,
+    "start_time": 50930,
+    "text": "This deficiency can also prevent wounds from\nhealing properly so you\u2019d likely have scabs"
+  },
+  {
+    "end_time": 56969,
+    "index": 20,
+    "start_time": 55199,
+    "text": "and scars covering your body."
+  },
+  {
+    "end_time": 61249,
+    "index": 21,
+    "start_time": 56969,
+    "text": "Mentally, depression, confusion and irritability\ncan all surface when you\u2019re deficient in"
+  },
+  {
+    "end_time": 63250,
+    "index": 22,
+    "start_time": 61249,
+    "text": "vitamin B6 and/or folic acid."
+  },
+  {
+    "end_time": 67580,
+    "index": 23,
+    "start_time": 63250,
+    "text": "Moving down the body, a lack of potassium\ncan lead to various heart problems, like an"
+  },
+  {
+    "end_time": 71720,
+    "index": 24,
+    "start_time": 67580,
+    "text": "irregular heartbeat, and your cardiovascular\nsystem isn\u2019t the only one struggling without"
+  },
+  {
+    "end_time": 72780,
+    "index": 25,
+    "start_time": 71720,
+    "text": "fruits and veggies."
+  },
+  {
+    "end_time": 77460,
+    "index": 26,
+    "start_time": 72780,
+    "text": "The gastrointestinal tract that helps you\ndigest food would be going haywire as well."
+  },
+  {
+    "end_time": 79600,
+    "index": 27,
+    "start_time": 77460,
+    "text": "We\u2019re talkin\u2019 nausea, vomiting, diarrhea."
+  },
+  {
+    "end_time": 82280,
+    "index": 28,
+    "start_time": 79800,
+    "text": "Pretty much the opposite of a good day."
+  },
+  {
+    "end_time": 86980,
+    "index": 29,
+    "start_time": 82290,
+    "text": "Your immune system would be pretty shot due\nto the lack of vitamins A, B6, and C, as well"
+  },
+  {
+    "end_time": 87980,
+    "index": 30,
+    "start_time": 86980,
+    "text": "as Magnesium."
+  },
+  {
+    "end_time": 90000,
+    "index": 31,
+    "start_time": 87980,
+    "text": "So you\u2019d likely get sick a lot."
+  },
+  {
+    "end_time": 94710,
+    "index": 32,
+    "start_time": 90000,
+    "text": "Your nervous system would also struggle, possibly\nleading to neurodegenerative diseases, which"
+  },
+  {
+    "end_time": 95779,
+    "index": 33,
+    "start_time": 94710,
+    "text": "really don\u2019t sound great."
+  },
+  {
+    "end_time": 100020,
+    "index": 34,
+    "start_time": 95780,
+    "text": "You\u2019d experience muscle spasms due to a\nlack of potassium and magnesium."
+  },
+  {
+    "end_time": 102839,
+    "index": 35,
+    "start_time": 100020,
+    "text": "So prepare for a lot of 3am Charlie Horses!"
+  },
+  {
+    "end_time": 104840,
+    "index": 36,
+    "start_time": 102840,
+    "text": "That&#39;s actually just my horse named Charlie."
+  },
+  {
+    "end_time": 106560,
+    "index": 37,
+    "start_time": 104840,
+    "text": "He always wakes me up at 3am."
+  },
+  {
+    "end_time": 110020,
+    "index": 38,
+    "start_time": 106560,
+    "text": "And if you\u2019re cutting out fruits and veg,\nthe last thing you need is someone else"
+  },
+  {
+    "end_time": 111000,
+    "index": 39,
+    "start_time": 110020,
+    "text": "disrupting your sleep."
+  },
+  {
+    "end_time": 113360,
+    "index": 40,
+    "start_time": 111000,
+    "text": "Seriously Charlie, can you just get out of here for a second?"
+  },
+  {
+    "end_time": 117860,
+    "index": 41,
+    "start_time": 113540,
+    "text": "Various vitamins and minerals help with energy\nproduction, so if you lose those, you\u2019d"
+  },
+  {
+    "end_time": 119840,
+    "index": 42,
+    "start_time": 117870,
+    "text": "be preeeetty tired all the time."
+  },
+  {
+    "end_time": 125180,
+    "index": 43,
+    "start_time": 119840,
+    "text": "Many fresh fruits and vegetables contain antioxidant\nphytochemicals that are believed to be anti-cancer,"
+  },
+  {
+    "end_time": 128550,
+    "index": 44,
+    "start_time": 125180,
+    "text": "anti-aging and anti\u2026 well, a lot of other\ndiseases."
+  },
+  {
+    "end_time": 132770,
+    "index": 45,
+    "start_time": 128550,
+    "text": "So, without these antioxidants, you could\nlook older and be at a higher risk of getting"
+  },
+  {
+    "end_time": 135239,
+    "index": 46,
+    "start_time": 132770,
+    "text": "cancer and other various conditions."
+  },
+  {
+    "end_time": 136239,
+    "index": 47,
+    "start_time": 135239,
+    "text": "Sooo, yeah."
+  },
+  {
+    "end_time": 137530,
+    "index": 48,
+    "start_time": 136239,
+    "text": "None of this sounds fun."
+  },
+  {
+    "end_time": 141180,
+    "index": 49,
+    "start_time": 137530,
+    "text": "All these symptoms would happen at different\npaces for different people, depending on how"
+  },
+  {
+    "end_time": 144010,
+    "index": 50,
+    "start_time": 141180,
+    "text": "else they receive these nutrients in the rest\nof their diet."
+  },
+  {
+    "end_time": 148578,
+    "index": 51,
+    "start_time": 144010,
+    "text": "Some things, like vitamin C deficiency, can\ndo some serious damage in just one month."
+  },
+  {
+    "end_time": 152060,
+    "index": 52,
+    "start_time": 148579,
+    "text": "If you\u2019re thinking you could just make up\nfor all these deficiencies with vitamins and"
+  },
+  {
+    "end_time": 153860,
+    "index": 53,
+    "start_time": 152060,
+    "text": "supplements, it\u2019s not that easy."
+  },
+  {
+    "end_time": 158069,
+    "index": 54,
+    "start_time": 153860,
+    "text": "While supplements may provide you with similar\nvitamins and minerals to those found in produce,"
+  },
+  {
+    "end_time": 162899,
+    "index": 55,
+    "start_time": 158069,
+    "text": "they leave out things like fiber, flavonoids,\nantioxidants, and phytochemicals that all"
+  },
+  {
+    "end_time": 165870,
+    "index": 56,
+    "start_time": 162900,
+    "text": "work together in fruits and vegetables to make them\nso healthy."
+  },
+  {
+    "end_time": 169760,
+    "index": 57,
+    "start_time": 165870,
+    "text": "And while it may surprise you, the effectiveness\nof vitamins, in general, is actually quite"
+  },
+  {
+    "end_time": 171739,
+    "index": 58,
+    "start_time": 169760,
+    "text": "debated in the scientific community."
+  },
+  {
+    "end_time": 175579,
+    "index": 59,
+    "start_time": 171739,
+    "text": "One thing that\u2019s not debated, whether or\nnot fruits and vegetables are good for you."
+  },
+  {
+    "end_time": 176719,
+    "index": 60,
+    "start_time": 175579,
+    "text": "Seriously, just eat them."
+  },
+  {
+    "end_time": 178140,
+    "index": 61,
+    "start_time": 176720,
+    "text": "Don\u2019t end up like Triangle Bob over here."
+  },
+  {
+    "end_time": 182160,
+    "index": 62,
+    "start_time": 178140,
+    "text": "I have to pay someone to shove broccoli in his mouth every day."
+  },
+  {
+    "end_time": 183160,
+    "index": 63,
+    "start_time": 182160,
+    "text": "it&#39;s very sad."
+  },
+  {
+    "end_time": 185040,
+    "index": 64,
+    "start_time": 183160,
+    "text": "Do you have a favorite fruit or vegetable?"
+  },
+  {
+    "end_time": 186540,
+    "index": 65,
+    "start_time": 185040,
+    "text": "Do you actually eat them?"
+  },
+  {
+    "end_time": 188239,
+    "index": 66,
+    "start_time": 186540,
+    "text": "Let us know in the comment section below"
+  },
+  {
+    "end_time": 190240,
+    "index": 67,
+    "start_time": 188240,
+    "text": "or tell us, what should we talk about next?"
+  },
+  {
+    "end_time": 193020,
+    "index": 68,
+    "start_time": 190500,
+    "text": "If you enjoyed this video then make sure you check out the video we did"
+  },
+  {
+    "end_time": 195140,
+    "index": 69,
+    "start_time": 193140,
+    "text": "on what would happen if you never stopped eating."
+  },
+  {
+    "end_time": 199600,
+    "index": 70,
+    "start_time": 195140,
+    "text": "one recent study found a significant between added sugar consumption"
+  },
+  {
+    "end_time": 206220,
+    "index": 71,
+    "start_time": 199600,
+    "text": "and a increased risk of dying from cardiovascular disease when observing participants for over 14 years."
+  },
+  {
+    "end_time": 212480,
+    "index": 72,
+    "start_time": 206220,
+    "text": "as always, my name is blocko.\nThis has been life noggin.\nDon&#39;t forget to keep on thinking."
+  }
+]

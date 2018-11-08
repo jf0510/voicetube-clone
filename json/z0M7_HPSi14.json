@@ -1,0 +1,476 @@
+[
+    {
+        "index": 1,
+        "start_time": 8113,
+        "end_time": 12245,
+        "text": "In 1800, the explorer \nAlexander von Humboldt"
+    },
+    {
+        "index": 2,
+        "start_time": 12245,
+        "end_time": 16234,
+        "text": "witnessed a swarm of electric eels\nleap out of the water"
+    },
+    {
+        "index": 3,
+        "start_time": 16234,
+        "end_time": 19834,
+        "text": "to defend themselves \nagainst oncoming horses."
+    },
+    {
+        "index": 4,
+        "start_time": 19834,
+        "end_time": 24435,
+        "text": "Most people thought the story\nso unusual that Humboldt made it up."
+    },
+    {
+        "index": 5,
+        "start_time": 24435,
+        "end_time": 28796,
+        "text": "But fish using electricity is more common\nthan you might think;"
+    },
+    {
+        "index": 6,
+        "start_time": 28796,
+        "end_time": 32935,
+        "text": "and yes, electric eels are a type of fish."
+    },
+    {
+        "index": 7,
+        "start_time": 32935,
+        "end_time": 35125,
+        "text": "Underwater, where light is scarce,"
+    },
+    {
+        "index": 8,
+        "start_time": 35125,
+        "end_time": 37774,
+        "text": "electrical signals offer ways\nto communicate,"
+    },
+    {
+        "index": 9,
+        "start_time": 37774,
+        "end_time": 38861,
+        "text": "navigate,"
+    },
+    {
+        "index": 10,
+        "start_time": 38861,
+        "end_time": 43692,
+        "text": "and find\u2014plus, in rare cases, stun\u2014prey."
+    },
+    {
+        "index": 11,
+        "start_time": 43692,
+        "end_time": 49135,
+        "text": "Nearly 350 species of fish\nhave specialized anatomical structures"
+    },
+    {
+        "index": 12,
+        "start_time": 49135,
+        "end_time": 52807,
+        "text": "that generate \nand detect electrical signals."
+    },
+    {
+        "index": 13,
+        "start_time": 52807,
+        "end_time": 55246,
+        "text": "These fish are divided into two groups,"
+    },
+    {
+        "index": 14,
+        "start_time": 55246,
+        "end_time": 58608,
+        "text": "depending on how much \nelectricity they produce."
+    },
+    {
+        "index": 15,
+        "start_time": 58608,
+        "end_time": 63587,
+        "text": "Scientists call the first group\nthe weakly electric fish."
+    },
+    {
+        "index": 16,
+        "start_time": 63587,
+        "end_time": 66406,
+        "text": "Structures near their tails \ncalled electric organs"
+    },
+    {
+        "index": 17,
+        "start_time": 66406,
+        "end_time": 72507,
+        "text": "produce up to a volt of electricity,\nabout two-thirds as much as a AA battery."
+    },
+    {
+        "index": 18,
+        "start_time": 72507,
+        "end_time": 74597,
+        "text": "How does this work?"
+    },
+    {
+        "index": 19,
+        "start_time": 74597,
+        "end_time": 79068,
+        "text": "The fish&#39;s brain sends a signal through\nits nervous system to the electric organ,"
+    },
+    {
+        "index": 20,
+        "start_time": 79068,
+        "end_time": 81288,
+        "text": "which is filled with stacks of hundreds"
+    },
+    {
+        "index": 21,
+        "start_time": 81288,
+        "end_time": 87258,
+        "text": "or thousands of disc-shaped \ncells called electrocytes."
+    },
+    {
+        "index": 22,
+        "start_time": 87258,
+        "end_time": 91438,
+        "text": "Normally, electrocytes pump out sodium\nand potassium ions"
+    },
+    {
+        "index": 23,
+        "start_time": 91438,
+        "end_time": 96807,
+        "text": "to maintain a positive charge outside\nand negative charge inside."
+    },
+    {
+        "index": 24,
+        "start_time": 96807,
+        "end_time": 99920,
+        "text": "But when the nerve signal arrives\nat the electrocyte,"
+    },
+    {
+        "index": 25,
+        "start_time": 99920,
+        "end_time": 103549,
+        "text": "it prompts the ion gates to open."
+    },
+    {
+        "index": 26,
+        "start_time": 103549,
+        "end_time": 107709,
+        "text": "Positively charged ions flow back in."
+    },
+    {
+        "index": 27,
+        "start_time": 107709,
+        "end_time": 112029,
+        "text": "Now, one face of the electrocyte\nis negatively charged outside"
+    },
+    {
+        "index": 28,
+        "start_time": 112029,
+        "end_time": 114699,
+        "text": "and positively charged inside."
+    },
+    {
+        "index": 29,
+        "start_time": 114699,
+        "end_time": 118771,
+        "text": "But the far side \nhas the opposite charge pattern."
+    },
+    {
+        "index": 30,
+        "start_time": 118771,
+        "end_time": 121420,
+        "text": "These alternating charges \ncan drive a current,"
+    },
+    {
+        "index": 31,
+        "start_time": 121420,
+        "end_time": 126491,
+        "text": "turning the electrocyte \ninto a biological battery."
+    },
+    {
+        "index": 32,
+        "start_time": 126491,
+        "end_time": 130649,
+        "text": "The key to these fish&#39;s powers \nis that nerve signals are coordinated"
+    },
+    {
+        "index": 33,
+        "start_time": 130649,
+        "end_time": 135031,
+        "text": "to arrive at each cell \nat exactly the same time."
+    },
+    {
+        "index": 34,
+        "start_time": 135031,
+        "end_time": 141080,
+        "text": "That makes the stacks of electrocytes\nact like thousands of batteries in series."
+    },
+    {
+        "index": 35,
+        "start_time": 141080,
+        "end_time": 144323,
+        "text": "The tiny charges from each one\nadd up to an electrical field"
+    },
+    {
+        "index": 36,
+        "start_time": 144323,
+        "end_time": 147061,
+        "text": "that can travel several meters."
+    },
+    {
+        "index": 37,
+        "start_time": 147061,
+        "end_time": 150140,
+        "text": "Cells called electroreceptors\nburied in the skin"
+    },
+    {
+        "index": 38,
+        "start_time": 150140,
+        "end_time": 153121,
+        "text": "allow the fish to constantly sense\nthis field"
+    },
+    {
+        "index": 39,
+        "start_time": 153121,
+        "end_time": 158022,
+        "text": "and the changes to it caused \nby the surroundings or other fish."
+    },
+    {
+        "index": 40,
+        "start_time": 158022,
+        "end_time": 160492,
+        "text": "The Peter\u2019s elephantnose fish, \nfor example,"
+    },
+    {
+        "index": 41,
+        "start_time": 160492,
+        "end_time": 163673,
+        "text": "has an elongated chin\ncalled a schnauzenorgan"
+    },
+    {
+        "index": 42,
+        "start_time": 163673,
+        "end_time": 166103,
+        "text": "that&#39;s riddled in electroreceptors."
+    },
+    {
+        "index": 43,
+        "start_time": 166103,
+        "end_time": 168892,
+        "text": "That allows it to intercept signals\nfrom other fish,"
+    },
+    {
+        "index": 44,
+        "start_time": 168892,
+        "end_time": 170792,
+        "text": "judge distances,"
+    },
+    {
+        "index": 45,
+        "start_time": 170792,
+        "end_time": 173793,
+        "text": "detect the shape and size\nof nearby objects,"
+    },
+    {
+        "index": 46,
+        "start_time": 173793,
+        "end_time": 178801,
+        "text": "and even determine whether\na buried insect is dead or alive."
+    },
+    {
+        "index": 47,
+        "start_time": 178801,
+        "end_time": 181302,
+        "text": "But the elephantnose\nand other weakly electric fish"
+    },
+    {
+        "index": 48,
+        "start_time": 181302,
+        "end_time": 185402,
+        "text": "don&#39;t produce enough electricity\nto attack their prey."
+    },
+    {
+        "index": 49,
+        "start_time": 185402,
+        "end_time": 188573,
+        "text": "That ability belongs \nto the strongly electric fish,"
+    },
+    {
+        "index": 50,
+        "start_time": 188573,
+        "end_time": 191794,
+        "text": "of which there are only \na handful of species."
+    },
+    {
+        "index": 51,
+        "start_time": 191794,
+        "end_time": 196392,
+        "text": "The most powerful strongly electric\nfish is the electric knife fish,"
+    },
+    {
+        "index": 52,
+        "start_time": 196392,
+        "end_time": 200513,
+        "text": "more commonly known as the electric eel."
+    },
+    {
+        "index": 53,
+        "start_time": 200513,
+        "end_time": 205400,
+        "text": "Three electric organs span\nalmost its entire two-meter body."
+    },
+    {
+        "index": 54,
+        "start_time": 205400,
+        "end_time": 207354,
+        "text": "Like the weakly electric fish,"
+    },
+    {
+        "index": 55,
+        "start_time": 207354,
+        "end_time": 210960,
+        "text": "the electric eel uses its signals\nto navigate and communicate,"
+    },
+    {
+        "index": 56,
+        "start_time": 210960,
+        "end_time": 214684,
+        "text": "but it reserves its strongest \nelectric discharges for hunting"
+    },
+    {
+        "index": 57,
+        "start_time": 214684,
+        "end_time": 220273,
+        "text": "using a two-phased attack that susses out\nand then incapacitates its prey."
+    },
+    {
+        "index": 58,
+        "start_time": 220273,
+        "end_time": 223995,
+        "text": "First, it emits two \nor three strong pulses,"
+    },
+    {
+        "index": 59,
+        "start_time": 223995,
+        "end_time": 226444,
+        "text": "as much as 600 volts."
+    },
+    {
+        "index": 60,
+        "start_time": 226444,
+        "end_time": 229734,
+        "text": "These stimulate the prey&#39;s muscles,\nsending it into spasms"
+    },
+    {
+        "index": 61,
+        "start_time": 229734,
+        "end_time": 233045,
+        "text": "and generating waves \nthat reveal its hiding place."
+    },
+    {
+        "index": 62,
+        "start_time": 233045,
+        "end_time": 235925,
+        "text": "Then, a volley of fast, \nhigh-voltage discharges"
+    },
+    {
+        "index": 63,
+        "start_time": 235925,
+        "end_time": 239294,
+        "text": "causes even more intense \nmuscle contractions."
+    },
+    {
+        "index": 64,
+        "start_time": 239294,
+        "end_time": 243095,
+        "text": "The electric eel can also curl up\nso that the electric fields"
+    },
+    {
+        "index": 65,
+        "start_time": 243095,
+        "end_time": 247249,
+        "text": "generated at each end \nof the electric organ overlap."
+    },
+    {
+        "index": 66,
+        "start_time": 247249,
+        "end_time": 250939,
+        "text": "The electrical storm eventually\nexhausts and immobilizes the prey,"
+    },
+    {
+        "index": 67,
+        "start_time": 250939,
+        "end_time": 254890,
+        "text": "and the electric eel \ncan swallow its meal alive."
+    },
+    {
+        "index": 68,
+        "start_time": 254890,
+        "end_time": 258550,
+        "text": "The other two strongly electric fish\nare the electric catfish,"
+    },
+    {
+        "index": 69,
+        "start_time": 258550,
+        "end_time": 260935,
+        "text": "which can unleash 350 volts"
+    },
+    {
+        "index": 70,
+        "start_time": 260935,
+        "end_time": 263906,
+        "text": "with an electric organ \nthat occupies most of its torso,"
+    },
+    {
+        "index": 71,
+        "start_time": 263906,
+        "end_time": 269466,
+        "text": "and the electric ray, with kidney-shaped\nelectric organs on either side of its head"
+    },
+    {
+        "index": 72,
+        "start_time": 269466,
+        "end_time": 272846,
+        "text": "that produce as much as 220 volts."
+    },
+    {
+        "index": 73,
+        "start_time": 272846,
+        "end_time": 275718,
+        "text": "There is one mystery in the world\nof electric fish:"
+    },
+    {
+        "index": 74,
+        "start_time": 275718,
+        "end_time": 279436,
+        "text": "why don&#39;t they electrocute themselves?"
+    },
+    {
+        "index": 75,
+        "start_time": 279436,
+        "end_time": 282148,
+        "text": "It may be that the size \nof strongly electric fish"
+    },
+    {
+        "index": 76,
+        "start_time": 282148,
+        "end_time": 284797,
+        "text": "allows them to withstand their own shocks,"
+    },
+    {
+        "index": 77,
+        "start_time": 284797,
+        "end_time": 288465,
+        "text": "or that the current passes out \nof their bodies too quickly."
+    },
+    {
+        "index": 78,
+        "start_time": 288465,
+        "end_time": 293047,
+        "text": "Some scientists think that special \nproteins may shield the electric organs,"
+    },
+    {
+        "index": 79,
+        "start_time": 293047,
+        "end_time": 297957,
+        "text": "but the truth is, this is one mystery \nscience still hasn&#39;t illuminated."
+    }
+]

@@ -1,0 +1,488 @@
+[
+    {
+        "index": 1,
+        "start_time": 7257,
+        "end_time": 9309,
+        "text": "This is a thought experiment."
+    },
+    {
+        "index": 2,
+        "start_time": 9309,
+        "end_time": 11917,
+        "text": "Let&#39;s say at some point\nin the not so distant future,"
+    },
+    {
+        "index": 3,
+        "start_time": 11917,
+        "end_time": 15505,
+        "text": "you&#39;re barreling down the highway\nin your self-driving car,"
+    },
+    {
+        "index": 4,
+        "start_time": 15505,
+        "end_time": 19809,
+        "text": "and you find yourself boxed in\non all sides by other cars."
+    },
+    {
+        "index": 5,
+        "start_time": 19809,
+        "end_time": 24213,
+        "text": "Suddenly, a large, heavy object\nfalls off the truck in front of you."
+    },
+    {
+        "index": 6,
+        "start_time": 24213,
+        "end_time": 27364,
+        "text": "Your car can&#39;t stop in time\nto avoid the collision,"
+    },
+    {
+        "index": 7,
+        "start_time": 27364,
+        "end_time": 29415,
+        "text": "so it needs to make a decision:"
+    },
+    {
+        "index": 8,
+        "start_time": 29415,
+        "end_time": 31673,
+        "text": "go straight and hit the object,"
+    },
+    {
+        "index": 9,
+        "start_time": 31673,
+        "end_time": 33953,
+        "text": "swerve left into an SUV,"
+    },
+    {
+        "index": 10,
+        "start_time": 33953,
+        "end_time": 36940,
+        "text": "or swerve right into a motorcycle."
+    },
+    {
+        "index": 11,
+        "start_time": 36940,
+        "end_time": 40450,
+        "text": "Should it prioritize your safety\nby hitting the motorcycle,"
+    },
+    {
+        "index": 12,
+        "start_time": 40450,
+        "end_time": 43267,
+        "text": "minimize danger to others by not swerving,"
+    },
+    {
+        "index": 13,
+        "start_time": 43267,
+        "end_time": 47346,
+        "text": "even if it means hitting the large object\nand sacrificing your life,"
+    },
+    {
+        "index": 14,
+        "start_time": 47346,
+        "end_time": 50104,
+        "text": "or take the middle ground\nby hitting the SUV,"
+    },
+    {
+        "index": 15,
+        "start_time": 50104,
+        "end_time": 53087,
+        "text": "which has a high passenger safety rating?"
+    },
+    {
+        "index": 16,
+        "start_time": 53087,
+        "end_time": 56298,
+        "text": "So what should the self-driving car do?"
+    },
+    {
+        "index": 17,
+        "start_time": 56298,
+        "end_time": 59505,
+        "text": "If we were driving that boxed in car\nin manual mode,"
+    },
+    {
+        "index": 18,
+        "start_time": 59505,
+        "end_time": 63034,
+        "text": "whichever way we&#39;d react\nwould be understood as just that,"
+    },
+    {
+        "index": 19,
+        "start_time": 63034,
+        "end_time": 64320,
+        "text": "a reaction,"
+    },
+    {
+        "index": 20,
+        "start_time": 64320,
+        "end_time": 66571,
+        "text": "not a deliberate decision."
+    },
+    {
+        "index": 21,
+        "start_time": 66571,
+        "end_time": 70869,
+        "text": "It would be an instinctual panicked move\nwith no forethought or malice."
+    },
+    {
+        "index": 22,
+        "start_time": 70869,
+        "end_time": 74519,
+        "text": "But if a programmer were to instruct\nthe car to make the same move,"
+    },
+    {
+        "index": 23,
+        "start_time": 74519,
+        "end_time": 77316,
+        "text": "given conditions it may \nsense in the future,"
+    },
+    {
+        "index": 24,
+        "start_time": 77316,
+        "end_time": 81619,
+        "text": "well, that looks more\nlike premeditated homicide."
+    },
+    {
+        "index": 25,
+        "start_time": 81619,
+        "end_time": 82637,
+        "text": "Now, to be fair,"
+    },
+    {
+        "index": 26,
+        "start_time": 82637,
+        "end_time": 86709,
+        "text": "self-driving cars are are predicted \nto dramatically reduce traffic accidents"
+    },
+    {
+        "index": 27,
+        "start_time": 86709,
+        "end_time": 87956,
+        "text": "and fatalities"
+    },
+    {
+        "index": 28,
+        "start_time": 87956,
+        "end_time": 91398,
+        "text": "by removing human error \nfrom the driving equation."
+    },
+    {
+        "index": 29,
+        "start_time": 91398,
+        "end_time": 93512,
+        "text": "Plus, there may be all sorts \nof other benefits:"
+    },
+    {
+        "index": 30,
+        "start_time": 93512,
+        "end_time": 95150,
+        "text": "eased road congestion,"
+    },
+    {
+        "index": 31,
+        "start_time": 95150,
+        "end_time": 96723,
+        "text": "decreased harmful emissions,"
+    },
+    {
+        "index": 32,
+        "start_time": 96723,
+        "end_time": 101345,
+        "text": "and minimized unproductive\nand stressful driving time."
+    },
+    {
+        "index": 33,
+        "start_time": 101345,
+        "end_time": 103716,
+        "text": "But accidents can and will still happen,"
+    },
+    {
+        "index": 34,
+        "start_time": 103716,
+        "end_time": 104685,
+        "text": "and when they do,"
+    },
+    {
+        "index": 35,
+        "start_time": 104685,
+        "end_time": 109147,
+        "text": "their outcomes may be determined\nmonths or years in advance"
+    },
+    {
+        "index": 36,
+        "start_time": 109147,
+        "end_time": 111752,
+        "text": "by programmers or policy makers."
+    },
+    {
+        "index": 37,
+        "start_time": 111752,
+        "end_time": 114252,
+        "text": "And they&#39;ll have \nsome difficult decisions to make."
+    },
+    {
+        "index": 38,
+        "start_time": 114252,
+        "end_time": 117204,
+        "text": "It&#39;s tempting to offer up general \ndecision-making principles,"
+    },
+    {
+        "index": 39,
+        "start_time": 117204,
+        "end_time": 119099,
+        "text": "like minimize harm,"
+    },
+    {
+        "index": 40,
+        "start_time": 119099,
+        "end_time": 122475,
+        "text": "but even that quickly leads \nto morally murky decisions."
+    },
+    {
+        "index": 41,
+        "start_time": 122475,
+        "end_time": 123633,
+        "text": "For example,"
+    },
+    {
+        "index": 42,
+        "start_time": 123633,
+        "end_time": 125641,
+        "text": "let&#39;s say we have the same initial set up,"
+    },
+    {
+        "index": 43,
+        "start_time": 125641,
+        "end_time": 128512,
+        "text": "but now there&#39;s a motorcyclist \nwearing a helmet to your left"
+    },
+    {
+        "index": 44,
+        "start_time": 128512,
+        "end_time": 131309,
+        "text": "and another one without \na helmet to your right."
+    },
+    {
+        "index": 45,
+        "start_time": 131309,
+        "end_time": 134360,
+        "text": "Which one should \nyour robot car crash into?"
+    },
+    {
+        "index": 46,
+        "start_time": 134360,
+        "end_time": 138442,
+        "text": "If you say the biker with the helmet\nbecause she&#39;s more likely to survive,"
+    },
+    {
+        "index": 47,
+        "start_time": 138442,
+        "end_time": 141771,
+        "text": "then aren&#39;t you penalizing \nthe responsible motorist?"
+    },
+    {
+        "index": 48,
+        "start_time": 141771,
+        "end_time": 144115,
+        "text": "If, instead, you save the biker \nwithout the helmet"
+    },
+    {
+        "index": 49,
+        "start_time": 144115,
+        "end_time": 146106,
+        "text": "because he&#39;s acting irresponsibly,"
+    },
+    {
+        "index": 50,
+        "start_time": 146106,
+        "end_time": 151017,
+        "text": "then you&#39;ve gone way beyond the initial\ndesign principle about minimizing harm,"
+    },
+    {
+        "index": 51,
+        "start_time": 151017,
+        "end_time": 154871,
+        "text": "and the robot car is now \nmeting out street justice."
+    },
+    {
+        "index": 52,
+        "start_time": 154871,
+        "end_time": 158403,
+        "text": "The ethical considerations \nget more complicated here."
+    },
+    {
+        "index": 53,
+        "start_time": 158403,
+        "end_time": 159807,
+        "text": "In both of our scenarios,"
+    },
+    {
+        "index": 54,
+        "start_time": 159807,
+        "end_time": 164400,
+        "text": "the underlying design is functioning\nas a targeting algorithm of sorts."
+    },
+    {
+        "index": 55,
+        "start_time": 164400,
+        "end_time": 165299,
+        "text": "In other words,"
+    },
+    {
+        "index": 56,
+        "start_time": 165299,
+        "end_time": 167809,
+        "text": "it&#39;s systematically favoring \nor discriminating"
+    },
+    {
+        "index": 57,
+        "start_time": 167809,
+        "end_time": 171298,
+        "text": "against a certain type \nof object to crash into."
+    },
+    {
+        "index": 58,
+        "start_time": 171298,
+        "end_time": 173613,
+        "text": "And the owners of the target vehicles"
+    },
+    {
+        "index": 59,
+        "start_time": 173613,
+        "end_time": 176662,
+        "text": "will suffer the negative consequences\nof this algorithm"
+    },
+    {
+        "index": 60,
+        "start_time": 176662,
+        "end_time": 178747,
+        "text": "through no fault of their own."
+    },
+    {
+        "index": 61,
+        "start_time": 178747,
+        "end_time": 183401,
+        "text": "Our new technologies are opening up\nmany other novel ethical dilemmas."
+    },
+    {
+        "index": 62,
+        "start_time": 183401,
+        "end_time": 185482,
+        "text": "For instance, if you had to \nchoose between"
+    },
+    {
+        "index": 63,
+        "start_time": 185482,
+        "end_time": 189534,
+        "text": "a car that would always save\nas many lives as possible in an accident,"
+    },
+    {
+        "index": 64,
+        "start_time": 189534,
+        "end_time": 192565,
+        "text": "or one that would save you at any cost,"
+    },
+    {
+        "index": 65,
+        "start_time": 192565,
+        "end_time": 194262,
+        "text": "which would you buy?"
+    },
+    {
+        "index": 66,
+        "start_time": 194262,
+        "end_time": 197577,
+        "text": "What happens if the cars start analyzing\nand factoring in"
+    },
+    {
+        "index": 67,
+        "start_time": 197577,
+        "end_time": 201047,
+        "text": "the passengers of the cars\nand the particulars of their lives?"
+    },
+    {
+        "index": 68,
+        "start_time": 201047,
+        "end_time": 203219,
+        "text": "Could it be the case \nthat a random decision"
+    },
+    {
+        "index": 69,
+        "start_time": 203219,
+        "end_time": 208125,
+        "text": "is still better than a predetermined one\ndesigned to minimize harm?"
+    },
+    {
+        "index": 70,
+        "start_time": 208125,
+        "end_time": 210878,
+        "text": "And who should be making \nall of these decisions anyhow?"
+    },
+    {
+        "index": 71,
+        "start_time": 210878,
+        "end_time": 211972,
+        "text": "Programmers?"
+    },
+    {
+        "index": 72,
+        "start_time": 211972,
+        "end_time": 212908,
+        "text": "Companies?"
+    },
+    {
+        "index": 73,
+        "start_time": 212908,
+        "end_time": 214352,
+        "text": "Governments?"
+    },
+    {
+        "index": 74,
+        "start_time": 214352,
+        "end_time": 217566,
+        "text": "Reality may not play out exactly\nlike our thought experiments,"
+    },
+    {
+        "index": 75,
+        "start_time": 217566,
+        "end_time": 219232,
+        "text": "but that&#39;s not the point."
+    },
+    {
+        "index": 76,
+        "start_time": 219232,
+        "end_time": 223603,
+        "text": "They&#39;re designed to isolate \nand stress test our intuitions on ethics,"
+    },
+    {
+        "index": 77,
+        "start_time": 223603,
+        "end_time": 226589,
+        "text": "just like science experiments do\nfor the physical world."
+    },
+    {
+        "index": 78,
+        "start_time": 226589,
+        "end_time": 229979,
+        "text": "Spotting these moral hairpin turns now"
+    },
+    {
+        "index": 79,
+        "start_time": 229979,
+        "end_time": 233550,
+        "text": "will help us maneuver the unfamiliar road\nof technology ethics,"
+    },
+    {
+        "index": 80,
+        "start_time": 233550,
+        "end_time": 237301,
+        "text": "and allow us to cruise confidently\nand conscientiously"
+    },
+    {
+        "index": 81,
+        "start_time": 237301,
+        "end_time": 239648,
+        "text": "into our brave new future."
+    }
+]

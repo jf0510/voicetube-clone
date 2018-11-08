@@ -1,0 +1,542 @@
+[
+    {
+        "index": 1,
+        "start_time": 7011,
+        "end_time": 9401,
+        "text": "A mosquito lands on your arm,"
+    },
+    {
+        "index": 2,
+        "start_time": 9401,
+        "end_time": 13831,
+        "text": "injects its chemicals into your skin, \nand begins to feed."
+    },
+    {
+        "index": 3,
+        "start_time": 13831,
+        "end_time": 18103,
+        "text": "You wouldn\u2019t even know it was there,\nif not for the red lump that appears,"
+    },
+    {
+        "index": 4,
+        "start_time": 18103,
+        "end_time": 20882,
+        "text": "accompanied by a telltale itch."
+    },
+    {
+        "index": 5,
+        "start_time": 20882,
+        "end_time": 24037,
+        "text": "It\u2019s a nuisance, but that bump \nis an important signal"
+    },
+    {
+        "index": 6,
+        "start_time": 24037,
+        "end_time": 26932,
+        "text": "that you\u2019re protected \nby your immune system,"
+    },
+    {
+        "index": 7,
+        "start_time": 26932,
+        "end_time": 31881,
+        "text": "your body\u2019s major safeguard \nagainst infection, illness, and disease."
+    },
+    {
+        "index": 8,
+        "start_time": 31881,
+        "end_time": 35961,
+        "text": "This system is a vast network of cells, \ntissues, and organs"
+    },
+    {
+        "index": 9,
+        "start_time": 35961,
+        "end_time": 40524,
+        "text": "that coordinate your body\u2019s defenses \nagainst any threats to your health."
+    },
+    {
+        "index": 10,
+        "start_time": 40524,
+        "end_time": 45611,
+        "text": "Without it, you\u2019d be exposed to billions \nof bacteria, viruses, and toxins"
+    },
+    {
+        "index": 11,
+        "start_time": 45611,
+        "end_time": 51262,
+        "text": "that could make something as minor\nas a paper cut or a seasonal cold fatal."
+    },
+    {
+        "index": 12,
+        "start_time": 51262,
+        "end_time": 55883,
+        "text": "The immune system relies on millions \nof defensive white blood cells,"
+    },
+    {
+        "index": 13,
+        "start_time": 55883,
+        "end_time": 58002,
+        "text": "also known as leukocytes,"
+    },
+    {
+        "index": 14,
+        "start_time": 58002,
+        "end_time": 60583,
+        "text": "that originate in our bone marrow."
+    },
+    {
+        "index": 15,
+        "start_time": 60583,
+        "end_time": 64279,
+        "text": "These cells migrate into the bloodstream\nand the lymphatic system,"
+    },
+    {
+        "index": 16,
+        "start_time": 64279,
+        "end_time": 68892,
+        "text": "a network of vessels which helps \nclear bodily toxins and waste."
+    },
+    {
+        "index": 17,
+        "start_time": 68892,
+        "end_time": 71354,
+        "text": "Our bodies are teeming with leukocytes:"
+    },
+    {
+        "index": 18,
+        "start_time": 71354,
+        "end_time": 77071,
+        "text": "there are between 4,000 \nand 11,000 in every microliter of blood."
+    },
+    {
+        "index": 19,
+        "start_time": 77071,
+        "end_time": 80588,
+        "text": "As they move around, leukocytes \nwork like security personnel,"
+    },
+    {
+        "index": 20,
+        "start_time": 80588,
+        "end_time": 85620,
+        "text": "constantly screening the blood, \ntissues, and organs for suspicious signs."
+    },
+    {
+        "index": 21,
+        "start_time": 85620,
+        "end_time": 89121,
+        "text": "This system mainly relies \non cues called antigens."
+    },
+    {
+        "index": 22,
+        "start_time": 89121,
+        "end_time": 94254,
+        "text": "These molecular traces on the surface \nof pathogens and other foreign substances"
+    },
+    {
+        "index": 23,
+        "start_time": 94254,
+        "end_time": 96985,
+        "text": "betray the presence of invaders."
+    },
+    {
+        "index": 24,
+        "start_time": 96985,
+        "end_time": 99003,
+        "text": "As soon as the leukocytes detect them,"
+    },
+    {
+        "index": 25,
+        "start_time": 99003,
+        "end_time": 104084,
+        "text": "it takes only minutes for the body\u2019s \nprotective immune response to kick in."
+    },
+    {
+        "index": 26,
+        "start_time": 104084,
+        "end_time": 106275,
+        "text": "Threats to our bodies are hugely variable,"
+    },
+    {
+        "index": 27,
+        "start_time": 106275,
+        "end_time": 109445,
+        "text": "so the immune response \nhas to be equally adaptable."
+    },
+    {
+        "index": 28,
+        "start_time": 109445,
+        "end_time": 112674,
+        "text": "That means relying on many \ndifferent types of leukocytes"
+    },
+    {
+        "index": 29,
+        "start_time": 112674,
+        "end_time": 115685,
+        "text": "to tackle threats in different ways."
+    },
+    {
+        "index": 30,
+        "start_time": 115685,
+        "end_time": 121396,
+        "text": "Despite this diversity, we classify \nleukocytes in two main cellular groups,"
+    },
+    {
+        "index": 31,
+        "start_time": 121396,
+        "end_time": 124005,
+        "text": "which coordinate a two-pronged attack."
+    },
+    {
+        "index": 32,
+        "start_time": 124005,
+        "end_time": 126606,
+        "text": "First, phagocytes trigger \nthe immune response"
+    },
+    {
+        "index": 33,
+        "start_time": 126606,
+        "end_time": 131406,
+        "text": "by sending macrophages \nand dendritic cells into the blood."
+    },
+    {
+        "index": 34,
+        "start_time": 131406,
+        "end_time": 135655,
+        "text": "As these circulate, they destroy\nany foreign cells they encounter,"
+    },
+    {
+        "index": 35,
+        "start_time": 135655,
+        "end_time": 137855,
+        "text": "simply by consuming them."
+    },
+    {
+        "index": 36,
+        "start_time": 137855,
+        "end_time": 139696,
+        "text": "That allows phagocytes to identify"
+    },
+    {
+        "index": 37,
+        "start_time": 139696,
+        "end_time": 142576,
+        "text": "the antigen on the invaders \nthey just ingested"
+    },
+    {
+        "index": 38,
+        "start_time": 142576,
+        "end_time": 146027,
+        "text": "and transmit this information \nto the second major cell group"
+    },
+    {
+        "index": 39,
+        "start_time": 146027,
+        "end_time": 147976,
+        "text": "orchestrating the defense,"
+    },
+    {
+        "index": 40,
+        "start_time": 147976,
+        "end_time": 149739,
+        "text": "the lymphocytes."
+    },
+    {
+        "index": 41,
+        "start_time": 149739,
+        "end_time": 155246,
+        "text": "A group of lymphocyte cells called T-cells\ngo in search of infected body cells"
+    },
+    {
+        "index": 42,
+        "start_time": 155246,
+        "end_time": 157467,
+        "text": "and swiftly kill them off."
+    },
+    {
+        "index": 43,
+        "start_time": 157467,
+        "end_time": 160468,
+        "text": "Meanwhile, B-cells and helper T-cells"
+    },
+    {
+        "index": 44,
+        "start_time": 160468,
+        "end_time": 163477,
+        "text": "use the information gathered \nfrom the unique antigens"
+    },
+    {
+        "index": 45,
+        "start_time": 163477,
+        "end_time": 168036,
+        "text": "to start producing special proteins \ncalled antibodies."
+    },
+    {
+        "index": 46,
+        "start_time": 168036,
+        "end_time": 170287,
+        "text": "This is the pi\u00e8ce de r\u00e9sistance:"
+    },
+    {
+        "index": 47,
+        "start_time": 170287,
+        "end_time": 174837,
+        "text": "Each antigen has a unique, matching \nantibody that can latch onto it"
+    },
+    {
+        "index": 48,
+        "start_time": 174837,
+        "end_time": 176728,
+        "text": "like a lock and key,"
+    },
+    {
+        "index": 49,
+        "start_time": 176728,
+        "end_time": 178897,
+        "text": "and destroy the invading cells."
+    },
+    {
+        "index": 50,
+        "start_time": 178897,
+        "end_time": 181268,
+        "text": "B-cells can produce millions of these,"
+    },
+    {
+        "index": 51,
+        "start_time": 181268,
+        "end_time": 184308,
+        "text": "which then cycle through the body \nand attack the invaders"
+    },
+    {
+        "index": 52,
+        "start_time": 184308,
+        "end_time": 187460,
+        "text": "until the worst of the\nthreat is neutralized."
+    },
+    {
+        "index": 53,
+        "start_time": 187460,
+        "end_time": 189859,
+        "text": "While all of this is going on, \nfamiliar symptoms,"
+    },
+    {
+        "index": 54,
+        "start_time": 189859,
+        "end_time": 192078,
+        "text": "like high temperatures and swelling,"
+    },
+    {
+        "index": 55,
+        "start_time": 192078,
+        "end_time": 196620,
+        "text": "are actually processes designed \nto aid the immune response."
+    },
+    {
+        "index": 56,
+        "start_time": 196620,
+        "end_time": 202029,
+        "text": "A warmer body makes it harder for bacteria\nand viruses to reproduce and spread"
+    },
+    {
+        "index": 57,
+        "start_time": 202029,
+        "end_time": 204169,
+        "text": "because they\u2019re temperature-sensitive."
+    },
+    {
+        "index": 58,
+        "start_time": 204169,
+        "end_time": 206088,
+        "text": "And when body cells are damaged,"
+    },
+    {
+        "index": 59,
+        "start_time": 206088,
+        "end_time": 210298,
+        "text": "they release chemicals that make fluid\nleak into the surrounding tissues,"
+    },
+    {
+        "index": 60,
+        "start_time": 210298,
+        "end_time": 211619,
+        "text": "causing swelling."
+    },
+    {
+        "index": 61,
+        "start_time": 211619,
+        "end_time": 214000,
+        "text": "That also attracts phagocytes,"
+    },
+    {
+        "index": 62,
+        "start_time": 214000,
+        "end_time": 217969,
+        "text": "which consume the invaders\nand the damaged cells."
+    },
+    {
+        "index": 63,
+        "start_time": 217969,
+        "end_time": 222090,
+        "text": "Usually, an immune response \nwill eradicate a threat within a few days."
+    },
+    {
+        "index": 64,
+        "start_time": 222090,
+        "end_time": 226659,
+        "text": "It won\u2019t always stop you from getting ill,\nbut that\u2019s not its purpose."
+    },
+    {
+        "index": 65,
+        "start_time": 226659,
+        "end_time": 229099,
+        "text": "Its actual job is to stop a threat"
+    },
+    {
+        "index": 66,
+        "start_time": 229099,
+        "end_time": 232111,
+        "text": "from escalating to dangerous \nlevels inside your body."
+    },
+    {
+        "index": 67,
+        "start_time": 232111,
+        "end_time": 234601,
+        "text": "And through constant \nsurveillance over time,"
+    },
+    {
+        "index": 68,
+        "start_time": 234601,
+        "end_time": 237128,
+        "text": "the immune system \nprovides another benefit:"
+    },
+    {
+        "index": 69,
+        "start_time": 237128,
+        "end_time": 240460,
+        "text": "it helps us develop long-term immunity."
+    },
+    {
+        "index": 70,
+        "start_time": 240460,
+        "end_time": 243480,
+        "text": "When B- and T-cells identify antigens,"
+    },
+    {
+        "index": 71,
+        "start_time": 243480,
+        "end_time": 247821,
+        "text": "they can use that information \nto recognize invaders in the future."
+    },
+    {
+        "index": 72,
+        "start_time": 247821,
+        "end_time": 251901,
+        "text": "So, when a threat revisits, the cells\ncan swiftly deploy the right antibodies"
+    },
+    {
+        "index": 73,
+        "start_time": 251901,
+        "end_time": 255201,
+        "text": "to tackle it before it affects \nany more cells."
+    },
+    {
+        "index": 74,
+        "start_time": 255201,
+        "end_time": 259381,
+        "text": "That\u2019s how you can develop immunity \nto certain diseases, like chickenpox."
+    },
+    {
+        "index": 75,
+        "start_time": 259381,
+        "end_time": 261771,
+        "text": "It doesn\u2019t always work so well."
+    },
+    {
+        "index": 76,
+        "start_time": 261771,
+        "end_time": 264201,
+        "text": "Some people have autoimmune diseases,"
+    },
+    {
+        "index": 77,
+        "start_time": 264201,
+        "end_time": 265852,
+        "text": "which trick the immune system"
+    },
+    {
+        "index": 78,
+        "start_time": 265852,
+        "end_time": 269652,
+        "text": "into attacking the body\u2019s own \nperfectly healthy cells."
+    },
+    {
+        "index": 79,
+        "start_time": 269652,
+        "end_time": 271981,
+        "text": "No one knows exactly what causes them,"
+    },
+    {
+        "index": 80,
+        "start_time": 271981,
+        "end_time": 276161,
+        "text": "but these disorders sabotage \nthe immune system to varying degrees,"
+    },
+    {
+        "index": 81,
+        "start_time": 276161,
+        "end_time": 278542,
+        "text": "and underlie problems like arthritis,"
+    },
+    {
+        "index": 82,
+        "start_time": 278542,
+        "end_time": 279961,
+        "text": "Type I diabetes,"
+    },
+    {
+        "index": 83,
+        "start_time": 279961,
+        "end_time": 282082,
+        "text": "and multiple sclerosis."
+    },
+    {
+        "index": 84,
+        "start_time": 282082,
+        "end_time": 284100,
+        "text": "For most individuals, however,"
+    },
+    {
+        "index": 85,
+        "start_time": 284100,
+        "end_time": 289162,
+        "text": "a healthy immune system will successfully\nfight off an estimated 300 colds"
+    },
+    {
+        "index": 86,
+        "start_time": 289162,
+        "end_time": 294384,
+        "text": "and innumerable other potential infections\nover the course of a lifetime."
+    },
+    {
+        "index": 87,
+        "start_time": 294384,
+        "end_time": 298441,
+        "text": "Without it, those threats would escalate \ninto something far more dangerous."
+    },
+    {
+        "index": 88,
+        "start_time": 298441,
+        "end_time": 302374,
+        "text": "So the next time you catch a cold \nor scratch a mosquito bite,"
+    },
+    {
+        "index": 89,
+        "start_time": 302374,
+        "end_time": 304144,
+        "text": "think of the immune system."
+    },
+    {
+        "index": 90,
+        "start_time": 304144,
+        "end_time": 305993,
+        "text": "We owe it our lives."
+    }
+]

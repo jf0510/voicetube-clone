@@ -1,0 +1,470 @@
+[
+    {
+        "index": 1,
+        "start_time": 6762,
+        "end_time": 11233,
+        "text": "Aristotle famously said,\n&quot;Nature fears of empty space&quot;"
+    },
+    {
+        "index": 2,
+        "start_time": 11233,
+        "end_time": 16017,
+        "text": "when he claimed that a true vacuum, \na space devoid of matter, could not exist"
+    },
+    {
+        "index": 3,
+        "start_time": 16017,
+        "end_time": 19105,
+        "text": "because the surrounding matter\nwould immediately fill it."
+    },
+    {
+        "index": 4,
+        "start_time": 19105,
+        "end_time": 21994,
+        "text": "Fortunately, he turned out to be wrong."
+    },
+    {
+        "index": 5,
+        "start_time": 21994,
+        "end_time": 25010,
+        "text": "A vacuum is a key component\nof the barometer,"
+    },
+    {
+        "index": 6,
+        "start_time": 25010,
+        "end_time": 27492,
+        "text": "an instrument for measuring air pressure."
+    },
+    {
+        "index": 7,
+        "start_time": 27492,
+        "end_time": 30107,
+        "text": "And because air pressure \ncorrelates to temperature"
+    },
+    {
+        "index": 8,
+        "start_time": 30107,
+        "end_time": 32032,
+        "text": "and rapid shifts in it can contribute to"
+    },
+    {
+        "index": 9,
+        "start_time": 32032,
+        "end_time": 35643,
+        "text": "hurricanes, tornadoes \nand other extreme weather events,"
+    },
+    {
+        "index": 10,
+        "start_time": 35643,
+        "end_time": 38156,
+        "text": "a barometer is one of the\nmost essential tools "
+    },
+    {
+        "index": 11,
+        "start_time": 38156,
+        "end_time": 41840,
+        "text": "for weather forecasters and scientists alike."
+    },
+    {
+        "index": 12,
+        "start_time": 41840,
+        "end_time": 44766,
+        "text": "How does a barometer work,\nand how was it invented?"
+    },
+    {
+        "index": 13,
+        "start_time": 44766,
+        "end_time": 46448,
+        "text": "Well, it took awhile."
+    },
+    {
+        "index": 14,
+        "start_time": 46448,
+        "end_time": 49741,
+        "text": "Because the theory of Aristotle \nand other ancient philosophers"
+    },
+    {
+        "index": 15,
+        "start_time": 49741,
+        "end_time": 54986,
+        "text": "regarding the impossibility of a vacuum\nseemed to hold true in everyday life,"
+    },
+    {
+        "index": 16,
+        "start_time": 54986,
+        "end_time": 59040,
+        "text": "few seriously thought to question it\nfor nearly 2,000 years --"
+    },
+    {
+        "index": 17,
+        "start_time": 59040,
+        "end_time": 61541,
+        "text": "until necessity raised the issue."
+    },
+    {
+        "index": 18,
+        "start_time": 61541,
+        "end_time": 65550,
+        "text": "In the early 17th century,\nItalian miners faced a serious problem"
+    },
+    {
+        "index": 19,
+        "start_time": 65550,
+        "end_time": 68442,
+        "text": "when they found that their pumps\ncould not raise water "
+    },
+    {
+        "index": 20,
+        "start_time": 68442,
+        "end_time": 70822,
+        "text": "more than 10.3 meters high."
+    },
+    {
+        "index": 21,
+        "start_time": 70822,
+        "end_time": 74883,
+        "text": "Some scientists at the time,\nincluding one Galileo Galilei,"
+    },
+    {
+        "index": 22,
+        "start_time": 74883,
+        "end_time": 80310,
+        "text": "proposed that sucking air out of the pipe\nwas what made water rise to replace the void."
+    },
+    {
+        "index": 23,
+        "start_time": 80310,
+        "end_time": 85606,
+        "text": "But that its force was limited and could lift\nno more than 10.3 meters of water."
+    },
+    {
+        "index": 24,
+        "start_time": 85606,
+        "end_time": 88523,
+        "text": "However, the idea of a \nvacuum existing at all"
+    },
+    {
+        "index": 25,
+        "start_time": 88523,
+        "end_time": 90728,
+        "text": "was still considered controversial."
+    },
+    {
+        "index": 26,
+        "start_time": 90728,
+        "end_time": 93647,
+        "text": "And the excitement over \nGalileo&#39;s unorthodox theory,"
+    },
+    {
+        "index": 27,
+        "start_time": 93647,
+        "end_time": 98231,
+        "text": "led Gasparo Berti to conduct a simple\nbut brilliant experiment"
+    },
+    {
+        "index": 28,
+        "start_time": 98231,
+        "end_time": 100213,
+        "text": "to demonstrate that it was possible."
+    },
+    {
+        "index": 29,
+        "start_time": 100213,
+        "end_time": 102402,
+        "text": "A long tube was filled with water"
+    },
+    {
+        "index": 30,
+        "start_time": 102402,
+        "end_time": 106321,
+        "text": "and placed standing in a shallow pool \nwith both ends plugged."
+    },
+    {
+        "index": 31,
+        "start_time": 106321,
+        "end_time": 108948,
+        "text": "The bottom end of the tube \nwas then opened"
+    },
+    {
+        "index": 32,
+        "start_time": 108948,
+        "end_time": 111429,
+        "text": "and water poured out into the basin"
+    },
+    {
+        "index": 33,
+        "start_time": 111429,
+        "end_time": 116096,
+        "text": "until the level of the water remaining \nin the tube was 10.3 meters."
+    },
+    {
+        "index": 34,
+        "start_time": 116096,
+        "end_time": 120017,
+        "text": "With a gap remaining at the top,\nand no air having entered the tube,"
+    },
+    {
+        "index": 35,
+        "start_time": 120017,
+        "end_time": 124401,
+        "text": "Berti had succeeded in\ndirectly creating a stable vacuum."
+    },
+    {
+        "index": 36,
+        "start_time": 124401,
+        "end_time": 128497,
+        "text": "But even though the possibility \nof a vacuum had been demonstrated,"
+    },
+    {
+        "index": 37,
+        "start_time": 128497,
+        "end_time": 131411,
+        "text": "not everyone was satisfied \nwith Galileo&#39;s idea"
+    },
+    {
+        "index": 38,
+        "start_time": 131411,
+        "end_time": 134463,
+        "text": "that this empty void \nwas exerting some mysterious"
+    },
+    {
+        "index": 39,
+        "start_time": 134463,
+        "end_time": 136943,
+        "text": "yet finite force on the water."
+    },
+    {
+        "index": 40,
+        "start_time": 136943,
+        "end_time": 140973,
+        "text": "Evangelista Torricelli, \nGalileo&#39;s young pupil and friend,"
+    },
+    {
+        "index": 41,
+        "start_time": 140973,
+        "end_time": 143676,
+        "text": "decided to look at the problem\nfrom a different angle."
+    },
+    {
+        "index": 42,
+        "start_time": 143676,
+        "end_time": 147017,
+        "text": "Instead of focusing on the \nempty space inside the tube,"
+    },
+    {
+        "index": 43,
+        "start_time": 147017,
+        "end_time": 150390,
+        "text": "he asked himself,\n&quot;What else could be influencing the water?&quot;"
+    },
+    {
+        "index": 44,
+        "start_time": 150390,
+        "end_time": 154328,
+        "text": "Because the only thing in contact \nwith the water was the air surrounding the pool,"
+    },
+    {
+        "index": 45,
+        "start_time": 154328,
+        "end_time": 158159,
+        "text": "he believed the pressure from this air\ncould be the only thing preventing"
+    },
+    {
+        "index": 46,
+        "start_time": 158159,
+        "end_time": 161247,
+        "text": "the water level in the tube\nfrom dropping further."
+    },
+    {
+        "index": 47,
+        "start_time": 161247,
+        "end_time": 165151,
+        "text": "He realized that the experiment \nwas not only a tool to create a vacuum,"
+    },
+    {
+        "index": 48,
+        "start_time": 165151,
+        "end_time": 167288,
+        "text": "but operated as a balance"
+    },
+    {
+        "index": 49,
+        "start_time": 167288,
+        "end_time": 170681,
+        "text": "between the atmospheric pressure\non the water outside the tube"
+    },
+    {
+        "index": 50,
+        "start_time": 170681,
+        "end_time": 173895,
+        "text": "and the pressure from the\nwater column inside the tube."
+    },
+    {
+        "index": 51,
+        "start_time": 173895,
+        "end_time": 178534,
+        "text": "The water level in the tube decreases\nuntil the two pressures are equal,"
+    },
+    {
+        "index": 52,
+        "start_time": 178534,
+        "end_time": 182342,
+        "text": "which just happens to be\nwhen the water is at 10.3 meters."
+    },
+    {
+        "index": 53,
+        "start_time": 182342,
+        "end_time": 184655,
+        "text": "This idea was not easily accepted,"
+    },
+    {
+        "index": 54,
+        "start_time": 184655,
+        "end_time": 187553,
+        "text": "as Galileo and others \nhad traditionally thought"
+    },
+    {
+        "index": 55,
+        "start_time": 187553,
+        "end_time": 192064,
+        "text": "that atmospheric air has no weight\nand exerts no pressure."
+    },
+    {
+        "index": 56,
+        "start_time": 192064,
+        "end_time": 194898,
+        "text": "Torricelli decided to \nrepeat Berti&#39;s experiment"
+    },
+    {
+        "index": 57,
+        "start_time": 194898,
+        "end_time": 196851,
+        "text": "with mercury instead of water."
+    },
+    {
+        "index": 58,
+        "start_time": 196851,
+        "end_time": 200168,
+        "text": "Because mercury was denser, \nit fell farther than the water"
+    },
+    {
+        "index": 59,
+        "start_time": 200168,
+        "end_time": 203994,
+        "text": "and the mercury column stood\nonly about 76 centimeters tall."
+    },
+    {
+        "index": 60,
+        "start_time": 203994,
+        "end_time": 208245,
+        "text": "Not only did this allow Torricelli to make\nthe instrument much more compact,"
+    },
+    {
+        "index": 61,
+        "start_time": 208245,
+        "end_time": 212341,
+        "text": "it supported his idea that weight\nwas the deciding factor."
+    },
+    {
+        "index": 62,
+        "start_time": 212341,
+        "end_time": 217891,
+        "text": "A variation on the experiment used two tubes\nwith one having a large bubble at the top."
+    },
+    {
+        "index": 63,
+        "start_time": 217891,
+        "end_time": 222136,
+        "text": "If Galileo&#39;s interpretation had been correct,\nthe bigger vacuum in the second tube"
+    },
+    {
+        "index": 64,
+        "start_time": 222136,
+        "end_time": 225805,
+        "text": "should have exerted more suction\nand lifted the mercury higher."
+    },
+    {
+        "index": 65,
+        "start_time": 225805,
+        "end_time": 228840,
+        "text": "But the level in both tubes was the same."
+    },
+    {
+        "index": 66,
+        "start_time": 228840,
+        "end_time": 233085,
+        "text": "The ultimate support for Torricelli&#39;s theory\ncame via Blaise Pascal"
+    },
+    {
+        "index": 67,
+        "start_time": 233085,
+        "end_time": 236308,
+        "text": "who had such a mercury tube\ntaken up a mountain"
+    },
+    {
+        "index": 68,
+        "start_time": 236308,
+        "end_time": 238278,
+        "text": "and showed that the mercury level dropped"
+    },
+    {
+        "index": 69,
+        "start_time": 238278,
+        "end_time": 242031,
+        "text": "as the atmospheric pressure\ndecreased with altitude."
+    },
+    {
+        "index": 70,
+        "start_time": 242031,
+        "end_time": 245451,
+        "text": "Mercury barometers based on \nTorricelli&#39;s original model"
+    },
+    {
+        "index": 71,
+        "start_time": 245451,
+        "end_time": 250366,
+        "text": "remained one of the most common ways\nto measure atmospheric pressure until 2007"
+    },
+    {
+        "index": 72,
+        "start_time": 250366,
+        "end_time": 253623,
+        "text": "when restrictions on the use of\nmercury due to its toxicity"
+    },
+    {
+        "index": 73,
+        "start_time": 253623,
+        "end_time": 256853,
+        "text": "led to them no longer\nbeing produced in Europe."
+    },
+    {
+        "index": 74,
+        "start_time": 256853,
+        "end_time": 258932,
+        "text": "Nevertheless, Torricelli&#39;s invention,"
+    },
+    {
+        "index": 75,
+        "start_time": 258932,
+        "end_time": 262076,
+        "text": "born of the willingness to question\nlong accepted dogmas"
+    },
+    {
+        "index": 76,
+        "start_time": 262076,
+        "end_time": 265802,
+        "text": "about vacuums and the weight of air,\nis an outstanding example"
+    },
+    {
+        "index": 77,
+        "start_time": 265802,
+        "end_time": 269077,
+        "text": "of how thinking outside of the box\n-- or the tube --"
+    },
+    {
+        "index": 78,
+        "start_time": 269077,
+        "end_time": 270589,
+        "text": "can have a heavy impact."
+    }
+]

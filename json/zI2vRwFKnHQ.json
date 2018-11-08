@@ -1,0 +1,602 @@
+[
+    {
+        "index": 1,
+        "start_time": 6365,
+        "end_time": 8173,
+        "text": "When we hear the word radiation,"
+    },
+    {
+        "index": 2,
+        "start_time": 8173,
+        "end_time": 13120,
+        "text": "it&#39;s tempting to picture huge explosions\nand frightening mutations,"
+    },
+    {
+        "index": 3,
+        "start_time": 13120,
+        "end_time": 14637,
+        "text": "but that&#39;s not the full story."
+    },
+    {
+        "index": 4,
+        "start_time": 14637,
+        "end_time": 16889,
+        "text": "Radiation also applies to rainbows"
+    },
+    {
+        "index": 5,
+        "start_time": 16889,
+        "end_time": 19846,
+        "text": "and a doctor examining an x-ray."
+    },
+    {
+        "index": 6,
+        "start_time": 19846,
+        "end_time": 21846,
+        "text": "So what is radiation really,"
+    },
+    {
+        "index": 7,
+        "start_time": 21846,
+        "end_time": 25092,
+        "text": "and how much should we worry\nabout its effects?"
+    },
+    {
+        "index": 8,
+        "start_time": 25092,
+        "end_time": 28026,
+        "text": "The answer begins with understanding\nthat the word radiation"
+    },
+    {
+        "index": 9,
+        "start_time": 28026,
+        "end_time": 31627,
+        "text": "describes two very different \nscientific phenomena:"
+    },
+    {
+        "index": 10,
+        "start_time": 31627,
+        "end_time": 33626,
+        "text": "electromagnetic radiation"
+    },
+    {
+        "index": 11,
+        "start_time": 33626,
+        "end_time": 36202,
+        "text": "and nuclear radiation."
+    },
+    {
+        "index": 12,
+        "start_time": 36202,
+        "end_time": 39642,
+        "text": "Electromagnetic radiation is pure energy"
+    },
+    {
+        "index": 13,
+        "start_time": 39642,
+        "end_time": 43638,
+        "text": "consisting of interacting electrical\nand magnetic waves"
+    },
+    {
+        "index": 14,
+        "start_time": 43638,
+        "end_time": 46146,
+        "text": "oscillating through space."
+    },
+    {
+        "index": 15,
+        "start_time": 46146,
+        "end_time": 47847,
+        "text": "As these waves oscillate faster,"
+    },
+    {
+        "index": 16,
+        "start_time": 47847,
+        "end_time": 50488,
+        "text": "they scale up in energy."
+    },
+    {
+        "index": 17,
+        "start_time": 50488,
+        "end_time": 53069,
+        "text": "At the lower end of the spectrum,\nthere&#39;s radio,"
+    },
+    {
+        "index": 18,
+        "start_time": 53069,
+        "end_time": 53879,
+        "text": "infrared,"
+    },
+    {
+        "index": 19,
+        "start_time": 53879,
+        "end_time": 56376,
+        "text": "and visible light."
+    },
+    {
+        "index": 20,
+        "start_time": 56376,
+        "end_time": 58279,
+        "text": "At the higher end are ultraviolet,"
+    },
+    {
+        "index": 21,
+        "start_time": 58279,
+        "end_time": 59213,
+        "text": "X-ray,"
+    },
+    {
+        "index": 22,
+        "start_time": 59213,
+        "end_time": 60962,
+        "text": "and gamma rays."
+    },
+    {
+        "index": 23,
+        "start_time": 60962,
+        "end_time": 66109,
+        "text": "Modern society is shaped by sending\nand detecting electromagnetic radiation."
+    },
+    {
+        "index": 24,
+        "start_time": 66109,
+        "end_time": 70089,
+        "text": "We might download an email to our phone\nvia radio waves"
+    },
+    {
+        "index": 25,
+        "start_time": 70089,
+        "end_time": 72449,
+        "text": "to open an image of an X-ray print,"
+    },
+    {
+        "index": 26,
+        "start_time": 72449,
+        "end_time": 76720,
+        "text": "which we can see because our screen\nemits visible light."
+    },
+    {
+        "index": 27,
+        "start_time": 76720,
+        "end_time": 78941,
+        "text": "Nuclear radiation, on the other hand,"
+    },
+    {
+        "index": 28,
+        "start_time": 78941,
+        "end_time": 81230,
+        "text": "originates in the atomic nucleus,"
+    },
+    {
+        "index": 29,
+        "start_time": 81230,
+        "end_time": 85710,
+        "text": "where protons repel each other\ndue to their mutually positive charges."
+    },
+    {
+        "index": 30,
+        "start_time": 85710,
+        "end_time": 88710,
+        "text": "A phenomenon known as\nthe strong nuclear force"
+    },
+    {
+        "index": 31,
+        "start_time": 88710,
+        "end_time": 91402,
+        "text": "struggles to overcome this repulsion"
+    },
+    {
+        "index": 32,
+        "start_time": 91402,
+        "end_time": 93917,
+        "text": "and keep the nucleus intact."
+    },
+    {
+        "index": 33,
+        "start_time": 93917,
+        "end_time": 97454,
+        "text": "However, some combinations\nof protons and neutrons,"
+    },
+    {
+        "index": 34,
+        "start_time": 97454,
+        "end_time": 98964,
+        "text": "known as isotopes,"
+    },
+    {
+        "index": 35,
+        "start_time": 98964,
+        "end_time": 100990,
+        "text": "remain unstable,"
+    },
+    {
+        "index": 36,
+        "start_time": 100990,
+        "end_time": 103276,
+        "text": "or radioactive."
+    },
+    {
+        "index": 37,
+        "start_time": 103276,
+        "end_time": 106110,
+        "text": "They will randomly eject matter\nand\/or energy,"
+    },
+    {
+        "index": 38,
+        "start_time": 106110,
+        "end_time": 108083,
+        "text": "known as nuclear radiation,"
+    },
+    {
+        "index": 39,
+        "start_time": 108083,
+        "end_time": 110399,
+        "text": "to achieve greater stability."
+    },
+    {
+        "index": 40,
+        "start_time": 110399,
+        "end_time": 114170,
+        "text": "Nuclear radiation comes from natural\nsources, like radon,"
+    },
+    {
+        "index": 41,
+        "start_time": 114170,
+        "end_time": 116509,
+        "text": "a gas which seeps up from the ground."
+    },
+    {
+        "index": 42,
+        "start_time": 116509,
+        "end_time": 120146,
+        "text": "We also refine naturally occurring\nradioactive ores"
+    },
+    {
+        "index": 43,
+        "start_time": 120146,
+        "end_time": 122789,
+        "text": "to fuel nuclear power plants."
+    },
+    {
+        "index": 44,
+        "start_time": 122789,
+        "end_time": 128159,
+        "text": "Even bananas contain trace amounts\nof a radioactive potassium isotope."
+    },
+    {
+        "index": 45,
+        "start_time": 128159,
+        "end_time": 130576,
+        "text": "So if we live in a world of radiation,"
+    },
+    {
+        "index": 46,
+        "start_time": 130576,
+        "end_time": 133603,
+        "text": "how can we escape its dangerous effects?"
+    },
+    {
+        "index": 47,
+        "start_time": 133603,
+        "end_time": 137332,
+        "text": "To start, not all radiation is hazardous."
+    },
+    {
+        "index": 48,
+        "start_time": 137332,
+        "end_time": 143361,
+        "text": "Radiation becomes risky when it rips\natoms&#39; electrons away upon impact,"
+    },
+    {
+        "index": 49,
+        "start_time": 143361,
+        "end_time": 146000,
+        "text": "a process that can damage DNA."
+    },
+    {
+        "index": 50,
+        "start_time": 146000,
+        "end_time": 148636,
+        "text": "This is known as ionizing radiation"
+    },
+    {
+        "index": 51,
+        "start_time": 148636,
+        "end_time": 153460,
+        "text": "because an atom that has lost\nor gained electrons is called an ion."
+    },
+    {
+        "index": 52,
+        "start_time": 153460,
+        "end_time": 156012,
+        "text": "All nuclear radiation is ionizing,"
+    },
+    {
+        "index": 53,
+        "start_time": 156012,
+        "end_time": 160640,
+        "text": "while only the highest energy \nelectromagnetic radiation is."
+    },
+    {
+        "index": 54,
+        "start_time": 160640,
+        "end_time": 161987,
+        "text": "That includes gamma rays,"
+    },
+    {
+        "index": 55,
+        "start_time": 161987,
+        "end_time": 163073,
+        "text": "X-rays,"
+    },
+    {
+        "index": 56,
+        "start_time": 163073,
+        "end_time": 166078,
+        "text": "and the high-energy end of ultraviolet."
+    },
+    {
+        "index": 57,
+        "start_time": 166078,
+        "end_time": 168850,
+        "text": "That&#39;s why as an extra precaution\nduring X-rays,"
+    },
+    {
+        "index": 58,
+        "start_time": 168850,
+        "end_time": 173059,
+        "text": "doctors shield body parts \nthey don&#39;t need to examine,"
+    },
+    {
+        "index": 59,
+        "start_time": 173059,
+        "end_time": 175929,
+        "text": "and why beach-goers use sunscreen."
+    },
+    {
+        "index": 60,
+        "start_time": 175929,
+        "end_time": 181086,
+        "text": "In comparison, cell phones and microwaves\noperate at the lower end of the spectrum,"
+    },
+    {
+        "index": 61,
+        "start_time": 181086,
+        "end_time": 184942,
+        "text": "so there is no risk of ionizing radiation\nfrom their use."
+    },
+    {
+        "index": 62,
+        "start_time": 184942,
+        "end_time": 188709,
+        "text": "The biggest health risk occurs\nwhen lots of ionizing radiation"
+    },
+    {
+        "index": 63,
+        "start_time": 188709,
+        "end_time": 191548,
+        "text": "hits us in a short time period,"
+    },
+    {
+        "index": 64,
+        "start_time": 191548,
+        "end_time": 194440,
+        "text": "also known as an acute exposure."
+    },
+    {
+        "index": 65,
+        "start_time": 194440,
+        "end_time": 199233,
+        "text": "Acute exposures overwhelm the body&#39;s\nnatural ability to repair the damage."
+    },
+    {
+        "index": 66,
+        "start_time": 199233,
+        "end_time": 200610,
+        "text": "This can trigger cancers,"
+    },
+    {
+        "index": 67,
+        "start_time": 200610,
+        "end_time": 202126,
+        "text": "cellular dysfunction,"
+    },
+    {
+        "index": 68,
+        "start_time": 202126,
+        "end_time": 204638,
+        "text": "and potentially even death."
+    },
+    {
+        "index": 69,
+        "start_time": 204638,
+        "end_time": 207154,
+        "text": "Fortunately, acute exposures are rare,"
+    },
+    {
+        "index": 70,
+        "start_time": 207154,
+        "end_time": 211562,
+        "text": "but we are exposed daily to lower levels\nof ionizing radiation"
+    },
+    {
+        "index": 71,
+        "start_time": 211562,
+        "end_time": 215324,
+        "text": "from both natural and man-made sources."
+    },
+    {
+        "index": 72,
+        "start_time": 215324,
+        "end_time": 218842,
+        "text": "Scientists have a harder time quantifying\nthese risks."
+    },
+    {
+        "index": 73,
+        "start_time": 218842,
+        "end_time": 222663,
+        "text": "Your body often repairs damage\nfrom small amounts ionizing radiation,"
+    },
+    {
+        "index": 74,
+        "start_time": 222663,
+        "end_time": 223856,
+        "text": "and if it can&#39;t,"
+    },
+    {
+        "index": 75,
+        "start_time": 223856,
+        "end_time": 228781,
+        "text": "the results of damage may not manifest\nfor a decade or more."
+    },
+    {
+        "index": 76,
+        "start_time": 228781,
+        "end_time": 231873,
+        "text": "One way scientists compare ionizing\nradiation exposure"
+    },
+    {
+        "index": 77,
+        "start_time": 231873,
+        "end_time": 233967,
+        "text": "is a unit called the sievert."
+    },
+    {
+        "index": 78,
+        "start_time": 233967,
+        "end_time": 239376,
+        "text": "An acute exposure to one sievert\nwill probably cause nausea within hours,"
+    },
+    {
+        "index": 79,
+        "start_time": 239376,
+        "end_time": 242175,
+        "text": "and four sieverts could be fatal."
+    },
+    {
+        "index": 80,
+        "start_time": 242175,
+        "end_time": 246042,
+        "text": "However, our normal daily exposures\nare far lower."
+    },
+    {
+        "index": 81,
+        "start_time": 246042,
+        "end_time": 250160,
+        "text": "The average person receives \n6.2 millisieverts of radiation"
+    },
+    {
+        "index": 82,
+        "start_time": 250160,
+        "end_time": 252726,
+        "text": "from all sources annually,"
+    },
+    {
+        "index": 83,
+        "start_time": 252726,
+        "end_time": 255107,
+        "text": "around a third due to radon."
+    },
+    {
+        "index": 84,
+        "start_time": 255107,
+        "end_time": 257518,
+        "text": "At only five microsieverts each,"
+    },
+    {
+        "index": 85,
+        "start_time": 257518,
+        "end_time": 260583,
+        "text": "you&#39;d need to get more \nthan 1200 dental X-rays"
+    },
+    {
+        "index": 86,
+        "start_time": 260583,
+        "end_time": 262862,
+        "text": "to rack up your annual dosage."
+    },
+    {
+        "index": 87,
+        "start_time": 262862,
+        "end_time": 264475,
+        "text": "And remember that banana?"
+    },
+    {
+        "index": 88,
+        "start_time": 264475,
+        "end_time": 267084,
+        "text": "If you could absorb \nall the banana&#39;s radiation,"
+    },
+    {
+        "index": 89,
+        "start_time": 267084,
+        "end_time": 272455,
+        "text": "you&#39;d need around 170 a day\nto hit your annual dosage."
+    },
+    {
+        "index": 90,
+        "start_time": 272455,
+        "end_time": 274580,
+        "text": "We live in a world of radiation."
+    },
+    {
+        "index": 91,
+        "start_time": 274580,
+        "end_time": 278318,
+        "text": "However, much of that radiation\nis non-ionizing."
+    },
+    {
+        "index": 92,
+        "start_time": 278318,
+        "end_time": 280316,
+        "text": "For the remainder that is ionizing,"
+    },
+    {
+        "index": 93,
+        "start_time": 280316,
+        "end_time": 282540,
+        "text": "our exposures are usually low,"
+    },
+    {
+        "index": 94,
+        "start_time": 282540,
+        "end_time": 285269,
+        "text": "and choices like getting your home\ntested for radon"
+    },
+    {
+        "index": 95,
+        "start_time": 285269,
+        "end_time": 287007,
+        "text": "and wearing sunscreen"
+    },
+    {
+        "index": 96,
+        "start_time": 287007,
+        "end_time": 290106,
+        "text": "can help reduce \nthe associated health risks."
+    },
+    {
+        "index": 97,
+        "start_time": 290106,
+        "end_time": 293222,
+        "text": "Marie Curie, \none of the early radiation pioneers,"
+    },
+    {
+        "index": 98,
+        "start_time": 293222,
+        "end_time": 295541,
+        "text": "summed up the challenge as follows:"
+    },
+    {
+        "index": 99,
+        "start_time": 295541,
+        "end_time": 299976,
+        "text": "&quot;Nothing in life is to be feared,\nit is only to be understood."
+    },
+    {
+        "index": 100,
+        "start_time": 299976,
+        "end_time": 304672,
+        "text": "Now is the time to understand more,\nso that we may fear less.&quot;"
+    }
+]

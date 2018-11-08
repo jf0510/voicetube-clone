@@ -1,0 +1,698 @@
+[
+    {
+        "index": 1,
+        "start_time": 7496,
+        "end_time": 9361,
+        "text": "You&#39;re facing a giant bowl"
+    },
+    {
+        "index": 2,
+        "start_time": 9361,
+        "end_time": 12454,
+        "text": "of energy packed Carbon Crunchies."
+    },
+    {
+        "index": 3,
+        "start_time": 12454,
+        "end_time": 15451,
+        "text": "One spoonful. Two. Three."
+    },
+    {
+        "index": 4,
+        "start_time": 15451,
+        "end_time": 17812,
+        "text": "Soon, you&#39;re powered up by the energy surge"
+    },
+    {
+        "index": 5,
+        "start_time": 17812,
+        "end_time": 19703,
+        "text": "that comes from your meal."
+    },
+    {
+        "index": 6,
+        "start_time": 19703,
+        "end_time": 22813,
+        "text": "But how did that energy get into your bowl?"
+    },
+    {
+        "index": 7,
+        "start_time": 22813,
+        "end_time": 25502,
+        "text": "Energy exists in the form of sugars"
+    },
+    {
+        "index": 8,
+        "start_time": 25502,
+        "end_time": 28313,
+        "text": "made by the plant your cereal came from,"
+    },
+    {
+        "index": 9,
+        "start_time": 28313,
+        "end_time": 29979,
+        "text": "like wheat or corn."
+    },
+    {
+        "index": 10,
+        "start_time": 29979,
+        "end_time": 33313,
+        "text": "As you can see, carbon is the chemical backbone,"
+    },
+    {
+        "index": 11,
+        "start_time": 33313,
+        "end_time": 35011,
+        "text": "and plants get their fix of it"
+    },
+    {
+        "index": 12,
+        "start_time": 35011,
+        "end_time": 38515,
+        "text": "in the form of carbon dioxide, CO2,"
+    },
+    {
+        "index": 13,
+        "start_time": 38515,
+        "end_time": 40433,
+        "text": "from the air that we all breath."
+    },
+    {
+        "index": 14,
+        "start_time": 40433,
+        "end_time": 42602,
+        "text": "But how does a plant&#39;s energy factory,"
+    },
+    {
+        "index": 15,
+        "start_time": 42602,
+        "end_time": 45021,
+        "text": "housed in the stroma of the chloroplast,"
+    },
+    {
+        "index": 16,
+        "start_time": 45021,
+        "end_time": 47811,
+        "text": "turn a one carbon gas, like CO2,"
+    },
+    {
+        "index": 17,
+        "start_time": 47811,
+        "end_time": 51774,
+        "text": "into a six carbon solid, like glucose?"
+    },
+    {
+        "index": 18,
+        "start_time": 51774,
+        "end_time": 55029,
+        "text": "If you&#39;re thinking photosynthesis, you&#39;re right."
+    },
+    {
+        "index": 19,
+        "start_time": 55029,
+        "end_time": 58240,
+        "text": "But photosynthesis is divided into two steps."
+    },
+    {
+        "index": 20,
+        "start_time": 58240,
+        "end_time": 60782,
+        "text": "The first, which stores energy from the sun"
+    },
+    {
+        "index": 21,
+        "start_time": 60782,
+        "end_time": 65343,
+        "text": "in the form of adenosine triphosphate, or ATP."
+    },
+    {
+        "index": 22,
+        "start_time": 65343,
+        "end_time": 68842,
+        "text": "And the second, the Calvin cycle, that captures carbon"
+    },
+    {
+        "index": 23,
+        "start_time": 68842,
+        "end_time": 70928,
+        "text": "and turns it into sugar."
+    },
+    {
+        "index": 24,
+        "start_time": 70928,
+        "end_time": 73296,
+        "text": "This second phase represents one of nature&#39;s"
+    },
+    {
+        "index": 25,
+        "start_time": 73296,
+        "end_time": 75796,
+        "text": "most sustainable production lines."
+    },
+    {
+        "index": 26,
+        "start_time": 75796,
+        "end_time": 80426,
+        "text": "And so with that, welcome to world&#39;s most miniscule factory."
+    },
+    {
+        "index": 27,
+        "start_time": 80426,
+        "end_time": 81844,
+        "text": "The starting materials?"
+    },
+    {
+        "index": 28,
+        "start_time": 81844,
+        "end_time": 84308,
+        "text": "A mix of CO2 molecules from the air,"
+    },
+    {
+        "index": 29,
+        "start_time": 84308,
+        "end_time": 86760,
+        "text": "and preassembled molecules called"
+    },
+    {
+        "index": 30,
+        "start_time": 86760,
+        "end_time": 90399,
+        "text": "ribulose biphosphate, or RuBP,"
+    },
+    {
+        "index": 31,
+        "start_time": 90399,
+        "end_time": 92261,
+        "text": "each containing five carbons."
+    },
+    {
+        "index": 32,
+        "start_time": 92261,
+        "end_time": 96178,
+        "text": "The initiator? An industrious enzyme named rubisco"
+    },
+    {
+        "index": 33,
+        "start_time": 96178,
+        "end_time": 99614,
+        "text": "that welds one carbon atom from a CO2 molecule"
+    },
+    {
+        "index": 34,
+        "start_time": 99614,
+        "end_time": 101593,
+        "text": "with the RuBP chain"
+    },
+    {
+        "index": 35,
+        "start_time": 101593,
+        "end_time": 104618,
+        "text": "to build an initial six carbon sequence."
+    },
+    {
+        "index": 36,
+        "start_time": 104618,
+        "end_time": 107873,
+        "text": "That rapidly splits into two shorter chains"
+    },
+    {
+        "index": 37,
+        "start_time": 107873,
+        "end_time": 109874,
+        "text": "containing three carbons each"
+    },
+    {
+        "index": 38,
+        "start_time": 109874,
+        "end_time": 114391,
+        "text": "and called phosphoglycerates, or PGAs, for short."
+    },
+    {
+        "index": 39,
+        "start_time": 114391,
+        "end_time": 117550,
+        "text": "Enter ATP, and another chemical called"
+    },
+    {
+        "index": 40,
+        "start_time": 117550,
+        "end_time": 121678,
+        "text": "nicotinamide adenine dinucleotide phosphate,"
+    },
+    {
+        "index": 41,
+        "start_time": 121678,
+        "end_time": 124806,
+        "text": "or just NADPH."
+    },
+    {
+        "index": 42,
+        "start_time": 124806,
+        "end_time": 127725,
+        "text": "ATP, working like a lubricant, delivers energy,"
+    },
+    {
+        "index": 43,
+        "start_time": 127725,
+        "end_time": 133511,
+        "text": "while NADPH affixes one hydrogen to each of the PGA chains,"
+    },
+    {
+        "index": 44,
+        "start_time": 133511,
+        "end_time": 135427,
+        "text": "changing them into molecules called"
+    },
+    {
+        "index": 45,
+        "start_time": 135427,
+        "end_time": 139610,
+        "text": "glyceraldehyde 3 phosphates, or G3Ps."
+    },
+    {
+        "index": 46,
+        "start_time": 139610,
+        "end_time": 142531,
+        "text": "Glucose needs six carbons to form,"
+    },
+    {
+        "index": 47,
+        "start_time": 142531,
+        "end_time": 145242,
+        "text": "made from two molecules of G3P,"
+    },
+    {
+        "index": 48,
+        "start_time": 145242,
+        "end_time": 148426,
+        "text": "which incidentally have six carbons between them."
+    },
+    {
+        "index": 49,
+        "start_time": 148426,
+        "end_time": 150844,
+        "text": "So, sugar has just been manufactured, right?"
+    },
+    {
+        "index": 50,
+        "start_time": 150844,
+        "end_time": 152511,
+        "text": "Not quite."
+    },
+    {
+        "index": 51,
+        "start_time": 152511,
+        "end_time": 155878,
+        "text": "The Calvin cycle works like a sustainable production line,"
+    },
+    {
+        "index": 52,
+        "start_time": 155878,
+        "end_time": 158178,
+        "text": "meaning that those original RuBPs"
+    },
+    {
+        "index": 53,
+        "start_time": 158178,
+        "end_time": 160272,
+        "text": "that kicked things off at the start,"
+    },
+    {
+        "index": 54,
+        "start_time": 160272,
+        "end_time": 162727,
+        "text": "need to be recreated by reusing materials"
+    },
+    {
+        "index": 55,
+        "start_time": 162727,
+        "end_time": 164359,
+        "text": "within the cycle now."
+    },
+    {
+        "index": 56,
+        "start_time": 164359,
+        "end_time": 166976,
+        "text": "But each RuBP needs five carbons"
+    },
+    {
+        "index": 57,
+        "start_time": 166976,
+        "end_time": 169809,
+        "text": "and manufacturing glucose takes a whole six."
+    },
+    {
+        "index": 58,
+        "start_time": 169809,
+        "end_time": 171394,
+        "text": "Something doesn&#39;t add up."
+    },
+    {
+        "index": 59,
+        "start_time": 171394,
+        "end_time": 174195,
+        "text": "The answer lies in one phenomenal fact."
+    },
+    {
+        "index": 60,
+        "start_time": 174195,
+        "end_time": 177225,
+        "text": "While we&#39;ve been focusing on this single production line,"
+    },
+    {
+        "index": 61,
+        "start_time": 177225,
+        "end_time": 180725,
+        "text": "five others have been happening at the same time."
+    },
+    {
+        "index": 62,
+        "start_time": 180725,
+        "end_time": 183662,
+        "text": "With six conveyor belts moving in unison,"
+    },
+    {
+        "index": 63,
+        "start_time": 183662,
+        "end_time": 185809,
+        "text": "there isn&#39;t just one carbon that gets soldered"
+    },
+    {
+        "index": 64,
+        "start_time": 185809,
+        "end_time": 187416,
+        "text": "to one RuBP chain,"
+    },
+    {
+        "index": 65,
+        "start_time": 187416,
+        "end_time": 191590,
+        "text": "but six carbons soldered to six RuBPs."
+    },
+    {
+        "index": 66,
+        "start_time": 191590,
+        "end_time": 195091,
+        "text": "That creates 12 G3P chains instead of just two,"
+    },
+    {
+        "index": 67,
+        "start_time": 195091,
+        "end_time": 198726,
+        "text": "meaning that all together, 36 carbons exist:"
+    },
+    {
+        "index": 68,
+        "start_time": 198726,
+        "end_time": 201308,
+        "text": "the precise number needed to manufacture sugar,"
+    },
+    {
+        "index": 69,
+        "start_time": 201308,
+        "end_time": 204392,
+        "text": "and rebuild those RuBPs."
+    },
+    {
+        "index": 70,
+        "start_time": 204392,
+        "end_time": 207187,
+        "text": "Of the 12 G3Ps pooled together,"
+    },
+    {
+        "index": 71,
+        "start_time": 207187,
+        "end_time": 208940,
+        "text": "two are siphoned off to form"
+    },
+    {
+        "index": 72,
+        "start_time": 208940,
+        "end_time": 212309,
+        "text": "that energy rich six carbon glucose chain."
+    },
+    {
+        "index": 73,
+        "start_time": 212309,
+        "end_time": 215614,
+        "text": "The one fueling you via your breakfast. Success!"
+    },
+    {
+        "index": 74,
+        "start_time": 215614,
+        "end_time": 217617,
+        "text": "But back on the manufacturing line,"
+    },
+    {
+        "index": 75,
+        "start_time": 217617,
+        "end_time": 219617,
+        "text": "the byproducts of this sugar production"
+    },
+    {
+        "index": 76,
+        "start_time": 219617,
+        "end_time": 224202,
+        "text": "are swiftly assembled to recreate those six RuBPs."
+    },
+    {
+        "index": 77,
+        "start_time": 224202,
+        "end_time": 226892,
+        "text": "That requires 30 carbons,"
+    },
+    {
+        "index": 78,
+        "start_time": 226892,
+        "end_time": 231002,
+        "text": "the exact number contained by the remaining 10 G3PS."
+    },
+    {
+        "index": 79,
+        "start_time": 231002,
+        "end_time": 234315,
+        "text": "Now a molecular mix and match occurs."
+    },
+    {
+        "index": 80,
+        "start_time": 234315,
+        "end_time": 236422,
+        "text": "Two of the G3Ps are welded together"
+    },
+    {
+        "index": 81,
+        "start_time": 236422,
+        "end_time": 238589,
+        "text": "forming a six carbon sequence."
+    },
+    {
+        "index": 82,
+        "start_time": 238589,
+        "end_time": 242875,
+        "text": "By adding a third G3P, a nine carbon chain is built."
+    },
+    {
+        "index": 83,
+        "start_time": 242875,
+        "end_time": 245957,
+        "text": "The first RuBP, made up of five carbons,"
+    },
+    {
+        "index": 84,
+        "start_time": 245957,
+        "end_time": 247599,
+        "text": "is cast from this,"
+    },
+    {
+        "index": 85,
+        "start_time": 247599,
+        "end_time": 249559,
+        "text": "leaving four carbons behind."
+    },
+    {
+        "index": 86,
+        "start_time": 249559,
+        "end_time": 251104,
+        "text": "But there&#39;s no wastage here."
+    },
+    {
+        "index": 87,
+        "start_time": 251104,
+        "end_time": 254293,
+        "text": "Those are soldered to a fourth G3P molecule,"
+    },
+    {
+        "index": 88,
+        "start_time": 254293,
+        "end_time": 256315,
+        "text": "making a seven carbon chain."
+    },
+    {
+        "index": 89,
+        "start_time": 256315,
+        "end_time": 258541,
+        "text": "Added to a fifth G3P molecule,"
+    },
+    {
+        "index": 90,
+        "start_time": 258541,
+        "end_time": 260707,
+        "text": "a ten carbon chain is created,"
+    },
+    {
+        "index": 91,
+        "start_time": 260707,
+        "end_time": 264074,
+        "text": "enough now to craft two more RuBPs."
+    },
+    {
+        "index": 92,
+        "start_time": 264074,
+        "end_time": 266875,
+        "text": "With three full RuBPs recreated"
+    },
+    {
+        "index": 93,
+        "start_time": 266875,
+        "end_time": 269204,
+        "text": "from five of the ten G3Ps,"
+    },
+    {
+        "index": 94,
+        "start_time": 269204,
+        "end_time": 271207,
+        "text": "simply duplicating this process"
+    },
+    {
+        "index": 95,
+        "start_time": 271207,
+        "end_time": 273875,
+        "text": "will renew the six RuBP chains"
+    },
+    {
+        "index": 96,
+        "start_time": 273875,
+        "end_time": 276671,
+        "text": "needed to restart the cycle again."
+    },
+    {
+        "index": 97,
+        "start_time": 276671,
+        "end_time": 279089,
+        "text": "So the Calvin cycle generates the precise number"
+    },
+    {
+        "index": 98,
+        "start_time": 279089,
+        "end_time": 280793,
+        "text": "of elements and processes"
+    },
+    {
+        "index": 99,
+        "start_time": 280793,
+        "end_time": 283375,
+        "text": "required to keep this biochemical production line"
+    },
+    {
+        "index": 100,
+        "start_time": 283375,
+        "end_time": 285208,
+        "text": "turning endlessly."
+    },
+    {
+        "index": 101,
+        "start_time": 285208,
+        "end_time": 287127,
+        "text": "And it&#39;s just one of the 100s of cycles"
+    },
+    {
+        "index": 102,
+        "start_time": 287127,
+        "end_time": 288625,
+        "text": "present in nature."
+    },
+    {
+        "index": 103,
+        "start_time": 288625,
+        "end_time": 289959,
+        "text": "Why so many?"
+    },
+    {
+        "index": 104,
+        "start_time": 289959,
+        "end_time": 293060,
+        "text": "Because if biological production processes were linear,"
+    },
+    {
+        "index": 105,
+        "start_time": 293060,
+        "end_time": 295730,
+        "text": "they wouldn&#39;t be nearly as efficient or successful"
+    },
+    {
+        "index": 106,
+        "start_time": 295730,
+        "end_time": 298444,
+        "text": "at using energy to manufacture the materials"
+    },
+    {
+        "index": 107,
+        "start_time": 298444,
+        "end_time": 301238,
+        "text": "that nature relies upon, like sugar."
+    },
+    {
+        "index": 108,
+        "start_time": 301238,
+        "end_time": 303355,
+        "text": "Cycles create vital feedback loops"
+    },
+    {
+        "index": 109,
+        "start_time": 303355,
+        "end_time": 306857,
+        "text": "that repeatedly reuse and rebuild ingredients"
+    },
+    {
+        "index": 110,
+        "start_time": 306857,
+        "end_time": 308609,
+        "text": "crafting as much as possible"
+    },
+    {
+        "index": 111,
+        "start_time": 308609,
+        "end_time": 310987,
+        "text": "out of the planet&#39;s available resources."
+    },
+    {
+        "index": 112,
+        "start_time": 310987,
+        "end_time": 312768,
+        "text": "Such as that sugar,"
+    },
+    {
+        "index": 113,
+        "start_time": 312768,
+        "end_time": 314819,
+        "text": "built using raw sunlight and carbon"
+    },
+    {
+        "index": 114,
+        "start_time": 314819,
+        "end_time": 316650,
+        "text": "converted in plant factories"
+    },
+    {
+        "index": 115,
+        "start_time": 316650,
+        "end_time": 318653,
+        "text": "to become the energy that powers you"
+    },
+    {
+        "index": 116,
+        "start_time": 318653,
+        "end_time": 321652,
+        "text": "and keeps the cycles revolving in your own life."
+    }
+]

@@ -1,0 +1,464 @@
+[
+    {
+        "index": 1,
+        "start_time": 6677,
+        "end_time": 11306,
+        "text": "How is it that so many \nintergalactic species in movies and TV"
+    },
+    {
+        "index": 2,
+        "start_time": 11306,
+        "end_time": 14483,
+        "text": "just happen to speak perfect English?"
+    },
+    {
+        "index": 3,
+        "start_time": 14483,
+        "end_time": 17886,
+        "text": "The short answer is that no one\nwants to watch a starship crew"
+    },
+    {
+        "index": 4,
+        "start_time": 17886,
+        "end_time": 21774,
+        "text": "spend years compiling an alien dictionary."
+    },
+    {
+        "index": 5,
+        "start_time": 21774,
+        "end_time": 23392,
+        "text": "But to keep things consistent,"
+    },
+    {
+        "index": 6,
+        "start_time": 23392,
+        "end_time": 26789,
+        "text": "the creators of Star Trek\nand other science-fiction worlds"
+    },
+    {
+        "index": 7,
+        "start_time": 26789,
+        "end_time": 30514,
+        "text": "have introduced the concept\nof a universal translator,"
+    },
+    {
+        "index": 8,
+        "start_time": 30514,
+        "end_time": 35012,
+        "text": "a portable device that can instantly\ntranslate between any languages."
+    },
+    {
+        "index": 9,
+        "start_time": 35012,
+        "end_time": 38539,
+        "text": "So is a universal translator \npossible in real life?"
+    },
+    {
+        "index": 10,
+        "start_time": 38539,
+        "end_time": 42137,
+        "text": "We already have many programs\nthat claim to do just that,"
+    },
+    {
+        "index": 11,
+        "start_time": 42137,
+        "end_time": 45954,
+        "text": "taking a word, sentence, \nor entire book in one language"
+    },
+    {
+        "index": 12,
+        "start_time": 45954,
+        "end_time": 49004,
+        "text": "and translating it into almost any other,"
+    },
+    {
+        "index": 13,
+        "start_time": 49004,
+        "end_time": 52337,
+        "text": "whether it&#39;s modern English\nor Ancient Sanskrit."
+    },
+    {
+        "index": 14,
+        "start_time": 52337,
+        "end_time": 55913,
+        "text": "And if translation were just a matter\nof looking up words in a dictionary,"
+    },
+    {
+        "index": 15,
+        "start_time": 55913,
+        "end_time": 59825,
+        "text": "these programs would run circles\naround humans."
+    },
+    {
+        "index": 16,
+        "start_time": 59825,
+        "end_time": 63299,
+        "text": "The reality, however, \nis a bit more complicated."
+    },
+    {
+        "index": 17,
+        "start_time": 63299,
+        "end_time": 67349,
+        "text": "A rule-based translation program\nuses a lexical database,"
+    },
+    {
+        "index": 18,
+        "start_time": 67349,
+        "end_time": 70302,
+        "text": "which includes all the words \nyou&#39;d find in a dictionary"
+    },
+    {
+        "index": 19,
+        "start_time": 70302,
+        "end_time": 73283,
+        "text": "and all grammatical forms they can take,"
+    },
+    {
+        "index": 20,
+        "start_time": 73283,
+        "end_time": 78925,
+        "text": "and set of rules to recognize the basic\nlinguistic elements in the input language."
+    },
+    {
+        "index": 21,
+        "start_time": 78925,
+        "end_time": 82396,
+        "text": "For a seemingly simple sentence like,\n&quot;The children eat the muffins,&quot;"
+    },
+    {
+        "index": 22,
+        "start_time": 82396,
+        "end_time": 87050,
+        "text": "the program first parses its syntax,\nor grammatical structure,"
+    },
+    {
+        "index": 23,
+        "start_time": 87050,
+        "end_time": 89587,
+        "text": "by identifying the children \nas the subject,"
+    },
+    {
+        "index": 24,
+        "start_time": 89587,
+        "end_time": 92317,
+        "text": "and the rest of the sentence \nas the predicate"
+    },
+    {
+        "index": 25,
+        "start_time": 92317,
+        "end_time": 94368,
+        "text": "consisting of a verb &quot;eat,&quot;"
+    },
+    {
+        "index": 26,
+        "start_time": 94368,
+        "end_time": 97422,
+        "text": "and a direct object &quot;the muffins.&quot;"
+    },
+    {
+        "index": 27,
+        "start_time": 97422,
+        "end_time": 100249,
+        "text": "It then needs to recognize\nEnglish morphology,"
+    },
+    {
+        "index": 28,
+        "start_time": 100249,
+        "end_time": 104681,
+        "text": "or how the language can be broken down\ninto its smallest meaningful units,"
+    },
+    {
+        "index": 29,
+        "start_time": 104681,
+        "end_time": 106124,
+        "text": "such as the word muffin"
+    },
+    {
+        "index": 30,
+        "start_time": 106124,
+        "end_time": 109755,
+        "text": "and the suffix &quot;s,&quot; \nused to indicate plural."
+    },
+    {
+        "index": 31,
+        "start_time": 109755,
+        "end_time": 112449,
+        "text": "Finally, it needs to understand \nthe semantics,"
+    },
+    {
+        "index": 32,
+        "start_time": 112449,
+        "end_time": 116178,
+        "text": "what the different parts of the sentence\nactually mean."
+    },
+    {
+        "index": 33,
+        "start_time": 116178,
+        "end_time": 118074,
+        "text": "To translate this sentence properly,"
+    },
+    {
+        "index": 34,
+        "start_time": 118074,
+        "end_time": 121982,
+        "text": "the program would refer to a different set\nof vocabulary and rules"
+    },
+    {
+        "index": 35,
+        "start_time": 121982,
+        "end_time": 125166,
+        "text": "for each element of the target language."
+    },
+    {
+        "index": 36,
+        "start_time": 125166,
+        "end_time": 127020,
+        "text": "But this is where it gets tricky."
+    },
+    {
+        "index": 37,
+        "start_time": 127020,
+        "end_time": 131820,
+        "text": "The syntax of some languages\nallows words to be arranged in any order,"
+    },
+    {
+        "index": 38,
+        "start_time": 131820,
+        "end_time": 136954,
+        "text": "while in others, doing so could make\nthe muffin eat the child."
+    },
+    {
+        "index": 39,
+        "start_time": 136954,
+        "end_time": 139647,
+        "text": "Morphology can also pose a problem."
+    },
+    {
+        "index": 40,
+        "start_time": 139647,
+        "end_time": 143243,
+        "text": "Slovene distinguishes between\ntwo children and three or more"
+    },
+    {
+        "index": 41,
+        "start_time": 143243,
+        "end_time": 147097,
+        "text": "using a dual suffix absent \nin many other languages,"
+    },
+    {
+        "index": 42,
+        "start_time": 147097,
+        "end_time": 150532,
+        "text": "while Russian&#39;s lack of definite articles\nmight leave you wondering"
+    },
+    {
+        "index": 43,
+        "start_time": 150532,
+        "end_time": 153575,
+        "text": "whether the children are eating \nsome particular muffins,"
+    },
+    {
+        "index": 44,
+        "start_time": 153575,
+        "end_time": 156719,
+        "text": "or just eat muffins in general."
+    },
+    {
+        "index": 45,
+        "start_time": 156719,
+        "end_time": 159708,
+        "text": "Finally, even when the semantics\nare technically correct,"
+    },
+    {
+        "index": 46,
+        "start_time": 159708,
+        "end_time": 162757,
+        "text": "the program might miss their finer points,"
+    },
+    {
+        "index": 47,
+        "start_time": 162757,
+        "end_time": 165809,
+        "text": "such as whether the children \n&quot;mangiano&quot; the muffins,"
+    },
+    {
+        "index": 48,
+        "start_time": 165809,
+        "end_time": 167794,
+        "text": "or &quot;divorano&quot; them."
+    },
+    {
+        "index": 49,
+        "start_time": 167794,
+        "end_time": 171558,
+        "text": "Another method is \nstatistical machine translation,"
+    },
+    {
+        "index": 50,
+        "start_time": 171558,
+        "end_time": 175762,
+        "text": "which analyzes a database \nof books, articles, and documents"
+    },
+    {
+        "index": 51,
+        "start_time": 175762,
+        "end_time": 179488,
+        "text": "that have already \nbeen translated by humans."
+    },
+    {
+        "index": 52,
+        "start_time": 179488,
+        "end_time": 182959,
+        "text": "By finding matches between source\nand translated text"
+    },
+    {
+        "index": 53,
+        "start_time": 182959,
+        "end_time": 185393,
+        "text": "that are unlikely to occur by chance,"
+    },
+    {
+        "index": 54,
+        "start_time": 185393,
+        "end_time": 189345,
+        "text": "the program can identify corresponding\nphrases and patterns,"
+    },
+    {
+        "index": 55,
+        "start_time": 189345,
+        "end_time": 192429,
+        "text": "and use them for future translations."
+    },
+    {
+        "index": 56,
+        "start_time": 192429,
+        "end_time": 194969,
+        "text": "However, the quality \nof this type of translation"
+    },
+    {
+        "index": 57,
+        "start_time": 194969,
+        "end_time": 197690,
+        "text": "depends on the size \nof the initial database"
+    },
+    {
+        "index": 58,
+        "start_time": 197690,
+        "end_time": 201357,
+        "text": "and the availability of samples \nfor certain languages"
+    },
+    {
+        "index": 59,
+        "start_time": 201357,
+        "end_time": 203383,
+        "text": "or styles of writing."
+    },
+    {
+        "index": 60,
+        "start_time": 203383,
+        "end_time": 207140,
+        "text": "The difficulty that computers have\nwith the exceptions, irregularities"
+    },
+    {
+        "index": 61,
+        "start_time": 207140,
+        "end_time": 210994,
+        "text": "and shades of meaning\nthat seem to come instinctively to humans"
+    },
+    {
+        "index": 62,
+        "start_time": 210994,
+        "end_time": 215045,
+        "text": "has led some researchers to believe\nthat our understanding of language"
+    },
+    {
+        "index": 63,
+        "start_time": 215045,
+        "end_time": 219251,
+        "text": "is a unique product \nof our biological brain structure."
+    },
+    {
+        "index": 64,
+        "start_time": 219251,
+        "end_time": 223101,
+        "text": "In fact, one of the most famous\nfictional universal translators,"
+    },
+    {
+        "index": 65,
+        "start_time": 223101,
+        "end_time": 226439,
+        "text": "the Babel fish from \n&quot;The Hitchhiker&#39;s Guide to the Galaxy&quot;,"
+    },
+    {
+        "index": 66,
+        "start_time": 226439,
+        "end_time": 229726,
+        "text": "is not a machine at all\nbut a small creature"
+    },
+    {
+        "index": 67,
+        "start_time": 229726,
+        "end_time": 234210,
+        "text": "that translates the brain waves\nand nerve signals of sentient species"
+    },
+    {
+        "index": 68,
+        "start_time": 234210,
+        "end_time": 237005,
+        "text": "through a form of telepathy."
+    },
+    {
+        "index": 69,
+        "start_time": 237005,
+        "end_time": 239726,
+        "text": "For now, learning a language\nthe old fashioned way"
+    },
+    {
+        "index": 70,
+        "start_time": 239726,
+        "end_time": 245106,
+        "text": "will still give you better results than\nany currently available computer program."
+    },
+    {
+        "index": 71,
+        "start_time": 245106,
+        "end_time": 246749,
+        "text": "But this is no easy task,"
+    },
+    {
+        "index": 72,
+        "start_time": 246749,
+        "end_time": 249014,
+        "text": "and the sheer number \nof languages in the world,"
+    },
+    {
+        "index": 73,
+        "start_time": 249014,
+        "end_time": 252989,
+        "text": "as well as the increasing interaction\nbetween the people who speak them,"
+    },
+    {
+        "index": 74,
+        "start_time": 252989,
+        "end_time": 258004,
+        "text": "will only continue to spur greater\nadvances in automatic translation."
+    },
+    {
+        "index": 75,
+        "start_time": 258004,
+        "end_time": 261409,
+        "text": "Perhaps by the time we encounter\nintergalactic life forms,"
+    },
+    {
+        "index": 76,
+        "start_time": 261409,
+        "end_time": 264660,
+        "text": "we&#39;ll be able to communicate with them\nthrough a tiny gizmo,"
+    },
+    {
+        "index": 77,
+        "start_time": 264660,
+        "end_time": 269026,
+        "text": "or we might have to start compiling\nthat dictionary, after all."
+    }
+]

@@ -1,0 +1,356 @@
+[
+  {
+    "end_time": 1397,
+    "index": 1,
+    "start_time": 20,
+    "text": "- Oh, hey, I just blew it up in there."
+  },
+  {
+    "end_time": 2372,
+    "index": 2,
+    "start_time": 1397,
+    "text": "You might want to wait."
+  },
+  {
+    "end_time": 3162,
+    "index": 3,
+    "start_time": 2372,
+    "text": "- Okay."
+  },
+  {
+    "end_time": 4000,
+    "index": 4,
+    "start_time": 3162,
+    "text": "- Cool."
+  },
+  {
+    "end_time": 7157,
+    "index": 5,
+    "start_time": 5148,
+    "text": "(happy music)"
+  },
+  {
+    "end_time": 9389,
+    "index": 6,
+    "start_time": 8066,
+    "text": "- Hey, can you drive me to the airport"
+  },
+  {
+    "end_time": 11061,
+    "index": 7,
+    "start_time": 9389,
+    "text": "tomorrow morning at 5?"
+  },
+  {
+    "end_time": 12192,
+    "index": 8,
+    "start_time": 11061,
+    "text": "- Yeah, whatever."
+  },
+  {
+    "end_time": 12895,
+    "index": 9,
+    "start_time": 12192,
+    "text": "- Cool."
+  },
+  {
+    "end_time": 14844,
+    "index": 10,
+    "start_time": 12895,
+    "text": "- Yo, there&#39;s some beer in\nthe fridge if you want some."
+  },
+  {
+    "end_time": 15635,
+    "index": 11,
+    "start_time": 14845,
+    "text": "- Cool."
+  },
+  {
+    "end_time": 17104,
+    "index": 12,
+    "start_time": 15635,
+    "text": "- Hey, I&#39;m gonna have a girl over later."
+  },
+  {
+    "end_time": 19971,
+    "index": 13,
+    "start_time": 17104,
+    "text": "Is it cool if we use the TV?"
+  },
+  {
+    "end_time": 20735,
+    "index": 14,
+    "start_time": 19972,
+    "text": "- Sure."
+  },
+  {
+    "end_time": 21445,
+    "index": 15,
+    "start_time": 20735,
+    "text": "- Cool."
+  },
+  {
+    "end_time": 22309,
+    "index": 16,
+    "start_time": 21445,
+    "text": "- Hey, I mowed the lawn"
+  },
+  {
+    "end_time": 23956,
+    "index": 17,
+    "start_time": 22309,
+    "text": "&#39;cause I knew you were too busy to."
+  },
+  {
+    "end_time": 25372,
+    "index": 18,
+    "start_time": 23956,
+    "text": "- Thanks."
+  },
+  {
+    "end_time": 26115,
+    "index": 19,
+    "start_time": 25372,
+    "text": "- No worries."
+  },
+  {
+    "end_time": 28413,
+    "index": 20,
+    "start_time": 26115,
+    "text": "- I took down all the Christmas\nstuff when you were gone."
+  },
+  {
+    "end_time": 29568,
+    "index": 21,
+    "start_time": 28414,
+    "text": "- Sweet."
+  },
+  {
+    "end_time": 30275,
+    "index": 22,
+    "start_time": 29568,
+    "text": "- Cool."
+  },
+  {
+    "end_time": 31363,
+    "index": 23,
+    "start_time": 30275,
+    "text": "- Hey, I like your glasses."
+  },
+  {
+    "end_time": 32894,
+    "index": 24,
+    "start_time": 31363,
+    "text": "- Thanks. I like your shirt."
+  },
+  {
+    "end_time": 33599,
+    "index": 25,
+    "start_time": 32895,
+    "text": "- Thanks."
+  },
+  {
+    "end_time": 35425,
+    "index": 26,
+    "start_time": 33599,
+    "text": "- Hey, did you eat my burrito?"
+  },
+  {
+    "end_time": 37284,
+    "index": 27,
+    "start_time": 35426,
+    "text": "- Yeah."
+  },
+  {
+    "end_time": 38904,
+    "index": 28,
+    "start_time": 37284,
+    "text": "- Thanks for being honest with me."
+  },
+  {
+    "end_time": 40028,
+    "index": 29,
+    "start_time": 38904,
+    "text": "- I&#39;ll get you back."
+  },
+  {
+    "end_time": 40732,
+    "index": 30,
+    "start_time": 40028,
+    "text": "- Cool."
+  },
+  {
+    "end_time": 42677,
+    "index": 31,
+    "start_time": 40732,
+    "text": "- I haven&#39;t started the show\nyet. I was waiting for you."
+  },
+  {
+    "end_time": 44629,
+    "index": 32,
+    "start_time": 42689,
+    "text": "- Oh, cool. We can start now."
+  },
+  {
+    "end_time": 45330,
+    "index": 33,
+    "start_time": 44629,
+    "text": "- Cool."
+  },
+  {
+    "end_time": 46449,
+    "index": 34,
+    "start_time": 45330,
+    "text": "- How was your day?"
+  },
+  {
+    "end_time": 48447,
+    "index": 35,
+    "start_time": 46450,
+    "text": "- Fine. Yours?"
+  },
+  {
+    "end_time": 49774,
+    "index": 36,
+    "start_time": 48447,
+    "text": "- It was whatever."
+  },
+  {
+    "end_time": 50480,
+    "index": 37,
+    "start_time": 49774,
+    "text": "- Cool."
+  },
+  {
+    "end_time": 52580,
+    "index": 38,
+    "start_time": 50480,
+    "text": "- Did you get the same\nsunglasses that I already own?"
+  },
+  {
+    "end_time": 54298,
+    "index": 39,
+    "start_time": 52580,
+    "text": "- Yeah. Is that cool?"
+  },
+  {
+    "end_time": 55668,
+    "index": 40,
+    "start_time": 54298,
+    "text": "- It&#39;s fine."
+  },
+  {
+    "end_time": 58524,
+    "index": 41,
+    "start_time": 55668,
+    "text": "- Can I borrow your new\njacket for my date tonight?"
+  },
+  {
+    "end_time": 59453,
+    "index": 42,
+    "start_time": 58524,
+    "text": "- It&#39;s fine."
+  },
+  {
+    "end_time": 60172,
+    "index": 43,
+    "start_time": 59453,
+    "text": "- Cool."
+  },
+  {
+    "end_time": 61333,
+    "index": 44,
+    "start_time": 60172,
+    "text": "- Hey, I just won two tickets"
+  },
+  {
+    "end_time": 62610,
+    "index": 45,
+    "start_time": 61333,
+    "text": "for the Superbowl on the radio."
+  },
+  {
+    "end_time": 63705,
+    "index": 46,
+    "start_time": 62610,
+    "text": "Do you wanna go with me?"
+  },
+  {
+    "end_time": 64422,
+    "index": 47,
+    "start_time": 63705,
+    "text": "- Hell yeah."
+  },
+  {
+    "end_time": 65128,
+    "index": 48,
+    "start_time": 64422,
+    "text": "- Cool."
+  },
+  {
+    "end_time": 67301,
+    "index": 49,
+    "start_time": 65128,
+    "text": "- Hey, are you busy right now?"
+  },
+  {
+    "end_time": 68229,
+    "index": 50,
+    "start_time": 67301,
+    "text": "- No."
+  },
+  {
+    "end_time": 69460,
+    "index": 51,
+    "start_time": 68229,
+    "text": "- Cool."
+  },
+  {
+    "end_time": 71457,
+    "index": 52,
+    "start_time": 69460,
+    "text": "I just kind of wanted to\nget something off my chest."
+  },
+  {
+    "end_time": 74954,
+    "index": 53,
+    "start_time": 71457,
+    "text": "- What&#39;s up?"
+  },
+  {
+    "end_time": 76324,
+    "index": 54,
+    "start_time": 74954,
+    "text": "- I just blew up the bathroom,"
+  },
+  {
+    "end_time": 78483,
+    "index": 55,
+    "start_time": 76324,
+    "text": "so I wouldn&#39;t go in there\nfor another like 25 minutes."
+  },
+  {
+    "end_time": 80758,
+    "index": 56,
+    "start_time": 78483,
+    "text": "It&#39;s bad."
+  },
+  {
+    "end_time": 82128,
+    "index": 57,
+    "start_time": 80758,
+    "text": "- Thanks."
+  },
+  {
+    "end_time": 83330,
+    "index": 58,
+    "start_time": 82128,
+    "text": "- Cool."
+  },
+  {
+    "end_time": 86905,
+    "index": 59,
+    "start_time": 84520,
+    "text": "(happy music)"
+  }
+]

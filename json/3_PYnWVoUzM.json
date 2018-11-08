@@ -1,0 +1,578 @@
+[
+    {
+        "index": 1,
+        "start_time": 7410,
+        "end_time": 12980,
+        "text": "Approximately 7 million people around the \nworld die from heart attacks every year,"
+    },
+    {
+        "index": 2,
+        "start_time": 12980,
+        "end_time": 14901,
+        "text": "and cardiovascular disease,"
+    },
+    {
+        "index": 3,
+        "start_time": 14901,
+        "end_time": 18060,
+        "text": "which causes heart attacks and other\nproblems like strokes,"
+    },
+    {
+        "index": 4,
+        "start_time": 18060,
+        "end_time": 20500,
+        "text": "is the world&#39;s leading killer."
+    },
+    {
+        "index": 5,
+        "start_time": 20500,
+        "end_time": 22650,
+        "text": "So what causes a heart attack?"
+    },
+    {
+        "index": 6,
+        "start_time": 22650,
+        "end_time": 25140,
+        "text": "Like all muscles, the heart needs oxygen,"
+    },
+    {
+        "index": 7,
+        "start_time": 25140,
+        "end_time": 28550,
+        "text": "and during a heart attack,\nit can&#39;t get enough."
+    },
+    {
+        "index": 8,
+        "start_time": 28550,
+        "end_time": 30541,
+        "text": "Fatty deposits, or plaques,"
+    },
+    {
+        "index": 9,
+        "start_time": 30541,
+        "end_time": 33241,
+        "text": "develop on the walls \nof our coronary arteries."
+    },
+    {
+        "index": 10,
+        "start_time": 33241,
+        "end_time": 37208,
+        "text": "Those are the vessels that supply\noxygenated blood to the heart."
+    },
+    {
+        "index": 11,
+        "start_time": 37208,
+        "end_time": 39490,
+        "text": "These plaques grow as we age,"
+    },
+    {
+        "index": 12,
+        "start_time": 39490,
+        "end_time": 40760,
+        "text": "sometimes getting chunky,"
+    },
+    {
+        "index": 13,
+        "start_time": 40760,
+        "end_time": 41780,
+        "text": "hardened,"
+    },
+    {
+        "index": 14,
+        "start_time": 41780,
+        "end_time": 43091,
+        "text": "or enflamed."
+    },
+    {
+        "index": 15,
+        "start_time": 43091,
+        "end_time": 45960,
+        "text": "Eventually, the plaques can turn\ninto blockages."
+    },
+    {
+        "index": 16,
+        "start_time": 45960,
+        "end_time": 48791,
+        "text": "If one of the plaques ruptures or cracks,"
+    },
+    {
+        "index": 17,
+        "start_time": 48791,
+        "end_time": 52169,
+        "text": "a blood clot will form around it\nin minutes,"
+    },
+    {
+        "index": 18,
+        "start_time": 52169,
+        "end_time": 56252,
+        "text": "and a partially closed artery\ncan become completely blocked."
+    },
+    {
+        "index": 19,
+        "start_time": 56252,
+        "end_time": 58712,
+        "text": "Blood flow is cut off \nto the cardiac muscle"
+    },
+    {
+        "index": 20,
+        "start_time": 58712,
+        "end_time": 63061,
+        "text": "and the oxygen-starved cells start to die\nwithin several minutes."
+    },
+    {
+        "index": 21,
+        "start_time": 63061,
+        "end_time": 65911,
+        "text": "This is a myocardial infarction,"
+    },
+    {
+        "index": 22,
+        "start_time": 65911,
+        "end_time": 67311,
+        "text": "or heart attack."
+    },
+    {
+        "index": 23,
+        "start_time": 67311,
+        "end_time": 71302,
+        "text": "Things can rapidly deteriorate\nin the absence of treatment."
+    },
+    {
+        "index": 24,
+        "start_time": 71302,
+        "end_time": 74712,
+        "text": "The injured muscle may not be able\nto pump blood as well,"
+    },
+    {
+        "index": 25,
+        "start_time": 74712,
+        "end_time": 77102,
+        "text": "and its rhythm might be thrown off."
+    },
+    {
+        "index": 26,
+        "start_time": 77102,
+        "end_time": 81472,
+        "text": "In the worst case scenario,\na heart attack can cause sudden death."
+    },
+    {
+        "index": 27,
+        "start_time": 81472,
+        "end_time": 84441,
+        "text": "And how do you know that someone\nis having a heart attack?"
+    },
+    {
+        "index": 28,
+        "start_time": 84441,
+        "end_time": 86723,
+        "text": "The most common symptom is chest pain"
+    },
+    {
+        "index": 29,
+        "start_time": 86723,
+        "end_time": 89622,
+        "text": "caused by the oxygen-deprived \nheart muscle."
+    },
+    {
+        "index": 30,
+        "start_time": 89622,
+        "end_time": 92822,
+        "text": "Patients describe it as crushing\nor vice-like."
+    },
+    {
+        "index": 31,
+        "start_time": 92822,
+        "end_time": 94633,
+        "text": "It can radiate to the left arm,"
+    },
+    {
+        "index": 32,
+        "start_time": 94633,
+        "end_time": 95472,
+        "text": "jaw,"
+    },
+    {
+        "index": 33,
+        "start_time": 95472,
+        "end_time": 96241,
+        "text": "back,"
+    },
+    {
+        "index": 34,
+        "start_time": 96241,
+        "end_time": 97473,
+        "text": "or abdomen."
+    },
+    {
+        "index": 35,
+        "start_time": 97473,
+        "end_time": 101622,
+        "text": "But it&#39;s not always as sudden and dramatic\nas it is in the movies."
+    },
+    {
+        "index": 36,
+        "start_time": 101622,
+        "end_time": 103513,
+        "text": "Some people experience nausea"
+    },
+    {
+        "index": 37,
+        "start_time": 103513,
+        "end_time": 104932,
+        "text": "or shortness of breath."
+    },
+    {
+        "index": 38,
+        "start_time": 104932,
+        "end_time": 108283,
+        "text": "Symptoms may be less prominent\nin women and the elderly."
+    },
+    {
+        "index": 39,
+        "start_time": 108283,
+        "end_time": 112592,
+        "text": "For them, weakness and tiredness\nmay be the main signal."
+    },
+    {
+        "index": 40,
+        "start_time": 112592,
+        "end_time": 114513,
+        "text": "And surprisingly, in many people,"
+    },
+    {
+        "index": 41,
+        "start_time": 114513,
+        "end_time": 118642,
+        "text": "especially those with diabetes,\nwhich affects the nerves that carry pain,"
+    },
+    {
+        "index": 42,
+        "start_time": 118642,
+        "end_time": 121192,
+        "text": "a heart attack may be silent."
+    },
+    {
+        "index": 43,
+        "start_time": 121192,
+        "end_time": 123993,
+        "text": "If you think that someone might be \nhaving a heart attack,"
+    },
+    {
+        "index": 44,
+        "start_time": 123993,
+        "end_time": 127163,
+        "text": "the most important thing \nis to respond quickly."
+    },
+    {
+        "index": 45,
+        "start_time": 127163,
+        "end_time": 131032,
+        "text": "If you have access to emergency medical\nservices, call them."
+    },
+    {
+        "index": 46,
+        "start_time": 131032,
+        "end_time": 133474,
+        "text": "They&#39;re the fastest way \nto get to a hospital."
+    },
+    {
+        "index": 47,
+        "start_time": 133474,
+        "end_time": 135825,
+        "text": "Taking aspirin, which thins the blood,"
+    },
+    {
+        "index": 48,
+        "start_time": 135825,
+        "end_time": 138624,
+        "text": "and nitroglycerin, \nwhich opens up the artery,"
+    },
+    {
+        "index": 49,
+        "start_time": 138624,
+        "end_time": 141594,
+        "text": "can help keep the heart attack\nfrom getting worse."
+    },
+    {
+        "index": 50,
+        "start_time": 141594,
+        "end_time": 144933,
+        "text": "In the emergency room, \ndoctors can diagnose a heart attack."
+    },
+    {
+        "index": 51,
+        "start_time": 144933,
+        "end_time": 147524,
+        "text": "They commonly use an electrocardiogram"
+    },
+    {
+        "index": 52,
+        "start_time": 147524,
+        "end_time": 150034,
+        "text": "to measure the heart&#39;s \nelectrical activity"
+    },
+    {
+        "index": 53,
+        "start_time": 150034,
+        "end_time": 153294,
+        "text": "and a blood test to assess \nheart muscle damage."
+    },
+    {
+        "index": 54,
+        "start_time": 153294,
+        "end_time": 156765,
+        "text": "The patient is then taken to a high-tech\ncardiac suite"
+    },
+    {
+        "index": 55,
+        "start_time": 156765,
+        "end_time": 160105,
+        "text": "where tests are done \nto locate the blockages."
+    },
+    {
+        "index": 56,
+        "start_time": 160105,
+        "end_time": 162734,
+        "text": "Cardiologists can reopen \nthe blocked artery"
+    },
+    {
+        "index": 57,
+        "start_time": 162734,
+        "end_time": 167365,
+        "text": "by inflating it with a balloon\nin a procedure called an angioplasty."
+    },
+    {
+        "index": 58,
+        "start_time": 167365,
+        "end_time": 170794,
+        "text": "Frequently, they also insert a metal\nor polymer stent"
+    },
+    {
+        "index": 59,
+        "start_time": 170794,
+        "end_time": 173148,
+        "text": "that will hold the artery open."
+    },
+    {
+        "index": 60,
+        "start_time": 173148,
+        "end_time": 177625,
+        "text": "More extensive blockages might require\ncoronary artery bypass surgery."
+    },
+    {
+        "index": 61,
+        "start_time": 177625,
+        "end_time": 181730,
+        "text": "Using a piece of vein or artery\nfrom another part of the body,"
+    },
+    {
+        "index": 62,
+        "start_time": 181730,
+        "end_time": 185866,
+        "text": "heart surgeons can reroute blood flow\naround the blockage."
+    },
+    {
+        "index": 63,
+        "start_time": 185866,
+        "end_time": 189389,
+        "text": "These procedures reestablish circulation\nto the cardiac muscle,"
+    },
+    {
+        "index": 64,
+        "start_time": 189389,
+        "end_time": 191367,
+        "text": "restoring heart function."
+    },
+    {
+        "index": 65,
+        "start_time": 191367,
+        "end_time": 193111,
+        "text": "Heart attack treatment is advancing,"
+    },
+    {
+        "index": 66,
+        "start_time": 193111,
+        "end_time": 195448,
+        "text": "but prevention is vital."
+    },
+    {
+        "index": 67,
+        "start_time": 195448,
+        "end_time": 199070,
+        "text": "Genetics and lifestyle factors\nboth affect your risk."
+    },
+    {
+        "index": 68,
+        "start_time": 199070,
+        "end_time": 202174,
+        "text": "And the good news is that you can\nchange your lifestyle."
+    },
+    {
+        "index": 69,
+        "start_time": 202174,
+        "end_time": 204566,
+        "text": "Exercise, a healthy diet,\nand weight loss"
+    },
+    {
+        "index": 70,
+        "start_time": 204566,
+        "end_time": 207039,
+        "text": "all lower the risk of heart attacks,"
+    },
+    {
+        "index": 71,
+        "start_time": 207039,
+        "end_time": 209019,
+        "text": "whether you&#39;ve had one before or not."
+    },
+    {
+        "index": 72,
+        "start_time": 209019,
+        "end_time": 212006,
+        "text": "Doctors recommend exercising\na few times a week,"
+    },
+    {
+        "index": 73,
+        "start_time": 212006,
+        "end_time": 215180,
+        "text": "doing both aerobic activity\nand strength training."
+    },
+    {
+        "index": 74,
+        "start_time": 215180,
+        "end_time": 218826,
+        "text": "A heart-healthy diet is low\nin sugar and saturated fats,"
+    },
+    {
+        "index": 75,
+        "start_time": 218826,
+        "end_time": 221096,
+        "text": "which are both linked to heart disease."
+    },
+    {
+        "index": 76,
+        "start_time": 221096,
+        "end_time": 222567,
+        "text": "So what should you eat?"
+    },
+    {
+        "index": 77,
+        "start_time": 222567,
+        "end_time": 224237,
+        "text": "Lots of fiber from vegetables,"
+    },
+    {
+        "index": 78,
+        "start_time": 224237,
+        "end_time": 226683,
+        "text": "chicken and fish instead of red meat,"
+    },
+    {
+        "index": 79,
+        "start_time": 226683,
+        "end_time": 229946,
+        "text": "whole grains and nuts like walnuts\nand almonds"
+    },
+    {
+        "index": 80,
+        "start_time": 229946,
+        "end_time": 232356,
+        "text": "all seem to be beneficial."
+    },
+    {
+        "index": 81,
+        "start_time": 232356,
+        "end_time": 236737,
+        "text": "A good diet and exercise plan can also\nkeep your weight in a healthy range,"
+    },
+    {
+        "index": 82,
+        "start_time": 236737,
+        "end_time": 239548,
+        "text": "which will lower \nyour heart attack risk as well."
+    },
+    {
+        "index": 83,
+        "start_time": 239548,
+        "end_time": 243167,
+        "text": "And of course, medications can also\nhelp prevent heart attacks."
+    },
+    {
+        "index": 84,
+        "start_time": 243167,
+        "end_time": 246267,
+        "text": "Doctors often prescribe low-dose\naspirin, for example,"
+    },
+    {
+        "index": 85,
+        "start_time": 246267,
+        "end_time": 249976,
+        "text": "particularly for patients who&#39;ve\nalready had a heart attack"
+    },
+    {
+        "index": 86,
+        "start_time": 249976,
+        "end_time": 252847,
+        "text": "and for those known to be\nat high risk."
+    },
+    {
+        "index": 87,
+        "start_time": 252847,
+        "end_time": 254956,
+        "text": "And drugs that help manage risk factors,"
+    },
+    {
+        "index": 88,
+        "start_time": 254956,
+        "end_time": 258337,
+        "text": "like high blood pressure, cholesterol,\nand diabetes,"
+    },
+    {
+        "index": 89,
+        "start_time": 258337,
+        "end_time": 261038,
+        "text": "will make heart attacks less likely, too."
+    },
+    {
+        "index": 90,
+        "start_time": 261038,
+        "end_time": 265057,
+        "text": "Heart attacks may be common, \nbut they don&#39;t have to be inevitable."
+    },
+    {
+        "index": 91,
+        "start_time": 265057,
+        "end_time": 266176,
+        "text": "A healthy diet,"
+    },
+    {
+        "index": 92,
+        "start_time": 266176,
+        "end_time": 267599,
+        "text": "avoiding tobacco use,"
+    },
+    {
+        "index": 93,
+        "start_time": 267599,
+        "end_time": 268728,
+        "text": "staying fit,"
+    },
+    {
+        "index": 94,
+        "start_time": 268728,
+        "end_time": 271528,
+        "text": "and enjoying plenty of sleep\nand lots of laughter"
+    },
+    {
+        "index": 95,
+        "start_time": 271528,
+        "end_time": 275769,
+        "text": "all go a long way in making sure\nyour body&#39;s most important muscle"
+    },
+    {
+        "index": 96,
+        "start_time": 275769,
+        "end_time": 277417,
+        "text": "keeps on beating."
+    }
+]

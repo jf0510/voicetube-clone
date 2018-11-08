@@ -1,0 +1,350 @@
+[
+    {
+        "index": 1,
+        "start_time": 14715,
+        "end_time": 20690,
+        "text": "It may sound like a paradox, or some\ncruel joke, but whatever it is, it&#39;s true."
+    },
+    {
+        "index": 2,
+        "start_time": 20690,
+        "end_time": 25217,
+        "text": "Beethoven, the composer of some of\nthe most celebrated music in history,"
+    },
+    {
+        "index": 3,
+        "start_time": 25217,
+        "end_time": 29631,
+        "text": "spent most of his career going deaf."
+    },
+    {
+        "index": 4,
+        "start_time": 29631,
+        "end_time": 34273,
+        "text": "So how was he still able to create such\nintricate and moving compositions?"
+    },
+    {
+        "index": 5,
+        "start_time": 34273,
+        "end_time": 38652,
+        "text": "The answer lies in the patterns\nhidden beneath the beautiful sounds."
+    },
+    {
+        "index": 6,
+        "start_time": 38652,
+        "end_time": 41431,
+        "text": "Let&#39;s take a look at the famous\n&quot;Moonlight Sonata,&quot;"
+    },
+    {
+        "index": 7,
+        "start_time": 41431,
+        "end_time": 45772,
+        "text": "which opens with a slow, steady stream\nof notes grouped into triplets:"
+    },
+    {
+        "index": 8,
+        "start_time": 45772,
+        "end_time": 54571,
+        "text": "One-and-a-two-and-a-three-and-a."
+    },
+    {
+        "index": 9,
+        "start_time": 54571,
+        "end_time": 56733,
+        "text": "But though they sound deceptively simple,"
+    },
+    {
+        "index": 10,
+        "start_time": 56733,
+        "end_time": 60101,
+        "text": "each triplet contains an\nelegant melodic structure,"
+    },
+    {
+        "index": 11,
+        "start_time": 60101,
+        "end_time": 65102,
+        "text": "revealing the fascinating relationship\nbetween music and math."
+    },
+    {
+        "index": 12,
+        "start_time": 65102,
+        "end_time": 66194,
+        "text": "Beethoven once said,"
+    },
+    {
+        "index": 13,
+        "start_time": 66194,
+        "end_time": 71092,
+        "text": "&quot;I always have a picture in my mind \nwhen composing and follow its lines.&quot;"
+    },
+    {
+        "index": 14,
+        "start_time": 71092,
+        "end_time": 76657,
+        "text": "Similarly, we can picture a standard\npiano octave consisting of thirteen keys,"
+    },
+    {
+        "index": 15,
+        "start_time": 76657,
+        "end_time": 78952,
+        "text": "each separated by a half step."
+    },
+    {
+        "index": 16,
+        "start_time": 78952,
+        "end_time": 83049,
+        "text": "A standard major or minor scale uses\neight of these keys,"
+    },
+    {
+        "index": 17,
+        "start_time": 83049,
+        "end_time": 87174,
+        "text": "with five whole step intervals\nand two half step ones."
+    },
+    {
+        "index": 18,
+        "start_time": 87174,
+        "end_time": 89868,
+        "text": "And the first half of measure 50,\nfor example,"
+    },
+    {
+        "index": 19,
+        "start_time": 89868,
+        "end_time": 92653,
+        "text": "consists of three notes in D major,"
+    },
+    {
+        "index": 20,
+        "start_time": 92653,
+        "end_time": 97889,
+        "text": "separated by intervals called thirds,\nthat skip over the next note in the scale."
+    },
+    {
+        "index": 21,
+        "start_time": 97889,
+        "end_time": 103722,
+        "text": "By stacking the scale&#39;s first, third \nand fifth notes, D, F-sharp and A,"
+    },
+    {
+        "index": 22,
+        "start_time": 103722,
+        "end_time": 107108,
+        "text": "we get a harmonic pattern \nknown as a triad."
+    },
+    {
+        "index": 23,
+        "start_time": 107108,
+        "end_time": 110205,
+        "text": "But these aren&#39;t just arbitrary\nmagic numbers."
+    },
+    {
+        "index": 24,
+        "start_time": 110205,
+        "end_time": 112931,
+        "text": "Rather, they represent \nthe mathematical relationship"
+    },
+    {
+        "index": 25,
+        "start_time": 112931,
+        "end_time": 118357,
+        "text": "between the pitch frequencies of different\nnotes which form a geometric series."
+    },
+    {
+        "index": 26,
+        "start_time": 118357,
+        "end_time": 121869,
+        "text": "If we begin with the note A3 at 220 hertz,"
+    },
+    {
+        "index": 27,
+        "start_time": 121869,
+        "end_time": 124396,
+        "text": "the series can be expressed \nwith this equation,"
+    },
+    {
+        "index": 28,
+        "start_time": 124396,
+        "end_time": 127904,
+        "text": "where &quot;n&quot; corresponds to successive \nnotes on the keyboard."
+    },
+    {
+        "index": 29,
+        "start_time": 127904,
+        "end_time": 134443,
+        "text": "The D major triplet from the Moonlight\nSonata uses &quot;n&quot; values five, nine, and twelve."
+    },
+    {
+        "index": 30,
+        "start_time": 134443,
+        "end_time": 139242,
+        "text": "And by plugging these into the function,\nwe can graph the sine wave for each note,"
+    },
+    {
+        "index": 31,
+        "start_time": 139242,
+        "end_time": 143741,
+        "text": "allowing us to see the patterns\nthat Beethoven could not hear."
+    },
+    {
+        "index": 32,
+        "start_time": 143741,
+        "end_time": 145820,
+        "text": "When all three of the \nsine waves are graphed,"
+    },
+    {
+        "index": 33,
+        "start_time": 145820,
+        "end_time": 152686,
+        "text": "they intersect at their starting point\nof 0,0 and again at 0,0.042."
+    },
+    {
+        "index": 34,
+        "start_time": 152686,
+        "end_time": 156659,
+        "text": "Within this span, \nthe D goes through two full cycles,"
+    },
+    {
+        "index": 35,
+        "start_time": 156662,
+        "end_time": 160820,
+        "text": "F-sharp through two and a half,\nand A goes through three."
+    },
+    {
+        "index": 36,
+        "start_time": 160820,
+        "end_time": 165811,
+        "text": "This pattern is known as consonance,\nwhich sounds naturally pleasant to our ears."
+    },
+    {
+        "index": 37,
+        "start_time": 165811,
+        "end_time": 170291,
+        "text": "But perhaps equally captivating is\nBeethoven&#39;s use of dissonance."
+    },
+    {
+        "index": 38,
+        "start_time": 170291,
+        "end_time": 173549,
+        "text": "Take a look at measures 52 through 54,"
+    },
+    {
+        "index": 39,
+        "start_time": 173549,
+        "end_time": 176698,
+        "text": "which feature triplets containing\nthe notes B and C."
+    },
+    {
+        "index": 40,
+        "start_time": 176698,
+        "end_time": 181058,
+        "text": "As their sine graphs show,\nthe waves are largely out of sync,"
+    },
+    {
+        "index": 41,
+        "start_time": 181058,
+        "end_time": 183321,
+        "text": "matching up rarely, if at all."
+    },
+    {
+        "index": 42,
+        "start_time": 183321,
+        "end_time": 185600,
+        "text": "And it is by contrasting this dissonance"
+    },
+    {
+        "index": 43,
+        "start_time": 185600,
+        "end_time": 189554,
+        "text": "with the consonance of the D major triad \nin the preceding measures"
+    },
+    {
+        "index": 44,
+        "start_time": 189554,
+        "end_time": 194545,
+        "text": "that Beethoven adds the unquantifiable\nelements of emotion and creativity"
+    },
+    {
+        "index": 45,
+        "start_time": 194545,
+        "end_time": 196760,
+        "text": "to the certainty of mathematics,"
+    },
+    {
+        "index": 46,
+        "start_time": 196760,
+        "end_time": 198949,
+        "text": "creating what Hector Berlioz described as"
+    },
+    {
+        "index": 47,
+        "start_time": 198949,
+        "end_time": 203712,
+        "text": "&quot;one of those poems that human language\ndoes not know how to qualify.&quot;"
+    },
+    {
+        "index": 48,
+        "start_time": 203712,
+        "end_time": 208375,
+        "text": "So although we can investigate the underlying\nmathematical patterns of musical pieces,"
+    },
+    {
+        "index": 49,
+        "start_time": 208375,
+        "end_time": 211885,
+        "text": "it is yet to be discovered why\ncertain sequences of these patterns"
+    },
+    {
+        "index": 50,
+        "start_time": 211885,
+        "end_time": 215005,
+        "text": "strike the hearts of listeners\nin certain ways."
+    },
+    {
+        "index": 51,
+        "start_time": 215005,
+        "end_time": 216767,
+        "text": "And Beethoven&#39;s true genius lay"
+    },
+    {
+        "index": 52,
+        "start_time": 216767,
+        "end_time": 220431,
+        "text": "not only in his ability to see\nthe patterns without hearing the music,"
+    },
+    {
+        "index": 53,
+        "start_time": 220431,
+        "end_time": 222660,
+        "text": "but to feel their effect."
+    },
+    {
+        "index": 54,
+        "start_time": 222660,
+        "end_time": 224129,
+        "text": "As James Sylvester wrote,"
+    },
+    {
+        "index": 55,
+        "start_time": 224129,
+        "end_time": 227658,
+        "text": "&quot;May not music be described as the\nmathematics of the sense,"
+    },
+    {
+        "index": 56,
+        "start_time": 227658,
+        "end_time": 230545,
+        "text": "mathematics as music of the reason?&quot;"
+    },
+    {
+        "index": 57,
+        "start_time": 230545,
+        "end_time": 234926,
+        "text": "The musician feels mathematics. \nThe mathematician thinks music."
+    },
+    {
+        "index": 58,
+        "start_time": 234926,
+        "end_time": 238198,
+        "text": "Music, the dream. \nMathematics, the working life."
+    }
+]

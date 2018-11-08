@@ -1,0 +1,494 @@
+[
+    {
+        "index": 1,
+        "start_time": 7653,
+        "end_time": 9534,
+        "text": "If you&#39;re ever walking down the street"
+    },
+    {
+        "index": 2,
+        "start_time": 9534,
+        "end_time": 13384,
+        "text": "and come across an oddly stretched out\nimage, like this,"
+    },
+    {
+        "index": 3,
+        "start_time": 13384,
+        "end_time": 17004,
+        "text": "you&#39;ll have an opportunity\nto see something remarkable,"
+    },
+    {
+        "index": 4,
+        "start_time": 17004,
+        "end_time": 20494,
+        "text": "but only if you stand in exactly\nthe right spot."
+    },
+    {
+        "index": 5,
+        "start_time": 20494,
+        "end_time": 25493,
+        "text": "That happens because these works\nemploy a technique called anamorphosis."
+    },
+    {
+        "index": 6,
+        "start_time": 25493,
+        "end_time": 28765,
+        "text": "Anamorphosis is a special case\nof perspective art,"
+    },
+    {
+        "index": 7,
+        "start_time": 28765,
+        "end_time": 31794,
+        "text": "where artists represent realistic\nthree-dimensional views"
+    },
+    {
+        "index": 8,
+        "start_time": 31794,
+        "end_time": 34115,
+        "text": "on two-dimensional surfaces."
+    },
+    {
+        "index": 9,
+        "start_time": 34115,
+        "end_time": 35395,
+        "text": "Though it&#39;s common today,"
+    },
+    {
+        "index": 10,
+        "start_time": 35395,
+        "end_time": 40126,
+        "text": "this kind of perspective drawing has only\nbeen around since the Italian Renaissance."
+    },
+    {
+        "index": 11,
+        "start_time": 40126,
+        "end_time": 43396,
+        "text": "Ancient art often showed all figures\non the same plane,"
+    },
+    {
+        "index": 12,
+        "start_time": 43396,
+        "end_time": 47145,
+        "text": "varying in size by symbolic importance."
+    },
+    {
+        "index": 13,
+        "start_time": 47145,
+        "end_time": 51304,
+        "text": "Classical Greek and Roman artists realized\nthey could make objects seem further"
+    },
+    {
+        "index": 14,
+        "start_time": 51304,
+        "end_time": 53155,
+        "text": "by drawing them smaller,"
+    },
+    {
+        "index": 15,
+        "start_time": 53155,
+        "end_time": 58535,
+        "text": "but many early attempts at perspective\nwere inconsistent or incorrect."
+    },
+    {
+        "index": 16,
+        "start_time": 58535,
+        "end_time": 60536,
+        "text": "In 15th century Florence,"
+    },
+    {
+        "index": 17,
+        "start_time": 60536,
+        "end_time": 62819,
+        "text": "artists realized the illusion \nof perspective"
+    },
+    {
+        "index": 18,
+        "start_time": 62819,
+        "end_time": 65954,
+        "text": "could be achieved with higher degrees\nof sophistication"
+    },
+    {
+        "index": 19,
+        "start_time": 65954,
+        "end_time": 68946,
+        "text": "by applying mathematical principles."
+    },
+    {
+        "index": 20,
+        "start_time": 68946,
+        "end_time": 73415,
+        "text": "In 1485, Leonardo da Vinci \nmanipulated the mathematics"
+    },
+    {
+        "index": 21,
+        "start_time": 73415,
+        "end_time": 77576,
+        "text": "to create the first known \nanamorphic drawing."
+    },
+    {
+        "index": 22,
+        "start_time": 77576,
+        "end_time": 80848,
+        "text": "A number of other artists later\npicked up the technique,"
+    },
+    {
+        "index": 23,
+        "start_time": 80848,
+        "end_time": 85526,
+        "text": "including Hans Holbein \nin &quot;The Ambassadors.&quot;"
+    },
+    {
+        "index": 24,
+        "start_time": 85526,
+        "end_time": 89416,
+        "text": "This painting features a distorted\nshape that forms into a skull"
+    },
+    {
+        "index": 25,
+        "start_time": 89416,
+        "end_time": 92665,
+        "text": "as the viewer approaches from the side."
+    },
+    {
+        "index": 26,
+        "start_time": 92665,
+        "end_time": 95756,
+        "text": "In order to understand how artists\nachieve that effect,"
+    },
+    {
+        "index": 27,
+        "start_time": 95756,
+        "end_time": 99836,
+        "text": "we first have to understand how \nperspective drawings work in general."
+    },
+    {
+        "index": 28,
+        "start_time": 99836,
+        "end_time": 101726,
+        "text": "Imagine looking out a window."
+    },
+    {
+        "index": 29,
+        "start_time": 101726,
+        "end_time": 104697,
+        "text": "Light bounces off objects \nand into your eye,"
+    },
+    {
+        "index": 30,
+        "start_time": 104697,
+        "end_time": 107197,
+        "text": "intersecting the window along the way."
+    },
+    {
+        "index": 31,
+        "start_time": 107197,
+        "end_time": 111437,
+        "text": "Now, imagine you could paint the image\nyou see directly onto the window"
+    },
+    {
+        "index": 32,
+        "start_time": 111437,
+        "end_time": 115734,
+        "text": "while standing still and keeping\nonly one eye open."
+    },
+    {
+        "index": 33,
+        "start_time": 115734,
+        "end_time": 119425,
+        "text": "The result would be nearly\nindistinguishable from the actual view"
+    },
+    {
+        "index": 34,
+        "start_time": 119425,
+        "end_time": 122457,
+        "text": "with your brain adding depth\nto the 2-D picture,"
+    },
+    {
+        "index": 35,
+        "start_time": 122457,
+        "end_time": 124457,
+        "text": "but only from that one spot."
+    },
+    {
+        "index": 36,
+        "start_time": 124457,
+        "end_time": 126627,
+        "text": "Standing even just a bit off\nto the side"
+    },
+    {
+        "index": 37,
+        "start_time": 126627,
+        "end_time": 130384,
+        "text": "would make the drawing \nlose its 3-D effect."
+    },
+    {
+        "index": 38,
+        "start_time": 130384,
+        "end_time": 132307,
+        "text": "Artists understand that \na perspective drawing"
+    },
+    {
+        "index": 39,
+        "start_time": 132307,
+        "end_time": 136098,
+        "text": "is just a projection\nonto a 2-D plane."
+    },
+    {
+        "index": 40,
+        "start_time": 136098,
+        "end_time": 140529,
+        "text": "This allows them to use math to come up\nwith basic rules of perspective"
+    },
+    {
+        "index": 41,
+        "start_time": 140529,
+        "end_time": 143971,
+        "text": "that allow them to draw without a window."
+    },
+    {
+        "index": 42,
+        "start_time": 143971,
+        "end_time": 146498,
+        "text": "One is that parallel lines, like these,"
+    },
+    {
+        "index": 43,
+        "start_time": 146498,
+        "end_time": 153118,
+        "text": "can only be drawn as parallel if they&#39;re\nparallel to the plane of the canvas."
+    },
+    {
+        "index": 44,
+        "start_time": 153118,
+        "end_time": 156779,
+        "text": "Otherwise, they need to be drawn\nconverging to a common point"
+    },
+    {
+        "index": 45,
+        "start_time": 156779,
+        "end_time": 160263,
+        "text": "known as the vanishing point."
+    },
+    {
+        "index": 46,
+        "start_time": 160263,
+        "end_time": 163009,
+        "text": "So that&#39;s a standard perspective drawing."
+    },
+    {
+        "index": 47,
+        "start_time": 163009,
+        "end_time": 165891,
+        "text": "With an anamorphic drawing,\nlike &quot;The Ambassadors,&quot;"
+    },
+    {
+        "index": 48,
+        "start_time": 165891,
+        "end_time": 170498,
+        "text": "directly facing the canvas makes the image\nlook stretched and distorted,"
+    },
+    {
+        "index": 49,
+        "start_time": 170498,
+        "end_time": 174069,
+        "text": "but put your eye in exactly the right spot\nway off to the side,"
+    },
+    {
+        "index": 50,
+        "start_time": 174069,
+        "end_time": 176917,
+        "text": "and the skull materializes."
+    },
+    {
+        "index": 51,
+        "start_time": 176917,
+        "end_time": 178530,
+        "text": "Going back to the window analogy,"
+    },
+    {
+        "index": 52,
+        "start_time": 178530,
+        "end_time": 183079,
+        "text": "it&#39;s as if the artist painted \nonto a window positioned at an angle"
+    },
+    {
+        "index": 53,
+        "start_time": 183079,
+        "end_time": 184669,
+        "text": "instead of straight on,"
+    },
+    {
+        "index": 54,
+        "start_time": 184669,
+        "end_time": 188809,
+        "text": "though that&#39;s not how Renaissance artists\nactually created anamorphic drawings."
+    },
+    {
+        "index": 55,
+        "start_time": 188809,
+        "end_time": 192209,
+        "text": "Typically, they draw a normal image \nonto one surface,"
+    },
+    {
+        "index": 56,
+        "start_time": 192209,
+        "end_time": 194229,
+        "text": "then use a light,"
+    },
+    {
+        "index": 57,
+        "start_time": 194229,
+        "end_time": 195470,
+        "text": "a grid,"
+    },
+    {
+        "index": 58,
+        "start_time": 195470,
+        "end_time": 200123,
+        "text": "or even strings to project it\nonto a canvas at an angle."
+    },
+    {
+        "index": 59,
+        "start_time": 200123,
+        "end_time": 203563,
+        "text": "Now let&#39;s say you want to make\nan anamorphic sidewalk drawing."
+    },
+    {
+        "index": 60,
+        "start_time": 203563,
+        "end_time": 205999,
+        "text": "In this case, you want to create\nthe illusion"
+    },
+    {
+        "index": 61,
+        "start_time": 205999,
+        "end_time": 210430,
+        "text": "that a 3-D image has been added\nseamlessly into an existing scene."
+    },
+    {
+        "index": 62,
+        "start_time": 210430,
+        "end_time": 213250,
+        "text": "You can first put a window\nin front of the sidewalk"
+    },
+    {
+        "index": 63,
+        "start_time": 213250,
+        "end_time": 215990,
+        "text": "and draw what you want to add \nonto the window."
+    },
+    {
+        "index": 64,
+        "start_time": 215990,
+        "end_time": 219141,
+        "text": "It should be in the same perspective\nas the rest of the scene,"
+    },
+    {
+        "index": 65,
+        "start_time": 219141,
+        "end_time": 223132,
+        "text": "which might require the use of those\nbasic rules of perspective."
+    },
+    {
+        "index": 66,
+        "start_time": 223132,
+        "end_time": 224541,
+        "text": "Once the drawing&#39;s complete,"
+    },
+    {
+        "index": 67,
+        "start_time": 224541,
+        "end_time": 226979,
+        "text": "you can use a projector placed \nwhere your eye was"
+    },
+    {
+        "index": 68,
+        "start_time": 226979,
+        "end_time": 229581,
+        "text": "to project your drawing down \nonto the sidewalk,"
+    },
+    {
+        "index": 69,
+        "start_time": 229581,
+        "end_time": 231560,
+        "text": "then chalk over it."
+    },
+    {
+        "index": 70,
+        "start_time": 231560,
+        "end_time": 234010,
+        "text": "The sidewalk drawing \nand the drawing on the window"
+    },
+    {
+        "index": 71,
+        "start_time": 234010,
+        "end_time": 237702,
+        "text": "will be nearly indistinguishable\nfrom that point of view,"
+    },
+    {
+        "index": 72,
+        "start_time": 237702,
+        "end_time": 240090,
+        "text": "so viewers&#39; brains will again be tricked"
+    },
+    {
+        "index": 73,
+        "start_time": 240090,
+        "end_time": 244291,
+        "text": "into believing that the drawing\non the ground is three-dimensional."
+    },
+    {
+        "index": 74,
+        "start_time": 244291,
+        "end_time": 248061,
+        "text": "And you don&#39;t have to project onto\na flat surface to create this illusion."
+    },
+    {
+        "index": 75,
+        "start_time": 248061,
+        "end_time": 250321,
+        "text": "You can project onto multiple surfaces,"
+    },
+    {
+        "index": 76,
+        "start_time": 250321,
+        "end_time": 254002,
+        "text": "or assemble a jumble of objects,\nthat from the right point of view,"
+    },
+    {
+        "index": 77,
+        "start_time": 254002,
+        "end_time": 257901,
+        "text": "appears to be something else entirely."
+    },
+    {
+        "index": 78,
+        "start_time": 257901,
+        "end_time": 260363,
+        "text": "All over the planet, you can find\nsolid surfaces"
+    },
+    {
+        "index": 79,
+        "start_time": 260363,
+        "end_time": 263732,
+        "text": "giving way to strange, wonderful,\nor terrifying visions."
+    },
+    {
+        "index": 80,
+        "start_time": 263732,
+        "end_time": 267372,
+        "text": "From your sidewalk \nto your computer screen,"
+    },
+    {
+        "index": 81,
+        "start_time": 267372,
+        "end_time": 270982,
+        "text": "these are just some of the ways\nthat math and perspective"
+    },
+    {
+        "index": 82,
+        "start_time": 270982,
+        "end_time": 273432,
+        "text": "can open up whole new worlds."
+    }
+]

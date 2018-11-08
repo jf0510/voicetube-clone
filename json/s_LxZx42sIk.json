@@ -1,0 +1,470 @@
+[
+    {
+        "index": 1,
+        "start_time": 7108,
+        "end_time": 12957,
+        "text": "This pencil-eraser-sized mass of cells \nis something called a brain organoid."
+    },
+    {
+        "index": 2,
+        "start_time": 12957,
+        "end_time": 16989,
+        "text": "It\u2019s a collection of lab-grown neurons \nand other brain tissue"
+    },
+    {
+        "index": 3,
+        "start_time": 16989,
+        "end_time": 21350,
+        "text": "that scientists can use to\nlearn about full-grown human brains."
+    },
+    {
+        "index": 4,
+        "start_time": 21350,
+        "end_time": 26230,
+        "text": "And it can be grown from \na sample of your skin cells."
+    },
+    {
+        "index": 5,
+        "start_time": 26230,
+        "end_time": 28319,
+        "text": "Why would we need such a thing?"
+    },
+    {
+        "index": 6,
+        "start_time": 28319,
+        "end_time": 30470,
+        "text": "Neuroscientists face a challenge:"
+    },
+    {
+        "index": 7,
+        "start_time": 30470,
+        "end_time": 34739,
+        "text": "shielded by our thick skulls and\nswaddled in layers of protective tissue,"
+    },
+    {
+        "index": 8,
+        "start_time": 34739,
+        "end_time": 39829,
+        "text": "the human brain is\nextremely difficult to observe in action."
+    },
+    {
+        "index": 9,
+        "start_time": 39829,
+        "end_time": 44221,
+        "text": "For centuries, scientists have tried to\nunderstand them using autopsies,"
+    },
+    {
+        "index": 10,
+        "start_time": 44221,
+        "end_time": 45230,
+        "text": "animal models,"
+    },
+    {
+        "index": 11,
+        "start_time": 45230,
+        "end_time": 48367,
+        "text": "and, in recent years, imaging techniques."
+    },
+    {
+        "index": 12,
+        "start_time": 48367,
+        "end_time": 50631,
+        "text": "We\u2019ve learned a lot through \nall these methods,"
+    },
+    {
+        "index": 13,
+        "start_time": 50631,
+        "end_time": 52421,
+        "text": "but they have limitations."
+    },
+    {
+        "index": 14,
+        "start_time": 52421,
+        "end_time": 54692,
+        "text": "Conditions like Alzheimer\u2019s \nand schizophrenia,"
+    },
+    {
+        "index": 15,
+        "start_time": 54692,
+        "end_time": 58541,
+        "text": "and the effect on\nthe human brain of diseases like Zika,"
+    },
+    {
+        "index": 16,
+        "start_time": 58541,
+        "end_time": 63281,
+        "text": "continue to hide beyond our view,\nand our understanding."
+    },
+    {
+        "index": 17,
+        "start_time": 63281,
+        "end_time": 67061,
+        "text": "Enter brain organoids, \nwhich function like human brains"
+    },
+    {
+        "index": 18,
+        "start_time": 67061,
+        "end_time": 69286,
+        "text": "but aren\u2019t part of an organism."
+    },
+    {
+        "index": 19,
+        "start_time": 69286,
+        "end_time": 72712,
+        "text": "Each one comes from \nan undifferentiated stem cell,"
+    },
+    {
+        "index": 20,
+        "start_time": 72712,
+        "end_time": 76601,
+        "text": "which is a cell that\ncan develop into any tissue in the body,"
+    },
+    {
+        "index": 21,
+        "start_time": 76601,
+        "end_time": 78437,
+        "text": "from bone to brain."
+    },
+    {
+        "index": 22,
+        "start_time": 78437,
+        "end_time": 83576,
+        "text": "Scientists can make undifferentiated \nstem cells from skin cells."
+    },
+    {
+        "index": 23,
+        "start_time": 83576,
+        "end_time": 87607,
+        "text": "That means they can take a skin sample \nfrom a person with a particular condition"
+    },
+    {
+        "index": 24,
+        "start_time": 87607,
+        "end_time": 91415,
+        "text": "and generate brain organoids\nfrom that person."
+    },
+    {
+        "index": 25,
+        "start_time": 91415,
+        "end_time": 94250,
+        "text": "The hardest part of growing \na brain organoid,"
+    },
+    {
+        "index": 26,
+        "start_time": 94250,
+        "end_time": 96244,
+        "text": "which stumped scientists for years,"
+    },
+    {
+        "index": 27,
+        "start_time": 96244,
+        "end_time": 101443,
+        "text": "was finding the perfect combination of\nsugars, proteins, vitamins, and minerals"
+    },
+    {
+        "index": 28,
+        "start_time": 101443,
+        "end_time": 105853,
+        "text": "that would induce the stem cell \nto develop a neural identity."
+    },
+    {
+        "index": 29,
+        "start_time": 105853,
+        "end_time": 109112,
+        "text": "That was only discovered recently, \nin 2013."
+    },
+    {
+        "index": 30,
+        "start_time": 109112,
+        "end_time": 111954,
+        "text": "The rest of the process \nis surprisingly easy."
+    },
+    {
+        "index": 31,
+        "start_time": 111954,
+        "end_time": 115034,
+        "text": "A neural stem cell essentially \ngrows itself,"
+    },
+    {
+        "index": 32,
+        "start_time": 115034,
+        "end_time": 117713,
+        "text": "similar to how a seed grows into a plant,"
+    },
+    {
+        "index": 33,
+        "start_time": 117713,
+        "end_time": 121992,
+        "text": "all it needs are the brain\u2019s equivalents \nof soil, water, and sunlight."
+    },
+    {
+        "index": 34,
+        "start_time": 121992,
+        "end_time": 124523,
+        "text": "A special gel to simulate \nembryonic tissue,"
+    },
+    {
+        "index": 35,
+        "start_time": 124523,
+        "end_time": 127084,
+        "text": "a warm incubator set at body temperature,"
+    },
+    {
+        "index": 36,
+        "start_time": 127084,
+        "end_time": 129923,
+        "text": "and a bit of motion to mimic blood flow."
+    },
+    {
+        "index": 37,
+        "start_time": 129923,
+        "end_time": 132592,
+        "text": "The stem cell grows into \na very small version"
+    },
+    {
+        "index": 38,
+        "start_time": 132592,
+        "end_time": 135094,
+        "text": "of an early-developing human brain,"
+    },
+    {
+        "index": 39,
+        "start_time": 135094,
+        "end_time": 137584,
+        "text": "complete with neurons that can connect\nto one another"
+    },
+    {
+        "index": 40,
+        "start_time": 137584,
+        "end_time": 140714,
+        "text": "and make simplified neural networks."
+    },
+    {
+        "index": 41,
+        "start_time": 140714,
+        "end_time": 146075,
+        "text": "As mini brains grow, they follow \nall the steps of fetal brain development."
+    },
+    {
+        "index": 42,
+        "start_time": 146075,
+        "end_time": 150026,
+        "text": "By observing this process, \nwe can learn how our neurons develop,"
+    },
+    {
+        "index": 43,
+        "start_time": 150026,
+        "end_time": 153756,
+        "text": "as well as how we end up with \nso many more of them in our cortex,"
+    },
+    {
+        "index": 44,
+        "start_time": 153756,
+        "end_time": 157754,
+        "text": "the part responsible for higher cognition\nlike logic and reasoning,"
+    },
+    {
+        "index": 45,
+        "start_time": 157754,
+        "end_time": 159777,
+        "text": "than other species."
+    },
+    {
+        "index": 46,
+        "start_time": 159777,
+        "end_time": 162718,
+        "text": "Being able to grow brains in the lab,\neven tiny ones,"
+    },
+    {
+        "index": 47,
+        "start_time": 162718,
+        "end_time": 165025,
+        "text": "raises ethical questions, like:"
+    },
+    {
+        "index": 48,
+        "start_time": 165025,
+        "end_time": 168426,
+        "text": "Can they think for themselves, \nor develop consciousness?"
+    },
+    {
+        "index": 49,
+        "start_time": 168426,
+        "end_time": 171763,
+        "text": "And the answer is no, for several reasons."
+    },
+    {
+        "index": 50,
+        "start_time": 171763,
+        "end_time": 175776,
+        "text": "A brain organoid has the same tissue types\nas a full-sized brain,"
+    },
+    {
+        "index": 51,
+        "start_time": 175776,
+        "end_time": 178115,
+        "text": "but isn\u2019t organized the same way."
+    },
+    {
+        "index": 52,
+        "start_time": 178115,
+        "end_time": 180066,
+        "text": "The organoid is similar to an airplane"
+    },
+    {
+        "index": 53,
+        "start_time": 180066,
+        "end_time": 183188,
+        "text": "that\u2019s been taken apart \nand reassembled at random;"
+    },
+    {
+        "index": 54,
+        "start_time": 183188,
+        "end_time": 186287,
+        "text": "you could still study the wings, \nthe engine, and other parts,"
+    },
+    {
+        "index": 55,
+        "start_time": 186287,
+        "end_time": 188887,
+        "text": "but the plane could never fly."
+    },
+    {
+        "index": 56,
+        "start_time": 188887,
+        "end_time": 193246,
+        "text": "Similarly, a brain organoid allows us \nto study different types of brain tissue,"
+    },
+    {
+        "index": 57,
+        "start_time": 193246,
+        "end_time": 195126,
+        "text": "but can\u2019t think."
+    },
+    {
+        "index": 58,
+        "start_time": 195126,
+        "end_time": 198397,
+        "text": "And even if mini brains were organized \nlike a real brain,"
+    },
+    {
+        "index": 59,
+        "start_time": 198397,
+        "end_time": 202417,
+        "text": "they still wouldn\u2019t be able \nto reason or develop consciousness."
+    },
+    {
+        "index": 60,
+        "start_time": 202417,
+        "end_time": 206588,
+        "text": "A big part of what makes our brains so\nsmart is their size,"
+    },
+    {
+        "index": 61,
+        "start_time": 206588,
+        "end_time": 210064,
+        "text": "and mini brains have only \nabout 100,000 neurons"
+    },
+    {
+        "index": 62,
+        "start_time": 210064,
+        "end_time": 214247,
+        "text": "compared to the 86 billion \nin a full-sized brain."
+    },
+    {
+        "index": 63,
+        "start_time": 214247,
+        "end_time": 218735,
+        "text": "Scientists aren\u2019t likely to grow larger \nbrain organoids anytime soon."
+    },
+    {
+        "index": 64,
+        "start_time": 218735,
+        "end_time": 220527,
+        "text": "Without blood vessels to feed them,"
+    },
+    {
+        "index": 65,
+        "start_time": 220527,
+        "end_time": 224697,
+        "text": "their size is limited \nto one centimeter at most."
+    },
+    {
+        "index": 66,
+        "start_time": 224697,
+        "end_time": 228897,
+        "text": "Finally, mini brains aren\u2019t able \nto interact with the outside world."
+    },
+    {
+        "index": 67,
+        "start_time": 228897,
+        "end_time": 232559,
+        "text": "We learn by interacting \nwith our environments: receiving inputs"
+    },
+    {
+        "index": 68,
+        "start_time": 232559,
+        "end_time": 237239,
+        "text": "through our eyes, ears, and other \nsensory organs, and reacting in turn."
+    },
+    {
+        "index": 69,
+        "start_time": 237239,
+        "end_time": 241057,
+        "text": "The complex neural networks that underlie \nconscious thoughts and actions"
+    },
+    {
+        "index": 70,
+        "start_time": 241057,
+        "end_time": 243279,
+        "text": "develop from this feedback loop."
+    },
+    {
+        "index": 71,
+        "start_time": 243279,
+        "end_time": 247859,
+        "text": "Without it, the organoids \ncan never form a functional network."
+    },
+    {
+        "index": 72,
+        "start_time": 247859,
+        "end_time": 251069,
+        "text": "There\u2019s nothing quite like \nthe actual human brain,"
+    },
+    {
+        "index": 73,
+        "start_time": 251069,
+        "end_time": 253860,
+        "text": "but mini brains are an unprecedented tool"
+    },
+    {
+        "index": 74,
+        "start_time": 253860,
+        "end_time": 257519,
+        "text": "for studying everything \nfrom development to disease."
+    },
+    {
+        "index": 75,
+        "start_time": 257519,
+        "end_time": 260901,
+        "text": "With luck, these humble \norganoids can help us discover"
+    },
+    {
+        "index": 76,
+        "start_time": 260901,
+        "end_time": 263061,
+        "text": "what makes the human brain unique,"
+    },
+    {
+        "index": 77,
+        "start_time": 263061,
+        "end_time": 266579,
+        "text": "and maybe bring us closer \nto answering the age-old question:"
+    },
+    {
+        "index": 78,
+        "start_time": 266579,
+        "end_time": 268499,
+        "text": "what makes us human?"
+    }
+]

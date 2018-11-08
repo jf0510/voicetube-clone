@@ -1,0 +1,194 @@
+[
+  {
+    "end_time": 7509,
+    "index": 1,
+    "start_time": 2639,
+    "text": "Ads in magazines or on billboards show the\nsame message to everyone reading them. But,"
+  },
+  {
+    "end_time": 10400,
+    "index": 2,
+    "start_time": 7509,
+    "text": "for online ads, we can switch things up."
+  },
+  {
+    "end_time": 14959,
+    "index": 3,
+    "start_time": 10400,
+    "text": "Online ads can use geographic targeting and\ncookies to target their messages so you see"
+  },
+  {
+    "end_time": 17520,
+    "index": 4,
+    "start_time": 14959,
+    "text": "the right ad at the right time."
+  },
+  {
+    "end_time": 21980,
+    "index": 5,
+    "start_time": 17520,
+    "text": "ad servers can deduce a user&#39;s geographic\nlocation by their IP address (which is like"
+  },
+  {
+    "end_time": 24259,
+    "index": 6,
+    "start_time": 21980,
+    "text": "a zip code for your computer)."
+  },
+  {
+    "end_time": 30589,
+    "index": 7,
+    "start_time": 24259,
+    "text": "For example, By knowing your IP address, advertisers\ncan serve an offer specific to your area."
+  },
+  {
+    "end_time": 35899,
+    "index": 8,
+    "start_time": 30589,
+    "text": "Ad servers also recognize users based on cookie\ninformation. You may see more relevant ads"
+  },
+  {
+    "end_time": 39980,
+    "index": 9,
+    "start_time": 35899,
+    "text": "based on prior visits you&#39;ve made to an advertiser&#39;s\nsite."
+  },
+  {
+    "end_time": 44500,
+    "index": 10,
+    "start_time": 39980,
+    "text": "Say you&#39;ve just been eyeing a pair of super\ncool kicks on a company&#39;s website. Later in"
+  },
+  {
+    "end_time": 49710,
+    "index": 11,
+    "start_time": 44500,
+    "text": "the day, you might see an ad from that same\ncompany where they&#39;re offering free shipping."
+  },
+  {
+    "end_time": 54629,
+    "index": 12,
+    "start_time": 49710,
+    "text": "Free shipping sounds great! but...let&#39;s talk\nabout those cookies."
+  },
+  {
+    "end_time": 58559,
+    "index": 13,
+    "start_time": 54629,
+    "text": "Cookies are text files assigned to your browser\nonce you&#39;ve visited a website."
+  },
+  {
+    "end_time": 62309,
+    "index": 14,
+    "start_time": 58559,
+    "text": "When you go back to that website, it&#39;ll see\nthat your browser has the cookie and will"
+  },
+  {
+    "end_time": 67380,
+    "index": 15,
+    "start_time": 62309,
+    "text": "read it. The cookie helps the site recognize\nyour browser, and will restore any information"
+  },
+  {
+    "end_time": 69110,
+    "index": 16,
+    "start_time": 67380,
+    "text": "you might have entered before."
+  },
+  {
+    "end_time": 73189,
+    "index": 17,
+    "start_time": 69110,
+    "text": "You can see examples of cookies in action\nif you return to a site and don&#39;t have to"
+  },
+  {
+    "end_time": 78210,
+    "index": 18,
+    "start_time": 73189,
+    "text": "sign in again -- or when you return to a retail\nsite to find your items patiently waiting"
+  },
+  {
+    "end_time": 80419,
+    "index": 19,
+    "start_time": 78210,
+    "text": "for you in the shopping cart."
+  },
+  {
+    "end_time": 85520,
+    "index": 20,
+    "start_time": 80420,
+    "text": "These are examples of first-party cookies\n- cookies set by the site that you&#39;re on."
+  },
+  {
+    "end_time": 89570,
+    "index": 21,
+    "start_time": 85520,
+    "text": "It&#39;s important to keep in mind that cookies\nare anonymous - the text file associates a"
+  },
+  {
+    "end_time": 95048,
+    "index": 22,
+    "start_time": 89570,
+    "text": "random unique number with the computer and\nbrowser. So, if you use different devices"
+  },
+  {
+    "end_time": 100049,
+    "index": 23,
+    "start_time": 95049,
+    "text": "or browsers to visit the same website, each\nbrowser will have a different cookie."
+  },
+  {
+    "end_time": 106009,
+    "index": 24,
+    "start_time": 100049,
+    "text": "There are also third-party cookies. These\nare used by ad servers. Online ads use third-party"
+  },
+  {
+    "end_time": 110820,
+    "index": 25,
+    "start_time": 106009,
+    "text": "cookies to recognize the same user across\nmultiple websites."
+  },
+  {
+    "end_time": 115250,
+    "index": 26,
+    "start_time": 110820,
+    "text": "That free shipping ad we mentioned earlier\nis an example of third party cookies at work."
+  },
+  {
+    "end_time": 120530,
+    "index": 27,
+    "start_time": 115250,
+    "text": "When you went to supercoolkicks.com to check\nout those shoes, they allowed their ad server"
+  },
+  {
+    "end_time": 123049,
+    "index": 28,
+    "start_time": 120530,
+    "text": "to set a third party cookie on your browser."
+  },
+  {
+    "end_time": 127850,
+    "index": 29,
+    "start_time": 123049,
+    "text": "So, when you visited that news site later\nin the day, the ad server recognized their"
+  },
+  {
+    "end_time": 132489,
+    "index": 30,
+    "start_time": 127850,
+    "text": "cookie, and used the information to show you\nthat offer."
+  },
+  {
+    "end_time": 137280,
+    "index": 31,
+    "start_time": 132489,
+    "text": "Geographic targeting and cookies help advertisers\nshow relevant messages to potential customers,"
+  },
+  {
+    "end_time": 140980,
+    "index": 32,
+    "start_time": 137280,
+    "text": "and they sometimes even help customers get\ndeals on stuff they buy online."
+  }
+]

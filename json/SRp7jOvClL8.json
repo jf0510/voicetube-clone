@@ -1,0 +1,218 @@
+[
+    {
+        "index": 1,
+        "start_time": 5010,
+        "end_time": 11100,
+        "text": "\u90ed\u975c-\u8a72\u5fd8\u7684\u65e5\u5b50"
+    },
+    {
+        "index": 2,
+        "start_time": 11100,
+        "end_time": 13580,
+        "text": "\u4f5c\u8a5e\uff1a\u5de6\u4e2d\u5e73"
+    },
+    {
+        "index": 3,
+        "start_time": 13580,
+        "end_time": 21170,
+        "text": "\u4f5c\u66f2\uff1a\u5f35\u7c21\u541b\u5049"
+    },
+    {
+        "index": 4,
+        "start_time": 21170,
+        "end_time": 28430,
+        "text": "\u611b\u60c5\u88e1\u6700\u50b7\u4eba\u7684\u4e8b"
+    },
+    {
+        "index": 5,
+        "start_time": 28430,
+        "end_time": 35990,
+        "text": "\u662f\u8a8d\u4e86\u932f\u537b\u9084\u56fa\u57f7"
+    },
+    {
+        "index": 6,
+        "start_time": 35990,
+        "end_time": 43320,
+        "text": "\u5e36\u8457\u671f\u5f85\u91cd\u65b0\u958b\u59cb"
+    },
+    {
+        "index": 7,
+        "start_time": 43320,
+        "end_time": 49390,
+        "text": "\u751c\u871c\u6216\u75db\u82e6\u90fd\u8af7\u523a"
+    },
+    {
+        "index": 8,
+        "start_time": 49390,
+        "end_time": 56760,
+        "text": "\u63e1\u7dca\u4e0d\u662f \u6700\u597d\u7684\u65b9\u5f0f"
+    },
+    {
+        "index": 9,
+        "start_time": 56760,
+        "end_time": 63560,
+        "text": "\u6211\u4e5f\u4e0d\u662f \u90a3\u9ebc\u61c2\u5805\u6301"
+    },
+    {
+        "index": 10,
+        "start_time": 63560,
+        "end_time": 71530,
+        "text": "\u8a72\u5fd8\u7684\u65e5\u5b50\u597d\u591a \u66f4\u6015\u81ea\u5df1\u592a\u7051\u812b"
+    },
+    {
+        "index": 11,
+        "start_time": 71530,
+        "end_time": 75990,
+        "text": "\u6709\u4e9b\u4e8b\u6c92\u8aaa\u4f60\u537b\u4e5f\u5f9e\u6c92\u8a18\u5f97\u904e"
+    },
+    {
+        "index": 12,
+        "start_time": 76000,
+        "end_time": 78960,
+        "text": "\u5269\u4e0b\u7684\u611b\u8acb\u6536\u8d70"
+    },
+    {
+        "index": 13,
+        "start_time": 78980,
+        "end_time": 86620,
+        "text": "\u6211\u7e3d\u662f\u4ed8\u51fa\u597d\u591a \u9023\u7d50\u675f\u90fd\u8981\u6211\u8aaa"
+    },
+    {
+        "index": 14,
+        "start_time": 86640,
+        "end_time": 90910,
+        "text": "\u4ee5\u70ba\u6211\u5047\u88dd\u8aaa\u8981\u8d70\u4f60\u6703\u62b1\u7dca\u6211"
+    },
+    {
+        "index": 15,
+        "start_time": 90920,
+        "end_time": 93580,
+        "text": "\u75db\u90fd\u662f\u56e0\u70ba\u64c1\u6709"
+    },
+    {
+        "index": 16,
+        "start_time": 93580,
+        "end_time": 100800,
+        "text": "\u7b49\u4e0d\u7b49\u90fd\u96e3\u904e"
+    },
+    {
+        "index": 17,
+        "start_time": 110920,
+        "end_time": 118480,
+        "text": "\u611b\u88ab\u6fc3\u7e2e\u6210\u4e00\u9996\u8a69"
+    },
+    {
+        "index": 18,
+        "start_time": 118480,
+        "end_time": 125960,
+        "text": "\u904e\u53bb\u4e26\u5217\u6210\u4e86\u5fc3\u4e8b"
+    },
+    {
+        "index": 19,
+        "start_time": 125960,
+        "end_time": 133450,
+        "text": "\u96e2\u958b\u662f\u5e6b\u81ea\u5df1\u89e3\u91cb"
+    },
+    {
+        "index": 20,
+        "start_time": 133450,
+        "end_time": 139300,
+        "text": "\u80fd\u7b11\u7684\u51fa\u4f86\u90fd\u6c92\u4e8b"
+    },
+    {
+        "index": 21,
+        "start_time": 139300,
+        "end_time": 146780,
+        "text": "\u63e1\u7dca\u4e0d\u662f \u6700\u597d\u7684\u65b9\u5f0f"
+    },
+    {
+        "index": 22,
+        "start_time": 146780,
+        "end_time": 153540,
+        "text": "\u6211\u4e5f\u4e0d\u662f \u90a3\u9ebc\u61c2\u5805\u6301"
+    },
+    {
+        "index": 23,
+        "start_time": 153540,
+        "end_time": 161580,
+        "text": "\u8a72\u5fd8\u7684\u65e5\u5b50\u597d\u591a \u66f4\u6015\u81ea\u5df1\u592a\u7051\u812b"
+    },
+    {
+        "index": 24,
+        "start_time": 161640,
+        "end_time": 165720,
+        "text": "\u6709\u4e9b\u4e8b\u6c92\u8aaa\u4f60\u537b\u4e5f\u5f9e\u6c92\u8a18\u5f97\u904e"
+    },
+    {
+        "index": 25,
+        "start_time": 165760,
+        "end_time": 168440,
+        "text": "\u5269\u4e0b\u7684\u611b\u8acb\u6536\u8d70"
+    },
+    {
+        "index": 26,
+        "start_time": 168440,
+        "end_time": 176700,
+        "text": "\u6211\u7e3d\u662f\u4ed8\u51fa\u597d\u591a \u9023\u7d50\u675f\u90fd\u8981\u6211\u8aaa"
+    },
+    {
+        "index": 27,
+        "start_time": 176710,
+        "end_time": 180900,
+        "text": "\u4ee5\u70ba\u6211\u5047\u88dd\u8aaa\u8981\u8d70\u4f60\u6703\u62b1\u7dca\u6211"
+    },
+    {
+        "index": 28,
+        "start_time": 180900,
+        "end_time": 183690,
+        "text": "\u75db\u90fd\u662f\u56e0\u70ba\u64c1\u6709"
+    },
+    {
+        "index": 29,
+        "start_time": 183690,
+        "end_time": 189000,
+        "text": "\u7b49\u4e0d\u7b49\u90fd\u96e3\u904e"
+    },
+    {
+        "index": 30,
+        "start_time": 198700,
+        "end_time": 206400,
+        "text": "\u8a72\u5fd8\u7684\u65e5\u5b50\u597d\u591a \u66f4\u6015\u81ea\u5df1\u592a\u7051\u812b"
+    },
+    {
+        "index": 31,
+        "start_time": 206400,
+        "end_time": 210880,
+        "text": "\u6709\u4e9b\u4e8b\u6c92\u8aaa\u4f60\u537b\u4e5f\u5f9e\u6c92\u8a18\u5f97\u904e"
+    },
+    {
+        "index": 32,
+        "start_time": 210890,
+        "end_time": 213570,
+        "text": "\u5269\u4e0b\u7684\u611b\u8acb\u6536\u8d70"
+    },
+    {
+        "index": 33,
+        "start_time": 213570,
+        "end_time": 221580,
+        "text": "\u6211\u7e3d\u662f\u4ed8\u51fa\u597d\u591a \u9023\u7d50\u675f\u90fd\u8981\u6211\u8aaa"
+    },
+    {
+        "index": 34,
+        "start_time": 221600,
+        "end_time": 225920,
+        "text": "\u4ee5\u70ba\u6211\u5047\u88dd\u8aaa\u8981\u8d70\u4f60\u6703\u62b1\u7dca\u6211"
+    },
+    {
+        "index": 35,
+        "start_time": 225920,
+        "end_time": 228820,
+        "text": "\u75db\u90fd\u662f\u56e0\u70ba\u64c1\u6709"
+    },
+    {
+        "index": 36,
+        "start_time": 228830,
+        "end_time": 234890,
+        "text": "\u7b49\u4e0d\u7b49\u90fd\u96e3\u904e"
+    }
+]

@@ -1,0 +1,284 @@
+[
+    {
+        "index": 1,
+        "start_time": 0,
+        "end_time": 5000,
+        "text": "Going round in circles- Yoga Lin"
+    },
+    {
+        "index": 2,
+        "start_time": 5000,
+        "end_time": 12000,
+        "text": "Lyrics: Xin-Yan, Chen\nMelody: Yoga Lin"
+    },
+    {
+        "index": 3,
+        "start_time": 12000,
+        "end_time": 13100,
+        "text": {
+            "@attributes": {
+                "start": "12",
+                "dur": "1.1"
+            },
+            "0": " "
+        }
+    },
+    {
+        "index": 4,
+        "start_time": 13100,
+        "end_time": 17040,
+        "text": "Playing the bricks, changing the seats"
+    },
+    {
+        "index": 5,
+        "start_time": 17040,
+        "end_time": 21100,
+        "text": "Listening to the records, again and again"
+    },
+    {
+        "index": 6,
+        "start_time": 21100,
+        "end_time": 24920,
+        "text": "Riding the bike, playing on swings"
+    },
+    {
+        "index": 7,
+        "start_time": 24920,
+        "end_time": 29870,
+        "text": "Seeing how many times the clouds would be dispersed"
+    },
+    {
+        "index": 8,
+        "start_time": 30330,
+        "end_time": 37360,
+        "text": "Oh, no idea how far we have gone"
+    },
+    {
+        "index": 9,
+        "start_time": 37360,
+        "end_time": 40870,
+        "text": "I wander round in the garden while you are yawning"
+    },
+    {
+        "index": 10,
+        "start_time": 40870,
+        "end_time": 44800,
+        "text": "We are almost there\nWe just need a little bit more"
+    },
+    {
+        "index": 11,
+        "start_time": 45260,
+        "end_time": 50210,
+        "text": "Passing by the school, florist, wilderness and the seaside"
+    },
+    {
+        "index": 12,
+        "start_time": 50210,
+        "end_time": 54970,
+        "text": "There is a kind of romance called wasting time"
+    },
+    {
+        "index": 13,
+        "start_time": 54970,
+        "end_time": 57900,
+        "text": "Wandering to the wonderland"
+    },
+    {
+        "index": 14,
+        "start_time": 57900,
+        "end_time": 61440,
+        "text": "I only then discovered how your figure from behind is ordinary yet special"
+    },
+    {
+        "index": 15,
+        "start_time": 61720,
+        "end_time": 66300,
+        "text": "We&#39;ve already passed through the border of the city, yet we still can&#39;t say good bye to each other"
+    },
+    {
+        "index": 16,
+        "start_time": 66300,
+        "end_time": 72260,
+        "text": "Whilst it seems love has long passed on, it is actually perfectly imperfect"
+    },
+    {
+        "index": 17,
+        "start_time": 72260,
+        "end_time": 76730,
+        "text": "Love has merely run round a circle"
+    },
+    {
+        "index": 18,
+        "start_time": 78640,
+        "end_time": 86950,
+        "text": "The destination is where we are right now"
+    },
+    {
+        "index": 19,
+        "start_time": 90960,
+        "end_time": 94520,
+        "text": "Gossiping and complaining"
+    },
+    {
+        "index": 20,
+        "start_time": 94520,
+        "end_time": 98870,
+        "text": "Keep talking, it&#39;s time to chat"
+    },
+    {
+        "index": 21,
+        "start_time": 98870,
+        "end_time": 102810,
+        "text": "I&#39;m waiting for the misunderstanding to brew into a date"
+    },
+    {
+        "index": 22,
+        "start_time": 102810,
+        "end_time": 107780,
+        "text": "Realigning myself to become a somebody to you"
+    },
+    {
+        "index": 23,
+        "start_time": 108110,
+        "end_time": 115070,
+        "text": "Oh, no idea how far we have gone"
+    },
+    {
+        "index": 24,
+        "start_time": 115070,
+        "end_time": 118720,
+        "text": "I wander around in the garden while you are yawning"
+    },
+    {
+        "index": 25,
+        "start_time": 118720,
+        "end_time": 123080,
+        "text": "We are almost there, we just need a little bit more"
+    },
+    {
+        "index": 26,
+        "start_time": 124580,
+        "end_time": 129270,
+        "text": "Passing by the school, florist, wilderness and the seaside"
+    },
+    {
+        "index": 27,
+        "start_time": 129270,
+        "end_time": 134330,
+        "text": "There is a kind of romance called wasting time"
+    },
+    {
+        "index": 28,
+        "start_time": 134330,
+        "end_time": 137390,
+        "text": "Wandering to the wonderland"
+    },
+    {
+        "index": 29,
+        "start_time": 137390,
+        "end_time": 140720,
+        "text": "I only then discovered how the figure of you from behind is ordinary yet special"
+    },
+    {
+        "index": 30,
+        "start_time": 141000,
+        "end_time": 145650,
+        "text": "We&#39;ve already passed through the border of the city, yet we still can&#39;t say good bye to each other"
+    },
+    {
+        "index": 31,
+        "start_time": 145650,
+        "end_time": 151470,
+        "text": "Whilst it seems love has long passed on, it is actually perfectly imperfect"
+    },
+    {
+        "index": 32,
+        "start_time": 151470,
+        "end_time": 156240,
+        "text": "Love has merely run round a circle"
+    },
+    {
+        "index": 33,
+        "start_time": 156730,
+        "end_time": 164720,
+        "text": "It seems like we have just met yesterday"
+    },
+    {
+        "index": 34,
+        "start_time": 164720,
+        "end_time": 172920,
+        "text": "Can&#39;t remember how I lived before without you"
+    },
+    {
+        "index": 35,
+        "start_time": 172920,
+        "end_time": 177010,
+        "text": "Thank you for wandering with me"
+    },
+    {
+        "index": 36,
+        "start_time": 177010,
+        "end_time": 180280,
+        "text": "Only come back in a circle I realized"
+    },
+    {
+        "index": 37,
+        "start_time": 180280,
+        "end_time": 188850,
+        "text": "Such wandering is so treasurable"
+    },
+    {
+        "index": 38,
+        "start_time": 189760,
+        "end_time": 195440,
+        "text": "Passing by the school, florist, wilderness and the seaside"
+    },
+    {
+        "index": 39,
+        "start_time": 195440,
+        "end_time": 200400,
+        "text": "There is a kind of romance called wasting time"
+    },
+    {
+        "index": 40,
+        "start_time": 200400,
+        "end_time": 203510,
+        "text": "Wandering to the wonderland"
+    },
+    {
+        "index": 41,
+        "start_time": 203510,
+        "end_time": 206840,
+        "text": "I only then discovered how your figure from behind is ordinary yet special"
+    },
+    {
+        "index": 42,
+        "start_time": 207150,
+        "end_time": 211750,
+        "text": "We&#39;ve already passed through the border of the city, yet we still can&#39;t say good bye to each other"
+    },
+    {
+        "index": 43,
+        "start_time": 211750,
+        "end_time": 217720,
+        "text": "Whilst it seems love has long passed on, it is actually perfectly imperfect"
+    },
+    {
+        "index": 44,
+        "start_time": 217720,
+        "end_time": 221660,
+        "text": "Love has merely run round a circle"
+    },
+    {
+        "index": 45,
+        "start_time": 223030,
+        "end_time": 226200,
+        "text": "Those beautiful moments of going around in circles"
+    },
+    {
+        "index": 46,
+        "start_time": 226200,
+        "end_time": 234350,
+        "text": "have made our memories worth remembering"
+    }
+]

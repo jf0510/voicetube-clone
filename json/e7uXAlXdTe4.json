@@ -1,0 +1,476 @@
+[
+    {
+        "index": 1,
+        "start_time": 7867,
+        "end_time": 11598,
+        "text": "Imagine, for a second,\na duck teaching a French class,"
+    },
+    {
+        "index": 2,
+        "start_time": 11598,
+        "end_time": 15167,
+        "text": "a ping-pong match in orbit \naround a black hole,"
+    },
+    {
+        "index": 3,
+        "start_time": 15167,
+        "end_time": 17788,
+        "text": "a dolphin balancing a pineapple."
+    },
+    {
+        "index": 4,
+        "start_time": 17788,
+        "end_time": 21277,
+        "text": "You probably haven&#39;t actually seen\nany of these things,"
+    },
+    {
+        "index": 5,
+        "start_time": 21277,
+        "end_time": 23937,
+        "text": "but you could imagine them instantly."
+    },
+    {
+        "index": 6,
+        "start_time": 23937,
+        "end_time": 27618,
+        "text": "How does your brain produce an image\nof something you&#39;ve never seen?"
+    },
+    {
+        "index": 7,
+        "start_time": 27618,
+        "end_time": 28978,
+        "text": "That may not seem hard,"
+    },
+    {
+        "index": 8,
+        "start_time": 28978,
+        "end_time": 31948,
+        "text": "but that&#39;s only because \nwe&#39;re so used to doing it."
+    },
+    {
+        "index": 9,
+        "start_time": 31948,
+        "end_time": 34629,
+        "text": "It turns out that this is actually\na complex problem"
+    },
+    {
+        "index": 10,
+        "start_time": 34629,
+        "end_time": 38818,
+        "text": "that requires sophisticated coordination\ninside your brain."
+    },
+    {
+        "index": 11,
+        "start_time": 38818,
+        "end_time": 41758,
+        "text": "That&#39;s because to create \nthese new, weird images,"
+    },
+    {
+        "index": 12,
+        "start_time": 41758,
+        "end_time": 46667,
+        "text": "your brain takes familiar pieces \nand assembles them in new ways,"
+    },
+    {
+        "index": 13,
+        "start_time": 46667,
+        "end_time": 49789,
+        "text": "like a collage made \nfrom fragments of photos."
+    },
+    {
+        "index": 14,
+        "start_time": 49789,
+        "end_time": 53329,
+        "text": "The brain has to juggle a sea of thousands\nof electrical signals"
+    },
+    {
+        "index": 15,
+        "start_time": 53329,
+        "end_time": 58059,
+        "text": "getting them all to their destination\nat precisely the right time."
+    },
+    {
+        "index": 16,
+        "start_time": 58059,
+        "end_time": 59779,
+        "text": "When you look at an object,"
+    },
+    {
+        "index": 17,
+        "start_time": 59779,
+        "end_time": 63658,
+        "text": "thousands of neurons \nin your posterior cortex fire."
+    },
+    {
+        "index": 18,
+        "start_time": 63658,
+        "end_time": 67018,
+        "text": "These neurons encode various \ncharacteristics of the object:"
+    },
+    {
+        "index": 19,
+        "start_time": 67018,
+        "end_time": 71159,
+        "text": "spiky, fruit, brown, green, and yellow."
+    },
+    {
+        "index": 20,
+        "start_time": 71159,
+        "end_time": 75540,
+        "text": "This synchronous firing strengthens the\nconnections between that set of neurons,"
+    },
+    {
+        "index": 21,
+        "start_time": 75540,
+        "end_time": 80095,
+        "text": "linking them together into what&#39;s known\nas a neuronal ensemble,"
+    },
+    {
+        "index": 22,
+        "start_time": 80095,
+        "end_time": 82300,
+        "text": "in this case the one for pineapple."
+    },
+    {
+        "index": 23,
+        "start_time": 82300,
+        "end_time": 85329,
+        "text": "In neuroscience, this is called\nthe Hebbian principle,"
+    },
+    {
+        "index": 24,
+        "start_time": 85329,
+        "end_time": 88839,
+        "text": "neurons that fire together wire together."
+    },
+    {
+        "index": 25,
+        "start_time": 88839,
+        "end_time": 90949,
+        "text": "If you try to imagine a pineapple later,"
+    },
+    {
+        "index": 26,
+        "start_time": 90949,
+        "end_time": 95850,
+        "text": "the whole ensemble will light up,\nassembling a complete mental image."
+    },
+    {
+        "index": 27,
+        "start_time": 95850,
+        "end_time": 99029,
+        "text": "Dolphins are encoded by a different\nneuronal ensemble."
+    },
+    {
+        "index": 28,
+        "start_time": 99029,
+        "end_time": 101050,
+        "text": "In fact, every object that you&#39;ve seen"
+    },
+    {
+        "index": 29,
+        "start_time": 101050,
+        "end_time": 105290,
+        "text": "is encoded by a neuronal ensemble \nassociated with it,"
+    },
+    {
+        "index": 30,
+        "start_time": 105290,
+        "end_time": 109240,
+        "text": "the neurons wired together\nby that synchronized firing."
+    },
+    {
+        "index": 31,
+        "start_time": 109240,
+        "end_time": 112510,
+        "text": "But this principle doesn&#39;t explain\nthe infinite number of objects"
+    },
+    {
+        "index": 32,
+        "start_time": 112510,
+        "end_time": 117240,
+        "text": "that we can conjure up in our imaginations\nwithout ever seeing them."
+    },
+    {
+        "index": 33,
+        "start_time": 117240,
+        "end_time": 122480,
+        "text": "The neuronal ensemble for a dolphin\nbalancing a pineapple doesn&#39;t exist."
+    },
+    {
+        "index": 34,
+        "start_time": 122480,
+        "end_time": 124922,
+        "text": "So how come you can imagine it anyway?"
+    },
+    {
+        "index": 35,
+        "start_time": 124922,
+        "end_time": 127760,
+        "text": "One hypothesis, \ncalled the Mental Synthesis Theory,"
+    },
+    {
+        "index": 36,
+        "start_time": 127760,
+        "end_time": 131130,
+        "text": "says that, again, timing is key."
+    },
+    {
+        "index": 37,
+        "start_time": 131130,
+        "end_time": 133941,
+        "text": "If the neuronal ensembles \nfor the dolphin and pineapple"
+    },
+    {
+        "index": 38,
+        "start_time": 133941,
+        "end_time": 136172,
+        "text": "are activated at the same time,"
+    },
+    {
+        "index": 39,
+        "start_time": 136172,
+        "end_time": 140761,
+        "text": "we can perceive the two separate objects\nas a single image."
+    },
+    {
+        "index": 40,
+        "start_time": 140761,
+        "end_time": 144041,
+        "text": "But something in your brain \nhas to coordinate that firing."
+    },
+    {
+        "index": 41,
+        "start_time": 144041,
+        "end_time": 147521,
+        "text": "One plausible candidate \nis the prefrontal cortex,"
+    },
+    {
+        "index": 42,
+        "start_time": 147521,
+        "end_time": 151301,
+        "text": "which is involved in \nall complex cognitive functions."
+    },
+    {
+        "index": 43,
+        "start_time": 151301,
+        "end_time": 155172,
+        "text": "Prefrontal cortex neurons are connected\nto the posterior cortex"
+    },
+    {
+        "index": 44,
+        "start_time": 155172,
+        "end_time": 160040,
+        "text": "by long, spindly cell extensions\ncalled neural fibers."
+    },
+    {
+        "index": 45,
+        "start_time": 160040,
+        "end_time": 164339,
+        "text": "The mental synthesis theory proposes\nthat like a puppeteer pulling the strings,"
+    },
+    {
+        "index": 46,
+        "start_time": 164339,
+        "end_time": 167869,
+        "text": "the prefrontal cortex neurons send\nelectrical signals"
+    },
+    {
+        "index": 47,
+        "start_time": 167869,
+        "end_time": 169582,
+        "text": "down these neural fibers"
+    },
+    {
+        "index": 48,
+        "start_time": 169582,
+        "end_time": 173410,
+        "text": "to multiple ensembles\nin the posterior cortex."
+    },
+    {
+        "index": 49,
+        "start_time": 173410,
+        "end_time": 176292,
+        "text": "This activates them in unison."
+    },
+    {
+        "index": 50,
+        "start_time": 176292,
+        "end_time": 179409,
+        "text": "If the neuronal ensembles are turned on\nat the same time,"
+    },
+    {
+        "index": 51,
+        "start_time": 179409,
+        "end_time": 184342,
+        "text": "you experience the composite image\njust as if you&#39;d actually seen it."
+    },
+    {
+        "index": 52,
+        "start_time": 184342,
+        "end_time": 186551,
+        "text": "This conscious purposeful synchronization"
+    },
+    {
+        "index": 53,
+        "start_time": 186551,
+        "end_time": 189852,
+        "text": "of different neuronal ensembles\nby the prefrontal cortex"
+    },
+    {
+        "index": 54,
+        "start_time": 189852,
+        "end_time": 192052,
+        "text": "is called mental synthesis."
+    },
+    {
+        "index": 55,
+        "start_time": 192052,
+        "end_time": 193813,
+        "text": "In order for mental sythesis to work,"
+    },
+    {
+        "index": 56,
+        "start_time": 193813,
+        "end_time": 199303,
+        "text": "signals would have to arrive at both\nneuronal ensembles at the same time."
+    },
+    {
+        "index": 57,
+        "start_time": 199303,
+        "end_time": 201073,
+        "text": "The problem is that some neurons"
+    },
+    {
+        "index": 58,
+        "start_time": 201073,
+        "end_time": 205083,
+        "text": "are much farther away \nfrom the prefrontal cortex than others."
+    },
+    {
+        "index": 59,
+        "start_time": 205083,
+        "end_time": 208453,
+        "text": "If the signals travel down both fibers\nat the same rate,"
+    },
+    {
+        "index": 60,
+        "start_time": 208453,
+        "end_time": 211163,
+        "text": "they&#39;d arrive out of sync."
+    },
+    {
+        "index": 61,
+        "start_time": 211163,
+        "end_time": 213583,
+        "text": "You can&#39;t change the length \nof the connections,"
+    },
+    {
+        "index": 62,
+        "start_time": 213583,
+        "end_time": 217044,
+        "text": "but your brain, \nespecially as it develops in childhood,"
+    },
+    {
+        "index": 63,
+        "start_time": 217044,
+        "end_time": 220884,
+        "text": "does have a way to change \nthe conduction velocity."
+    },
+    {
+        "index": 64,
+        "start_time": 220884,
+        "end_time": 225534,
+        "text": "Neural fibers are wrapped in a fatty\nsubstance called myelin."
+    },
+    {
+        "index": 65,
+        "start_time": 225534,
+        "end_time": 227343,
+        "text": "Myelin is an insulator"
+    },
+    {
+        "index": 66,
+        "start_time": 227343,
+        "end_time": 231554,
+        "text": "and speeds up the electrical signals \nzipping down the nerve fiber."
+    },
+    {
+        "index": 67,
+        "start_time": 231554,
+        "end_time": 235850,
+        "text": "Some neural fibers have \nas many as 100 layers of myelin."
+    },
+    {
+        "index": 68,
+        "start_time": 235850,
+        "end_time": 237754,
+        "text": "Others only have a few."
+    },
+    {
+        "index": 69,
+        "start_time": 237754,
+        "end_time": 240055,
+        "text": "And fibers with thicker layers of myelin"
+    },
+    {
+        "index": 70,
+        "start_time": 240055,
+        "end_time": 244154,
+        "text": "can conduct signals \n100 times faster or more"
+    },
+    {
+        "index": 71,
+        "start_time": 244154,
+        "end_time": 246565,
+        "text": "than those with thinner ones."
+    },
+    {
+        "index": 72,
+        "start_time": 246565,
+        "end_time": 249995,
+        "text": "Some scientists now think that this\ndifference in myelination"
+    },
+    {
+        "index": 73,
+        "start_time": 249995,
+        "end_time": 253835,
+        "text": "could be the key \nto uniform conduction time in the brain,"
+    },
+    {
+        "index": 74,
+        "start_time": 253835,
+        "end_time": 256925,
+        "text": "and consequently, \nto our mental synthesis ability."
+    },
+    {
+        "index": 75,
+        "start_time": 256925,
+        "end_time": 260255,
+        "text": "A lot of this myelination \nhappens in childhood,"
+    },
+    {
+        "index": 76,
+        "start_time": 260255,
+        "end_time": 261814,
+        "text": "so from an early age,"
+    },
+    {
+        "index": 77,
+        "start_time": 261814,
+        "end_time": 266115,
+        "text": "our vibrant imaginations may have a lot\nto do with building up brains"
+    },
+    {
+        "index": 78,
+        "start_time": 266115,
+        "end_time": 268381,
+        "text": "whose carefully myelinated connections"
+    },
+    {
+        "index": 79,
+        "start_time": 268381,
+        "end_time": 271824,
+        "text": "can craft creative symphonies\nthroughout our lives."
+    }
+]

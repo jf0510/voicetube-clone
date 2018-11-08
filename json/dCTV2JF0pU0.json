@@ -1,0 +1,320 @@
+[
+  {
+    "end_time": 2310,
+    "index": 1,
+    "start_time": 140,
+    "text": "I get asked all the time what my type is."
+  },
+  {
+    "end_time": 6959,
+    "index": 2,
+    "start_time": 2310,
+    "text": "A negative. What? It\u2019s way more important,\nwhat if I need a blood transfusion?"
+  },
+  {
+    "end_time": 13070,
+    "index": 3,
+    "start_time": 9330,
+    "text": "Hey blood brothers and sisters, Julian here"
+  },
+  {
+    "end_time": 19099,
+    "index": 4,
+    "start_time": 13070,
+    "text": "for DNews. Even if you don\u2019t know your blood\ntype you\u2019ve probably heard the terms thrown"
+  },
+  {
+    "end_time": 23380,
+    "index": 5,
+    "start_time": 19099,
+    "text": "around before. AB positive. O negative. What\ndo they mean?"
+  },
+  {
+    "end_time": 27609,
+    "index": 6,
+    "start_time": 23380,
+    "text": "It turns out there are actually 33 different\nsystems for categorizing a person\u2019s blood,"
+  },
+  {
+    "end_time": 31289,
+    "index": 7,
+    "start_time": 27609,
+    "text": "but the nomenclature you\u2019re most familiar\nwith is a combination of two of them; the"
+  },
+  {
+    "end_time": 33629,
+    "index": 8,
+    "start_time": 31289,
+    "text": "ABO system and the Rh system."
+  },
+  {
+    "end_time": 37309,
+    "index": 9,
+    "start_time": 33629,
+    "text": "The reason these two are so much more well\nknown is because they are by and large the"
+  },
+  {
+    "end_time": 41750,
+    "index": 10,
+    "start_time": 37309,
+    "text": "most important factors in blood transfusions.\nIn most cases these alone should be enough"
+  },
+  {
+    "end_time": 45969,
+    "index": 11,
+    "start_time": 41750,
+    "text": "for a doctor to know what kind of blood to\npump back into you if you\u2019ve sprung a leak."
+  },
+  {
+    "end_time": 49609,
+    "index": 12,
+    "start_time": 45969,
+    "text": "It\u2019s why some racing drivers in the \u201870s\nand \u201880s had their blood type sewn on their"
+  },
+  {
+    "end_time": 53289,
+    "index": 13,
+    "start_time": 49609,
+    "text": "race suit or painted on their car. Nowadays\nthey don\u2019t bother; the tests to determine"
+  },
+  {
+    "end_time": 57710,
+    "index": 14,
+    "start_time": 53289,
+    "text": "blood types and compatibility with donor blood\nare quick and much more foolproof than relying"
+  },
+  {
+    "end_time": 59570,
+    "index": 15,
+    "start_time": 57710,
+    "text": "on embroidery or a sticker."
+  },
+  {
+    "end_time": 63660,
+    "index": 16,
+    "start_time": 59570,
+    "text": "So what do the letters and plus/minus symbols\nactually denote? They\u2019re describing little"
+  },
+  {
+    "end_time": 69060,
+    "index": 17,
+    "start_time": 63660,
+    "text": "surface markers on the blood cells called\nantibody generators, or antigens for short."
+  },
+  {
+    "end_time": 72450,
+    "index": 18,
+    "start_time": 69060,
+    "text": "Antigens come in a lot of different varieties\nand your body\u2019s immune system attacks cells"
+  },
+  {
+    "end_time": 76479,
+    "index": 19,
+    "start_time": 72450,
+    "text": "with antigens that don\u2019t match your own.\nHaving the right antigens is like knowing"
+  },
+  {
+    "end_time": 80020,
+    "index": 20,
+    "start_time": 76479,
+    "text": "the password to get into the super secret,\nboys-only treehouse."
+  },
+  {
+    "end_time": 84759,
+    "index": 21,
+    "start_time": 80020,
+    "text": "Antigens can be either sugars or proteins.\nThe antigens described by the ABO blood group"
+  },
+  {
+    "end_time": 89259,
+    "index": 22,
+    "start_time": 84759,
+    "text": "system are sugars and they come in 4 different\ncombinations or \u201ctypes\u201d. Type O means"
+  },
+  {
+    "end_time": 93409,
+    "index": 23,
+    "start_time": 89259,
+    "text": "the blood cells have no A or B antigens, so\nit might be easier to think of it as type"
+  },
+  {
+    "end_time": 97560,
+    "index": 24,
+    "start_time": 93409,
+    "text": "Zero. People with this blood type can only\nreceive type O because their immune systems"
+  },
+  {
+    "end_time": 102290,
+    "index": 25,
+    "start_time": 97560,
+    "text": "will attack anything with an A or B antigen.\nBut any other blood type can accept type O"
+  },
+  {
+    "end_time": 105810,
+    "index": 26,
+    "start_time": 102290,
+    "text": "blood because the red blood cells will be\nignored by the immune system."
+  },
+  {
+    "end_time": 110619,
+    "index": 27,
+    "start_time": 105810,
+    "text": "Type A means cells have the A antigen so they\ncan\u2019t receive type B blood, and type B means"
+  },
+  {
+    "end_time": 115090,
+    "index": 28,
+    "start_time": 110619,
+    "text": "cells have the B antigen and won\u2019t be compatible\nwith type A blood. I think you see where this"
+  },
+  {
+    "end_time": 120939,
+    "index": 29,
+    "start_time": 115090,
+    "text": "is going: type AB means the red blood cells\nhave both A and B antigens, and so none of"
+  },
+  {
+    "end_time": 124929,
+    "index": 30,
+    "start_time": 120939,
+    "text": "the white blood cells will attack anything\nwith A or B antigens. People with this blood"
+  },
+  {
+    "end_time": 130090,
+    "index": 31,
+    "start_time": 124930,
+    "text": "type can accept any \u2018ol human blood. Well,\nso long as the Rh antigens are correct too."
+  },
+  {
+    "end_time": 134629,
+    "index": 32,
+    "start_time": 130090,
+    "text": "The Rh blood group system is so named because\n75 years ago it was discovered the antigens"
+  },
+  {
+    "end_time": 139349,
+    "index": 33,
+    "start_time": 134629,
+    "text": "behaved similarly to those in Rhesus macaques.\nBut they are different, so don\u2019t go around"
+  },
+  {
+    "end_time": 144209,
+    "index": 34,
+    "start_time": 139349,
+    "text": "injecting monkey blood all willy-nilly. Rh\nantigens are proteins, there are 49 varieties"
+  },
+  {
+    "end_time": 150409,
+    "index": 35,
+    "start_time": 144209,
+    "text": "but one in particular, RhD, is highly immunogenic,\nmeaning immune systems that don\u2019t have it"
+  },
+  {
+    "end_time": 154209,
+    "index": 36,
+    "start_time": 150409,
+    "text": "freak out when they encounter it. So if you\nhave RhD, your blood type has a plus symbol"
+  },
+  {
+    "end_time": 158599,
+    "index": 37,
+    "start_time": 154209,
+    "text": "next to it and you can only donate to other\npositive blood types, but you can accept positive"
+  },
+  {
+    "end_time": 163310,
+    "index": 38,
+    "start_time": 158599,
+    "text": "and negative blood types. Put the two systems\ntogether and it means O- is the universal"
+  },
+  {
+    "end_time": 166810,
+    "index": 39,
+    "start_time": 163310,
+    "text": "donor, while AB+ will be the universal receiver."
+  },
+  {
+    "end_time": 170659,
+    "index": 40,
+    "start_time": 166810,
+    "text": "Blood types are passed down through your genes.\nYou can change blood type, but it\u2019s extremely"
+  },
+  {
+    "end_time": 174280,
+    "index": 41,
+    "start_time": 170659,
+    "text": "rare. It either happens from some sort of\nillness, or if you get a bone marrow transplant"
+  },
+  {
+    "end_time": 176959,
+    "index": 42,
+    "start_time": 174280,
+    "text": "your blood will eventually convert to your\ndonor\u2019s type."
+  },
+  {
+    "end_time": 180720,
+    "index": 43,
+    "start_time": 176959,
+    "text": "So now you know! Unless you have some rare\nblood type that needs one of the other 31"
+  },
+  {
+    "end_time": 184720,
+    "index": 44,
+    "start_time": 180720,
+    "text": "blood group systems to describe it, you now\nunderstand what the letters and symbols of"
+  },
+  {
+    "end_time": 186170,
+    "index": 45,
+    "start_time": 184720,
+    "text": "your blood type mean."
+  },
+  {
+    "end_time": 189970,
+    "index": 46,
+    "start_time": 186170,
+    "text": "In some places like Japan it\u2019s believed\nthat blood types also correspond to personality"
+  },
+  {
+    "end_time": 194470,
+    "index": 47,
+    "start_time": 189970,
+    "text": "traits, but really it only affects your immune\nsystem. Thinking Type O blood makes a person"
+  },
+  {
+    "end_time": 199150,
+    "index": 48,
+    "start_time": 194470,
+    "text": "confident and controlled is kind of like thinking\nJupiter is going to affect your luck today."
+  },
+  {
+    "end_time": 203250,
+    "index": 49,
+    "start_time": 199150,
+    "text": "Speaking of, here\u2019s Laci talking about why\nAstrology is silly. Check the description"
+  },
+  {
+    "end_time": 210250,
+    "index": 50,
+    "start_time": 203250,
+    "text": "for a link if you\u2019re on your mobile."
+  },
+  {
+    "end_time": 217370,
+    "index": 51,
+    "start_time": 210370,
+    "text": "Are there any other things like blood types\nyou take for granted because you just never"
+  },
+  {
+    "end_time": 223519,
+    "index": 52,
+    "start_time": 219430,
+    "text": "thought about it? If you want us to to explain\nthem, go ahead and ask us in the comments,"
+  },
+  {
+    "end_time": 228729,
+    "index": 53,
+    "start_time": 223519,
+    "text": "it\u2019s what we\u2019re here for. I\u2019ll see you\nnext time on DNews."
+  }
+]

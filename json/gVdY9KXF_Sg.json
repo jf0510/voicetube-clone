@@ -1,0 +1,584 @@
+[
+    {
+        "index": 1,
+        "start_time": 7712,
+        "end_time": 12480,
+        "text": "It starts with a tickle in your throat\nthat becomes a cough."
+    },
+    {
+        "index": 2,
+        "start_time": 12480,
+        "end_time": 14485,
+        "text": "Your muscles begin to ache,"
+    },
+    {
+        "index": 3,
+        "start_time": 14485,
+        "end_time": 15955,
+        "text": "you grow irritable,"
+    },
+    {
+        "index": 4,
+        "start_time": 15955,
+        "end_time": 17922,
+        "text": "and you lose your appetite."
+    },
+    {
+        "index": 5,
+        "start_time": 17922,
+        "end_time": 20820,
+        "text": "It&#39;s official: you&#39;ve got the flu."
+    },
+    {
+        "index": 6,
+        "start_time": 20820,
+        "end_time": 24105,
+        "text": "It&#39;s logical to assume that this\nmiserable medley of symptoms"
+    },
+    {
+        "index": 7,
+        "start_time": 24105,
+        "end_time": 27291,
+        "text": "is the result of the infection\ncoursing through your body,"
+    },
+    {
+        "index": 8,
+        "start_time": 27291,
+        "end_time": 29191,
+        "text": "but is that really the case?"
+    },
+    {
+        "index": 9,
+        "start_time": 29191,
+        "end_time": 31927,
+        "text": "What&#39;s actually making you feel sick?"
+    },
+    {
+        "index": 10,
+        "start_time": 31927,
+        "end_time": 37403,
+        "text": "What if your body itself\nwas driving this vicious onslaught?"
+    },
+    {
+        "index": 11,
+        "start_time": 37403,
+        "end_time": 42260,
+        "text": "You first get ill when a pathogen\nlike the flu virus gets into your system,"
+    },
+    {
+        "index": 12,
+        "start_time": 42260,
+        "end_time": 44925,
+        "text": "infecting and killing your cells."
+    },
+    {
+        "index": 13,
+        "start_time": 44925,
+        "end_time": 47477,
+        "text": "But this unwelcome intrusion \nhas another effect:"
+    },
+    {
+        "index": 14,
+        "start_time": 47477,
+        "end_time": 51231,
+        "text": "it alerts your body&#39;s immune system\nto your plight."
+    },
+    {
+        "index": 15,
+        "start_time": 51231,
+        "end_time": 56591,
+        "text": "As soon as it becomes aware of infection,\nyour body leaps to your defense."
+    },
+    {
+        "index": 16,
+        "start_time": 56591,
+        "end_time": 60862,
+        "text": "Cells called macrophages charge in\nas the first line of attack,"
+    },
+    {
+        "index": 17,
+        "start_time": 60862,
+        "end_time": 65498,
+        "text": "searching for and destroying the viruses\nand infected cells."
+    },
+    {
+        "index": 18,
+        "start_time": 65498,
+        "end_time": 70553,
+        "text": "Afterwards, the macrophages release\nprotein molecules called cytokines"
+    },
+    {
+        "index": 19,
+        "start_time": 70553,
+        "end_time": 71999,
+        "text": "whose job is to recruit"
+    },
+    {
+        "index": 20,
+        "start_time": 71999,
+        "end_time": 76988,
+        "text": "and organize more virus-busting cells \nfrom your immune system."
+    },
+    {
+        "index": 21,
+        "start_time": 76988,
+        "end_time": 79304,
+        "text": "If this coordinated effort \nis strong enough,"
+    },
+    {
+        "index": 22,
+        "start_time": 79304,
+        "end_time": 83413,
+        "text": "it&#39;ll wipe out the infection\nbefore you even notice it."
+    },
+    {
+        "index": 23,
+        "start_time": 83413,
+        "end_time": 87194,
+        "text": "But that&#39;s just your body setting\nthe scene for some real action."
+    },
+    {
+        "index": 24,
+        "start_time": 87194,
+        "end_time": 89925,
+        "text": "In some cases, viruses spread further,"
+    },
+    {
+        "index": 25,
+        "start_time": 89925,
+        "end_time": 92538,
+        "text": "even into the blood and vital organs."
+    },
+    {
+        "index": 26,
+        "start_time": 92538,
+        "end_time": 95014,
+        "text": "To avoid this sometimes dangerous fate,"
+    },
+    {
+        "index": 27,
+        "start_time": 95014,
+        "end_time": 98239,
+        "text": "your immune system must launch\na stronger attack,"
+    },
+    {
+        "index": 28,
+        "start_time": 98239,
+        "end_time": 101293,
+        "text": "coordinating its activity with the brain."
+    },
+    {
+        "index": 29,
+        "start_time": 101293,
+        "end_time": 103714,
+        "text": "That&#39;s where those unpleasant symptoms\ncome in,"
+    },
+    {
+        "index": 30,
+        "start_time": 103714,
+        "end_time": 105765,
+        "text": "starting with the surging temperature,"
+    },
+    {
+        "index": 31,
+        "start_time": 105765,
+        "end_time": 106829,
+        "text": "aches and pains,"
+    },
+    {
+        "index": 32,
+        "start_time": 106829,
+        "end_time": 108307,
+        "text": "and sleepiness."
+    },
+    {
+        "index": 33,
+        "start_time": 108307,
+        "end_time": 111172,
+        "text": "So why do we experience this?"
+    },
+    {
+        "index": 34,
+        "start_time": 111172,
+        "end_time": 113524,
+        "text": "When the immune system is under\nserious attack,"
+    },
+    {
+        "index": 35,
+        "start_time": 113524,
+        "end_time": 115908,
+        "text": "it secretes more cytokines,"
+    },
+    {
+        "index": 36,
+        "start_time": 115908,
+        "end_time": 117999,
+        "text": "which trigger two responses."
+    },
+    {
+        "index": 37,
+        "start_time": 117999,
+        "end_time": 122019,
+        "text": "First, the vagus nerve, which runs through\nthe body into the brain,"
+    },
+    {
+        "index": 38,
+        "start_time": 122019,
+        "end_time": 125337,
+        "text": "quickly transmits the information\nto the brain stem,"
+    },
+    {
+        "index": 39,
+        "start_time": 125337,
+        "end_time": 129422,
+        "text": "passing near an important area\nof pain processing."
+    },
+    {
+        "index": 40,
+        "start_time": 129422,
+        "end_time": 132993,
+        "text": "Second, cytokines travel through\nthe body to the hypothalamus,"
+    },
+    {
+        "index": 41,
+        "start_time": 132993,
+        "end_time": 135924,
+        "text": "the part of the brain responsible\nfor controlling temperature,"
+    },
+    {
+        "index": 42,
+        "start_time": 135924,
+        "end_time": 136899,
+        "text": "thirst,"
+    },
+    {
+        "index": 43,
+        "start_time": 136899,
+        "end_time": 137789,
+        "text": "hunger,"
+    },
+    {
+        "index": 44,
+        "start_time": 137789,
+        "end_time": 138919,
+        "text": "and sleep,"
+    },
+    {
+        "index": 45,
+        "start_time": 138919,
+        "end_time": 140558,
+        "text": "among other things."
+    },
+    {
+        "index": 46,
+        "start_time": 140558,
+        "end_time": 142076,
+        "text": "When it receives this message,"
+    },
+    {
+        "index": 47,
+        "start_time": 142076,
+        "end_time": 144426,
+        "text": "the hypothalamus produces\nanother molecule"
+    },
+    {
+        "index": 48,
+        "start_time": 144426,
+        "end_time": 148995,
+        "text": "called prostaglandin E2,\nwhich gears it up for war."
+    },
+    {
+        "index": 49,
+        "start_time": 148995,
+        "end_time": 152765,
+        "text": "The hypothalamus sends signals\nthat instruct your muscles to contract"
+    },
+    {
+        "index": 50,
+        "start_time": 152765,
+        "end_time": 155655,
+        "text": "and causes a rise in body temperature."
+    },
+    {
+        "index": 51,
+        "start_time": 155655,
+        "end_time": 157396,
+        "text": "It also makes you sleepy,"
+    },
+    {
+        "index": 52,
+        "start_time": 157396,
+        "end_time": 160742,
+        "text": "and you lose your appetite and thirst."
+    },
+    {
+        "index": 53,
+        "start_time": 160742,
+        "end_time": 163905,
+        "text": "But what&#39;s the point of all of these\nunpleasant symptoms?"
+    },
+    {
+        "index": 54,
+        "start_time": 163905,
+        "end_time": 165613,
+        "text": "Well, we&#39;re not yet sure,"
+    },
+    {
+        "index": 55,
+        "start_time": 165613,
+        "end_time": 168834,
+        "text": "but some theorize that they aid\nin recovery."
+    },
+    {
+        "index": 56,
+        "start_time": 168834,
+        "end_time": 171523,
+        "text": "The rise in temperature can slow bacteria"
+    },
+    {
+        "index": 57,
+        "start_time": 171523,
+        "end_time": 174587,
+        "text": "and help your immune system\ndestroy pathogens."
+    },
+    {
+        "index": 58,
+        "start_time": 174587,
+        "end_time": 178643,
+        "text": "Sleep lets your body channel\nmore energy towards fighting infection."
+    },
+    {
+        "index": 59,
+        "start_time": 178643,
+        "end_time": 183314,
+        "text": "When you stop eating, your liver can\ntake up much of the iron in your blood,"
+    },
+    {
+        "index": 60,
+        "start_time": 183314,
+        "end_time": 186270,
+        "text": "and since iron is essential \nfor bacterial survival,"
+    },
+    {
+        "index": 61,
+        "start_time": 186270,
+        "end_time": 189233,
+        "text": "that effectively starves them."
+    },
+    {
+        "index": 62,
+        "start_time": 189233,
+        "end_time": 192674,
+        "text": "Your reduced thirst makes \nyou mildly dehydrated,"
+    },
+    {
+        "index": 63,
+        "start_time": 192674,
+        "end_time": 194959,
+        "text": "diminishing transmission through sneezes,"
+    },
+    {
+        "index": 64,
+        "start_time": 194959,
+        "end_time": 195802,
+        "text": "coughs,"
+    },
+    {
+        "index": 65,
+        "start_time": 195802,
+        "end_time": 196700,
+        "text": "vomit,"
+    },
+    {
+        "index": 66,
+        "start_time": 196700,
+        "end_time": 197896,
+        "text": "or diarrhea."
+    },
+    {
+        "index": 67,
+        "start_time": 197896,
+        "end_time": 200813,
+        "text": "Though it&#39;s worth noting that if you don&#39;t\ndrink enough water,"
+    },
+    {
+        "index": 68,
+        "start_time": 200813,
+        "end_time": 203621,
+        "text": "that dehydration can become dangerous."
+    },
+    {
+        "index": 69,
+        "start_time": 203621,
+        "end_time": 206265,
+        "text": "Even the body&#39;s aches \nmake you more sensitive,"
+    },
+    {
+        "index": 70,
+        "start_time": 206265,
+        "end_time": 209958,
+        "text": "drawing attention to infected cuts\nthat might be worsening,"
+    },
+    {
+        "index": 71,
+        "start_time": 209958,
+        "end_time": 212925,
+        "text": "or even causing your condition."
+    },
+    {
+        "index": 72,
+        "start_time": 212925,
+        "end_time": 214728,
+        "text": "In addition to physical symptoms,"
+    },
+    {
+        "index": 73,
+        "start_time": 214728,
+        "end_time": 217113,
+        "text": "sickness can also make you irritable,"
+    },
+    {
+        "index": 74,
+        "start_time": 217113,
+        "end_time": 217823,
+        "text": "sad,"
+    },
+    {
+        "index": 75,
+        "start_time": 217823,
+        "end_time": 219233,
+        "text": "and confused."
+    },
+    {
+        "index": 76,
+        "start_time": 219233,
+        "end_time": 221298,
+        "text": "That&#39;s because cytokines and prostaglandin"
+    },
+    {
+        "index": 77,
+        "start_time": 221298,
+        "end_time": 224385,
+        "text": "can reach even higher structures \nin your brain,"
+    },
+    {
+        "index": 78,
+        "start_time": 224385,
+        "end_time": 226958,
+        "text": "disrupting the activity \nof neurotransmitters,"
+    },
+    {
+        "index": 79,
+        "start_time": 226958,
+        "end_time": 227931,
+        "text": "like glutamate,"
+    },
+    {
+        "index": 80,
+        "start_time": 227931,
+        "end_time": 229053,
+        "text": "endorphins,"
+    },
+    {
+        "index": 81,
+        "start_time": 229053,
+        "end_time": 230238,
+        "text": "serotonin,"
+    },
+    {
+        "index": 82,
+        "start_time": 230238,
+        "end_time": 232171,
+        "text": "and dopamine."
+    },
+    {
+        "index": 83,
+        "start_time": 232171,
+        "end_time": 236256,
+        "text": "This affects areas like the limbic system,\nwhich oversees emotions,"
+    },
+    {
+        "index": 84,
+        "start_time": 236256,
+        "end_time": 240702,
+        "text": "and your cerebral cortex,\nwhich is involved in reasoning."
+    },
+    {
+        "index": 85,
+        "start_time": 240702,
+        "end_time": 243384,
+        "text": "So it&#39;s actually the body&#39;s own\nimmune response"
+    },
+    {
+        "index": 86,
+        "start_time": 243384,
+        "end_time": 247918,
+        "text": "that causes much of the discomfort\nyou feel every time you get ill."
+    },
+    {
+        "index": 87,
+        "start_time": 247918,
+        "end_time": 250909,
+        "text": "Unfortunately, it doesn&#39;t always\nwork perfectly."
+    },
+    {
+        "index": 88,
+        "start_time": 250909,
+        "end_time": 256212,
+        "text": "Most notably, millions of people\nworldwide suffer from autoimmune diseases,"
+    },
+    {
+        "index": 89,
+        "start_time": 256212,
+        "end_time": 261205,
+        "text": "in which the immune system treats\nnormal bodily cues as threats,"
+    },
+    {
+        "index": 90,
+        "start_time": 261205,
+        "end_time": 263719,
+        "text": "so the body attacks itself."
+    },
+    {
+        "index": 91,
+        "start_time": 263719,
+        "end_time": 265688,
+        "text": "But for the majority of the human race,"
+    },
+    {
+        "index": 92,
+        "start_time": 265688,
+        "end_time": 269484,
+        "text": "millions of years of evolution\nhave fine-tuned the immune system"
+    },
+    {
+        "index": 93,
+        "start_time": 269484,
+        "end_time": 272704,
+        "text": "so that it works for, \nrather than against us."
+    },
+    {
+        "index": 94,
+        "start_time": 272704,
+        "end_time": 275216,
+        "text": "The symptoms of our illnesses \nare annoying,"
+    },
+    {
+        "index": 95,
+        "start_time": 275216,
+        "end_time": 278745,
+        "text": "but collectively, \nthey signify an ancient process"
+    },
+    {
+        "index": 96,
+        "start_time": 278745,
+        "end_time": 283129,
+        "text": "that will continue barricading our bodies\nagainst the outside world"
+    },
+    {
+        "index": 97,
+        "start_time": 283129,
+        "end_time": 284729,
+        "text": "for centuries to come."
+    }
+]

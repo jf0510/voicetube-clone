@@ -1,0 +1,524 @@
+[
+    {
+        "index": 1,
+        "start_time": 8306,
+        "end_time": 11045,
+        "text": "Around 1159 A.D.,"
+    },
+    {
+        "index": 2,
+        "start_time": 11045,
+        "end_time": 13626,
+        "text": "a mathematician called \nBhaskara the Learned"
+    },
+    {
+        "index": 3,
+        "start_time": 13626,
+        "end_time": 19996,
+        "text": "sketched a design for a wheel\ncontaining curved reservoirs of mercury."
+    },
+    {
+        "index": 4,
+        "start_time": 19996,
+        "end_time": 22179,
+        "text": "He reasoned that as the wheels spun,"
+    },
+    {
+        "index": 5,
+        "start_time": 22179,
+        "end_time": 25797,
+        "text": "the mercury would flow to the bottom\nof each reservoir,"
+    },
+    {
+        "index": 6,
+        "start_time": 25797,
+        "end_time": 30217,
+        "text": "leaving one side of the wheel\nperpetually heavier than the other."
+    },
+    {
+        "index": 7,
+        "start_time": 30217,
+        "end_time": 34637,
+        "text": "The imbalance would keep\nthe wheel turning forever."
+    },
+    {
+        "index": 8,
+        "start_time": 34637,
+        "end_time": 37566,
+        "text": "Bhaskara&#39;s drawing was one of\nthe earliest designs"
+    },
+    {
+        "index": 9,
+        "start_time": 37566,
+        "end_time": 40097,
+        "text": "for a perpetual motion machine,"
+    },
+    {
+        "index": 10,
+        "start_time": 40097,
+        "end_time": 46737,
+        "text": "a device that can do work indefinitely\nwithout any external energy source."
+    },
+    {
+        "index": 11,
+        "start_time": 46737,
+        "end_time": 52318,
+        "text": "Imagine a windmill that produced\nthe breeze it needed to keep rotating."
+    },
+    {
+        "index": 12,
+        "start_time": 52318,
+        "end_time": 57371,
+        "text": "Or a lightbulb whose glow provided\nits own electricity."
+    },
+    {
+        "index": 13,
+        "start_time": 57371,
+        "end_time": 61179,
+        "text": "These devices have captured many\ninventors&#39; imaginations"
+    },
+    {
+        "index": 14,
+        "start_time": 61179,
+        "end_time": 65470,
+        "text": "because they could transform \nour relationship with energy."
+    },
+    {
+        "index": 15,
+        "start_time": 65470,
+        "end_time": 68999,
+        "text": "For example, if you could build \na perpetual motion machine"
+    },
+    {
+        "index": 16,
+        "start_time": 68999,
+        "end_time": 72829,
+        "text": "that included humans as part of its\nperfectly efficient system,"
+    },
+    {
+        "index": 17,
+        "start_time": 72829,
+        "end_time": 76250,
+        "text": "it could sustain life indefinitely."
+    },
+    {
+        "index": 18,
+        "start_time": 76250,
+        "end_time": 78269,
+        "text": "There&#39;s just one problem."
+    },
+    {
+        "index": 19,
+        "start_time": 78269,
+        "end_time": 80359,
+        "text": "They don&#39;t work."
+    },
+    {
+        "index": 20,
+        "start_time": 80359,
+        "end_time": 82389,
+        "text": "Ideas for perpetual motion machines"
+    },
+    {
+        "index": 21,
+        "start_time": 82389,
+        "end_time": 87410,
+        "text": "all violate one or more \nfundamental laws of thermodynamics,"
+    },
+    {
+        "index": 22,
+        "start_time": 87410,
+        "end_time": 89649,
+        "text": "the branch of physics that describes\nthe relationship"
+    },
+    {
+        "index": 23,
+        "start_time": 89649,
+        "end_time": 92540,
+        "text": "between different forms of energy."
+    },
+    {
+        "index": 24,
+        "start_time": 92540,
+        "end_time": 97440,
+        "text": "The first law of thermodynamics says\nthat energy can&#39;t be created or destroyed."
+    },
+    {
+        "index": 25,
+        "start_time": 97440,
+        "end_time": 101580,
+        "text": "You can&#39;t get out more energy\nthan you put in."
+    },
+    {
+        "index": 26,
+        "start_time": 101580,
+        "end_time": 105461,
+        "text": "That rules out a useful\nperpetual motion machine right away"
+    },
+    {
+        "index": 27,
+        "start_time": 105461,
+        "end_time": 110381,
+        "text": "because a machine could only ever\nproduce as much energy as it consumed."
+    },
+    {
+        "index": 28,
+        "start_time": 110381,
+        "end_time": 114751,
+        "text": "There wouldn&#39;t be any left over\nto power a car or charge a phone."
+    },
+    {
+        "index": 29,
+        "start_time": 114751,
+        "end_time": 119501,
+        "text": "But what if you just wanted the machine\nto keep itself moving?"
+    },
+    {
+        "index": 30,
+        "start_time": 119501,
+        "end_time": 121881,
+        "text": "Inventors have proposed plenty of ideas."
+    },
+    {
+        "index": 31,
+        "start_time": 121881,
+        "end_time": 126951,
+        "text": "Several of these have been variations\non Bhaskara&#39;s over-balanced wheel"
+    },
+    {
+        "index": 32,
+        "start_time": 126951,
+        "end_time": 131582,
+        "text": "with rolling balls \nor weights on swinging arms."
+    },
+    {
+        "index": 33,
+        "start_time": 131582,
+        "end_time": 133241,
+        "text": "None of them work."
+    },
+    {
+        "index": 34,
+        "start_time": 133241,
+        "end_time": 136081,
+        "text": "The moving parts that make one\nside of the wheel heavier"
+    },
+    {
+        "index": 35,
+        "start_time": 136081,
+        "end_time": 141243,
+        "text": "also shift its center of mass downward\nbelow the axle."
+    },
+    {
+        "index": 36,
+        "start_time": 141243,
+        "end_time": 142753,
+        "text": "With a low center of mass,"
+    },
+    {
+        "index": 37,
+        "start_time": 142753,
+        "end_time": 146052,
+        "text": "the wheel just swings back and forth\nlike a pendulum,"
+    },
+    {
+        "index": 38,
+        "start_time": 146052,
+        "end_time": 148105,
+        "text": "then stops."
+    },
+    {
+        "index": 39,
+        "start_time": 148105,
+        "end_time": 150372,
+        "text": "What about a different approach?"
+    },
+    {
+        "index": 40,
+        "start_time": 150372,
+        "end_time": 153692,
+        "text": "In the 17th century, Robert Boyle\ncame up with an idea"
+    },
+    {
+        "index": 41,
+        "start_time": 153692,
+        "end_time": 156413,
+        "text": "for a self-watering pot."
+    },
+    {
+        "index": 42,
+        "start_time": 156413,
+        "end_time": 159303,
+        "text": "He theorized that capillary action,"
+    },
+    {
+        "index": 43,
+        "start_time": 159303,
+        "end_time": 162032,
+        "text": "the attraction \nbetween liquids and surfaces"
+    },
+    {
+        "index": 44,
+        "start_time": 162032,
+        "end_time": 164853,
+        "text": "that pulls water through thin tubes,"
+    },
+    {
+        "index": 45,
+        "start_time": 164853,
+        "end_time": 169463,
+        "text": "might keep the water cycling\naround the bowl."
+    },
+    {
+        "index": 46,
+        "start_time": 169463,
+        "end_time": 173013,
+        "text": "But if the capillary action is strong\nenough to overcome gravity"
+    },
+    {
+        "index": 47,
+        "start_time": 173013,
+        "end_time": 174733,
+        "text": "and draw the water up,"
+    },
+    {
+        "index": 48,
+        "start_time": 174733,
+        "end_time": 179294,
+        "text": "it would also prevent it from falling\nback into the bowl."
+    },
+    {
+        "index": 49,
+        "start_time": 179294,
+        "end_time": 183485,
+        "text": "Then there are versions with magnets,\nlike this set of ramps."
+    },
+    {
+        "index": 50,
+        "start_time": 183485,
+        "end_time": 187364,
+        "text": "The ball is supposed to be pulled\nupwards by the magnet at the top,"
+    },
+    {
+        "index": 51,
+        "start_time": 187364,
+        "end_time": 189175,
+        "text": "fall back down through the hole,"
+    },
+    {
+        "index": 52,
+        "start_time": 189175,
+        "end_time": 191352,
+        "text": "and repeat the cycle."
+    },
+    {
+        "index": 53,
+        "start_time": 191352,
+        "end_time": 194396,
+        "text": "This one fails because like\nthe self-watering pot,"
+    },
+    {
+        "index": 54,
+        "start_time": 194396,
+        "end_time": 198176,
+        "text": "the magnet would simply hold\nthe ball at the top."
+    },
+    {
+        "index": 55,
+        "start_time": 198176,
+        "end_time": 200435,
+        "text": "Even if it somehow did keep moving,"
+    },
+    {
+        "index": 56,
+        "start_time": 200435,
+        "end_time": 203176,
+        "text": "the magnet&#39;s strength \nwould degrade over time"
+    },
+    {
+        "index": 57,
+        "start_time": 203176,
+        "end_time": 205897,
+        "text": "and eventually stop working."
+    },
+    {
+        "index": 58,
+        "start_time": 205897,
+        "end_time": 208431,
+        "text": "For each of these machines to keep moving,"
+    },
+    {
+        "index": 59,
+        "start_time": 208431,
+        "end_time": 210745,
+        "text": "they&#39;d have to create some extra energy"
+    },
+    {
+        "index": 60,
+        "start_time": 210745,
+        "end_time": 214076,
+        "text": "to nudge the system \npast its stopping point,"
+    },
+    {
+        "index": 61,
+        "start_time": 214076,
+        "end_time": 217596,
+        "text": "breaking the first law of thermodynamics."
+    },
+    {
+        "index": 62,
+        "start_time": 217596,
+        "end_time": 219687,
+        "text": "There are ones that seem to keep going,"
+    },
+    {
+        "index": 63,
+        "start_time": 219687,
+        "end_time": 223148,
+        "text": "but in reality, they invariably turn out\nto be drawing energy"
+    },
+    {
+        "index": 64,
+        "start_time": 223148,
+        "end_time": 226177,
+        "text": "from some external source."
+    },
+    {
+        "index": 65,
+        "start_time": 226177,
+        "end_time": 228707,
+        "text": "Even if engineers could \nsomehow design a machine"
+    },
+    {
+        "index": 66,
+        "start_time": 228707,
+        "end_time": 231618,
+        "text": "that didn&#39;t violate the first law\nof thermodynamics,"
+    },
+    {
+        "index": 67,
+        "start_time": 231618,
+        "end_time": 236387,
+        "text": "it still wouldn&#39;t work in the real world\nbecause of the second law."
+    },
+    {
+        "index": 68,
+        "start_time": 236387,
+        "end_time": 238118,
+        "text": "The second law of thermodynamics"
+    },
+    {
+        "index": 69,
+        "start_time": 238118,
+        "end_time": 243345,
+        "text": "tells us that energy tends to spread out\nthrough processes like friction."
+    },
+    {
+        "index": 70,
+        "start_time": 243345,
+        "end_time": 245677,
+        "text": "Any real machine would have moving parts"
+    },
+    {
+        "index": 71,
+        "start_time": 245677,
+        "end_time": 248562,
+        "text": "or interactions with air \nor liquid molecules"
+    },
+    {
+        "index": 72,
+        "start_time": 248562,
+        "end_time": 252348,
+        "text": "that would generate tiny amounts\nof friction and heat,"
+    },
+    {
+        "index": 73,
+        "start_time": 252348,
+        "end_time": 254635,
+        "text": "even in a vacuum."
+    },
+    {
+        "index": 74,
+        "start_time": 254635,
+        "end_time": 256998,
+        "text": "That heat is energy escaping,"
+    },
+    {
+        "index": 75,
+        "start_time": 256998,
+        "end_time": 258561,
+        "text": "and it would keep leeching out,"
+    },
+    {
+        "index": 76,
+        "start_time": 258561,
+        "end_time": 261488,
+        "text": "reducing the energy available\nto move the system itself"
+    },
+    {
+        "index": 77,
+        "start_time": 261488,
+        "end_time": 265248,
+        "text": "until the machine inevitably stopped."
+    },
+    {
+        "index": 78,
+        "start_time": 265248,
+        "end_time": 267769,
+        "text": "So far, these two laws of thermodynamics"
+    },
+    {
+        "index": 79,
+        "start_time": 267769,
+        "end_time": 271299,
+        "text": "have stymied every idea \nfor perpetual motion"
+    },
+    {
+        "index": 80,
+        "start_time": 271299,
+        "end_time": 276639,
+        "text": "and the dreams of perfectly efficient\nenergy generation they imply."
+    },
+    {
+        "index": 81,
+        "start_time": 276639,
+        "end_time": 281748,
+        "text": "Yet it&#39;s hard to conclusively say we&#39;ll\nnever discover a perpetual motion machine"
+    },
+    {
+        "index": 82,
+        "start_time": 281748,
+        "end_time": 286550,
+        "text": "because there&#39;s still so much we don&#39;t\nunderstand about the universe."
+    },
+    {
+        "index": 83,
+        "start_time": 286550,
+        "end_time": 289313,
+        "text": "Perhaps we&#39;ll find \nnew exotic forms of matter"
+    },
+    {
+        "index": 84,
+        "start_time": 289313,
+        "end_time": 293340,
+        "text": "that&#39;ll force us to revisit the laws\nof thermodynamics."
+    },
+    {
+        "index": 85,
+        "start_time": 293340,
+        "end_time": 298600,
+        "text": "Or maybe there&#39;s perpetual motion\non tiny quantum scales."
+    },
+    {
+        "index": 86,
+        "start_time": 298600,
+        "end_time": 303730,
+        "text": "What we can be reasonably sure about\nis that we&#39;ll never stop looking."
+    },
+    {
+        "index": 87,
+        "start_time": 303730,
+        "end_time": 308211,
+        "text": "For now, the one thing that seems\ntruly perpetual is our search."
+    }
+]

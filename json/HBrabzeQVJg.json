@@ -1,0 +1,302 @@
+[
+  {
+    "end_time": 7330,
+    "index": 1,
+    "start_time": 4950,
+    "text": "\u201cOne is the loneliest number \u2026\u201d"
+  },
+  {
+    "end_time": 17430,
+    "index": 2,
+    "start_time": 7330,
+    "text": "Hey everyone, Crystal here for DNews. I don\u2019t\ncare how much Netflix and ice cream you consume,"
+  },
+  {
+    "end_time": 23340,
+    "index": 3,
+    "start_time": 17430,
+    "text": "being alone for long periods of time SUCKS.\nIt makes us sad, eats away at our self-esteem"
+  },
+  {
+    "end_time": 28180,
+    "index": 4,
+    "start_time": 23340,
+    "text": "and our immune system, makes us more susceptible\nto chronic diseases and may even shorten our"
+  },
+  {
+    "end_time": 32250,
+    "index": 5,
+    "start_time": 28180,
+    "text": "lifespan.\nBut could loneliness actually be a good thing?"
+  },
+  {
+    "end_time": 36899,
+    "index": 6,
+    "start_time": 32250,
+    "text": "Loneliness is the emotional state that arises\nfrom perceived isolation. Like Hunger, Thirst,"
+  },
+  {
+    "end_time": 41360,
+    "index": 7,
+    "start_time": 36899,
+    "text": "and Pain, Loneliness is an \u201caversive cue:\u201d\na negative feeling that we want to move away"
+  },
+  {
+    "end_time": 45980,
+    "index": 8,
+    "start_time": 41360,
+    "text": "from. Think of it as an evolutionary mechanism\nthat says \u201chey, you\u2019re in danger and friends"
+  },
+  {
+    "end_time": 50599,
+    "index": 9,
+    "start_time": 45980,
+    "text": "could help\u201d. Humans evolved to be social\nanimals: groups provide protection and shared"
+  },
+  {
+    "end_time": 54420,
+    "index": 10,
+    "start_time": 50600,
+    "text": "resources that help us survive. When it comes\nto gathering food, building shelters, and"
+  },
+  {
+    "end_time": 58329,
+    "index": 11,
+    "start_time": 54420,
+    "text": "defending themselves, communities of humans\nhave a much better chance of survival than"
+  },
+  {
+    "end_time": 63790,
+    "index": 12,
+    "start_time": 58329,
+    "text": "individuals do. And so scientists say, we\nevolved a \u201cneed to belong\u201d. In fact, loneliness"
+  },
+  {
+    "end_time": 67679,
+    "index": 13,
+    "start_time": 63790,
+    "text": "may have been so important for survival that\nwe evolved a unique set of neurons in our"
+  },
+  {
+    "end_time": 69170,
+    "index": 14,
+    "start_time": 67680,
+    "text": "brains dedicated to it!"
+  },
+  {
+    "end_time": 73310,
+    "index": 15,
+    "start_time": 69170,
+    "text": "In a paper recently published in the journal\nCell, neuroscientists at MIT identified a"
+  },
+  {
+    "end_time": 77679,
+    "index": 16,
+    "start_time": 73310,
+    "text": "region of the mouse brain that is uniquely\nresponsive to isolation. The researchers used"
+  },
+  {
+    "end_time": 81749,
+    "index": 17,
+    "start_time": 77679,
+    "text": "a technique called optogenetics, in which\nlight is used to activate or inhibit selected"
+  },
+  {
+    "end_time": 85579,
+    "index": 18,
+    "start_time": 81749,
+    "text": "groups of neurons in a modified rodent brain,\nto manipulate a cluster of Dopamine-sensitive"
+  },
+  {
+    "end_time": 89169,
+    "index": 19,
+    "start_time": 85579,
+    "text": "neurons in the Dorsal Raphe Nucleus, (which\nis a region of the mouse\u2019s brain that\u2019s"
+  },
+  {
+    "end_time": 93450,
+    "index": 20,
+    "start_time": 89170,
+    "text": "been associated with depression). For now\nlet\u2019s call this special set of cells \u201cloneliness"
+  },
+  {
+    "end_time": 94229,
+    "index": 21,
+    "start_time": 93450,
+    "text": "neurons\u201d."
+  },
+  {
+    "end_time": 99170,
+    "index": 22,
+    "start_time": 94229,
+    "text": "In the study, researchers introduced a lonely\nexperimental mouse to a new mouse friend,"
+  },
+  {
+    "end_time": 103409,
+    "index": 23,
+    "start_time": 99170,
+    "text": "and observed a significant increase in activity\nof the \u201cloneliness neurons\u201d. Then they"
+  },
+  {
+    "end_time": 107670,
+    "index": 24,
+    "start_time": 103409,
+    "text": "gave the mouse a choice between spending time\nalone or with another mouse and studied how"
+  },
+  {
+    "end_time": 112670,
+    "index": 25,
+    "start_time": 107670,
+    "text": "optogenetic stimulation of the \u201cloneliness\nneurons\u201d influenced the mouse\u2019s choice."
+  },
+  {
+    "end_time": 116189,
+    "index": 26,
+    "start_time": 112670,
+    "text": "Activation of the neurons caused the mouse\nto spend significantly more time with a mousy"
+  },
+  {
+    "end_time": 120758,
+    "index": 27,
+    "start_time": 116189,
+    "text": "companion then alone, indicating that when\nthe neurons fire mice seek out social interaction."
+  },
+  {
+    "end_time": 126249,
+    "index": 28,
+    "start_time": 120759,
+    "text": "But was the mouse\u2019s choice motivated by\npositive reward or a negative experience?"
+  },
+  {
+    "end_time": 130119,
+    "index": 29,
+    "start_time": 126249,
+    "text": "To determine this, scientists let mice roam\naround in a box that contained two areas."
+  },
+  {
+    "end_time": 134409,
+    "index": 30,
+    "start_time": 130119,
+    "text": "When the mouse spent time in one area, its\n\u201cloneliness neurons\u201d were stimulated,"
+  },
+  {
+    "end_time": 140359,
+    "index": 31,
+    "start_time": 134409,
+    "text": "while in the other area, they were not. Interestingly,\nthe mice avoided the stimulating area indicating"
+  },
+  {
+    "end_time": 144720,
+    "index": 32,
+    "start_time": 140360,
+    "text": "that the activation didn\u2019t make them feel\nvery good. This observation lead researchers"
+  },
+  {
+    "end_time": 149180,
+    "index": 33,
+    "start_time": 144720,
+    "text": "to suggest that activity in this brain region\nmay be connected to a loneliness-like state"
+  },
+  {
+    "end_time": 154150,
+    "index": 34,
+    "start_time": 149180,
+    "text": "that motivates mice to seek out social contact\nto feel better. These finding reinforces the"
+  },
+  {
+    "end_time": 158379,
+    "index": 35,
+    "start_time": 154150,
+    "text": "evolutionary view that loneliness is actually\na good thing, because it encourages us to"
+  },
+  {
+    "end_time": 162560,
+    "index": 36,
+    "start_time": 158379,
+    "text": "seek social contact and in turn keeps us healthier\nand safer."
+  },
+  {
+    "end_time": 166650,
+    "index": 37,
+    "start_time": 162560,
+    "text": "Even in just this study there is so much more\nto the story, and if the research is extrapolated"
+  },
+  {
+    "end_time": 171049,
+    "index": 38,
+    "start_time": 166650,
+    "text": "to humans it could not only help to explain\nmotivations behind our own feelings and behavior"
+  },
+  {
+    "end_time": 173980,
+    "index": 39,
+    "start_time": 171049,
+    "text": "but also help us study what happens when those\nthings go awry."
+  },
+  {
+    "end_time": 179359,
+    "index": 40,
+    "start_time": 173980,
+    "text": "But before we all get too excited the neuroscientist\nin me must extend a note of caution: it\u2019s"
+  },
+  {
+    "end_time": 183609,
+    "index": 41,
+    "start_time": 179360,
+    "text": "important to remember that human brains and\nmouse brains are similar in some ways, but"
+  },
+  {
+    "end_time": 188549,
+    "index": 42,
+    "start_time": 183609,
+    "text": "not the same and mice do not display identical\nsocial behaviors to humans. But for now, since"
+  },
+  {
+    "end_time": 192340,
+    "index": 43,
+    "start_time": 188549,
+    "text": "we can\u2019t manipulate human brains the way\nwe do with mice, we have to make do with what"
+  },
+  {
+    "end_time": 197319,
+    "index": 44,
+    "start_time": 192340,
+    "text": "we learn from rodents...and hope that somebody\ngave those lonely mice a hug and some tiny"
+  },
+  {
+    "end_time": 201089,
+    "index": 45,
+    "start_time": 197319,
+    "text": "ice cream and told them that they\u2019re terrific\nand it\u2019s all going to be okay\u2026 you\u2019ll"
+  },
+  {
+    "end_time": 205409,
+    "index": 46,
+    "start_time": 201090,
+    "text": "find somebody who will love you for who. you.\nare. and you\u2019ll never be lonely again\u2026sorry"
+  },
+  {
+    "end_time": 211840,
+    "index": 47,
+    "start_time": 205409,
+    "text": "Well, if I haven\u2019t managed to convince you\nto stop staring at this screen and seek social"
+  },
+  {
+    "end_time": 234379,
+    "index": 48,
+    "start_time": 211840,
+    "text": "contact, check out this video by Laci on how\nloneliness can kill you:"
+  },
+  {
+    "end_time": 237689,
+    "index": 49,
+    "start_time": 234379,
+    "text": "What about you? How do you deal with loneliness?\nSubscribe to DNews and let us know in the"
+  },
+  {
+    "end_time": 239540,
+    "index": 50,
+    "start_time": 237689,
+    "text": "comments down below. See you next time!"
+  }
+]

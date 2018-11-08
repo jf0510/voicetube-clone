@@ -1,0 +1,584 @@
+[
+    {
+        "index": 1,
+        "start_time": 0,
+        "end_time": 7000,
+        "text": "Translator: Andrea McDonough\nReviewer: Bedirhan Cinar"
+    },
+    {
+        "index": 2,
+        "start_time": 15096,
+        "end_time": 16871,
+        "text": "This is Zeno of Elea,"
+    },
+    {
+        "index": 3,
+        "start_time": 16871,
+        "end_time": 18377,
+        "text": "an ancient Greek philosopher"
+    },
+    {
+        "index": 4,
+        "start_time": 18377,
+        "end_time": 21042,
+        "text": "famous for inventing a number of paradoxes,"
+    },
+    {
+        "index": 5,
+        "start_time": 21042,
+        "end_time": 22560,
+        "text": "arguments that seem logical,"
+    },
+    {
+        "index": 6,
+        "start_time": 22560,
+        "end_time": 25779,
+        "text": "but whose conclusion is absurd or contradictory."
+    },
+    {
+        "index": 7,
+        "start_time": 25779,
+        "end_time": 27183,
+        "text": "For more than 2,000 years,"
+    },
+    {
+        "index": 8,
+        "start_time": 27183,
+        "end_time": 29694,
+        "text": "Zeno&#39;s mind-bending riddles have inspired"
+    },
+    {
+        "index": 9,
+        "start_time": 29694,
+        "end_time": 31310,
+        "text": "mathematicians and philosophers"
+    },
+    {
+        "index": 10,
+        "start_time": 31310,
+        "end_time": 33746,
+        "text": "to better understand the nature of infinity."
+    },
+    {
+        "index": 11,
+        "start_time": 33746,
+        "end_time": 35525,
+        "text": "One of the best known of Zeno&#39;s problems"
+    },
+    {
+        "index": 12,
+        "start_time": 35525,
+        "end_time": 37741,
+        "text": "is called the dichotomy paradox,"
+    },
+    {
+        "index": 13,
+        "start_time": 37741,
+        "end_time": 41527,
+        "text": "which means, &quot;the paradox of cutting in two&quot; in ancient Greek."
+    },
+    {
+        "index": 14,
+        "start_time": 41527,
+        "end_time": 43315,
+        "text": "It goes something like this:"
+    },
+    {
+        "index": 15,
+        "start_time": 43315,
+        "end_time": 46154,
+        "text": "After a long day of sitting around, thinking,"
+    },
+    {
+        "index": 16,
+        "start_time": 46154,
+        "end_time": 48950,
+        "text": "Zeno decides to walk from his house to the park."
+    },
+    {
+        "index": 17,
+        "start_time": 48950,
+        "end_time": 50397,
+        "text": "The fresh air clears his mind"
+    },
+    {
+        "index": 18,
+        "start_time": 50397,
+        "end_time": 51920,
+        "text": "and help him think better."
+    },
+    {
+        "index": 19,
+        "start_time": 51920,
+        "end_time": 53075,
+        "text": "In order to get to the park,"
+    },
+    {
+        "index": 20,
+        "start_time": 53075,
+        "end_time": 55428,
+        "text": "he first has to get half way to the park."
+    },
+    {
+        "index": 21,
+        "start_time": 55428,
+        "end_time": 56601,
+        "text": "This portion of his journey"
+    },
+    {
+        "index": 22,
+        "start_time": 56601,
+        "end_time": 58443,
+        "text": "takes some finite amount of time."
+    },
+    {
+        "index": 23,
+        "start_time": 58443,
+        "end_time": 60452,
+        "text": "Once he gets to the halfway point,"
+    },
+    {
+        "index": 24,
+        "start_time": 60452,
+        "end_time": 62841,
+        "text": "he needs to walk half the remaining distance."
+    },
+    {
+        "index": 25,
+        "start_time": 62841,
+        "end_time": 65868,
+        "text": "Again, this takes a finite amount of time."
+    },
+    {
+        "index": 26,
+        "start_time": 65868,
+        "end_time": 68140,
+        "text": "Once he gets there, he still needs to walk"
+    },
+    {
+        "index": 27,
+        "start_time": 68140,
+        "end_time": 69882,
+        "text": "half the distance that&#39;s left,"
+    },
+    {
+        "index": 28,
+        "start_time": 69882,
+        "end_time": 72371,
+        "text": "which takes another finite amount of time."
+    },
+    {
+        "index": 29,
+        "start_time": 72371,
+        "end_time": 75522,
+        "text": "This happens again and again and again."
+    },
+    {
+        "index": 30,
+        "start_time": 75522,
+        "end_time": 78195,
+        "text": "You can see that we can keep going like this forever,"
+    },
+    {
+        "index": 31,
+        "start_time": 78195,
+        "end_time": 79857,
+        "text": "dividing whatever distance is left"
+    },
+    {
+        "index": 32,
+        "start_time": 79857,
+        "end_time": 81772,
+        "text": "into smaller and smaller pieces,"
+    },
+    {
+        "index": 33,
+        "start_time": 81772,
+        "end_time": 85278,
+        "text": "each of which takes some finite time to traverse."
+    },
+    {
+        "index": 34,
+        "start_time": 85278,
+        "end_time": 87958,
+        "text": "So, how long does it take Zeno to get to the park?"
+    },
+    {
+        "index": 35,
+        "start_time": 87958,
+        "end_time": 90317,
+        "text": "Well, to find out, you need to add the times"
+    },
+    {
+        "index": 36,
+        "start_time": 90317,
+        "end_time": 92284,
+        "text": "of each of the pieces of the journey."
+    },
+    {
+        "index": 37,
+        "start_time": 92284,
+        "end_time": 96616,
+        "text": "The problem is, there are infinitely many of these finite-sized pieces."
+    },
+    {
+        "index": 38,
+        "start_time": 96616,
+        "end_time": 99750,
+        "text": "So, shouldn&#39;t the total time be infinity?"
+    },
+    {
+        "index": 39,
+        "start_time": 99750,
+        "end_time": 102548,
+        "text": "This argument, by the way, is completely general."
+    },
+    {
+        "index": 40,
+        "start_time": 102548,
+        "end_time": 105092,
+        "text": "It says that traveling from any location to any other location"
+    },
+    {
+        "index": 41,
+        "start_time": 105092,
+        "end_time": 107254,
+        "text": "should take an infinite amount of time."
+    },
+    {
+        "index": 42,
+        "start_time": 107254,
+        "end_time": 111006,
+        "text": "In other words, it says that all motion is impossible."
+    },
+    {
+        "index": 43,
+        "start_time": 111006,
+        "end_time": 112785,
+        "text": "This conclusion is clearly absurd,"
+    },
+    {
+        "index": 44,
+        "start_time": 112785,
+        "end_time": 114784,
+        "text": "but where is the flaw in the logic?"
+    },
+    {
+        "index": 45,
+        "start_time": 114784,
+        "end_time": 115966,
+        "text": "To resolve the paradox,"
+    },
+    {
+        "index": 46,
+        "start_time": 115966,
+        "end_time": 118731,
+        "text": "it helps to turn the story into a math problem."
+    },
+    {
+        "index": 47,
+        "start_time": 118731,
+        "end_time": 121618,
+        "text": "Let&#39;s supposed that Zeno&#39;s house is one mile from the park"
+    },
+    {
+        "index": 48,
+        "start_time": 121618,
+        "end_time": 124341,
+        "text": "and that Zeno walks at one mile per hour."
+    },
+    {
+        "index": 49,
+        "start_time": 124341,
+        "end_time": 126692,
+        "text": "Common sense tells us that the time for the journey"
+    },
+    {
+        "index": 50,
+        "start_time": 126692,
+        "end_time": 128205,
+        "text": "should be one hour."
+    },
+    {
+        "index": 51,
+        "start_time": 128205,
+        "end_time": 130867,
+        "text": "But, let&#39;s look at things from Zeno&#39;s point of view"
+    },
+    {
+        "index": 52,
+        "start_time": 130867,
+        "end_time": 133196,
+        "text": "and divide up the journey into pieces."
+    },
+    {
+        "index": 53,
+        "start_time": 133196,
+        "end_time": 135656,
+        "text": "The first half of the journey takes half an hour,"
+    },
+    {
+        "index": 54,
+        "start_time": 135656,
+        "end_time": 137782,
+        "text": "the next part takes quarter of an hour,"
+    },
+    {
+        "index": 55,
+        "start_time": 137782,
+        "end_time": 140064,
+        "text": "the third part takes an eighth of an hour,"
+    },
+    {
+        "index": 56,
+        "start_time": 140064,
+        "end_time": 140969,
+        "text": "and so on."
+    },
+    {
+        "index": 57,
+        "start_time": 140969,
+        "end_time": 142266,
+        "text": "Summing up all these times,"
+    },
+    {
+        "index": 58,
+        "start_time": 142266,
+        "end_time": 144372,
+        "text": "we get a series that looks like this."
+    },
+    {
+        "index": 59,
+        "start_time": 144372,
+        "end_time": 145624,
+        "text": "&quot;Now&quot;, Zeno might say,"
+    },
+    {
+        "index": 60,
+        "start_time": 145624,
+        "end_time": 147964,
+        "text": "&quot;since there are infinitely many of terms"
+    },
+    {
+        "index": 61,
+        "start_time": 147964,
+        "end_time": 149621,
+        "text": "on the right side of the equation,"
+    },
+    {
+        "index": 62,
+        "start_time": 149621,
+        "end_time": 151883,
+        "text": "and each individual term is finite,"
+    },
+    {
+        "index": 63,
+        "start_time": 151883,
+        "end_time": 154518,
+        "text": "the sum should equal infinity, right?&quot;"
+    },
+    {
+        "index": 64,
+        "start_time": 154518,
+        "end_time": 156670,
+        "text": "This is the problem with Zeno&#39;s argument."
+    },
+    {
+        "index": 65,
+        "start_time": 156670,
+        "end_time": 158855,
+        "text": "As mathematicians have since realized,"
+    },
+    {
+        "index": 66,
+        "start_time": 158855,
+        "end_time": 162618,
+        "text": "it is possible to add up infinitely many finite-sized terms"
+    },
+    {
+        "index": 67,
+        "start_time": 162618,
+        "end_time": 164814,
+        "text": "and still get a finite answer."
+    },
+    {
+        "index": 68,
+        "start_time": 164814,
+        "end_time": 165989,
+        "text": "&quot;How?&quot; you ask."
+    },
+    {
+        "index": 69,
+        "start_time": 165989,
+        "end_time": 167486,
+        "text": "Well, let&#39;s think of it this way."
+    },
+    {
+        "index": 70,
+        "start_time": 167486,
+        "end_time": 170390,
+        "text": "Let&#39;s start with a square that has area of one meter."
+    },
+    {
+        "index": 71,
+        "start_time": 170390,
+        "end_time": 172528,
+        "text": "Now let&#39;s chop the square in half,"
+    },
+    {
+        "index": 72,
+        "start_time": 172528,
+        "end_time": 174909,
+        "text": "and then chop the remaining half in half,"
+    },
+    {
+        "index": 73,
+        "start_time": 174909,
+        "end_time": 176172,
+        "text": "and so on."
+    },
+    {
+        "index": 74,
+        "start_time": 176172,
+        "end_time": 177239,
+        "text": "While we&#39;re doing this,"
+    },
+    {
+        "index": 75,
+        "start_time": 177239,
+        "end_time": 180380,
+        "text": "let&#39;s keep track of the areas of the pieces."
+    },
+    {
+        "index": 76,
+        "start_time": 180380,
+        "end_time": 182169,
+        "text": "The first slice makes two parts,"
+    },
+    {
+        "index": 77,
+        "start_time": 182169,
+        "end_time": 184028,
+        "text": "each with an area of one-half"
+    },
+    {
+        "index": 78,
+        "start_time": 184028,
+        "end_time": 186545,
+        "text": "The next slice divides one of those halves in half,"
+    },
+    {
+        "index": 79,
+        "start_time": 186545,
+        "end_time": 187796,
+        "text": "and so on."
+    },
+    {
+        "index": 80,
+        "start_time": 187796,
+        "end_time": 190227,
+        "text": "But, no matter how many times we slice up the boxes,"
+    },
+    {
+        "index": 81,
+        "start_time": 190227,
+        "end_time": 194814,
+        "text": "the total area is still the sum of the areas of all the pieces."
+    },
+    {
+        "index": 82,
+        "start_time": 194814,
+        "end_time": 197442,
+        "text": "Now you can see why we choose this particular way"
+    },
+    {
+        "index": 83,
+        "start_time": 197442,
+        "end_time": 198971,
+        "text": "of cutting up the square."
+    },
+    {
+        "index": 84,
+        "start_time": 198971,
+        "end_time": 200888,
+        "text": "We&#39;ve obtained the same infinite series"
+    },
+    {
+        "index": 85,
+        "start_time": 200888,
+        "end_time": 203356,
+        "text": "as we had for the time of Zeno&#39;s journey."
+    },
+    {
+        "index": 86,
+        "start_time": 203356,
+        "end_time": 205791,
+        "text": "As we construct more and more blue pieces,"
+    },
+    {
+        "index": 87,
+        "start_time": 205791,
+        "end_time": 207314,
+        "text": "to use the math jargon,"
+    },
+    {
+        "index": 88,
+        "start_time": 207314,
+        "end_time": 210742,
+        "text": "as we take the limit as n tends to infinity,"
+    },
+    {
+        "index": 89,
+        "start_time": 210742,
+        "end_time": 213356,
+        "text": "the entire square becomes covered with blue."
+    },
+    {
+        "index": 90,
+        "start_time": 213356,
+        "end_time": 215427,
+        "text": "But the area of the square is just one unit,"
+    },
+    {
+        "index": 91,
+        "start_time": 215427,
+        "end_time": 218700,
+        "text": "and so the infinite sum must equal one."
+    },
+    {
+        "index": 92,
+        "start_time": 218700,
+        "end_time": 219754,
+        "text": "Going back to Zeno&#39;s journey,"
+    },
+    {
+        "index": 93,
+        "start_time": 219754,
+        "end_time": 222370,
+        "text": "we can now see how how the paradox is resolved."
+    },
+    {
+        "index": 94,
+        "start_time": 222370,
+        "end_time": 225713,
+        "text": "Not only does the infinite series sum to a finite answer,"
+    },
+    {
+        "index": 95,
+        "start_time": 225713,
+        "end_time": 227745,
+        "text": "but that finite answer is the same one"
+    },
+    {
+        "index": 96,
+        "start_time": 227745,
+        "end_time": 230172,
+        "text": "that common sense tells us is true."
+    },
+    {
+        "index": 97,
+        "start_time": 230172,
+        "end_time": 232877,
+        "text": "Zeno&#39;s journey takes one hour."
+    }
+]

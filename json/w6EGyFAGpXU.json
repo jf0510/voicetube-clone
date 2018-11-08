@@ -1,0 +1,446 @@
+[
+    {
+        "index": 1,
+        "start_time": 7014,
+        "end_time": 10777,
+        "text": "Hendrix, Cobain and Page."
+    },
+    {
+        "index": 2,
+        "start_time": 10777,
+        "end_time": 12354,
+        "text": "They can all shred,"
+    },
+    {
+        "index": 3,
+        "start_time": 12354,
+        "end_time": 16235,
+        "text": "but how exactly do the iconic \ncontraptions in their hands"
+    },
+    {
+        "index": 4,
+        "start_time": 16235,
+        "end_time": 21694,
+        "text": "produce notes, rhythm, melody and music."
+    },
+    {
+        "index": 5,
+        "start_time": 21694,
+        "end_time": 26603,
+        "text": "When you pluck a guitar string, you create\na vibration called a standing wave."
+    },
+    {
+        "index": 6,
+        "start_time": 26603,
+        "end_time": 30530,
+        "text": "Some points on the string, called nodes,\ndon&#39;t move at all,"
+    },
+    {
+        "index": 7,
+        "start_time": 30530,
+        "end_time": 35180,
+        "text": "while other points, anti-nodes, \noscillate back and forth."
+    },
+    {
+        "index": 8,
+        "start_time": 35180,
+        "end_time": 39584,
+        "text": "The vibration translates through the neck\nand bridge to the guitar&#39;s body,"
+    },
+    {
+        "index": 9,
+        "start_time": 39584,
+        "end_time": 42432,
+        "text": "where the thin and flexible wood vibrates,"
+    },
+    {
+        "index": 10,
+        "start_time": 42432,
+        "end_time": 46625,
+        "text": "jostling the surrounding air molecules\ntogether and apart."
+    },
+    {
+        "index": 11,
+        "start_time": 46625,
+        "end_time": 49730,
+        "text": "These sequential compressions\ncreate sound waves,"
+    },
+    {
+        "index": 12,
+        "start_time": 49730,
+        "end_time": 53932,
+        "text": "and the ones inside the guitar\nmostly escape through the hole."
+    },
+    {
+        "index": 13,
+        "start_time": 53932,
+        "end_time": 56221,
+        "text": "They eventually propagate to your ear,"
+    },
+    {
+        "index": 14,
+        "start_time": 56221,
+        "end_time": 58790,
+        "text": "which translates them into\nelectrical impulses"
+    },
+    {
+        "index": 15,
+        "start_time": 58790,
+        "end_time": 61925,
+        "text": "that your brain interprets as sound."
+    },
+    {
+        "index": 16,
+        "start_time": 61925,
+        "end_time": 66482,
+        "text": "The pitch of that sound depends on\nthe frequency of the compressions."
+    },
+    {
+        "index": 17,
+        "start_time": 66482,
+        "end_time": 70980,
+        "text": "A quickly vibrating string will cause\na lot of compressions close together,"
+    },
+    {
+        "index": 18,
+        "start_time": 70980,
+        "end_time": 72553,
+        "text": "making a high-pitched sound,"
+    },
+    {
+        "index": 19,
+        "start_time": 72553,
+        "end_time": 76418,
+        "text": "and a slow vibration \nproduces a low-pitched sound."
+    },
+    {
+        "index": 20,
+        "start_time": 76418,
+        "end_time": 79682,
+        "text": "Four things affect the frequency\nof a vibrating string:"
+    },
+    {
+        "index": 21,
+        "start_time": 79682,
+        "end_time": 84210,
+        "text": "the length, the tension,\nthe density and the thickness."
+    },
+    {
+        "index": 22,
+        "start_time": 84210,
+        "end_time": 87030,
+        "text": "Typical guitar strings \nare all the same length,"
+    },
+    {
+        "index": 23,
+        "start_time": 87030,
+        "end_time": 91524,
+        "text": "and have similar tension,\nbut vary in thickness and density."
+    },
+    {
+        "index": 24,
+        "start_time": 91524,
+        "end_time": 95991,
+        "text": "Thicker strings vibrate more slowly,\nproducing lower notes."
+    },
+    {
+        "index": 25,
+        "start_time": 95991,
+        "end_time": 97992,
+        "text": "Each time you pluck a string,"
+    },
+    {
+        "index": 26,
+        "start_time": 97992,
+        "end_time": 100747,
+        "text": "you actually create \nseveral standing waves."
+    },
+    {
+        "index": 27,
+        "start_time": 100747,
+        "end_time": 104981,
+        "text": "There&#39;s the first fundamental wave,\nwhich determines the pitch of the note,"
+    },
+    {
+        "index": 28,
+        "start_time": 104981,
+        "end_time": 107528,
+        "text": "but there are also waves\ncalled overtones,"
+    },
+    {
+        "index": 29,
+        "start_time": 107528,
+        "end_time": 111339,
+        "text": "whose frequencies \nare multiples of the first one."
+    },
+    {
+        "index": 30,
+        "start_time": 111339,
+        "end_time": 117055,
+        "text": "All these standing waves combine\nto form a complex wave with a rich sound."
+    },
+    {
+        "index": 31,
+        "start_time": 117055,
+        "end_time": 121448,
+        "text": "Changing the way you pluck the string\naffects which overtones you get."
+    },
+    {
+        "index": 32,
+        "start_time": 121448,
+        "end_time": 123185,
+        "text": "If you pluck it near the middle,"
+    },
+    {
+        "index": 33,
+        "start_time": 123185,
+        "end_time": 127103,
+        "text": "you get mainly the fundamental\nand the odd multiple overtones,"
+    },
+    {
+        "index": 34,
+        "start_time": 127103,
+        "end_time": 130076,
+        "text": "which have anti-nodes\nin the middle of the string."
+    },
+    {
+        "index": 35,
+        "start_time": 130076,
+        "end_time": 134358,
+        "text": "If you pluck it near the bridge,\nyou get mainly even multiple overtones"
+    },
+    {
+        "index": 36,
+        "start_time": 134358,
+        "end_time": 136410,
+        "text": "and a twangier sound."
+    },
+    {
+        "index": 37,
+        "start_time": 136410,
+        "end_time": 142257,
+        "text": "The familiar Western scale is based on\nthe overtone series of a vibrating string."
+    },
+    {
+        "index": 38,
+        "start_time": 142257,
+        "end_time": 147261,
+        "text": "When we hear one note played with another\nthat has exactly twice its frequency,"
+    },
+    {
+        "index": 39,
+        "start_time": 147261,
+        "end_time": 149195,
+        "text": "its first overtone,"
+    },
+    {
+        "index": 40,
+        "start_time": 149195,
+        "end_time": 153203,
+        "text": "they sound so harmonious\nthat we assign them the same letter,"
+    },
+    {
+        "index": 41,
+        "start_time": 153203,
+        "end_time": 156930,
+        "text": "and define the difference between them\nas an octave."
+    },
+    {
+        "index": 42,
+        "start_time": 156930,
+        "end_time": 160115,
+        "text": "The rest of the scale \nis squeezed into that octave"
+    },
+    {
+        "index": 43,
+        "start_time": 160115,
+        "end_time": 162102,
+        "text": "divided into twelve half steps"
+    },
+    {
+        "index": 44,
+        "start_time": 162102,
+        "end_time": 168039,
+        "text": "whose frequency is each 2^(1\/12)\nhigher than the one before."
+    },
+    {
+        "index": 45,
+        "start_time": 168039,
+        "end_time": 171290,
+        "text": "That factor determines the fret spacing."
+    },
+    {
+        "index": 46,
+        "start_time": 171290,
+        "end_time": 177115,
+        "text": "Each fret divides the string&#39;s\nremaining length by 2^(1\/12),"
+    },
+    {
+        "index": 47,
+        "start_time": 177115,
+        "end_time": 180581,
+        "text": "making the frequencies \nincrease by half steps."
+    },
+    {
+        "index": 48,
+        "start_time": 180581,
+        "end_time": 182601,
+        "text": "Fretless instruments, like violins,"
+    },
+    {
+        "index": 49,
+        "start_time": 182601,
+        "end_time": 186926,
+        "text": "make it easier to produce the infinite\nfrequencies between each note,"
+    },
+    {
+        "index": 50,
+        "start_time": 186926,
+        "end_time": 190519,
+        "text": "but add to the challenge \nof playing intune."
+    },
+    {
+        "index": 51,
+        "start_time": 190519,
+        "end_time": 192581,
+        "text": "The number of strings and their tuning"
+    },
+    {
+        "index": 52,
+        "start_time": 192581,
+        "end_time": 195793,
+        "text": "are custom tailored \nto the chords we like to play"
+    },
+    {
+        "index": 53,
+        "start_time": 195793,
+        "end_time": 197980,
+        "text": "and the physiology of our hands."
+    },
+    {
+        "index": 54,
+        "start_time": 197980,
+        "end_time": 200863,
+        "text": "Guitar shapes and materials can also vary,"
+    },
+    {
+        "index": 55,
+        "start_time": 200863,
+        "end_time": 204527,
+        "text": "and both change the nature \nand sound of the vibrations."
+    },
+    {
+        "index": 56,
+        "start_time": 204527,
+        "end_time": 207206,
+        "text": "Playing two or more \nstrings at the same time"
+    },
+    {
+        "index": 57,
+        "start_time": 207206,
+        "end_time": 212205,
+        "text": "allows you to create new wave patterns\nlike chords and other sound effects."
+    },
+    {
+        "index": 58,
+        "start_time": 212205,
+        "end_time": 216279,
+        "text": "For example, when you play two notes\nwhose frequencies are close together,"
+    },
+    {
+        "index": 59,
+        "start_time": 216279,
+        "end_time": 221605,
+        "text": "they add together to create a sound wave\nwhose amplitude rises and falls,"
+    },
+    {
+        "index": 60,
+        "start_time": 221605,
+        "end_time": 226500,
+        "text": "producing a throbbing effect,\nwhich guitarists call the beats."
+    },
+    {
+        "index": 61,
+        "start_time": 226500,
+        "end_time": 229506,
+        "text": "And electric guitars give you \neven more to play with."
+    },
+    {
+        "index": 62,
+        "start_time": 229506,
+        "end_time": 231692,
+        "text": "The vibrations still start in the strings,"
+    },
+    {
+        "index": 63,
+        "start_time": 231692,
+        "end_time": 235931,
+        "text": "but then they&#39;re translated \ninto electrical signals by pickups"
+    },
+    {
+        "index": 64,
+        "start_time": 235931,
+        "end_time": 239084,
+        "text": "and transmitted to speakers \nthat create the sound waves."
+    },
+    {
+        "index": 65,
+        "start_time": 239084,
+        "end_time": 240909,
+        "text": "Between the pickups and speakers,"
+    },
+    {
+        "index": 66,
+        "start_time": 240909,
+        "end_time": 244675,
+        "text": "it&#39;s possible to process \nthe wave in various ways,"
+    },
+    {
+        "index": 67,
+        "start_time": 244675,
+        "end_time": 251758,
+        "text": "to create effects like distortion,\noverdrive, wah-wah, delay and flanger."
+    },
+    {
+        "index": 68,
+        "start_time": 251758,
+        "end_time": 256139,
+        "text": "And lest you think that the physics \nof music is only useful for entertainment,"
+    },
+    {
+        "index": 69,
+        "start_time": 256139,
+        "end_time": 258059,
+        "text": "consider this."
+    },
+    {
+        "index": 70,
+        "start_time": 258059,
+        "end_time": 260822,
+        "text": "Some physicists think that everything\nin the universe"
+    },
+    {
+        "index": 71,
+        "start_time": 260822,
+        "end_time": 266892,
+        "text": "is created by the harmonic series\nof very tiny, very tense strings."
+    },
+    {
+        "index": 72,
+        "start_time": 266892,
+        "end_time": 269468,
+        "text": "So might our entire reality"
+    },
+    {
+        "index": 73,
+        "start_time": 269468,
+        "end_time": 273770,
+        "text": "be the extended solo \nof some cosmic Jimi Hendrix?"
+    },
+    {
+        "index": 74,
+        "start_time": 273770,
+        "end_time": 279125,
+        "text": "Clearly, there&#39;s a lot more to strings\nthan meets the ear."
+    }
+]

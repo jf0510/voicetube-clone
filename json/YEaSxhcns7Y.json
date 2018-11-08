@@ -1,0 +1,482 @@
+[
+    {
+        "index": 1,
+        "start_time": 6864,
+        "end_time": 10657,
+        "text": "When we talk about English,\nwe often think of it as a single language"
+    },
+    {
+        "index": 2,
+        "start_time": 10657,
+        "end_time": 14997,
+        "text": "but what do the dialects spoken\nin dozens of countries around the world"
+    },
+    {
+        "index": 3,
+        "start_time": 14997,
+        "end_time": 17050,
+        "text": "have in common with each other,"
+    },
+    {
+        "index": 4,
+        "start_time": 17050,
+        "end_time": 18980,
+        "text": "or with the writings of Chaucer?"
+    },
+    {
+        "index": 5,
+        "start_time": 18980,
+        "end_time": 23028,
+        "text": "And how are any of them related\nto the strange words in Beowulf?"
+    },
+    {
+        "index": 6,
+        "start_time": 23028,
+        "end_time": 25271,
+        "text": "The answer is that like most languages,"
+    },
+    {
+        "index": 7,
+        "start_time": 25271,
+        "end_time": 28326,
+        "text": "English has evolved \nthrough generations of speakers,"
+    },
+    {
+        "index": 8,
+        "start_time": 28326,
+        "end_time": 31307,
+        "text": "undergoing major changes over time."
+    },
+    {
+        "index": 9,
+        "start_time": 31307,
+        "end_time": 33340,
+        "text": "By undoing these changes,"
+    },
+    {
+        "index": 10,
+        "start_time": 33340,
+        "end_time": 35779,
+        "text": "we can trace the language \nfrom the present day"
+    },
+    {
+        "index": 11,
+        "start_time": 35779,
+        "end_time": 38403,
+        "text": "back to its ancient roots."
+    },
+    {
+        "index": 12,
+        "start_time": 38403,
+        "end_time": 40536,
+        "text": "While modern English \nshares many similar words"
+    },
+    {
+        "index": 13,
+        "start_time": 40536,
+        "end_time": 42938,
+        "text": "with Latin-derived romance languages,"
+    },
+    {
+        "index": 14,
+        "start_time": 42938,
+        "end_time": 44582,
+        "text": "like French and Spanish,"
+    },
+    {
+        "index": 15,
+        "start_time": 44582,
+        "end_time": 47723,
+        "text": "most of those words \nwere not originally part of it."
+    },
+    {
+        "index": 16,
+        "start_time": 47723,
+        "end_time": 50271,
+        "text": "Instead, they started coming \ninto the language"
+    },
+    {
+        "index": 17,
+        "start_time": 50271,
+        "end_time": 55087,
+        "text": "with the Norman invasion \nof England in 1066."
+    },
+    {
+        "index": 18,
+        "start_time": 55087,
+        "end_time": 57632,
+        "text": "When the French-speaking Normans\nconquered England"
+    },
+    {
+        "index": 19,
+        "start_time": 57632,
+        "end_time": 59649,
+        "text": "and became its ruling class,"
+    },
+    {
+        "index": 20,
+        "start_time": 59649,
+        "end_time": 61793,
+        "text": "they brought their speech with them,"
+    },
+    {
+        "index": 21,
+        "start_time": 61793,
+        "end_time": 65267,
+        "text": "adding a massive amount \nof French and Latin vocabulary"
+    },
+    {
+        "index": 22,
+        "start_time": 65267,
+        "end_time": 68286,
+        "text": "to the English language \npreviously spoken there."
+    },
+    {
+        "index": 23,
+        "start_time": 68286,
+        "end_time": 71049,
+        "text": "Today, we call that language Old English."
+    },
+    {
+        "index": 24,
+        "start_time": 71049,
+        "end_time": 73495,
+        "text": "This is the language of Beowulf."
+    },
+    {
+        "index": 25,
+        "start_time": 73495,
+        "end_time": 75609,
+        "text": "It probably doesn&#39;t look very familiar,"
+    },
+    {
+        "index": 26,
+        "start_time": 75609,
+        "end_time": 79915,
+        "text": "but it might be more recognizable\nif you know some German."
+    },
+    {
+        "index": 27,
+        "start_time": 79915,
+        "end_time": 83807,
+        "text": "That&#39;s because Old English\nbelongs to the Germanic language family,"
+    },
+    {
+        "index": 28,
+        "start_time": 83807,
+        "end_time": 87595,
+        "text": "first brought to the British Isles\nin the 5th and 6th centuries"
+    },
+    {
+        "index": 29,
+        "start_time": 87595,
+        "end_time": 91179,
+        "text": "by the Angles, Saxons, and Jutes."
+    },
+    {
+        "index": 30,
+        "start_time": 91179,
+        "end_time": 95901,
+        "text": "The Germanic dialects they spoke would\nbecome known as Anglo-Saxon."
+    },
+    {
+        "index": 31,
+        "start_time": 95901,
+        "end_time": 98931,
+        "text": "Viking invaders in the 8th \nto 11th centuries"
+    },
+    {
+        "index": 32,
+        "start_time": 98931,
+        "end_time": 102943,
+        "text": "added more borrowings \nfrom Old Norse into the mix."
+    },
+    {
+        "index": 33,
+        "start_time": 102943,
+        "end_time": 105771,
+        "text": "It may be hard to see the roots\nof modern English"
+    },
+    {
+        "index": 34,
+        "start_time": 105771,
+        "end_time": 107634,
+        "text": "underneath all the words borrowed"
+    },
+    {
+        "index": 35,
+        "start_time": 107634,
+        "end_time": 111738,
+        "text": "from French, Latin, Old Norse \nand other languages."
+    },
+    {
+        "index": 36,
+        "start_time": 111738,
+        "end_time": 116904,
+        "text": "But comparative linguistics can help us\nby focusing on grammatical structure,"
+    },
+    {
+        "index": 37,
+        "start_time": 116904,
+        "end_time": 118733,
+        "text": "patterns of sound changes,"
+    },
+    {
+        "index": 38,
+        "start_time": 118733,
+        "end_time": 121175,
+        "text": "and certain core vocabulary."
+    },
+    {
+        "index": 39,
+        "start_time": 121175,
+        "end_time": 123682,
+        "text": "For example, after the 6th century,"
+    },
+    {
+        "index": 40,
+        "start_time": 123682,
+        "end_time": 129011,
+        "text": "German words starting with &quot;p,&quot;\nsystematically shifted to a &quot;pf&quot; sound"
+    },
+    {
+        "index": 41,
+        "start_time": 129011,
+        "end_time": 133109,
+        "text": "while their Old English counterparts\nkept the &quot;p&quot; unchanged."
+    },
+    {
+        "index": 42,
+        "start_time": 133109,
+        "end_time": 136977,
+        "text": "In another split, words \nthat have &quot;sk&quot; sounds in Swedish"
+    },
+    {
+        "index": 43,
+        "start_time": 136977,
+        "end_time": 140394,
+        "text": "developed an &quot;sh&quot; sound in English."
+    },
+    {
+        "index": 44,
+        "start_time": 140394,
+        "end_time": 143236,
+        "text": "There are still some English \nwords with &quot;sk,&quot;"
+    },
+    {
+        "index": 45,
+        "start_time": 143236,
+        "end_time": 145257,
+        "text": "like &quot;skirt,&quot; and &quot;skull,&quot;"
+    },
+    {
+        "index": 46,
+        "start_time": 145257,
+        "end_time": 147988,
+        "text": "but they&#39;re direct borrowings \nfrom Old Norse"
+    },
+    {
+        "index": 47,
+        "start_time": 147988,
+        "end_time": 151781,
+        "text": "that came after the &quot;sk&quot; to &quot;sh&quot; shift."
+    },
+    {
+        "index": 48,
+        "start_time": 151781,
+        "end_time": 153710,
+        "text": "These examples show us"
+    },
+    {
+        "index": 49,
+        "start_time": 153710,
+        "end_time": 157628,
+        "text": "that just as the various Romance languages\ndescended from Latin,"
+    },
+    {
+        "index": 50,
+        "start_time": 157628,
+        "end_time": 161603,
+        "text": "English, Swedish, German, \nand many other languages"
+    },
+    {
+        "index": 51,
+        "start_time": 161603,
+        "end_time": 166006,
+        "text": "descended from their own common ancestor\nknown as Proto-Germanic"
+    },
+    {
+        "index": 52,
+        "start_time": 166006,
+        "end_time": 168854,
+        "text": "spoken around 500 B.C.E."
+    },
+    {
+        "index": 53,
+        "start_time": 168854,
+        "end_time": 172301,
+        "text": "Because this historical language\nwas never written down,"
+    },
+    {
+        "index": 54,
+        "start_time": 172301,
+        "end_time": 176184,
+        "text": "we can only reconstruct it \nby comparing its descendants,"
+    },
+    {
+        "index": 55,
+        "start_time": 176184,
+        "end_time": 179302,
+        "text": "which is possible thanks \nto the consistency of the changes."
+    },
+    {
+        "index": 56,
+        "start_time": 179302,
+        "end_time": 183671,
+        "text": "We can even use the same process\nto go back one step further,"
+    },
+    {
+        "index": 57,
+        "start_time": 183671,
+        "end_time": 189741,
+        "text": "and trace the origins of Proto-Germanic\nto a language called Proto-Indo-European,"
+    },
+    {
+        "index": 58,
+        "start_time": 189741,
+        "end_time": 191922,
+        "text": "spoken about 6000 years ago"
+    },
+    {
+        "index": 59,
+        "start_time": 191922,
+        "end_time": 196512,
+        "text": "on the Pontic steppe \nin modern day Ukraine and Russia."
+    },
+    {
+        "index": 60,
+        "start_time": 196512,
+        "end_time": 200843,
+        "text": "This is the reconstructed ancestor\nof the Indo-European family"
+    },
+    {
+        "index": 61,
+        "start_time": 200843,
+        "end_time": 205371,
+        "text": "that includes nearly all languages\nhistorically spoken in Europe,"
+    },
+    {
+        "index": 62,
+        "start_time": 205371,
+        "end_time": 208711,
+        "text": "as well as large parts of Southern\nand Western Asia."
+    },
+    {
+        "index": 63,
+        "start_time": 208711,
+        "end_time": 211453,
+        "text": "And though it requires a bit more work,"
+    },
+    {
+        "index": 64,
+        "start_time": 211453,
+        "end_time": 215890,
+        "text": "we can find the same systematic \nsimilarities, or correspondences,"
+    },
+    {
+        "index": 65,
+        "start_time": 215890,
+        "end_time": 219864,
+        "text": "between related words in different\nIndo-European branches."
+    },
+    {
+        "index": 66,
+        "start_time": 219864,
+        "end_time": 222085,
+        "text": "Comparing English with Latin,"
+    },
+    {
+        "index": 67,
+        "start_time": 222085,
+        "end_time": 225690,
+        "text": "we see that English has &quot;t&quot; \nwhere Latin has &quot;d&quot;,"
+    },
+    {
+        "index": 68,
+        "start_time": 225690,
+        "end_time": 229728,
+        "text": "and &quot;f&quot; where latin has &quot;p&quot;\nat the start of words."
+    },
+    {
+        "index": 69,
+        "start_time": 229728,
+        "end_time": 233681,
+        "text": "Some of English&#39;s more distant relatives\ninclude Hindi, Persian"
+    },
+    {
+        "index": 70,
+        "start_time": 233681,
+        "end_time": 238109,
+        "text": "and the Celtic languages it displaced\nin what is now Britain."
+    },
+    {
+        "index": 71,
+        "start_time": 238109,
+        "end_time": 242769,
+        "text": "Proto-Indo-European itself descended\nfrom an even more ancient language,"
+    },
+    {
+        "index": 72,
+        "start_time": 242769,
+        "end_time": 247908,
+        "text": "but unfortunately, this is as far back\nas historical and archeological evidence"
+    },
+    {
+        "index": 73,
+        "start_time": 247908,
+        "end_time": 250088,
+        "text": "will allow us to go."
+    },
+    {
+        "index": 74,
+        "start_time": 250088,
+        "end_time": 252280,
+        "text": "Many mysteries remain just out of reach,"
+    },
+    {
+        "index": 75,
+        "start_time": 252280,
+        "end_time": 255658,
+        "text": "such as whether there might be a link\nbetween Indo-European"
+    },
+    {
+        "index": 76,
+        "start_time": 255658,
+        "end_time": 257842,
+        "text": "and other major language families,"
+    },
+    {
+        "index": 77,
+        "start_time": 257842,
+        "end_time": 262522,
+        "text": "and the nature of the languages spoken\nin Europe prior to its arrival."
+    },
+    {
+        "index": 78,
+        "start_time": 262522,
+        "end_time": 267418,
+        "text": "But the amazing fact remains that nearly\n3 billion people around the world,"
+    },
+    {
+        "index": 79,
+        "start_time": 267418,
+        "end_time": 269980,
+        "text": "many of whom cannot understand each other,"
+    },
+    {
+        "index": 80,
+        "start_time": 269980,
+        "end_time": 276360,
+        "text": "are nevertheless speaking the same words\nshaped by 6000 years of history."
+    }
+]

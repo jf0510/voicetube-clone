@@ -1,0 +1,668 @@
+[
+  {
+    "end_time": 15824,
+    "index": 1,
+    "start_time": 11862,
+    "text": "CARL AZUZ, CNN ANCHOR: Hi, welcome to CNN STUDENT \n NEWS. It`s Monday. It`s Columbus Day. "
+  },
+  {
+    "end_time": 19253,
+    "index": 2,
+    "start_time": 15824,
+    "text": "We`ll have more on that coming up. It`s \n a new week of CNN STUDENT NEWS."
+  },
+  {
+    "end_time": 21387,
+    "index": 3,
+    "start_time": 19253,
+    "text": "In the U.S., we talk about hurricanes. "
+  },
+  {
+    "end_time": 29950,
+    "index": 4,
+    "start_time": 21388,
+    "text": "In the Indian Ocean, these storms are called cyclones, and parts of India are \n recovering from the strongest cyclone to hit that country in 14 years. "
+  },
+  {
+    "end_time": 33701,
+    "index": 5,
+    "start_time": 29950,
+    "text": "Tropical Cyclone Phailin hit India`s eastern coast. "
+  },
+  {
+    "end_time": 36704,
+    "index": 6,
+    "start_time": 33701,
+    "text": "It was the equivalent of a category 4 hurricane. "
+  },
+  {
+    "end_time": 38499,
+    "index": 7,
+    "start_time": 36704,
+    "text": "At least 14 people were killed."
+  },
+  {
+    "end_time": 42876,
+    "index": 8,
+    "start_time": 38499,
+    "text": "Before the storm hit, officials evacuated nearly a million people. "
+  },
+  {
+    "end_time": 45794,
+    "index": 9,
+    "start_time": 42876,
+    "text": "They say that effort helped limit the number of casualties. "
+  },
+  {
+    "end_time": 48105,
+    "index": 10,
+    "start_time": 45794,
+    "text": "Getting people back on their feet could be challenging."
+  },
+  {
+    "end_time": 53612,
+    "index": 11,
+    "start_time": 48106,
+    "text": "The cyclone damaged property; it flooded highways; it knocked down trees and power lines."
+  },
+  {
+    "end_time": 62386,
+    "index": 12,
+    "start_time": 53612,
+    "text": "In parts of the Pacific Ocean, cyclones are called typhoons, and at least \n 13 people were killed when Typhoon Nari hit the Philippines this weekend."
+  },
+  {
+    "end_time": 66708,
+    "index": 13,
+    "start_time": 62386,
+    "text": "More than 43,000 people were forced out of their homes by that storm. "
+  },
+  {
+    "end_time": 73533,
+    "index": 14,
+    "start_time": 66708,
+    "text": "Back in the United States, some of the parks and monuments closed \n by the partial government shutdown are starting to reopen. "
+  },
+  {
+    "end_time": 79060,
+    "index": 15,
+    "start_time": 73534,
+    "text": "New York made a deal with the National Park Service \n to fund operations at the Statue of Liberty."
+  },
+  {
+    "end_time": 84509,
+    "index": 16,
+    "start_time": 79060,
+    "text": "State and local funds will help reopen Grand \n Canyon National Park out in Arizona. "
+  },
+  {
+    "end_time": 90277,
+    "index": 17,
+    "start_time": 84509,
+    "text": "And in South Dakota, Mount Rushmore is set to reopen \n first thing this morning thanks to a similar deal."
+  },
+  {
+    "end_time": 95336,
+    "index": 18,
+    "start_time": 90277,
+    "text": "But there was no deal in Washington this weekend on \n either the shutdown or the debt ceiling. "
+  },
+  {
+    "end_time": 103830,
+    "index": 19,
+    "start_time": 95336,
+    "text": "That deadline is just three days away, and there is talking between the \n White House, the Republican-led House of Representatives and the Democratic-led Senate."
+  },
+  {
+    "end_time": 106160,
+    "index": 20,
+    "start_time": 103830,
+    "text": "There is also some serious finger pointing."
+  },
+  {
+    "end_time": 115410,
+    "index": 21,
+    "start_time": 106163,
+    "text": "UNIDENTIFIED MALE: Lawmakers scurrying out of Washington even though there is no deal in place \n to end the partial government shutdown and avoid a possible default this week."
+  },
+  {
+    "end_time": 123910,
+    "index": 22,
+    "start_time": 115409,
+    "text": "REP. STEVE SOUTHERLAND, R-FLORIDA: My staff has every plane \n ready, every plane flight on our schedule. "
+  },
+  {
+    "end_time": 125979,
+    "index": 23,
+    "start_time": 123910,
+    "text": "We`re ready to come back as soon as there is a vote."
+  },
+  {
+    "end_time": 131230,
+    "index": 24,
+    "start_time": 125985,
+    "text": "SEN. DAN COATS, R-INDIANA: This thing is so fluid and so many things are changing. \n All I know is we got a president who does not want to negotiate."
+  },
+  {
+    "end_time": 138750,
+    "index": 25,
+    "start_time": 131226,
+    "text": "UNIDENTIFIED MALE: Perhaps a hint of defensiveness with talks between the White House \n and House Republicans having collapsed and both sides blaming each other."
+  },
+  {
+    "end_time": 145630,
+    "index": 26,
+    "start_time": 138751,
+    "text": "Now all eyes on the Senate and whether Majority Leader Harry Reid \n and Minority Leader Mitch McConnell can work out a compromise."
+  },
+  {
+    "end_time": 152050,
+    "index": 27,
+    "start_time": 145627,
+    "text": "SEN. HARRY REID, D-NEV., and MAJORITY LEADER: The conversations were \n extremely cordial, but very preliminary, of course. "
+  },
+  {
+    "end_time": 153760,
+    "index": 28,
+    "start_time": 152047,
+    "text": "Nothing conclusive. "
+  },
+  {
+    "end_time": 162730,
+    "index": 29,
+    "start_time": 153754,
+    "text": "But I hope that our talking gives some solace \n to the American people and the world."
+  },
+  {
+    "end_time": 166300,
+    "index": 30,
+    "start_time": 162733,
+    "text": "UNIDENTIFIED MALE: But Reid is still sticking firm to key Democratic demands."
+  },
+  {
+    "end_time": 171480,
+    "index": 31,
+    "start_time": 166305,
+    "text": "REID: They`re not doing us a favor by \n opening the government, reopening the government. "
+  },
+  {
+    "end_time": 176180,
+    "index": 32,
+    "start_time": 171475,
+    "text": "They`re not doing us a favor by extending the debt ceiling. "
+  },
+  {
+    "end_time": 178260,
+    "index": 33,
+    "start_time": 176179,
+    "text": "Those - that`s part of our jobs."
+  },
+  {
+    "end_time": 182590,
+    "index": 34,
+    "start_time": 178261,
+    "text": "UNIDENTIFIED MALE: Meantime, Republicans accuse the president of pulling a bait and switch."
+  },
+  {
+    "end_time": 186880,
+    "index": 35,
+    "start_time": 182586,
+    "text": "REP. JOHN FLEMING, R-LOUISIANA: The president apparently was not negotiating in good faith. "
+  },
+  {
+    "end_time": 191660,
+    "index": 36,
+    "start_time": 186876,
+    "text": "All he`s really said is, whatever you offer, I`m not interested in it. "
+  },
+  {
+    "end_time": 199030,
+    "index": 37,
+    "start_time": 191659,
+    "text": "He`s hoping to cut a deal with the Senate, which would \n I think be a terrible deal, to undermine the house."
+  },
+  {
+    "end_time": 202500,
+    "index": 38,
+    "start_time": 200565,
+    "text": "UNIDENTIFIED FEMALE: It`s time for the shoutout. "
+  },
+  {
+    "end_time": 205650,
+    "index": 39,
+    "start_time": 202500,
+    "text": "The Swat Valley is located in what country? "
+  },
+  {
+    "end_time": 207940,
+    "index": 40,
+    "start_time": 205648,
+    "text": "If you think you know it, then shout it out. "
+  },
+  {
+    "end_time": 212940,
+    "index": 41,
+    "start_time": 207941,
+    "text": "Is it in Egypt, France, Pakistan or the United States? "
+  },
+  {
+    "end_time": 215399,
+    "index": 42,
+    "start_time": 212944,
+    "text": "You got 3 seconds, go."
+  },
+  {
+    "end_time": 223140,
+    "index": 43,
+    "start_time": 219610,
+    "text": "The Swat Valley is in the northern part of Pakistan. "
+  },
+  {
+    "end_time": 227270,
+    "index": 44,
+    "start_time": 223143,
+    "text": "That`s your answer and that`s your shoutout."
+  },
+  {
+    "end_time": 235190,
+    "index": 45,
+    "start_time": 227272,
+    "text": "AZUZ: Malala Yousafzai was 10 years old when the Taliban arrived in \n the Swat Valley and started imposing its harsh rules. "
+  },
+  {
+    "end_time": 237859,
+    "index": 46,
+    "start_time": 235189,
+    "text": "For example, no girls allowed in school."
+  },
+  {
+    "end_time": 241730,
+    "index": 47,
+    "start_time": 237863,
+    "text": "Malala became a target after she spoke out for education rights. "
+  },
+  {
+    "end_time": 251610,
+    "index": 48,
+    "start_time": 241729,
+    "text": "She is still speaking out, and in an interview with CNN`s Christiane Amanpour, Malala talked about the \n attack on her life and about her cause, which she says a bullet could never end."
+  },
+  {
+    "end_time": 254980,
+    "index": 49,
+    "start_time": 251606,
+    "text": "MALALA YOUSAFZAI, ACTIVIST: He asked, who is Malala? "
+  },
+  {
+    "end_time": 258350,
+    "index": 50,
+    "start_time": 254978,
+    "text": "He did not give me time to answer his question."
+  },
+  {
+    "end_time": 266440,
+    "index": 51,
+    "start_time": 258346,
+    "text": "And my friend told me, my best friend, Maniba (ph), that at that time, \n you just squeezed my hand, and you just pushed it with force, "
+  },
+  {
+    "end_time": 272860,
+    "index": 52,
+    "start_time": 266445,
+    "text": "and you do not say anything, and then in the \n next few seconds, he fired two bullets. "
+  },
+  {
+    "end_time": 282020,
+    "index": 53,
+    "start_time": 272865,
+    "text": "One bullet hit me, the left side of my forehead, just above here, \n and it went down through my neck and into my shoulder."
+  },
+  {
+    "end_time": 292580,
+    "index": 54,
+    "start_time": 282016,
+    "text": "And I think I was hit by only one bullet, and it also affected \n my eardrum, so now I have problem in listening as well. "
+  },
+  {
+    "end_time": 295370,
+    "index": 55,
+    "start_time": 292583,
+    "text": "It also cut down my facial nerve. "
+  },
+  {
+    "end_time": 298510,
+    "index": 56,
+    "start_time": 295368,
+    "text": "But still, if I look at it, it`s a miracle. "
+  },
+  {
+    "end_time": 305730,
+    "index": 57,
+    "start_time": 298509,
+    "text": "My brain is saved, my spinal cord is safe, everything is fine, I \n am alive, and I still can talk. I can smile. "
+  },
+  {
+    "end_time": 307730,
+    "index": 58,
+    "start_time": 305730,
+    "text": "So I thank God for that."
+  },
+  {
+    "end_time": 310380,
+    "index": 59,
+    "start_time": 307732,
+    "text": "Before the terrorists, we were going to school. "
+  },
+  {
+    "end_time": 318590,
+    "index": 60,
+    "start_time": 310383,
+    "text": "It was just a normal life, getting a heavy bag (ph) and \n doing homework daily, and being good and getting high marks. "
+  },
+  {
+    "end_time": 321969,
+    "index": 61,
+    "start_time": 318590,
+    "text": "We could not understand what we are doing, why are we going to school."
+  },
+  {
+    "end_time": 328940,
+    "index": 62,
+    "start_time": 321973,
+    "text": "But then later on, when the terrorists came, when they stopped \n us from going to school, I got the evidence, "
+  },
+  {
+    "end_time": 337729,
+    "index": 63,
+    "start_time": 328941,
+    "text": "and they showed me a proof that, yes, the terrorists are afraid \n of education, they are afraid of the power of education. "
+  },
+  {
+    "end_time": 341380,
+    "index": 64,
+    "start_time": 337727,
+    "text": "And if a woman gets education, then she becomes more powerful. "
+  },
+  {
+    "end_time": 345670,
+    "index": 65,
+    "start_time": 341377,
+    "text": "And we all know that the terrorists are afraid \n of the power of women as well. "
+  },
+  {
+    "end_time": 353169,
+    "index": 66,
+    "start_time": 345669,
+    "text": "So now, at that time, we realized that yes, education \n is important, because it was snatched from us."
+  },
+  {
+    "end_time": 363620,
+    "index": 67,
+    "start_time": 353174,
+    "text": "So I would like to tell every girl in UK and America, in the countries, \n in the developed countries where education is available to them, go to schools, "
+  },
+  {
+    "end_time": 369630,
+    "index": 68,
+    "start_time": 363615,
+    "text": "and realize its importance before it is snatched from you, \n as we have been suffering from that situation."
+  },
+  {
+    "end_time": 380510,
+    "index": 69,
+    "start_time": 375312,
+    "text": "AZUZ: Today`s roll call starts with two northern neighbors before we head \n down to the Gulf. Let`s go to the map. "
+  },
+  {
+    "end_time": 384680,
+    "index": 70,
+    "start_time": 380507,
+    "text": "Call it the Peace Garden State, the Flickertail state, the Roughrider state. "
+  },
+  {
+    "end_time": 388820,
+    "index": 71,
+    "start_time": 384684,
+    "text": "We call it North Dakota, home of the Vikings from Kindred High. "
+  },
+  {
+    "end_time": 393620,
+    "index": 72,
+    "start_time": 388819,
+    "text": "Right next door is Montana, where the Sidney Eagles \n are checking out CNN STUDENT NEWS. "
+  },
+  {
+    "end_time": 399650,
+    "index": 73,
+    "start_time": 393620,
+    "text": "And finally, we hit the capital of Louisiana, Baton Rouge, to \n say hello to the Panthers from Woodlawn High School."
+  },
+  {
+    "end_time": 402560,
+    "index": 74,
+    "start_time": 399646,
+    "text": "He sailed the ocean blue in 1492. "
+  },
+  {
+    "end_time": 410170,
+    "index": 75,
+    "start_time": 402565,
+    "text": "Of course, he mistook the Caribbean for Asia, but leading the Nina, the \n Pinta and the Santa Maria, Christopher Columbus did traverse the Atlantic, "
+  },
+  {
+    "end_time": 413909,
+    "index": 76,
+    "start_time": 410167,
+    "text": "and for that, he got his own holiday \n on the second Monday in October. "
+  },
+  {
+    "end_time": 419380,
+    "index": 77,
+    "start_time": 413910,
+    "text": "Columbus was Italian, so some folks celebrate Italian American heritage on Columbus Day. "
+  },
+  {
+    "end_time": 424910,
+    "index": 78,
+    "start_time": 419382,
+    "text": "One view is that Columbus was a heroic \n explorer, bridging Europe with the Americas. "
+  },
+  {
+    "end_time": 430600,
+    "index": 79,
+    "start_time": 424913,
+    "text": "Another view looks at the effects that later had on \n those native to North and South America, "
+  },
+  {
+    "end_time": 434710,
+    "index": 80,
+    "start_time": 430601,
+    "text": "the diseases brought from Europe, the destruction of some Native Americans` way of life."
+  },
+  {
+    "end_time": 441860,
+    "index": 81,
+    "start_time": 434714,
+    "text": "That`s part of the reason why different celebrations in parts of Latin \n America, like Dia De La Raza (ph), leave out Columbus himself."
+  },
+  {
+    "end_time": 446270,
+    "index": 82,
+    "start_time": 441863,
+    "text": "La`Shanda Jones got interested in the U.S. Coast \n Guard when she was in college. "
+  },
+  {
+    "end_time": 451219,
+    "index": 83,
+    "start_time": 446272,
+    "text": "Jones says that when she was growing up, she was used \n to people telling her what she couldn`t do. "
+  },
+  {
+    "end_time": 454070,
+    "index": 84,
+    "start_time": 451215,
+    "text": "That that gave her more motivation to succeed. "
+  },
+  {
+    "end_time": 457470,
+    "index": 85,
+    "start_time": 454069,
+    "text": "Now she`s a lieutenant, and she`s breaking ground in the sky."
+  },
+  {
+    "end_time": 461590,
+    "index": 86,
+    "start_time": 457471,
+    "text": "LT. LA`SHANDA JONES, U.S. COAST GUARD: It`s a \n dream job. Flying, how cool is that?"
+  },
+  {
+    "end_time": 469890,
+    "index": 87,
+    "start_time": 463580,
+    "text": "The power within to me means that I know where \n I came from, and I appreciate it. "
+  },
+  {
+    "end_time": 474130,
+    "index": 88,
+    "start_time": 469891,
+    "text": "It means that I can go out and run \n a mission and be confident and be direct."
+  },
+  {
+    "end_time": 480830,
+    "index": 89,
+    "start_time": 474131,
+    "text": "UNIDENTIFIED FEMALE: Meet Lieutenant La`Shanda Jones. She`s the first black female \n helicopter pilot in the United States Coast Guard. "
+  },
+  {
+    "end_time": 483290,
+    "index": 90,
+    "start_time": 480834,
+    "text": "But her story could have turned out much differently. "
+  },
+  {
+    "end_time": 490510,
+    "index": 91,
+    "start_time": 483289,
+    "text": "When she was 2, her mother committed suicide, forcing her to live \n in a home that would later turn out to be abusive."
+  },
+  {
+    "end_time": 496870,
+    "index": 92,
+    "start_time": 490511,
+    "text": "JONES: The Department of Social Services took me from my \n home and put me in foster care. "
+  },
+  {
+    "end_time": 503630,
+    "index": 93,
+    "start_time": 496866,
+    "text": "At that time, I was just turning about 16 years old, and \n it`s hard to find placement for kids when you`re that age."
+  },
+  {
+    "end_time": 508300,
+    "index": 94,
+    "start_time": 503630,
+    "text": "UNIDENTIFIED FEMALE: Despite the odds, La`Shanda graduated at the \n top of her high school class. "
+  },
+  {
+    "end_time": 513970,
+    "index": 95,
+    "start_time": 508303,
+    "text": "She then went on to attend Spellman College in Atlanta, \n and eventually became interested in the Coast Guard."
+  },
+  {
+    "end_time": 523870,
+    "index": 96,
+    "start_time": 518450,
+    "text": "JONES: Primarily, we do search and rescue. Flying is an inherently dangerous job."
+  },
+  {
+    "end_time": 530200,
+    "index": 97,
+    "start_time": 523869,
+    "text": "The pilot in command is responsible for the safe and efficient mission completion. "
+  },
+  {
+    "end_time": 534740,
+    "index": 98,
+    "start_time": 530197,
+    "text": "I wish my mother was here. I with \n a lot of things were different, "
+  },
+  {
+    "end_time": 540590,
+    "index": 99,
+    "start_time": 534735,
+    "text": "but at the end of the day, I am very proud \n for the woman that I had been allowed to become."
+  },
+  {
+    "end_time": 553940,
+    "index": 100,
+    "start_time": 546667,
+    "text": "AZUZ: Magicians may not like to share tricks of the trade, but the one \n in this YouTube video is happy to share tips of the trade. "
+  },
+  {
+    "end_time": 561090,
+    "index": 101,
+    "start_time": 553940,
+    "text": "He starts by offering delivery drivers five singles, then he makes a \n little presto change-o, and ends up handing them five 20s."
+  },
+  {
+    "end_time": 566069,
+    "index": 102,
+    "start_time": 561087,
+    "text": "That`s $100 tip. The sleight of hand is not taken slightly."
+  },
+  {
+    "end_time": 568480,
+    "index": 103,
+    "start_time": 566070,
+    "text": "UNIDENTIFIED MALE: You know how it works, so there you go. "
+  },
+  {
+    "end_time": 572980,
+    "index": 104,
+    "start_time": 568475,
+    "text": "20, 40, 100 bucks."
+  },
+  {
+    "end_time": 576199,
+    "index": 105,
+    "start_time": 572977,
+    "text": "UNIDENTIFIED MALE: That`s awesome.\nUNIDENTIFIED MALE: Yeah, it is pretty awesome."
+  },
+  {
+    "end_time": 579709,
+    "index": 106,
+    "start_time": 576203,
+    "text": "UNIDENTIFIED MALE: (inaudible).\nUNIDENTIFIED MALE: Oh, no, don`t - I`m sure you can use it."
+  },
+  {
+    "end_time": 585079,
+    "index": 107,
+    "start_time": 579708,
+    "text": "AZUZ: If you want your magic tricks to get noticed, putting \n them on social media will definitely tip people off. "
+  },
+  {
+    "end_time": 588030,
+    "index": 108,
+    "start_time": 585080,
+    "text": "So no matter how you slice it, that`s notoriety for the tipper. "
+  },
+  {
+    "end_time": 590960,
+    "index": 109,
+    "start_time": 588027,
+    "text": "And for the pizza delivery guys, just a little extra dough. "
+  },
+  {
+    "end_time": 595160,
+    "index": 110,
+    "start_time": 590965,
+    "text": "It`s going to eat up all our time for the day, but \n we`ll reappear tomorrow, just like magic. See you all then."
+  },
+  {
+    "end_time": 599170,
+    "index": 111,
+    "start_time": 596196,
+    "text": "END "
+  }
+]

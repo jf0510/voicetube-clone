@@ -1,0 +1,542 @@
+[
+    {
+        "index": 1,
+        "start_time": 6616,
+        "end_time": 10513,
+        "text": "Humans have been fascinated\nwith speed for ages."
+    },
+    {
+        "index": 2,
+        "start_time": 10513,
+        "end_time": 14746,
+        "text": "The history of human progress\nis one of ever-increasing velocity,"
+    },
+    {
+        "index": 3,
+        "start_time": 14746,
+        "end_time": 18611,
+        "text": "and one of the most important achievements\nin this historical race"
+    },
+    {
+        "index": 4,
+        "start_time": 18611,
+        "end_time": 21503,
+        "text": "was the breaking of the sound barrier."
+    },
+    {
+        "index": 5,
+        "start_time": 21503,
+        "end_time": 24871,
+        "text": "Not long after the first\nsuccessful airplane flights,"
+    },
+    {
+        "index": 6,
+        "start_time": 24871,
+        "end_time": 29983,
+        "text": "pilots were eager to push\ntheir planes to go faster and faster."
+    },
+    {
+        "index": 7,
+        "start_time": 29983,
+        "end_time": 32384,
+        "text": "But as they did so, increased turbulence"
+    },
+    {
+        "index": 8,
+        "start_time": 32384,
+        "end_time": 37688,
+        "text": "and large forces on the plane\nprevented them from accelerating further."
+    },
+    {
+        "index": 9,
+        "start_time": 37688,
+        "end_time": 41647,
+        "text": "Some tried to circumvent\nthe problem through risky dives,"
+    },
+    {
+        "index": 10,
+        "start_time": 41647,
+        "end_time": 44085,
+        "text": "often with tragic results."
+    },
+    {
+        "index": 11,
+        "start_time": 44085,
+        "end_time": 47550,
+        "text": "Finally, in 1947, design improvements,"
+    },
+    {
+        "index": 12,
+        "start_time": 47550,
+        "end_time": 52302,
+        "text": "such as a movable horizontal stabilizer,\nthe all-moving tail,"
+    },
+    {
+        "index": 13,
+        "start_time": 52302,
+        "end_time": 55521,
+        "text": "allowed an American military pilot\nnamed Chuck Yeager"
+    },
+    {
+        "index": 14,
+        "start_time": 55521,
+        "end_time": 63721,
+        "text": "to fly the Bell X-1 aircraft at 1127 km\/h,"
+    },
+    {
+        "index": 15,
+        "start_time": 63721,
+        "end_time": 66924,
+        "text": "becoming the first person\nto break the sound barrier"
+    },
+    {
+        "index": 16,
+        "start_time": 66924,
+        "end_time": 69720,
+        "text": "and travel faster than the speed of sound."
+    },
+    {
+        "index": 17,
+        "start_time": 69720,
+        "end_time": 73929,
+        "text": "The Bell X-1 was the first of many\nsupersonic aircraft to follow,"
+    },
+    {
+        "index": 18,
+        "start_time": 73929,
+        "end_time": 77913,
+        "text": "with later designs reaching\nspeeds over Mach 3."
+    },
+    {
+        "index": 19,
+        "start_time": 77913,
+        "end_time": 81573,
+        "text": "Aircraft traveling at supersonic speed\ncreate a shock wave"
+    },
+    {
+        "index": 20,
+        "start_time": 81573,
+        "end_time": 85682,
+        "text": "with a thunder-like noise\nknown as a sonic boom,"
+    },
+    {
+        "index": 21,
+        "start_time": 85682,
+        "end_time": 89179,
+        "text": "which can cause distress to people\nand animals below"
+    },
+    {
+        "index": 22,
+        "start_time": 89179,
+        "end_time": 91070,
+        "text": "or even damage buildings."
+    },
+    {
+        "index": 23,
+        "start_time": 91070,
+        "end_time": 92070,
+        "text": "For this reason,"
+    },
+    {
+        "index": 24,
+        "start_time": 92111,
+        "end_time": 95345,
+        "text": "scientists around the world\nhave been looking at sonic booms,"
+    },
+    {
+        "index": 25,
+        "start_time": 95345,
+        "end_time": 97788,
+        "text": "trying to predict their path\nin the atmosphere,"
+    },
+    {
+        "index": 26,
+        "start_time": 97788,
+        "end_time": 102191,
+        "text": "where they will land,\nand how loud they will be."
+    },
+    {
+        "index": 27,
+        "start_time": 102191,
+        "end_time": 105310,
+        "text": "To better understand\nhow scientists study sonic booms,"
+    },
+    {
+        "index": 28,
+        "start_time": 105310,
+        "end_time": 108298,
+        "text": "let&#39;s start with some basics of sound."
+    },
+    {
+        "index": 29,
+        "start_time": 108298,
+        "end_time": 111931,
+        "text": "Imagine throwing a small stone\nin a still pond."
+    },
+    {
+        "index": 30,
+        "start_time": 111931,
+        "end_time": 113177,
+        "text": "What do you see?"
+    },
+    {
+        "index": 31,
+        "start_time": 113177,
+        "end_time": 115875,
+        "text": "The stone causes waves\nto travel in the water"
+    },
+    {
+        "index": 32,
+        "start_time": 115875,
+        "end_time": 118670,
+        "text": "at the same speed in every direction."
+    },
+    {
+        "index": 33,
+        "start_time": 118670,
+        "end_time": 122887,
+        "text": "These circles that keep growing in radius\nare called wave fronts."
+    },
+    {
+        "index": 34,
+        "start_time": 122887,
+        "end_time": 125904,
+        "text": "Similarly, even though we cannot see it,"
+    },
+    {
+        "index": 35,
+        "start_time": 125904,
+        "end_time": 129306,
+        "text": "a stationary sound source,\nlike a home stereo,"
+    },
+    {
+        "index": 36,
+        "start_time": 129306,
+        "end_time": 132199,
+        "text": "creates sound waves traveling outward."
+    },
+    {
+        "index": 37,
+        "start_time": 132199,
+        "end_time": 134330,
+        "text": "The speed of the waves depends on factors"
+    },
+    {
+        "index": 38,
+        "start_time": 134330,
+        "end_time": 138110,
+        "text": "like the altitude and temperature\nof the air they move through."
+    },
+    {
+        "index": 39,
+        "start_time": 138110,
+        "end_time": 144463,
+        "text": "At sea level, sound travels\nat about 1225 km\/h."
+    },
+    {
+        "index": 40,
+        "start_time": 144463,
+        "end_time": 147290,
+        "text": "But instead of circles\non a two-dimensional surface,"
+    },
+    {
+        "index": 41,
+        "start_time": 147290,
+        "end_time": 150732,
+        "text": "the wave fronts\nare now concentric spheres,"
+    },
+    {
+        "index": 42,
+        "start_time": 150732,
+        "end_time": 155901,
+        "text": "with the sound traveling along rays\nperpendicular to these waves."
+    },
+    {
+        "index": 43,
+        "start_time": 155901,
+        "end_time": 160076,
+        "text": "Now imagine a moving sound source,\nsuch as a train whistle."
+    },
+    {
+        "index": 44,
+        "start_time": 160076,
+        "end_time": 163034,
+        "text": "As the source keeps moving\nin a certain direction,"
+    },
+    {
+        "index": 45,
+        "start_time": 163034,
+        "end_time": 167566,
+        "text": "the successive waves in front of it\nwill become bunched closer together."
+    },
+    {
+        "index": 46,
+        "start_time": 167566,
+        "end_time": 172636,
+        "text": "This greater wave frequency is the cause\nof the famous Doppler effect,"
+    },
+    {
+        "index": 47,
+        "start_time": 172636,
+        "end_time": 175729,
+        "text": "where approaching objects\nsound higher pitched."
+    },
+    {
+        "index": 48,
+        "start_time": 175729,
+        "end_time": 179927,
+        "text": "But as long as the source is moving\nslower than the sound waves themselves,"
+    },
+    {
+        "index": 49,
+        "start_time": 179927,
+        "end_time": 182756,
+        "text": "they will remain nested within each other."
+    },
+    {
+        "index": 50,
+        "start_time": 182756,
+        "end_time": 187771,
+        "text": "It&#39;s when an object goes supersonic,\nmoving faster than the sound it makes,"
+    },
+    {
+        "index": 51,
+        "start_time": 187771,
+        "end_time": 190597,
+        "text": "that the picture changes dramatically."
+    },
+    {
+        "index": 52,
+        "start_time": 190597,
+        "end_time": 193200,
+        "text": "As it overtakes sound waves\nit has emitted,"
+    },
+    {
+        "index": 53,
+        "start_time": 193200,
+        "end_time": 195702,
+        "text": "while generating new ones from\nits current position,"
+    },
+    {
+        "index": 54,
+        "start_time": 195702,
+        "end_time": 199820,
+        "text": "the waves are forced together,\nforming a Mach cone."
+    },
+    {
+        "index": 55,
+        "start_time": 199820,
+        "end_time": 202808,
+        "text": "No sound is heard\nas it approaches an observer"
+    },
+    {
+        "index": 56,
+        "start_time": 202808,
+        "end_time": 207888,
+        "text": "because the object is traveling faster\nthan the sound it produces."
+    },
+    {
+        "index": 57,
+        "start_time": 207888,
+        "end_time": 213051,
+        "text": "Only after the object has passed\nwill the observer hear the sonic boom."
+    },
+    {
+        "index": 58,
+        "start_time": 213051,
+        "end_time": 217007,
+        "text": "Where the Mach cone meets the ground,\nit forms a hyperbola,"
+    },
+    {
+        "index": 59,
+        "start_time": 217007,
+        "end_time": 221306,
+        "text": "leaving a trail known as the boom carpet\nas it travels forward."
+    },
+    {
+        "index": 60,
+        "start_time": 221306,
+        "end_time": 226253,
+        "text": "This makes it possible to determine\nthe area affected by a sonic boom."
+    },
+    {
+        "index": 61,
+        "start_time": 226253,
+        "end_time": 229303,
+        "text": "What about figuring out how strong\na sonic boom will be?"
+    },
+    {
+        "index": 62,
+        "start_time": 229303,
+        "end_time": 232869,
+        "text": "This involves solving the famous\nNavier-Stokes equations"
+    },
+    {
+        "index": 63,
+        "start_time": 232869,
+        "end_time": 236265,
+        "text": "to find the variation\nof pressure in the air"
+    },
+    {
+        "index": 64,
+        "start_time": 236265,
+        "end_time": 239516,
+        "text": "due to the supersonic aircraft\nflying through it."
+    },
+    {
+        "index": 65,
+        "start_time": 239516,
+        "end_time": 243853,
+        "text": "This results in the pressure signature\nknown as the N-wave."
+    },
+    {
+        "index": 66,
+        "start_time": 243853,
+        "end_time": 245483,
+        "text": "What does this shape mean?"
+    },
+    {
+        "index": 67,
+        "start_time": 245483,
+        "end_time": 249506,
+        "text": "Well, the sonic boom occurs\nwhen there is a sudden change in pressure,"
+    },
+    {
+        "index": 68,
+        "start_time": 249506,
+        "end_time": 251918,
+        "text": "and the N-wave involves two booms:"
+    },
+    {
+        "index": 69,
+        "start_time": 251918,
+        "end_time": 255497,
+        "text": "one for the initial pressure rise\nat the aircraft&#39;s nose,"
+    },
+    {
+        "index": 70,
+        "start_time": 255497,
+        "end_time": 258349,
+        "text": "and another for when the tail passes,"
+    },
+    {
+        "index": 71,
+        "start_time": 258349,
+        "end_time": 261017,
+        "text": "and the pressure suddenly\nreturns to normal."
+    },
+    {
+        "index": 72,
+        "start_time": 261017,
+        "end_time": 263130,
+        "text": "This causes a double boom,"
+    },
+    {
+        "index": 73,
+        "start_time": 263130,
+        "end_time": 266636,
+        "text": "but it is usually heard as a single boom\nby human ears."
+    },
+    {
+        "index": 74,
+        "start_time": 266636,
+        "end_time": 269878,
+        "text": "In practice, computer models\nusing these principles"
+    },
+    {
+        "index": 75,
+        "start_time": 269878,
+        "end_time": 274023,
+        "text": "can often predict the location\nand intensity of sonic booms"
+    },
+    {
+        "index": 76,
+        "start_time": 274023,
+        "end_time": 277626,
+        "text": "for given atmospheric conditions\nand flight trajectories,"
+    },
+    {
+        "index": 77,
+        "start_time": 277626,
+        "end_time": 280738,
+        "text": "and there is ongoing research\nto mitigate their effects."
+    },
+    {
+        "index": 78,
+        "start_time": 280738,
+        "end_time": 285809,
+        "text": "In the meantime, supersonic flight\nover land remains prohibited."
+    },
+    {
+        "index": 79,
+        "start_time": 285809,
+        "end_time": 288572,
+        "text": "So, are sonic booms a recent creation?"
+    },
+    {
+        "index": 80,
+        "start_time": 288572,
+        "end_time": 290088,
+        "text": "Not exactly."
+    },
+    {
+        "index": 81,
+        "start_time": 290088,
+        "end_time": 292516,
+        "text": "While we try to find ways to silence them,"
+    },
+    {
+        "index": 82,
+        "start_time": 292516,
+        "end_time": 296045,
+        "text": "a few other animals have been\nusing sonic booms to their advantage."
+    },
+    {
+        "index": 83,
+        "start_time": 296045,
+        "end_time": 300954,
+        "text": "The gigantic Diplodocus may have been\ncapable of cracking its tail"
+    },
+    {
+        "index": 84,
+        "start_time": 300998,
+        "end_time": 307937,
+        "text": "faster than sound, at over 1200 km\/h,\npossibly to deter predators."
+    },
+    {
+        "index": 85,
+        "start_time": 307937,
+        "end_time": 312437,
+        "text": "Some types of shrimp can also create\na similar shock wave underwater,"
+    },
+    {
+        "index": 86,
+        "start_time": 312437,
+        "end_time": 316163,
+        "text": "stunning or even killing pray\nat a distance"
+    },
+    {
+        "index": 87,
+        "start_time": 316163,
+        "end_time": 319733,
+        "text": "with just a snap of their oversized claw."
+    },
+    {
+        "index": 88,
+        "start_time": 319733,
+        "end_time": 322203,
+        "text": "So while we humans\nhave made great progress"
+    },
+    {
+        "index": 89,
+        "start_time": 322203,
+        "end_time": 324853,
+        "text": "in our relentless pursuit of speed,"
+    },
+    {
+        "index": 90,
+        "start_time": 324853,
+        "end_time": 327413,
+        "text": "it turns out that nature was there first."
+    }
+]

@@ -1,0 +1,446 @@
+[
+    {
+        "index": 1,
+        "start_time": 6691,
+        "end_time": 12699,
+        "text": "In 2008, something incredible happened:\na man was cured of HIV."
+    },
+    {
+        "index": 2,
+        "start_time": 12699,
+        "end_time": 18378,
+        "text": "In over 70 million HIV cases, \nthat was a first and, so far, a last."
+    },
+    {
+        "index": 3,
+        "start_time": 18378,
+        "end_time": 21464,
+        "text": "We don&#39;t yet understand exactly\nhow he was cured."
+    },
+    {
+        "index": 4,
+        "start_time": 21464,
+        "end_time": 25774,
+        "text": "We can cure people of various diseases,\nsuch as malaria and hepatitis C,"
+    },
+    {
+        "index": 5,
+        "start_time": 25774,
+        "end_time": 28307,
+        "text": "so why can&#39;t we cure HIV?"
+    },
+    {
+        "index": 6,
+        "start_time": 28307,
+        "end_time": 31555,
+        "text": "Well, first let&#39;s examine \nhow HIV infects people"
+    },
+    {
+        "index": 7,
+        "start_time": 31555,
+        "end_time": 33672,
+        "text": "and progresses into AIDS."
+    },
+    {
+        "index": 8,
+        "start_time": 33672,
+        "end_time": 36830,
+        "text": "HIV spreads through \nexchanges of bodily fluids."
+    },
+    {
+        "index": 9,
+        "start_time": 36830,
+        "end_time": 41293,
+        "text": "Unprotected sex and contaminated needles\nare the leading cause of transmission."
+    },
+    {
+        "index": 10,
+        "start_time": 41293,
+        "end_time": 45853,
+        "text": "It, fortunately, cannot spread\nthrough air, water, or casual contact."
+    },
+    {
+        "index": 11,
+        "start_time": 45853,
+        "end_time": 49614,
+        "text": "Individuals of any age,\nsexual orientation, gender and race"
+    },
+    {
+        "index": 12,
+        "start_time": 49614,
+        "end_time": 52088,
+        "text": "can contract HIV."
+    },
+    {
+        "index": 13,
+        "start_time": 52088,
+        "end_time": 57096,
+        "text": "Once inside the body, HIV infects cells\nthat are part of the immune system."
+    },
+    {
+        "index": 14,
+        "start_time": 57096,
+        "end_time": 59445,
+        "text": "It particularly targets helper T cells,"
+    },
+    {
+        "index": 15,
+        "start_time": 59445,
+        "end_time": 63555,
+        "text": "which help defend the body against \nbacterial and fungal infections."
+    },
+    {
+        "index": 16,
+        "start_time": 63555,
+        "end_time": 65670,
+        "text": "HIV is a retrovirus,"
+    },
+    {
+        "index": 17,
+        "start_time": 65670,
+        "end_time": 70008,
+        "text": "which means it can write its genetic code\ninto the genome of infected cells,"
+    },
+    {
+        "index": 18,
+        "start_time": 70008,
+        "end_time": 73483,
+        "text": "co-opting them into making \nmore copies of itself."
+    },
+    {
+        "index": 19,
+        "start_time": 73483,
+        "end_time": 75789,
+        "text": "During the first stage of HIV infection,"
+    },
+    {
+        "index": 20,
+        "start_time": 75789,
+        "end_time": 78167,
+        "text": "the virus replicates \nwithin helper T cells,"
+    },
+    {
+        "index": 21,
+        "start_time": 78167,
+        "end_time": 80971,
+        "text": "destroying many of them in the process."
+    },
+    {
+        "index": 22,
+        "start_time": 80971,
+        "end_time": 84372,
+        "text": "During this stage, patients often \nexperience flu-like symptoms,"
+    },
+    {
+        "index": 23,
+        "start_time": 84372,
+        "end_time": 87203,
+        "text": "but are typically \nnot yet in mortal danger."
+    },
+    {
+        "index": 24,
+        "start_time": 87203,
+        "end_time": 90837,
+        "text": "However, for a period ranging \nfrom a few months to several years,"
+    },
+    {
+        "index": 25,
+        "start_time": 90837,
+        "end_time": 94269,
+        "text": "during which time the patient may look\nand feel completely healthy,"
+    },
+    {
+        "index": 26,
+        "start_time": 94269,
+        "end_time": 97891,
+        "text": "the virus continues to replicate\nand destroy T cells."
+    },
+    {
+        "index": 27,
+        "start_time": 97891,
+        "end_time": 99826,
+        "text": "When T cell counts drop too low,"
+    },
+    {
+        "index": 28,
+        "start_time": 99826,
+        "end_time": 103236,
+        "text": "patients are in serious danger\nof contracting deadly infections"
+    },
+    {
+        "index": 29,
+        "start_time": 103236,
+        "end_time": 106674,
+        "text": "that healthy immune systems\ncan normally handle."
+    },
+    {
+        "index": 30,
+        "start_time": 106674,
+        "end_time": 110467,
+        "text": "This stage of HIV infection\nis known as AIDS."
+    },
+    {
+        "index": 31,
+        "start_time": 110467,
+        "end_time": 113297,
+        "text": "The good news is there are drugs\nthat are highly effective"
+    },
+    {
+        "index": 32,
+        "start_time": 113297,
+        "end_time": 115036,
+        "text": "at managing levels of HIV"
+    },
+    {
+        "index": 33,
+        "start_time": 115036,
+        "end_time": 117620,
+        "text": "and preventing T cell counts \nfrom getting low enough"
+    },
+    {
+        "index": 34,
+        "start_time": 117620,
+        "end_time": 119868,
+        "text": "for the disease to progress to AIDS."
+    },
+    {
+        "index": 35,
+        "start_time": 119868,
+        "end_time": 122089,
+        "text": "With antiretroviral therapy,"
+    },
+    {
+        "index": 36,
+        "start_time": 122089,
+        "end_time": 126490,
+        "text": "most HIV-positive people can expect\nto live long and healthy lives,"
+    },
+    {
+        "index": 37,
+        "start_time": 126490,
+        "end_time": 129157,
+        "text": "and are much less likely to infect others."
+    },
+    {
+        "index": 38,
+        "start_time": 129157,
+        "end_time": 131600,
+        "text": "However, there are two major catches."
+    },
+    {
+        "index": 39,
+        "start_time": 131600,
+        "end_time": 135881,
+        "text": "One is that HIV-positive patients \nmust keep taking their drugs"
+    },
+    {
+        "index": 40,
+        "start_time": 135881,
+        "end_time": 137509,
+        "text": "for the rest of their lives."
+    },
+    {
+        "index": 41,
+        "start_time": 137509,
+        "end_time": 140762,
+        "text": "Without them, the virus can make \na deadly comeback."
+    },
+    {
+        "index": 42,
+        "start_time": 140762,
+        "end_time": 142944,
+        "text": "So, how do these drugs work?"
+    },
+    {
+        "index": 43,
+        "start_time": 142944,
+        "end_time": 146894,
+        "text": "The most commonly prescribed ones\nprevent the viral genome from being copied"
+    },
+    {
+        "index": 44,
+        "start_time": 146894,
+        "end_time": 150335,
+        "text": "and incorporated into a host cell&#39;s DNA."
+    },
+    {
+        "index": 45,
+        "start_time": 150335,
+        "end_time": 153323,
+        "text": "Other drugs prevent the virus\nfrom maturing or assembling,"
+    },
+    {
+        "index": 46,
+        "start_time": 153323,
+        "end_time": 157985,
+        "text": "causing HIV to be unable \nto infect new cells in the body."
+    },
+    {
+        "index": 47,
+        "start_time": 157985,
+        "end_time": 161192,
+        "text": "But HIV hides out somewhere\nour current drugs cannot reach it:"
+    },
+    {
+        "index": 48,
+        "start_time": 161192,
+        "end_time": 164022,
+        "text": "inside the DNA of healthy T cells."
+    },
+    {
+        "index": 49,
+        "start_time": 164022,
+        "end_time": 167746,
+        "text": "Most T cells die shortly after \nbeing infected with HIV."
+    },
+    {
+        "index": 50,
+        "start_time": 167746,
+        "end_time": 169192,
+        "text": "But in a tiny percentage,"
+    },
+    {
+        "index": 51,
+        "start_time": 169192,
+        "end_time": 172630,
+        "text": "the instructions for building more HIV\nviruses lies dormant,"
+    },
+    {
+        "index": 52,
+        "start_time": 172630,
+        "end_time": 174363,
+        "text": "sometimes for years."
+    },
+    {
+        "index": 53,
+        "start_time": 174363,
+        "end_time": 178477,
+        "text": "So even if we could wipe out every\nHIV virus from an infected person&#39;s body,"
+    },
+    {
+        "index": 54,
+        "start_time": 178477,
+        "end_time": 182618,
+        "text": "one of those T cells could activate\nand start spreading the virus again."
+    },
+    {
+        "index": 55,
+        "start_time": 182618,
+        "end_time": 186606,
+        "text": "The other major catch is that not everyone\nin the world has access to the therapies"
+    },
+    {
+        "index": 56,
+        "start_time": 186606,
+        "end_time": 188690,
+        "text": "that could save their lives."
+    },
+    {
+        "index": 57,
+        "start_time": 188690,
+        "end_time": 193730,
+        "text": "In Sub-Saharan Africa, which accounts\nfor over 70% of HIV patients worldwide,"
+    },
+    {
+        "index": 58,
+        "start_time": 193730,
+        "end_time": 199870,
+        "text": "antiretrovirals reached only about one\nin three HIV-positive patients in 2012."
+    },
+    {
+        "index": 59,
+        "start_time": 199870,
+        "end_time": 202464,
+        "text": "There is no easy answer to this problem."
+    },
+    {
+        "index": 60,
+        "start_time": 202464,
+        "end_time": 205355,
+        "text": "A mix of political, economic \nand cultural barriers"
+    },
+    {
+        "index": 61,
+        "start_time": 205355,
+        "end_time": 208894,
+        "text": "makes effective prevention \nand treatment difficult."
+    },
+    {
+        "index": 62,
+        "start_time": 208894,
+        "end_time": 214549,
+        "text": "And even in the U.S., HIV still claims\nmore than 10,000 lives per year."
+    },
+    {
+        "index": 63,
+        "start_time": 214549,
+        "end_time": 217628,
+        "text": "However, there is ample cause for hope."
+    },
+    {
+        "index": 64,
+        "start_time": 217628,
+        "end_time": 221169,
+        "text": "Researchers may be closer than ever\nto developing a true cure."
+    },
+    {
+        "index": 65,
+        "start_time": 221169,
+        "end_time": 222637,
+        "text": "One research approach involves"
+    },
+    {
+        "index": 66,
+        "start_time": 222637,
+        "end_time": 227963,
+        "text": "using a drug to activate all cells \nharboring the HIV genetic information."
+    },
+    {
+        "index": 67,
+        "start_time": 227963,
+        "end_time": 232088,
+        "text": "This would both destroy those cells\nand flush the virus out into the open,"
+    },
+    {
+        "index": 68,
+        "start_time": 232088,
+        "end_time": 234328,
+        "text": "where our current drugs are effective."
+    },
+    {
+        "index": 69,
+        "start_time": 234328,
+        "end_time": 236515,
+        "text": "Another is looking to use genetic tools"
+    },
+    {
+        "index": 70,
+        "start_time": 236515,
+        "end_time": 241301,
+        "text": "to cut the HIV DNA \nout of cells genomes altogether."
+    },
+    {
+        "index": 71,
+        "start_time": 241301,
+        "end_time": 245442,
+        "text": "And while one cure out of 70 million cases\nmay seem like terrible odds,"
+    },
+    {
+        "index": 72,
+        "start_time": 245442,
+        "end_time": 249013,
+        "text": "one is immeasurably better than zero."
+    },
+    {
+        "index": 73,
+        "start_time": 249013,
+        "end_time": 251352,
+        "text": "We now know that a cure is possible,"
+    },
+    {
+        "index": 74,
+        "start_time": 251352,
+        "end_time": 255570,
+        "text": "and that may give us what we need\nto beat HIV for good."
+    }
+]

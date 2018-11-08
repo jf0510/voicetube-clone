@@ -1,0 +1,518 @@
+[
+    {
+        "index": 1,
+        "start_time": 7694,
+        "end_time": 11534,
+        "text": "Imagine as a thought experiment\nthat you live in a small village"
+    },
+    {
+        "index": 2,
+        "start_time": 11534,
+        "end_time": 15102,
+        "text": "and depend on \nthe local fish pond for food."
+    },
+    {
+        "index": 3,
+        "start_time": 15102,
+        "end_time": 18071,
+        "text": "You share the pond \nwith three other villagers."
+    },
+    {
+        "index": 4,
+        "start_time": 18071,
+        "end_time": 23412,
+        "text": "The pond starts off with a dozen fish,\nand the fish reproduce."
+    },
+    {
+        "index": 5,
+        "start_time": 23412,
+        "end_time": 27856,
+        "text": "For every two fish, there will be \none baby added each night."
+    },
+    {
+        "index": 6,
+        "start_time": 27856,
+        "end_time": 30424,
+        "text": "So, in order to maximize \nyour supply of food,"
+    },
+    {
+        "index": 7,
+        "start_time": 30424,
+        "end_time": 34266,
+        "text": "how many fish should you catch each day?"
+    },
+    {
+        "index": 8,
+        "start_time": 34266,
+        "end_time": 36596,
+        "text": "Take a moment to think about it."
+    },
+    {
+        "index": 9,
+        "start_time": 36596,
+        "end_time": 39847,
+        "text": "Assume baby fish grow \nto full size immediately"
+    },
+    {
+        "index": 10,
+        "start_time": 39847,
+        "end_time": 42866,
+        "text": "and that the pond begins at full capacity,"
+    },
+    {
+        "index": 11,
+        "start_time": 42866,
+        "end_time": 46726,
+        "text": "and ignore factors \nlike the sex of the fish you catch."
+    },
+    {
+        "index": 12,
+        "start_time": 46726,
+        "end_time": 50756,
+        "text": "The answer? One, and it&#39;s not just you."
+    },
+    {
+        "index": 13,
+        "start_time": 50756,
+        "end_time": 53707,
+        "text": "The best way to maximize \nevery villager&#39;s food supply"
+    },
+    {
+        "index": 14,
+        "start_time": 53707,
+        "end_time": 58437,
+        "text": "is for each fisherman to take \njust one fish each day."
+    },
+    {
+        "index": 15,
+        "start_time": 58437,
+        "end_time": 60108,
+        "text": "Here&#39;s how the math works."
+    },
+    {
+        "index": 16,
+        "start_time": 60108,
+        "end_time": 64734,
+        "text": "If each villager takes one fish,\nthere will be eight fish left over night."
+    },
+    {
+        "index": 17,
+        "start_time": 64734,
+        "end_time": 67117,
+        "text": "Each pair of fish produces one baby,"
+    },
+    {
+        "index": 18,
+        "start_time": 67117,
+        "end_time": 72187,
+        "text": "and the next day, the pond \nwill be fully restocked with twelve fish."
+    },
+    {
+        "index": 19,
+        "start_time": 72187,
+        "end_time": 77499,
+        "text": "If anyone takes more than one,\nthe number of reproductive pairs drops,"
+    },
+    {
+        "index": 20,
+        "start_time": 77499,
+        "end_time": 82408,
+        "text": "and the population \nwon&#39;t be able to bounce back."
+    },
+    {
+        "index": 21,
+        "start_time": 82408,
+        "end_time": 85149,
+        "text": "Eventually, the fish in the lake \nwill be gone,"
+    },
+    {
+        "index": 22,
+        "start_time": 85149,
+        "end_time": 88699,
+        "text": "leaving all four villagers to starve."
+    },
+    {
+        "index": 23,
+        "start_time": 88699,
+        "end_time": 91859,
+        "text": "This fish pond is just one example\nof a classic problem"
+    },
+    {
+        "index": 24,
+        "start_time": 91859,
+        "end_time": 94937,
+        "text": "called the tragedy of the commons."
+    },
+    {
+        "index": 25,
+        "start_time": 94937,
+        "end_time": 97508,
+        "text": "The phenomenon was first described \nin a pamphlet"
+    },
+    {
+        "index": 26,
+        "start_time": 97508,
+        "end_time": 102177,
+        "text": "by economist \nWilliam Forster Lloyd in 1833"
+    },
+    {
+        "index": 27,
+        "start_time": 102177,
+        "end_time": 104749,
+        "text": "in a discussion of \nthe overgrazing of cattle"
+    },
+    {
+        "index": 28,
+        "start_time": 104749,
+        "end_time": 107788,
+        "text": "on village common areas."
+    },
+    {
+        "index": 29,
+        "start_time": 107788,
+        "end_time": 112628,
+        "text": "More than 100 years later, ecologist\nGarrett Hardin revived the concept"
+    },
+    {
+        "index": 30,
+        "start_time": 112628,
+        "end_time": 115358,
+        "text": "to describe what happens \nwhen many individuals"
+    },
+    {
+        "index": 31,
+        "start_time": 115358,
+        "end_time": 118200,
+        "text": "all share a limited resource,"
+    },
+    {
+        "index": 32,
+        "start_time": 118200,
+        "end_time": 119689,
+        "text": "like grazing land,"
+    },
+    {
+        "index": 33,
+        "start_time": 119689,
+        "end_time": 120792,
+        "text": "fishing areas,"
+    },
+    {
+        "index": 34,
+        "start_time": 120792,
+        "end_time": 121889,
+        "text": "living space,"
+    },
+    {
+        "index": 35,
+        "start_time": 121889,
+        "end_time": 123940,
+        "text": "even clean air."
+    },
+    {
+        "index": 36,
+        "start_time": 123940,
+        "end_time": 128039,
+        "text": "Hardin argued that these situations\npit short-term self-interest"
+    },
+    {
+        "index": 37,
+        "start_time": 128039,
+        "end_time": 130249,
+        "text": "against the common good,"
+    },
+    {
+        "index": 38,
+        "start_time": 130249,
+        "end_time": 132741,
+        "text": "and they end badly for everyone,"
+    },
+    {
+        "index": 39,
+        "start_time": 132741,
+        "end_time": 134140,
+        "text": "resulting in overgrazing,"
+    },
+    {
+        "index": 40,
+        "start_time": 134140,
+        "end_time": 135179,
+        "text": "overfishing,"
+    },
+    {
+        "index": 41,
+        "start_time": 135179,
+        "end_time": 136489,
+        "text": "overpopulation,"
+    },
+    {
+        "index": 42,
+        "start_time": 136489,
+        "end_time": 137560,
+        "text": "pollution,"
+    },
+    {
+        "index": 43,
+        "start_time": 137560,
+        "end_time": 140760,
+        "text": "and other social \nand environmental problems."
+    },
+    {
+        "index": 44,
+        "start_time": 140760,
+        "end_time": 143270,
+        "text": "The key feature of \na tragedy of the commons"
+    },
+    {
+        "index": 45,
+        "start_time": 143270,
+        "end_time": 148600,
+        "text": "is that it provides an opportunity for\nan individual to benefit him or herself"
+    },
+    {
+        "index": 46,
+        "start_time": 148600,
+        "end_time": 153872,
+        "text": "while spreading out any negative effects \nacross the larger population."
+    },
+    {
+        "index": 47,
+        "start_time": 153872,
+        "end_time": 157107,
+        "text": "To see what that means,\nlet&#39;s revisit our fish pond."
+    },
+    {
+        "index": 48,
+        "start_time": 157107,
+        "end_time": 159691,
+        "text": "Each individual fisherman is motivated"
+    },
+    {
+        "index": 49,
+        "start_time": 159691,
+        "end_time": 162952,
+        "text": "to take as many fish \nas he can for himself."
+    },
+    {
+        "index": 50,
+        "start_time": 162952,
+        "end_time": 165571,
+        "text": "Meanwhile, any decline \nin fish reproduction"
+    },
+    {
+        "index": 51,
+        "start_time": 165571,
+        "end_time": 168762,
+        "text": "is shared by the entire village."
+    },
+    {
+        "index": 52,
+        "start_time": 168762,
+        "end_time": 171453,
+        "text": "Anxious to avoid \nlosing out to his neighbors,"
+    },
+    {
+        "index": 53,
+        "start_time": 171453,
+        "end_time": 176403,
+        "text": "a fisherman will conclude that it&#39;s in his\nbest interest to take an extra fish,"
+    },
+    {
+        "index": 54,
+        "start_time": 176403,
+        "end_time": 177242,
+        "text": "or two,"
+    },
+    {
+        "index": 55,
+        "start_time": 177242,
+        "end_time": 178643,
+        "text": "or three."
+    },
+    {
+        "index": 56,
+        "start_time": 178643,
+        "end_time": 182591,
+        "text": "Unfortunately, this is the same conclusion\nreached by the other fisherman,"
+    },
+    {
+        "index": 57,
+        "start_time": 182591,
+        "end_time": 184043,
+        "text": "and that&#39;s the tragedy."
+    },
+    {
+        "index": 58,
+        "start_time": 184043,
+        "end_time": 190419,
+        "text": "Optimizing for the self in the short term\nisn&#39;t optimal for anyone in the long term."
+    },
+    {
+        "index": 59,
+        "start_time": 190419,
+        "end_time": 193303,
+        "text": "That&#39;s a simplified example,\nbut the tragedy of the commons"
+    },
+    {
+        "index": 60,
+        "start_time": 193303,
+        "end_time": 197864,
+        "text": "plays out in the more complex systems\nof real life, too."
+    },
+    {
+        "index": 61,
+        "start_time": 197864,
+        "end_time": 202783,
+        "text": "The overuse of antibiotics has led to\nshort-term gains in livestock production"
+    },
+    {
+        "index": 62,
+        "start_time": 202783,
+        "end_time": 205023,
+        "text": "and in treating common illnesses,"
+    },
+    {
+        "index": 63,
+        "start_time": 205023,
+        "end_time": 210003,
+        "text": "but it&#39;s also resulted in the evolution\nof antibiotic-resistant bacteria,"
+    },
+    {
+        "index": 64,
+        "start_time": 210003,
+        "end_time": 212843,
+        "text": "which threaten the entire population."
+    },
+    {
+        "index": 65,
+        "start_time": 212843,
+        "end_time": 216466,
+        "text": "A coal-fired power plant produces\ncheap electricity for its customers"
+    },
+    {
+        "index": 66,
+        "start_time": 216466,
+        "end_time": 218563,
+        "text": "and profits for its owners."
+    },
+    {
+        "index": 67,
+        "start_time": 218563,
+        "end_time": 221225,
+        "text": "These local benefits are helpful\nin the short term,"
+    },
+    {
+        "index": 68,
+        "start_time": 221225,
+        "end_time": 226985,
+        "text": "but pollution from mining and burning coal\nis spread across the entire atmosphere"
+    },
+    {
+        "index": 69,
+        "start_time": 226985,
+        "end_time": 229968,
+        "text": "and sticks around for thousands of years."
+    },
+    {
+        "index": 70,
+        "start_time": 229968,
+        "end_time": 232108,
+        "text": "There are other examples, too."
+    },
+    {
+        "index": 71,
+        "start_time": 232108,
+        "end_time": 233024,
+        "text": "Littering,"
+    },
+    {
+        "index": 72,
+        "start_time": 233024,
+        "end_time": 234188,
+        "text": "water shortages,"
+    },
+    {
+        "index": 73,
+        "start_time": 234188,
+        "end_time": 235495,
+        "text": "deforestation,"
+    },
+    {
+        "index": 74,
+        "start_time": 235495,
+        "end_time": 236728,
+        "text": "traffic jams,"
+    },
+    {
+        "index": 75,
+        "start_time": 236728,
+        "end_time": 239541,
+        "text": "even the purchase of bottled water."
+    },
+    {
+        "index": 76,
+        "start_time": 239541,
+        "end_time": 245295,
+        "text": "But human civilization has proven it&#39;s\ncapable of doing something remarkable."
+    },
+    {
+        "index": 77,
+        "start_time": 245295,
+        "end_time": 246785,
+        "text": "We form social contracts,"
+    },
+    {
+        "index": 78,
+        "start_time": 246785,
+        "end_time": 248595,
+        "text": "we make communal agreements,"
+    },
+    {
+        "index": 79,
+        "start_time": 248595,
+        "end_time": 250146,
+        "text": "we elect governments,"
+    },
+    {
+        "index": 80,
+        "start_time": 250146,
+        "end_time": 251995,
+        "text": "and we pass laws."
+    },
+    {
+        "index": 81,
+        "start_time": 251995,
+        "end_time": 257616,
+        "text": "All this to save our collective selves\nfrom our own individual impulses."
+    },
+    {
+        "index": 82,
+        "start_time": 257616,
+        "end_time": 262186,
+        "text": "It isn&#39;t easy, and we certainly \ndon&#39;t get it right nearly all of the time."
+    },
+    {
+        "index": 83,
+        "start_time": 262186,
+        "end_time": 266995,
+        "text": "But humans at our best have shown\nthat we can solve these problems"
+    },
+    {
+        "index": 84,
+        "start_time": 266995,
+        "end_time": 271337,
+        "text": "and we can continue to do so\nif we remember Hardin&#39;s lesson."
+    },
+    {
+        "index": 85,
+        "start_time": 271337,
+        "end_time": 273866,
+        "text": "When the tragedy of the commons applies,"
+    },
+    {
+        "index": 86,
+        "start_time": 273866,
+        "end_time": 277266,
+        "text": "what&#39;s good for all of us \nis good for each of us."
+    }
+]

@@ -1,0 +1,596 @@
+[
+    {
+        "index": 1,
+        "start_time": 7155,
+        "end_time": 11650,
+        "text": "Long before Descartes famously declared,\n&quot;I think, therefore I am,&quot;"
+    },
+    {
+        "index": 2,
+        "start_time": 11650,
+        "end_time": 13251,
+        "text": "and long after that,"
+    },
+    {
+        "index": 3,
+        "start_time": 13251,
+        "end_time": 15282,
+        "text": "scientists and philosophers alike"
+    },
+    {
+        "index": 4,
+        "start_time": 15282,
+        "end_time": 19095,
+        "text": "have puzzled over what they call\nthe mind-body problem."
+    },
+    {
+        "index": 5,
+        "start_time": 19095,
+        "end_time": 23562,
+        "text": "Is the mind some separate, non-material\nentity piloting a machine of flesh?"
+    },
+    {
+        "index": 6,
+        "start_time": 23562,
+        "end_time": 27321,
+        "text": "Or if it&#39;s just a particularly elusive part\nof our physical body,"
+    },
+    {
+        "index": 7,
+        "start_time": 27321,
+        "end_time": 30323,
+        "text": "how can it translate the input of our\nanimal senses"
+    },
+    {
+        "index": 8,
+        "start_time": 30323,
+        "end_time": 34771,
+        "text": "into the seemingly non-physical\nexperiences that we call thoughts?"
+    },
+    {
+        "index": 9,
+        "start_time": 34771,
+        "end_time": 37215,
+        "text": "But though the answers have been\ndebated endlessly,"
+    },
+    {
+        "index": 10,
+        "start_time": 37215,
+        "end_time": 39884,
+        "text": "new research suggests that\npart of the problem lies"
+    },
+    {
+        "index": 11,
+        "start_time": 39884,
+        "end_time": 42549,
+        "text": "in how we pose the question \nin the first place,"
+    },
+    {
+        "index": 12,
+        "start_time": 42549,
+        "end_time": 46614,
+        "text": "assuming a distinction between our\nsensory perception and our ideas"
+    },
+    {
+        "index": 13,
+        "start_time": 46614,
+        "end_time": 48872,
+        "text": "that may not really be there."
+    },
+    {
+        "index": 14,
+        "start_time": 48872,
+        "end_time": 51074,
+        "text": "The traditional model of our mental\nfunction"
+    },
+    {
+        "index": 15,
+        "start_time": 51074,
+        "end_time": 54778,
+        "text": "has been that the senses provide\nseparate data to our brain"
+    },
+    {
+        "index": 16,
+        "start_time": 54778,
+        "end_time": 58725,
+        "text": "which are then translated into the \nappropriate mental phenomena:"
+    },
+    {
+        "index": 17,
+        "start_time": 58725,
+        "end_time": 64509,
+        "text": "visual images into trees, auditory\nexperiences into bird songs, and so on."
+    },
+    {
+        "index": 18,
+        "start_time": 64509,
+        "end_time": 66793,
+        "text": "But occasionally, \nwe have come across people"
+    },
+    {
+        "index": 19,
+        "start_time": 66793,
+        "end_time": 70914,
+        "text": "whose senses seem to mingle together,\nallowing them to hear colors,"
+    },
+    {
+        "index": 20,
+        "start_time": 70914,
+        "end_time": 72771,
+        "text": "or taste sounds."
+    },
+    {
+        "index": 21,
+        "start_time": 72771,
+        "end_time": 75901,
+        "text": "Until recently, the common understanding\nwas that this phenomenon,"
+    },
+    {
+        "index": 22,
+        "start_time": 75901,
+        "end_time": 77061,
+        "text": "called synesthesia,"
+    },
+    {
+        "index": 23,
+        "start_time": 77061,
+        "end_time": 79905,
+        "text": "was a direct connection between the\nparts of the brain"
+    },
+    {
+        "index": 24,
+        "start_time": 79905,
+        "end_time": 82039,
+        "text": "responsible for sensory stimuli such as"
+    },
+    {
+        "index": 25,
+        "start_time": 82039,
+        "end_time": 86825,
+        "text": "seeing the color yellow immediately\nupon hearing the tone of b flat."
+    },
+    {
+        "index": 26,
+        "start_time": 86825,
+        "end_time": 89095,
+        "text": "But newer studies have \nshown that synesthesia"
+    },
+    {
+        "index": 27,
+        "start_time": 89095,
+        "end_time": 91742,
+        "text": "is actually mediated through our \nunderstanding"
+    },
+    {
+        "index": 28,
+        "start_time": 91742,
+        "end_time": 96193,
+        "text": "of the shapes, colors and sounds\nthat our senses apprehend."
+    },
+    {
+        "index": 29,
+        "start_time": 96193,
+        "end_time": 99060,
+        "text": "In order for the cross-sensory\nexperiences to occur,"
+    },
+    {
+        "index": 30,
+        "start_time": 99060,
+        "end_time": 103032,
+        "text": "the higher level ideas and concepts\nthat our minds associate"
+    },
+    {
+        "index": 31,
+        "start_time": 103032,
+        "end_time": 106060,
+        "text": "with the sensory input must be activated."
+    },
+    {
+        "index": 32,
+        "start_time": 106060,
+        "end_time": 110831,
+        "text": "For example, this shape can be seen as\neither the letter &quot;s&quot; or the number &quot;5,&quot;"
+    },
+    {
+        "index": 33,
+        "start_time": 110831,
+        "end_time": 114525,
+        "text": "and synesthetes associate each with \ndifferent colors or sounds"
+    },
+    {
+        "index": 34,
+        "start_time": 114525,
+        "end_time": 116437,
+        "text": "based on how they interpret it"
+    },
+    {
+        "index": 35,
+        "start_time": 116437,
+        "end_time": 120615,
+        "text": "despite the purely visual stimulus \nremaining identical."
+    },
+    {
+        "index": 36,
+        "start_time": 120615,
+        "end_time": 124484,
+        "text": "In another study, synesthetes created\nnovel color associations"
+    },
+    {
+        "index": 37,
+        "start_time": 124484,
+        "end_time": 128488,
+        "text": "for unfamiliar letters after learning\nwhat the letters were."
+    },
+    {
+        "index": 38,
+        "start_time": 128488,
+        "end_time": 132433,
+        "text": "So because it relies on a connection\nbetween ideas and senses,"
+    },
+    {
+        "index": 39,
+        "start_time": 132433,
+        "end_time": 135321,
+        "text": "this mental phenomenon \nunderlying synesthesia"
+    },
+    {
+        "index": 40,
+        "start_time": 135321,
+        "end_time": 138187,
+        "text": "is known as ideasthesia."
+    },
+    {
+        "index": 41,
+        "start_time": 138187,
+        "end_time": 140467,
+        "text": "Synesthesia only occurs in some people,"
+    },
+    {
+        "index": 42,
+        "start_time": 140467,
+        "end_time": 143179,
+        "text": "although it may be more common\nthan previously thought."
+    },
+    {
+        "index": 43,
+        "start_time": 143179,
+        "end_time": 146890,
+        "text": "But ideasthesia itself is a \nfundamental part of our lives."
+    },
+    {
+        "index": 44,
+        "start_time": 146890,
+        "end_time": 152336,
+        "text": "Virtually all of us recognize the color\nred as warm and blue as cold."
+    },
+    {
+        "index": 45,
+        "start_time": 152336,
+        "end_time": 155920,
+        "text": "Many would agree that bright colors,\nitalic letters and thin lines"
+    },
+    {
+        "index": 46,
+        "start_time": 155920,
+        "end_time": 157066,
+        "text": "are high-pitched,"
+    },
+    {
+        "index": 47,
+        "start_time": 157066,
+        "end_time": 159439,
+        "text": "while earth tones are low-pitched."
+    },
+    {
+        "index": 48,
+        "start_time": 159439,
+        "end_time": 163348,
+        "text": "And while many of these associations\nare acquired through cultural exposure,"
+    },
+    {
+        "index": 49,
+        "start_time": 163348,
+        "end_time": 167241,
+        "text": "others have been demonstrated even\nin infants and apes,"
+    },
+    {
+        "index": 50,
+        "start_time": 167241,
+        "end_time": 171021,
+        "text": "suggesting that at least \nsome associations are inborn."
+    },
+    {
+        "index": 51,
+        "start_time": 171021,
+        "end_time": 174263,
+        "text": "When asked to choose between two\npossible names for these shapes,"
+    },
+    {
+        "index": 52,
+        "start_time": 174263,
+        "end_time": 177480,
+        "text": "people from entirely different cultural\nand language backgrounds"
+    },
+    {
+        "index": 53,
+        "start_time": 177480,
+        "end_time": 180976,
+        "text": "overwhelmingly agree that &quot;kiki&quot;\nis the spiky star,"
+    },
+    {
+        "index": 54,
+        "start_time": 180976,
+        "end_time": 183654,
+        "text": "while &quot;bouba&quot; is the rounded blob,"
+    },
+    {
+        "index": 55,
+        "start_time": 183654,
+        "end_time": 186875,
+        "text": "both because of the sounds themselves\nand the shapes our mouths make"
+    },
+    {
+        "index": 56,
+        "start_time": 186875,
+        "end_time": 188050,
+        "text": "to produce them."
+    },
+    {
+        "index": 57,
+        "start_time": 188050,
+        "end_time": 189923,
+        "text": "And this leads to even more\nassociations"
+    },
+    {
+        "index": 58,
+        "start_time": 189923,
+        "end_time": 192069,
+        "text": "within a rich semantic network."
+    },
+    {
+        "index": 59,
+        "start_time": 192069,
+        "end_time": 194390,
+        "text": "Kiki is described as nervous and clever,"
+    },
+    {
+        "index": 60,
+        "start_time": 194390,
+        "end_time": 197896,
+        "text": "while bouba is perceived as lazy and slow."
+    },
+    {
+        "index": 61,
+        "start_time": 197896,
+        "end_time": 200873,
+        "text": "What all of this suggests is that our\neveryday experiences"
+    },
+    {
+        "index": 62,
+        "start_time": 200873,
+        "end_time": 205889,
+        "text": "of colors, sounds and other stimuli\ndo not live on separate sensory islands"
+    },
+    {
+        "index": 63,
+        "start_time": 205889,
+        "end_time": 208627,
+        "text": "but are organized in a \nnetwork of associations"
+    },
+    {
+        "index": 64,
+        "start_time": 208627,
+        "end_time": 210837,
+        "text": "similar to our language network."
+    },
+    {
+        "index": 65,
+        "start_time": 210837,
+        "end_time": 213102,
+        "text": "This is what enables us to \nunderstand metaphors"
+    },
+    {
+        "index": 66,
+        "start_time": 213102,
+        "end_time": 215033,
+        "text": "even though they make no logical sense,"
+    },
+    {
+        "index": 67,
+        "start_time": 215033,
+        "end_time": 218244,
+        "text": "such as the comparison of snow\nto a white blanket,"
+    },
+    {
+        "index": 68,
+        "start_time": 218244,
+        "end_time": 221555,
+        "text": "based on the shared sensations of\nsoftness and lightness."
+    },
+    {
+        "index": 69,
+        "start_time": 221555,
+        "end_time": 224385,
+        "text": "Ideasthesia may even be crucial to art,"
+    },
+    {
+        "index": 70,
+        "start_time": 224385,
+        "end_time": 228196,
+        "text": "which relies on a synthesis of\nthe conceptual and the emotional."
+    },
+    {
+        "index": 71,
+        "start_time": 228196,
+        "end_time": 232023,
+        "text": "In great art, idea and aesthesia\nenhance each other,"
+    },
+    {
+        "index": 72,
+        "start_time": 232023,
+        "end_time": 234894,
+        "text": "whether it&#39;s song lyrics combining\nperfectly with a melody,"
+    },
+    {
+        "index": 73,
+        "start_time": 234894,
+        "end_time": 236690,
+        "text": "the thematic content of a painting"
+    },
+    {
+        "index": 74,
+        "start_time": 236690,
+        "end_time": 239058,
+        "text": "heightened by its use of\ncolors and brushstrokes,"
+    },
+    {
+        "index": 75,
+        "start_time": 239058,
+        "end_time": 241135,
+        "text": "or the well constructed plot of a novel"
+    },
+    {
+        "index": 76,
+        "start_time": 241135,
+        "end_time": 243555,
+        "text": "conveyed through perfectly \ncrafted sentences."
+    },
+    {
+        "index": 77,
+        "start_time": 243555,
+        "end_time": 247968,
+        "text": "Most importantly, the network of\nassociations formed by ideasethesia"
+    },
+    {
+        "index": 78,
+        "start_time": 247968,
+        "end_time": 250731,
+        "text": "may not only be similar to \nour linguistic network"
+    },
+    {
+        "index": 79,
+        "start_time": 250731,
+        "end_time": 253457,
+        "text": "but may, in fact, be an integral part of it."
+    },
+    {
+        "index": 80,
+        "start_time": 253457,
+        "end_time": 255075,
+        "text": "Rather than the traditional view,"
+    },
+    {
+        "index": 81,
+        "start_time": 255075,
+        "end_time": 258226,
+        "text": "where our senses first capture \na collection of colors and shapes,"
+    },
+    {
+        "index": 82,
+        "start_time": 258226,
+        "end_time": 259769,
+        "text": "or some vibrations in the air,"
+    },
+    {
+        "index": 83,
+        "start_time": 259769,
+        "end_time": 262884,
+        "text": "and our mind then classifies them as a\ntree or a siren,"
+    },
+    {
+        "index": 84,
+        "start_time": 262884,
+        "end_time": 267523,
+        "text": "ideasthesia suggests that the two\nprocesses occur simultaneously."
+    },
+    {
+        "index": 85,
+        "start_time": 267523,
+        "end_time": 272526,
+        "text": "Our sensory perceptions are shaped by\nour conceptual understanding of the world."
+    },
+    {
+        "index": 86,
+        "start_time": 272526,
+        "end_time": 276284,
+        "text": "and the two are so connected that one\ncannot exist without the other."
+    },
+    {
+        "index": 87,
+        "start_time": 276284,
+        "end_time": 279777,
+        "text": "If this model suggested \nby ideasthesia is accurate,"
+    },
+    {
+        "index": 88,
+        "start_time": 279777,
+        "end_time": 282311,
+        "text": "it may have major implications\nfor some of the biggest"
+    },
+    {
+        "index": 89,
+        "start_time": 282311,
+        "end_time": 286578,
+        "text": "scientific and philosophical issues\nsurrounding the study of mind."
+    },
+    {
+        "index": 90,
+        "start_time": 286578,
+        "end_time": 288739,
+        "text": "Without a preexisting concept of self,"
+    },
+    {
+        "index": 91,
+        "start_time": 288739,
+        "end_time": 292761,
+        "text": "Descartes would not have had an &quot;I&quot;\nto attribute the thinking to."
+    },
+    {
+        "index": 92,
+        "start_time": 292761,
+        "end_time": 296856,
+        "text": "And without a preexisting network of\ninterrelated and distinct concepts,"
+    },
+    {
+        "index": 93,
+        "start_time": 296856,
+        "end_time": 300969,
+        "text": "our sensory experience of the world\nwould be an undifferentiated mass"
+    },
+    {
+        "index": 94,
+        "start_time": 300969,
+        "end_time": 304751,
+        "text": "rather than the discrete objects\nwe actually apprehend."
+    },
+    {
+        "index": 95,
+        "start_time": 304751,
+        "end_time": 308232,
+        "text": "For science, the task is to find where\nthis network lies,"
+    },
+    {
+        "index": 96,
+        "start_time": 308232,
+        "end_time": 311950,
+        "text": "how it is formed, and\nhow it interacts with external stimuli."
+    },
+    {
+        "index": 97,
+        "start_time": 311950,
+        "end_time": 314572,
+        "text": "For philosophy, \nthe challenge is to rethink"
+    },
+    {
+        "index": 98,
+        "start_time": 314572,
+        "end_time": 318601,
+        "text": "what this new model of consciousness means\nfor our understanding of our selves"
+    },
+    {
+        "index": 99,
+        "start_time": 318601,
+        "end_time": 321107,
+        "text": "and our relation to the world around us."
+    }
+]

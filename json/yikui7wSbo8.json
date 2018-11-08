@@ -1,0 +1,332 @@
+[
+  {
+    "end_time": 1360,
+    "index": 1,
+    "start_time": 550,
+    "text": "Hi."
+  },
+  {
+    "end_time": 4780,
+    "index": 2,
+    "start_time": 1360,
+    "text": "I&#39;m David Shaw and\nwelcome AI News."
+  },
+  {
+    "end_time": 7810,
+    "index": 3,
+    "start_time": 4780,
+    "text": "In this episode, we will cover\nthe first ever Intel student"
+  },
+  {
+    "end_time": 9940,
+    "index": 4,
+    "start_time": 7810,
+    "text": "ambassador forum,\nlearn how Intel"
+  },
+  {
+    "end_time": 13660,
+    "index": 5,
+    "start_time": 9940,
+    "text": "is helping deliver real-time AI\nin Microsoft&#39;s new Accelerated"
+  },
+  {
+    "end_time": 16000,
+    "index": 6,
+    "start_time": 13660,
+    "text": "Deep Learning\nProgram, and lastly,"
+  },
+  {
+    "end_time": 18347,
+    "index": 7,
+    "start_time": 16000,
+    "text": "the outcome of Intel&#39;s\nKaggle Competition."
+  },
+  {
+    "end_time": 20680,
+    "index": 8,
+    "start_time": 18347,
+    "text": "Make sure to check out the\nlinks provided to learn more."
+  },
+  {
+    "end_time": 22680,
+    "index": 9,
+    "start_time": 20680,
+    "text": "[MUSIC PLAYING]"
+  },
+  {
+    "end_time": 27130,
+    "index": 10,
+    "start_time": 25180,
+    "text": "The Intel student\nambassadors recently"
+  },
+  {
+    "end_time": 29200,
+    "index": 11,
+    "start_time": 27130,
+    "text": "held two student run forums."
+  },
+  {
+    "end_time": 31689,
+    "index": 12,
+    "start_time": 29200,
+    "text": "One in New York\nand one in Hawaii."
+  },
+  {
+    "end_time": 34060,
+    "index": 13,
+    "start_time": 31690,
+    "text": "During these events, they\ngive technical presentations"
+  },
+  {
+    "end_time": 35890,
+    "index": 14,
+    "start_time": 34060,
+    "text": "of their work and research."
+  },
+  {
+    "end_time": 38920,
+    "index": 15,
+    "start_time": 35890,
+    "text": "Student ambassador Pallab\nPaul of Rutgers University"
+  },
+  {
+    "end_time": 41410,
+    "index": 16,
+    "start_time": 38920,
+    "text": "showcased his early innovation\nproject at the forum"
+  },
+  {
+    "end_time": 42480,
+    "index": 17,
+    "start_time": 41410,
+    "text": "in New York."
+  },
+  {
+    "end_time": 44589,
+    "index": 18,
+    "start_time": 42480,
+    "text": "Pallab and his team\nare working on an app"
+  },
+  {
+    "end_time": 46480,
+    "index": 19,
+    "start_time": 44590,
+    "text": "that men can use to\nfind the right hair"
+  },
+  {
+    "end_time": 49870,
+    "index": 20,
+    "start_time": 46480,
+    "text": "and facial hairstyles\nbased on their face shape."
+  },
+  {
+    "end_time": 54220,
+    "index": 21,
+    "start_time": 49870,
+    "text": "He used Intel&#39;s OpenCV library,\nHaar Cascades classifiers,"
+  },
+  {
+    "end_time": 57670,
+    "index": 22,
+    "start_time": 54220,
+    "text": "and Intel optimized\nTensorFlow, Java, and Python"
+  },
+  {
+    "end_time": 60550,
+    "index": 23,
+    "start_time": 57670,
+    "text": "on Intel Xeon Phi cluster\nto create a neural network"
+  },
+  {
+    "end_time": 63519,
+    "index": 24,
+    "start_time": 60550,
+    "text": "to train their data set\nto give accurate results."
+  },
+  {
+    "end_time": 66940,
+    "index": 25,
+    "start_time": 63520,
+    "text": "At the forum in Hawaii, multiple\nuniversities and hundreds"
+  },
+  {
+    "end_time": 69280,
+    "index": 26,
+    "start_time": 66940,
+    "text": "of people attended to\ncollaborate on projects,"
+  },
+  {
+    "end_time": 71440,
+    "index": 27,
+    "start_time": 69280,
+    "text": "discuss industry\ntrends, and learn"
+  },
+  {
+    "end_time": 74410,
+    "index": 28,
+    "start_time": 71440,
+    "text": "what to expect in the\nnext generation of AI."
+  },
+  {
+    "end_time": 75850,
+    "index": 29,
+    "start_time": 74410,
+    "text": "Check out the Intel\nDeveloper Mesh"
+  },
+  {
+    "end_time": 78009,
+    "index": 30,
+    "start_time": 75850,
+    "text": "to learn more about\nthe student projects."
+  },
+  {
+    "end_time": 82430,
+    "index": 31,
+    "start_time": 78010,
+    "text": "Next, Microsoft has selected\nIntel Stratix 10 FPGAs"
+  },
+  {
+    "end_time": 85990,
+    "index": 32,
+    "start_time": 82430,
+    "text": "as a key hardware accelerator in\nits new deep learning platform,"
+  },
+  {
+    "end_time": 87940,
+    "index": 33,
+    "start_time": 85990,
+    "text": "codenamed Project Brainwave."
+  },
+  {
+    "end_time": 89920,
+    "index": 34,
+    "start_time": 87940,
+    "text": "Today, systems\nare often required"
+  },
+  {
+    "end_time": 92650,
+    "index": 35,
+    "start_time": 89920,
+    "text": "to process live data\nstreams like video"
+  },
+  {
+    "end_time": 95610,
+    "index": 36,
+    "start_time": 92650,
+    "text": "and rapidly deliver\nthe data back to users."
+  },
+  {
+    "end_time": 98610,
+    "index": 37,
+    "start_time": 95610,
+    "text": "The Project Brainwave is capable\nof delivering this real time"
+  },
+  {
+    "end_time": 101860,
+    "index": 38,
+    "start_time": 98610,
+    "text": "AI, and with the help of\nIntel&#39;s AI technologies,"
+  },
+  {
+    "end_time": 104230,
+    "index": 39,
+    "start_time": 101860,
+    "text": "will allow cloud\ninfrastructure to process"
+  },
+  {
+    "end_time": 106990,
+    "index": 40,
+    "start_time": 104230,
+    "text": "and transmit data as\nfast as it comes in."
+  },
+  {
+    "end_time": 110170,
+    "index": 41,
+    "start_time": 106990,
+    "text": "The Intel MobileODT Cervical\nCancer Screening Kaggle"
+  },
+  {
+    "end_time": 113380,
+    "index": 42,
+    "start_time": 110170,
+    "text": "competition is done and the\nwinner was just announced."
+  },
+  {
+    "end_time": 115390,
+    "index": 43,
+    "start_time": 113380,
+    "text": "This competition\nchallenged participants"
+  },
+  {
+    "end_time": 118390,
+    "index": 44,
+    "start_time": 115390,
+    "text": "to use AI to develop an\nalgorithm that accurately"
+  },
+  {
+    "end_time": 120400,
+    "index": 45,
+    "start_time": 118390,
+    "text": "identifies cervix types."
+  },
+  {
+    "end_time": 122530,
+    "index": 46,
+    "start_time": 120400,
+    "text": "This can help prevent\nineffectual treatments"
+  },
+  {
+    "end_time": 124330,
+    "index": 47,
+    "start_time": 122530,
+    "text": "and allow health care\nproviders to offer"
+  },
+  {
+    "end_time": 126610,
+    "index": 48,
+    "start_time": 124330,
+    "text": "correct referrals\nfor cases requiring"
+  },
+  {
+    "end_time": 128050,
+    "index": 49,
+    "start_time": 126610,
+    "text": "more advanced treatment."
+  },
+  {
+    "end_time": 129729,
+    "index": 50,
+    "start_time": 128050,
+    "text": "Thank you to all\nwho participated"
+  },
+  {
+    "end_time": 131800,
+    "index": 51,
+    "start_time": 129729,
+    "text": "and congratulations\nto all the winners."
+  },
+  {
+    "end_time": 134260,
+    "index": 52,
+    "start_time": 131800,
+    "text": "Don&#39;t forget to like this video\nand subscribe to the Intel"
+  },
+  {
+    "end_time": 136030,
+    "index": 53,
+    "start_time": 134260,
+    "text": "Software YouTube\nchannel and follow"
+  },
+  {
+    "end_time": 138970,
+    "index": 54,
+    "start_time": 136030,
+    "text": "the links provided to learn\nmore about what&#39;s new in AI."
+  },
+  {
+    "end_time": 141420,
+    "index": 55,
+    "start_time": 138970,
+    "text": "[INTEL JINGLE]"
+  }
+]

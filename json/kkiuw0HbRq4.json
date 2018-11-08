@@ -1,0 +1,716 @@
+[
+  {
+    "end_time": 3040,
+    "index": 1,
+    "start_time": 170,
+    "text": "[MUSIC]"
+  },
+  {
+    "end_time": 4930,
+    "index": 2,
+    "start_time": 3040,
+    "text": "This episode is supported by Prudential"
+  },
+  {
+    "end_time": 9200,
+    "index": 3,
+    "start_time": 5320,
+    "text": "[MUSIC]"
+  },
+  {
+    "end_time": 15040,
+    "index": 4,
+    "start_time": 9220,
+    "text": "With more than 7 billion people on Earth and\none car for every six of us, traffic is bad"
+  },
+  {
+    "end_time": 17130,
+    "index": 5,
+    "start_time": 15050,
+    "text": "just about everywhere."
+  },
+  {
+    "end_time": 18939,
+    "index": 6,
+    "start_time": 17130,
+    "text": "[HONKING]"
+  },
+  {
+    "end_time": 21160,
+    "index": 7,
+    "start_time": 18940,
+    "text": "Last year, American drivers wasted nearly"
+  },
+  {
+    "end_time": 25010,
+    "index": 8,
+    "start_time": 21160,
+    "text": "a million collective years staring at each\nother\u2019s tail-lights."
+  },
+  {
+    "end_time": 30529,
+    "index": 9,
+    "start_time": 25010,
+    "text": "The average driver in London has it the worst,\nspending more than four days a year in gridlock."
+  },
+  {
+    "end_time": 32630,
+    "index": 10,
+    "start_time": 30529,
+    "text": "&quot;There&#39;s Big Ben, kids! Parliament!&quot;"
+  },
+  {
+    "end_time": 38519,
+    "index": 11,
+    "start_time": 33630,
+    "text": "But Earth is home to another great commuter,\nwhose populations number in the trillions,"
+  },
+  {
+    "end_time": 40489,
+    "index": 12,
+    "start_time": 38519,
+    "text": "and they don\u2019t get stuck in traffic."
+  },
+  {
+    "end_time": 43409,
+    "index": 13,
+    "start_time": 40489,
+    "text": "An army ant\u2019s day is a lot like ours."
+  },
+  {
+    "end_time": 47190,
+    "index": 14,
+    "start_time": 43409,
+    "text": "Set off in the morning alongside thousands\nof our neighbors, moving out and back in neat"
+  },
+  {
+    "end_time": 49358,
+    "index": 15,
+    "start_time": 47190,
+    "text": "little lines so we can provide for our brood\u2026"
+  },
+  {
+    "end_time": 51239,
+    "index": 16,
+    "start_time": 49359,
+    "text": "I mean family."
+  },
+  {
+    "end_time": 56019,
+    "index": 17,
+    "start_time": 51239,
+    "text": "Crowding, bottlenecks, slowpokes, ants face\nthe same traffic challenges we do."
+  },
+  {
+    "end_time": 60510,
+    "index": 18,
+    "start_time": 56019,
+    "text": "But they don\u2019t get in traffic jams, which\nis why scientists are looking to them for"
+  },
+  {
+    "end_time": 62299,
+    "index": 19,
+    "start_time": 60510,
+    "text": "solutions to human traffic."
+  },
+  {
+    "end_time": 67631,
+    "index": 20,
+    "start_time": 62299,
+    "text": "In a perfect world cars could pack in bumper\nto bumper and drive at that magic speed, but"
+  },
+  {
+    "end_time": 69180,
+    "index": 21,
+    "start_time": 67631,
+    "text": "we\u2019re not perfect."
+  },
+  {
+    "end_time": 75090,
+    "index": 22,
+    "start_time": 69180,
+    "text": "One wrong tap on the gas or brakes, and OH\nCOME ON!"
+  },
+  {
+    "end_time": 76140,
+    "index": 23,
+    "start_time": 75090,
+    "text": "GET MOVING!"
+  },
+  {
+    "end_time": 81210,
+    "index": 24,
+    "start_time": 76140,
+    "text": "When speed and density hit a tipping point,\njams are inevitable."
+  },
+  {
+    "end_time": 85720,
+    "index": 25,
+    "start_time": 81210,
+    "text": "Yet in the ant world, traffic jams don\u2019t\nhappen, even when things get crowded."
+  },
+  {
+    "end_time": 89590,
+    "index": 26,
+    "start_time": 85720,
+    "text": "The easiest solution to an overcrowded road\nis to make it bigger."
+  },
+  {
+    "end_time": 92790,
+    "index": 27,
+    "start_time": 89590,
+    "text": "But ants can\u2019t just cut trails as wide as\nthey want."
+  },
+  {
+    "end_time": 98229,
+    "index": 28,
+    "start_time": 92790,
+    "text": "Wider roads take time and energy to maintain,\nand the pheromones that mark them become weaker."
+  },
+  {
+    "end_time": 99929,
+    "index": 29,
+    "start_time": 98229,
+    "text": "Instead, ants get organized."
+  },
+  {
+    "end_time": 103340,
+    "index": 30,
+    "start_time": 99929,
+    "text": "It might not look like it, but there\u2019s lanes\nhere."
+  },
+  {
+    "end_time": 107909,
+    "index": 31,
+    "start_time": 103340,
+    "text": "Ants headed back to the colony loaded up with\nfood use the center lane, while outbound ants"
+  },
+  {
+    "end_time": 108930,
+    "index": 32,
+    "start_time": 107909,
+    "text": "stay to the edges."
+  },
+  {
+    "end_time": 112439,
+    "index": 33,
+    "start_time": 108930,
+    "text": "Why three lanes and not two, like our roads?"
+  },
+  {
+    "end_time": 115699,
+    "index": 34,
+    "start_time": 112439,
+    "text": "When two ants are on a collision course, eventually\none\u2019s gotta give."
+  },
+  {
+    "end_time": 120659,
+    "index": 35,
+    "start_time": 115700,
+    "text": "The loaded inbound ants are less maneuverable,\nso the empty-handed ant almost always turns"
+  },
+  {
+    "end_time": 123119,
+    "index": 36,
+    "start_time": 120659,
+    "text": "first, half the time to either side."
+  },
+  {
+    "end_time": 126929,
+    "index": 37,
+    "start_time": 123119,
+    "text": "And voila: three lanes, no crashes, no traffic\njams."
+  },
+  {
+    "end_time": 131130,
+    "index": 38,
+    "start_time": 126929,
+    "text": "If you think you\u2019re so different from an\narmy ant, pay attention next time you\u2019re"
+  },
+  {
+    "end_time": 132510,
+    "index": 39,
+    "start_time": 131130,
+    "text": "in a busy crosswalk."
+  },
+  {
+    "end_time": 138149,
+    "index": 40,
+    "start_time": 132510,
+    "text": "We naturally form similar lanes in crowds,\nmindless individuals contributing to a larger"
+  },
+  {
+    "end_time": 139150,
+    "index": 41,
+    "start_time": 138150,
+    "text": "pattern."
+  },
+  {
+    "end_time": 143510,
+    "index": 42,
+    "start_time": 139150,
+    "text": "But put us behind the wheel, and this happens."
+  },
+  {
+    "end_time": 145018,
+    "index": 43,
+    "start_time": 143510,
+    "text": "[HONKING]"
+  },
+  {
+    "end_time": 150010,
+    "index": 44,
+    "start_time": 145019,
+    "text": "There\u2019s a simple reason we hate traffic."
+  },
+  {
+    "end_time": 152179,
+    "index": 45,
+    "start_time": 150010,
+    "text": "Because we hate waiting in line."
+  },
+  {
+    "end_time": 156030,
+    "index": 46,
+    "start_time": 152180,
+    "text": "Queueing up plays weird tricks on our brains\u2019\nsense of time."
+  },
+  {
+    "end_time": 158790,
+    "index": 47,
+    "start_time": 156030,
+    "text": "Occupied time feels shorter than unoccupied\ntime."
+  },
+  {
+    "end_time": 162170,
+    "index": 48,
+    "start_time": 158790,
+    "text": "This is why people listen to the radio, or\nplay that license plate game."
+  },
+  {
+    "end_time": 165950,
+    "index": 49,
+    "start_time": 162170,
+    "text": "And it\u2019s the same reason supermarkets put\nmagazines in the checkout lines."
+  },
+  {
+    "end_time": 170179,
+    "index": 50,
+    "start_time": 165950,
+    "text": "Ever been late for a big meeting and felt\nlike the universe is standing in your way?"
+  },
+  {
+    "end_time": 172989,
+    "index": 51,
+    "start_time": 170180,
+    "text": "Anxiety makes waits seem longer."
+  },
+  {
+    "end_time": 175959,
+    "index": 52,
+    "start_time": 172989,
+    "text": "Ever been in a traffic jam with no obvious\ncause?"
+  },
+  {
+    "end_time": 177319,
+    "index": 53,
+    "start_time": 175959,
+    "text": "The worst."
+  },
+  {
+    "end_time": 182010,
+    "index": 54,
+    "start_time": 177319,
+    "text": "Uncertain or unexplained waits are longer\nthan known or explained waits."
+  },
+  {
+    "end_time": 186609,
+    "index": 55,
+    "start_time": 182010,
+    "text": "But traffic engineers have learned that simple\ninformation signs can change how we experience"
+  },
+  {
+    "end_time": 187610,
+    "index": 56,
+    "start_time": 186610,
+    "text": "delays."
+  },
+  {
+    "end_time": 190220,
+    "index": 57,
+    "start_time": 187610,
+    "text": "But more than anything else, we hate unfair\nwaits."
+  },
+  {
+    "end_time": 195950,
+    "index": 58,
+    "start_time": 190220,
+    "text": "You see a sign that says \u201clane closed ahead\u201d,\nso you get over with plenty of time to spare,"
+  },
+  {
+    "end_time": 199720,
+    "index": 59,
+    "start_time": 195950,
+    "text": "only to see some jerk zip past you and get\nover at the last second."
+  },
+  {
+    "end_time": 204019,
+    "index": 60,
+    "start_time": 199720,
+    "text": "What\u2026 you can\u2019t wait like the rest of\nus, Mr. Hurrypants?"
+  },
+  {
+    "end_time": 205409,
+    "index": 61,
+    "start_time": 204019,
+    "text": "Quick side note."
+  },
+  {
+    "end_time": 207429,
+    "index": 62,
+    "start_time": 205409,
+    "text": "Gonna let you in on a little secret."
+  },
+  {
+    "end_time": 210599,
+    "index": 63,
+    "start_time": 207430,
+    "text": "Traffic researchers have found that late merging\nis actually better."
+  },
+  {
+    "end_time": 214709,
+    "index": 64,
+    "start_time": 210599,
+    "text": "If everyone drives up to the bottleneck and\ngoes one-by-one like a zipper, traffic moves"
+  },
+  {
+    "end_time": 216230,
+    "index": 65,
+    "start_time": 214709,
+    "text": "up to 15% faster."
+  },
+  {
+    "end_time": 220369,
+    "index": 66,
+    "start_time": 216230,
+    "text": "We use both lanes at max capacity, no one\ngets cheated, everyone wins!"
+  },
+  {
+    "end_time": 222490,
+    "index": 67,
+    "start_time": 220370,
+    "text": "The more you know."
+  },
+  {
+    "end_time": 224120,
+    "index": 68,
+    "start_time": 222490,
+    "text": "And where were we?"
+  },
+  {
+    "end_time": 225120,
+    "index": 69,
+    "start_time": 224120,
+    "text": "Oh yeah."
+  },
+  {
+    "end_time": 229069,
+    "index": 70,
+    "start_time": 225120,
+    "text": "Our innate sense of \u201cwhat\u2019s fair\u201d leads\nto the biggest psychological illusion that"
+  },
+  {
+    "end_time": 231260,
+    "index": 71,
+    "start_time": 229069,
+    "text": "we experience on the road."
+  },
+  {
+    "end_time": 235040,
+    "index": 72,
+    "start_time": 231260,
+    "text": "Why does traffic always move faster in the\nother lane?"
+  },
+  {
+    "end_time": 236959,
+    "index": 73,
+    "start_time": 235040,
+    "text": "Well, spoilers first: It doesn\u2019t."
+  },
+  {
+    "end_time": 241830,
+    "index": 74,
+    "start_time": 236959,
+    "text": "Let\u2019s say two cars enter your standard stop-and-go\ntraffic jam side by side."
+  },
+  {
+    "end_time": 246050,
+    "index": 75,
+    "start_time": 241830,
+    "text": "Let\u2019s count the time each one spends passing\nversus getting passed."
+  },
+  {
+    "end_time": 250930,
+    "index": 76,
+    "start_time": 246050,
+    "text": "One driver zips past a few cars in the other\nlane, only to stop and wait and watch other"
+  },
+  {
+    "end_time": 252560,
+    "index": 77,
+    "start_time": 250930,
+    "text": "cars pass."
+  },
+  {
+    "end_time": 254370,
+    "index": 78,
+    "start_time": 252560,
+    "text": "And then go!"
+  },
+  {
+    "end_time": 256079,
+    "index": 79,
+    "start_time": 254370,
+    "text": "WOO HOO!"
+  },
+  {
+    "end_time": 258640,
+    "index": 80,
+    "start_time": 256079,
+    "text": "And then wait."
+  },
+  {
+    "end_time": 263849,
+    "index": 81,
+    "start_time": 258640,
+    "text": "Even if the two cars cross some invisible\nfinish line together, the same way they started,"
+  },
+  {
+    "end_time": 270070,
+    "index": 82,
+    "start_time": 263850,
+    "text": "each driver will feel like they spent more\ntime being passed than passing, because they"
+  },
+  {
+    "end_time": 271070,
+    "index": 83,
+    "start_time": 270070,
+    "text": "did."
+  },
+  {
+    "end_time": 273990,
+    "index": 84,
+    "start_time": 271070,
+    "text": "Our brains pay more attention to the losses\nthan the gains."
+  },
+  {
+    "end_time": 278250,
+    "index": 85,
+    "start_time": 273990,
+    "text": "All of this points to the real problem with\ntraffic."
+  },
+  {
+    "end_time": 279750,
+    "index": 86,
+    "start_time": 278250,
+    "text": "Our ego."
+  },
+  {
+    "end_time": 284130,
+    "index": 87,
+    "start_time": 279750,
+    "text": "Human drivers care about minimizing their\ntravel time and don\u2019t give two honks about"
+  },
+  {
+    "end_time": 286060,
+    "index": 88,
+    "start_time": 284130,
+    "text": "what other drivers want."
+  },
+  {
+    "end_time": 290760,
+    "index": 89,
+    "start_time": 286060,
+    "text": "Driving slower may be faster for everyone\nelse, but it\u2019s not faster for me!"
+  },
+  {
+    "end_time": 296130,
+    "index": 90,
+    "start_time": 290760,
+    "text": "I don\u2019t care if we all get where we\u2019re\ngoing at the same time, I don\u2019t like being"
+  },
+  {
+    "end_time": 297130,
+    "index": 91,
+    "start_time": 296130,
+    "text": "passed!"
+  },
+  {
+    "end_time": 301171,
+    "index": 92,
+    "start_time": 297130,
+    "text": "When leaf-cutter ants get stuck on a twig\nbehind a heavily-loaded slowpoke, do they"
+  },
+  {
+    "end_time": 303590,
+    "index": 93,
+    "start_time": 301171,
+    "text": "honk and yell bad ant words?"
+  },
+  {
+    "end_time": 304590,
+    "index": 94,
+    "start_time": 303590,
+    "text": "No!"
+  },
+  {
+    "end_time": 308909,
+    "index": 95,
+    "start_time": 304590,
+    "text": "They simply slow down and march behind the\nant returning with the goods, because that\u2019s"
+  },
+  {
+    "end_time": 310640,
+    "index": 96,
+    "start_time": 308910,
+    "text": "what\u2019s best for the group."
+  },
+  {
+    "end_time": 315560,
+    "index": 97,
+    "start_time": 310640,
+    "text": "Worker ants are all related and working toward\nthe same goal, the good of the colony."
+  },
+  {
+    "end_time": 320720,
+    "index": 98,
+    "start_time": 315560,
+    "text": "That\u2019s the cooperative genetic programming\nthat underlies their awesome traffic systems."
+  },
+  {
+    "end_time": 326140,
+    "index": 99,
+    "start_time": 320720,
+    "text": "The fact that we have big, complicated brains\nis the very reason that we get stuck in traffic"
+  },
+  {
+    "end_time": 327810,
+    "index": 100,
+    "start_time": 326140,
+    "text": "and ants don\u2019t."
+  },
+  {
+    "end_time": 333780,
+    "index": 101,
+    "start_time": 327810,
+    "text": "We think of traffic as something that happens\nto us rather than admitting we are the problem."
+  },
+  {
+    "end_time": 336380,
+    "index": 102,
+    "start_time": 333780,
+    "text": "Ants are essentially tiny machines with simple\nprogramming."
+  },
+  {
+    "end_time": 340620,
+    "index": 103,
+    "start_time": 336380,
+    "text": "Put them on a trail with a few rules, allow\nindividuals to communicate and interact with"
+  },
+  {
+    "end_time": 346310,
+    "index": 104,
+    "start_time": 340620,
+    "text": "each other, and voila, you\u2019ve got complex\ntraffic networks running at near-maximum efficiency."
+  },
+  {
+    "end_time": 347310,
+    "index": 105,
+    "start_time": 346310,
+    "text": "Sound familiar?"
+  },
+  {
+    "end_time": 348310,
+    "index": 106,
+    "start_time": 347310,
+    "text": "It should!"
+  },
+  {
+    "end_time": 352640,
+    "index": 107,
+    "start_time": 348310,
+    "text": "That\u2019s basically what we\u2019ll get when we\nstop letting our egos drive and put traffic"
+  },
+  {
+    "end_time": 357650,
+    "index": 108,
+    "start_time": 352640,
+    "text": "in the hands of a network of self-driving\ncars optimized to serve the collective good."
+  },
+  {
+    "end_time": 362190,
+    "index": 109,
+    "start_time": 357650,
+    "text": "Sure, sentient machines may enslave humanity,\nbut at least they\u2019ll cut down on our commute!"
+  },
+  {
+    "end_time": 365400,
+    "index": 110,
+    "start_time": 362190,
+    "text": "But that\u2019s a video for another day."
+  },
+  {
+    "end_time": 366549,
+    "index": 111,
+    "start_time": 365400,
+    "text": "Stay curious."
+  },
+  {
+    "end_time": 369660,
+    "index": 112,
+    "start_time": 366550,
+    "text": "Thanks to Prudential for sponsoring this episode."
+  },
+  {
+    "end_time": 373720,
+    "index": 113,
+    "start_time": 369660,
+    "text": "Saving a little more today, even just one\npercent more of your annual income, can go"
+  },
+  {
+    "end_time": 377710,
+    "index": 114,
+    "start_time": 373720,
+    "text": "a long way toward building a better retirement\ntomorrow."
+  },
+  {
+    "end_time": 378930,
+    "index": 115,
+    "start_time": 377710,
+    "text": "Let&#39;s do a math equation."
+  },
+  {
+    "end_time": 384500,
+    "index": 116,
+    "start_time": 378930,
+    "text": "Say a 25 year-old that earns $40,000 a year\nis planning on retiring at 70. if they save"
+  },
+  {
+    "end_time": 390600,
+    "index": 117,
+    "start_time": 384500,
+    "text": "an additional 1% of their salary by deducting\n$33 from their monthly paycheck and earn 6%"
+  },
+  {
+    "end_time": 398880,
+    "index": 118,
+    "start_time": 390600,
+    "text": "compounding interest, they could increase\ntheir retirement savings by about $97,944."
+  },
+  {
+    "end_time": 402200,
+    "index": 119,
+    "start_time": 398880,
+    "text": "You can go to RaceForRetirement.com for more\ninformation."
+  }
+]

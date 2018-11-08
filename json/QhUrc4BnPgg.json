@@ -1,0 +1,716 @@
+[
+  {
+    "end_time": 7000,
+    "index": 1,
+    "start_time": 0,
+    "text": "Translator: Andrea McDonough\nReviewer: Jessica Ruby"
+  },
+  {
+    "end_time": 15924,
+    "index": 2,
+    "start_time": 13663,
+    "text": "Olive oil is 100% fat;"
+  },
+  {
+    "end_time": 16964,
+    "index": 3,
+    "start_time": 15924,
+    "text": "there&#39;s nothing else in it."
+  },
+  {
+    "end_time": 18232,
+    "index": 4,
+    "start_time": 16964,
+    "text": "Pancake mix, on the other hand,"
+  },
+  {
+    "end_time": 20489,
+    "index": 5,
+    "start_time": 18232,
+    "text": "is only about 11% fat."
+  },
+  {
+    "end_time": 22761,
+    "index": 6,
+    "start_time": 20489,
+    "text": "And, yet, olive oil is good for you,"
+  },
+  {
+    "end_time": 24930,
+    "index": 7,
+    "start_time": 22761,
+    "text": "and pancake mix is not."
+  },
+  {
+    "end_time": 26312,
+    "index": 8,
+    "start_time": 24931,
+    "text": "Why is that?"
+  },
+  {
+    "end_time": 28477,
+    "index": 9,
+    "start_time": 27511,
+    "text": "As it turns out,"
+  },
+  {
+    "end_time": 29889,
+    "index": 10,
+    "start_time": 28478,
+    "text": "the amount of fat we eat"
+  },
+  {
+    "end_time": 30931,
+    "index": 11,
+    "start_time": 29889,
+    "text": "doesn&#39;t impact our weight"
+  },
+  {
+    "end_time": 31858,
+    "index": 12,
+    "start_time": 30931,
+    "text": "or our cholesterol"
+  },
+  {
+    "end_time": 33064,
+    "index": 13,
+    "start_time": 31858,
+    "text": "or our risk of heart disease"
+  },
+  {
+    "end_time": 35924,
+    "index": 14,
+    "start_time": 33064,
+    "text": "nearly as much as what kind of fat we eat."
+  },
+  {
+    "end_time": 37123,
+    "index": 15,
+    "start_time": 35924,
+    "text": "But let&#39;s back up:"
+  },
+  {
+    "end_time": 39346,
+    "index": 16,
+    "start_time": 37123,
+    "text": "What is fat?"
+  },
+  {
+    "end_time": 40925,
+    "index": 17,
+    "start_time": 39347,
+    "text": "If we were to zoom in on a salmon,"
+  },
+  {
+    "end_time": 42003,
+    "index": 18,
+    "start_time": 40925,
+    "text": "which is a fatty fish,"
+  },
+  {
+    "end_time": 42823,
+    "index": 19,
+    "start_time": 42003,
+    "text": "past the organs,"
+  },
+  {
+    "end_time": 43613,
+    "index": 20,
+    "start_time": 42823,
+    "text": "past the tissues,"
+  },
+  {
+    "end_time": 45329,
+    "index": 21,
+    "start_time": 43613,
+    "text": "into the cells,"
+  },
+  {
+    "end_time": 47421,
+    "index": 22,
+    "start_time": 45329,
+    "text": "we would see that the stuff we call fat"
+  },
+  {
+    "end_time": 50626,
+    "index": 23,
+    "start_time": 47421,
+    "text": "is actually made up of molecules called triglycerides,"
+  },
+  {
+    "end_time": 52544,
+    "index": 24,
+    "start_time": 50626,
+    "text": "and they are not all alike."
+  },
+  {
+    "end_time": 53629,
+    "index": 25,
+    "start_time": 52545,
+    "text": "Here&#39;s one example."
+  },
+  {
+    "end_time": 55730,
+    "index": 26,
+    "start_time": 53629,
+    "text": "Those three carbons on the left, that&#39;s glycerol."
+  },
+  {
+    "end_time": 57262,
+    "index": 27,
+    "start_time": 55730,
+    "text": "Now, you can think of that as the backbone"
+  },
+  {
+    "end_time": 59635,
+    "index": 28,
+    "start_time": 57262,
+    "text": "that holds the rest of the molecule together."
+  },
+  {
+    "end_time": 60928,
+    "index": 29,
+    "start_time": 59635,
+    "text": "The three long chains on the right"
+  },
+  {
+    "end_time": 62379,
+    "index": 30,
+    "start_time": 60929,
+    "text": "are called fatty acids,"
+  },
+  {
+    "end_time": 65272,
+    "index": 31,
+    "start_time": 62379,
+    "text": "and it&#39;s subtle differences in the structures of these chains"
+  },
+  {
+    "end_time": 66783,
+    "index": 32,
+    "start_time": 65272,
+    "text": "that determine whether a fat is,"
+  },
+  {
+    "end_time": 68938,
+    "index": 33,
+    "start_time": 66783,
+    "text": "let&#39;s say, solid or liquid;"
+  },
+  {
+    "end_time": 71143,
+    "index": 34,
+    "start_time": 68938,
+    "text": "whether or not it goes rancid quickly;"
+  },
+  {
+    "end_time": 75236,
+    "index": 35,
+    "start_time": 71143,
+    "text": "and, most importantly, how good or how bad it is for you."
+  },
+  {
+    "end_time": 77024,
+    "index": 36,
+    "start_time": 75236,
+    "text": "Let&#39;s take a look at some of these differences."
+  },
+  {
+    "end_time": 78075,
+    "index": 37,
+    "start_time": 77024,
+    "text": "One is length."
+  },
+  {
+    "end_time": 80160,
+    "index": 38,
+    "start_time": 78075,
+    "text": "Fatty acids can be short or long."
+  },
+  {
+    "end_time": 81414,
+    "index": 39,
+    "start_time": 80160,
+    "text": "Another, more important difference"
+  },
+  {
+    "end_time": 84280,
+    "index": 40,
+    "start_time": 81414,
+    "text": "is the type of bond between the carbon atoms."
+  },
+  {
+    "end_time": 86914,
+    "index": 41,
+    "start_time": 84280,
+    "text": "Some fatty acids have only single bonds."
+  },
+  {
+    "end_time": 89831,
+    "index": 42,
+    "start_time": 86914,
+    "text": "Others have both single and double bonds."
+  },
+  {
+    "end_time": 91354,
+    "index": 43,
+    "start_time": 89831,
+    "text": "Fatty acids with only single bonds"
+  },
+  {
+    "end_time": 92834,
+    "index": 44,
+    "start_time": 91354,
+    "text": "are called saturated,"
+  },
+  {
+    "end_time": 94619,
+    "index": 45,
+    "start_time": 92834,
+    "text": "and those with one or more double bonds"
+  },
+  {
+    "end_time": 96667,
+    "index": 46,
+    "start_time": 94619,
+    "text": "are called unsaturated."
+  },
+  {
+    "end_time": 99256,
+    "index": 47,
+    "start_time": 96667,
+    "text": "Now, most unsaturated fats are good for you,"
+  },
+  {
+    "end_time": 102090,
+    "index": 48,
+    "start_time": 99256,
+    "text": "while saturated fats are bad for you in excess."
+  },
+  {
+    "end_time": 104713,
+    "index": 49,
+    "start_time": 102090,
+    "text": "For saturated fats, the story pretty much ends there"
+  },
+  {
+    "end_time": 107119,
+    "index": 50,
+    "start_time": 104713,
+    "text": "but not for unsaturated fats."
+  },
+  {
+    "end_time": 108831,
+    "index": 51,
+    "start_time": 107120,
+    "text": "The double bonds in these molecules"
+  },
+  {
+    "end_time": 110515,
+    "index": 52,
+    "start_time": 108831,
+    "text": "have a kind of weird property;"
+  },
+  {
+    "end_time": 112139,
+    "index": 53,
+    "start_time": 110515,
+    "text": "they&#39;re rigid."
+  },
+  {
+    "end_time": 114062,
+    "index": 54,
+    "start_time": 112139,
+    "text": "So, that means there are two ways"
+  },
+  {
+    "end_time": 115883,
+    "index": 55,
+    "start_time": 114062,
+    "text": "to arrange every double bond."
+  },
+  {
+    "end_time": 117005,
+    "index": 56,
+    "start_time": 115883,
+    "text": "The first is like this,"
+  },
+  {
+    "end_time": 118902,
+    "index": 57,
+    "start_time": 117005,
+    "text": "where both hydrogens are on same side"
+  },
+  {
+    "end_time": 120824,
+    "index": 58,
+    "start_time": 118902,
+    "text": "and both carbons are on the same side."
+  },
+  {
+    "end_time": 122648,
+    "index": 59,
+    "start_time": 120824,
+    "text": "The second way is like this."
+  },
+  {
+    "end_time": 124193,
+    "index": 60,
+    "start_time": 122648,
+    "text": "Now the hydrogens and carbons"
+  },
+  {
+    "end_time": 126718,
+    "index": 61,
+    "start_time": 124193,
+    "text": "are on opposite sides of the double bond."
+  },
+  {
+    "end_time": 128326,
+    "index": 62,
+    "start_time": 126718,
+    "text": "Now, even though both of these molecules"
+  },
+  {
+    "end_time": 130826,
+    "index": 63,
+    "start_time": 128326,
+    "text": "are made up of exactly the same building blocks,"
+  },
+  {
+    "end_time": 133329,
+    "index": 64,
+    "start_time": 130826,
+    "text": "they are two completely different substances,"
+  },
+  {
+    "end_time": 136468,
+    "index": 65,
+    "start_time": 133329,
+    "text": "and they behave completely differently inside of us."
+  },
+  {
+    "end_time": 138971,
+    "index": 66,
+    "start_time": 136468,
+    "text": "The configuration on the left is called CIS,"
+  },
+  {
+    "end_time": 140376,
+    "index": 67,
+    "start_time": 138972,
+    "text": "which you&#39;ve probably never heard of."
+  },
+  {
+    "end_time": 142084,
+    "index": 68,
+    "start_time": 140376,
+    "text": "The one of the right is called TRANS,"
+  },
+  {
+    "end_time": 144713,
+    "index": 69,
+    "start_time": 142084,
+    "text": "and you probably have heard of trans fats before."
+  },
+  {
+    "end_time": 145882,
+    "index": 70,
+    "start_time": 144713,
+    "text": "They don&#39;t go rancid,"
+  },
+  {
+    "end_time": 147843,
+    "index": 71,
+    "start_time": 145883,
+    "text": "they&#39;re more stable during deep frying,"
+  },
+  {
+    "end_time": 149816,
+    "index": 72,
+    "start_time": 147843,
+    "text": "and they can change the texture of foods"
+  },
+  {
+    "end_time": 151806,
+    "index": 73,
+    "start_time": 149817,
+    "text": "in ways that other fats just can&#39;t."
+  },
+  {
+    "end_time": 154097,
+    "index": 74,
+    "start_time": 151806,
+    "text": "They&#39;re also terrible for your health,"
+  },
+  {
+    "end_time": 155974,
+    "index": 75,
+    "start_time": 154097,
+    "text": "by far worse than saturated fat,"
+  },
+  {
+    "end_time": 158018,
+    "index": 76,
+    "start_time": 155974,
+    "text": "even though technically they&#39;re a type"
+  },
+  {
+    "end_time": 159978,
+    "index": 77,
+    "start_time": 158019,
+    "text": "of unsaturated fat."
+  },
+  {
+    "end_time": 161321,
+    "index": 78,
+    "start_time": 159978,
+    "text": "Now, I know that seems crazy,"
+  },
+  {
+    "end_time": 162517,
+    "index": 79,
+    "start_time": 161321,
+    "text": "but your body doesn&#39;t care"
+  },
+  {
+    "end_time": 164656,
+    "index": 80,
+    "start_time": 162517,
+    "text": "what a molecule looks like on paper."
+  },
+  {
+    "end_time": 166575,
+    "index": 81,
+    "start_time": 164656,
+    "text": "All that matters is the 3-D shape"
+  },
+  {
+    "end_time": 167694,
+    "index": 82,
+    "start_time": 166575,
+    "text": "where the molecule fits,"
+  },
+  {
+    "end_time": 168405,
+    "index": 83,
+    "start_time": 167694,
+    "text": "where it doesn&#39;t,"
+  },
+  {
+    "end_time": 170990,
+    "index": 84,
+    "start_time": 168406,
+    "text": "and what pathways it interferes with."
+  },
+  {
+    "end_time": 171950,
+    "index": 85,
+    "start_time": 170990,
+    "text": "So, how do you know if a food"
+  },
+  {
+    "end_time": 173827,
+    "index": 86,
+    "start_time": 171950,
+    "text": "has trans fat in it?"
+  },
+  {
+    "end_time": 175012,
+    "index": 87,
+    "start_time": 173827,
+    "text": "Well, the only sure way to know"
+  },
+  {
+    "end_time": 176084,
+    "index": 88,
+    "start_time": 175012,
+    "text": "is if you see the words,"
+  },
+  {
+    "end_time": 179255,
+    "index": 89,
+    "start_time": 176084,
+    "text": "&quot;partially hydrogenated&quot; in the ingredients list."
+  },
+  {
+    "end_time": 182034,
+    "index": 90,
+    "start_time": 179255,
+    "text": "Don&#39;t let nutrition labels or advertising fool you."
+  },
+  {
+    "end_time": 184090,
+    "index": 91,
+    "start_time": 182034,
+    "text": "The FDA allows manufacturers to claim"
+  },
+  {
+    "end_time": 185759,
+    "index": 92,
+    "start_time": 184090,
+    "text": "that their products contain"
+  },
+  {
+    "end_time": 188004,
+    "index": 93,
+    "start_time": 185759,
+    "text": "&quot;0&quot; grams of trans fat"
+  },
+  {
+    "end_time": 192635,
+    "index": 94,
+    "start_time": 188004,
+    "text": "even if they actually have up to half a gram per serving."
+  },
+  {
+    "end_time": 194103,
+    "index": 95,
+    "start_time": 192635,
+    "text": "But there are no hard and fast rules"
+  },
+  {
+    "end_time": 195683,
+    "index": 96,
+    "start_time": 194104,
+    "text": "about how small a serving can be,"
+  },
+  {
+    "end_time": 198730,
+    "index": 97,
+    "start_time": 195683,
+    "text": "and, that means, you&#39;ll have to rely on seeing those key words,"
+  },
+  {
+    "end_time": 200005,
+    "index": 98,
+    "start_time": 198730,
+    "text": "partially hydrogenated,"
+  },
+  {
+    "end_time": 202858,
+    "index": 99,
+    "start_time": 200005,
+    "text": "because that&#39;s how trans fats are made,"
+  },
+  {
+    "end_time": 205776,
+    "index": 100,
+    "start_time": 202858,
+    "text": "by partially hydrogenating unsaturated fats."
+  },
+  {
+    "end_time": 208967,
+    "index": 101,
+    "start_time": 205776,
+    "text": "So, let&#39;s go back to our olive oil and pancake mix from before."
+  },
+  {
+    "end_time": 211609,
+    "index": 102,
+    "start_time": 208967,
+    "text": "Olive oil is 100% fat."
+  },
+  {
+    "end_time": 214339,
+    "index": 103,
+    "start_time": 211609,
+    "text": "Pancake mix is only 11% fat."
+  },
+  {
+    "end_time": 217205,
+    "index": 104,
+    "start_time": 214339,
+    "text": "But olive oil is mostly unsaturated fat,"
+  },
+  {
+    "end_time": 219840,
+    "index": 105,
+    "start_time": 217205,
+    "text": "and it has no trans fat at all."
+  },
+  {
+    "end_time": 222001,
+    "index": 106,
+    "start_time": 219840,
+    "text": "On the other hand, more than half the fat"
+  },
+  {
+    "end_time": 225008,
+    "index": 107,
+    "start_time": 222001,
+    "text": "in pancake mix is either saturated or trans fat."
+  },
+  {
+    "end_time": 227339,
+    "index": 108,
+    "start_time": 225008,
+    "text": "And, so, even though olive oil has 10 times"
+  },
+  {
+    "end_time": 229133,
+    "index": 109,
+    "start_time": 227339,
+    "text": "as much fat as pancake mix,"
+  },
+  {
+    "end_time": 230593,
+    "index": 110,
+    "start_time": 229133,
+    "text": "it&#39;s healthy for you,"
+  },
+  {
+    "end_time": 232386,
+    "index": 111,
+    "start_time": 230593,
+    "text": "whereas pancake mix is not."
+  },
+  {
+    "end_time": 234180,
+    "index": 112,
+    "start_time": 232386,
+    "text": "Now, I&#39;m not trying to pick on pancake mix."
+  },
+  {
+    "end_time": 235264,
+    "index": 113,
+    "start_time": 234180,
+    "text": "There are lots of foods"
+  },
+  {
+    "end_time": 237183,
+    "index": 114,
+    "start_time": 235264,
+    "text": "with this type of fat profile."
+  },
+  {
+    "end_time": 238409,
+    "index": 115,
+    "start_time": 237183,
+    "text": "The point is this:"
+  },
+  {
+    "end_time": 240102,
+    "index": 116,
+    "start_time": 238409,
+    "text": "It&#39;s not how much fat you eat,"
+  },
+  {
+    "end_time": 241795,
+    "index": 117,
+    "start_time": 240103,
+    "text": "it&#39;s what kind of fat."
+  },
+  {
+    "end_time": 244609,
+    "index": 118,
+    "start_time": 241795,
+    "text": "And what makes a particular fat healthy or unhealthy"
+  },
+  {
+    "end_time": 246611,
+    "index": 119,
+    "start_time": 244610,
+    "text": "is its shape."
+  }
+]

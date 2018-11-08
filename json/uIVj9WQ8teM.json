@@ -1,0 +1,122 @@
+[
+  {
+    "end_time": 5640,
+    "index": 1,
+    "start_time": 1370,
+    "text": " "
+  },
+  {
+    "end_time": 8649,
+    "index": 2,
+    "start_time": 5640,
+    "text": "Hi, Tim speaking"
+  },
+  {
+    "end_time": 11870,
+    "index": 3,
+    "start_time": 8650,
+    "text": "Hello Tim, this is Jesse of Hong Kong\nElectronics"
+  },
+  {
+    "end_time": 16910,
+    "index": 4,
+    "start_time": 11870,
+    "text": "Hi Jesse, how are you? Well I&#39;m a bit\ndisappointed with your latest CDR"
+  },
+  {
+    "end_time": 18189,
+    "index": 5,
+    "start_time": 16910,
+    "text": "shipment actually"
+  },
+  {
+    "end_time": 22000,
+    "index": 6,
+    "start_time": 18189,
+    "text": "We received your dispatch this morning,\nand we&#39;re not very happy with it"
+  },
+  {
+    "end_time": 25220,
+    "index": 7,
+    "start_time": 22000,
+    "text": "I&#39;m really sorry to hear that; would you mind telling me exactly what the problem is?"
+  },
+  {
+    "end_time": 25779,
+    "index": 8,
+    "start_time": 25220,
+    "text": " "
+  },
+  {
+    "end_time": 29489,
+    "index": 9,
+    "start_time": 25779,
+    "text": "Well in model A, the quantity is wrong"
+  },
+  {
+    "end_time": 32940,
+    "index": 10,
+    "start_time": 29489,
+    "text": "on model B, the pattern is wrong, on model C,"
+  },
+  {
+    "end_time": 37360,
+    "index": 11,
+    "start_time": 32940,
+    "text": "the CDs are simply not working, and on\nmodel D, you&#39;ve overcharged us!"
+  },
+  {
+    "end_time": 41100,
+    "index": 12,
+    "start_time": 37360,
+    "text": "It&#39;s really terrible andI&#39;d like to know what\nyou&#39;re going to do about it"
+  },
+  {
+    "end_time": 45500,
+    "index": 13,
+    "start_time": 41100,
+    "text": "Well it&#39;s certainly not our intention to\ndispatch the wrong goods to our customers"
+  },
+  {
+    "end_time": 49230,
+    "index": 14,
+    "start_time": 45500,
+    "text": "or to make mistakes with prices, Jesse,\nI&#39;m very sorry about this"
+  },
+  {
+    "end_time": 53230,
+    "index": 15,
+    "start_time": 49230,
+    "text": "and I&#39;ll look into this matter\nimmediately ... I hope you can fix it as"
+  },
+  {
+    "end_time": 54370,
+    "index": 16,
+    "start_time": 53230,
+    "text": "soon as possible"
+  },
+  {
+    "end_time": 58280,
+    "index": 17,
+    "start_time": 54370,
+    "text": "I assure you that we will rectify the\nsituation as quickly as we can"
+  },
+  {
+    "end_time": 62300,
+    "index": 18,
+    "start_time": 58280,
+    "text": "I&#39;ll attend to the matter personally;\ncould you please fax me the details?"
+  },
+  {
+    "end_time": 65610,
+    "index": 19,
+    "start_time": 62300,
+    "text": "Sure but, when can I expect to hear\nfrom you?"
+  },
+  {
+    "end_time": 67400,
+    "index": 20,
+    "start_time": 65610,
+    "text": "I&#39;ll get back to you by the end of the\nday"
+  }
+]
